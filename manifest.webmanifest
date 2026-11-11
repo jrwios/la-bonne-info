@@ -1,0 +1,9 @@
+{
+ "name": "LA BONNE INFO", "short_name": "LA BONNE INFO", "description": "Un journal personnel factuel, sourcé et sans sensationnalisme.",
+ "start_url": "./", "scope": "./", "display": "standalone", "display_override": ["standalone", "minimal-ui"],
+ "background_color": "#F6F5EF", "theme_color": "#515B45", "lang": "fr", "categories": ["news", "lifestyle"],
+ "icons": [
+   {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+   {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+ ]
+}

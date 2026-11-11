@@ -1,0 +1,317 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T09:00:47.756Z",
+  "status": "complète",
+  "news": {
+    "france": [
+      {
+        "id": "af7c6e628d6",
+        "title": "Cet étonnant musée du nord de la France expose un trésor longtemps oublié de la Première Guerre mondiale",
+        "link": "https://www.ouest-france.fr/leditiondusoir/2026-11-10/cet-etonnant-musee-du-nord-de-la-france-expose-un-tresor-longtemps-oublie-de-la-premiere-guerre-mondiale-c60bfa92-fcad-4485-9d15-0db26292169a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "source": "Ouest-France",
+        "lang": "fr",
+        "publishedAt": "2026-11-11T09:00:20.000Z"
+      },
+      {
+        "id": "a2e52f42f7e",
+        "title": "« Les anneaux de pouvoir » : à quoi s’attendre pour la saison 3, disponible à partir de ce mercredi sur Prime Video",
+        "link": "https://programmetv.ouest-france.fr/plateformes/amazon-prime-video/les-anneaux-de-pouvoir-a-quoi-sattendre-pour-la-saison-3-disponible-a-partir-de-ce-mercredi-sur-prime-video-e6204362-dcec-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "source": "Ouest-France",
+        "lang": "fr",
+        "publishedAt": "2026-11-11T09:00:15.000Z"
+      },
+      {
+        "id": "ae624842be0",
+        "title": "Au procès des parents de la martyre de l’A10, les «démons» d’une mère «consumée de l’intérieur»",
+        "link": "https://www.lefigaro.fr/faits-divers/au-proces-des-parents-de-la-martyre-de-l-a10-les-demons-d-une-mere-consumee-de-l-interieur-20261111",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "publishedAt": "2026-11-11T08:58:37.000Z"
+      },
+      {
+        "id": "a650c6b4f12",
+        "title": "DIRECT. Cérémonie du 11-Novembre : Emmanuel Macron rend hommage sur X \"à ceux qui ne sont jamais revenus\"",
+        "link": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/direct-ceremonie-du-11-novembre-suivez-les-commemorations-et-l-emission-speciale-de-france-2_8276093.html#xtor=RSS-3-%5Bfrance%5D",
+        "source": "franceinfo",
+        "lang": "fr",
+        "publishedAt": "2026-11-11T08:54:16.000Z"
+      },
+      {
+        "id": "aa60e168ea7",
+        "title": "Comment l’UE veut protéger les consommateurs des pièges du numérique",
+        "link": "https://www.liberation.fr/economie/economie-numerique/comment-lue-veut-proteger-les-consommateurs-des-pieges-du-numerique-20261111_XM4G65US7ZHGZOTTGOTEZYFII4/",
+        "source": "Libération",
+        "lang": "fr",
+        "publishedAt": "2026-11-11T08:27:41.000Z"
+      },
+      {
+        "id": "a851faa7c0e",
+        "title": "Conditionnement des aides aux entreprises : derrière la victoire syndicale, un décret aux effets limités",
+        "link": "https://www.liberation.fr/economie/social/conditionnement-des-aides-aux-entreprises-derriere-la-victoire-syndicale-un-decret-aux-effets-limites-20261111_YO7WG3JOOZF43CYLEP4WCCMHQE/",
+        "source": "Libération",
+        "lang": "fr",
+        "publishedAt": "2026-11-11T08:19:27.000Z"
+      },
+      {
+        "id": "a3a963ed6f5",
+        "title": "Autour de la centrale nucléaire du Blayais, deux jours pour se préparer à un scénario catastrophe",
+        "link": "https://www.lefigaro.fr/bordeaux/autour-de-la-centrale-nucleaire-du-blayais-deux-jours-pour-se-preparer-a-un-scenario-catastrophe-20261111",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "publishedAt": "2026-11-11T08:15:00.000Z"
+      },
+      {
+        "id": "af8480819f1",
+        "title": "Cyberattaques : jusqu'où peut aller l'Iran ?",
+        "link": "https://www.franceinfo.fr/monde/iran/cyberattaques-jusqu-ou-peut-aller-l-iran_8277374.html#xtor=RSS-3-%5Bfrance%5D",
+        "source": "franceinfo",
+        "lang": "fr",
+        "publishedAt": "2026-11-11T06:48:42.000Z"
+      },
+      {
+        "id": "a8a6fc89cd0",
+        "title": "Route du rhum 2026 : Corentin Horeau s’impose en Imoca, un coup de maître pour sa première participation",
+        "link": "https://www.lemonde.fr/sport/article/2026/11/11/route-du-rhum-2026-corentin-horeau-s-impose-en-imoca-un-coup-de-maitre-pour-sa-premiere-participation_6808937_3242.html",
+        "source": "Le Monde",
+        "lang": "fr",
+        "publishedAt": "2026-11-11T05:25:21.000Z"
+      },
+      {
+        "id": "a454ed8a245",
+        "title": "En Colombie, le Prix Nobel de la paix Juan Manuel Santos reproche au président d’exhiber des cadavres « avec fierté »",
+        "link": "https://www.lemonde.fr/international/article/2026/11/11/en-colombie-le-prix-nobel-de-la-paix-juan-manuel-santos-reproche-au-president-d-exhiber-des-cadavres-avec-fierte_6808936_3210.html",
+        "source": "Le Monde",
+        "lang": "fr",
+        "publishedAt": "2026-11-11T05:06:23.000Z"
+      }
+    ],
+    "monde": [
+      {
+        "id": "aadef82c376",
+        "title": "Ukraine’s Zelenskyy ‘happy’ with US envoys’ approach as Russia talks enter second day – Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
+        "source": "The Guardian (Royaume-Uni, en anglais)",
+        "lang": "en",
+        "publishedAt": "2026-11-11T08:44:46.000Z"
+      },
+      {
+        "id": "a666bfec577",
+        "title": "Carburants : les prix baissent aux États-Unis et en France, mais pour combien de temps ?",
+        "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261111-carburants-les-prix-baissent-aux-%C3%A9tats-unis-et-en-france-mais-pour-combien-de-temps",
+        "source": "France 24",
+        "lang": "fr",
+        "publishedAt": "2026-11-11T08:43:04.000Z"
+      },
+      {
+        "id": "a8df2fc1b53",
+        "title": "Putin is not ready to make peace in Abu Dhabi",
+        "link": "https://www.aljazeera.com/opinions/2026/11/11/putin-is-not-ready-to-make-peace-in-abu-dhabi?traffic_source=rss",
+        "source": "Al Jazeera (Qatar, en anglais)",
+        "lang": "en",
+        "publishedAt": "2026-11-11T08:37:31.000Z"
+      },
+      {
+        "id": "a89b8e48fdd",
+        "title": "How AI worsens online violence against Middle East women",
+        "link": "https://www.dw.com/en/how-ai-worsens-online-violence-against-middle-east-women/a-79912634?maca=en-rss-en-world-4025-rdf",
+        "source": "Deutsche Welle (Allemagne, en anglais)",
+        "lang": "en",
+        "publishedAt": "2026-11-11T06:38:00.000Z"
+      },
+      {
+        "id": "a7f2e24070d",
+        "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+        "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News (Royaume-Uni, en anglais)",
+        "lang": "en",
+        "publishedAt": "2026-11-11T03:44:06.000Z"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "franceinfo (France)",
+      "url": "https://www.francetvinfo.fr/france.rss",
+      "ok": true,
+      "count": 20
+    },
+    {
+      "name": "Le Monde (France)",
+      "url": "https://www.lemonde.fr/rss/une.xml",
+      "ok": true,
+      "count": 16
+    },
+    {
+      "name": "Ouest-France (France)",
+      "url": "https://www.ouest-france.fr/rss/une",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "Le Figaro (France)",
+      "url": "https://www.lefigaro.fr/rss/figaro_actualites-a-la-une.xml",
+      "ok": true,
+      "count": 20
+    },
+    {
+      "name": "Libération (France)",
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
+      "ok": true,
+      "count": 50
+    },
+    {
+      "name": "BBC News (Royaume-Uni, en anglais) (Monde)",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "ok": true,
+      "count": 23
+    },
+    {
+      "name": "The Guardian (Royaume-Uni, en anglais) (Monde)",
+      "url": "https://www.theguardian.com/world/rss",
+      "ok": true,
+      "count": 32
+    },
+    {
+      "name": "Deutsche Welle (Allemagne, en anglais) (Monde)",
+      "url": "https://rss.dw.com/rdf/rss-en-world",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Al Jazeera (Qatar, en anglais) (Monde)",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "ok": true,
+      "count": 25
+    },
+    {
+      "name": "France 24 (Monde)",
+      "url": "https://www.france24.com/fr/rss",
+      "ok": true,
+      "count": 24
+    },
+    {
+      "name": "Le Monde International (Monde)",
+      "url": "https://www.lemonde.fr/international/rss_full.xml",
+      "ok": true,
+      "count": 20
+    }
+  ],
+  "meteo": {
+    "ok": false,
+    "city": "Montaigu-Vendée",
+    "source": "Open-Meteo",
+    "sourceUrl": "https://open-meteo.com/en/docs",
+    "fetchedAt": null
+  },
+  "carburants": {
+    "ok": false,
+    "prices": [],
+    "best": {},
+    "stationsVerifiees": 0,
+    "source": "prix-carburants.gouv.fr",
+    "sourceUrl": "https://www.prix-carburants.gouv.fr/rubrique/opendata/"
+  },
+  "evangile": {
+    "ok": true,
+    "reference": "Lc 17, 11-19",
+    "title": "« Il ne s’est trouvé parmi eux que cet étranger pour revenir sur ses pas et rendre gloire à Dieu ! »",
+    "source": "AELF",
+    "link": "https://www.aelf.org/2026-11-11/france/messe",
+    "validation": "automatique"
+  },
+  "culture": [
+    {
+      "title": "3 artistes, 3 sensibilités, un même souffle !",
+      "discipline": "Peinture et photographie",
+      "artist": "Céline Ranger, Évelyne Gaillou et Bujo",
+      "city": "Clisson",
+      "venue": "Galerie Saint-Antoine, 7 rue Saint-Antoine",
+      "start": "2026-11-06",
+      "end": "2026-11-15",
+      "details": "Entrée gratuite ; du mercredi au dimanche, de 11 h à 18 h.",
+      "source": "Destination Vignoble Nantais",
+      "sourceUrl": "https://www.destination-vignoble-nantais.com/que-faire-vignoble-nantais/agenda/3-artistes-3-sensibilites-un-meme-souffle-clisson-fr-6875540/"
+    },
+    {
+      "title": "Océanissime Nantes 2026",
+      "discipline": "Peinture, gravure, photographie et sculpture",
+      "artist": "Seize membres de l’Académie des Arts et Sciences de la Mer",
+      "city": "Nantes",
+      "venue": "Maison de la Mer, 54 quai de la Fosse",
+      "start": "2026-11-07",
+      "end": "2026-11-22",
+      "details": "Plus de cent œuvres ; entrée gratuite. Horaires détaillés sur le site de Nantes Métropole.",
+      "source": "Nantes Métropole",
+      "sourceUrl": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/45675254_exposition-oceanissime-nantes-2026"
+    },
+    {
+      "title": "La figure de l’héroïne",
+      "discipline": "Peinture et histoire de l’art",
+      "artist": "Exposition consacrée aux représentations féminines du XIXe siècle",
+      "city": "La Roche-sur-Yon",
+      "venue": "Musée – Espace Malraux",
+      "start": "2026-11-03",
+      "end": "2027-02-07",
+      "details": "Exposition temporaire. Vérifier les horaires d’ouverture avant la visite.",
+      "source": "Ville de La Roche-sur-Yon",
+      "sourceUrl": "https://larochesuryon.fr/actualites/les-heroines-du-xixe-siecle-sexposent-a-la-roche/"
+    }
+  ],
+  "history": [
+    {
+      "monthDay": "11-11",
+      "year": "1821",
+      "title": "Naissance de Fiodor Dostoïevski",
+      "description": "Le futur romancier russe naît à Moscou le 11 novembre selon le calendrier grégorien.",
+      "source": "Bibliothèque nationale de France",
+      "sourceUrl": "https://catalogue.bnf.fr/ark:/12148/cb11900477j.public"
+    },
+    {
+      "monthDay": "11-11",
+      "year": "1918",
+      "title": "L’armistice de la Première Guerre mondiale",
+      "description": "Signé dans la clairière de Rethondes, près de Compiègne, il entre en vigueur à 11 heures sur le front occidental.",
+      "source": "Ministère des Armées – Chemins de mémoire",
+      "sourceUrl": "https://www.cheminsdememoire.gouv.fr/fr/memorial-de-l-armistice"
+    },
+    {
+      "monthDay": "11-11",
+      "year": "1923",
+      "title": "Premier allumage de la Flamme du Souvenir",
+      "description": "La flamme est allumée pour la première fois sous l’Arc de Triomphe, sur la tombe du Soldat inconnu.",
+      "source": "Ministère des Armées – Chemins de mémoire",
+      "sourceUrl": "https://www.cheminsdememoire.gouv.fr/fr/arc-de-triomphe"
+    },
+    {
+      "monthDay": "11-11",
+      "year": "1940",
+      "title": "Des étudiants défient l’Occupation à Paris",
+      "description": "Malgré les interdictions, des lycéens et étudiants se réunissent près de l’Arc de Triomphe pour commémorer 1918.",
+      "source": "Ministère des Armées – Chemins de mémoire",
+      "sourceUrl": "https://www.cheminsdememoire.gouv.fr/fr/1940-11-11-manifestation-patriotique-des-etudiants-larc-de-triomphe-paris"
+    },
+    {
+      "monthDay": "11-11",
+      "year": "1974",
+      "title": "Naissance de Leonardo DiCaprio",
+      "description": "L’acteur et producteur américain naît le 11 novembre 1974 à Los Angeles.",
+      "source": "Encyclopaedia Britannica",
+      "sourceUrl": "https://www.britannica.com/biography/Leonardo-DiCaprio"
+    },
+    {
+      "monthDay": "11-11",
+      "year": "1975",
+      "title": "Indépendance de l’Angola",
+      "description": "L’Angola proclame son indépendance du Portugal le 11 novembre 1975.",
+      "source": "Ambassade d’Angola",
+      "sourceUrl": "https://www.angola.org/en/angola/historia"
+    }
+  ],
+  "checks": {
+    "actualites": true,
+    "meteo": false,
+    "carburants": false,
+    "evangile": true
+  }
+}

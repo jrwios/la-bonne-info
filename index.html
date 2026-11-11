@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+ <meta name="theme-color" content="#58634A">
+ <meta name="description" content="LA BONNE INFO — l'actualité personnelle sourcée, sans sensationnalisme ni information inventée.">
+ <title>LA BONNE INFO — Votre quotidien</title>
+ <link rel="manifest" href="./manifest.webmanifest">
+ <link rel="icon" type="image/png" href="./icon-192.png">
+ <link rel="stylesheet" href="./styles.css">
+ <script src="./live.js" defer></script>
+ <script src="./app.js" defer></script>
+</head>
+<body>
+ <div class="topline">L'information, sans l'agitation</div>
+ <header class="container">
+  <div class="masthead"><div class="kicker">Le quotidien qui prend le temps</div><h1 class="brand">LA BONNE <b>INFO</b></h1><p class="tagline">Comprendre le monde. Cultiver sa curiosité.</p></div>
+  <div class="datebar"><span id="today">—</span><span class="date-chip" id="edition-chip">Chargement des sources…</span></div>
+  <div class="alert" id="info-banner" role="status">Recherche de la dernière édition sourcée…</div>
+ </header>
+ <main class="container" id="app" tabindex="-1"><div class="page"><p>Chargement du journal…</p></div></main>
+ <nav class="bottom-nav" aria-label="Rubriques du quotidien" id="nav"></nav>
+</body>
+</html>
