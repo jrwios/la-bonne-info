@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-11-12",
-  "generatedAt": "2026-11-12T21:00:33.449Z",
+  "generatedAt": "2026-11-12T21:15:51.468Z",
   "status": "partielle",
   "stories": {
     "france": [],
@@ -13,22 +13,22 @@
   "news": {
     "france": [
       {
-        "id": "afb69072adb",
-        "title": "Un piéton gravement blessé après avoir été percuté par une voiture ce jeudi soir au Mans",
-        "link": "https://www.ouest-france.fr/faits-divers/accidents/un-pieton-gravement-blesse-apres-avoir-ete-percute-par-une-voiture-ce-jeudi-soir-au-mans-94eaf9d8-ded6-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-        "summary": "Ce jeudi 12 novembre 2026, au Mans (Sarthe), une personne se déplaçant à pied a été percutée par un véhicule léger dans le sud de la ville. Gravement blessée selon les pompiers, elle a été transportée à l’hôpital.",
-        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExM2E4MGRiYTQzZmYxZWE5ODcyYmUyNjdiMGFkMGRlYTU?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=26765afbd90c8ef1153ee9c5248816e70b255ebfdcb7d1e526a3dc1f05dfe983",
-        "publishedAt": "2026-11-12T20:57:11.000Z",
+        "id": "ac007839fa4",
+        "title": "La Fédération française de rugby rendra hommage aux victimes des attentats de 2015 avant France - Afrique du Sud",
+        "link": "https://www.ouest-france.fr/sport/rugby/equipe-de-france/la-federation-francaise-de-rugby-rendra-hommage-aux-victimes-des-attentats-de-2015-avant-france-afrique-du-sud-be25aea4-ded8-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "La rencontre du Championnat des nations entre la France et l’Afrique du Sud, vendredi 13 novembre au Stade de France, sera tout à fait particulière. Elle intervient onze ans après les attentats qui ont frappé Paris en 2015. La Fédération française de rugby a annoncé qu’elle rendrait hommage aux vict",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExNjg2OTlhYzI0NWNjNDFmNjNhZGRlZDYxZjhjODY1YmM?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=25fdd5769e4072bed66df873f739e88530383fd37631e101c19507b1c2a6ca79",
+        "publishedAt": "2026-11-12T21:04:39.000Z",
         "source": "Ouest-France",
         "lang": "fr"
       },
       {
-        "id": "add32b2163b",
-        "title": "Mouvement social : les différentes mobilisations prévues ce samedi 14 novembre",
-        "link": "https://www.liberation.fr/economie/social/mouvement-social-les-differentes-mobilisations-prevues-ce-samedi-14-novembre-20261112_XMJHHCIKYFHGFHIQFQMLUNN5PM/",
-        "summary": "Plusieurs organisations (syndicats, gilets jaunes, associations) appellent à ce que des cortèges communs se tiennent partout pour que les colères convergent. «Libération» fait le point.",
+        "id": "a4e865def03",
+        "title": "Au procès de l’agression de Michel Zecler, de jeunes témoins s’expriment : «Je me suis dit que la moindre erreur aurait pu nous tuer»",
+        "link": "https://www.liberation.fr/societe/police-justice/au-proces-de-lagression-de-michel-zecler-de-jeunes-temoins-sexpriment-je-me-suis-dit-que-la-moindre-erreur-aurait-pu-nous-tuer-20261112_JOLRHZPWJREXLEC2KO3EOFTL4I/",
+        "summary": "Ce jeudi 12 novembre, alors que les proches du producteur de musique ont fait le portrait d’un homme «traumatisé» devant la cour criminelle de Paris, plusieurs jeunes présents lors de son attaque ont également témoigné de leurs séquelles, et dénoncé des violences policières.",
         "image": null,
-        "publishedAt": "2026-11-12T20:56:13.000Z",
+        "publishedAt": "2026-11-12T21:02:50.000Z",
         "source": "Libération",
         "lang": "fr"
       },
@@ -38,7 +38,7 @@
         "link": "https://www.franceinfo.fr/faits-divers/ils-decouvrent-une-ancienne-decharge-sous-leur-jardin-et-se-battent-pour-obtenir-reparation_8280029.html#xtor=RSS-3-%5Bfrance%5D",
         "summary": "Des déchets enfouis parfois depuis des décennies, des terrains devenus inutilisables et des procédures judiciaires qui s’éternisent : des particuliers découvrent que leur propriété a été construite sur une ancienne décharge. En France, plus de 23 000 sites de ce type ont été recensés, un chiffre pro",
         "image": "https://www.franceinfo.fr/pictures/R_MYrwRFtdnT0Q_JLkFP0XQM1no/105x0:1382x718/432x243/filters:format(jpg)/2026/11/12/6af6274b29f9f927302837.jpg",
-        "publishedAt": "2026-11-12T20:54:56.000Z",
+        "publishedAt": "2026-11-12T20:57:05.000Z",
         "source": "franceinfo",
         "lang": "fr"
       },
@@ -115,23 +115,23 @@
     ],
     "monde": [
       {
-        "id": "abee007a93f",
-        "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
-        "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-        "summary": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang doe",
-        "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d",
-        "publishedAt": "2026-11-12T20:42:54.000Z",
-        "source": "The Guardian",
-        "lang": "en"
-      },
-      {
         "id": "ac6a88938b5",
         "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
         "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
         "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg",
-        "publishedAt": "2026-11-12T20:37:36.000Z",
+        "publishedAt": "2026-11-12T21:00:42.000Z",
         "source": "BBC News",
+        "lang": "en"
+      },
+      {
+        "id": "a0752b83f5a",
+        "title": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
+        "link": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
+        "summary": "Move by Norway ‘a further tightening’ of current rules Russians ‘have no business’ in Finland, says minister Norway’s government announced that it would prevent Russian and Belarusian professional athletes from coming to Norway to compete, hours after neighbouring Finland announced a similar move. T",
+        "image": "https://i.guim.co.uk/img/media/5f218e51631345e11985a307bd897497ea95ea56/923_290_3028_2422/master/3028.jpg?width=140&quality=85&auto=format&fit=max&s=7b66a3012c3bc82d0fa6986375b1d0d6",
+        "publishedAt": "2026-11-12T21:00:12.000Z",
+        "source": "The Guardian",
         "lang": "en"
       },
       {
