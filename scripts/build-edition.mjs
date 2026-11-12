@@ -193,9 +193,10 @@ async function callOnce(P, { model, system, user, maxTokens }) {
 // Surcharge temporaire (429, 5xx) : nouvelles tentatives espacées, puis modèle de secours, puis fournisseur suivant.
 const RETRYABLE = new Set([429, 500, 502, 503, 504]);
 const WAITS_S = list(env('LBI_RETRY_WAITS', PROVIDERS.length > 1 ? '5,15' : '10,30,60')).map(Number);
-const DEADLINE = Date.now() + Number(env('LBI_BUDGET_MIN', '10')) * 60e3; // durée maximale totale consacrée à l'IA
+const DEADLINE = Date.now() + Number(env('LBI_BUDGET_MIN', '15')) * 60e3; // durée maximale totale consacrée à l'IA
 const sleep = s => new Promise(r => setTimeout(r, s * 1000));
-async function claude({ role, system, user, maxTokens }) {
+const isRetryable = e => !!e && (RETRYABLE.has(e.status) || e.name === 'TimeoutError' || e.name === 'SyntaxError' || e.message === 'JSON introuvable');
+async function claude({ role, system, user, maxTokens, parse }) {
   let lastErr = new Error('Aucun fournisseur d\'IA configuré');
   for (const P of PROVIDERS) {
     const primary = role === 'trans' ? P.trans : P.synth;
@@ -203,15 +204,15 @@ async function claude({ role, system, user, maxTokens }) {
     for (const model of models) {
       for (let attempt = 0; attempt <= WAITS_S.length; attempt++) {
         if (Date.now() > DEADLINE) { console.warn('Délai maximal atteint : abandon, synthèses précédentes conservées.'); throw lastErr; }
-        try { return await callOnce(P, { model, system, user, maxTokens }); }
+        try { const txt = await callOnce(P, { model, system, user, maxTokens }); return parse ? parse(txt) : txt; }
         catch (e) {
           lastErr = e;
-          if (!RETRYABLE.has(e.status) && e.name !== 'TimeoutError') { console.warn(`${P.name} : erreur définitive (${e.status || e.name}), fournisseur suivant.`); break; }
-          if (attempt < WAITS_S.length) { console.warn(`${P.name} surchargé (${e.status || 'délai'}), nouvel essai dans ${WAITS_S[attempt]} s…`); await sleep(WAITS_S[attempt]); }
+          if (!isRetryable(e)) { console.warn(`${P.name} : erreur définitive (${e.status || e.name}), fournisseur suivant.`); break; }
+          if (attempt < WAITS_S.length) { console.warn(`${P.name} : ${e.status ? 'surchargé (' + e.status + ')' : e.name === 'TimeoutError' ? 'délai dépassé' : 'réponse invalide'}, nouvel essai dans ${WAITS_S[attempt]} s…`); await sleep(WAITS_S[attempt]); }
         }
       }
       console.warn(`${P.name} / ${model} indisponible.`);
-      if (lastErr && !RETRYABLE.has(lastErr.status) && lastErr.name !== 'TimeoutError') break; // erreur définitive : inutile d'essayer un autre modèle du même fournisseur
+      if (lastErr && !isRetryable(lastErr)) break; // erreur définitive : inutile d'essayer un autre modèle du même fournisseur
     }
   }
   throw lastErr;
@@ -246,7 +247,7 @@ async function synthesize(scope, items, n) {
   const lines = items.map((a, i) => `#${i + 1} [${a.source}] ${a.title}${a.summary ? ' — ' + a.summary : ''}`).join('\n');
   const label = scope === 'france' ? 'l\'actualité française' : 'l\'actualité internationale';
   const user = `Choisis les ${n} sujets les plus importants de ${label} parmi les articles ci-dessous (moins si la matière manque).\n\n${lines}`;
-  const out = parseJson(await claude({ role: 'synth', system: SYNTH_SYSTEM, user, maxTokens: 12000 }));
+  const out = await claude({ role: 'synth', system: SYNTH_SYSTEM, user, maxTokens: 12000, parse: parseJson });
   const stories = [];
   for (const s of out.stories || []) {
     const idx = [...new Set((s.sources || []).map(Number).filter(i => Number.isInteger(i) && i >= 1 && i <= items.length))].slice(0, 6);
@@ -273,7 +274,7 @@ async function translateChunk(stories) {
   if (!stories.length) return;
   const payload = stories.map(s => ({ title: s.title, context: s.context, summary: s.summary, stakes: s.stakes }));
   const system = `Tu es traducteur professionnel. Traduis fidèlement du français vers: ${LANGS.join(', ')} (codes ISO). Conserve le sens, le ton neutre et les nuances d'attribution ("selon..."). N'ajoute rien. Réponds UNIQUEMENT par un JSON : {"stories":[{${LANGS.map(l => `"${l}":{"title":"","context":"","summary":"","stakes":[]}`).join(',')}}]} avec exactement le même nombre d'éléments et le même ordre que l'entrée.`;
-  const out = parseJson(await claude({ role: 'trans', system, user: JSON.stringify({ stories: payload }), maxTokens: 16000 }));
+  const out = await claude({ role: 'trans', system, user: JSON.stringify({ stories: payload }), maxTokens: 16000, parse: parseJson });
   if (!Array.isArray(out.stories) || out.stories.length !== stories.length) throw new Error('Traduction : nombre d\'éléments inattendu');
   stories.forEach((s, i) => {
     s.i18n = {};
@@ -321,14 +322,17 @@ if (!HAS_AI) {
   console.warn('Aucun article récupéré : synthèses précédentes conservées.');
 } else {
   try {
-    const [sf, sm] = await Promise.all([synthesize('france', allFr, TARGET.france), synthesize('monde', allMo, TARGET.monde)]);
+    let sf = [], sm = [];
+    try { sf = await synthesize('france', allFr, TARGET.france); } catch (e) { console.warn('Synthèse France KO :', e.message); }
+    try { sm = await synthesize('monde', allMo, TARGET.monde); } catch (e) { console.warn('Synthèse Monde KO :', e.message); }
     await Promise.all([addImages(sf), addImages(sm)]);
-    try { await translate([...sf, ...sm].map(s => s)); } catch (e) { console.warn('Traduction KO :', e.message); }
+    try { await translate([...sf, ...sm]); } catch (e) { console.warn('Traduction KO :', e.message); }
     if (sf.length + sm.length > 0) {
-      stories = { france: sf, monde: sm };
+      // Si un seul des deux côtés a abouti, l'autre garde ses synthèses précédentes.
+      stories = { france: sf.length ? sf : (prev?.stories?.france || []), monde: sm.length ? sm : (prev?.stories?.monde || []) };
       storiesAt = new Date().toISOString();
-      inputHash = newHash;
-      synthStatus = 'ok';
+      inputHash = sf.length && sm.length ? newHash : null; // un résultat partiel sera retenté au prochain passage
+      synthStatus = sf.length && sm.length ? 'ok' : 'partielle';
     }
   } catch (e) {
     console.warn('Synthèse KO :', e.message, '→ synthèses précédentes conservées.');
