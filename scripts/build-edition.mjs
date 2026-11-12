@@ -2,10 +2,10 @@
 //
 // Principe :
 //  1. lecture des flux RSS de médias variés (France et étranger) ;
-//  2. l'IA (API Anthropic) regroupe les articles par sujet et rédige : contexte, synthèse neutre, enjeux ;
+//  2. l'IA (Gemini, Mistral ou Claude, avec bascule automatique) regroupe les articles par sujet et rédige : contexte, synthèse neutre, enjeux ;
 //  3. les sources, liens et images viennent UNIQUEMENT des flux (jamais de l'IA) ;
 //  4. traduction des synthèses en anglais et espagnol.
-// Sans clé GEMINI_API_KEY ni ANTHROPIC_API_KEY, seuls les titres bruts sont publiés. Aucune donnée n'est inventée.
+// Sans aucune clé d'IA, seuls les titres bruts sont publiés. Aucune donnée n'est inventée.
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 
@@ -14,16 +14,23 @@ const MAX_AGE_H = 36;
 const PER_FEED = 12;
 const TARGET = { france: 10, monde: 5 };
 const LANGS = ['en', 'es'];
-// Fournisseur d'IA : Gemini (clé gratuite possible) si GEMINI_API_KEY est définie, sinon Anthropic.
-const PROVIDER = process.env.GEMINI_API_KEY ? 'gemini' : 'anthropic';
-const KEY = PROVIDER === 'gemini' ? process.env.GEMINI_API_KEY : process.env.ANTHROPIC_API_KEY;
-const API = PROVIDER === 'gemini'
-  ? (process.env.GEMINI_BASE_URL || 'https://generativelanguage.googleapis.com')
-  : (process.env.ANTHROPIC_BASE_URL || 'https://api.anthropic.com');
-// Les noms de modèles changent avec le temps : on peut les remplacer via LBI_MODEL_SYNTH / LBI_MODEL_TRANS.
-const MODEL_SYNTH = process.env.LBI_MODEL_SYNTH || (PROVIDER === 'gemini' ? 'gemini-3.6-flash' : 'claude-sonnet-5-5');
-const MODEL_TRANS = process.env.LBI_MODEL_TRANS || (PROVIDER === 'gemini' ? 'gemini-3.5-flash-lite' : 'claude-haiku-5-5');
-
+// Fournisseurs d'IA, essayés dans cet ordre. Il suffit d'en avoir un ; avec plusieurs, le suivant prend le relais
+// quand le précédent est surchargé ou en panne.
+//   GEMINI_API_KEY    : Google Gemini (clé gratuite possible)
+//   MISTRAL_API_KEY   : Mistral (niveau gratuit possible)
+//   ANTHROPIC_API_KEY : Claude (payant)
+// Les noms de modèles changent avec le temps : ils se remplacent via les variables LBI_*_SYNTH / LBI_*_TRANS / LBI_*_FALLBACK.
+const env = (k, d) => (process.env[k] && process.env[k].trim()) || d;
+const list = s => s.split(',').map(x => x.trim()).filter(Boolean);
+const PROVIDERS = [
+  { name: 'gemini', key: process.env.GEMINI_API_KEY, api: env('GEMINI_BASE_URL', 'https://generativelanguage.googleapis.com'),
+    synth: env('LBI_GEMINI_SYNTH', 'gemini-3.6-flash'), trans: env('LBI_GEMINI_TRANS', 'gemini-3.5-flash-lite'), fallback: list(env('LBI_GEMINI_FALLBACK', 'gemini-3.5-flash-lite,gemini-3.8-flash')) },
+  { name: 'mistral', key: process.env.MISTRAL_API_KEY, api: env('MISTRAL_BASE_URL', 'https://api.mistral.ai'),
+    synth: env('LBI_MISTRAL_SYNTH', 'mistral-large-latest'), trans: env('LBI_MISTRAL_TRANS', 'mistral-small-latest'), fallback: list(env('LBI_MISTRAL_FALLBACK', 'mistral-small-latest')) },
+  { name: 'anthropic', key: process.env.ANTHROPIC_API_KEY, api: env('ANTHROPIC_BASE_URL', 'https://api.anthropic.com'),
+    synth: env('LBI_ANTHROPIC_SYNTH', 'claude-sonnet-5-5'), trans: env('LBI_ANTHROPIC_TRANS', 'claude-haiku-5-5'), fallback: [] },
+].filter(p => p.key && p.key.trim());
+const HAS_AI = PROVIDERS.length > 0;
 // Médias de sensibilités et de pays variés. lang : langue des titres.
 const FEEDS = {
   france: [
@@ -142,55 +149,72 @@ async function ogImage(url) {
 }
 
 // ---------- IA ----------
-async function callOnce({ model, system, user, maxTokens }) {
-  if (PROVIDER === 'gemini') {
-    const r = await fetch(`${API}/v1beta/models/${model}:generateContent`, {
+async function callOnce(P, { model, system, user, maxTokens }) {
+  const fail = async (r, label) => { throw Object.assign(new Error(`API ${label} ${r.status} (${model}) ${(await r.text()).slice(0, 300)}`), { status: r.status }); };
+  if (P.name === 'gemini') {
+    const r = await fetch(`${P.api}/v1beta/models/${model}:generateContent`, {
       method: 'POST',
-      headers: { 'content-type': 'application/json', 'x-goog-api-key': KEY },
+      headers: { 'content-type': 'application/json', 'x-goog-api-key': P.key },
       body: JSON.stringify({
         systemInstruction: { parts: [{ text: system }] },
         contents: [{ role: 'user', parts: [{ text: user }] }],
         generationConfig: { maxOutputTokens: maxTokens, responseMimeType: 'application/json', temperature: 0.3 },
       }),
-      signal: AbortSignal.timeout(300000),
+      signal: AbortSignal.timeout(180000),
     });
-    if (!r.ok) throw Object.assign(new Error('API Gemini ' + r.status + ' (' + model + ') ' + (await r.text()).slice(0, 300)), { status: r.status });
+    if (!r.ok) await fail(r, 'Gemini');
     const j = await r.json();
     return (j.candidates?.[0]?.content?.parts || []).map(p => p.text || '').join('');
   }
-  const r = await fetch(API + '/v1/messages', {
+  if (P.name === 'mistral') {
+    const r = await fetch(`${P.api}/v1/chat/completions`, {
+      method: 'POST',
+      headers: { 'content-type': 'application/json', Authorization: 'Bearer ' + P.key },
+      body: JSON.stringify({ model, max_tokens: maxTokens, temperature: 0.3, response_format: { type: 'json_object' }, messages: [{ role: 'system', content: system }, { role: 'user', content: user }] }),
+      signal: AbortSignal.timeout(180000),
+    });
+    if (!r.ok) await fail(r, 'Mistral');
+    const j = await r.json();
+    const c = j.choices?.[0]?.message?.content;
+    return Array.isArray(c) ? c.map(x => x.text || '').join('') : (c || '');
+  }
+  const r = await fetch(P.api + '/v1/messages', {
     method: 'POST',
-    headers: { 'content-type': 'application/json', 'x-api-key': KEY, 'anthropic-version': '2023-06-01' },
+    headers: { 'content-type': 'application/json', 'x-api-key': P.key, 'anthropic-version': '2023-06-01' },
     body: JSON.stringify({ model, max_tokens: maxTokens, system, messages: [{ role: 'user', content: user }] }),
-    signal: AbortSignal.timeout(300000),
+    signal: AbortSignal.timeout(180000),
   });
-  if (!r.ok) throw Object.assign(new Error('API ' + r.status + ' ' + (await r.text()).slice(0, 300)), { status: r.status });
+  if (!r.ok) await fail(r, 'Anthropic');
   const j = await r.json();
   return (j.content || []).filter(b => b.type === 'text').map(b => b.text).join('');
 }
 
-// Surcharge temporaire (429, 500, 502, 503, 504) : nouvelles tentatives espacées, puis modèle de secours.
+// Surcharge temporaire (429, 5xx) : nouvelles tentatives espacées, puis modèle de secours, puis fournisseur suivant.
 const RETRYABLE = new Set([429, 500, 502, 503, 504]);
-const FALLBACK_MODELS = (process.env.LBI_FALLBACK_MODELS || (PROVIDER === 'gemini' ? 'gemini-3.5-flash-lite,gemini-3.8-flash' : '')).split(',').map(s => s.trim()).filter(Boolean);
-const WAITS_S = (process.env.LBI_RETRY_WAITS || '10,30,60').split(',').map(Number);
+const WAITS_S = list(env('LBI_RETRY_WAITS', PROVIDERS.length > 1 ? '5,15' : '10,30,60')).map(Number);
+const DEADLINE = Date.now() + Number(env('LBI_BUDGET_MIN', '10')) * 60e3; // durée maximale totale consacrée à l'IA
 const sleep = s => new Promise(r => setTimeout(r, s * 1000));
-async function claude(opts) {
-  const models = [opts.model, ...FALLBACK_MODELS.filter(m => m !== opts.model)];
-  let lastErr;
-  for (const model of models) {
-    for (let attempt = 0; attempt <= WAITS_S.length; attempt++) {
-      try { return await callOnce({ ...opts, model }); }
-      catch (e) {
-        lastErr = e;
-        if (!RETRYABLE.has(e.status) && e.name !== 'TimeoutError') throw e; // erreur définitive (clé invalide, requête refusée…)
-        if (attempt < WAITS_S.length) { console.warn(`IA surchargée (${e.status || 'délai'}), nouvel essai dans ${WAITS_S[attempt]} s…`); await sleep(WAITS_S[attempt]); }
+async function claude({ role, system, user, maxTokens }) {
+  let lastErr = new Error('Aucun fournisseur d\'IA configuré');
+  for (const P of PROVIDERS) {
+    const primary = role === 'trans' ? P.trans : P.synth;
+    const models = [primary, ...P.fallback.filter(m => m !== primary)];
+    for (const model of models) {
+      for (let attempt = 0; attempt <= WAITS_S.length; attempt++) {
+        if (Date.now() > DEADLINE) { console.warn('Délai maximal atteint : abandon, synthèses précédentes conservées.'); throw lastErr; }
+        try { return await callOnce(P, { model, system, user, maxTokens }); }
+        catch (e) {
+          lastErr = e;
+          if (!RETRYABLE.has(e.status) && e.name !== 'TimeoutError') { console.warn(`${P.name} : erreur définitive (${e.status || e.name}), fournisseur suivant.`); break; }
+          if (attempt < WAITS_S.length) { console.warn(`${P.name} surchargé (${e.status || 'délai'}), nouvel essai dans ${WAITS_S[attempt]} s…`); await sleep(WAITS_S[attempt]); }
+        }
       }
+      console.warn(`${P.name} / ${model} indisponible.`);
+      if (lastErr && !RETRYABLE.has(lastErr.status) && lastErr.name !== 'TimeoutError') break; // erreur définitive : inutile d'essayer un autre modèle du même fournisseur
     }
-    console.warn(`Modèle ${model} indisponible, essai du modèle suivant.`);
   }
   throw lastErr;
-}
-function parseJson(text) {
+}function parseJson(text) {
   const a = text.indexOf('{'), b = text.lastIndexOf('}');
   if (a < 0 || b < 0) throw new Error('JSON introuvable');
   return JSON.parse(text.slice(a, b + 1));
@@ -220,7 +244,7 @@ async function synthesize(scope, items, n) {
   const lines = items.map((a, i) => `#${i + 1} [${a.source}] ${a.title}${a.summary ? ' — ' + a.summary : ''}`).join('\n');
   const label = scope === 'france' ? 'l\'actualité française' : 'l\'actualité internationale';
   const user = `Choisis les ${n} sujets les plus importants de ${label} parmi les articles ci-dessous (moins si la matière manque).\n\n${lines}`;
-  const out = parseJson(await claude({ model: MODEL_SYNTH, system: SYNTH_SYSTEM, user, maxTokens: 12000 }));
+  const out = parseJson(await claude({ role: 'synth', system: SYNTH_SYSTEM, user, maxTokens: 12000 }));
   const stories = [];
   for (const s of out.stories || []) {
     const idx = [...new Set((s.sources || []).map(Number).filter(i => Number.isInteger(i) && i >= 1 && i <= items.length))].slice(0, 6);
@@ -242,7 +266,7 @@ async function translate(stories) {
   if (!stories.length) return;
   const payload = stories.map(s => ({ title: s.title, context: s.context, summary: s.summary, stakes: s.stakes }));
   const system = `Tu es traducteur professionnel. Traduis fidèlement du français vers: ${LANGS.join(', ')} (codes ISO). Conserve le sens, le ton neutre et les nuances d'attribution ("selon..."). N'ajoute rien. Réponds UNIQUEMENT par un JSON : {"stories":[{${LANGS.map(l => `"${l}":{"title":"","context":"","summary":"","stakes":[]}`).join(',')}}]} avec exactement le même nombre d'éléments et le même ordre que l'entrée.`;
-  const out = parseJson(await claude({ model: MODEL_TRANS, system, user: JSON.stringify({ stories: payload }), maxTokens: 16000 }));
+  const out = parseJson(await claude({ role: 'trans', system, user: JSON.stringify({ stories: payload }), maxTokens: 16000 }));
   if (!Array.isArray(out.stories) || out.stories.length !== stories.length) throw new Error('Traduction : nombre d\'éléments inattendu');
   stories.forEach((s, i) => {
     s.i18n = {};
@@ -291,8 +315,8 @@ let inputHash = prev?.inputHash || null;
 let synthStatus = 'absente';
 const newHash = sha(allFr.map(a => a.link).join('|') + '##' + allMo.map(a => a.link).join('|'));
 
-if (!KEY) {
-  console.warn('Aucune clé GEMINI_API_KEY / ANTHROPIC_API_KEY : pas de synthèse, titres bruts uniquement.');
+if (!HAS_AI) {
+  console.warn('Aucune clé d\'IA (GEMINI_API_KEY, MISTRAL_API_KEY ou ANTHROPIC_API_KEY) : pas de synthèse, titres bruts uniquement.');
 } else if (newHash === inputHash && stories.france?.length) {
   console.log('Aucun nouvel article depuis la dernière analyse : synthèses conservées.');
   synthStatus = 'conservée';
