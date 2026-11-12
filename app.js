@@ -40,7 +40,6 @@ const D = {
  practical:['Le quotidien pratique','Daily essentials','Lo cotidiano'], weather:['La météo','Weather','El tiempo'], fuel:['Prix à la pompe','Fuel prices','Precios de combustible'],
  culture_view:['Culture et regard','Culture and perspective','Cultura y mirada'], explore:['Explorer les découvertes','Explore discoveries','Explorar descubrimientos'],
  culture_n:['Expositions locales vérifiées : {n}.','Verified local exhibitions: {n}.','Exposiciones locales verificadas: {n}.'],
- gospel_day:['Évangile du jour : {r}.','Gospel of the day: {r}.','Evangelio del día: {r}.'], gospel_wait:['Référence liturgique en attente de vérification.','Liturgical reference awaiting verification.','Referencia litúrgica pendiente de verificación.'],
  journal_h:['Le journal','The news','Las noticias'], journal_k:['Actualité, synthèse croisée','News, cross-checked','Actualidad, contrastada'],
  journal_intro:['Chaque sujet croise plusieurs médias de sensibilités et de pays différents, sans en privilégier un. Vous trouverez le contexte, la synthèse, les enjeux, puis les sources.','Each topic cross-checks several outlets of different leanings and countries, favouring none. You will find the context, the summary, the stakes, then the sources.','Cada tema contrasta varios medios de distintas sensibilidades y países, sin privilegiar ninguno. Encontrará el contexto, la síntesis, lo que está en juego y las fuentes.'],
  raw_intro:['Titres attribués à leurs rédactions, sans vérification indépendante de leur contenu.','Headlines attributed to their newsrooms, without independent verification of their content.','Titulares atribuidos a sus redacciones, sin verificación independiente de su contenido.'],
@@ -63,15 +62,11 @@ const D = {
  th_fuel:['Carburant','Fuel','Combustible'], th_station:['Commune / station','Town / station','Municipio / estación'], th_price:['Prix','Price','Precio'], th_date:['Relevé','Reading','Registro'],
  f_note:['{n} stations avec relevé récent · source : {s} · collecte : {t}. {x}','{n} stations with a recent reading · source: {s} · collected: {t}. {x}','{n} estaciones con registro reciente · fuente: {s} · recogida: {t}. {x}'],
  f_best:['Le plus bas relevé par type de carburant dans le périmètre indiqué.','Lowest reading per fuel type in the area shown.','El precio más bajo por tipo de combustible en la zona indicada.'], f_top:['Sélection des trois prix les plus bas pour chaque carburant, dans le périmètre indiqué.','The three lowest prices for each fuel in the area shown.','Los tres precios más bajos de cada combustible en la zona indicada.'],
- culture_h:['Culture et découvertes','Culture and discoveries','Cultura y descubrimientos'], culture_k:['Art · Histoire · Évangile','Art · History · Gospel','Arte · Historia · Evangelio'],
+ culture_h:['Culture et découvertes','Culture and discoveries','Cultura y descubrimientos'], culture_k:['Art · Histoire','Art · History','Arte · Historia'],
  culture_fr:['Cette rubrique est publiée en français uniquement.','This section is published in French only.','Esta sección se publica solo en francés.'],
  culture_s:['Rendez-vous artistiques près de chez nous','Art events nearby','Citas artísticas cercanas'], culture_none:['Aucune exposition validée pour cette édition','No validated exhibition for this edition','Ninguna exposición validada para esta edición'], culture_none_d:['Les dates et les lieux doivent être confirmés auprès des organisateurs.','Dates and venues must be confirmed with the organisers.','Las fechas y los lugares deben confirmarse con los organizadores.'],
  from_to:['Du {a} au {b}','From {a} to {b}','Del {a} al {b}'], official:['Informations officielles — {s}','Official information — {s}','Información oficial — {s}'],
  hist_h:['Ce jour-là, dans l’histoire','On this day in history','Un día como hoy en la historia'], hist_none:['Éphéméride en cours de documentation','Almanac being documented','Efeméride en preparación'], hist_none_d:['Aucun événement historique du jour n’a été validé pour cette édition.','No historical event of the day has been validated for this edition.','Ningún hecho histórico del día ha sido validado para esta edición.'],
- gospel_h:['L’Évangile du jour','Today’s Gospel','El Evangelio del día'], gospel_title:['Lecture de la messe','Mass reading','Lectura de la misa'], gospel_note:['Référence établie à partir de l’AELF. Le texte intégral est à consulter sur le site de l’éditeur.','Reference taken from AELF. Read the full text on the publisher’s website.','Referencia tomada de AELF. El texto completo está en el sitio del editor.'],
- gospel_nv:['Référence du jour non validée','Today’s reference not validated','Referencia del día no validada'], gospel_nv_d:['Consulter directement le calendrier liturgique officiel de l’AELF.','Check the official AELF liturgical calendar directly.','Consulte directamente el calendario litúrgico oficial de AELF.'],
- gospel_read:['Lire le texte sur le site de l’AELF','Read the text on the AELF website','Leer el texto en el sitio de AELF'], hist_ctx:['Repères historiques','Historical background','Contexto histórico'], philo:['Lecture philosophique','Philosophical reading','Lectura filosófica'], src_passage:['Source du passage : AELF','Passage source: AELF','Fuente del pasaje: AELF'],
- gospel_no_com:['Analyse historique et philosophique non publiée','Historical and philosophical analysis not published','Análisis histórico y filosófico no publicado'], gospel_no_com_d:['Le commentaire doit être rédigé à partir de la lecture du jour.','The commentary must be written from the day’s reading.','El comentario debe redactarse a partir de la lectura del día.'],
  reperes_h:['Les repères','Guides','Datos útiles'], reperes_k:['Données publiques et méthode','Public data and method','Datos públicos y método'],
  weather_h:['Météo · {p}','Weather · {p}','El tiempo · {p}'], fuel_h:['Carburants · autour de {p}','Fuel · around {p}','Combustible · cerca de {p}'],
  transp:['Transparence éditoriale','Editorial transparency','Transparencia editorial'], last_ed:['Dernière édition enregistrée : {d}','Last saved edition: {d}','Última edición guardada: {d}'], coll:['collecte du {t}','collected {t}','recogida el {t}'], none_w:['aucune','none','ninguna'],
@@ -87,11 +82,14 @@ const D = {
  col0:['Kaki','Khaki','Caqui'], col1:['Anthracite','Charcoal','Antracita'], col2:['Sépia','Sepia','Sepia'], col3:['Prune grise','Grey plum','Ciruela gris'],
  charter_h:['Charte de LA BONNE INFO','LA BONNE INFO charter','Carta de LA BONNE INFO'],
  charter:['Les synthèses croisent plusieurs médias de sensibilités et de pays différents et attribuent chaque affirmation contestée à sa source. Elles sont rédigées automatiquement à partir des titres et résumés publiés ; les sources sont toujours indiquées. Les chiffres sont horodatés. Une information absente n’est pas remplacée par une invention.','The summaries cross-check several outlets of different leanings and countries and attribute each contested claim to its source. They are written automatically from published headlines and abstracts; sources are always shown. Figures are timestamped. Missing information is never replaced by invention.','Los resúmenes contrastan varios medios de distintas sensibilidades y países y atribuyen cada afirmación discutida a su fuente. Se redactan automáticamente a partir de titulares y extractos publicados; las fuentes siempre se indican. Las cifras llevan fecha y hora. Una información ausente no se sustituye por una invención.'],
+ tp_politique:['Politique','Politics','Política'], tp_economie:['Économie','Economy','Economía'], tp_societe:['Société','Society','Sociedad'], tp_justice:['Justice et faits divers','Justice and crime','Justicia y sucesos'], tp_sport:['Sport','Sport','Deportes'], tp_culture:['Culture et médias','Culture and media','Cultura y medios'], tp_sciences_tech:['Sciences et technologies','Science and technology','Ciencia y tecnología'], tp_sante:['Santé','Health','Salud'], tp_environnement:['Environnement et climat','Environment and climate','Medio ambiente y clima'], tp_international:['International','World affairs','Internacional'],
+ flt_all:['Tous','All','Todos'], flt_mine:['Pour vous','For you','Para usted'], for_you:['Pour vous','For you','Para usted'], other_fr:['Autres sujets · France','Other topics · France','Otros temas · Francia'], other_world:['Autres sujets · International','Other topics · World','Otros temas · Internacional'], hello:['Bonjour {n}','Hello {n}','Hola {n}'],
+ empty_filter:['Aucun sujet dans cette catégorie pour le moment.','No topic in this category right now.','Ningún tema en esta categoría por ahora.'], topics_lbl:['Rubriques','Categories','Categorías'],
  loading:['Chargement du journal…','Loading…','Cargando…'], date_na:['Date non indiquée','Date not given','Fecha no indicada'], badge_arch:['Édition archivée','Archived edition','Edición archivada'],
  alert_load:['Cette édition ne peut pas être chargée pour le moment.','This edition cannot be loaded right now.','Esta edición no se puede cargar ahora.']
 };
 function detectLang(){const n=(navigator.language||'fr').slice(0,2).toLowerCase();return LANGS[n]?n:'fr';}
-let state = {tab:'une',theme:'auto',size:17,accent:'#58634A',saved:{},q:'',selectedDate:'',place:null,lang:null};
+let state = {tab:'une',theme:'auto',size:17,accent:'#58634A',saved:{},q:'',selectedDate:'',place:null,lang:null,profile:null,topic:'all'};
 let placeUi = {msg:'',results:[],busy:false};
 const DEFAULT_PLACE = {name:'Montaigu-Vendée',lat:46.9747,lon:-1.3135,country:'FR',mode:'default'};
 const PALETTE = ['#58634A','#3F4A48','#755C4A','#665466'];
@@ -115,7 +113,7 @@ function t(k, v){
 const LOC = () => LANGS[state.lang][1];
 const fmt = o => new Intl.DateTimeFormat(LOC(), Object.assign({timeZone:'Europe/Paris'}, o));
 function place(){const p=state.place;return p&&Number.isFinite(p.lat)&&Number.isFinite(p.lon)&&p.name?p:DEFAULT_PLACE;}
-function persist(){try {localStorage.setItem('lbi-v5', JSON.stringify({theme:state.theme,size:state.size,accent:state.accent,saved:state.saved,place:state.place,lang:state.lang}));}catch(_){}}
+function persist(){try {localStorage.setItem('lbi-v5', JSON.stringify({theme:state.theme,size:state.size,accent:state.accent,saved:state.saved,place:state.place,lang:state.lang,profile:state.profile}));}catch(_){}}
 function esc(x){return String(x ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 function safeUrl(u){try{const p=new URL(String(u));return p.protocol==='https:'?p.href:null}catch(_){return null}}
 function link(u,label,cl='link'){const valid=safeUrl(u);return valid?`<a href="${esc(valid)}" target="_blank" rel="noopener noreferrer" class="${cl}">${esc(label)}</a>`:'';}
@@ -140,7 +138,7 @@ function starBtn(id){const fav=state.saved?.[id];return `<button class="star" da
 function storyCard(s){
  const x=sx(s);
  const miss=state.lang!=='fr'&&x===s;
- return `<article class="story">${starBtn(s.id)}${cover(s)}<h3>${esc(x.title)}</h3>
+ return `<article class="story">${starBtn(s.id)}${cover(s)}${s.topic&&D['tp_'+s.topic]?`<span class="eyebrow">${t('tp_'+s.topic)}</span>`:''}<h3>${esc(x.title)}</h3>
  ${x.context?`<h4>${t('s_context')}</h4><p>${esc(x.context)}</p>`:''}
  <h4>${t('s_summary')}</h4><p>${esc(x.summary)}</p>
  ${x.stakes&&x.stakes.length?`<h4>${t('s_stakes')}</h4><ul class="stakes">${x.stakes.map(i=>`<li>${esc(i)}</li>`).join('')}</ul>`:''}
@@ -166,11 +164,16 @@ function footer(){return `<footer><strong>${t('charter_h')}</strong><br>${esc(t(
 function infoEmpty(what,detail=''){return `<div class="empty"><strong>${esc(what)}</strong>${detail?'<br>'+esc(detail):''}</div>`;}
 function header(title,kicker){return `<div class="kicker-row"><span class="eyebrow">${esc(kicker)}</span><span class="date-chip">${data?esc(fmtDate(data.date)):'—'}</span></div><h2 class="section-title">${esc(title)}</h2>`;}
 
+function interests(){return state.profile&&Array.isArray(state.profile.interests)?state.profile.interests:[];}
+function isMine(s){const i=interests();return i.length>0&&i.includes(s.topic);}
+function heroStory(st){const all=[...(st.france||[]),...(st.monde||[])];return (interests().length&&all.find(isMine))||(st.france||[])[0]||(st.monde||[])[0];}
+function prefFirst(list){return [...list.filter(isMine),...list.filter(s=>!isMine(s))];}
+function greeting(){const n=state.profile&&state.profile.name;return n?`<p class="micro greeting">${esc(t('hello',{n}))}</p>`:'';}
 function headline(){
  if(!data)return `<section class="hero"><span class="eyebrow">${t('hero_eyebrow')}</span><h2>${t('hero_none_h')}</h2><p class="intro">${t('hero_none_p')}</p></section>`;
  const st=storiesOf(data);
  if(st){
-  const s=(st.france||[])[0]||(st.monde||[])[0],x=sx(s);
+  const s=heroStory(st),x=sx(s);
   return `<section class="hero"><span class="eyebrow">${t('hero_eyebrow')}</span><h2>${esc(x.title)}</h2>${cover(s)}<p class="intro">${esc(x.summary)}</p><div class="micro">${esc(t('sources_lbl',{s:sourceNames(s)}))}</div><p><button class="mbtn" data-tab="journal">${t('hero_more')}</button></p></section>`;
  }
  const item=data.news?.france?.[0]||data.news?.monde?.[0];
@@ -201,25 +204,39 @@ function placeBar(){
 
 function home(){
  const st=storiesOf(data);
- const tile=(list,fallback,skip)=>{
-  if(st){const l=list.slice(skip,skip+3);return l.length?l.map(s=>`<p><button class="link" data-tab="journal">${esc(sx(s).title)}</button></p>`).join(''):`<p class="micro">${t('none_topic')}</p>`;}
+ const hero=st?heroStory(st):null;const tile=(list,fallback,skip)=>{
+  if(st){const l=prefFirst(list.filter(s=>s!==hero)).slice(0,3);return l.length?l.map(s=>`<p><button class="link" data-tab="journal">${esc(sx(s).title)}</button></p>`).join(''):`<p class="micro">${t('none_topic')}</p>`;}
   return fallback.slice(skip,skip+3).map(a=>`<p>${link(a.link,a.title)}</p>`).join('')||`<p class="micro">${t('none_topic')}</p>`;
  };
  const nCult=(data?.culture||[]).length;
- return `${headline()}<div class="subsection"><div class="kicker-row"><h2 class="section-heading">${t('in_edition')}</h2><button class="link" data-tab="journal">${t('full_journal')}</button></div><div class="grid"><div class="tile"><h2>${t('france')}</h2>${tile(st?.france||[],data?.news?.france||[],st?1:1)}</div><div class="tile"><h2>${t('world')}</h2>${tile(st?.monde||[],data?.news?.monde||[],0)}</div></div></div><div class="subsection"><h2 class="section-heading">${t('practical')}</h2>${placeBar()}<div class="grid"><div class="tile"><h2>${t('weather')}</h2>${weatherCard(false)}</div><div class="tile"><h2>${t('fuel')}</h2>${fuelCard(false)}</div></div></div><div class="subsection"><h2 class="section-heading">${t('culture_view')}</h2><p>${esc(t('culture_n',{n:nCult}))}</p><p>${data?.evangile?.ok?esc(t('gospel_day',{r:data.evangile.reference})):t('gospel_wait')}</p><button class="mbtn ghost" data-tab="culture">${t('explore')}</button></div>`;
+ return `${greeting()}${headline()}<div class="subsection"><div class="kicker-row"><h2 class="section-heading">${t('in_edition')}</h2><button class="link" data-tab="journal">${t('full_journal')}</button></div><div class="grid"><div class="tile"><h2>${t('france')}</h2>${tile(st?.france||[],data?.news?.france||[],st?1:1)}</div><div class="tile"><h2>${t('world')}</h2>${tile(st?.monde||[],data?.news?.monde||[],0)}</div></div></div><div class="subsection"><h2 class="section-heading">${t('practical')}</h2>${placeBar()}<div class="grid"><div class="tile"><h2>${t('weather')}</h2>${weatherCard(false)}</div><div class="tile"><h2>${t('fuel')}</h2>${fuelCard(false)}</div></div></div><div class="subsection"><h2 class="section-heading">${t('culture_view')}</h2><p>${esc(t('culture_n',{n:nCult}))}</p><button class="mbtn ghost" data-tab="culture">${t('explore')}</button></div>`;
 }
 function journal(){
  const st=storiesOf(data);
  const section=(title,list,raw)=>`<section class="subsection"><h2 class="section-heading">${title} <span class="micro">${esc(t('n_topics',{n:(st?list:raw).length}))}</span></h2>${(st?list:raw).length?(st?list.map(storyCard):raw.map(mediaCard)).join(''):infoEmpty(t('empty_news'),t('empty_news_d'))}</section>`;
- return `${header(t('journal_h'),t('journal_k'))}<p class="intro">${st?t('journal_intro'):t('raw_intro')}</p>${st?`<p class="micro">${t('s_ai')}</p>`:''}${section(t('france'),st?.france||[],data?.news?.france||[])}${section(t('world'),st?.monde||[],data?.news?.monde||[])}`;
+ if(!st)return `${header(t('journal_h'),t('journal_k'))}<p class="intro">${t('raw_intro')}</p>${section(t('france'),[],data?.news?.france||[])}${section(t('world'),[],data?.news?.monde||[])}`;
+ const fr=st.france||[],mo=st.monde||[],all=[...fr,...mo],mine=interests().length>0;
+ const present=Object.keys(D).filter(k=>k.startsWith('tp_')).map(k=>k.slice(3)).filter(k=>all.some(s=>s.topic===k));
+ let topic=state.topic||'all';if(topic==='mine'&&!mine)topic='all';
+ const chip=(v,label)=>`<button type="button" class="chip" data-topic="${esc(v)}" aria-pressed="${topic===v}">${esc(label)}</button>`;
+ const bar=`<div class="chips" role="group" aria-label="${esc(t('topics_lbl'))}">${chip('all',t('flt_all'))}${mine?chip('mine',t('flt_mine')):''}${present.map(k=>chip(k,t('tp_'+k))).join('')}</div>`;
+ let body='';
+ if(topic==='all'){
+  if(mine){const m=all.filter(isMine);body+=section(t('for_you'),m,[]);body+=section(t('other_fr'),fr.filter(s=>!isMine(s)),[]);body+=section(t('other_world'),mo.filter(s=>!isMine(s)),[]);}
+  else{body+=section(t('france'),fr,[]);body+=section(t('world'),mo,[]);}
+ }else{
+  const l=topic==='mine'?all.filter(isMine):all.filter(s=>s.topic===topic);
+  body=`<section class="subsection">${l.length?l.map(storyCard).join(''):infoEmpty(t('empty_filter'))}</section>`;
+ }
+ return `${header(t('journal_h'),t('journal_k'))}<p class="intro">${t('journal_intro')}</p><p class="micro">${t('s_ai')}</p>${bar}${body}`;
 }
 function culture(){
- const events=data?.culture||[], hist=data?.history||[], gospel=data?.evangile, commentary=data?.commentary;
- return `${header(t('culture_h'),t('culture_k'))}${state.lang!=='fr'?`<p class="micro">${t('culture_fr')}</p>`:''}<section class="subsection"><h2 class="section-heading">${t('culture_s')}</h2>${events.length?events.map(e=>`<article class="event"><span class="eyebrow">${esc(e.discipline)} · ${esc(e.city)}</span><h3>${esc(e.title)}</h3><p>${esc(e.artist)}</p><p class="micro">${esc(e.venue)} · ${esc(t('from_to',{a:fmtDate(e.start),b:fmtDate(e.end)}))}</p><p>${esc(e.details)}</p>${link(e.sourceUrl,t('official',{s:e.source}))}</article>`).join(''):infoEmpty(t('culture_none'),t('culture_none_d'))}</section><section class="subsection"><h2 class="section-heading">${t('hist_h')}</h2>${hist.length?`<ol class="timeline">${hist.map(h=>`<li><span class="year">${esc(h.year)}</span><div><h3>${esc(h.title)}</h3><p>${esc(h.description)}</p><div class="micro">${link(h.sourceUrl,h.source)}</div></div></li>`).join('')}</ol>`:infoEmpty(t('hist_none'),t('hist_none_d'))}</section><section class="subsection"><h2 class="section-heading">${t('gospel_h')}</h2>${gospel?.ok?`<span class="eyebrow">${esc(gospel.reference)}</span><h3 class="section-heading">${esc(gospel.title||t('gospel_title'))}</h3><p class="micro">${t('gospel_note')}</p>`:infoEmpty(t('gospel_nv'),t('gospel_nv_d'))}<p>${link(gospel?.link||'https://www.aelf.org/',t('gospel_read'),'mbtn ghost')}</p>${commentary&&gospel?.ok&&commentary.reference===gospel.reference?`<h3 class="section-heading">${t('hist_ctx')}</h3><p>${esc(commentary.historical)}</p><h3 class="section-heading">${t('philo')}</h3><p>${esc(commentary.philosophical)}</p><p class="micro">${esc(commentary.type)} · ${link(commentary.sourceUrl,t('src_passage'))}</p>`:infoEmpty(t('gospel_no_com'),t('gospel_no_com_d'))}</section>`;
+ const events=data?.culture||[], hist=data?.history||[];
+ return `${header(t('culture_h'),t('culture_k'))}${state.lang!=='fr'?`<p class="micro">${t('culture_fr')}</p>`:''}<section class="subsection"><h2 class="section-heading">${t('culture_s')}</h2>${events.length?events.map(e=>`<article class="event"><span class="eyebrow">${esc(e.discipline)} · ${esc(e.city)}</span><h3>${esc(e.title)}</h3><p>${esc(e.artist)}</p><p class="micro">${esc(e.venue)} · ${esc(t('from_to',{a:fmtDate(e.start),b:fmtDate(e.end)}))}</p><p>${esc(e.details)}</p>${link(e.sourceUrl,t('official',{s:e.source}))}</article>`).join(''):infoEmpty(t('culture_none'),t('culture_none_d'))}</section><section class="subsection"><h2 class="section-heading">${t('hist_h')}</h2>${hist.length?`<ol class="timeline">${hist.map(h=>`<li><span class="year">${esc(h.year)}</span><div><h3>${esc(h.title)}</h3><p>${esc(h.description)}</p><div class="micro">${link(h.sourceUrl,h.source)}</div></div></li>`).join('')}</ol>`:infoEmpty(t('hist_none'),t('hist_none_d'))}</section></section>`;
 }
 function reperes(){
  const checks=data?.checks||{};const src=data?.sources||[];
- return `${header(t('reperes_h'),t('reperes_k'))}<section class="subsection"><h2 class="section-heading">${esc(t('weather_h',{p:place().name}))}</h2>${placeBar()}${weatherCard(true)}</section><section class="subsection"><h2 class="section-heading">${esc(t('fuel_h',{p:place().name}))}</h2>${fuelCard(true)}</section><section class="subsection"><h2 class="section-heading">${t('transp')}</h2><p>${esc(t('last_ed',{d:data?fmtDate(data.date):t('none_w')}))}${data?' · '+esc(t('coll',{t:fmtDatetime(data.generatedAt)})):''}.</p><p class="micro">${t('reliab')}</p><ul class="state-log">${[['c_news','actualites'],['c_weather','meteo'],['c_fuel','carburants'],['c_lit','evangile']].map(([label,key])=>`<li><span>${t(label)}</span><span class="${checks[key]?'good':'bad'}">${checks[key]?t('avail'):t('unavail')}</span></li>`).join('')}</ul><h3 class="section-heading" style="margin-top:26px">${t('feeds_h')}</h3>${src.length?`<ul class="state-log">${src.map(s=>`<li><span>${link(s.url,s.name)}</span><span class="${s.ok?'good':'bad'}">${s.ok?esc(t('feed_ok',{n:s.count})):t('feed_ko')}</span></li>`).join('')}</ul>`:infoEmpty(t('no_feed'))}</section>`;
+ return `${header(t('reperes_h'),t('reperes_k'))}<section class="subsection"><h2 class="section-heading">${esc(t('weather_h',{p:place().name}))}</h2>${placeBar()}${weatherCard(true)}</section><section class="subsection"><h2 class="section-heading">${esc(t('fuel_h',{p:place().name}))}</h2>${fuelCard(true)}</section><section class="subsection"><h2 class="section-heading">${t('transp')}</h2><p>${esc(t('last_ed',{d:data?fmtDate(data.date):t('none_w')}))}${data?' · '+esc(t('coll',{t:fmtDatetime(data.generatedAt)})):''}.</p><p class="micro">${t('reliab')}</p><ul class="state-log">${[['c_news','actualites'],['c_weather','meteo'],['c_fuel','carburants']].map(([label,key])=>`<li><span>${t(label)}</span><span class="${checks[key]?'good':'bad'}">${checks[key]?t('avail'):t('unavail')}</span></li>`).join('')}</ul><h3 class="section-heading" style="margin-top:26px">${t('feeds_h')}</h3>${src.length?`<ul class="state-log">${src.map(s=>`<li><span>${link(s.url,s.name)}</span><span class="${s.ok?'good':'bad'}">${s.ok?esc(t('feed_ok',{n:s.count})):t('feed_ko')}</span></li>`).join('')}</ul>`:infoEmpty(t('no_feed'))}</section>`;
 }
 function favoriteCards(){const q=state.q.toLocaleLowerCase(LOC()),items=Object.values(state.saved||{}).filter(a=>(a.title+' '+a.source).toLocaleLowerCase(LOC()).includes(q)).sort((a,b)=>String(b.publishedAt||'').localeCompare(a.publishedAt||''));return items.length?items.map(mediaCard).join(''):infoEmpty(t('fav_none'),t('fav_none_d'));}
 function archives(){
@@ -278,7 +295,7 @@ function toggleSaved(id){
  else{const item=[...(data.news?.france||[]),...(data.news?.monde||[])].find(a=>a.id===id);if(!item)return;state.saved[id]={id:item.id,title:item.title,link:item.link,source:item.source,publishedAt:item.publishedAt};}
  persist();render();
 }
-document.addEventListener('click',event=>{const el=event.target.closest('button');if(!el)return;if(el.dataset.geo){useGeolocation(false);}else if(el.dataset.pick){pickCity(Number(el.dataset.pick));}else if(el.dataset.lang){if(LANGS[el.dataset.lang]){state.lang=el.dataset.lang;persist();render();}}else if(el.dataset.tab){state.tab=el.dataset.tab;render();window.scrollTo(0,0);}else if(el.dataset.save){toggleSaved(el.dataset.save);}else if(el.dataset.size){state.size=Math.max(15,Math.min(23,state.size+Number(el.dataset.size)));persist();render();}else if(el.dataset.theme){state.theme=el.dataset.theme;persist();render();}else if(el.dataset.accent){state.accent=el.dataset.accent;persist();render();}else if(el.dataset.refresh){Promise.all([loadLatest(),loadArchiveIndex()]);}});
+document.addEventListener('click',event=>{const el=event.target.closest('button');if(!el)return;if(el.dataset.topic){state.topic=el.dataset.topic;render();}else if(el.dataset.geo){useGeolocation(false);}else if(el.dataset.pick){pickCity(Number(el.dataset.pick));}else if(el.dataset.lang){if(LANGS[el.dataset.lang]){state.lang=el.dataset.lang;persist();render();}}else if(el.dataset.tab){state.tab=el.dataset.tab;render();window.scrollTo(0,0);}else if(el.dataset.save){toggleSaved(el.dataset.save);}else if(el.dataset.size){state.size=Math.max(15,Math.min(23,state.size+Number(el.dataset.size)));persist();render();}else if(el.dataset.theme){state.theme=el.dataset.theme;persist();render();}else if(el.dataset.accent){state.accent=el.dataset.accent;persist();render();}else if(el.dataset.refresh){Promise.all([loadLatest(),loadArchiveIndex()]);}});
 document.addEventListener('submit',event=>{if(event.target.id==='city-form'){event.preventDefault();searchCity(event.target.querySelector('input')?.value);}});
 document.addEventListener('change',event=>{if(event.target.id==='edition-select')selectArchive(event.target.value);else if(event.target.id==='lang'&&LANGS[event.target.value]){state.lang=event.target.value;persist();render();}});
 document.addEventListener('input',event=>{if(event.target.id==='search'){state.q=event.target.value;const area=$('favorite-list');if(area)area.innerHTML=favoriteCards();}});
