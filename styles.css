@@ -94,3 +94,29 @@ footer{border-top:2px double var(--ink);margin:25px 0 18px;padding-top:17px;font
 @media(min-width:800px){.container{padding:0 35px}.page{padding-top:32px}.bottom-nav{left:50%;transform:translateX(-50%);max-width:630px;border-left:1px solid var(--line);border-right:1px solid var(--line);border-radius:9px 9px 0 0}}
 @media(max-width:560px){.container{padding:0 17px}.grid{grid-template-columns:1fr}.brand{letter-spacing:-.06em}.masthead{padding:17px 0 15px}.datebar{font-size:.69rem}.hero{padding-top:5px}.page{padding-top:19px}.tile{padding:15px}.bottom-nav button{font-size:.6rem}.section-title{font-size:1.45rem}.timeline li{grid-template-columns:56px 1fr}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.page{animation:none}}
+
+.placebar{background:var(--tag);border-left:3px solid var(--olive);padding:14px 16px;margin:12px 0 18px;font:400 .88rem/1.55 system-ui,sans-serif}
+.placeline{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px}
+.cityform{display:flex;gap:8px;margin-top:10px}
+.cityform input{flex:1;min-width:0}
+.cityresults{display:flex;flex-direction:column;align-items:flex-start;gap:8px;margin-top:10px}
+.placebar .micro{margin:8px 0 0}
+.placebar .mbtn[disabled]{opacity:.6}
+
+.datebar-right{display:inline-flex;align-items:center;gap:10px;flex-wrap:wrap}
+.datebar select{font:600 .72rem system-ui,sans-serif;padding:4px 6px;border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:3px}
+.story{position:relative;border-top:1px solid var(--line);padding:22px 0 18px}
+.story h3{font-size:clamp(1.25rem,3.4vw,1.55rem);line-height:1.25;margin:4px 38px 12px 0;letter-spacing:-.01em;max-width:850px}
+.story h4{font:750 .72rem system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--olive);margin:18px 0 6px}
+.story p{margin:0 0 8px;max-width:760px}
+.stakes{margin:0;padding-left:20px;max-width:760px}
+.stakes li{margin:0 0 6px}
+.srclist{list-style:none;margin:0;padding:0;font:400 .85rem/1.55 system-ui,sans-serif}
+.srclist li{padding:4px 0}
+.srclink{color:var(--ink);text-underline-offset:2px}
+.cover{margin:10px 0 14px;max-width:760px}
+.cover img{display:block;width:100%;max-height:380px;object-fit:cover;border-radius:3px;background:var(--tag)}
+.cover figcaption{margin-top:5px}
+.cover figcaption a{color:inherit}
+.hero .cover{margin-top:6px}
+.datebar select{width:auto;min-width:0}

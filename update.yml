@@ -1,0 +1,40 @@
+name: Mise à jour de l'édition
+
+# Trois mises à jour par jour (heures UTC ; heure de Paris = UTC+1 l'hiver, UTC+2 l'été) :
+#  - 04h30 UTC : tôt le matin (5h30 / 6h30)
+#  - 09h30 UTC : avant midi (10h30 / 11h30)
+#  - 15h30 UTC : fin d'après-midi (16h30 / 17h30)
+# GitHub peut retarder un lancement programmé de quelques minutes.
+on:
+  schedule:
+    - cron: '30 4 * * *'
+    - cron: '30 9 * * *'
+    - cron: '30 15 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: edition
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/build-edition.mjs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Enregistrer les changements
+        run: |
+          git config user.name "bot-la-bonne-info"
+          git config user.email "bot@users.noreply.github.com"
+          git pull --rebase --autostash || true
+          git add data
+          git diff --staged --quiet || (git commit -m "Édition automatique" && git push)

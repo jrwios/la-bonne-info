@@ -4,7 +4,7 @@
  <meta charset="utf-8">
  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
  <meta name="theme-color" content="#58634A">
- <meta name="description" content="LA BONNE INFO — l'actualité personnelle sourcée, sans sensationnalisme ni information inventée.">
+ <meta name="description" content="LA BONNE INFO — revue de presse croisée, neutre et sourcée.">
  <title>LA BONNE INFO — Votre quotidien</title>
  <link rel="manifest" href="./manifest.webmanifest">
  <link rel="icon" type="image/png" href="./icon-192.png">
@@ -13,13 +13,13 @@
  <script src="./app.js" defer></script>
 </head>
 <body>
- <div class="topline">L'information, sans l'agitation</div>
+ <div class="topline" id="topline">L'information, sans l'agitation</div>
  <header class="container">
-  <div class="masthead"><div class="kicker">Le quotidien qui prend le temps</div><h1 class="brand">LA BONNE <b>INFO</b></h1><p class="tagline">Comprendre le monde. Cultiver sa curiosité.</p></div>
-  <div class="datebar"><span id="today">—</span><span class="date-chip" id="edition-chip">Chargement des sources…</span></div>
-  <div class="alert" id="info-banner" role="status">Recherche de la dernière édition sourcée…</div>
+  <div class="masthead"><div class="kicker" id="kicker">Le quotidien qui prend le temps</div><h1 class="brand">LA BONNE <b>INFO</b></h1><p class="tagline" id="tagline">Comprendre le monde. Cultiver sa curiosité.</p></div>
+  <div class="datebar"><span id="today">—</span><span class="datebar-right"><select id="lang" aria-label="Langue / Language"></select><span class="date-chip" id="edition-chip">…</span></span></div>
+  <div class="alert" id="info-banner" role="status">…</div>
  </header>
- <main class="container" id="app" tabindex="-1"><div class="page"><p>Chargement du journal…</p></div></main>
- <nav class="bottom-nav" aria-label="Rubriques du quotidien" id="nav"></nav>
+ <main class="container" id="app" tabindex="-1"><div class="page"><p>…</p></div></main>
+ <nav class="bottom-nav" aria-label="Menu" id="nav"></nav>
 </body>
 </html>
