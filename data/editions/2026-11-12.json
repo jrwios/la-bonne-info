@@ -1,25 +1,1039 @@
 {
   "schemaVersion": 2,
   "date": "2026-11-12",
-  "generatedAt": "2026-11-12T21:15:51.468Z",
-  "status": "partielle",
+  "generatedAt": "2026-11-12T21:25:57.492Z",
+  "status": "complète",
   "stories": {
-    "france": [],
-    "monde": []
+    "france": [
+      {
+        "id": "s5f255586c1",
+        "title": "Interdiction de territoire israélien pour des dirigeants de La France insoumise",
+        "context": "Les relations diplomatiques entre la France et Israël connaissent des tensions régulières sur la politique au Moyen-Orient. La veille de la décision, les autorités françaises avaient refoulé un représentant des colons israéliens à son arrivée à Paris.",
+        "summary": "Le gouvernement israélien a décidé d'interdire l'accès à son territoire à Jean-Luc Mélenchon et Mathilde Panot, figures de La France insoumise. La diplomatie israélienne justifie cette mesure en accusant la formation politique d'adopter des positions extrêmement hostiles et de nuire aux intérêts de l'État hébreu. Paris dénonce de son côté une décision qualifiée de démagogique par le gouvernement français. Jean-Luc Mélenchon a exprimé son regret face à cette interdiction.",
+        "stakes": [
+          "Quel impact sur les relations diplomatiques franco-israéliennes ?",
+          "Quelles conséquences pour le débat politique interne en France ?",
+          "Comment évoluera la position des formations politiques françaises sur le conflit au Moyen-Orient ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Jean-Luc Mélenchon a été interdit d’entrée en Israël en raison de la « position extrêmement hostile » de LFI",
+            "link": "https://www.lemonde.fr/international/article/2026/11/12/israel-interdit-a-jean-luc-melenchon-l-entree-sur-son-territoire-jugeant-lfi-extremement-hostile-a-son-egard_6809141_3210.html",
+            "publishedAt": "2026-11-12T17:39:26.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "Israël interdit de territoire Jean-Luc Mélenchon, la France dénonce une «décision démagogique»",
+            "link": "https://www.liberation.fr/politique/elections/israel-interdit-de-territoire-jean-luc-melenchon-en-raison-dune-position-extremement-hostile-20261112_HJWXENCSYRGBLI4UD6UX5ATXHE/",
+            "publishedAt": "2026-11-12T20:26:04.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Israël : Jean-Luc Mélenchon et Mathilde Panot interdits d’entrée sur le territoire",
+            "link": "https://www.la-croix.com/politique/israel-jean-luc-melenchon-interdit-d-entree-sur-le-territoire-20261112",
+            "publishedAt": "2026-11-12T19:25:58.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "L'Express",
+            "title": "Israël interdit l'entrée sur son territoire à Jean-Luc Mélenchon et Mathilde Panot",
+            "link": "https://www.lexpress.fr/monde/proche-moyen-orient/israel-interdit-lentree-sur-son-territoire-a-jean-luc-melenchon-et-mathilde-panot-WY3FKXYFP5ADNFCOBFESFUZXKM/",
+            "publishedAt": "2026-11-12T18:28:11.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/08/392/0/4724/2362/644/322/60/0/525e6df_upload-1-f6vcfl5bwfe7-mmagnin-meeting-melenchon-62.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/international/article/2026/11/12/israel-interdit-a-jean-luc-melenchon-l-entree-sur-son-territoire-jugeant-lfi-extremement-hostile-a-son-egard_6809141_3210.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Israeli Territory Ban for La France Insoumise Leaders",
+            "context": "Diplomatic relations between France and Israel regularly experience tensions over Middle East policy. The day before the decision, French authorities had turned back an Israeli settler representative upon his arrival in Paris.",
+            "summary": "The Israeli government has decided to ban Jean-Luc Mélenchon and Mathilde Panot, prominent figures of La France insoumise, from entering its territory. Israeli diplomacy justifies this measure by accusing the political formation of adopting extremely hostile positions and harming the interests of the Jewish state. Paris, for its part, denounced a decision described as demagogic by the French government. Jean-Luc Mélenchon expressed his regret over this ban.",
+            "stakes": [
+              "What impact will this have on Franco-Israeli diplomatic relations?",
+              "What consequences for internal political debate in France?",
+              "How will the position of French political formations on the Middle East conflict evolve?"
+            ]
+          },
+          "es": {
+            "title": "Prohibición de territorio israelí para dirigentes de La France Insoumise",
+            "context": "Las relaciones diplomáticas entre Francia e Israel experimentan tensiones regulares sobre la política en Oriente Medio. El día antes de la decisión, las autoridades francesas habían rechazado a un representante de los colonos israelíes a su llegada a París.",
+            "summary": "El gobierno israelí ha decidido prohibir la entrada a su territorio a Jean-Luc Mélenchon y Mathilde Panot, figuras de La France insoumise. La diplomacia israelí justifica esta medida acusando a la formación política de adoptar posiciones extremadamente hostiles y de perjudicar los intereses del Estado hebreo. Por su parte, París denunció una decisión calificada de demagógica por el gobierno francés. Jean-Luc Mélenchon expresó su pesar ante esta prohibición.",
+            "stakes": [
+              "¿Qué impacto tendrá en las relaciones diplomáticas franco-israelíes?",
+              "¿Qué consecuencias para el debate político interno en Francia?",
+              "¿Cómo evolucionará la posición de las formaciones políticas francesas sobre el conflicto en Oriente Medio?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s2d255ac981",
+        "title": "Démission du fondateur de Nvidia Jensen Huang après des révélations personnelles",
+        "context": "L'entreprise américaine Nvidia occupe une position dominante sur le marché mondial des semi-conducteurs et de l'intelligence artificielle. Jensen Huang en assurait la direction stratégique et la représentation publique depuis sa création.",
+        "summary": "Le PDG et fondateur de Nvidia, Jensen Huang, a présenté sa démission le 12 novembre. Cette décision fait suite à des révélations sur des liaisons extraconjugales, notamment avec une femme d'affaires chinoise, ainsi qu'à des soupçons d'espionnage industriel. L'affaire prend une dimension géopolitique en raison des rivalités technologiques entre les États-Unis et la Chine. Les observateurs s'interrogent désormais sur la gouvernance des géants de la technologie centrés sur une figure unique.",
+        "stakes": [
+          "Quelles répercussions pour l'équilibre stratégique du secteur mondial de l'intelligence artificielle ?",
+          "Quels risques de gouvernance pour les entreprises fortement dépendantes de leur fondateur ?",
+          "Comment les autorités américaines vont-elles gérer les enjeux de sécurité industrielle soulevés ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Démission de Jensen Huang : derrière le scandale, une forte implication géopolitique",
+            "link": "https://www.liberation.fr/idees-et-debats/editorial/demission-de-jensen-huang-derriere-le-scandale-une-forte-implication-geopolitique-20261112_TCOSGKQ7F5HOTAXLSPVCTR3LDA/",
+            "publishedAt": "2026-11-12T20:06:20.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "Rendez-vous galants, montages financiers, rumeurs d’espionnage... Le récit de la chute de Jensen Huang, patron de Nvidia",
+            "link": "https://www.liberation.fr/economie/economie-numerique/rendez-vous-galants-montages-financiers-rumeurs-despionnage-le-recit-de-la-chute-de-jensen-huang-patron-de-nvidia-20261112_53WXP7SCP5GKBGOGDHZT46LPIM/",
+            "publishedAt": "2026-11-12T19:37:36.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Chute de Jensen Huang : Nvidia victime du « syndrome de l’homme providentiel »",
+            "link": "https://www.la-croix.com/economie/chute-de-jensen-huang-nvidia-victime-du-syndrome-de-l-homme-providentiel-20261112",
+            "publishedAt": "2026-11-12T16:27:36.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "L'Express",
+            "title": "Nvidia : Jensen Huang démissionne sur fond de liaisons et de soupçons d'espionnage",
+            "link": "https://www.lexpress.fr/economie/high-tech/nvidia-jensen-huang-demissionne-sur-fond-de-liaisons-et-de-soupcons-despionnage-4R5L4ELXOJHM5GPBAJSJGXTBOE/",
+            "publishedAt": "2026-11-12T14:55:50.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/12/2587802-jensen-huang-fondateur-de-nvidia-a-demissionne-de-.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/economie/chute-de-jensen-huang-nvidia-victime-du-syndrome-de-l-homme-providentiel-20261112"
+        },
+        "i18n": {
+          "en": {
+            "title": "Resignation of Nvidia Founder Jensen Huang Following Personal Revelations",
+            "context": "The American company Nvidia holds a dominant position in the global semiconductor and artificial intelligence market. Jensen Huang had ensured its strategic leadership and public representation since its creation.",
+            "summary": "Nvidia CEO and founder Jensen Huang submitted his resignation on November 12. This decision follows revelations about extramarital affairs, notably with a Chinese businesswoman, as well as suspicions of industrial espionage. The affair is taking on a geopolitical dimension due to technological rivalries between the United States and China. Observers are now questioning the governance of technology giants centered around a single figure.",
+            "stakes": [
+              "What repercussions for the strategic balance of the global artificial intelligence sector?",
+              "What governance risks for companies heavily dependent on their founder?",
+              "How will the US authorities handle the industrial security issues raised?"
+            ]
+          },
+          "es": {
+            "title": "Dimensión del fundador de Nvidia, Jensen Huang, tras revelaciones personales",
+            "context": "La empresa estadounidense Nvidia ocupa una posición dominante en el mercado mundial de semiconductores y de inteligencia artificial. Jensen Huang aseguraba su dirección estratégica y representación pública desde su creación.",
+            "summary": "El director ejecutivo y fundador de Nvidia, Jensen Huang, presentó su dimisión el 12 de noviembre. Esta decisión se produce tras revelaciones sobre relaciones extramatyrimoniales, en particular con una empresaria china, así como sospechas de espionaje industrial. El asunto adquiere una dimensión geopolítica debido a las rivalidades tecnológicas entre Estados Unidos y China. Los observadores se cuestionan ahora sobre la gobernanza de los gigantes tecnológicos centrados en una figura única.",
+            "stakes": [
+              "¿Qué repercusiones tendrá para el equilibrio estratégico del sector mundial de la inteligencia artificial?",
+              "¿Qué riesgos de gobernanza para las empresas fuertemente dependientes de su fundador?",
+              "¿Cómo gestionarán las autoridades estadounidenses los problemas de seguridad industrial planteados?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sb1accb7438",
+        "title": "Saisine du Conseil supérieur de la magistrature dans l'affaire Lyhanna",
+        "context": "Le traitement judiciaire des violences commises sur les mineurs fait l'objet d'une vigilance accrue de la part du ministère de la Justice. Une enquête impliquant Jérôme Barella a soulevé des interrogations sur la gestion des procédures locales.",
+        "summary": "Le garde des Sceaux Gérald Darmanin a saisi le Conseil supérieur de la magistrature à l'encontre d'une magistrate exerçant au tribunal d'Auch. Le ministre reproche à cette substitute du procureur des défaillances et un manque de conscience professionnelle dans la conduite de dossiers de violences sur mineurs. Cette démarche intervient après le décès de la jeune Lyhanna. L'ensemble de la carrière de la magistrate et les pratiques judiciaires locales font désormais l'objet de vérifications.",
+        "stakes": [
+          "Quelle responsabilité disciplinaire pour la chaîne judiciaire dans la gestion des dossiers sensibles ?",
+          "Quels changements à prévoir dans le suivi judiciaire des violences subies par les mineurs ?",
+          "Quelle sera l'issue des poursuites engagées devant l'instance disciplinaire des magistrats ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Mort de Lyhanna : Gérald Darmanin saisit le Conseil de la magistrature contre une magistrate d’Auch après le « traitement défaillant » de la procédure",
+            "link": "https://www.lemonde.fr/societe/article/2026/11/12/mort-de-lyhanna-gerald-darmanin-saisit-le-conseil-de-la-magistrature-contre-une-magistrate-d-auch-apres-le-traitement-defaillant-de-la-procedure_6809158_3224.html",
+            "publishedAt": "2026-11-12T19:25:57.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "Affaire Lyhanna : Gérald Darmanin saisit le Conseil de la magistrature contre une magistrate d’Auch",
+            "link": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-gerald-darmanin-saisit-le-conseil-de-la-magistrature-contre-une-magistrate-dauch-20261112_R7YZEZF7HVBKLP77VULAGHIGAA/",
+            "publishedAt": "2026-11-12T19:22:03.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Affaire Lyhanna : Gérald Darmanin saisit le Conseil de la magistrature contre une magistrate d’Auch",
+            "link": "https://www.la-croix.com/societe/affaire-lyhanna-gerald-darmanin-saisit-le-conseil-de-la-magistrature-contre-une-magistrate-d-auch-20261112",
+            "publishedAt": "2026-11-12T18:34:24.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/10/22/631/0/6694/3347/644/322/60/0/36320a8_ftp-1-zdsjwwedbpqo-afp-d43k9lp.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/societe/article/2026/11/12/mort-de-lyhanna-gerald-darmanin-saisit-le-conseil-de-la-magistrature-contre-une-magistrate-d-auch-apres-le-traitement-defaillant-de-la-procedure_6809158_3224.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Referral to the High Council of the Judiciary in the Lyhanna Case",
+            "context": "The judicial handling of violence committed against minors is subject to increased vigilance by the Ministry of Justice. An investigation involving Jérôme Barella has raised questions about the management of local procedures.",
+            "summary": "Keeper of the Seals Gérald Darmanin has referred a magistrate working at the Auch court to the High Council of the Judiciary. The minister blames this deputy prosecutor for failures and a lack of professional conscience in handling cases of violence against minors. This action comes after the death of young Lyhanna. The magistrate's entire career and local judicial practices are now being reviewed.",
+            "stakes": [
+              "What disciplinary responsibility for the judicial chain in managing sensitive cases?",
+              "What changes to expect in the judicial monitoring of violence suffered by minors?",
+              "What will be the outcome of the proceedings initiated before the magistrates' disciplinary body?"
+            ]
+          },
+          "es": {
+            "title": "Remisión al Consejo Superior de la Magistratura en el caso Lyhanna",
+            "context": "El tratamiento judicial de la violencia cometida contra menores es objeto de una vigilancia reforzada por parte del Ministerio de Justicia. Una investigación que implica a Jérôme Barella ha planteado interrogantes sobre la gestión de los procedimientos locales.",
+            "summary": "El ministro de Justicia, Gérald Darmanin, ha remitido al Consejo Superior de la Magistratura el caso de una magistrada que ejerce en el tribunal de Auch. El ministro reprocha a esta fiscal suplente fallos y falta de conciencia profesional en la gestión de expedientes de violencia contra menores. Este paso se produce tras la muerte de la joven Lyhanna. Toda la carrera de la magistrada y las prácticas judiciales locales son ahora objeto de comprobaciones.",
+            "stakes": [
+              "¿Qué responsabilidad disciplinaria para la cadena judicial en la gestión de expedientes sensibles?",
+              "¿Qué cambios cabe prever en el seguimiento judicial de la violencia sufrida por los menores?",
+              "¿Cuál será el resultado de los procedimientos iniciados ante la instancia disciplinaria de los magistrados?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sd248b6c2db",
+        "title": "Suites de l'attentat de Trappes et vives tensions politiques",
+        "context": "Un attentat à caractère raciste commis dans les Yvelines par Kévin Tessier a suscité une vive émotion et l'ouverture de plusieurs enquêtes judiciaires. L'auteur présentait un parcours d'isolement et faisait déjà l'objet d'une plainte déposée en 2024.",
+        "summary": "Les investigations autour de l'attentat de Trappes précisent le profil de Kévin Tessier, décrit par ses proches comme instable et habité par une haine raciste. Mediapart révèle qu'une plainte pour violences avait été déposée contre lui deux ans auparavant par un homme d'origine tunisienne. Sur le plan politique, la patronne des Écologistes Marine Tondelier a affirmé que des tracts du Rassemblement national avaient été retrouvés au domicile du suspect. En réaction, le Rassemblement national a annoncé son intention de porter plainte pour diffamation.",
+        "stakes": [
+          "Quelles failles judiciaires ou policières dans le suivi des signaux faibles de radicalisation raciste ?",
+          "Quelle sera la suite judiciaire de la plainte en diffamation entre formations politiques ?",
+          "Comment la justice va-t-elle qualifier les responsabilités et les motivations de l'auteur ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Figaro",
+            "title": "«Il a dupé tout le monde» : après l’attentat de Trappes, Kevin Tessier, «la bête noire» racontée par sa famille",
+            "link": "https://www.lefigaro.fr/faits-divers/il-a-dupe-tout-le-monde-apres-l-attentat-de-trappes-kevin-tessier-la-bete-noire-racontee-par-sa-famille-20261112",
+            "publishedAt": "2026-11-12T20:00:00.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "«Des gens tuent en son nom» : après les propos de Marine Tondelier sur l’attentat de Trappes, le RN va porter plainte en diffamation",
+            "link": "https://www.liberation.fr/politique/elections/des-gens-tuent-en-son-nom-apres-les-propos-de-marine-tondelier-sur-lattentat-de-trappes-le-rn-va-porter-plainte-en-diffamation-20261112_HFJ4OYDV7ZEXNKWYRG32QKOHDA/",
+            "publishedAt": "2026-11-12T20:15:20.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "Attentat raciste des Yvelines : Kévin Tessier avait déjà fait l’objet d’une plainte pour violences en 2024, selon «Mediapart»",
+            "link": "https://www.liberation.fr/societe/police-justice/attentat-raciste-de-trappes-kevin-tessier-avait-deja-fait-lobjet-dune-plainte-pour-violences-en-2024-selon-mediapart-20261112_HAETOSO6MJH25NSTYREQO3GB2I/",
+            "publishedAt": "2026-11-12T18:45:08.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "Attaque raciste à La Verrière et Trappes : le RN annonce qu’il va porter plainte en diffamation contre Marine Tondelier",
+            "link": "https://www.ouest-france.fr/politique/rassemblement-national/attaque-raciste-a-la-verriere-et-trappes-le-rn-annonce-quil-va-porter-plainte-en-diffamation-contre-marine-tondelier-14c15076-ded2-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-12T20:13:23.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/11/12/638b483fb9302d34e759fa39f15867d8233887e02c939ef644dc6e5b1dc1a8ec.jpg",
+          "credit": "Le Figaro",
+          "link": "https://www.lefigaro.fr/faits-divers/il-a-dupe-tout-le-monde-apres-l-attentat-de-trappes-kevin-tessier-la-bete-noire-racontee-par-sa-famille-20261112"
+        },
+        "i18n": {
+          "en": {
+            "title": "Aftermath of the Trappes Attack and Sharp Political Tensions",
+            "context": "A racist attack committed in the Yvelines by Kévin Tessier sparked strong emotion and the opening of several judicial investigations. The perpetrator had a history of isolation and was already the subject of a complaint filed in 2024.",
+            "summary": "Investigations surrounding the Trappes attack are clarifying the profile of Kévin Tessier, described by those close to him as unstable and driven by racist hatred. Mediapart revealed that a complaint for violence had been filed against him two years earlier by a man of Tunisian origin. Politically, the leader of the Ecologists, Marine Tondelier, claimed that National Rally flyers were found at the suspect's home. In reaction, the National Rally announced its intention to file a defamation lawsuit.",
+            "stakes": [
+              "What judicial or police failures in monitoring weak signals of racist radicalization?",
+              "What will be the judicial follow-up of the defamation complaint between political formations?",
+              "How will the judiciary qualify the responsibilities and motivations of the perpetrator?"
+            ]
+          },
+          "es": {
+            "title": "Consecuencias del atentado de Trappes y vivas tensiones políticas",
+            "context": "Un atentado de carácter racista cometido en Yvelines por Kévin Tessier suscitó una gran emoción y la apertura de varias investigaciones judiciales. El autor presentaba un historial de aislamiento y ya era objeto de una denuncia interpuesta en 2024.",
+            "summary": "Las investigaciones en torno al atentado de Trappes precisan el perfil de Kévin Tessier, descrito por sus allegados como inestable y habitado por un odio racista. Mediapart revela que dos años antes un hombre de origen tunecino había presentado una denuncia contra él por violencia. En el plano político, la líder de los Ecologistas, Marine Tondelier, afirmó que se habían encontrado octavillas de Agrupación Nacional en el domicilio del sospechoso. En reacción, Agrupación Nacional anunció su intención de presentar una querella por difamación.",
+            "stakes": [
+              "¿Qué fallos judiciales o policiales hubo en el seguimiento de las señales débiles de radicalización racista?",
+              "¿Cuál será el recorrido judicial de la denuncia por difamación entre formaciones políticas?",
+              "¿Cómo calificará la justicia las responsabilidades y las motivaciones del autor?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "safc2990463",
+        "title": "Négociations sur l'Ukraine et inquiétudes des diplomates européens",
+        "context": "Le conflit russo-ukrainien se poursuit alors que la diplomatie internationale tente de fixer le cadre de futures discussions de paix. La gouvernance américaine mène des échanges parallèles avec Moscou et Kyiv.",
+        "summary": "Les émissaires américains Jared Kushner et Steve Witkoff se sont rendus à Moscou pour s'entretenir avec Vladimir Poutine avant de rejoindre Dublin pour rencontrer Volodymyr Zelensky. Le président ukrainien a évoqué une possible opportunité de percée dans les négociations. Dans le même temps, les dirigeants européens réunis à Dublin redoutent un accord direct négocié sans eux par les grandes puissances. Des divergences persistent également au sein de l'Union européenne sur les modalités de l'aide financière accordée à l'Ukraine.",
+        "stakes": [
+          "Les pays européens seront-ils associés à la définition du futur cadre de sécurité continentale ?",
+          "Quel compromis diplomatique peut émerger des discussions entre Washington, Moscou et Kyiv ?",
+          "Comment l'Union européenne maintiendra-t-elle sa cohésion sur le soutien à l'Ukraine ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "EN DIRECT, guerre en Ukraine : les émissaires américains sont arrivés à Dublin pour rencontrer Volodymyr Zelensky",
+            "link": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-a-dublin-pour-rencontrer-volodymyr-zelensky_6808609_3210.html",
+            "publishedAt": "2026-11-12T21:10:20.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Figaro",
+            "title": "Pourquoi les Européens craignent la rencontre aux allures de « Yalta » entre Donald Trump, Vladimir Poutine et Xi Jinping",
+            "link": "https://www.lefigaro.fr/international/pourquoi-les-europeens-craignent-la-rencontre-aux-allures-de-yalta-entre-donald-trump-vladimir-poutine-et-xi-jinping-20261112",
+            "publishedAt": "2026-11-12T20:30:00.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Guerre en Ukraine : ce qu’il faut retenir de la situation du jeudi 12 novembre",
+            "link": "https://www.la-croix.com/international/ukraine-russie-jour-1723-point-conflit-ukrainien-poutine-aujourdhui-20261112",
+            "publishedAt": "2026-11-12T20:19:10.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "L'Express",
+            "title": "\"Du chantage\" : l'aide à l'Ukraine au cœur d'un bras de fer entre pays européens",
+            "link": "https://www.lexpress.fr/monde/europe/du-chantage-laide-a-lukraine-au-coeur-dun-bras-de-fer-entre-pays-europeens-7XHNE6UN6RAETFD2RSSLIWQ54M/",
+            "publishedAt": "2026-11-12T09:53:46.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/12/688/0/7735/3867/644/322/60/0/f4823ce_ftp-1-lfossm52iywe-c370a1a1946a46c4bac1ce9860bdd08c-1-77ac55c7397343bfa3be87c05b12d2ea.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-a-dublin-pour-rencontrer-volodymyr-zelensky_6808609_3210.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Negotiations on Ukraine and Concerns of European Diplomats",
+            "context": "The Russian-Ukrainian conflict continues as international diplomacy attempts to set the framework for future peace talks. The US governance is conducting parallel exchanges with Moscow and Kyiv.",
+            "summary": "US emissaries Jared Kushner and Steve Witkoff traveled to Moscow to hold talks with Vladimir Putin before heading to Dublin to meet with Volodymyr Zelensky. The Ukrainian president mentioned a possible opportunity for a breakthrough in the negotiations. At the same time, European leaders gathered in Dublin fear a direct agreement negotiated without them by the major powers. Divergences also persist within the European Union regarding the modalities of financial aid granted to Ukraine.",
+            "stakes": [
+              "Will European countries be associated with defining the future continental security framework?",
+              "What diplomatic compromise can emerge from discussions between Washington, Moscow, and Kyiv?",
+              "How will the European Union maintain its cohesion regarding support for Ukraine?"
+            ]
+          },
+          "es": {
+            "title": "Negociaciones sobre Ucrania y preocupaciones de los diplomáticos europeos",
+            "context": "El conflicto ruso-ucraniano continúa mientras la diplomacia internacional intenta fijar el marco de futuras discusiones de paz. La gobernanza estadounidense lleva a cabo intercambios paralelos con Moscú y Kiev.",
+            "summary": "Los emisarios estadounidenses Jared Kushner y Steve Witkoff viajaron a Moscú para entrevistarse con Vladimir Putin antes de unirse a Dublín para reunirse con Volodímir Zelenski. El presidente ucraniano mencionó una posible oportunidad de avance en las negociaciones. Al mismo tiempo, los dirigentes europeos reunidos en Dublín temen un acuerdo directo negociado sin ellos por las grandes potencias. También persisten divergencias en el seno de la Unión Europea sobre las modalidades de la ayuda financiera concedida a Ucrania.",
+            "stakes": [
+              "¿Serán asociados los países europeos a la definición del futuro marco de seguridad continental?",
+              "¿Qué compromiso diplomático puede surgir de las discusiones entre Washington, Moscú y Kiev?",
+              "¿Cómo mantendrá la Unión Europea su cohesión en el apoyo a Ucrania?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s1a04a0519f",
+        "title": "Pluies torrentielles et menaces météorologiques dans le sud de la France",
+        "context": "Le sud de la France et la Corse sont régulièrement exposés à des épisodes pluviométriques intenses lors des changements de saison. Une dépression nommée Charles a traversé la péninsule ibérique avant de se diriger vers le territoire français.",
+        "summary": "De fortes précipitations se sont abattues le 12 novembre sur les Alpes-Maritimes et la Corse, entraînant des inondations et des crues rapides. La Haute-Corse a été placée en vigilance orange en raison du débordement du fleuve Tavignano. À Nice, les secours ont sauvé de justesse deux personnes emportées par les eaux, tandis qu'un établissement scolaire a été évacué à Mandelieu-la-Napoule. Les autorités restent vigilantes face à l'arrivée de la tempête Charles dans le Sud.",
+        "stakes": [
+          "Les infrastructures locales résisteront-elles à la répétition des événements météorologiques extrêmes ?",
+          "Comment améliorer la prévention et les dispositifs d'évacuation d'urgence ?",
+          "Quels dégâts matériels et financiers seront constatés à l'issue des intempéries ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Des pluies torrentielles frappent la Corse et le sud-est de la France",
+            "link": "https://www.franceinfo.fr/environnement/meteo/des-pluies-torrentielles-frappent-la-corse-et-le-sud-est-de-la-france_8279972.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-12T19:42:05.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "franceinfo",
+            "title": "Le département de la Haute-Corse placé en vigilance orange aux crues, après une forte montée des eaux du fleuve Tavignano",
+            "link": "https://www.franceinfo.fr/environnement/meteo/le-departement-de-la-haute-corse-place-en-vigilance-orange-aux-crues_8279591.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-12T15:47:41.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "franceinfo",
+            "title": "\"Il faudra être vigilant\" : la tempête Charles, qui a touché le Portugal, se dirige vers le sud de la France",
+            "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/il-faudra-etre-vigilant-la-tempete-charles-qui-a-touche-le-portugal-se-dirige-vers-le-sud-de-la-france_8278292.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-11T21:54:24.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/TgS4PlYmv8gERZvHcySQxLYSGE4/0x41:1397x826/432x243/filters:format(jpg)/2026/11/12/6af61567defc5794929348.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/environnement/meteo/des-pluies-torrentielles-frappent-la-corse-et-le-sud-est-de-la-france_8279972.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Torrential Rains and Weather Threats in Southern France",
+            "context": "Southern France and Corsica are regularly exposed to intense rainfall events during seasonal changes. A low-pressure system named Charles crossed the Iberian Peninsula before heading towards French territory.",
+            "summary": "Heavy rainfall hit the Alpes-Maritimes and Corsica on November 12, leading to flooding and rapid rising waters. Haute-Corse was placed on orange alert due to the overflowing of the Tavignano River. In Nice, rescue workers narrowly saved two people swept away by the waters, while a school was evacuated in Mandelieu-la-Napoule. Authorities remain vigilant in the face of the arrival of storm Charles in the South.",
+            "stakes": [
+              "Will local infrastructure withstand the repetition of extreme weather events?",
+              "How to improve prevention and emergency evacuation systems?",
+              "What material and financial damages will be recorded following the bad weather?"
+            ]
+          },
+          "es": {
+            "title": "Lluvias torrenciales y amenazas meteorológicas en el sur de Francia",
+            "context": "El sur de Francia y Córcega se exponen regularmente a episodios de precipitaciones intensas durante los cambios de estación. Una depresión llamada Charles atravesó la península ibérica antes de dirigirse hacia el territorio francés.",
+            "summary": "Fuertes precipitaciones azotaron el 12 de noviembre los Alpes Marítimos y Córcega, provocando inundaciones y crecidas rápidas. Alta Córcega fue puesta en alerta naranja debido al desbordamiento del río Tavignano. En Niza, los servicios de rescate salvaron por poco a dos personas arrastradas por las aguas, mientras que un centro escolar fue evacuado en Mandelieu-la-Napoule. Las autoridades se mantienen vigilantes ante la llegada de la tormenta Charles al Sur.",
+            "stakes": [
+              "¿Resistirán las infraestructuras locales a la repetición de fenómenos meteorológicos extremos?",
+              "¿Cómo mejorar la prevención y los dispositivos de evacuación de emergencia?",
+              "¿Qué daños materiales y financieros se constatarán al término de las inclemencias meteorológicas?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sff7697c300",
+        "title": "Débats de la COP31 sur le méthane et la fiscalité pétrolière",
+        "context": "La conférence sur le climat COP31 se déroule à Antalya en Turquie sur fond de tensions économiques et de hausses des coûts de l'énergie. Les émissions de méthane sont ciblées en raison de leur fort pouvoir de réchauffement à court terme.",
+        "summary": "Lors de la COP31, la France soutient l'adoption d'un accord contraignant visant à réduire rapidement les émissions mondiales de méthane. Le secrétaire général des Nations unies, António Guterres, a vivement critiqué les bénéfices records réalisés par les entreprises du secteur des énergies fossiles. Il a qualifié ces superprofits d'inacceptables sur le plan moral dans le contexte actuel. La concrétisation de l'accord se heurte toutefois aux réticences de plusieurs grands acteurs économiques mondiaux.",
+        "stakes": [
+          "Un accord contraignant sur le méthane peut-il être validé malgré les divergences internationales ?",
+          "Quelle régulation financière appliquer aux bénéfices des géants pétroliers ?",
+          "Quels objectifs environnementaux seront retenus à la fin de la COP31 ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Figaro",
+            "title": "COP31 : soutenu par la France, un accord sur le méthane pour freiner le réchauffement climatique ?",
+            "link": "https://www.lefigaro.fr/sciences/cop31-soutenu-par-la-france-un-accord-sur-le-methane-pour-freiner-le-rechauffement-climatique-20261112",
+            "publishedAt": "2026-11-12T19:45:00.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "Des superprofits «absurdes» et «moralement inacceptables» : depuis la COP31, António Guterres s’en prend aux géants pétroliers",
+            "link": "https://www.liberation.fr/environnement/climat/des-superprofits-absurdes-et-moralement-inacceptables-depuis-la-cop31-antonio-guterres-sen-prend-aux-geants-petroliers-20261112_HA2J5MVREFBFZLF2Y2L33X567E/",
+            "publishedAt": "2026-11-12T20:37:34.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://i.f1g.fr/media/cms/2977x1674_crop/2026/11/12/265c3a4bf47cca0470e093c0eb6a227ec7c67c852bb44c59d103eb8ba474800b.jpg",
+          "credit": "Le Figaro",
+          "link": "https://www.lefigaro.fr/sciences/cop31-soutenu-par-la-france-un-accord-sur-le-methane-pour-freiner-le-rechauffement-climatique-20261112"
+        },
+        "i18n": {
+          "en": {
+            "title": "COP31 Debates on Methane and Oil Taxation",
+            "context": "The COP31 climate conference is taking place in Antalya, Turkey, against a backdrop of economic tensions and rising energy costs. Methane emissions are targeted due to their high short-term warming potential.",
+            "summary": "During COP31, France is supporting the adoption of a binding agreement aimed at rapidly reducing global methane emissions. United Nations Secretary-General António Guterres strongly criticized the record profits made by fossil fuel companies. He described these superprofits as morally unacceptable in the current context. However, the realization of the agreement faces reluctance from several major global economic players.",
+            "stakes": [
+              "Can a binding agreement on methane be validated despite international divergences?",
+              "What financial regulation should apply to the profits of oil giants?",
+              "What environmental objectives will be retained at the end of COP31?"
+            ]
+          },
+          "es": {
+            "title": "Debates de la COP31 sobre el metano y la fiscalidad petrolera",
+            "context": "La conferencia sobre el clima COP31 se celebra en Antalya (Turquía) en un contexto de tensiones económicas y aumentos de los costes de la energía. Las emisiones de metano están en el punto de mira debido a su elevado poder de calentamiento a corto plazo.",
+            "summary": "Durante la COP31, Francia apoya la adopción de un acuerdo vinculante destinado a reducir rápidamente las emisiones mundiales de metano. El secretario general de las Naciones Unidas, António Guterres, criticó duramente los beneficios récord obtenidos por las empresas del sector de los combustibles fósiles. Calificó estos superbeneficios de moralmente inaceptables en el contexto actual. Sin embargo, la materialización del acuerdo tropieza con las reticencias de varios grandes actores económicos mundiales.",
+            "stakes": [
+              "¿Se puede validar un acuerdo vinculante sobre el metano a pesar de las divergencias internacionales?",
+              "¿Qué regulación financiera aplicar a los beneficios de los gigantes petroleros?",
+              "¿Qué objetivos medioambientales se adoptarán al término de la COP31?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sb242c6b871",
+        "title": "Rencontre de Ligue des nations entre la France et l'Italie",
+        "context": "La sélection française masculine de football affronte l'Italie dans le cadre de la cinquième journée de la phase de groupes de la Ligue des nations au stade San Siro. L'équipe de France cherche à valider son accès aux quarts de finale de la compétition.",
+        "summary": "L'équipe de France de football a disputé une rencontre décisive contre l'Italie à Milan pour assurer sa qualification en quarts de finale. Les Français ont ouvert le score dès la dixième minute par Michael Olise après une relance manquée du gardien italien Gianluigi Donnarumma. L'Italie a réagi rapidement et a égalisé grâce à un but de Pio Esposito sur sa première tentative. Le match s'inscrit dans la série d'invincibilité enregistrée depuis la prise de fonction de Zinédine Zidane.",
+        "stakes": [
+          "L'équipe de France validera-t-elle sa qualification pour les quarts de finale ?",
+          "Comment la sélection ajustera-t-elle son organisation tactique face aux grands adversaires ?",
+          "Quel bilan pour le parcours des Bleus sous la conduite de leur sélectionneur ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "EN DIRECT, Italie-France : après un penalty raté d’Esposito, la Squadra Azzurra prend l’avantage face aux Bleus dans ce match de Ligue des Nations",
+            "link": "https://www.lemonde.fr/sport/live/2026/11/12/en-direct-italie-france-suivez-le-match-de-ligue-des-nations-de-football_6809143_3242.html",
+            "publishedAt": "2026-11-12T17:45:01.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "VIDÉO Italie - France. Pio Esposito redonne espoir à San Siro en égalisant dans le choc de la Ligue des nations",
+            "link": "https://www.ouest-france.fr/sport/football/equipe-de-france/video-italie-france-pio-esposito-redonne-espoir-a-san-siro-en-egalisant-dans-le-choc-de-la-ligue-des-nations-bac196ea-ded5-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-12T20:32:58.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "VIDÉO Italie - France. Michael Olise profite d’une grossière erreur de Gianluigi Donnarumma pour ouvrir le score",
+            "link": "https://www.ouest-france.fr/sport/football/equipe-de-france/video-italie-france-michael-olise-profite-dune-grossiere-erreur-de-gianluigi-donnarumma-pour-ouvrir-le-score-57065dae-ded3-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-12T20:20:59.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/12/388/0/3930/1965/644/322/60/0/dc91dac_ftp-1-v1gnhhunsqah-2026-11-12t211014z-1129508533-up1embc1mt07h-rtrmadp-3-soccer-uefanations-ita-fra.JPG",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/sport/live/2026/11/12/en-direct-italie-france-suivez-le-match-de-ligue-des-nations-de-football_6809143_3242.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Nations League Match Between France and Italy",
+            "context": "The French men's football team faces Italy as part of the fifth matchday of the Nations League group stage at the San Siro stadium. The France team is looking to validate its access to the competition's quarter-finals.",
+            "summary": "The French football team played a decisive match against Italy in Milan to secure its qualification for the quarter-finals. The French opened the score in the tenth minute through Michael Olise following a missed clearance by Italian goalkeeper Gianluigi Donnarumma. Italy reacted quickly and equalized thanks to a goal from Pio Esposito on his first attempt. The match is part of the undefeated streak recorded since Zinédine Zidane took office.",
+            "stakes": [
+              "Will the France team validate its qualification for the quarter-finals?",
+              "How will the selection adjust its tactical organization against major opponents?",
+              "What is the assessment of Les Bleus' journey under the leadership of their coach?"
+            ]
+          },
+          "es": {
+            "title": "Encuentro de la Liga de Naciones entre Francia e Italia",
+            "context": "La selección francesa masculina de fútbol se enfrenta a Italia en el marco de la quinta jornada de la fase de grupos de la Liga de Naciones en el estadio San Siro. La selección de Francia busca validar su acceso a los cuartos de final de la competición.",
+            "summary": "La selección francesa de fútbol disputó un encuentro decisivo contra Italia en Milán para asegurar su clasificación para los cuartos de final. Los franceses abrieron el marcador en el minuto diez por medio de Michael Olise tras un despeje fallido del guardameta italiano Gianluigi Donnarumma. Italia reaccionó rápidamente e igualó gracias a un gol de Pio Esposito en su primer intento. El partido se inscrive en la serie de imbatibilidad registrada desde la toma de posesión de Zinédine Zidane.",
+            "stakes": [
+              "¿Validará la selección francesa su clasificación para los cuartos de final?",
+              "¿Cómo ajustará la selección su organización táctica frente a los grandes adversarios?",
+              "¿Qué balance cabe hacer de la trayectoria de los Bleus bajo la dirección de su seleccionador?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s29b0466203",
+        "title": "Visite pastorale et politique du pape Léon XIV au Pérou",
+        "context": "Le souverain pontife effectue un voyage officiel de cinq jours au Pérou, pays dans lequel il a vécu et exercé pendant deux décennies. Cette visite suscite une forte attente parmi la population et les autorités locales.",
+        "summary": "Arrivé à Lima, le pape Léon XIV a entrepris une tournée à travers le Pérou, prévoyant notamment de se rendre dans la ville de Chiclayo dont il fut l'évêque. Lors de ses premiers échanges avec la présidente Keiko Fujimori, le chef de l'Église a appelé les dirigeants à traiter les traumatismes de l'histoire péruvienne avec justice. Il a insisté sur l'importance de préserver les libertés publiques et le respect de la diversité de la population. Les habitants expriment leur fierté de retrouver le prélat dans sa contrée d'adoption.",
+        "stakes": [
+          "Quelle influence la parole papale aura-t-elle sur le climat politique péruvien ?",
+          "Comment le gouvernement conciliera-t-il l'héritage politique de l'ex-président Fujimori et les exigences démocratiques ?",
+          "Quel accueil les communautés locales réserveront-elles au souverain pontife tout au long de sa visite ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Au Pérou, Léon XIV, de retour dans sa « patrie », appelle les autorités à traiter les « événements du passé » avec « justice et sensibilité »",
+            "link": "https://www.lemonde.fr/international/article/2026/11/12/au-perou-de-retour-dans-sa-patrie-leon-xiv-a-appele-les-autorites-a-traiter-les-evenements-du-passe-avec-justice-et-sensibilite_6809138_3210.html",
+            "publishedAt": "2026-11-12T17:24:08.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Léon XIV au Pérou : Chiclayo va fêter le retour de « padre Roberto » parmi les siens",
+            "link": "https://www.la-croix.com/religion/leon-xiv-au-perou-chiclayo-va-feter-le-retour-de-padre-roberto-parmi-les-siens-20261112",
+            "publishedAt": "2026-11-12T18:47:40.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/12/584/0/7008/3504/644/322/60/0/9f7ac4f_ftp-1-vwz8ihziywwz-8e44745cad6f41cf86c3c1a1579aaac7-0-5dcd074a3c194f61a7cd0a9a840926cb.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/international/article/2026/11/12/au-perou-de-retour-dans-sa-patrie-leon-xiv-a-appele-les-autorites-a-traiter-les-evenements-du-passe-avec-justice-et-sensibilite_6809138_3210.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Pastoral and Political Visit of Pope Leo XIV to Peru",
+            "context": "The Sovereign Pontiff is undertaking a five-day official trip to Peru, a country where he lived and worked for two decades. This visit generates high expectations among the population and local authorities.",
+            "summary": "Arriving in Lima, Pope Leo XIV undertook a tour across Peru, notably planning to visit the city of Chiclayo, where he served as bishop. During his initial exchanges with President Keiko Fujimori, the head of the Church called on leaders to address the traumas of Peruvian history with justice. He insisted on the importance of preserving public freedoms and respect for the diversity of the population. Residents express their pride in welcoming the prelate back to his adopted homeland.",
+            "stakes": [
+              "What influence will the papal word have on the Peruvian political climate?",
+              "How will the government reconcile the political legacy of former President Fujimori with democratic requirements?",
+              "What reception will local communities give to the Sovereign Pontiff throughout his visit?"
+            ]
+          },
+          "es": {
+            "title": "Visita pastoral y política del papa León XIV a Perú",
+            "context": "El sumo pontífice realiza un viaje oficial de cinco días a Perú, país en el que vivió y ejerció durante dos décadas. Esta visita despierta una gran expectación entre la población y las autoridades locales.",
+            "summary": "A su llegada a Lima, el papa León XIV emprendió una gira por Perú, con previsión de visitar la ciudad de Chiclayo, de la que fue obispo. Durante sus primeros intercambios con la presidenta Keiko Fujimori, el jefe de la Iglesia pidió a los dirigentes que traten los traumas de la historia peruana con justicia. Insistió en la importancia de preservar las libertades públicas y el respeto a la diversidad de la población. Los habitantes expresan su orgullo por reencontrarse con el prelado en su tierra de adopción.",
+            "stakes": [
+              "¿Qué influencia tendrá la palabra papal en el clima político peruano?",
+              "¿Cómo conciliará el gobierno la herencia política del expresidente Fujimori y las exigencias democráticas?",
+              "¿Qué acogida dispensarán las comunidades locales al sumo pontífice a lo largo de su visita?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s4e865def03",
+        "title": "Déroulement du procès sur l'agression du producteur Michel Zecler",
+        "context": "L'affaire du producteur de musique Michel Zecler implique plusieurs fonctionnaires de police poursuivis devant la cour criminelle de Paris pour des faits de violences. Les débats portent sur le déroulement exact de l'intervention policière et l'évaluation des séquelles subies par les personnes présentes.",
+        "summary": "La cour criminelle de Paris a poursuivi l'examen de l'affaire liée à l'agression de Michel Zecler avec l'audition de plusieurs témoins. Les proches de la victime ont décrit un homme profondément marqué psychologiquement depuis l'événement. De jeunes témoins présents lors des faits sont venus exprimer le sentiment de danger ressenti à ce moment-là. Ils ont également dénoncé les violences policières dont ils disent avoir été témoins lors de l'incident.",
+        "stakes": [
+          "Quelle sera la décision de la cour criminelle quant à la responsabilité des policiers mis en cause ?",
+          "Quelles sanctions judiciaires seront retenues en cas de condamnation ?",
+          "Quel impact ce procès aura-t-il sur le débat autour du contrôle des interventions policières ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Au procès de l’agression de Michel Zecler, de jeunes témoins s’expriment : «Je me suis dit que la moindre erreur aurait pu nous tuer»",
+            "link": "https://www.liberation.fr/societe/police-justice/au-proces-de-lagression-de-michel-zecler-de-jeunes-temoins-sexpriment-je-me-suis-dit-que-la-moindre-erreur-aurait-pu-nous-tuer-20261112_JOLRHZPWJREXLEC2KO3EOFTL4I/",
+            "publishedAt": "2026-11-12T21:02:50.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": null,
+        "i18n": {
+          "en": {
+            "title": "Proceedings of the Trial Concerning the Assault on Producer Michel Zecler",
+            "context": "The case of music producer Michel Zecler involves several police officers on trial before the Paris criminal court for acts of violence. The debates focus on the exact course of the police intervention and the assessment of the sequels suffered by those present.",
+            "summary": "The Paris criminal court continued the examination of the case related to the assault of Michel Zecler with the hearing of several witnesses. Those close to the victim described a man deeply marked psychologically since the event. Young witnesses present during the facts came to express the feeling of danger felt at that time. They also denounced the police violence they claim to have witnessed during the incident.",
+            "stakes": [
+              "What will be the criminal court's decision regarding the responsibility of the implicated police officers?",
+              "What judicial sanctions will be retained in the event of conviction?",
+              "What impact will this trial have on the debate surrounding the control of police interventions?"
+            ]
+          },
+          "es": {
+            "title": "Desarrollo del juicio sobre la agresión al productor Michel Zecler",
+            "context": "El caso del productor de música Michel Zecler implica a varios funcionarios de policía juzgados ante la sala de lo penal de París por hechos de violencia. Los debates se centran en el desarrollo exacto de la intervención policial y la evaluación de las secuelas sufridas por los presentes.",
+            "summary": "La sala de lo penal de París prosiguió el examen del caso relacionado con la agresión a Michel Zecler con la audición de varios testigos. Los allegados a la víctima describieron a un hombre profundamente marcado psicológicamente desde el acontecimiento. Jóvenes testigos presentes durante los hechos acudieron a expresar el sentimiento de peligro sentido en ese momento. También denunciaron la violencia policial de la que dicen haber sido testigos durante el incidente.",
+            "stakes": [
+              "¿Cuál será la decisión de la sala de lo penal en cuanto a la responsabilidad de los policías encausados?",
+              "¿Qué sanciones judiciales se impondrán en caso de condena?",
+              "¿Qué impacto tendrá este juicio en el debate en torno al control de las intervenciones policiales?"
+            ]
+          }
+        }
+      }
+    ],
+    "monde": [
+      {
+        "id": "sc6a88938b5",
+        "title": "Pourparlers russo-ukrainiens et poursuite des tensions diplomatiques et militaires",
+        "context": "Après plusieurs mois sans dialogue tripartite, des discussions menées à Abou Dhabi ont permis de conclure un accord sur un échange de prisonniers entre la Russie et l'Ukraine. Des émissaires des États-Unis cherchent désormais à prolonger cette dynamique en rencontrant les dirigeants des pays impliqués. La situation sur le terrain reste néanmoins marquée par des affrontements continus.",
+        "summary": "Des émissaires américains ont rencontré le président russe Vladimir Poutine à Moscou avant de se rendre en Irlande pour échanger avec le président ukrainien Volodymyr Zelensky. Selon les représentants des États-Unis, le chef d'État russe aurait accepté l'intégration de négociateurs européens lors des prochaines sessions de négociation, bien que des médias soulignent sa fermeté sur ses exigences. Sur le terrain, un drone ukrainien a touché un navire de guerre russe en mer Baltique, tandis que des infrastructures énergétiques ukrainiennes subissent toujours des frappes d'artillerie. En réaction au conflit, la Finlande et la Norvège ont annoncé l'interdiction d'entrée sur leur territoire pour les athlètes professionnels russes et biélorusses.",
+        "stakes": [
+          "Quelle sera l'implication effective des pays européens dans la suite du processus de paix ?",
+          "Comment les attaques ciblant les infrastructures influenceront-elles le déroulement des discussions ?",
+          "Quelles seront les répercussions à long terme des restrictions imposées aux athlètes russes ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+            "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-12T21:00:42.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "BBC News",
+            "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+            "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-12T20:09:16.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
+            "link": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
+            "publishedAt": "2026-11-12T21:00:12.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
+            "link": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-12T16:44:00.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "NPR",
+            "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+            "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+            "publishedAt": "2026-11-12T15:26:34.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "RFI",
+            "title": "DIRECT - Guerre en Ukraine: Vladimir Poutine se montre inflexible lors de sa rencontre avec les envoyés étatsuniens",
+            "link": "https://www.rfi.fr/fr/europe/20261112-guerre-ukraine-mediateurs-etats-unis-moscou-dublin-conseil-politique-ue-zelensky",
+            "publishedAt": "2026-11-12T13:27:06.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Russo-Ukrainian Talks and Continuation of Diplomatic and Military Tensions",
+            "context": "After several months without tripartite dialogue, discussions held in Abu Dhabi led to an agreement on a prisoner exchange between Russia and Ukraine. US emissaries are now seeking to extend this dynamic by meeting with the leaders of the involved countries.",
+            "summary": "US emissaries met with Russian President Vladimir Putin in Moscow before traveling to Ireland to talk with Ukrainian President Volodymyr Zelensky. According to US representatives, the Russian head of state reportedly agreed to the inclusion of European negotiators in the upcoming negotiation sessions, although media outlets emphasize his firmness on his demands. On the ground, a Ukrainian drone hit a Russian warship in the Baltic Sea, while Ukrainian energy infrastructure continues to suffer artillery strikes. In response to the conflict, Finland and Norway announced an entry ban on their territory for Russian and Belarusian professional athletes.",
+            "stakes": [
+              "What will be the effective involvement of European countries in the continuation of the peace process?",
+              "How will attacks targeting infrastructure influence the course of discussions?",
+              "What will be the long-term repercussions of the restrictions imposed on Russian athletes?"
+            ]
+          },
+          "es": {
+            "title": "Conversaciones ruso-ucranianas y continuación de las tensiones diplomáticas y militares",
+            "context": "Tras varios meses sin diálogo tripartito, unas discusiones mantenidas en Abu Dabi permitieron concluir un acuerdo sobre un intercambio de prisioneros entre Rusia y Ucrania. Emisarios de Estados Unidos buscan ahora prolongar esta dinámica reuniéndose con los dirigentes de los países implicados.",
+            "summary": "Emisarios estadounidenses se reunieron con el presidente ruso Vladimir Putin en Moscú antes de viajar a Irlanda para intercambiar impresiones con el presidente ucraniano Volodímir Zelenski. Según los representantes de Estados Unidos, el jefe de Estado ruso habría aceptado la integración de negociadores europeos en las próximas sesiones de negociación, aunque los medios subrayan su firmeza en sus exigencias. Sobre el terreno, un dron ucraniano alcanzó a un buque de guerra ruso en el mar Báltico, mientras que las infraestructuras energéticas ucranianas siguen sufriendo ataques de artillería. En reacción al conflicto, Finlandia y Noruega anunciaron la prohibición de entrada en su territorio a los atletas profesionales rusos y bielorrusos.",
+            "stakes": [
+              "¿Cuál será la implicación efectiva de los países europeos en la continuación del proceso de paz?",
+              "¿Cómo influirán los ataques dirigidos contra las infraestructuras en el desarrollo de las discusiones?",
+              "¿Cuáles serán las repercusiones a largo plazo de las restricciones impuestas a los atletas rusos?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sa071c05d95",
+        "title": "Démission du PDG de Nvidia Jensen Huang sur fond de scandale",
+        "context": "L'entreprise américaine Nvidia s'est imposée ces dernières années comme l'un des principaux acteurs mondiaux du secteur des microprocesseurs et de l'intelligence artificielle. Son cofondateur et dirigeant, Jensen Huang, incarnait la stratégie de croissance du groupe dans la compétition technologique internationale.",
+        "summary": "Jensen Huang a démissionné de son poste de PDG de Nvidia à la suite de révélations sur des liaisons extraconjugales, dont l'une concerne une femme d'affaires soupçonnée d'espionnage pour le compte de la Chine. Après cette annonce, le titre boursier de l'entreprise a chuté de 13 %, entraînant une baisse importante de sa valorisation. La directrice financière Colette Kress a été nommée pour assurer la direction par intérim. Selon plusieurs médias, l'ancien dirigeant pourrait être amené à témoigner devant le Congrès des États-Unis.",
+        "stakes": [
+          "Quel sera l'impact de ce changement de gouvernance sur la position de Nvidia dans l'intelligence artificielle ?",
+          "Quelles seront les répercussions des soupçons d'espionnage sur les tensions technologiques sino-américaines ?",
+          "Comment les marchés financiers réagiront-ils à la phase de transition à la tête du groupe ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Jensen Huang has resigned, what's next for Nvidia?",
+            "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-12T19:33:37.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "BBC News",
+            "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+            "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-12T17:11:48.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
+            "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+            "publishedAt": "2026-11-12T20:46:23.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "Jensen Huang: Spy row, second affair leaves Nvidia without its rockstar CEO",
+            "link": "https://www.dw.com/en/jensen-huang-spy-row-second-affair-leaves-nvidia-without-its-rockstar-ceo/a-79926972?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-12T15:08:00.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+            "link": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss",
+            "publishedAt": "2026-11-12T19:45:40.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "RFI",
+            "title": "Avec la démission de son PDG Jensen Huang, le géant de la tech Nvidia vacille",
+            "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261112-direct-nvidia-pdg-jensen-huang-pdg-sellette-wall-street-chine",
+            "publishedAt": "2026-11-12T12:18:12.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2742/live/64baf7c0-dece-11f1-93e1-3b657b665bcf.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Resignation of Nvidia CEO Jensen Huang Amid Scandal",
+            "context": "The American company Nvidia has established itself in recent years as one of the main global players in the microchip and artificial intelligence sector. Its co-founder and leader, Jensen Huang, embodied the group's growth strategy in international technological competition.",
+            "summary": "Jensen Huang resigned as CEO of Nvidia following revelations about extramarital affairs, one of which involves a businesswoman suspected of espionage on behalf of China. Following this announcement, the company's stock fell by 13%, resulting in a significant drop in its valuation. Chief Financial Officer Colette Kress was appointed to ensure interim leadership. According to several media outlets, the former leader may be called to testify before the US Congress.",
+            "stakes": [
+              "What will be the impact of this governance change on Nvidia's position in artificial intelligence?",
+              "What will be the repercussions of the espionage suspicions on US-China technological tensions?",
+              "How will financial markets react to the transition phase at the head of the group?"
+            ]
+          },
+          "es": {
+            "title": "Dimensión del director ejecutivo de Nvidia, Jensen Huang, en medio de un escándalo",
+            "context": "La empresa estadounidense Nvidia se ha impuesto en los últimos años como uno de los principales actores mundiales del sector de los microprocesadores y de la inteligencia artificial. Su cofundador y dirigente, Jensen Huang, encarnaba la estrategia de crecimiento del grupo en la competición tecnológica internacional.",
+            "summary": "Jensen Huang dimitió de su cargo de director ejecutivo de Nvidia tras revelaciones sobre relaciones extramatrimoniales, una de las cuales concierne a una empresaria sospechosa de espionaje por cuenta de China. Tras este anuncio, el valor bursátil de la empresa cayó un 13 %, provocando una bajada importante de su valoración. La directora financiera Colette Kress fue nombrada para asegurar la dirección interina. Según varios medios de comunicación, el antiguo dirigente podría tener que declarar ante el Congreso de los Estados Unidos.",
+            "stakes": [
+              "¿Cuál será el impacto de este cambio de gobernanza en la posición de Nvidia en la inteligencia artificial?",
+              "¿Cuáles serán las repercusiones de las sospechas de espionaje en las tensiones tecnológicas sino-estadounidenses?",
+              "¿Cómo reaccionarán los mercados financieros ante la fase de transición a la cabeza del grupo?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sb8bb9c4cda",
+        "title": "Frappe israélienne sur un hôpital gazaoui et fortes tensions diplomatiques",
+        "context": "Le conflit dans la bande de Gaza génère une crise humanitaire majeure marquée par des destructions d'infrastructures et d'importantes difficultés d'approvisionnement pour la population. La gestion du conflit suscite de vives controverses diplomatiques internationales.",
+        "summary": "Une frappe israélienne sur l'hôpital Nasser de Gaza a fait au moins six morts, selon le ministère de la Santé local. Les autorités israéliennes déclarent avoir ciblé un centre de commandement du Hamas et un responsable militaire, sans que la présence de ce dernier parmi les victimes n'ait été confirmée. En parallèle, Israël a interdit l'accès à son territoire aux élus français Jean-Luc Mélenchon et Mathilde Panot en raison de leurs prises de position, une mesure qualifiée de démagogique par la diplomatie française. Plusieurs personnalités publiques et organisations réitèrent leurs appels à faciliter l'acheminement de l'aide humanitaire.",
+        "stakes": [
+          "Quelles seront les conséquences humanitaires du ciblage des infrastructures de santé dans le territoire ?",
+          "Comment évolueront les relations diplomatiques entre Israël et les gouvernements européens ?",
+          "Dans quelle mesure les pressions internationales influeront-elles sur l'accès de l'aide humanitaire ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+            "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-12T16:54:12.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "Israel strikes Gaza hospital, says Hamas senior figure inside",
+            "link": "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-12T11:27:00.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "NPR",
+            "title": "An Israeli strike on a Gaza hospital kills 6 people, including a doctor and a child",
+            "link": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
+            "publishedAt": "2026-11-12T09:29:30.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "France 24",
+            "title": "Israël interdit l'entrée sur son territoire à Mélenchon, Paris dénonce une \"décision démagogique\"",
+            "link": "https://www.france24.com/fr/france/20261112-isra%C3%ABl-interdit-entr%C3%A9e-territoire-jean-luc-m%C3%A9lenchon-lfi-gauche-radicale-gaza-colonies",
+            "publishedAt": "2026-11-12T17:25:25.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "Jean-Luc Mélenchon a été interdit d’entrée en Israël en raison de la « position extrêmement hostile » de LFI",
+            "link": "https://www.lemonde.fr/international/article/2026/11/12/israel-interdit-a-jean-luc-melenchon-l-entree-sur-son-territoire-jugeant-lfi-extremement-hostile-a-son-egard_6809141_3210.html",
+            "publishedAt": "2026-11-12T17:39:26.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "RFI",
+            "title": "France: le leader insoumis Jean-Luc Mélenchon et la députée Mathilde Panot interdits d'entrée en Israël",
+            "link": "https://www.rfi.fr/fr/france/20261112-france-le-leader-insoumis-jean-luc-m%C3%A9lenchon-et-la-d%C3%A9put%C3%A9e-mathilde-panot-interdits-d-entr%C3%A9e-en-isra%C3%ABl",
+            "publishedAt": "2026-11-12T21:01:38.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Israeli Strike on a Gazan Hospital and Sharp Diplomatic Tensions",
+            "context": "The conflict in the Gaza Strip is generating a major humanitarian crisis marked by infrastructure destruction and significant supply difficulties for the population. The management of the conflict sparks intense international diplomatic controversies.",
+            "summary": "An Israeli strike on the Nasser Hospital in Gaza left at least six dead, according to the local Ministry of Health. Israeli authorities state they targeted a Hamas command center and a military commander, although the latter's presence among the victims has not been confirmed. In parallel, Israel banned French elected officials Jean-Luc Mélenchon and Mathilde Panot from entering its territory due to their stances, a measure described as demagogic by French diplomacy. Several public figures and organizations are reiterating their calls to facilitate the delivery of humanitarian aid.",
+            "stakes": [
+              "What will be the humanitarian consequences of targeting health infrastructure in the territory?",
+              "How will diplomatic relations between Israel and European governments evolve?",
+              "To what extent will international pressures influence access to humanitarian aid?"
+            ]
+          },
+          "es": {
+            "title": "Ataque israelí contra un hospital de Gaza y fuertes tensiones diplomáticas",
+            "context": "El conflicto en la Franja de Gaza genera una crisis mayor humanitaria marcada por la destrucción de infraestructuras y grandes dificultades de abastecimiento para la población. La gestión del conflicto suscita vivas controversias diplomáticas internacionales.",
+            "summary": "Un ataque israelí contra el hospital Naser de Gaza causó al menos seis muertos, según el Ministerio de Sanidad local. Las autoridades israelíes declaran haber atacado un centro de mando de Hamás y a un responsable militar, sin que se haya confirmado la presencia de este último entre las víctimas. En paralelo, Israel prohibió la entrada a su territorio a los electos franceses Jean-Luc Mélenchon y Mathilde Panot debido a sus tomas de postura, una medida calificada de demagógica por la diplomacia francesa. Varias personalidades públicas y organizaciones reiteran sus llamamientos para facilitar el suministro de ayuda humanitaria.",
+            "stakes": [
+              "¿Cuáles serán las consecuencias humanitarias de atacar infraestructuras sanitarias en el territorio?",
+              "¿Cómo evolucionarán las relaciones diplomáticas entre Israel y los gobiernos europeos?",
+              "¿En qué medida influirán las presiones internacionales en el acceso de la ayuda humanitaria?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "se0cf9582f4",
+        "title": "Élection de Scott Colom au Sénat américain dans l'État du Mississippi",
+        "context": "Les récentes élections de mi-mandat aux États-Unis ont renouvelé une partie des sièges du Congrès américain. Les résultats dans certains États traditionnellement conservateurs sont particulièrement observés par la classe politique.",
+        "summary": "Le candidat démocrate Scott Colom a remporté l'élection sénatoriale dans l'État du Mississippi au terme du dépouillement. Il devient ainsi le premier sénateur noir à représenter cet État depuis 1874. La victoire intervient dans une région où Donald Trump s'était imposé avec une nette avance lors du précédent scrutin présidentiel. Ce résultat confirme une série de succès électoraux pour le Parti démocrate au Sénat des États-Unis.",
+        "stakes": [
+          "Cette élection marque-t-elle une évolution politique durable dans les États du Sud américain ?",
+          "Comment ce siège supplémentaire modifiera-t-il le rapport de force au sein du Sénat ?",
+          "Quel impact cette victoire aura-t-elle sur la stratégie des deux principaux partis pour les prochaines échéances ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+            "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-12T14:12:55.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "BBC News",
+            "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+            "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-12T12:56:55.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "NPR",
+            "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+            "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+            "publishedAt": "2026-11-12T12:15:48.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "France 24",
+            "title": "Mississippi : les démocrates remportent un siège au Sénat",
+            "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261112-mississippi-les-d%C3%A9mocrates-remportent-un-si%C3%A8ge-au-s%C3%A9nat",
+            "publishedAt": "2026-11-12T19:11:55.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "France 24",
+            "title": "Midterms dans le Mississipi : quand un électron libre du parti démocrate marque l'Histoire",
+            "link": "https://www.france24.com/fr/am%C3%A9riques/20261112-victoire-de-colom-dans-le-mississipi-quand-un-%C3%A9lectron-libre-du-parti-d%C3%A9mocrate-marque-l-histoire",
+            "publishedAt": "2026-11-12T18:18:50.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9195/live/8aa36db0-de8c-11f1-9afe-1f03bfe02283.png",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Election of Scott Colom to the US Senate in Mississippi",
+            "context": "Recent midterm elections in the United States renewed part of the seats in the US Congress. The results in certain traditionally conservative states are closely watched by the political class.",
+            "summary": "Democratic candidate Scott Colom won the Senate election in Mississippi after the vote counting. He thus becomes the first Black senator to represent this state since 1874. The victory comes in a region where Donald Trump had won by a clear margin in the previous presidential election. This result confirms a series of electoral successes for the Democratic Party in the US Senate.",
+            "stakes": [
+              "Does this election mark a lasting political evolution in the American South states?",
+              "How will this additional seat modify the balance of power within the Senate?",
+              "What impact will this victory have on the strategy of the two main parties for the upcoming deadlines?"
+            ]
+          },
+          "es": {
+            "title": "Elección de Scott Colom al Senado estadounidense en el estado de Misisipi",
+            "context": "Las recientes elecciones de mitad de mandato en Estados Unidos renovaron una parte de los escaños del Congreso estadounidense. Los resultados en determinados estados tradicionalmente conservadores son muy observados por la clase política.",
+            "summary": "El candidato demócrata Scott Colom ganó la elección al Senado en el estado de Misisipi al término del recuento. Se convierte así en el primer senador negro en representar a este estado desde 1874. La victoria se produce en una región donde Donald Trump se había impuesto con una clara ventaja en las anteriores elecciones presidenciales. Este resultado confirma una serie de éxitos electorales para el Partido Demócrata en el Senado de los Estados Unidos.",
+            "stakes": [
+              "¿Marca esta elección una evolución política duradera en los estados del Sur americano?",
+              "¿Cómo modificará este escaño suplementario la relación de fuerzas en el seno del Senado?",
+              "¿Qué impacto tendrá esta victoria en la estrategia de los dos principales partidos de cara a las próximas citas?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s79bed90463",
+        "title": "Condamnation au Royaume-Uni de deux hommes d'origine iranienne pour espionnage",
+        "context": "Les services de sécurité occidentaux surveillent régulièrement les tentatives d'ingérence et de pressions exercées par des gouvernements étrangers contre des dissidents résidant hors de leurs frontières.",
+        "summary": "Un tribunal de Londres a reconnu coupables deux hommes d'origine iranienne poursuivis en vertu de la loi sur la sécurité nationale britannique. Les prévenus étaient accusés d'avoir mené des activités de surveillance pour le compte des services de renseignement iraniens visant des journalistes dissidents basés au Royaume-Uni. L'un d'eux a également été convaincu d'avoir planifié des actes de violence à l'encontre de ces cibles. Selon des organisations de défense des droits, le régime iranien recourt fréquemment à des moyens de pression transnationaux pour réduire au silence ses opposants en exil.",
+        "stakes": [
+          "Quelles mesures de protection renforcées seront accordées aux journalistes dissidents à l'étranger ?",
+          "Comment ces condamnations affecteront-elles les relations diplomatiques entre Londres et Téhéran ?",
+          "Assistera-t-on à un durcissement des législations européennes face aux ingérences étatiques d'origine étrangère ?"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "title": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
+            "link": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
+            "publishedAt": "2026-11-12T19:15:30.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "UK court convicts 2 Iranian men of spying on journalists",
+            "link": "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-12T15:23:00.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "Iran: Exiled journalists still repressed by regime",
+            "link": "https://www.dw.com/en/iran-exiled-journalists-still-repressed-by-regime/a-79929694?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-12T14:25:00.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "Iranian men guilty of spying on British journalists",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss",
+            "publishedAt": "2026-11-12T19:38:33.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "France 24",
+            "title": "Guerre hybride : comment riposter ?",
+            "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261112-guerre-hybride-comment-riposter",
+            "publishedAt": "2026-11-12T19:26:16.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://i.guim.co.uk/img/media/3de1032b43ea112cddfd255faa0e038c469f9729/537_0_3947_3160/master/3947.jpg?width=140&quality=85&auto=format&fit=max&s=c99f7bf49b1c360d215904daa6c93878",
+          "credit": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists"
+        },
+        "i18n": {
+          "en": {
+            "title": "UK Conviction of Two Iranian-Origin Men for Espionage",
+            "context": "Western security services regularly monitor attempts at interference and pressure exerted by foreign governments against dissidents residing outside their borders.",
+            "summary": "A London court found two Iranian-origin men guilty under the British National Security Act. The defendants were accused of carrying out surveillance activities on behalf of Iranian intelligence services targeting dissident journalists based in the UK. One of them was also convicted of planning acts of violence against these targets. According to human rights organizations, the Iranian regime frequently uses transnational pressure means to silence its exiled opponents.",
+            "stakes": [
+              "What enhanced protection measures will be granted to dissident journalists abroad?",
+              "How will these convictions affect diplomatic relations between London and Tehran?",
+              "Will we witness a hardening of European legislation against state interference from foreign origins?"
+            ]
+          },
+          "es": {
+            "title": "Condena en el Reino Unido de dos hombres de origen iraní por espionaje",
+            "context": "Los servicios de seguridad occidentales vigilan regularmente los intentos de injerencia y de presiones ejercidas por gobiernos extranjeros contra disidentes que residen fuera de sus fronteras.",
+            "summary": "Un tribunal de Londres declaró culpables a dos hombres de origen iraní procesados en virtud de la ley de seguridad nacional británica. Los acusados estaban acusados de haber llevado a cabo actividades de vigilancia por cuenta de los servicios de inteligencia iraníes dirigidas contra periodistas disidentes radicados en el Reino Unido. Uno de ellos también fue convencido de haber planeado actos de violencia contra estos objetivos. Según organizaciones de defensa de los derechos, el régimen iraní recurre frecuentemente a medios de presión transnacionales para reducir al silencio a sus opositores en el exilio.",
+            "stakes": [
+              "¿Qué medidas de protección reforzada se concederán a los periodistas disidentes en el extranjero?",
+              "¿Cómo afectarán estas condenas a las relaciones diplomáticas entre Londres y Teherán?",
+              "¿Se asistirá a un endurecimiento de las legislaciones europeas frente a las injerencias estatales de origen extranjero?"
+            ]
+          }
+        }
+      }
+    ]
   },
-  "storiesAt": null,
-  "inputHash": null,
-  "synthStatus": "échec",
+  "storiesAt": "2026-11-12T21:25:57.492Z",
+  "inputHash": "f51f46f7c5dbaf31d1fe6d8848f686af2189d32c",
+  "synthStatus": "ok",
   "news": {
     "france": [
       {
-        "id": "ac007839fa4",
-        "title": "La Fédération française de rugby rendra hommage aux victimes des attentats de 2015 avant France - Afrique du Sud",
-        "link": "https://www.ouest-france.fr/sport/rugby/equipe-de-france/la-federation-francaise-de-rugby-rendra-hommage-aux-victimes-des-attentats-de-2015-avant-france-afrique-du-sud-be25aea4-ded8-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-        "summary": "La rencontre du Championnat des nations entre la France et l’Afrique du Sud, vendredi 13 novembre au Stade de France, sera tout à fait particulière. Elle intervient onze ans après les attentats qui ont frappé Paris en 2015. La Fédération française de rugby a annoncé qu’elle rendrait hommage aux vict",
-        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExNjg2OTlhYzI0NWNjNDFmNjNhZGRlZDYxZjhjODY1YmM?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=25fdd5769e4072bed66df873f739e88530383fd37631e101c19507b1c2a6ca79",
-        "publishedAt": "2026-11-12T21:04:39.000Z",
+        "id": "adcceb17b1b",
+        "title": "Donald Trump menace le Mexique de doubler les droits de douane après l’arrivée d’une caravane de migrants",
+        "link": "https://www.ouest-france.fr/economie/droits-de-douane/donald-trump-menace-le-mexique-de-doubler-les-droits-de-douane-apres-larrivee-dune-caravane-de-migrants-bd62feaa-dedc-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Donald Trump a menacé de doubler les droits de douane imposés au Mexique après l’arrivée sur le territoire mexicain d’une caravane de plus de 1 000 migrants centraméricains, qui espèrent pouvoir entrer aux États-Unis.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExYTUyN2Q4MjQzODZkMWFjM2E1OTc1OWJjNDY4ZjQyODU?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=02219adc6d7a9af2ec668f8cce5b319651825cf637272f0bba05b249c9beb7cd",
+        "publishedAt": "2026-11-12T21:16:27.000Z",
         "source": "Ouest-France",
+        "lang": "fr"
+      },
+      {
+        "id": "aafc2990463",
+        "title": "EN DIRECT, guerre en Ukraine : les émissaires américains sont arrivés à Dublin pour rencontrer Volodymyr Zelensky",
+        "link": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-a-dublin-pour-rencontrer-volodymyr-zelensky_6808609_3210.html",
+        "summary": "Jared Kushner et Steve Witkoff, les émissaires des Etats-Unis pour les négociations sur le conflit entre la Russie et l’Ukraine, avaient auparavant fait étape à Moscou pour des entretiens avec le président russe Vladimir Poutine.",
+        "image": "https://img.lemde.fr/2026/11/12/688/0/7735/3867/644/322/60/0/f4823ce_ftp-1-lfossm52iywe-c370a1a1946a46c4bac1ce9860bdd08c-1-77ac55c7397343bfa3be87c05b12d2ea.jpg",
+        "publishedAt": "2026-11-12T21:10:20.000Z",
+        "source": "Le Monde",
         "lang": "fr"
       },
       {
@@ -30,6 +1044,16 @@
         "image": null,
         "publishedAt": "2026-11-12T21:02:50.000Z",
         "source": "Libération",
+        "lang": "fr"
+      },
+      {
+        "id": "a06250537e4",
+        "title": "Face aux gangs haïtiens, un corps expéditionnaire du président du Salvador Nayib Bukele qui pose question",
+        "link": "https://www.lefigaro.fr/international/face-aux-gangs-haitiens-un-corps-expeditionnaire-du-president-du-salvador-nayib-bukele-qui-pose-question-20261112",
+        "summary": "DÉCRYPTAGE - Le dirigeant réputé pour ses méthodes brutales a envoyé quelque 2 500 soldats dans l’île en proie à l’extrême violence de bandes criminelles.",
+        "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/12/73236ebe423bb4f9b0cf5040f44386067c8d69a0c45f3ba37c10a28f784b06bf.jpg",
+        "publishedAt": "2026-11-12T21:00:00.000Z",
+        "source": "Le Figaro",
         "lang": "fr"
       },
       {
@@ -49,16 +1073,6 @@
         "summary": "Très proche de l’administration Trump et de ses fondamentaux idéologiques depuis le retour du milliardaire républicain à la Maison-Blanche, Alex Karp renoue avec ses sensibilités démocrates d’antan.",
         "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/12/2a4383ba5d6541d42b68fcb9676149e8a8251aca300eecfae9c0c37ed38b3a4d.jpg",
         "publishedAt": "2026-11-12T20:44:57.000Z",
-        "source": "Le Figaro",
-        "lang": "fr"
-      },
-      {
-        "id": "a81ea34ddf6",
-        "title": "Pourquoi les Européens craignent la rencontre aux allures de « Yalta » entre Donald Trump, Vladimir Poutine et Xi Jinping",
-        "link": "https://www.lefigaro.fr/international/pourquoi-les-europeens-craignent-la-rencontre-aux-allures-de-yalta-entre-donald-trump-vladimir-poutine-et-xi-jinping-20261112",
-        "summary": "DÉCRYPTAGE - Réunis au Sommet de la Communauté politique européenne à Dublin, près de 50 dirigeants du Vieux Continent s’inquiètent des velléités de redessiner sans eux leur architecture de sécurité, mais peinent à désigner un interlocuteur unique pour des pourparlers sur la paix en Ukraine.",
-        "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/12/425ef21ff5be84cdf4a11a8fd119d65bf916cd3cf93d5166d03a301c4a6c3429.jpg",
-        "publishedAt": "2026-11-12T20:30:00.000Z",
         "source": "Le Figaro",
         "lang": "fr"
       },
@@ -101,19 +1115,19 @@
         "publishedAt": "2026-11-12T19:14:25.000Z",
         "source": "L'Express",
         "lang": "fr"
-      },
-      {
-        "id": "a1ff6d5261f",
-        "title": "Hantavirus : décrypter la souche Andes, une étape essentielle pour retracer le parcours de l’épidémie",
-        "link": "https://www.lemonde.fr/sciences/article/2026/11/12/decrypter-le-genome-du-hantavirus-andes-une-etape-essentielle-pour-retracer-le-parcours-de-l-epidemie_6809156_1650684.html",
-        "summary": "Une seule contamination entre rongeur et humain, mais où et quand ? Quatre mois après la fin de la crise sanitaire déclenchée par la survenue de cas à bord d’un navire de croisière, un article publié jeudi dans la revue « Science » apporte quelques réponses… et beaucoup de questions. Un consortium d",
-        "image": "https://img.lemde.fr/2026/05/10/133/0/1588/794/644/322/60/0/773303a_ftp-1-h00j8tyc2hsh-336b802dd6d64f7a9f66fe6ac23dd59b-0-b1ed737e2b784c0fbd5b0755c3beeb45.jpg",
-        "publishedAt": "2026-11-12T19:00:00.000Z",
-        "source": "Le Monde",
-        "lang": "fr"
       }
     ],
     "monde": [
+      {
+        "id": "a388c180a1a",
+        "title": "Global Microsoft outage affecting Outlook and Teams users, with company ‘restarting’ servers",
+        "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+        "summary": "An alert on Microsoft’s site said it was ‘aggressively pursuing all pathways to reduce impact’ and blamed a server issue Microsoft says its servers are beginning to return to service after a global outage resulted in nearly 130,000 users globally reporting issues accessing its 365 suite of software,",
+        "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d",
+        "publishedAt": "2026-11-12T21:14:11.000Z",
+        "source": "The Guardian",
+        "lang": "en"
+      },
       {
         "id": "ac6a88938b5",
         "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
@@ -125,22 +1139,12 @@
         "lang": "en"
       },
       {
-        "id": "a0752b83f5a",
-        "title": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
-        "link": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
-        "summary": "Move by Norway ‘a further tightening’ of current rules Russians ‘have no business’ in Finland, says minister Norway’s government announced that it would prevent Russian and Belarusian professional athletes from coming to Norway to compete, hours after neighbouring Finland announced a similar move. T",
-        "image": "https://i.guim.co.uk/img/media/5f218e51631345e11985a307bd897497ea95ea56/923_290_3028_2422/master/3028.jpg?width=140&quality=85&auto=format&fit=max&s=7b66a3012c3bc82d0fa6986375b1d0d6",
-        "publishedAt": "2026-11-12T21:00:12.000Z",
-        "source": "The Guardian",
-        "lang": "en"
-      },
-      {
-        "id": "a37c449396d",
-        "title": "What’s at stake in the renewed tensions over the Falkland Islands?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/11/12/whats-at-stake-in-the-renewed-tensions-over-the-falkland-islands?traffic_source=rss",
-        "summary": "Argentina and the UK are in a legal battle over an offshore oil-drilling project.",
+        "id": "a81693daceb",
+        "title": "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/pope-leo-calls-for-church-to-make-amends-to-sex-abuse-victims?traffic_source=rss",
+        "summary": "Pope Leo XIV says the Catholic Church must confront sexual abuse committed by clergy with truth and justice.",
         "image": null,
-        "publishedAt": "2026-11-12T20:25:21.000Z",
+        "publishedAt": "2026-11-12T20:59:53.000Z",
         "source": "Al Jazeera",
         "lang": "en"
       },
