@@ -84,6 +84,8 @@ const D = {
  charter:['Les synthèses croisent plusieurs médias de sensibilités et de pays différents et attribuent chaque affirmation contestée à sa source. Elles sont rédigées automatiquement à partir des titres et résumés publiés ; les sources sont toujours indiquées. Les chiffres sont horodatés. Une information absente n’est pas remplacée par une invention.','The summaries cross-check several outlets of different leanings and countries and attribute each contested claim to its source. They are written automatically from published headlines and abstracts; sources are always shown. Figures are timestamped. Missing information is never replaced by invention.','Los resúmenes contrastan varios medios de distintas sensibilidades y países y atribuyen cada afirmación discutida a su fuente. Se redactan automáticamente a partir de titulares y extractos publicados; las fuentes siempre se indican. Las cifras llevan fecha y hora. Una información ausente no se sustituye por una invención.'],
  tp_politique:['Politique','Politics','Política'], tp_economie:['Économie','Economy','Economía'], tp_societe:['Société','Society','Sociedad'], tp_justice:['Justice et faits divers','Justice and crime','Justicia y sucesos'], tp_sport:['Sport','Sport','Deportes'], tp_culture:['Culture et médias','Culture and media','Cultura y medios'], tp_sciences_tech:['Sciences et technologies','Science and technology','Ciencia y tecnología'], tp_sante:['Santé','Health','Salud'], tp_environnement:['Environnement et climat','Environment and climate','Medio ambiente y clima'], tp_international:['International','World affairs','Internacional'],
  flt_all:['Tous','All','Todos'], flt_mine:['Pour vous','For you','Para usted'], for_you:['Pour vous','For you','Para usted'], other_fr:['Autres sujets · France','Other topics · France','Otros temas · Francia'], other_world:['Autres sujets · International','Other topics · World','Otros temas · Internacional'], hello:['Bonjour {n}','Hello {n}','Hola {n}'],
+ no_match:['Aucun sujet récent ne correspond à vos centres d’intérêt pour le moment. Les autres sujets sont affichés ci-dessous.','No recent topic matches your interests right now. Other topics are shown below.','Ningún tema reciente coincide con sus intereses por ahora. Los demás temas aparecen abajo.'],
+ topics_pending:['Vos centres d’intérêt seront pris en compte à la prochaine mise à jour des synthèses : les sujets actuels n’ont pas encore de rubrique.','Your interests will be applied at the next summary update: current topics have no category yet.','Sus intereses se aplicarán en la próxima actualización de los resúmenes: los temas actuales aún no tienen categoría.'],
  empty_filter:['Aucun sujet dans cette catégorie pour le moment.','No topic in this category right now.','Ningún tema en esta categoría por ahora.'], topics_lbl:['Rubriques','Categories','Categorías'],
  loading:['Chargement du journal…','Loading…','Cargando…'], date_na:['Date non indiquée','Date not given','Fecha no indicada'], badge_arch:['Édition archivée','Archived edition','Edición archivada'],
  alert_load:['Cette édition ne peut pas être chargée pour le moment.','This edition cannot be loaded right now.','Esta edición no se puede cargar ahora.']
@@ -215,20 +217,20 @@ function journal(){
  const st=storiesOf(data);
  const section=(title,list,raw)=>`<section class="subsection"><h2 class="section-heading">${title} <span class="micro">${esc(t('n_topics',{n:(st?list:raw).length}))}</span></h2>${(st?list:raw).length?(st?list.map(storyCard):raw.map(mediaCard)).join(''):infoEmpty(t('empty_news'),t('empty_news_d'))}</section>`;
  if(!st)return `${header(t('journal_h'),t('journal_k'))}<p class="intro">${t('raw_intro')}</p>${section(t('france'),[],data?.news?.france||[])}${section(t('world'),[],data?.news?.monde||[])}`;
- const fr=st.france||[],mo=st.monde||[],all=[...fr,...mo],mine=interests().length>0;
+ const fr=st.france||[],mo=st.monde||[],all=[...fr,...mo],hasTopics=all.some(s=>s.topic),mine=hasTopics&&interests().length>0,pending=!hasTopics&&interests().length>0;
  const present=Object.keys(D).filter(k=>k.startsWith('tp_')).map(k=>k.slice(3)).filter(k=>all.some(s=>s.topic===k));
  let topic=state.topic||'all';if(topic==='mine'&&!mine)topic='all';
  const chip=(v,label)=>`<button type="button" class="chip" data-topic="${esc(v)}" aria-pressed="${topic===v}">${esc(label)}</button>`;
  const bar=`<div class="chips" role="group" aria-label="${esc(t('topics_lbl'))}">${chip('all',t('flt_all'))}${mine?chip('mine',t('flt_mine')):''}${present.map(k=>chip(k,t('tp_'+k))).join('')}</div>`;
  let body='';
  if(topic==='all'){
-  if(mine){const m=all.filter(isMine);body+=section(t('for_you'),m,[]);body+=section(t('other_fr'),fr.filter(s=>!isMine(s)),[]);body+=section(t('other_world'),mo.filter(s=>!isMine(s)),[]);}
+  if(mine){const m=all.filter(isMine);body+=m.length?section(t('for_you'),m,[]):`<section class="subsection"><h2 class="section-heading">${t('for_you')}</h2>${infoEmpty(t('no_match'))}</section>`;body+=section(t('other_fr'),fr.filter(s=>!isMine(s)),[]);body+=section(t('other_world'),mo.filter(s=>!isMine(s)),[]);}
   else{body+=section(t('france'),fr,[]);body+=section(t('world'),mo,[]);}
  }else{
   const l=topic==='mine'?all.filter(isMine):all.filter(s=>s.topic===topic);
   body=`<section class="subsection">${l.length?l.map(storyCard).join(''):infoEmpty(t('empty_filter'))}</section>`;
  }
- return `${header(t('journal_h'),t('journal_k'))}<p class="intro">${t('journal_intro')}</p><p class="micro">${t('s_ai')}</p>${bar}${body}`;
+ return `${header(t('journal_h'),t('journal_k'))}<p class="intro">${t('journal_intro')}</p><p class="micro">${t('s_ai')}</p>${pending?`<p class="micro">${t('topics_pending')}</p>`:''}${bar}${body}`;
 }
 function culture(){
  const events=data?.culture||[], hist=data?.history||[];
