@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "reference": "Barème des amendes forfaitaires et retraits de points vérifié le 26/08/2026 (legipermis.com). Règles officielles : securite-routiere.gouv.fr",
+  "officialUrl": "https://www.securite-routiere.gouv.fr/",
+  "rules": [
+    {
+      "id": "phone", "scene": "phone", "fine": "135 €", "points": 3,
+      "title": {"fr": "Téléphone au volant", "en": "Phone at the wheel", "es": "Móvil al volante"},
+      "rule": {
+        "fr": "Tenir un téléphone en main en conduisant est interdit. Une notification n'est jamais urgente : arrêtez-vous en sécurité pour répondre.",
+        "en": "Holding a phone while driving is forbidden. A notification is never urgent: stop somewhere safe to reply.",
+        "es": "Está prohibido sostener el teléfono mientras se conduce. Una notificación nunca es urgente: deténgase en un lugar seguro para responder."
+      },
+      "q": {
+        "text": {"fr": "Un message arrive pendant que vous conduisez. Que faites-vous ?", "en": "A message arrives while you drive. What do you do?", "es": "Llega un mensaje mientras conduce. ¿Qué hace?"},
+        "options": [
+          {"fr": "Je réponds vite, d'une seule main", "en": "I reply quickly with one hand", "es": "Respondo rápido con una mano"},
+          {"fr": "Je m'arrête en sécurité avant de répondre", "en": "I stop somewhere safe before replying", "es": "Me detengo en un lugar seguro antes de responder"},
+          {"fr": "Je le pose sur mes genoux pour le lire", "en": "I put it on my lap to read it", "es": "Lo dejo en el regazo para leerlo"}
+        ],
+        "answer": 1,
+        "explain": {"fr": "Seul l'arrêt en sécurité permet d'utiliser son téléphone sans risque ni amende.", "en": "Only stopping safely lets you use your phone without risk or a fine.", "es": "Solo detenerse con seguridad permite usar el teléfono sin riesgo ni multa."}
+      }
+    },
+    {
+      "id": "redlight", "scene": "redlight", "fine": "135 €", "points": 4,
+      "title": {"fr": "Feu rouge", "en": "Red light", "es": "Semáforo en rojo"},
+      "rule": {
+        "fr": "Au feu rouge, l'arrêt est obligatoire avant la ligne d'arrêt. Le feu orange demande aussi de s'arrêter, sauf si l'arrêt est impossible en sécurité.",
+        "en": "At a red light, stopping before the stop line is compulsory. An amber light also means stop, unless stopping safely is impossible.",
+        "es": "Con el semáforo en rojo, hay que detenerse antes de la línea de detención. El ámbar también obliga a parar, salvo que sea imposible hacerlo con seguridad."
+      },
+      "q": {
+        "text": {"fr": "Le feu passe à l'orange alors que vous êtes encore loin de la ligne. Vous :", "en": "The light turns amber while you are still far from the line. You:", "es": "El semáforo pasa a ámbar y aún está lejos de la línea. Usted:"},
+        "options": [
+          {"fr": "Accélérez pour passer", "en": "Speed up to get through", "es": "Acelera para pasar"},
+          {"fr": "Ralentissez et vous arrêtez", "en": "Slow down and stop", "es": "Reduce y se detiene"},
+          {"fr": "Klaxonnez et continuez", "en": "Honk and carry on", "es": "Toca el claxon y continúa"}
+        ],
+        "answer": 1,
+        "explain": {"fr": "Si vous pouvez vous arrêter en sécurité, l'orange impose l'arrêt.", "en": "If you can stop safely, amber means stop.", "es": "Si puede detenerse con seguridad, el ámbar obliga a parar."}
+      }
+    },
+    {
+      "id": "seatbelt", "scene": "seatbelt", "fine": "135 €", "points": 3,
+      "title": {"fr": "Ceinture de sécurité", "en": "Seat belt", "es": "Cinturón de seguridad"},
+      "rule": {
+        "fr": "La ceinture est obligatoire pour tous les occupants, à l'avant comme à l'arrière, même pour un trajet court.",
+        "en": "The seat belt is compulsory for everyone in the vehicle, front and back, even on a short trip.",
+        "es": "El cinturón es obligatorio para todos los ocupantes, delante y detrás, incluso en un trayecto corto."
+      },
+      "q": {
+        "text": {"fr": "Qui doit attacher sa ceinture dans une voiture ?", "en": "Who must wear a seat belt in a car?", "es": "¿Quién debe abrocharse el cinturón en un coche?"},
+        "options": [
+          {"fr": "Seulement le conducteur", "en": "Only the driver", "es": "Solo el conductor"},
+          {"fr": "Tous les occupants, devant et derrière", "en": "Everyone, front and back", "es": "Todos los ocupantes, delante y detrás"},
+          {"fr": "Seulement les occupants à l'avant", "en": "Only front-seat occupants", "es": "Solo los ocupantes delanteros"}
+        ],
+        "answer": 1,
+        "explain": {"fr": "À l'arrière aussi, la ceinture divise fortement le risque de blessure grave.", "en": "In the back too, the belt greatly reduces the risk of serious injury.", "es": "Detrás también, el cinturón reduce mucho el riesgo de lesiones graves."}
+      }
+    },
+    {
+      "id": "distance", "scene": "distance", "fine": "135 €", "points": 3,
+      "title": {"fr": "Distance de sécurité", "en": "Safe following distance", "es": "Distancia de seguridad"},
+      "rule": {
+        "fr": "Laissez une distance suffisante avec le véhicule devant vous. Repère simple : au moins 2 secondes d'écart, davantage sur route mouillée.",
+        "en": "Keep enough distance from the vehicle ahead. A simple rule of thumb: at least 2 seconds, more on wet roads.",
+        "es": "Deje distancia suficiente con el vehículo de delante. Regla simple: al menos 2 segundos, más con la carretera mojada."
+      },
+      "q": {
+        "text": {"fr": "Sur route sèche, l'écart minimal conseillé avec le véhicule de devant est d'environ :", "en": "On a dry road, the recommended minimum gap to the vehicle ahead is about:", "es": "Con la carretera seca, la separación mínima recomendada con el vehículo de delante es de unos:"},
+        "options": [
+          {"fr": "0,5 seconde", "en": "0.5 second", "es": "0,5 segundos"},
+          {"fr": "2 secondes", "en": "2 seconds", "es": "2 segundos"},
+          {"fr": "10 secondes", "en": "10 seconds", "es": "10 segundos"}
+        ],
+        "answer": 1,
+        "explain": {"fr": "Comptez deux secondes entre le passage du véhicule de devant et le vôtre devant un repère fixe.", "en": "Count two seconds between the vehicle ahead passing a fixed point and you reaching it.", "es": "Cuente dos segundos entre que el vehículo de delante pasa un punto fijo y usted llega a él."}
+      }
+    },
+    {
+      "id": "pedestrian", "scene": "pedestrian", "fine": "135 €", "points": 6,
+      "title": {"fr": "Passage piéton", "en": "Pedestrian crossing", "es": "Paso de peatones"},
+      "rule": {
+        "fr": "Devant un passage piéton, cédez le passage au piéton engagé ou qui manifeste clairement l'intention de traverser.",
+        "en": "At a pedestrian crossing, give way to a pedestrian who has stepped out or clearly intends to cross.",
+        "es": "En un paso de peatones, ceda el paso al peatón que ya cruza o que muestra claramente la intención de hacerlo."
+      },
+      "q": {
+        "text": {"fr": "Un piéton attend au bord du passage et semble vouloir traverser. Vous :", "en": "A pedestrian waits at the edge of the crossing and seems about to cross. You:", "es": "Un peatón espera al borde del paso y parece querer cruzar. Usted:"},
+        "options": [
+          {"fr": "Passez en klaxonnant", "en": "Drive past honking", "es": "Pasa tocando el claxon"},
+          {"fr": "Ralentissez et le laissez traverser", "en": "Slow down and let them cross", "es": "Reduce y le deja cruzar"},
+          {"fr": "Accélérez pour passer avant lui", "en": "Speed up to get past first", "es": "Acelera para pasar antes"}
+        ],
+        "answer": 1,
+        "explain": {"fr": "L'intention de traverser suffit : le piéton est prioritaire.", "en": "Intent to cross is enough: the pedestrian has priority.", "es": "Basta con la intención de cruzar: el peatón tiene prioridad."}
+      }
+    },
+    {
+      "id": "stop", "scene": "stop", "fine": "135 €", "points": 4,
+      "title": {"fr": "Panneau stop", "en": "Stop sign", "es": "Señal de stop"},
+      "rule": {
+        "fr": "Au stop, l'arrêt complet est obligatoire à la ligne d'arrêt, même si la route semble libre. Ralentir ne suffit pas.",
+        "en": "At a stop sign, a full stop at the stop line is compulsory, even if the road looks clear. Slowing down is not enough.",
+        "es": "En un stop hay que detenerse por completo en la línea de detención, aunque la vía parezca libre. Reducir no basta."
+      },
+      "q": {
+        "text": {"fr": "Au stop, la route est vide. Vous devez :", "en": "At a stop sign the road is empty. You must:", "es": "En un stop la vía está vacía. Debe:"},
+        "options": [
+          {"fr": "Ralentir puis repartir", "en": "Slow down then go", "es": "Reducir y continuar"},
+          {"fr": "Vous arrêter complètement", "en": "Come to a complete stop", "es": "Detenerse por completo"},
+          {"fr": "Klaxonner et passer", "en": "Honk and go through", "es": "Tocar el claxon y pasar"}
+        ],
+        "answer": 1,
+        "explain": {"fr": "L'arrêt complet est obligatoire, roues immobilisées.", "en": "A full stop is compulsory, with the wheels stationary.", "es": "La parada completa es obligatoria, con las ruedas detenidas."}
+      }
+    },
+    {
+      "id": "helmet", "scene": "helmet", "fine": "135 €", "points": 3,
+      "title": {"fr": "Casque à moto ou scooter", "en": "Helmet on a motorbike or scooter", "es": "Casco en moto o scooter"},
+      "rule": {
+        "fr": "Le casque homologué est obligatoire pour le conducteur et le passager d'un deux-roues motorisé.",
+        "en": "An approved helmet is compulsory for the rider and the passenger of a motorised two-wheeler.",
+        "es": "El casco homologado es obligatorio para el conductor y el pasajero de un vehículo de dos ruedas motorizado."
+      },
+      "q": {
+        "text": {"fr": "Sur un deux-roues motorisé, le casque est obligatoire pour :", "en": "On a motorised two-wheeler, the helmet is compulsory for:", "es": "En un vehículo de dos ruedas motorizado, el casco es obligatorio para:"},
+        "options": [
+          {"fr": "Le conducteur seulement", "en": "The rider only", "es": "Solo el conductor"},
+          {"fr": "Le conducteur et le passager", "en": "The rider and the passenger", "es": "El conductor y el pasajero"},
+          {"fr": "Personne en ville", "en": "Nobody in town", "es": "Nadie en la ciudad"}
+        ],
+        "answer": 1,
+        "explain": {"fr": "Les deux occupants doivent porter un casque homologué, partout.", "en": "Both occupants must wear an approved helmet, everywhere.", "es": "Ambos ocupantes deben llevar casco homologado, en todas partes."}
+      }
+    },
+    {
+      "id": "earbuds", "scene": "earbuds", "fine": "135 €", "points": 3,
+      "title": {"fr": "Écouteurs et casque audio", "en": "Earbuds and headphones", "es": "Auriculares y cascos de audio"},
+      "rule": {
+        "fr": "Porter des écouteurs, des oreillettes ou un casque audio en conduisant est interdit : vous devez entendre votre environnement.",
+        "en": "Wearing earbuds, earpieces or headphones while driving is forbidden: you must be able to hear your surroundings.",
+        "es": "Llevar auriculares o cascos de audio mientras se conduce está prohibido: hay que oír el entorno."
+      },
+      "q": {
+        "text": {"fr": "Laquelle de ces situations est interdite au volant ?", "en": "Which of these is forbidden while driving?", "es": "¿Cuál de estas situaciones está prohibida al volante?"},
+        "options": [
+          {"fr": "Mettre des écouteurs dans les oreilles", "en": "Wearing earbuds in your ears", "es": "Llevar auriculares en los oídos"},
+          {"fr": "Écouter la radio du véhicule", "en": "Listening to the vehicle's radio", "es": "Escuchar la radio del vehículo"},
+          {"fr": "Suivre un GPS fixé au tableau de bord", "en": "Following a GPS mounted on the dashboard", "es": "Seguir un GPS fijado al salpicadero"}
+        ],
+        "answer": 0,
+        "explain": {"fr": "Les écouteurs dans les oreilles coupent des bruits de la route (klaxons, sirènes).", "en": "Earbuds block road sounds such as horns and sirens.", "es": "Los auriculares tapan los sonidos de la carretera, como bocinas y sirenas."}
+      }
+    },
+    {
+      "id": "speedtown", "scene": "speedtown", "fine": "135 €", "points": 1,
+      "note": {"fr": "135 € en agglomération (68 € hors agglomération) pour moins de 20 km/h de dépassement.", "en": "€135 in built-up areas (€68 elsewhere) for less than 20 km/h over the limit.", "es": "135 € en zona urbana (68 € fuera de ella) por exceder menos de 20 km/h."},
+      "title": {"fr": "Vitesse en agglomération", "en": "Speed in built-up areas", "es": "Velocidad en zona urbana"},
+      "rule": {
+        "fr": "En agglomération, la vitesse est limitée à 50 km/h sauf indication contraire (zone 30, par exemple). Même un petit dépassement est sanctionné.",
+        "en": "In built-up areas the speed limit is 50 km/h unless signs say otherwise (a 30 zone, for example). Even a small excess is penalised.",
+        "es": "En zona urbana la velocidad está limitada a 50 km/h salvo indicación contraria (por ejemplo, zona 30). Incluso un pequeño exceso se sanciona."
+      },
+      "q": {
+        "text": {"fr": "Sans panneau particulier, la vitesse maximale en agglomération est de :", "en": "With no specific sign, the maximum speed in a built-up area is:", "es": "Sin señal específica, la velocidad máxima en zona urbana es de:"},
+        "options": [
+          {"fr": "30 km/h", "en": "30 km/h", "es": "30 km/h"},
+          {"fr": "50 km/h", "en": "50 km/h", "es": "50 km/h"},
+          {"fr": "70 km/h", "en": "70 km/h", "es": "70 km/h"}
+        ],
+        "answer": 1,
+        "explain": {"fr": "50 km/h est la règle, avec des zones 30 de plus en plus nombreuses.", "en": "50 km/h is the rule, with more and more 30 zones.", "es": "50 km/h es la norma, con cada vez más zonas 30."}
+      }
+    },
+    {
+      "id": "alcohol", "scene": "alcohol", "fine": "135 €", "points": 6,
+      "note": {"fr": "Entre 0,5 et 0,8 g/L : contravention. Au-delà de 0,8 g/L, c'est un délit (tribunal, suspension ou annulation du permis possibles).", "en": "Between 0.5 and 0.8 g/L: a fine. Above 0.8 g/L it is a criminal offence (court, licence suspension or cancellation possible).", "es": "Entre 0,5 y 0,8 g/L: multa. Por encima de 0,8 g/L es un delito (tribunal, posible suspensión o anulación del permiso)."},
+      "title": {"fr": "Alcool au volant", "en": "Drink-driving", "es": "Alcohol al volante"},
+      "rule": {
+        "fr": "La limite légale est de 0,5 g/L de sang (0,25 mg/L d'air expiré), et de 0,2 g/L pour les jeunes conducteurs. Le plus sûr : si vous buvez, vous ne conduisez pas.",
+        "en": "The legal limit is 0.5 g/L of blood (0.25 mg/L of exhaled air), and 0.2 g/L for novice drivers. Safest: if you drink, don't drive.",
+        "es": "El límite legal es de 0,5 g/L de sangre (0,25 mg/L de aire espirado) y de 0,2 g/L para conductores noveles. Lo más seguro: si bebe, no conduzca."
+      },
+      "q": {
+        "text": {"fr": "Quel est le taux d'alcool maximal autorisé pour un conducteur expérimenté ?", "en": "What is the maximum alcohol level allowed for an experienced driver?", "es": "¿Cuál es la tasa máxima de alcohol permitida para un conductor con experiencia?"},
+        "options": [
+          {"fr": "0,2 g/L", "en": "0.2 g/L", "es": "0,2 g/L"},
+          {"fr": "0,5 g/L", "en": "0.5 g/L", "es": "0,5 g/L"},
+          {"fr": "0,8 g/L", "en": "0.8 g/L", "es": "0,8 g/L"}
+        ],
+        "answer": 1,
+        "explain": {"fr": "0,5 g/L pour la majorité des conducteurs, 0,2 g/L en permis probatoire.", "en": "0.5 g/L for most drivers, 0.2 g/L for novice licence holders.", "es": "0,5 g/L para la mayoría de los conductores, 0,2 g/L con permiso probatorio."}
+      }
+    },
+    {
+      "id": "rightpriority", "scene": "rightpriority", "fine": "135 €", "points": 4,
+      "title": {"fr": "Priorité à droite", "en": "Priority to the right", "es": "Prioridad de la derecha"},
+      "rule": {
+        "fr": "À une intersection sans panneau ni feu, cédez le passage au véhicule qui arrive par votre droite.",
+        "en": "At a junction with no sign or light, give way to the vehicle coming from your right.",
+        "es": "En un cruce sin señal ni semáforo, ceda el paso al vehículo que llega por su derecha."
+      },
+      "q": {
+        "text": {"fr": "À une intersection sans aucune signalisation, qui est prioritaire ?", "en": "At a junction with no signs at all, who has priority?", "es": "En un cruce sin ninguna señalización, ¿quién tiene prioridad?"},
+        "options": [
+          {"fr": "Le véhicule qui vient de gauche", "en": "The vehicle from the left", "es": "El vehículo de la izquierda"},
+          {"fr": "Le véhicule qui vient de droite", "en": "The vehicle from the right", "es": "El vehículo de la derecha"},
+          {"fr": "Le véhicule le plus rapide", "en": "The fastest vehicle", "es": "El vehículo más rápido"}
+        ],
+        "answer": 1,
+        "explain": {"fr": "Sans signalisation, c'est la priorité à droite qui s'applique.", "en": "With no signs, priority to the right applies.", "es": "Sin señalización, se aplica la prioridad de la derecha."}
+      }
+    },
+    {
+      "id": "cyclist", "scene": "cyclist", "fine": "135 €", "points": 3,
+      "note": {"fr": "Sanction d'un dépassement dangereux. Distance latérale : 1 m en agglomération, 1,5 m hors agglomération.", "en": "Penalty for a dangerous overtaking. Lateral distance: 1 m in built-up areas, 1.5 m outside.", "es": "Sanción por adelantamiento peligroso. Distancia lateral: 1 m en zona urbana, 1,5 m fuera de ella."},
+      "title": {"fr": "Dépasser un cycliste", "en": "Overtaking a cyclist", "es": "Adelantar a un ciclista"},
+      "rule": {
+        "fr": "Pour dépasser un cycliste, laissez au moins 1 m d'écart en agglomération et 1,5 m hors agglomération, et ne dépassez que si la voie est libre.",
+        "en": "To overtake a cyclist, leave at least 1 m in built-up areas and 1.5 m outside them, and only overtake when the road ahead is clear.",
+        "es": "Para adelantar a un ciclista, deje al menos 1 m en zona urbana y 1,5 m fuera de ella, y adelante solo si la vía está libre."
+      },
+      "q": {
+        "text": {"fr": "Hors agglomération, quel écart latéral minimal laisser pour dépasser un cycliste ?", "en": "Outside built-up areas, what minimum lateral gap must you leave when overtaking a cyclist?", "es": "Fuera de zona urbana, ¿qué separación lateral mínima hay que dejar al adelantar a un ciclista?"},
+        "options": [
+          {"fr": "50 cm", "en": "50 cm", "es": "50 cm"},
+          {"fr": "1 m", "en": "1 m", "es": "1 m"},
+          {"fr": "1,5 m", "en": "1.5 m", "es": "1,5 m"}
+        ],
+        "answer": 2,
+        "explain": {"fr": "1,5 m hors agglomération, 1 m en agglomération.", "en": "1.5 m outside built-up areas, 1 m inside them.", "es": "1,5 m fuera de zona urbana, 1 m dentro de ella."}
+      }
+    }
+  ]
+}
