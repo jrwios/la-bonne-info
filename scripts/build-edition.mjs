@@ -1,4 +1,4 @@
-// Génère data/latest.json : revue de presse synthétisée, Évangile. Exécuté par GitHub Actions 3 fois par jour.
+// Génère data/latest.json : revue de presse synthétisée. Exécuté par GitHub Actions 3 fois par jour.
 //
 // Principe :
 //  1. lecture des flux RSS de médias variés (France et étranger) ;
@@ -12,7 +12,8 @@ import { createHash } from 'node:crypto';
 const ROOT = new URL('../', import.meta.url);
 const MAX_AGE_H = 36;
 const PER_FEED = 12;
-const TARGET = { france: 10, monde: 5 };
+const TARGET = { france: 14, monde: 8 }; // assez de sujets pour couvrir plusieurs centres d'intérêt
+const TOPICS = new Set(['politique', 'economie', 'societe', 'justice', 'sport', 'culture', 'sciences_tech', 'sante', 'environnement', 'international']);
 const LANGS = ['en', 'es'];
 // Fournisseurs d'IA, essayés dans cet ordre. Il suffit d'en avoir un ; avec plusieurs, le suivant prend le relais
 // quand le précédent est surchargé ou en panne.
@@ -234,10 +235,11 @@ Règles impératives :
 - Reformule avec tes propres mots : ne recopie aucune phrase des articles.
 - Les enjeux sont une analyse : formule-les comme des questions ou des conséquences possibles, sans prendre parti ni prédire.
 - Préfère les sujets traités par plusieurs médias. Un sujet traité par un seul média n'est retenu que s'il est clairement important.
+- Varie les rubriques : quand l'actualité le permet, couvre plusieurs catégories (politique, économie, société, justice, sport, culture, sciences et technologie, santé, environnement) plutôt que de multiplier les sujets d'une même catégorie, sans sacrifier les sujets majeurs.
 - Écris en français.
 
 Réponds UNIQUEMENT par un objet JSON, sans texte autour :
-{"stories":[{"title":"titre neutre et factuel, 12 mots maximum","context":"2 à 3 phrases : ce qu'il faut savoir en amont pour comprendre","summary":"4 à 6 phrases : synthèse croisée des articles","stakes":["enjeu 1","enjeu 2","enjeu 3"],"sources":[numéros des articles utilisés, 1 à 6]}]}
+{"stories":[{"topic":"politique | economie | societe | justice | sport | culture | sciences_tech | sante | environnement | international (une seule valeur)","title":"titre neutre et factuel, 12 mots maximum","context":"2 à 3 phrases : ce qu'il faut savoir en amont pour comprendre","summary":"4 à 6 phrases : synthèse croisée des articles","stakes":["enjeu 1","enjeu 2","enjeu 3"],"sources":[numéros des articles utilisés, 1 à 6]}]}
 Classe les sujets par importance décroissante.`;
 
 async function synthesize(scope, items, n) {
@@ -252,6 +254,7 @@ async function synthesize(scope, items, n) {
     const srcItems = idx.map(i => items[i - 1]);
     stories.push({
       id: 's' + sha(srcItems[0].link).slice(0, 10),
+      topic: TOPICS.has(s.topic) ? s.topic : (scope === 'monde' ? 'international' : 'societe'),
       title: s.title.trim(), context: String(s.context || '').trim(), summary: s.summary.trim(),
       stakes: (Array.isArray(s.stakes) ? s.stakes : []).map(x => String(x).trim()).filter(Boolean).slice(0, 4),
       sources: srcItems.map(a => ({ name: a.source, title: a.title, link: a.link, publishedAt: a.publishedAt, lang: a.lang })),
@@ -262,7 +265,11 @@ async function synthesize(scope, items, n) {
   return stories;
 }
 
+// Traduction par lots (réponses plus courtes, donc plus fiables).
 async function translate(stories) {
+  for (let i = 0; i < stories.length; i += 8) await translateChunk(stories.slice(i, i + 8));
+}
+async function translateChunk(stories) {
   if (!stories.length) return;
   const payload = stories.map(s => ({ title: s.title, context: s.context, summary: s.summary, stakes: s.stakes }));
   const system = `Tu es traducteur professionnel. Traduis fidèlement du français vers: ${LANGS.join(', ')} (codes ISO). Conserve le sens, le ton neutre et les nuances d'attribution ("selon..."). N'ajoute rien. Réponds UNIQUEMENT par un JSON : {"stories":[{${LANGS.map(l => `"${l}":{"title":"","context":"","summary":"","stakes":[]}`).join(',')}}]} avec exactement le même nombre d'éléments et le même ordre que l'entrée.`;
@@ -287,23 +294,13 @@ async function addImages(stories) {
   }
 }
 
-async function evangile() {
-  try {
-    const j = await (await get(`https://api.aelf.org/v1/messes/${today}/france`, 'application/json')).json();
-    const lect = (j.messes?.[0]?.lectures || []).find(l => l.type === 'evangile');
-    if (!lect) throw new Error('pas d\'évangile');
-    return { ok: true, reference: (lect.ref || '').trim(), title: decode(lect.titre || ''), source: 'AELF', link: `https://www.aelf.org/${today}/france/messe`, validation: 'automatique' };
-  } catch (e) { console.warn('Évangile KO :', e.message); return null; }
-}
-
 async function previous() { try { return JSON.parse(await readFile(new URL('data/latest.json', ROOT), 'utf8')); } catch { return null; } }
 
 // ---------- Programme principal ----------
 const prev = await previous();
-const [fr, mo, gospel] = await Promise.all([
+const [fr, mo] = await Promise.all([
   Promise.all(FEEDS.france.map(readFeed)),
   Promise.all(FEEDS.monde.map(readFeed)),
-  evangile(),
 ]);
 const allFr = fr.flatMap(r => r.items), allMo = mo.flatMap(r => r.items);
 const news = { france: interleave(fr, TARGET.france), monde: interleave(mo, TARGET.monde) };
@@ -350,10 +347,9 @@ const edition = {
   sources,
   meteo: { ok: false, city: 'Montaigu-Vendée', source: 'Open-Meteo', sourceUrl: 'https://open-meteo.com/en/docs', fetchedAt: null },
   carburants: { ok: false, prices: [], best: {}, stationsVerifiees: 0, source: 'prix-carburants.gouv.fr', sourceUrl: 'https://www.prix-carburants.gouv.fr/rubrique/opendata/' },
-  evangile: gospel || (keepPrev ? prev.evangile : { ok: false }),
   culture: (prev?.culture || []).filter(e => e.end >= today),
   history: keepPrev ? prev.history || [] : [],
-  checks: { actualites: news.france.length + news.monde.length > 0, meteo: false, carburants: false, evangile: !!gospel },
+  checks: { actualites: news.france.length + news.monde.length > 0, meteo: false, carburants: false },
 };
 
 const dataDir = new URL('data/', ROOT);
@@ -367,4 +363,4 @@ try { index = JSON.parse(await readFile(new URL('index.json', dataDir), 'utf8'))
 index = [{ date: today, path: `data/editions/${today}.json` }, ...index.filter(x => x.date !== today)].slice(0, 60);
 await writeFile(new URL('index.json', dataDir), JSON.stringify(index, null, 2));
 
-console.log(`OK ${today} : synthèses ${synthStatus} (France ${stories.france?.length || 0}, Monde ${stories.monde?.length || 0}), flux ${sources.filter(s => s.ok).length}/${sources.length}, Évangile ${gospel ? gospel.reference : 'non'}`);
+console.log(`OK ${today} : synthèses ${synthStatus} (France ${stories.france?.length || 0}, Monde ${stories.monde?.length || 0}), flux ${sources.filter(s => s.ok).length}/${sources.length}`);
