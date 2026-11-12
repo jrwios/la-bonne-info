@@ -142,7 +142,7 @@ async function ogImage(url) {
 }
 
 // ---------- IA ----------
-async function claude({ model, system, user, maxTokens }) {
+async function callOnce({ model, system, user, maxTokens }) {
   if (PROVIDER === 'gemini') {
     const r = await fetch(`${API}/v1beta/models/${model}:generateContent`, {
       method: 'POST',
@@ -154,7 +154,7 @@ async function claude({ model, system, user, maxTokens }) {
       }),
       signal: AbortSignal.timeout(300000),
     });
-    if (!r.ok) throw new Error('API Gemini ' + r.status + ' ' + (await r.text()).slice(0, 300));
+    if (!r.ok) throw Object.assign(new Error('API Gemini ' + r.status + ' (' + model + ') ' + (await r.text()).slice(0, 300)), { status: r.status });
     const j = await r.json();
     return (j.candidates?.[0]?.content?.parts || []).map(p => p.text || '').join('');
   }
@@ -164,9 +164,31 @@ async function claude({ model, system, user, maxTokens }) {
     body: JSON.stringify({ model, max_tokens: maxTokens, system, messages: [{ role: 'user', content: user }] }),
     signal: AbortSignal.timeout(300000),
   });
-  if (!r.ok) throw new Error('API ' + r.status + ' ' + (await r.text()).slice(0, 300));
+  if (!r.ok) throw Object.assign(new Error('API ' + r.status + ' ' + (await r.text()).slice(0, 300)), { status: r.status });
   const j = await r.json();
   return (j.content || []).filter(b => b.type === 'text').map(b => b.text).join('');
+}
+
+// Surcharge temporaire (429, 500, 502, 503, 504) : nouvelles tentatives espacées, puis modèle de secours.
+const RETRYABLE = new Set([429, 500, 502, 503, 504]);
+const FALLBACK_MODELS = (process.env.LBI_FALLBACK_MODELS || (PROVIDER === 'gemini' ? 'gemini-3.5-flash-lite,gemini-3.8-flash' : '')).split(',').map(s => s.trim()).filter(Boolean);
+const WAITS_S = (process.env.LBI_RETRY_WAITS || '10,30,60').split(',').map(Number);
+const sleep = s => new Promise(r => setTimeout(r, s * 1000));
+async function claude(opts) {
+  const models = [opts.model, ...FALLBACK_MODELS.filter(m => m !== opts.model)];
+  let lastErr;
+  for (const model of models) {
+    for (let attempt = 0; attempt <= WAITS_S.length; attempt++) {
+      try { return await callOnce({ ...opts, model }); }
+      catch (e) {
+        lastErr = e;
+        if (!RETRYABLE.has(e.status) && e.name !== 'TimeoutError') throw e; // erreur définitive (clé invalide, requête refusée…)
+        if (attempt < WAITS_S.length) { console.warn(`IA surchargée (${e.status || 'délai'}), nouvel essai dans ${WAITS_S[attempt]} s…`); await sleep(WAITS_S[attempt]); }
+      }
+    }
+    console.warn(`Modèle ${model} indisponible, essai du modèle suivant.`);
+  }
+  throw lastErr;
 }
 function parseJson(text) {
   const a = text.indexOf('{'), b = text.lastIndexOf('}');
