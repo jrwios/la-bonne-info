@@ -1,131 +1,168 @@
 {
   "schemaVersion": 2,
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T09:00:47.756Z",
-  "status": "complète",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T21:00:33.449Z",
+  "status": "partielle",
+  "stories": {
+    "france": [],
+    "monde": []
+  },
+  "storiesAt": null,
+  "inputHash": null,
+  "synthStatus": "échec",
   "news": {
     "france": [
       {
-        "id": "af7c6e628d6",
-        "title": "Cet étonnant musée du nord de la France expose un trésor longtemps oublié de la Première Guerre mondiale",
-        "link": "https://www.ouest-france.fr/leditiondusoir/2026-11-10/cet-etonnant-musee-du-nord-de-la-france-expose-un-tresor-longtemps-oublie-de-la-premiere-guerre-mondiale-c60bfa92-fcad-4485-9d15-0db26292169a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "id": "afb69072adb",
+        "title": "Un piéton gravement blessé après avoir été percuté par une voiture ce jeudi soir au Mans",
+        "link": "https://www.ouest-france.fr/faits-divers/accidents/un-pieton-gravement-blesse-apres-avoir-ete-percute-par-une-voiture-ce-jeudi-soir-au-mans-94eaf9d8-ded6-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Ce jeudi 12 novembre 2026, au Mans (Sarthe), une personne se déplaçant à pied a été percutée par un véhicule léger dans le sud de la ville. Gravement blessée selon les pompiers, elle a été transportée à l’hôpital.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExM2E4MGRiYTQzZmYxZWE5ODcyYmUyNjdiMGFkMGRlYTU?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=26765afbd90c8ef1153ee9c5248816e70b255ebfdcb7d1e526a3dc1f05dfe983",
+        "publishedAt": "2026-11-12T20:57:11.000Z",
         "source": "Ouest-France",
-        "lang": "fr",
-        "publishedAt": "2026-11-11T09:00:20.000Z"
+        "lang": "fr"
       },
       {
-        "id": "a2e52f42f7e",
-        "title": "« Les anneaux de pouvoir » : à quoi s’attendre pour la saison 3, disponible à partir de ce mercredi sur Prime Video",
-        "link": "https://programmetv.ouest-france.fr/plateformes/amazon-prime-video/les-anneaux-de-pouvoir-a-quoi-sattendre-pour-la-saison-3-disponible-a-partir-de-ce-mercredi-sur-prime-video-e6204362-dcec-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-        "source": "Ouest-France",
-        "lang": "fr",
-        "publishedAt": "2026-11-11T09:00:15.000Z"
-      },
-      {
-        "id": "ae624842be0",
-        "title": "Au procès des parents de la martyre de l’A10, les «démons» d’une mère «consumée de l’intérieur»",
-        "link": "https://www.lefigaro.fr/faits-divers/au-proces-des-parents-de-la-martyre-de-l-a10-les-demons-d-une-mere-consumee-de-l-interieur-20261111",
-        "source": "Le Figaro",
-        "lang": "fr",
-        "publishedAt": "2026-11-11T08:58:37.000Z"
-      },
-      {
-        "id": "a650c6b4f12",
-        "title": "DIRECT. Cérémonie du 11-Novembre : Emmanuel Macron rend hommage sur X \"à ceux qui ne sont jamais revenus\"",
-        "link": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/direct-ceremonie-du-11-novembre-suivez-les-commemorations-et-l-emission-speciale-de-france-2_8276093.html#xtor=RSS-3-%5Bfrance%5D",
-        "source": "franceinfo",
-        "lang": "fr",
-        "publishedAt": "2026-11-11T08:54:16.000Z"
-      },
-      {
-        "id": "aa60e168ea7",
-        "title": "Comment l’UE veut protéger les consommateurs des pièges du numérique",
-        "link": "https://www.liberation.fr/economie/economie-numerique/comment-lue-veut-proteger-les-consommateurs-des-pieges-du-numerique-20261111_XM4G65US7ZHGZOTTGOTEZYFII4/",
+        "id": "add32b2163b",
+        "title": "Mouvement social : les différentes mobilisations prévues ce samedi 14 novembre",
+        "link": "https://www.liberation.fr/economie/social/mouvement-social-les-differentes-mobilisations-prevues-ce-samedi-14-novembre-20261112_XMJHHCIKYFHGFHIQFQMLUNN5PM/",
+        "summary": "Plusieurs organisations (syndicats, gilets jaunes, associations) appellent à ce que des cortèges communs se tiennent partout pour que les colères convergent. «Libération» fait le point.",
+        "image": null,
+        "publishedAt": "2026-11-12T20:56:13.000Z",
         "source": "Libération",
-        "lang": "fr",
-        "publishedAt": "2026-11-11T08:27:41.000Z"
+        "lang": "fr"
       },
       {
-        "id": "a851faa7c0e",
-        "title": "Conditionnement des aides aux entreprises : derrière la victoire syndicale, un décret aux effets limités",
-        "link": "https://www.liberation.fr/economie/social/conditionnement-des-aides-aux-entreprises-derriere-la-victoire-syndicale-un-decret-aux-effets-limites-20261111_YO7WG3JOOZF43CYLEP4WCCMHQE/",
-        "source": "Libération",
-        "lang": "fr",
-        "publishedAt": "2026-11-11T08:19:27.000Z"
-      },
-      {
-        "id": "a3a963ed6f5",
-        "title": "Autour de la centrale nucléaire du Blayais, deux jours pour se préparer à un scénario catastrophe",
-        "link": "https://www.lefigaro.fr/bordeaux/autour-de-la-centrale-nucleaire-du-blayais-deux-jours-pour-se-preparer-a-un-scenario-catastrophe-20261111",
-        "source": "Le Figaro",
-        "lang": "fr",
-        "publishedAt": "2026-11-11T08:15:00.000Z"
-      },
-      {
-        "id": "af8480819f1",
-        "title": "Cyberattaques : jusqu'où peut aller l'Iran ?",
-        "link": "https://www.franceinfo.fr/monde/iran/cyberattaques-jusqu-ou-peut-aller-l-iran_8277374.html#xtor=RSS-3-%5Bfrance%5D",
+        "id": "a02fb37771a",
+        "title": "Ils découvrent une ancienne décharge sous leur jardin et se battent pour obtenir réparation",
+        "link": "https://www.franceinfo.fr/faits-divers/ils-decouvrent-une-ancienne-decharge-sous-leur-jardin-et-se-battent-pour-obtenir-reparation_8280029.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Des déchets enfouis parfois depuis des décennies, des terrains devenus inutilisables et des procédures judiciaires qui s’éternisent : des particuliers découvrent que leur propriété a été construite sur une ancienne décharge. En France, plus de 23 000 sites de ce type ont été recensés, un chiffre pro",
+        "image": "https://www.franceinfo.fr/pictures/R_MYrwRFtdnT0Q_JLkFP0XQM1no/105x0:1382x718/432x243/filters:format(jpg)/2026/11/12/6af6274b29f9f927302837.jpg",
+        "publishedAt": "2026-11-12T20:54:56.000Z",
         "source": "franceinfo",
-        "lang": "fr",
-        "publishedAt": "2026-11-11T06:48:42.000Z"
+        "lang": "fr"
       },
       {
-        "id": "a8a6fc89cd0",
-        "title": "Route du rhum 2026 : Corentin Horeau s’impose en Imoca, un coup de maître pour sa première participation",
-        "link": "https://www.lemonde.fr/sport/article/2026/11/11/route-du-rhum-2026-corentin-horeau-s-impose-en-imoca-un-coup-de-maitre-pour-sa-premiere-participation_6808937_3242.html",
-        "source": "Le Monde",
-        "lang": "fr",
-        "publishedAt": "2026-11-11T05:25:21.000Z"
+        "id": "a3bbf9115ab",
+        "title": "«J’ai toujours été démocrate» : le PDG de Palantir, longtemps allié de Trump, prend ses distances avec le président américain",
+        "link": "https://www.lefigaro.fr/secteur/high-tech/j-ai-toujours-ete-democrate-le-pdg-de-palantir-longtemps-allie-de-trump-prend-ses-distances-avec-le-president-americain-20261112",
+        "summary": "Très proche de l’administration Trump et de ses fondamentaux idéologiques depuis le retour du milliardaire républicain à la Maison-Blanche, Alex Karp renoue avec ses sensibilités démocrates d’antan.",
+        "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/12/2a4383ba5d6541d42b68fcb9676149e8a8251aca300eecfae9c0c37ed38b3a4d.jpg",
+        "publishedAt": "2026-11-12T20:44:57.000Z",
+        "source": "Le Figaro",
+        "lang": "fr"
       },
       {
-        "id": "a454ed8a245",
-        "title": "En Colombie, le Prix Nobel de la paix Juan Manuel Santos reproche au président d’exhiber des cadavres « avec fierté »",
-        "link": "https://www.lemonde.fr/international/article/2026/11/11/en-colombie-le-prix-nobel-de-la-paix-juan-manuel-santos-reproche-au-president-d-exhiber-des-cadavres-avec-fierte_6808936_3210.html",
+        "id": "a81ea34ddf6",
+        "title": "Pourquoi les Européens craignent la rencontre aux allures de « Yalta » entre Donald Trump, Vladimir Poutine et Xi Jinping",
+        "link": "https://www.lefigaro.fr/international/pourquoi-les-europeens-craignent-la-rencontre-aux-allures-de-yalta-entre-donald-trump-vladimir-poutine-et-xi-jinping-20261112",
+        "summary": "DÉCRYPTAGE - Réunis au Sommet de la Communauté politique européenne à Dublin, près de 50 dirigeants du Vieux Continent s’inquiètent des velléités de redessiner sans eux leur architecture de sécurité, mais peinent à désigner un interlocuteur unique pour des pourparlers sur la paix en Ukraine.",
+        "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/12/425ef21ff5be84cdf4a11a8fd119d65bf916cd3cf93d5166d03a301c4a6c3429.jpg",
+        "publishedAt": "2026-11-12T20:30:00.000Z",
+        "source": "Le Figaro",
+        "lang": "fr"
+      },
+      {
+        "id": "a0e564f4cb3",
+        "title": "Guerre au Moyen-Orient : pétroliers en feu, frappe à Gaza… Le bilan du jeudi 12 novembre",
+        "link": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-258-moyen-orient-bilan-resume-aujourdhui-20261112",
+        "summary": "L’hôpital Nasser a été la cible d’une frappe israélienne faisant six morts et au moins 20 blessés. Deux pétroliers ont pris feu dans le détroit d’Ormuz. Retrouvez l’actualité du conflit au Moyen-Orient de ce mercredi 12 novembre.",
+        "image": "https://i.la-croix.com/x/2026/11/12/2587260-les-secours-dans-les-decombres-de-l-hopital-nasser.jpg",
+        "publishedAt": "2026-11-12T20:20:09.000Z",
+        "source": "La Croix",
+        "lang": "fr"
+      },
+      {
+        "id": "a1a04a0519f",
+        "title": "Des pluies torrentielles frappent la Corse et le sud-est de la France",
+        "link": "https://www.franceinfo.fr/environnement/meteo/des-pluies-torrentielles-frappent-la-corse-et-le-sud-est-de-la-france_8279972.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "La Corse et les Alpes-Maritimes ont été frappées par des pluies diluviennes jeudi 12 novembre, provoquant des crues soudaines et des inondations. À Nice, deux hommes emportés par les eaux ont été secourus in extremis, tandis qu’une école a dû être évacuée à Mandelieu-la-Napoule.",
+        "image": "https://www.franceinfo.fr/pictures/TgS4PlYmv8gERZvHcySQxLYSGE4/0x41:1397x826/432x243/filters:format(jpg)/2026/11/12/6af61567defc5794929348.jpg",
+        "publishedAt": "2026-11-12T19:42:05.000Z",
+        "source": "franceinfo",
+        "lang": "fr"
+      },
+      {
+        "id": "ab1accb7438",
+        "title": "Mort de Lyhanna : Gérald Darmanin saisit le Conseil de la magistrature contre une magistrate d’Auch après le « traitement défaillant » de la procédure",
+        "link": "https://www.lemonde.fr/societe/article/2026/11/12/mort-de-lyhanna-gerald-darmanin-saisit-le-conseil-de-la-magistrature-contre-une-magistrate-d-auch-apres-le-traitement-defaillant-de-la-procedure_6809158_3224.html",
+        "summary": "La gestion des dossiers de violences sur mineurs par la magistrate d’Auch soulève des interrogations sur l’ensemble de sa carrière et la rigueur des procédures judiciaires locales.",
+        "image": "https://img.lemde.fr/2026/10/22/631/0/6694/3347/644/322/60/0/36320a8_ftp-1-zdsjwwedbpqo-afp-d43k9lp.jpg",
+        "publishedAt": "2026-11-12T19:25:57.000Z",
         "source": "Le Monde",
-        "lang": "fr",
-        "publishedAt": "2026-11-11T05:06:23.000Z"
+        "lang": "fr"
+      },
+      {
+        "id": "adfe4df8fb9",
+        "title": "La Russie regagne du terrain dans le sport international, mais les Etats lui barrent la route",
+        "link": "https://www.lexpress.fr/monde/europe/la-russie-regagne-du-terrain-dans-le-sport-international-mais-les-etats-lui-barrent-la-route-OOAP3JZIJ5CPXPWHBFH7LB6TWQ/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/SLAKYENS5BB3ZDK2D43GQMF3PU.jpg?auth=05261eb3fe7c912b4e9b510afe81bbe472be83f3d3b00377ed245180da0fb9a1&smart=true&width=5260&height=3339",
+        "publishedAt": "2026-11-12T19:14:25.000Z",
+        "source": "L'Express",
+        "lang": "fr"
+      },
+      {
+        "id": "a1ff6d5261f",
+        "title": "Hantavirus : décrypter la souche Andes, une étape essentielle pour retracer le parcours de l’épidémie",
+        "link": "https://www.lemonde.fr/sciences/article/2026/11/12/decrypter-le-genome-du-hantavirus-andes-une-etape-essentielle-pour-retracer-le-parcours-de-l-epidemie_6809156_1650684.html",
+        "summary": "Une seule contamination entre rongeur et humain, mais où et quand ? Quatre mois après la fin de la crise sanitaire déclenchée par la survenue de cas à bord d’un navire de croisière, un article publié jeudi dans la revue « Science » apporte quelques réponses… et beaucoup de questions. Un consortium d",
+        "image": "https://img.lemde.fr/2026/05/10/133/0/1588/794/644/322/60/0/773303a_ftp-1-h00j8tyc2hsh-336b802dd6d64f7a9f66fe6ac23dd59b-0-b1ed737e2b784c0fbd5b0755c3beeb45.jpg",
+        "publishedAt": "2026-11-12T19:00:00.000Z",
+        "source": "Le Monde",
+        "lang": "fr"
       }
     ],
     "monde": [
       {
-        "id": "aadef82c376",
-        "title": "Ukraine’s Zelenskyy ‘happy’ with US envoys’ approach as Russia talks enter second day – Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
-        "source": "The Guardian (Royaume-Uni, en anglais)",
-        "lang": "en",
-        "publishedAt": "2026-11-11T08:44:46.000Z"
+        "id": "abee007a93f",
+        "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
+        "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+        "summary": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang doe",
+        "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d",
+        "publishedAt": "2026-11-12T20:42:54.000Z",
+        "source": "The Guardian",
+        "lang": "en"
       },
       {
-        "id": "a666bfec577",
-        "title": "Carburants : les prix baissent aux États-Unis et en France, mais pour combien de temps ?",
-        "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261111-carburants-les-prix-baissent-aux-%C3%A9tats-unis-et-en-france-mais-pour-combien-de-temps",
-        "source": "France 24",
-        "lang": "fr",
-        "publishedAt": "2026-11-11T08:43:04.000Z"
+        "id": "ac6a88938b5",
+        "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+        "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+        "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg",
+        "publishedAt": "2026-11-12T20:37:36.000Z",
+        "source": "BBC News",
+        "lang": "en"
       },
       {
-        "id": "a8df2fc1b53",
-        "title": "Putin is not ready to make peace in Abu Dhabi",
-        "link": "https://www.aljazeera.com/opinions/2026/11/11/putin-is-not-ready-to-make-peace-in-abu-dhabi?traffic_source=rss",
-        "source": "Al Jazeera (Qatar, en anglais)",
-        "lang": "en",
-        "publishedAt": "2026-11-11T08:37:31.000Z"
+        "id": "a37c449396d",
+        "title": "What’s at stake in the renewed tensions over the Falkland Islands?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/11/12/whats-at-stake-in-the-renewed-tensions-over-the-falkland-islands?traffic_source=rss",
+        "summary": "Argentina and the UK are in a legal battle over an offshore oil-drilling project.",
+        "image": null,
+        "publishedAt": "2026-11-12T20:25:21.000Z",
+        "source": "Al Jazeera",
+        "lang": "en"
       },
       {
-        "id": "a89b8e48fdd",
-        "title": "How AI worsens online violence against Middle East women",
-        "link": "https://www.dw.com/en/how-ai-worsens-online-violence-against-middle-east-women/a-79912634?maca=en-rss-en-world-4025-rdf",
-        "source": "Deutsche Welle (Allemagne, en anglais)",
-        "lang": "en",
-        "publishedAt": "2026-11-11T06:38:00.000Z"
+        "id": "a1070d7e856",
+        "title": "Czechia braces for massive protest as anger over government's public media reform plans boils",
+        "link": "https://www.dw.com/en/czechia-braces-for-massive-protest-as-anger-over-government-s-public-media-reform-plans-boils/a-79933533?maca=en-rss-en-world-4025-rdf",
+        "summary": "A fast-tracked bill on public media funding reform has sparked strikes, rallies and fears for the independence of public broadcasting in Czechia. A massive protest is due to take place in Prague on November 15.",
+        "image": null,
+        "publishedAt": "2026-11-12T18:26:00.000Z",
+        "source": "Deutsche Welle",
+        "lang": "en"
       },
       {
-        "id": "a7f2e24070d",
-        "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
-        "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News (Royaume-Uni, en anglais)",
-        "lang": "en",
-        "publishedAt": "2026-11-11T03:44:06.000Z"
+        "id": "a3bf6dc30ef",
+        "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+        "summary": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy.",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4300x2867+0+0/resize/4300x2867!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F51%2F97%2F6f0afe7d4fec85c8bfe4b77d0164%2Fap26316483363429.jpg",
+        "publishedAt": "2026-11-12T15:26:34.000Z",
+        "source": "NPR",
+        "lang": "en"
       }
     ]
   },
@@ -134,13 +171,25 @@
       "name": "franceinfo (France)",
       "url": "https://www.francetvinfo.fr/france.rss",
       "ok": true,
-      "count": 20
+      "count": 12
     },
     {
       "name": "Le Monde (France)",
       "url": "https://www.lemonde.fr/rss/une.xml",
       "ok": true,
-      "count": 16
+      "count": 12
+    },
+    {
+      "name": "Le Figaro (France)",
+      "url": "https://www.lefigaro.fr/rss/figaro_actualites-a-la-une.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Libération (France)",
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
+      "ok": true,
+      "count": 12
     },
     {
       "name": "Ouest-France (France)",
@@ -149,52 +198,76 @@
       "count": 10
     },
     {
-      "name": "Le Figaro (France)",
-      "url": "https://www.lefigaro.fr/rss/figaro_actualites-a-la-une.xml",
+      "name": "La Croix (France)",
+      "url": "https://www.la-croix.com/RSS",
       "ok": true,
-      "count": 20
+      "count": 12
     },
     {
-      "name": "Libération (France)",
-      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
+      "name": "L'Express (France)",
+      "url": "https://www.lexpress.fr/rss/alaune.xml",
       "ok": true,
-      "count": 50
+      "count": 12
     },
     {
-      "name": "BBC News (Royaume-Uni, en anglais) (Monde)",
+      "name": "Le Parisien (France)",
+      "url": "https://feeds.leparisien.fr/leparisien/rss",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "BBC News (Monde)",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "ok": true,
-      "count": 23
+      "count": 12
     },
     {
-      "name": "The Guardian (Royaume-Uni, en anglais) (Monde)",
+      "name": "The Guardian (Monde)",
       "url": "https://www.theguardian.com/world/rss",
       "ok": true,
-      "count": 32
+      "count": 12
     },
     {
-      "name": "Deutsche Welle (Allemagne, en anglais) (Monde)",
+      "name": "Deutsche Welle (Monde)",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "ok": true,
       "count": 12
     },
     {
-      "name": "Al Jazeera (Qatar, en anglais) (Monde)",
+      "name": "Al Jazeera (Monde)",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "ok": true,
-      "count": 25
+      "count": 12
+    },
+    {
+      "name": "NPR (Monde)",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "ABC News (Australie) (Monde)",
+      "url": "https://www.abc.net.au/news/feed/2942460/rss.xml",
+      "ok": true,
+      "count": 12
     },
     {
       "name": "France 24 (Monde)",
       "url": "https://www.france24.com/fr/rss",
       "ok": true,
-      "count": 24
+      "count": 12
     },
     {
       "name": "Le Monde International (Monde)",
       "url": "https://www.lemonde.fr/international/rss_full.xml",
       "ok": true,
-      "count": 20
+      "count": 12
+    },
+    {
+      "name": "RFI (Monde)",
+      "url": "https://www.rfi.fr/fr/rss",
+      "ok": true,
+      "count": 12
     }
   ],
   "meteo": {
@@ -214,10 +287,10 @@
   },
   "evangile": {
     "ok": true,
-    "reference": "Lc 17, 11-19",
-    "title": "« Il ne s’est trouvé parmi eux que cet étranger pour revenir sur ses pas et rendre gloire à Dieu ! »",
+    "reference": "Lc 17, 20-25",
+    "title": "« Le règne de Dieu est au milieu de vous »",
     "source": "AELF",
-    "link": "https://www.aelf.org/2026-11-11/france/messe",
+    "link": "https://www.aelf.org/2026-11-12/france/messe",
     "validation": "automatique"
   },
   "culture": [
@@ -258,56 +331,7 @@
       "sourceUrl": "https://larochesuryon.fr/actualites/les-heroines-du-xixe-siecle-sexposent-a-la-roche/"
     }
   ],
-  "history": [
-    {
-      "monthDay": "11-11",
-      "year": "1821",
-      "title": "Naissance de Fiodor Dostoïevski",
-      "description": "Le futur romancier russe naît à Moscou le 11 novembre selon le calendrier grégorien.",
-      "source": "Bibliothèque nationale de France",
-      "sourceUrl": "https://catalogue.bnf.fr/ark:/12148/cb11900477j.public"
-    },
-    {
-      "monthDay": "11-11",
-      "year": "1918",
-      "title": "L’armistice de la Première Guerre mondiale",
-      "description": "Signé dans la clairière de Rethondes, près de Compiègne, il entre en vigueur à 11 heures sur le front occidental.",
-      "source": "Ministère des Armées – Chemins de mémoire",
-      "sourceUrl": "https://www.cheminsdememoire.gouv.fr/fr/memorial-de-l-armistice"
-    },
-    {
-      "monthDay": "11-11",
-      "year": "1923",
-      "title": "Premier allumage de la Flamme du Souvenir",
-      "description": "La flamme est allumée pour la première fois sous l’Arc de Triomphe, sur la tombe du Soldat inconnu.",
-      "source": "Ministère des Armées – Chemins de mémoire",
-      "sourceUrl": "https://www.cheminsdememoire.gouv.fr/fr/arc-de-triomphe"
-    },
-    {
-      "monthDay": "11-11",
-      "year": "1940",
-      "title": "Des étudiants défient l’Occupation à Paris",
-      "description": "Malgré les interdictions, des lycéens et étudiants se réunissent près de l’Arc de Triomphe pour commémorer 1918.",
-      "source": "Ministère des Armées – Chemins de mémoire",
-      "sourceUrl": "https://www.cheminsdememoire.gouv.fr/fr/1940-11-11-manifestation-patriotique-des-etudiants-larc-de-triomphe-paris"
-    },
-    {
-      "monthDay": "11-11",
-      "year": "1974",
-      "title": "Naissance de Leonardo DiCaprio",
-      "description": "L’acteur et producteur américain naît le 11 novembre 1974 à Los Angeles.",
-      "source": "Encyclopaedia Britannica",
-      "sourceUrl": "https://www.britannica.com/biography/Leonardo-DiCaprio"
-    },
-    {
-      "monthDay": "11-11",
-      "year": "1975",
-      "title": "Indépendance de l’Angola",
-      "description": "L’Angola proclame son indépendance du Portugal le 11 novembre 1975.",
-      "source": "Ambassade d’Angola",
-      "sourceUrl": "https://www.angola.org/en/angola/historia"
-    }
-  ],
+  "history": [],
   "checks": {
     "actualites": true,
     "meteo": false,
