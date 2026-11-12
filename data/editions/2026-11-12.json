@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "date": "2026-11-12",
-  "generatedAt": "2026-11-12T21:25:57.492Z",
-  "status": "complète",
+  "generatedAt": "2026-11-12T21:50:08.743Z",
+  "status": "partielle",
   "stories": {
     "france": [
       {
@@ -1013,17 +1013,67 @@
   },
   "storiesAt": "2026-11-12T21:25:57.492Z",
   "inputHash": "f51f46f7c5dbaf31d1fe6d8848f686af2189d32c",
-  "synthStatus": "ok",
+  "synthStatus": "échec",
   "news": {
     "france": [
       {
-        "id": "adcceb17b1b",
-        "title": "Donald Trump menace le Mexique de doubler les droits de douane après l’arrivée d’une caravane de migrants",
-        "link": "https://www.ouest-france.fr/economie/droits-de-douane/donald-trump-menace-le-mexique-de-doubler-les-droits-de-douane-apres-larrivee-dune-caravane-de-migrants-bd62feaa-dedc-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-        "summary": "Donald Trump a menacé de doubler les droits de douane imposés au Mexique après l’arrivée sur le territoire mexicain d’une caravane de plus de 1 000 migrants centraméricains, qui espèrent pouvoir entrer aux États-Unis.",
-        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExYTUyN2Q4MjQzODZkMWFjM2E1OTc1OWJjNDY4ZjQyODU?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=02219adc6d7a9af2ec668f8cce5b319651825cf637272f0bba05b249c9beb7cd",
-        "publishedAt": "2026-11-12T21:16:27.000Z",
+        "id": "a8300cf9505",
+        "title": "Mort de Quentin Deranque à Lyon : l’un des suspects remis en liberté",
+        "link": "https://www.ouest-france.fr/faits-divers/meurtres/mort-de-quentin-deranque-a-lyon-lun-des-suspects-remis-en-liberte-60097998-dedf-11f1-86b6-0a2fbb1d8ed9?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "L’un des suspects mis en examen après la mort en février dernier du militant d’extrême droite Quentin Deranque, a été remis en liberté sous contrôle judiciaire, mais le parquet de Lyon devrait déposer un référé-liberté pour qu’il soit de nouveau placé en détention provisoire.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExY2RhMzA5ODUyNmJiOTIwMDE0Zjc3MjllNTllMjJiMWU?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=327cff601a3d7d0ad1a2463cb0fdb28f5e56146d81729b69e100d8d7622f8cef",
+        "publishedAt": "2026-11-12T21:47:01.000Z",
         "source": "Ouest-France",
+        "lang": "fr"
+      },
+      {
+        "id": "a7d3e2c3067",
+        "title": "La Norvège va interdire aux sportifs russes de participer à ses compétitions tant que la guerre en Ukraine se poursuivra",
+        "link": "https://www.ouest-france.fr/sport/ski-de-fond/la-norvege-va-interdire-aux-sportifs-russes-de-participer-a-ses-competitions-tant-que-la-guerre-en-ukraine-se-poursuivra-ff946f0e-dedf-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Le gouvernement norvégien a annoncé, jeudi 12 novembre, qu’il empêcherait les athlètes professionnels russes et bélarusses de participer à des compétitions sur son territoire, tant que la guerre en Ukraine se poursuivra. Une décision qui pourrait notamment les priver de la Coupe du monde de ski de f",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExNjVjNzA3ZTQwYjk0N2QyYjQ1Yzg1YTY3ZDdiMGFiMWI?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=617538ea2d263527c68a65385008484def4f83d85b891b708dac004e8cd1b0b0",
+        "publishedAt": "2026-11-12T21:43:28.000Z",
+        "source": "Ouest-France",
+        "lang": "fr"
+      },
+      {
+        "id": "aede1f64ba5",
+        "title": "En Norvège et en Finlande, les sportifs professionnels russes désormais interdits de compétitions",
+        "link": "https://www.liberation.fr/international/europe/en-norvege-et-en-finlande-les-sportifs-professionnels-russes-desormais-interdits-de-competitions-20261112_JFG2APX73BAHBCQIZRO6XOLIRE/",
+        "summary": "Les deux pays ont annoncé ce jeudi 12 novembre vouloir interdire aux athlètes russes et bélarusses de participer à des compétitions sur leur territoire. Et poussent les autres nations européennes à en faire de même.",
+        "image": null,
+        "publishedAt": "2026-11-12T21:27:22.000Z",
+        "source": "Libération",
+        "lang": "fr"
+      },
+      {
+        "id": "a3d374d1375",
+        "title": "Affaire Nvidia : Alice Huang, la mystérieuse maîtresse accusée d’espionner pour la Chine",
+        "link": "https://www.lefigaro.fr/international/affaire-nvidia-alice-huang-la-mysterieuse-maitresse-accusee-d-espionner-pour-la-chine-20261112",
+        "summary": "RÉCIT - La Chine dément les accusations lancées par les services américains à l’encontre de cette liaison de Jensen Huang, qui a démissionné ce jeudi de son poste de PDG du géant américain des puces.",
+        "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/12/c48205b7109c3f0c32bd45567019fca6bb20859bdd8172000fdc4bbdf30e8d69.jpg",
+        "publishedAt": "2026-11-12T21:15:41.000Z",
+        "source": "Le Figaro",
+        "lang": "fr"
+      },
+      {
+        "id": "a3bbf9115ab",
+        "title": "«J’ai toujours été démocrate» : le PDG de Palantir, longtemps allié de Trump, prend ses distances avec le président américain",
+        "link": "https://www.lefigaro.fr/secteur/high-tech/j-ai-toujours-ete-democrate-le-pdg-de-palantir-longtemps-allie-de-trump-prend-ses-distances-avec-le-president-americain-20261112",
+        "summary": "Très proche de l’administration Trump et de ses fondamentaux idéologiques depuis le retour du milliardaire républicain à la Maison-Blanche, Alex Karp renoue avec ses sensibilités démocrates d’antan.",
+        "image": "https://i.f1g.fr/media/cms/orig/2026/11/12/bf50487756d0e565f1e1192a9485c8e4305ab8f5b44cdb981180e19b69f562d8.JPG",
+        "publishedAt": "2026-11-12T21:15:17.000Z",
+        "source": "Le Figaro",
+        "lang": "fr"
+      },
+      {
+        "id": "a66fad4eb82",
+        "title": "Agriculture : un « plan de relance » tiraillé entre souveraineté alimentaire et urgence climatique",
+        "link": "https://www.lemonde.fr/planete/article/2026/11/12/agriculture-un-plan-de-relance-tiraille-entre-souverainete-alimentaire-et-urgence-climatique_6809161_3244.html",
+        "summary": "Annie Genevard, ministre de l’agriculture, accompagnée du premier ministre, Sébastien Lecornu, a présenté, jeudi, un plan censé porter la « reconquête » de la souveraineté alimentaire française sur dix ans, mais peu orienté vers la transition écologique.",
+        "image": "https://img.lemde.fr/2026/11/12/499/0/5776/2888/644/322/60/0/4f23be2_ftp-1-pid7i7ya4tq2-afp-d79y2u3.jpg",
+        "publishedAt": "2026-11-12T21:10:52.000Z",
+        "source": "Le Monde",
         "lang": "fr"
       },
       {
@@ -1047,16 +1097,6 @@
         "lang": "fr"
       },
       {
-        "id": "a06250537e4",
-        "title": "Face aux gangs haïtiens, un corps expéditionnaire du président du Salvador Nayib Bukele qui pose question",
-        "link": "https://www.lefigaro.fr/international/face-aux-gangs-haitiens-un-corps-expeditionnaire-du-president-du-salvador-nayib-bukele-qui-pose-question-20261112",
-        "summary": "DÉCRYPTAGE - Le dirigeant réputé pour ses méthodes brutales a envoyé quelque 2 500 soldats dans l’île en proie à l’extrême violence de bandes criminelles.",
-        "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/12/73236ebe423bb4f9b0cf5040f44386067c8d69a0c45f3ba37c10a28f784b06bf.jpg",
-        "publishedAt": "2026-11-12T21:00:00.000Z",
-        "source": "Le Figaro",
-        "lang": "fr"
-      },
-      {
         "id": "a02fb37771a",
         "title": "Ils découvrent une ancienne décharge sous leur jardin et se battent pour obtenir réparation",
         "link": "https://www.franceinfo.fr/faits-divers/ils-decouvrent-une-ancienne-decharge-sous-leur-jardin-et-se-battent-pour-obtenir-reparation_8280029.html#xtor=RSS-3-%5Bfrance%5D",
@@ -1067,22 +1107,22 @@
         "lang": "fr"
       },
       {
-        "id": "a3bbf9115ab",
-        "title": "«J’ai toujours été démocrate» : le PDG de Palantir, longtemps allié de Trump, prend ses distances avec le président américain",
-        "link": "https://www.lefigaro.fr/secteur/high-tech/j-ai-toujours-ete-democrate-le-pdg-de-palantir-longtemps-allie-de-trump-prend-ses-distances-avec-le-president-americain-20261112",
-        "summary": "Très proche de l’administration Trump et de ses fondamentaux idéologiques depuis le retour du milliardaire républicain à la Maison-Blanche, Alex Karp renoue avec ses sensibilités démocrates d’antan.",
-        "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/12/2a4383ba5d6541d42b68fcb9676149e8a8251aca300eecfae9c0c37ed38b3a4d.jpg",
-        "publishedAt": "2026-11-12T20:44:57.000Z",
-        "source": "Le Figaro",
-        "lang": "fr"
-      },
-      {
         "id": "a0e564f4cb3",
         "title": "Guerre au Moyen-Orient : pétroliers en feu, frappe à Gaza… Le bilan du jeudi 12 novembre",
         "link": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-258-moyen-orient-bilan-resume-aujourdhui-20261112",
         "summary": "L’hôpital Nasser a été la cible d’une frappe israélienne faisant six morts et au moins 20 blessés. Deux pétroliers ont pris feu dans le détroit d’Ormuz. Retrouvez l’actualité du conflit au Moyen-Orient de ce mercredi 12 novembre.",
         "image": "https://i.la-croix.com/x/2026/11/12/2587260-les-secours-dans-les-decombres-de-l-hopital-nasser.jpg",
         "publishedAt": "2026-11-12T20:20:09.000Z",
+        "source": "La Croix",
+        "lang": "fr"
+      },
+      {
+        "id": "aac0c2eeb37",
+        "title": "Guerre en Ukraine : ce qu’il faut retenir de la situation du jeudi 12 novembre",
+        "link": "https://www.la-croix.com/international/ukraine-russie-jour-1723-point-conflit-ukrainien-poutine-aujourdhui-20261112",
+        "summary": "Les émissaires américains sont arrivés au Kremlin pour une rencontre avec Vladimir Poutine. Volodymyr Zelensky a estimé qu’il pourrait exister une « fenêtre d’opportunité » pour parvenir à une percée dans les négociations. Retrouvez l’actualité de la guerre en Ukraine de ce jeudi 12 novembre.",
+        "image": "https://i.la-croix.com/x/2026/11/12/2587177-des-personnes-ramassent-des-eclats-de-verre-et-des.jpg",
+        "publishedAt": "2026-11-12T20:19:10.000Z",
         "source": "La Croix",
         "lang": "fr"
       },
@@ -1097,16 +1137,6 @@
         "lang": "fr"
       },
       {
-        "id": "ab1accb7438",
-        "title": "Mort de Lyhanna : Gérald Darmanin saisit le Conseil de la magistrature contre une magistrate d’Auch après le « traitement défaillant » de la procédure",
-        "link": "https://www.lemonde.fr/societe/article/2026/11/12/mort-de-lyhanna-gerald-darmanin-saisit-le-conseil-de-la-magistrature-contre-une-magistrate-d-auch-apres-le-traitement-defaillant-de-la-procedure_6809158_3224.html",
-        "summary": "La gestion des dossiers de violences sur mineurs par la magistrate d’Auch soulève des interrogations sur l’ensemble de sa carrière et la rigueur des procédures judiciaires locales.",
-        "image": "https://img.lemde.fr/2026/10/22/631/0/6694/3347/644/322/60/0/36320a8_ftp-1-zdsjwwedbpqo-afp-d43k9lp.jpg",
-        "publishedAt": "2026-11-12T19:25:57.000Z",
-        "source": "Le Monde",
-        "lang": "fr"
-      },
-      {
         "id": "adfe4df8fb9",
         "title": "La Russie regagne du terrain dans le sport international, mais les Etats lui barrent la route",
         "link": "https://www.lexpress.fr/monde/europe/la-russie-regagne-du-terrain-dans-le-sport-international-mais-les-etats-lui-barrent-la-route-OOAP3JZIJ5CPXPWHBFH7LB6TWQ/",
@@ -1115,38 +1145,78 @@
         "publishedAt": "2026-11-12T19:14:25.000Z",
         "source": "L'Express",
         "lang": "fr"
+      },
+      {
+        "id": "a7b5b8fd7de",
+        "title": "Israël interdit l'entrée sur son territoire à Jean-Luc Mélenchon et Mathilde Panot",
+        "link": "https://www.lexpress.fr/monde/proche-moyen-orient/israel-interdit-lentree-sur-son-territoire-a-jean-luc-melenchon-et-mathilde-panot-WY3FKXYFP5ADNFCOBFESFUZXKM/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/VDGV63SUNVA6NKBNSE3QQS6DKM.jpg?auth=c17b1100b9b1e97289b535de41ff5372414b736c6cf4835f2ae8de092e0d0764&smart=true&width=3877&height=2585",
+        "publishedAt": "2026-11-12T18:28:11.000Z",
+        "source": "L'Express",
+        "lang": "fr"
       }
     ],
     "monde": [
       {
-        "id": "a388c180a1a",
-        "title": "Global Microsoft outage affecting Outlook and Teams users, with company ‘restarting’ servers",
-        "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-        "summary": "An alert on Microsoft’s site said it was ‘aggressively pursuing all pathways to reduce impact’ and blamed a server issue Microsoft says its servers are beginning to return to service after a global outage resulted in nearly 130,000 users globally reporting issues accessing its 365 suite of software,",
-        "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d",
-        "publishedAt": "2026-11-12T21:14:11.000Z",
+        "id": "a3ee25c59a4",
+        "title": "Mauritanie : ces images satellite ne montrent pas des bateaux de migrants",
+        "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261112-mauritanie-ces-images-satellite-ne-montrent-pas-des-bateaux-de-migrants",
+        "summary": "Images satellites de bateaux à l'appui, des publications sur les réseaux sociaux assurent que de très nombreuses embarcations de migrants s'apprêtent à quitter le port de Nouadhibou en Mauritanie pour gagner l'archipel espagnol des Canaries. Si les clichés partagés sont authentiques, reste qu'ils so",
+        "image": "https://s.france24.com/media/display/31ef8794-dedc-11f1-9a18-3f371022a770/w:1024/p:16x9/FRAN261112-2115-Live-CS2115.jpg",
+        "publishedAt": "2026-11-12T21:45:19.000Z",
+        "source": "France 24",
+        "lang": "fr"
+      },
+      {
+        "id": "ae58ef6dc8a",
+        "title": "Washington DC shooting: police identify victim and suspect – latest updates",
+        "link": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
+        "summary": "Police say James Stuart, 46, was the manager of the building where suspect Matt Wade Lambert lived; the suspect had an ongoing dispute with the building’s owners Multiple people shot in Washington DC as police warn people to stay inside The incident is shifting from an active shooter response to a b",
+        "image": "https://i.guim.co.uk/img/media/3cd3120cd9fb92c56aa9f2a63c7334b6ff87b8ca/973_285_3896_3116/master/3896.jpg?width=140&quality=85&auto=format&fit=max&s=24a749709717c530d96cc97f1bb4c549",
+        "publishedAt": "2026-11-12T21:42:01.000Z",
         "source": "The Guardian",
         "lang": "en"
       },
       {
-        "id": "ac6a88938b5",
-        "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
-        "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-        "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg",
-        "publishedAt": "2026-11-12T21:00:42.000Z",
+        "id": "aa843e42ce0",
+        "title": "Search for British woman missing from Tui cruise in Atlantic called off",
+        "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+        "summary": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f65c/live/6b94c200-de7f-11f1-b88b-3f1671ea859d.jpg",
+        "publishedAt": "2026-11-12T21:27:21.000Z",
         "source": "BBC News",
         "lang": "en"
       },
       {
-        "id": "a81693daceb",
-        "title": "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/pope-leo-calls-for-church-to-make-amends-to-sex-abuse-victims?traffic_source=rss",
-        "summary": "Pope Leo XIV says the Catholic Church must confront sexual abuse committed by clergy with truth and justice.",
+        "id": "abb40ba1c50",
+        "title": "Live: Cummins to address ball tampering claims after Khawaja revelations",
+        "link": "https://www.abc.net.au/news/2026-11-13/pat-cummins-live-media-conference-ball-tampering-usman-khawaja/107381096",
+        "summary": "Australia Test captain Pat Cummins is set to speak to the media at Cricket NSW's headquarters about Usman Khawaja's recent revelations about Australia's ball tampering in 2018. Follow live.",
+        "image": "https://live-production.wcms.abc-cdn.net.au/f28a64f0283a269a364e4651bf0060c3?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
+        "publishedAt": "2026-11-12T21:26:54.000Z",
+        "source": "ABC News (Australie)",
+        "lang": "en"
+      },
+      {
+        "id": "a82deb12dda",
+        "title": "Deadly shooting in Washington DC",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
+        "summary": "Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed",
         "image": null,
-        "publishedAt": "2026-11-12T20:59:53.000Z",
+        "publishedAt": "2026-11-12T21:18:24.000Z",
         "source": "Al Jazeera",
         "lang": "en"
+      },
+      {
+        "id": "aafc2990463",
+        "title": "EN DIRECT, guerre en Ukraine : les émissaires américains sont arrivés à Dublin pour rencontrer Volodymyr Zelensky",
+        "link": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-a-dublin-pour-rencontrer-volodymyr-zelensky_6808609_3210.html",
+        "summary": "Jared Kushner et Steve Witkoff, les émissaires des Etats-Unis pour les négociations sur le conflit entre la Russie et l’Ukraine, avaient auparavant fait étape à Moscou pour des entretiens avec le président russe Vladimir Poutine.",
+        "image": "https://img.lemde.fr/2026/11/12/688/0/7735/3867/644/322/60/0/f4823ce_ftp-1-lfossm52iywe-c370a1a1946a46c4bac1ce9860bdd08c-1-77ac55c7397343bfa3be87c05b12d2ea.jpg",
+        "publishedAt": "2026-11-12T21:10:20.000Z",
+        "source": "Le Monde International",
+        "lang": "fr"
       },
       {
         "id": "a1070d7e856",
@@ -1289,14 +1359,6 @@
     "source": "prix-carburants.gouv.fr",
     "sourceUrl": "https://www.prix-carburants.gouv.fr/rubrique/opendata/"
   },
-  "evangile": {
-    "ok": true,
-    "reference": "Lc 17, 20-25",
-    "title": "« Le règne de Dieu est au milieu de vous »",
-    "source": "AELF",
-    "link": "https://www.aelf.org/2026-11-12/france/messe",
-    "validation": "automatique"
-  },
   "culture": [
     {
       "title": "3 artistes, 3 sensibilités, un même souffle !",
@@ -1339,7 +1401,6 @@
   "checks": {
     "actualites": true,
     "meteo": false,
-    "carburants": false,
-    "evangile": true
+    "carburants": false
   }
 }
