@@ -1,0 +1,1767 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T12:30:14.539Z",
+  "status": "complète",
+  "stories": {
+    "france": [
+      {
+        "id": "sbb537a9274",
+        "topic": "sciences_tech",
+        "title": "Panne informatique mondiale affectant les services Microsoft et la messagerie Outlook",
+        "context": "Les services de l'entreprise américaine Microsoft sont au cœur des communications professionnelles et gouvernementales à l'échelle internationale. Leur fonctionnement repose sur plusieurs plateformes intégrées comme Outlook, Teams ou Microsoft 365.",
+        "summary": "Une interruption massive des services de Microsoft a touché des dizaines de pays, perturbant fortement les activités des entreprises et des administrations. La messagerie Outlook, ainsi que Teams et l'outil Copilot, ont subi d'importants dysfonctionnements sans que la piste d'une cyberattaque ne soit retenue. Le groupe américain s'efforce de rétablir un fonctionnement normal alors que le retour à la normale s'effectue très progressivement. Les utilisateurs ont dû recourir à des solutions alternatives pour maintenir leurs échanges professionnels.",
+        "stakes": [
+          "Quelles sont les conséquences d'une telle dépendance aux géants informatiques ?",
+          "Comment sécuriser la continuité des services administratifs et économiques ?",
+          "Quels seront les coûts financiers engendrés par cette interruption massive ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Ce que l’on sait de la panne d’Outlook et de Microsoft 365",
+            "link": "https://www.lemonde.fr/pixels/article/2026/11/13/ce-que-l-on-sait-de-la-panne-d-outlook-et-de-microsoft-365_6809312_4408996.html",
+            "publishedAt": "2026-11-13T10:42:43.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Figaro",
+            "title": "Panne d’Outlook : quelles solutions alternatives à la messagerie pouvez-vous utiliser ?",
+            "link": "https://www.lefigaro.fr/secteur/high-tech/panne-d-outlook-quelles-solutions-alternatives-a-la-messagerie-pouvez-vous-utiliser-20261113",
+            "publishedAt": "2026-11-13T11:09:30.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "Panne d’Outlook : vous n’avez plus de message",
+            "link": "https://www.liberation.fr/economie/economie-numerique/outlook-vous-navez-plus-de-message-20261113_O6IJNBBOCVA4HJWJVKQGH7WZXY/",
+            "publishedAt": "2026-11-13T12:05:58.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "Microsoft 365, Outlook, Teams, e-mails « retardés »… Ce que l’on sait de la panne mondiale des messageries informatiques",
+            "link": "https://www.ouest-france.fr/high-tech/microsoft/microsoft-365-outlook-teams-ce-que-lon-sait-de-la-panne-mondiale-qui-touche-les-messageries-informatiques-bbb822ce-df27-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-13T11:54:57.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Outlook hors service : ce que l’on sait de la panne mondiale qui touche Microsoft",
+            "link": "https://www.la-croix.com/microsoft-peine-a-reparer-la-panne-mondiale-d-outlook-20261113",
+            "publishedAt": "2026-11-13T11:54:13.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Panne mondiale d’Outlook : 5 chiffres clés qui montrent l’importance de Microsoft dans l’économie",
+            "link": "https://www.la-croix.com/societe/panne-mondiale-d-outlook-5-chiffres-cles-qui-montrent-limportance-de-microsoft-dans-leconomie-20261113",
+            "publishedAt": "2026-11-13T11:03:32.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/12/633/0/7646/3823/644/322/60/0/e0d5813_ftp-1-4211qcg8b03w-2304840770.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/pixels/article/2026/11/13/ce-que-l-on-sait-de-la-panne-d-outlook-et-de-microsoft-365_6809312_4408996.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Global IT outage affecting Microsoft services and Outlook email",
+            "context": "The services of the American company Microsoft are at the heart of international business and government communications. Their operation relies on several integrated platforms such as Outlook, Teams, and Microsoft 365.",
+            "summary": "A massive disruption to Microsoft services affected dozens of countries, heavily disrupting business and administrative activities. Outlook email, as well as Teams and the Copilot tool, suffered significant malfunctions, with no evidence pointing to a cyberattack. The American group is working to restore normal operations as a return to normalcy takes place very gradually. Users had to resort to alternative solutions to maintain their professional communications.",
+            "stakes": [
+              "What are the consequences of such a reliance on IT giants?",
+              "How can the continuity of administrative and economic services be secured?",
+              "What will be the financial costs generated by this massive interruption?"
+            ]
+          },
+          "es": {
+            "title": "Apagón informático mundial que afecta a los servicios de Microsoft y al correo Outlook",
+            "context": "Los servicios de la empresa estadounidense Microsoft están en el centro de las comunicaciones profesionales y gubernamentales a escala internacional. Su funcionamiento se basa en varias plataformas integradas como Outlook, Teams o Microsoft 365.",
+            "summary": "Una interrupción masiva de los servicios de Microsoft afectó a decenas de países, perturbando fuertemente las actividades de las empresas y las administraciones. El servicio de correo Outlook, así como Teams y la herramienta Copilot, sufrieron importantes disfunciones sin que se baraje la pista de un ciberataque. El grupo estadounidense se esfuerza por restablecer un funcionamiento normal mientras el retorno a la normalidad se produce de manera muy gradual. Los usuarios tuvieron que recurrir a soluciones alternativas para mantener sus intercambios profesionales.",
+            "stakes": [
+              "¿Cuáles son las consecuencias de semejante dependencia de los gigantes informáticos?",
+              "¿Cómo asegurar la continuidad de los servicios administrativos y económicos?",
+              "¿Cuáles serán los costes financieros generados por esta interrupción masiva?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s43111f5798",
+        "topic": "societe",
+        "title": "Mobilisation sociale d'ampleur prévue samedi avec un important dispositif de sécurité",
+        "context": "Les mouvements sociaux se poursuivent en France à l'initiative de diverses organisations syndicales et citoyennes. Des rassemblements réguliers sont organisés dans de nombreuses villes du territoire.",
+        "summary": "Plus de cinquante manifestations sont annoncées sur l'ensemble du territoire national pour la journée de samedi. Les autorités prévoient de déployer un dispositif de sécurité conséquent comprenant 70 000 policiers et gendarmes. Les syndicats et divers mouvements appellent à des cortèges convergents pour exprimer les revendications sociales. Dans cette perspective, des étudiants en art et en architecture ont confectionné des œuvres et des structures géantes pour animer les défilés.",
+        "stakes": [
+          "Quelle sera l'ampleur réelle de la participation populaire ?",
+          "Comment les forces de l'ordre géreront-elles le maintien de l'ordre ?",
+          "Quel sera l'impact de ces mobilisations sur les choix politiques à venir ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Plus de 50 manifestations attendues samedi lors de l’acte V des mobilisations sociales ; 70 000 policiers et gendarmes devraient être mobilisés",
+            "link": "https://www.lemonde.fr/societe/article/2026/11/13/acte-v-des-mobilisations-sociales-entre-50-et-60-defiles-sur-l-ensemble-du-territoire-national-prevoit-le-ministre-de-l-interieur_6809320_3224.html",
+            "publishedAt": "2026-11-13T11:16:26.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "Parcours, dispositif policier, mobilisation : à quoi s’attendre pour les manifestations de ce samedi 14 novembre ?",
+            "link": "https://www.liberation.fr/economie/social/mouvement-social-les-differentes-mobilisations-prevues-ce-samedi-14-novembre-20261112_XMJHHCIKYFHGFHIQFQMLUNN5PM/",
+            "publishedAt": "2026-11-13T11:34:34.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "Cheval de Troie, chars et pantins géants : les écoles d’art et d’architecture unissent leurs forces pour animer les manifestations",
+            "link": "https://www.liberation.fr/lifestyle/design/cheval-de-troie-chars-et-pantins-geants-les-ecoles-dart-et-darchitecture-unissent-leurs-forces-pour-animer-les-manifestations-20261113_CJKXG2QFNFFHXC4J432RUIQQJ4/",
+            "publishedAt": "2026-11-13T10:32:16.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/10/494/0/5919/2959/644/322/60/0/4f5dc74_ftp-1-gfzxcdqmjas1-2026-11-10t195027z-1101204124-rc24loagx7lv-rtrmadp-3-france-protest.JPG",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/societe/article/2026/11/13/acte-v-des-mobilisations-sociales-entre-50-et-60-defiles-sur-l-ensemble-du-territoire-national-prevoit-le-ministre-de-l-interieur_6809320_3224.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Large-scale social mobilization planned for Saturday with significant security deployment",
+            "context": "Social movements continue in France at the initiative of various union and citizen organizations. Regular gatherings are organized in numerous cities across the country.",
+            "summary": "More than fifty demonstrations are announced nationwide for Saturday. The authorities plan to deploy a substantial security force including 70,000 police officers and gendarmes. Unions and various movements are calling for converging marches to voice social demands. With this in mind, art and architecture students have crafted giant artworks and structures to animate the parades.",
+            "stakes": [
+              "What will be the actual scale of popular participation?",
+              "How will law enforcement manage public order?",
+              "What will be the impact of these mobilizations on future political choices?"
+            ]
+          },
+          "es": {
+            "title": "Movilización social de gran envergadura prevista para el sábado con un importante dispositivo de seguridad",
+            "context": "Los movimientos sociales continúan en Francia por iniciativa de diversas organizaciones sindicales y ciudadanas. Se organizan concentraciones regulares en numerosas ciudades del territorio.",
+            "summary": "Se han anunciado más de cincuenta manifestaciones en todo el territorio nacional para la jornada del sábado. Las autoridades prevén desplegar un dispositivo de seguridad consecuente que incluye a 70.000 policías y gendarmes. Los sindicatos y varios movimientos llaman a marchas convergentes para expresar las reivindicaciones sociales. Con esta perspectiva, estudiantes de arte y arquitectura han confeccionado obras y estructuras gigantes para animar los desfiles.",
+            "stakes": [
+              "¿Cuál será la magnitud real de la participación popular?",
+              "¿Cómo gestionarán las fuerzas del orden el mantenimiento del orden público?",
+              "¿Cuál será el impacto de estas movilizaciones en las próximas opciones políticas?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sba7c0ef3e7",
+        "topic": "societe",
+        "title": "Les répercussions sociétales et politiques de l'attentat raciste dans les Yvelines",
+        "context": "Un attentat à caractère raciste est survenu le 23 octobre dernier dans le secteur de Trappes et de la Verrière. L'auteur présumé possédait des éléments matériels faisant référence à des engagements politiques.",
+        "summary": "À Mantes-la-Jolie, des résidents font part de leurs craintes d'être pris pour cible en raison de leurs origines après cet événement tragique. Sur le plan politique, le Rassemblement national a indiqué vouloir porter plainte pour diffamation contre les dirigeants écologistes ayant mis en cause le parti. Parallèlement, d'anciens représentants de victimes d'attentats réclament un hommage national citoyen réunissant l'ensemble des victimes du terrorisme. Cette proposition vise à restaurer une unité nationale jugée défaillante face aux récentes attaques.",
+        "stakes": [
+          "Comment apaiser le sentiment d'insécurité des populations ciblées ?",
+          "Quelles seront les suites judiciaires des polémiques entre responsables politiques ?",
+          "Quelle forme doit prendre le devoir de mémoire face aux violences idéologiques ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "REPORTAGE. \"On entend parler d'islam tous les jours\" : à Mantes-la-Jolie, des habitants tentent de surmonter le traumatisme de l'attentat raciste de Trappes",
+            "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/reportage-on-entend-parler-d-islam-tous-les-jours-a-mantes-la-jolie-des-habitants-tentent-de-surmonter-le-traumatisme-de-l-attentat-raciste-de-trappes_8280035.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-13T11:27:24.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde",
+            "title": "Attentat raciste de Trappes : le Rassemblement national annonce déposer une plainte en diffamation « très prochainement » contre Marine Tondelier",
+            "link": "https://www.lemonde.fr/politique/article/2026/11/13/attentat-raciste-de-trappes-le-rassemblement-national-annonce-deposer-une-plainte-en-diffamation-tres-prochainement-contre-marine-tondelier_6809304_823448.html",
+            "publishedAt": "2026-11-13T09:44:33.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "13 Novembre : l’ancien président de Life for Paris propose un hommage national citoyen à toutes les victimes du terrorisme pour inclure celles de Trappes",
+            "link": "https://www.liberation.fr/societe/police-justice/13-novembre-lancien-president-de-life-for-paris-propose-un-hommage-national-citoyen-a-toutes-les-victimes-du-terrorisme-pour-inclure-celles-de-trappes-20261113_GR4BSLKLXJH6ZC4S6UUIXGMVTY/",
+            "publishedAt": "2026-11-13T11:04:17.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/wSSiXqlI9mU_ac4kf_7rtUV6xto/0x53:1024x629/432x243/filters:format(jpg)/2026/11/12/6af629d1a6ecc230632527.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/reportage-on-entend-parler-d-islam-tous-les-jours-a-mantes-la-jolie-des-habitants-tentent-de-surmonter-le-traumatisme-de-l-attentat-raciste-de-trappes_8280035.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Societal and political repercussions of the racist attack in the Yvelines region",
+            "context": "A racist attack occurred last October 23 in the Trappes and La Verrière area. The alleged perpetrator possessed material elements referencing political commitments.",
+            "summary": "In Mantes-la-Jolie, residents express fears of being targeted because of their origins following this tragic event. Politically, the National Rally indicated its intention to file a defamation suit against environmental leaders who blamed the party. Meanwhile, former representatives of attack victims are calling for a national civic tribute bringing together all victims of terrorism. This proposal aims to restore a national unity deemed deficient in the face of recent attacks.",
+            "stakes": [
+              "How can the sense of insecurity among targeted populations be eased?",
+              "What will be the legal follow-ups to the controversies between political leaders?",
+              "What form should the duty of remembrance take in the face of ideological violence?"
+            ]
+          },
+          "es": {
+            "title": "Las repercusiones sociales y políticas del atentado racista en los Yvelines",
+            "context": "Un atentado de carácter racista ocurrió el pasado 23 de octubre en el sector de Trappes y La Verrière. El autor presunto poseía elementos materiales que hacían referencia a compromisos políticos.",
+            "summary": "En Mantes-la-Jolie, los residentes expresan su temor a ser tomados como blanco debido a sus orígenes tras este trágico acontecimiento. En el plano político, Agrupación Nacional indicó su intención de presentar una denuncia por difamación contra los dirigentes ecologistas que señalaron al partido. Paralelamente, antiguos representantes de víctimas de atentados reclaman un homenaje nacional ciudadano que reúna al conjunto de las víctimas del terrorismo. Esta propuesta pretende restaurar una unidad nacional considerada deficiente ante los recientes ataques.",
+            "stakes": [
+              "¿Cómo calmar el sentimiento de inseguridad de las poblaciones señaladas?",
+              "¿Cuáles serán las consecuencias judiciales de las polémicas entre responsables políticos?",
+              "¿Qué forma debe adoptar el deber de memoria frente a las violencias ideológicas?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s20ef1cbefb",
+        "topic": "environnement",
+        "title": "Pluies torrentielles et inondations majeures dans le Sud-Est et en Corse",
+        "context": "Le sud-est de la France et la Corse subissent fréquemment des événements météorologiques violents pendant la période automnale. Les sols et les cours d'eau réagissent très rapidement aux précipitations massives.",
+        "summary": "De fortes pluies diluviennes ont provoqué des crues soudaines et des dégâts significatifs dans les Alpes-Maritimes ainsi qu'en Corse. Des opérations de secours in extremis ont été menées à Nice et des évacuations scolaires ont eu lieu à Mandelieu-la-Napoule. En Corse, bien que la vigilance orange ait été levée après des hausses spectaculaires des cours d'eau, le secteur agricole est gravement atteint. En raison de ces pertes économiques accumulées après la sécheresse, l'île a renoncé à participer au prochain Salon de l'agriculture pour soutenir ses exploitants.",
+        "stakes": [
+          "Comment adapter les infrastructures locales face à la multiplication des épisodes extrêmes ?",
+          "Quelles aides financières urgentes seront allouées aux agriculteurs sinistrés ?",
+          "Comment prévenir les risques pour la sécurité des habitants lors des crues rapides ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "La Corse absente du prochain Salon de l'agriculture à Paris en raison des aléas climatiques",
+            "link": "https://www.franceinfo.fr/societe/salon-de-l-agriculture/la-corse-absente-du-prochain-salon-de-l-agriculture-a-paris-en-raison-des-aleas-climatiques_8280743.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-13T09:20:52.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "franceinfo",
+            "title": "La Haute-Corse n'est plus concernée par une vigilance orange aux crues depuis jeudi soir",
+            "link": "https://www.franceinfo.fr/environnement/meteo/le-departement-de-la-haute-corse-place-en-vigilance-orange-aux-crues_8279591.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-12T22:26:59.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "franceinfo",
+            "title": "Des pluies torrentielles frappent la Corse et le sud-est de la France",
+            "link": "https://www.franceinfo.fr/environnement/meteo/des-pluies-torrentielles-frappent-la-corse-et-le-sud-est-de-la-france_8279972.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-12T19:42:05.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/0Uiuo4iqxUs5aE2YIGE6i1248Os/0x0:5337x3002/432x243/filters:format(jpg)/2026/03/06/maxnewsspecialtwo511898-69aacfd16ad91005772950.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/societe/salon-de-l-agriculture/la-corse-absente-du-prochain-salon-de-l-agriculture-a-paris-en-raison-des-aleas-climatiques_8280743.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Torrential rains and major floods in the South-East and Corsica",
+            "context": "Southeastern France and Corsica frequently experience violent weather events during the autumn period. Soils and watercourses react very rapidly to massive precipitation.",
+            "summary": "Heavy torrential rains caused flash floods and significant damage in the Alpes-Maritimes and Corsica. In extremis rescue operations were carried out in Nice and school evacuations took place in Mandelieu-la-Napoule. In Corsica, although the orange alert was lifted after dramatic rises in watercourses, the agricultural sector has been severely hit. Due to accumulated economic losses following the drought, the island has opted out of the upcoming Agricultural Show to support its farmers.",
+            "stakes": [
+              "How to adapt local infrastructures in the face of multiplying extreme events?",
+              "What urgent financial aid will be allocated to disaster-stricken farmers?",
+              "How to prevent risks to residents' safety during flash floods?"
+            ]
+          },
+          "es": {
+            "title": "Lluvias torrenciales e inundaciones importantes en el sureste y en Córcega",
+            "context": "El sureste de Francia y Córcega sufren frecuentemente fenómenos meteorológicos violentos durante el periodo otoñal. Los suelos y los cursos de agua reaccionan muy rápidamente a las precipitaciones masivas.",
+            "summary": "Fuertes lluvias diluvianas provocaron crecidas repentinas y daños significativos en los Alpes Marítimos así como en Córcega. Se llevaron a cabo operaciones de rescate in extremis en Niza y se produjeron evacuaciones escolares en Mandelieu-la-Napoule. En Córcega, aunque se levantó la alerta naranja tras subidas espectaculares de los cursos de agua, el sector agrícola está gravemente afectado. Debido a estas pérdidas económicas acumuladas tras la sequía, la isla ha renunciado a participar en el próximo Salón de la Agricultura para apoyar a sus explotadores.",
+            "stakes": [
+              "¿Cómo adaptar las infraestructuras locales ante la multiplicación de los episodios extremos?",
+              "¿Qué ayudas financieras urgentes se asignarán a los agricultores damnificados?",
+              "¿Cómo prevenir los riesgos para la seguridad de los habitantes durante las crecidas rápidas?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sf67892e254",
+        "topic": "international",
+        "title": "L'Union européenne réclame son intégration dans les futures négociations sur l'Ukraine",
+        "context": "La guerre opposant la Russie à l'Ukraine se poursuit avec de fréquents échanges de frappes d'artillerie et de drones. En parallèle, les démarches diplomatiques s'intensifient autour de l'hypothèse d'un cessez-le-feu.",
+        "summary": "La responsable de la diplomatie européenne, Kaja Kallas, a mis en garde contre les exigences de Moscou concernant l'architecture de sécurité en Europe. Elle estime que céder aux demandes russes constituerait un piège destiné à détourner l'attention des priorités diplomatiques. Le président ukrainien Volodymyr Zelensky et l'émissaire américain Jared Kushner ont affirmé que les Européens devront impérativement siéger à la table des négociations. Sur le terrain militaire, la Russie fait état d'une neutralisation massive de drones sur son sol.",
+        "stakes": [
+          "Quelle sera la place réelle des États européens dans le règlement du conflit ?",
+          "Un accord de cessez-le-feu durable est-il envisageable à court terme ?",
+          "Comment l'architecture de sécurité européenne sera-t-elle redéfinie ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "EN DIRECT, guerre en Ukraine : Kaja Kallas met en garde contre les « pièges » tendus par Moscou",
+            "link": "https://www.lemonde.fr/international/live/2026/11/13/en-direct-guerre-en-ukraine-kaja-kallas-met-en-garde-contre-les-pieges-tendus-par-moscou_6808609_3210.html",
+            "publishedAt": "2026-11-13T10:44:39.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Guerre en Ukraine : l’Europe dans les négociations ; plus de 1000 drones abattus en Russie",
+            "link": "https://www.la-croix.com/international/ukraine-russie-jour-1724-point-conflit-ukrainien-poutine-aujourdhui-20261113",
+            "publishedAt": "2026-11-13T11:22:45.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/13/432/0/4869/2434/644/322/60/0/4d21197_ftp-1-h9bwnim764db-2026-11-13t115051z-673067808-rc2ymoaz5d9v-rtrmadp-3-eu-summit.JPG",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/international/live/2026/11/13/en-direct-guerre-en-ukraine-kaja-kallas-met-en-garde-contre-les-pieges-tendus-par-moscou_6808609_3210.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "The European Union demands its integration into future negotiations on Ukraine",
+            "context": "The war between Russia and Ukraine continues with frequent exchanges of artillery strikes and drones. Meanwhile, diplomatic efforts are intensifying around the prospect of a ceasefire.",
+            "summary": "The head of European diplomacy, Kaja Kallas, warned against Moscow's demands regarding the security architecture in Europe. She believes that giving in to Russian demands would be a trap designed to divert attention from diplomatic priorities. Ukrainian President Volodymyr Zelensky and American envoy Jared Kushner stated that Europeans must imperatively sit at the negotiating table. On the military front, Russia reports a massive neutralization of drones on its soil.",
+            "stakes": [
+              "What will be the actual place of European States in resolving the conflict?",
+              "Is a lasting ceasefire agreement foreseeable in the short term?",
+              "How will the European security architecture be redefined?"
+            ]
+          },
+          "es": {
+            "title": "La Unión Europea reclama su integración en las futuras negociaciones sobre Ucrania",
+            "context": "La guerra que enfrenta a Rusia con Ucrania continúa con frecuentes intercambios de ataques de artillería y drones. En paralelo, las gestiones diplomáticas se intensifican en torno a la hipótesis de un alto el fuego.",
+            "summary": "La jefa de la diplomacia europea, Kaja Kallas, advirtió contra las exigencias de Moscú en cuanto a la arquitectura de seguridad en Europa. Considera que ceder a las demandas rusas constituiría una trampa destinada a desviar la atención de las prioridades diplomáticas. El presidente ucraniano, Volodímir Zelenski, y el emisario estadounidense, Jared Kushner, afirmaron que los europeos deberán sentarse imperativamente en la mesa de negociaciones. En el terreno militar, Rusia informa de una neutralización masiva de drones en su suelo.",
+            "stakes": [
+              "¿Cuál será el lugar real de los Estados europeos en la resolución del conflicto?",
+              "¿Es admisible un acuerdo de alto el fuego duradero a corto plazo?",
+              "¿Cómo se redefinirá la arquitectura de seguridad europea?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "saa293e1e59",
+        "topic": "justice",
+        "title": "Braquage armé d'une bijouterie de luxe dans le centre de Paris",
+        "context": "La rue de la Paix, située au cœur de la capitale française, abrite de nombreuses enseignes de joaillerie de très grand luxe régulièrement soumises à de strictes mesures de sécurité.",
+        "summary": "Une bijouterie spécialisée dans le commerce de diamants a été attaquée en plein jour par un commando armé. Les braqueurs, au nombre de quatre et munis notamment d'une arme automatique de type kalachnikov, ont opéré en seulement quelques minutes. Ils sont parvenus à dérober un butin estimé à près d'un million d'euros avant d'abandonner les lieux. Une vaste enquête policière a été immédiatement ouverte pour tenter de retrouver les fuyards.",
+        "stakes": [
+          "Comment renforcer la sécurité des commerces de luxe face au grand banditisme ?",
+          "Les braqueurs seront-ils identifiés par les forces de l'ordre ?",
+          "Quel est l'impact de telles attaques sur la sécurité perçue dans les centres-villes ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Une bijouterie braquée à l'arme de guerre en plein centre de Paris",
+            "link": "https://www.franceinfo.fr/faits-divers/une-bijouterie-braquee-a-l-arme-de-guerre-en-plein-centre-de-paris_8279963.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-12T19:39:22.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/aleUmRTJAtwuyLSvMAVZLNBoKlo/0x11:1066x611/432x243/filters:format(jpg)/2026/11/12/6af610cc7be28682690449.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/faits-divers/une-bijouterie-braquee-a-l-arme-de-guerre-en-plein-centre-de-paris_8279963.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Armed robbery of a luxury jewelry store in central Paris",
+            "context": "Rue de la Paix, located in the heart of the French capital, is home to numerous ultra-luxury jewelry stores regularly subject to strict security measures.",
+            "summary": "A jewelry store specializing in diamond trading was attacked in broad daylight by an armed commando. The four robbers, equipped notably with an automatic Kalashnikov-type weapon, operated in just a few minutes. They managed to steal loot estimated at nearly one million euros before fleeing the scene. A vast police investigation was immediately opened to try to track down the fleeing suspects.",
+            "stakes": [
+              "How to strengthen the security of luxury businesses against organized crime?",
+              "Will the robbers be identified by law enforcement?",
+              "What is the impact of such attacks on perceived security in city centers?"
+            ]
+          },
+          "es": {
+            "title": "Robo a mano armada de una joyería de lujo en el centro de París",
+            "context": "La Rue de la Paix, situada en el corazón de la capital francesa, alberga numerosas marcas de joyería de gran lujo sometidas regularmente a estrictas medidas de seguridad.",
+            "summary": "Una joyería especializada en el comercio de diamantes fue asaltada a plena luz del día por un comando armado. Los atracadores, en número de cuatro y provistos en particular de un arma automática de tipo kalashnikov, operaron en tan solo unos minutos. Lograron robar un botín estimado en cerca de un millón de euros antes de abandonar el lugar. Se abrió inmediatamente una amplia investigación policial para intentar encontrar a los huidos.",
+            "stakes": [
+              "¿Cómo reforzar la seguridad de los comercios de lujo frente a la delincuencia organizada?",
+              "¿Serán identificados los atracadores por las fuerzas del orden?",
+              "¿Cuál es el impacto de tales ataques en la seguridad percibida en los centros urbanos?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s64c7a62d3f",
+        "topic": "politique",
+        "title": "Positionnements et débats des personnalités politiques dans la perspective de 2027",
+        "context": "Bien que l'échéance présidentielle de 2027 soit éloignée, les différentes formations politiques préparent leurs orientations et observent l'évolution des mouvements d'opinion.",
+        "summary": "Les représentants des différentes forces politiques ont exposé leurs propositions respectives concernant le fonctionnement des services publics lors d'une émission consacrée aux programmes. Ces échanges ont mis en évidence des divergences fondamentales sur le rôle et le financement des structures de l'État. Au sein de la droite traditionnelle, les enquêtes d'opinion révèlent une compétition serrée entre Bruno Retailleau et David Lisnard. Les études suggèrent que les deux hommes mobilisent des électorats aux profils voisins tout en présentant des dynamiques différentes.",
+        "stakes": [
+          "Quelles propositions sur les services publics emporteront l'adhésion des électeurs ?",
+          "Qui s'imposera comme le chef de file de la droite pour l'échéance présidentielle ?",
+          "Comment évolueront les équilibres politiques d'ici les prochaines élections ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Figaro",
+            "title": "Présidentielle 2027 : seniors, sympathisants LR, chefs d’entreprise… Entre Bruno Retailleau et David Lisnard, des électorats proches mais pas identiques",
+            "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-seniors-sympathisants-lr-chefs-d-entreprise-entre-bruno-retailleau-et-david-lisnard-des-electorats-proches-mais-pas-identiques-20261113",
+            "publishedAt": "2026-11-13T11:39:06.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Présidentielle 2027 : les candidats défendent leur vision des services publics",
+            "link": "https://www.la-croix.com/politique/presidentielle-2027-les-candidats-defendent-leur-vision-des-services-publics-20261113",
+            "publishedAt": "2026-11-13T10:45:48.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/11/13/8326e3bf418139b810ac79dc553684b2569bd7cec5919cb7ffc79c930986cc5c.jpg",
+          "credit": "Le Figaro",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-seniors-sympathisants-lr-chefs-d-entreprise-entre-bruno-retailleau-et-david-lisnard-des-electorats-proches-mais-pas-identiques-20261113"
+        },
+        "i18n": {
+          "en": {
+            "title": "Positions and debates of political figures with an eye toward 2027",
+            "context": "Although the 2027 presidential election is distant, various political formations are preparing their orientations and observing the evolution of public opinion movements.",
+            "summary": "Representatives of various political forces presented their respective proposals concerning the functioning of public services during a broadcast dedicated to programs. These exchanges highlighted fundamental divergences on the role and financing of state structures. Within the traditional right, opinion polls reveal a tight race between Bruno Retailleau and David Lisnard. Studies suggest that both men mobilize electorates with similar profiles while presenting different dynamics.",
+            "stakes": [
+              "Which proposals on public services will win over voters?",
+              "Who will emerge as the leader of the right for the presidential election?",
+              "How will political balances evolve between now and the next elections?"
+            ]
+          },
+          "es": {
+            "title": "Posicionamientos y debates de personalidades políticas de cara a 2027",
+            "context": "Aunque la cita presidencial de 2027 queda lejana, las diferentes formaciones políticas preparan sus orientaciones y observan la evolución de los movimientos de opinión.",
+            "summary": "Los representantes de las distintas fuerzas políticas expusieron sus respectivas propuestas relativas al funcionamiento de los servicios públicos durante un programa dedicado a los programas electorales. Estos intercambios pusieron en evidencia divergencias fundamentales sobre el papel y la financiación de las estructuras del Estado. En el seno de la derecha tradicional, las encuestas de opinión revelan una competición ajustada entre Bruno Retailleau y David Lisnard. Los estudios sugieren que ambos hombres movilizan a electorados con perfiles cercanos aunque presentan dinámicas diferentes.",
+            "stakes": [
+              "¿Qué propuestas sobre los servicios públicos se ganarán la adhesión de los electores?",
+              "¿Quién se impondrá como el líder de la derecha para la cita presidencial?",
+              "¿Cómo evolucionarán los equilibrios políticos de aquí a las próximas elecciones?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s8ce0d3ca1e",
+        "topic": "economie",
+        "title": "Airbus annonce la création d'une usine et de 700 emplois près de Toulouse",
+        "context": "L'industrie aéronautique européenne connaît une forte reprise d'activité marquée par une hausse continue des commandes d'appareils auprès des constructeurs.",
+        "summary": "Le groupe aéronautique Airbus a officialisé le projet d'implantation d'une nouvelle unité de production en Haute-Garonne. Cette future usine permettra de répondre au niveau élevé des carnets de commandes qui comptent plus de 9 000 avions à livrer. Le site historique de Saint-Éloi arrivant à saturation, ce nouvel équipement accompagnera l'augmentation des cadences d'assemblage. Le projet prévoit le recrutement de 700 salariés d'ici l'année 2031.",
+        "stakes": [
+          "Comment l'entreprise gérera-t-elle les défis de recrutement et de formation ?",
+          "Quel sera l'impact économique pour le bassin d'emploi toulousain ?",
+          "Airbus parviendra-t-il à tenir ses délais de livraison face à la saturation de ses usines ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Airbus promet de créer 700 postes d'ici 2031, avec l'ouverture d'une nouvelle usine près de Toulouse",
+            "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/airbus-promet-de-creer-700-postes-d-ici-2031-avec-l-ouverture-d-une-nouvelle-usine-pres-de-toulouse_8278751.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-12T13:12:40.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/F30JLtb7G61dIk7W_P69Fzyh7QI/0x0:4974x2797/432x243/filters:format(jpg)/2026/11/12/6af5b07557983597470186.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/airbus-promet-de-creer-700-postes-d-ici-2031-avec-l-ouverture-d-une-nouvelle-usine-pres-de-toulouse_8278751.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Airbus announces the creation of a factory and 700 jobs near Toulouse",
+            "context": "The European aeronautical industry is experiencing a strong recovery marked by a continuous rise in aircraft orders from manufacturers.",
+            "summary": "The aeronautical group Airbus made official the project to establish a new production unit in Haute-Garonne. This future factory will help meet the high level of order books, which count more than 9,000 planes to be delivered. As the historic Saint-Éloi site is reaching saturation, this new facility will support the increase in assembly rates. The project plans for the recruitment of 700 employees by 2031.",
+            "stakes": [
+              "How will the company manage recruitment and training challenges?",
+              "What will be the economic impact for the Toulouse employment basin?",
+              "Will Airbus manage to meet its delivery deadlines in the face of factory saturation?"
+            ]
+          },
+          "es": {
+            "title": "Airbus anuncia la creación de una fábrica y 700 empleos cerca de Toulouse",
+            "context": "La industria aeronáutica europea experimenta una fuerte recuperación marcada por un aumento continuo de los pedidos de aparatos a los fabricantes.",
+            "summary": "El grupo aeronáutico Airbus oficializó el proyecto de implantación de una nueva unidad de producción en el Alto Garona. Esta futura fábrica permitirá responder al elevado nivel de las carteras de pedidos, que cuentan con más de 9.000 aviones por entregar. Como el emplazamiento histórico de Saint-Éloi llega a la saturación, este nuevo equipamiento acompañará el aumento de los ritmos de montaje. El proyecto prevé la contratación de 700 empleados de aquí al año 2031.",
+            "stakes": [
+              "¿Cómo gestionará la empresa los retos de contratación y formación?",
+              "¿Cuál será el impacto económico para la cuenca de empleo de Toulouse?",
+              "¿Conseguirá Airbus cumplir sus plazos de entrega frente a la saturación de sus fábricas?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sf9b11d0998",
+        "topic": "justice",
+        "title": "Enquête ouverte après l'agression d'une élue locale en Seine-et-Marne",
+        "context": "Les agressions et tentatives d'intimidation visant les représentants politiques locaux font l'objet d'une attention accrue des autorités administratives et judiciaires.",
+        "summary": "Une élue de la commune de Chelles a été ciblée devant un établissement scolaire et aspergée de carburant par des individus non identifiés. Les déclarations du parquet indiquent que l'agression est directement liée à l'exercice de son mandat public. L'acte suscite une vive émotion alors que les auteurs du geste sont activement recherchés par les services de police. Les investigations se poursuivent pour faire toute la lumière sur le déroulement des faits.",
+        "stakes": [
+          "Comment mieux protéger les élus locaux face aux violences physiques ?",
+          "Les suspects seront-ils rapidement interpellés par les enquêteurs ?",
+          "Quelles réponses pénales seront apportées pour sanctionner ces attaques ?"
+        ],
+        "sources": [
+          {
+            "name": "Ouest-France",
+            "title": "Élue aspergée d’essence à Chelles : elle a été visée pour « la fonction qui est la sienne », estime le procureur",
+            "link": "https://www.ouest-france.fr/societe/faits-divers/elue-aspergee-dessence-a-chelles-elle-a-ete-visee-pour-la-fonction-qui-est-la-sienne-estime-le-procureur-5c87dd16-df50-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-13T11:53:56.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExNGY5MzRkMDk3NTVhNzFkODIyYTI0ZWI4NzczN2MxMGY?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=d4597c4191846455fa3abebbf6877d0119fd79ed384548afcb8083f1f7add3dc",
+          "credit": "Ouest-France",
+          "link": "https://www.ouest-france.fr/societe/faits-divers/elue-aspergee-dessence-a-chelles-elle-a-ete-visee-pour-la-fonction-qui-est-la-sienne-estime-le-procureur-5c87dd16-df50-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+        },
+        "i18n": {
+          "en": {
+            "title": "Investigation opened after the assault on a local female elected official in Seine-et-Marne",
+            "context": "Assaults and intimidation attempts targeting local political representatives are receiving increased attention from administrative and judicial authorities.",
+            "summary": "An elected official from the commune of Chelles was targeted in front of a school and doused with fuel by unidentified individuals. Prosecutor's office statements indicate that the attack is directly linked to the exercise of her public mandate. The act has sparked strong emotions while the perpetrators are actively sought by police services. Investigations are continuing to shed full light on the sequence of events.",
+            "stakes": [
+              "How to better protect local elected officials against physical violence?",
+              "Will the suspects be quickly apprehended by investigators?",
+              "What criminal responses will be provided to punish these attacks?"
+            ]
+          },
+          "es": {
+            "title": "Abren investigación tras la agresión a una política local en Sena y Marne",
+            "context": "Las agresiones y los intentos de intimidación contra los representantes políticos locales reciben una mayor atención por parte de las autoridades administrativas y judiciales.",
+            "summary": "Una electa del municipio de Chelles fue agredida frente a un centro escolar y rociada con carburante por individuos no identificados. Las declaraciones de la fiscalía indican que el ataque está directamente relacionado con el ejercicio de su mandato público. El acto suscita una gran emoción mientras los autores del hecho son buscados activamente por los servicios policiales. Las investigaciones continúan para esclarecer completamente el desarrollo de los hechos.",
+            "stakes": [
+              "¿Cómo proteger mejor a los funcionarios locales frente a la violencia física?",
+              "¿Serán detenidos rápidamente los sospechosos por los investigadores?",
+              "¿Qué respuestas penales se darán para sancionar estos ataques?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s9a9cdbac8a",
+        "topic": "international",
+        "title": "Multiplication des incidents maritimes et pressions diplomatiques dans le détroit d'Ormuz",
+        "context": "Le détroit d'Ormuz constitue un point de passage névralgique pour le commerce mondial d'hydrocarbures, fréquemment déstabilisé par les tensions géopolitiques au Moyen-Orient.",
+        "summary": "La navigation dans le détroit d'Ormuz est compromise par plusieurs attaques et explosions de mines ayant touché des navires marchands. Cette insécurité maritime génère des déversements polluants majeurs qui menacent la faune et les écosystèmes marins déjà fragilisés. Sur le plan diplomatique, l'Agence internationale de l'énergie atomique exige de l'Iran qu'il autorise l'accès à ses installations nucléaires. La combinaison des incidents militaires et des menaces écologiques accroît les inquiétudes internationales.",
+        "stakes": [
+          "Comment garantir la sécurité du trafic maritime commercial dans la zone ?",
+          "Quelles seront les retombées environnementales des naufrages de pétroliers ?",
+          "L'Iran coopérera-t-il avec les instances internationales de régulation nucléaire ?"
+        ],
+        "sources": [
+          {
+            "name": "Ouest-France",
+            "title": "Détroit d’Ormuz : la guerre des hommes pour le pétrole pollue la nature sauvage",
+            "link": "https://www.ouest-france.fr/environnement/pollution/detroit-dormuz-la-guerre-des-hommes-pour-le-petrole-pollue-la-nature-sauvage-26886fba-dea5-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-13T11:43:48.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Guerre au Moyen-Orient : l’AIEA presse l’Iran d’ouvrir ses installations ; un navire touché à Ormuz",
+            "link": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-259-moyen-orient-bilan-resume-aujourdhui-20261113",
+            "publishedAt": "2026-11-13T09:58:20.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExYjMyOGY1NTcyMDhkNTdlZmYyMjkzZWQwZWRiNzgwNjk?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=0a1f3bd107ff3e92e28cfbc6f0cc757127cc8c0fbfb8b939944cc61d1f9ff9f4",
+          "credit": "Ouest-France",
+          "link": "https://www.ouest-france.fr/environnement/pollution/detroit-dormuz-la-guerre-des-hommes-pour-le-petrole-pollue-la-nature-sauvage-26886fba-dea5-11f1-a62b-776e3051b0df?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+        },
+        "i18n": {
+          "en": {
+            "title": "Increase in maritime incidents and diplomatic pressures in the Strait of Hormuz",
+            "context": "The Strait of Hormuz constitutes a strategic bottleneck for global hydrocarbon trade, frequently destabilized by geopolitical tensions in the Middle East.",
+            "summary": "Navigation in the Strait of Hormuz is compromised by several attacks and mine explosions that have hit merchant ships. This maritime insecurity generates major polluting spills that threaten already fragile marine fauna and ecosystems. Diplomatically, the International Atomic Energy Agency is demanding that Iran allow access to its nuclear facilities. The combination of military incidents and ecological threats increases international concerns.",
+            "stakes": [
+              "How to guarantee the security of commercial maritime traffic in the area?",
+              "What will be the environmental fallout from the tanker sinkings?",
+              "Will Iran cooperate with international nuclear regulatory bodies?"
+            ]
+          },
+          "es": {
+            "title": "Multiplicación de incidentes marítimos y presiones diplomáticas en el estrecho de Ormuz",
+            "context": "El estrecho de Ormuz constituye un punto de paso neurálgico para el comercio mundial de hidrocarburos, frecuentemente desestabilizado por las tensiones geopolíticas en Oriente Medio.",
+            "summary": "La navegación en el estrecho de Ormuz se ve comprometida por varios ataques y explosiones de minas que han afectado a buques mercantes. Esta inseguridad marítima genera vertidos contaminantes importantes que amenazan la fauna y los ecosistemas marinos, ya de por sí debilitados. En el plano diplomático, el Organismo Internacional de Energía Atómica exige a Irán que autorice el acceso a sus instalaciones nucleares. La combinación de incidentes militares y amenazas ecológicas aumenta la preocupación internacional.",
+            "stakes": [
+              "¿Cómo garantizar la seguridad del tráfico marítimo comercial en la zona?",
+              "¿Cuáles serán las consecuencias medioambientales de los naufragios de petroleros?",
+              "¿Cooperará Irán con los organismos internacionales de regulación nuclear?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "saa99c84716",
+        "topic": "culture",
+        "title": "Mobilisation de la culture et de la presse face à l'intelligence artificielle",
+        "context": "L'émergence des technologies d'intelligence artificielle générative pose des questions cruciales concernant l'utilisation des contenus artistiques et journalistiques.",
+        "summary": "Vingt-six organisations professionnelles représentant les domaines de la création culturelle et des médias ont pris la parole publiquement. Elles demandent la stricte préservation des droits des auteurs et des éditeurs face aux entreprises développant des outils d'intelligence artificielle. Les signataires estiment que le pays doit concilier les avancées technologiques et la défense du patrimoine culturel. Cette prise de position intervient peu avant l'examen parlementaire d'un projet de loi encadrant ces pratiques.",
+        "stakes": [
+          "Comment le législateur équilibrera-t-il l'innovation technologique et le droit d'auteur ?",
+          "Quelles rémunérations seront imposées aux géants de la tech pour l'usage des œuvres ?",
+          "Quel sera l'avenir économique des créateurs face au développement de l'IA ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "IA : « La France n’a pas à arbitrer entre puissance technologique et puissance culturelle »",
+            "link": "https://www.la-croix.com/a-vif/ia-la-france-n-a-pas-a-arbitrer-entre-puissance-technologique-et-puissance-culturelle-20261113",
+            "publishedAt": "2026-11-13T09:01:15.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/13/2587787-26-organisations-de-la-culture-et-de-la-presse-ale.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/a-vif/ia-la-france-n-a-pas-a-arbitrer-entre-puissance-technologique-et-puissance-culturelle-20261113"
+        },
+        "i18n": {
+          "en": {
+            "title": "Mobilization of culture and the press against artificial intelligence",
+            "context": "The emergence of generative artificial intelligence technologies raises crucial questions regarding the use of artistic and journalistic content.",
+            "summary": "Twenty-six professional organizations representing the fields of cultural creation and the media have spoken out publicly. They are demanding the strict preservation of authors' and publishers' rights in the face of companies developing artificial intelligence tools. The signatories believe that the country must balance technological advancements with the defense of cultural heritage. This stance comes shortly before the parliamentary review of a bill regulating these practices.",
+            "stakes": [
+              "How will the legislature balance technological innovation and copyright?",
+              "What compensation will be imposed on tech giants for the use of works?",
+              "What will be the economic future of creators in the face of AI development?"
+            ]
+          },
+          "es": {
+            "title": "Movilización de la cultura y la prensa frente a la inteligencia artificial",
+            "context": "La aparición de tecnologías de inteligencia artificial generativa plantea cuestiones cruciales sobre el uso de contenidos artísticos y periodísticos.",
+            "summary": "Veintiséis organizaciones profesionales que representan los ámbitos de la creación cultural y los medios de comunicación se han pronunciado públicamente. Exigen la estricta preservación de los derechos de autores y editores frente a las empresas que desarrollan herramientas de inteligencia artificial. Los firmantes consideran que el país debe conciliar los avances tecnológicos con la defensa del patrimonio cultural. Esta toma de postura se produce poco antes del examen parlamentario de un proyecto de ley que regula estas prácticas.",
+            "stakes": [
+              "¿Cómo equilibrará el legislador la innovación tecnológica y los derechos de autor?",
+              "¿Qué remuneraciones se impondrán a los gigantes tecnológicos por el uso de las obras?",
+              "¿Cuál será el futuro económico de los creadores ante el desarrollo de la IA?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s24cd5904e2",
+        "topic": "economie",
+        "title": "Bilan de la répression des fraudes sur les étiquetages d'origine française",
+        "context": "L'utilisation de mentions valorisant la fabrication française constitue un argument commercial recherché par les entreprises pour séduire les consommateurs.",
+        "summary": "La Direction générale de la concurrence, de la consommation et de la répression des fraudes a rendu publics ses travaux de vérification menés dans les commerces non alimentaires. Sur plus d'un millier d'établissements inspectés, près de 9 % des contrôles ont donné lieu à des procédures d'infraction ou de sanction. Les autorités dénoncent des allégations d'origine trompeuses visant à induire en erreur les acheteurs. Ce bilan intervient dans un contexte de promotion des labels industriels nationaux.",
+        "stakes": [
+          "Comment renforcer les contrôles pour éradiquer les fraudes à l'étiquetage ?",
+          "Quelles sanctions dissuasives doivent être appliquées aux entreprises contrevenantes ?",
+          "Comment garantir une information fiable aux consommateurs soucieux de l'origine des produits ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Arnaque au «Made in France» : 9 % des contrôles de la Répression des fraudes ont donné lieu à une sanction",
+            "link": "https://www.liberation.fr/economie/conso/arnaque-au-made-in-france-9-des-controles-de-la-repression-des-fraudes-ont-donne-lieu-a-une-sanction-20261113_O6ZHRJORYNGPPEEOFWVID5J5PI/",
+            "publishedAt": "2026-11-13T11:44:28.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": null,
+        "i18n": {
+          "en": {
+            "title": "Assessment of fraud enforcement on French-origin labeling",
+            "context": "The use of claims promoting French manufacturing constitutes a commercial argument sought by companies to seduce consumers.",
+            "summary": "The Directorate-General for Competition, Consumer Affairs and Fraud Control made public its verification work carried out in non-food businesses. Out of over a thousand establishments inspected, nearly 9% of checks resulted in infraction or sanction procedures. The authorities denounce misleading origin claims aimed at misleading buyers. This assessment comes in a context of promoting national industrial labels.",
+            "stakes": [
+              "How to strengthen controls to eradicate labeling fraud?",
+              "What dissuasive sanctions must be applied to offending companies?",
+              "How to guarantee reliable information to consumers concerned about product origin?"
+            ]
+          },
+          "es": {
+            "title": "Balance de la represión del fraude en el etiquetado de origen francés",
+            "context": "El uso de menciones que valoran la fabricación francesa constituye un argumento comercial buscado por las empresas para seducir a los consumidores.",
+            "summary": "La Dirección General de la Competencia, del Consumo y de la Represión del Fraude hizo públicos sus trabajos de verificación realizados en comercios no alimentarios. De más de un millar de establecimientos inspeccionados, cerca del 9 % de los controles dieron lugar a procedimientos por infracción o sanción. Las autoridades denuncian alegaciones de origen engañosas destinadas a inducir a error a los compradores. Este balance se produce en un contexto de promoción de las marcas industriales nacionales.",
+            "stakes": [
+              "¿Cómo reforzar los controles para erradicar el fraude en el etiquetado?",
+              "¿Qué sanciones disuasorias deben aplicarse a las empresas infractoras?",
+              "¿Cómo garantizar una información fiable a los consumidores preocupados por el origen de los productos?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s5990c92bb5",
+        "topic": "sport",
+        "title": "Suspension de près de deux ans pour l'athlète française Auriana Lazraq-Khlass",
+        "context": "Les réglementations de la lutte contre le dopage imposent aux sportifs de haut niveau d'indiquer précisément leur géolocalisation quotidienne pour se soumettre aux contrôles inopinés.",
+        "summary": "La spécialiste de l'heptathlon Auriana Lazraq-Khlass a été frappée d'une interdiction de compétition d'une durée de vingt-deux mois. La sanction découle de multiples manquements constatés quant à la mise à jour de ses données de localisation. L'athlète tricolore se trouvait déjà sous le coup d'une mesure conservatoire d'éloignement décidée au printemps. Cette décision interrompt sa carrière sportive internationale après ses performances récentes.",
+        "stakes": [
+          "Quelles seront les conséquences de cette absence prolongée sur la carrière de l'athlète ?",
+          "Comment améliorer le respect des démarches de localisation par les sportifs ?",
+          "Quelles sont les procédures de recours accessibles face aux sanctions antidopage ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "L’athlète Auriana Lazraq-Khlass suspendue pour vingt-deux mois en raison de manquements à ses obligations de localisation antidopage",
+            "link": "https://www.lemonde.fr/sport/article/2026/11/13/l-athlete-auriana-lazraq-khlass-suspendue-pour-vingt-deux-mois-en-raison-de-manquements-a-ses-obligations-de-localisation-antidopage_6809317_3242.html",
+            "publishedAt": "2026-11-13T11:02:08.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2024/08/09/119/0/5302/2651/644/322/60/0/ce55e7a_2024-08-09t082742z-1377573070-up1ek890ni45j-rtrmadp-3-olympics-2024-athletics.JPG",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/sport/article/2026/11/13/l-athlete-auriana-lazraq-khlass-suspendue-pour-vingt-deux-mois-en-raison-de-manquements-a-ses-obligations-de-localisation-antidopage_6809317_3242.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Nearly two-year suspension for French athlete Auriana Lazraq-Khlass",
+            "context": "Anti-doping regulations require high-level athletes to precisely indicate their daily geolocation to submit to unannounced checks.",
+            "summary": "Heptathlon specialist Auriana Lazraq-Khlass has been handed a twenty-two-month competition ban. The sanction stems from multiple failures noted regarding the updating of her location data. The French athlete was already under a conservatory removal measure decided in the spring. This decision interrupts her international sports career following her recent performances.",
+            "stakes": [
+              "What will be the consequences of this prolonged absence on the athlete's career?",
+              "How to improve compliance with localization procedures by athletes?",
+              "What appeal procedures are accessible in the face of anti-doping sanctions?"
+            ]
+          },
+          "es": {
+            "title": "Suspensión de casi dos años para la atleta francesa Auriana Lazraq-Khlass",
+            "context": "Las normativas de la lucha antidopaje imponen a los deportistas de alto nivel indicar con precisión su geolocalización diaria para someterse a controles sorpresa.",
+            "summary": "La especialista en heptatlón Auriana Lazraq-Khlass ha sido castigada con una prohibición de competir de veintidós meses. La sanción se deriva de múltiples fallos constatados en la actualización de sus datos de localización. La atleta gala ya se encontraba bajo una medida cautelar de alejamiento dictada en primavera. Esta decisión interrumpe su carrera deportiva internacional tras sus recientes actuaciones.",
+            "stakes": [
+              "¿Cuáles serán las consecuencias de esta ausencia prolongada en la carrera de la atleta?",
+              "¿Cómo mejorar el respeto de los trámites de localización por parte de los deportistas?",
+              "¿Qué procedimientos de recurso están disponibles frente a las sanciones antidopaje?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s5a2a6512e6",
+        "topic": "international",
+        "title": "Succès d'un mouvement étudiant lors des élections législatives en Serbie",
+        "context": "La vie politique serbe était dominée depuis plus d'une décennie par le parti au pouvoir du président Aleksandar Vucic et son exécutif.",
+        "summary": "Une organisation politique portée par la jeunesse universitaire a réalisé une percée notable aux élections législatives serbes. Cette performance électorale inédite bouscule le système politique établi après quatorze années de gouvernance autoritaire. Les représentants étudiants affichent la volonté d'engager des réformes structurelles pour restaurer le fonctionnement démocratique des institutions. Les observateurs s'interrogent désormais sur la capacité du mouvement à transformer ce succès dans les urnes en changements politiques pérennes.",
+        "stakes": [
+          "Le mouvement étudiant parviendra-t-il à imposer des réformes démocratiques ?",
+          "Comment le pouvoir exécutif en place réagira-t-il face à cette poussée d'opposition ?",
+          "Quelle sera la stabilité politique de la Serbie dans les mois à venir ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "«Il faut que tout le système se remette à fonctionner» : en Serbie, les immenses attentes après la victoire du mouvement des étudiants",
+            "link": "https://www.liberation.fr/international/europe/il-faut-que-tout-le-systeme-se-remette-a-fonctionner-en-serbie-les-immenses-attentes-apres-la-victoire-du-mouvement-des-etudiants-20261113_Z6W4M3AIJNHGVGNC6YVIIMYBXA/",
+            "publishedAt": "2026-11-13T10:51:32.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": null,
+        "i18n": {
+          "en": {
+            "title": "Success of a student movement in the legislative elections in Serbia",
+            "context": "Serbian political life had been dominated for over a decade by President Aleksandar Vucic's ruling party and its executive branch.",
+            "summary": "A political organization driven by university youth achieved a notable breakthrough in the Serbian legislative elections. This unprecedented electoral performance shakes up the established political system after fourteen years of authoritarian governance. Student representatives expressed the will to initiate structural reforms to restore the democratic functioning of institutions. Observers are now questioning the movement's ability to translate this ballot-box success into lasting political changes.",
+            "stakes": [
+              "Will the student movement manage to impose democratic reforms?",
+              "How will the current executive power react to this opposition surge?",
+              "What will be the political stability of Serbia in the coming months?"
+            ]
+          },
+          "es": {
+            "title": "Éxito de un movimiento estudiantil en las elecciones legislativas en Serbia",
+            "context": "La vida política serbia estuvo dominada durante más de una década por el partido gobernante del presidente Aleksandar Vucic y su poder ejecutivo.",
+            "summary": "Una organización política impulsada por la juventud universitaria logró un avance notable en las elecciones legislativas serbias. Este rendimiento electoral inédito sacude el sistema político establecido tras catorce años de gobernanza autoritaria. Los representantes estudiantiles muestran su voluntad de emprender reformas estructurales para restablecer el funcionamiento democrático de las instituciones. Los observadores se preguntan ahora sobre la capacidad del movimiento para transformar este éxito en las urnas en cambios políticos duraderos.",
+            "stakes": [
+              "¿Conseguirá el movimiento estudiantil imponer reformas democráticas?",
+              "¿Cómo reaccionará el poder ejecutivo actual ante este auge de la oposición?",
+              "¿Cuál será la estabilidad política de Serbia en los próximos meses?"
+            ]
+          }
+        }
+      }
+    ],
+    "monde": [
+      {
+        "id": "se1efe6f1af",
+        "topic": "sciences_tech",
+        "title": "Panne informatique mondiale majeure affectant les services de Microsoft",
+        "context": "Vendredi, des services clés de Microsoft comme Outlook, Teams et Copilot ont subi d'importantes perturbations à travers le monde. Ces dysfonctionnements ont gravement affecté le fonctionnement d'entreprises ainsi que de nombreux services publics tels que des hôpitaux, des écoles et des forces de police.",
+        "summary": "Microsoft a confirmé l'ampleur de cette panne globale qui a touché plusieurs dizaines de pays sur différents continents. L'entreprise technologique américaine a exclu l'hypothèse d'une cyberattaque ou d'un acte malveillant pour expliquer cet incident. Malgré les interventions techniques en cours, la firme a reconnu des difficultés à rétablir promptement la situation, faisant état de progrès mesurés. Les conséquences se sont fait ressentir au sein des infrastructures critiques, entraînant des retards dans la prise en charge médicale et la délivrance de prescriptions.",
+        "stakes": [
+          "Résilience des services publics face aux défaillances logicielles majeures",
+          "Impact économique global d'une interruption centralisée d'outils de travail",
+          "Évaluation de la dépendance des infrastructures critiques aux géants de la technologie"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "What we know about the global Microsoft outage",
+            "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-13T12:09:57.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "BBC News",
+            "title": "Watch: How Microsoft services went down around the world",
+            "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-13T07:18:17.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+            "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+            "publishedAt": "2026-11-13T12:19:57.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "The Guardian",
+            "title": "First Thing: Global Microsoft outage chaos as tech firm says there are ‘signs of stabilisation’",
+            "link": "https://www.theguardian.com/us-news/2026/nov/13/first-thing-global-microsoft-outage-chaos-signs-of-stabilisation",
+            "publishedAt": "2026-11-13T12:16:44.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
+            "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
+            "publishedAt": "2026-11-13T10:11:39.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "Live: Microsoft struggles to restore services as outage hits global users",
+            "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
+            "publishedAt": "2026-11-13T11:18:01.000Z",
+            "lang": "en"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Major global IT outage affecting Microsoft services",
+            "context": "On Friday, key Microsoft services like Outlook, Teams, and Copilot suffered major disruptions worldwide. These malfunctions severely affected the operation of businesses as well as numerous public services such as hospitals, schools, and police forces.",
+            "summary": "Microsoft confirmed the scale of this global outage that affected several dozen countries across different continents. The American technology company ruled out the hypothesis of a cyberattack or malicious act to explain this incident. Despite technical interventions underway, the firm acknowledged difficulties in promptly restoring the situation, reporting measured progress. The consequences were felt within critical infrastructures, leading to delays in medical care and the issuance of prescriptions.",
+            "stakes": [
+              "Resilience of public services in the face of major software failures",
+              "Global economic impact of a centralized interruption of work tools",
+              "Assessment of critical infrastructure dependence on tech giants"
+            ]
+          },
+          "es": {
+            "title": "Gran fallo informático mundial que afecta a los servicios de Microsoft",
+            "context": "El viernes, servicios clave de Microsoft como Outlook, Teams y Copilot sufrieron importantes perturbaciones en todo el mundo. Estas disfunciones afectaron gravemente al funcionamiento de empresas y de numerosos servicios públicos como hospitales, colegios y fuerzas policiales.",
+            "summary": "Microsoft confirmó la magnitud de este apagón global que afectó a varias decenas de países en diferentes continentes. La empresa tecnológica estadounidense descartó la hipótesis de un ciberataque o un acto malintencionado para explicar este incidente. A pesar de las intervenciones técnicas en curso, la firma reconoció dificultades para restablecer la situación con prontitud, informando de progresos medidos. Las consecuencias se hicieron sentir en las infraestructuras críticas, provocando retrasos en la atención médica y la emisión de recetas.",
+            "stakes": [
+              "Resiliencia de los servicios públicos ante fallos de software mayores",
+              "Impacto económico global de una interrupción centralizada de herramientas de trabajo",
+              "Evaluación de la dependencia de las infraestructuras críticas respecto a los gigantes tecnológicos"
+            ]
+          }
+        }
+      },
+      {
+        "id": "saf7b2cf6eb",
+        "topic": "international",
+        "title": "Pourparlers diplomatiques et poursuite des affrontements entre la Russie et l'Ukraine",
+        "context": "Des délégations russe, ukrainienne et américaine se sont réunies à Abou Dhabi avant que des représentants des États-Unis ne poursuivent leurs consultations à Moscou puis en Europe. Ce rapprochement intervient alors que la question de l'implication formelle des nations européennes dans les négociations de paix est posée.",
+        "summary": "À l'issue des récents échanges internationaux, les parties ont conclu un accord portant sur un échange de prisonniers. Le président ukrainien Volodymyr Zelensky s'est félicité de la perspective d'intégrer des dirigeants européens aux discussions ultérieures, bien que le choix des représentants de l'Union européenne fasse encore débat. Sur le terrain militaire, les attaques réciproques se poursuivent de façon soutenue. Les forces ukrainiennes ont mené une frappe de drone contre un navire de guerre russe dans le golfe de Finlande, une première dans cette zone maritime. De son côté, la Russie a bombardé un hôpital du centre de Kiev, profitant de restrictions de vitesse affectant les systèmes de communication de la défense ukrainienne.",
+        "stakes": [
+          "Capacité à transformer les échanges de prisonniers en avancées vers un cessez-le-feu",
+          "Définition du rôle institutionnel des pays européens dans le futur cadre de sécurité",
+          "Conséquences de la poursuite des frappes sur les infrastructures civiles des deux belligérants"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+            "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-13T02:01:35.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "BBC News",
+            "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+            "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-12T20:09:16.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+            "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+            "publishedAt": "2026-11-13T11:52:08.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Russia strikes hospital in central Kyiv after SpaceX system falters again",
+            "link": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails",
+            "publishedAt": "2026-11-13T11:24:30.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
+            "link": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-12T22:00:00.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
+            "link": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-12T16:44:00.000Z",
+            "lang": "en"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9462/live/a60e9f80-df2b-11f1-a701-fddedf244c16.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Diplomatic talks and continuation of clashes between Russia and Ukraine",
+            "context": "Russian, Ukrainian, and American delegations met in Abu Dhabi before representatives of the United States continued their consultations in Moscow and then in Europe. This rapprochement comes as the question of the formal involvement of European nations in peace negotiations is raised.",
+            "summary": "At the end of the recent international exchanges, the parties concluded an agreement concerning a prisoner exchange. Ukrainian President Volodymyr Zelensky welcomed the prospect of integrating European leaders into subsequent discussions, although the choice of European Union representatives is still debated. On the military front, reciprocal attacks continue at a sustained pace. Ukrainian forces carried out a drone strike against a Russian warship in the Gulf of Finland, a first in this maritime area. For its part, Russia bombed a hospital in central Kyiv, taking advantage of speed restrictions affecting Ukrainian defense communication systems.",
+            "stakes": [
+              "Ability to transform prisoner exchanges into progress towards a ceasefire",
+              "Definition of the institutional role of European countries in the future security framework",
+              "Consequences of continued strikes on the civilian infrastructures of both belligerents"
+            ]
+          },
+          "es": {
+            "title": "Conversaciones diplomáticas y continuación de los enfrentamientos entre Rusia y Ucrania",
+            "context": "Delegaciones rusa, ucraniana y estadounidense se reunieron en Abu Dabi antes de que representantes de Estados Unidos continuaran sus consultas en Moscú y luego en Europa. Este acercamiento se produce mientras se plantea la cuestión de la implicación formal de las naciones europeas en las negociaciones de paz.",
+            "summary": "Al término de los recientes intercambios internacionales, las partes concluyeron un acuerdo sobre un intercambio de prisioneros. El presidente ucraniano, Volodímir Zelenski, celebró la perspectiva de integrar a los dirigentes europeos en discusiones posteriores, aunque la elección de los representantes de la Unión Europea sigue siendo objeto de debate. En el terreno militar, los ataques recíprocos continúan de forma sostenida. Las fuerzas ucranianas llevaron a cabo un ataque con drones contra un buque de guerra ruso en el golfo de Finlandia, una primicia en esta zona marítima. Por su parte, Rusia bombardeó un hospital en el centro de Kiev, aprovechando las restricciones de velocidad que afectan a los sistemas de comunicación de la defensa ucraniana.",
+            "stakes": [
+              "Capacidad de transformar los intercambios de prisioneros en avances hacia un alto el fuego",
+              "Definición del papel institucional de los países europeos en el futuro marco de seguridad",
+              "Consecuencias de la continuación de los ataques sobre las infraestructuras civiles de ambos beligerantes"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sea7faee116",
+        "topic": "economie",
+        "title": "Démission du PDG de Nvidia Jensen Huang et convocations au Congrès",
+        "context": "Jensen Huang a démissionné brusquement de la direction du géant des puces électroniques Nvidia après la révélation de liaisons extraconjugales. La femme impliquée est soupçonnée d'avoir transféré illégalement des technologies sensibles vers la Chine pour le compte de services de renseignement.",
+        "summary": "Suite à ce départ imprévu, la directrice financière de Nvidia a pris la tête de l'entreprise par intérim. Jensen Huang a été officiellement convoqué par une commission du Sénat américain pour s'expliquer en décembre sur ces événements. Les parlementaires cherchent à mesurer les conséquences éventuelles de ces relations sur le contrôle des exportations de semi-conducteurs avancés. Cette affaire suscite une vive préoccupation en raison du rôle central de l'entreprise dans la course mondiale à l'intelligence artificielle.",
+        "stakes": [
+          "Stabilité managériale et stratégique du chef de file mondial de l'IA",
+          "Durcissement des régulations américaines sur les fuites technologiques vers la Chine",
+          "Effets sur la concurrence et la valeur boursière dans le secteur mondial des puces"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+            "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-13T03:57:01.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "Jensen Huang: Spy row, affairs leave Nvidia without its rockstar CEO",
+            "link": "https://www.dw.com/en/jensen-huang-spy-row-affairs-leave-nvidia-without-its-rockstar-ceo/a-79926972?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-12T15:08:00.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "NPR",
+            "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+            "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+            "publishedAt": "2026-11-13T12:07:12.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "France 24",
+            "title": "Affaire Nvidia : l'ex-patron Jensen Huang convoqué devant le Congrès américain en décembre",
+            "link": "https://www.france24.com/fr/%C3%A9co-tech/20261113-affaire-nvidia-ex-patron-jensen-huang-convoqu%C3%A9-devant-congr%C3%A8s-am%C3%A9ricain-d%C3%A9cembre",
+            "publishedAt": "2026-11-13T10:59:04.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "A Taïwan, les écarts de Jensen Huang suscitent davantage d’intérêt que les grandes manœuvres navales chinoises",
+            "link": "https://www.lemonde.fr/international/article/2026/11/13/a-taiwan-les-ecarts-de-jensen-huang-suscitent-davantage-d-interet-que-les-grandes-man-uvres-navales-chinoises_6809308_3210.html",
+            "publishedAt": "2026-11-13T10:00:13.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "Nvidia : l’ancien PDG de Nvidia Jensen Huang et le secrétaire au commerce Howard Lutnick invités à témoigner au Sénat américain",
+            "link": "https://www.lemonde.fr/international/article/2026/11/13/nvidia-l-ancien-pdg-de-nvidia-et-le-secretaire-au-commerce-invites-a-temoigner-au-senat-americain_6809295_3210.html",
+            "publishedAt": "2026-11-13T08:49:27.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Resignation of Nvidia CEO Jensen Huang and congressional subpoenas",
+            "context": "Jensen Huang abruptly resigned as head of the chip giant Nvidia following the revelation of extramarital affairs. The woman involved is suspected of having illegally transferred sensitive technologies to China on behalf of intelligence services.",
+            "summary": "Following this unexpected departure, Nvidia's Chief Financial Officer took over the company on an interim basis. Jensen Huang has been officially subpoenaed by a U.S. Senate committee to testify in December regarding these events. Lawmakers seek to assess the potential consequences of these relationships on export controls for advanced semiconductors. This case has sparked intense concern due to the company's central role in the global artificial intelligence race.",
+            "stakes": [
+              "Managerial and strategic stability of the global AI leader",
+              "Tighter U.S. regulations on technological leaks to China",
+              "Effects on competition and market value in the global chip sector"
+            ]
+          },
+          "es": {
+            "title": "Dimensión del CEO de Nvidia Jensen Huang y citaciones al Congreso",
+            "context": "Jensen Huang dimitió abruptamente de la dirección del gigante de los microchips Nvidia tras la revelación de relaciones extramatrimoniales. La mujer implicada es sospechosa de haber transferido ilegalmente tecnologías sensibles a China por cuenta de los servicios de inteligencia.",
+            "summary": "Tras esta inesperada salida, la directora financiera de Nvidia asumió el liderazgo de la empresa de manera interina. Jensen Huang fue convocado oficialmente por una comisión del Senado estadounidense para explicarse en diciembre sobre estos acontecimientos. Los legisladores buscan medir las consecuencias eventuales de estas relaciones en el control de las exportaciones de semiconductores avanzados. Este caso genera una profunda preocupación debido al papel central de la empresa en la carrera mundial por la inteligencia artificial.",
+            "stakes": [
+              "Estabilidad gerencial y estratégica del líder mundial de la IA",
+              "Endurecimiento de las regulaciones estadounidenses sobre fugas tecnológicas hacia China",
+              "Efectos sobre la competencia y el valor bursátil en el sector global de los chips"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s2a9400f577",
+        "topic": "societe",
+        "title": "Visite du pape Léon XIV au Pérou marquée par une forte affluence",
+        "context": "Le pape Léon XIV effectue un voyage officiel au Pérou, une nation où il a exercé son ministère religieux durant vingt années. Ce déplacement comporte des rencontres publiques massives et un volet de mémoire envers les populations locales.",
+        "summary": "Près de trois millions de personnes se sont rassemblées à Lima pour accueillir le souverain pontife lors de son arrivée. Il a ensuite participé à un rassemblement dédié aux jeunes dans le stade national de la capitale. Ce voyage survient quelques mois après que le Vatican a demandé pardon aux habitants de Catacaos pour la dépossession passée de leurs terres. Les communautés autochtones continuent de réclamer la restitution effective de leurs propriétés foncières auprès des autorités et des institutions.",
+        "stakes": [
+          "Aboutissement des démarches de réparation foncière réclamées par les communautés rurales",
+          "Rapprochement entre l'institution ecclésiale et les aspirations des jeunes générations",
+          "Poids moral des déclarations vaticanes dans les débats politiques locaux"
+        ],
+        "sources": [
+          {
+            "name": "France 24",
+            "title": "Pérou : le pape Léon XIV accueilli par trois millions de personnes",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261113-p%C3%A9rou-le-pape-l%C3%A9on-xiv-accueilli-par-trois-millions-de-personnes",
+            "publishedAt": "2026-11-13T11:33:57.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "La visite du pape au Pérou ravive l’espoir de justice pour des populations paysannes autochtones qui se disent spoliées",
+            "link": "https://www.lemonde.fr/international/article/2026/11/13/la-visite-du-pape-au-perou-ravive-l-espoir-de-justice-pour-des-populations-paysannes-autochtones-qui-se-disent-spoliees_6809287_3210.html",
+            "publishedAt": "2026-11-13T06:00:10.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "RFI",
+            "title": "Pérou: le pape Léon XIV rend hommage à la jeunesse et à ses «martyrs»",
+            "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261113-p%C3%A9rou-pape-l%C3%A9on-xiv-jeunesse-martyrs",
+            "publishedAt": "2026-11-13T12:19:02.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://s.france24.com/media/display/d96a6b50-df55-11f1-be3f-f71d22e7fea9/w:1024/p:16x9/FR-20261113-121355-121529-CS.jpg",
+          "credit": "France 24",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261113-p%C3%A9rou-le-pape-l%C3%A9on-xiv-accueilli-par-trois-millions-de-personnes"
+        },
+        "i18n": {
+          "en": {
+            "title": "Pope Leo XIV's visit to Peru marked by high attendance",
+            "context": "Pope Leo XIV is undertaking an official trip to Peru, a nation where he exercised his religious ministry for twenty decades. This trip includes massive public gatherings and a component of remembrance toward local populations.",
+            "summary": "Nearly three million people gathered in Lima to welcome the Sovereign Pontiff upon his arrival. He then participated in a gathering dedicated to youth at the capital's national stadium. This trip comes a few months after the Vatican apologized to the inhabitants of Catacaos for the past dispossession of their lands. Indigenous communities continue to demand the effective restitution of their property rights from authorities and institutions.",
+            "stakes": [
+              "Outcome of the land restitution procedures demanded by rural communities",
+              "Rapprochement between the ecclesial institution and the aspirations of younger generations",
+              "Moral weight of Vatican declarations in local political debates"
+            ]
+          },
+          "es": {
+            "title": "Visita del papa León XIV a Perú marcada por una masiva afluencia",
+            "context": "El papa León XIV realiza un viaje oficial a Perú, una nación donde ejerció su ministerio religioso durante dos décadas. Este desplazamiento incluye encuentros públicos masivos y un componente de memoria hacia las poblaciones locales.",
+            "summary": "Cerca de tres millones de personas se congregaron en Lima para recibir al Sumo Pontífice a su llegada. Posteriormente participó en un encuentro dedicado a los jóvenes en el estadio nacional de la capital. Este viaje se produce pocos meses después de que el Vaticano pidiera perdón a los habitantes de Catacaos por la desposesión pasada de sus tierras. Las comunidades indígenas continúan reclamando la restitución efectiva de sus propiedades territoriales a las autoridades e instituciones.",
+            "stakes": [
+              "Resultado de los trámites de reparación de tierras reclamados por las comunidades rurales",
+              "Acercamiento entre la institución eclesial y las aspiraciones de las nuevas generaciones",
+              "Peso moral de las declaraciones vaticanas en los debates políticos locales"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s751483a803",
+        "topic": "international",
+        "title": "Crise humanitaire grave à Gaza et poursuite de frappes létales",
+        "context": "Dans la bande de Gaza, le conflit armé persistant s'accompagne de conditions météorologiques particulièrement rigoureuses. Les civils déplacés font face à un manque d'infrastructures adaptées pour se protéger des intempéries hivernales.",
+        "summary": "De fortes pluies ont provoqué l'inondation de milliers de tentes et détruit des équipements énergétiques essentiels au fonctionnement des soins. Les organismes humanitaires ont appelé à autoriser l'installation d'abris en urgence pour éviter de nouveaux drames mortels. En parallèle, des frappes aériennes israéliennes ont touché un centre hospitalier à Khan Younès, tuant plusieurs personnes dont du personnel médical et des enfants. L'armée israélienne a indiqué avoir ciblé un responsable du Hamas, mais ce dernier ne figure pas parmi les victimes répertoriées.",
+        "stakes": [
+          "Prévention d'un désastre sanitaire hivernal dans les camps de réfugiés",
+          "Protection des établissements de santé et du personnel médical durant les opérations",
+          "Progrès des médiations internationales pour débloquer les conditions d'acheminement de l'aide"
+        ],
+        "sources": [
+          {
+            "name": "Deutsche Welle",
+            "title": "Humanitarian situation in Gaza worsens amid political deadlock",
+            "link": "https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-13T09:30:00.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "With every rainfall, Gaza risks losing access to power and healthcare",
+            "link": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
+            "publishedAt": "2026-11-13T09:43:30.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "NPR",
+            "title": "Aid groups call on Israel to allow shelters in Gaza amid a humanitarian emergency",
+            "link": "https://www.npr.org/2026/11/12/nx-s1-6035686/aid-groups-call-on-israel-to-allow-shelters-in-gaza-amid-a-humanitarian-emergency",
+            "publishedAt": "2026-11-12T09:29:50.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "NPR",
+            "title": "An Israeli strike on a Gaza hospital kills 6 people, including a doctor and a child",
+            "link": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
+            "publishedAt": "2026-11-12T09:29:30.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "France 24",
+            "title": "Gaza : au moins 11 morts après des frappes israéliennes malgré le cessez-le-feu",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261113-gaza-au-moins-11-morts-apr%C3%A8s-des-frappes-isra%C3%A9liennes-malgr%C3%A9-le-cessez-le-feu",
+            "publishedAt": "2026-11-13T11:32:44.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "En Cisjordanie occupée, la routine des attaques, des violences et des spoliations",
+            "link": "https://www.lemonde.fr/international/article/2026/11/13/en-cisjordanie-occupee-la-routine-des-attaques-des-violences-et-des-spoliations_6809298_3210.html",
+            "publishedAt": "2026-11-13T09:00:14.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6035686",
+          "credit": "NPR",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6035686/aid-groups-call-on-israel-to-allow-shelters-in-gaza-amid-a-humanitarian-emergency"
+        },
+        "i18n": {
+          "en": {
+            "title": "Severe humanitarian crisis in Gaza and continuation of lethal strikes",
+            "context": "In the Gaza Strip, the persistent armed conflict is accompanied by particularly harsh weather conditions. Displaced civilians face a lack of adequate infrastructure to protect themselves from winter weather.",
+            "summary": "Heavy rains have flooded thousands of tents and destroyed essential energy equipment required for healthcare operations. Humanitarian organizations have called for the urgent authorization to install shelters to prevent further deadly tragedies. At the same time, Israeli airstrikes hit a hospital center in Khan Younis, killing several people including medical staff and children. The Israeli military stated it had targeted a Hamas official, but the latter is not among the reported casualties.",
+            "stakes": [
+              "Prevention of a winter health disaster in refugee camps",
+              "Protection of healthcare facilities and medical personnel during operations",
+              "Progress of international mediation to unblock aid delivery conditions"
+            ]
+          },
+          "es": {
+            "title": "Grave crisis humanitaria en Gaza y continuación de ataques letales",
+            "context": "En la Franja de Gaza, el persistente conflicto armado viene acompañado de condiciones meteorológicas particularmente rigurosas. Los civiles desplazados se enfrentan a una falta de infraestructuras adecuadas para protegerse de las inclemencias invernales.",
+            "summary": "Fuertes lluvias provocaron la inundación de miles de tiendas de campaña y destruyeron equipos energéticos esenciales para el funcionamiento de la atención médica. Las organizaciones humanitarias han pedido que se autorice la instalación de refugios con urgencia para evitar nuevas tragedias mortales. En paralelo, los ataques aéreos israelíes impactaron un centro hospitalario en Jan Yunis, matando a varias personas, incluido personal médico y niños. El ejército israelí indicó haber dirigido su ataque contra un alto cargo de Hamás, pero este último no figura entre las víctimas registradas.",
+            "stakes": [
+              "Prevención de un desastre sanitario invernal en los campamentos de refugiados",
+              "Protección de los establecimientos de salud y del personal médico durante las operaciones",
+              "Progreso de las mediaciones internacionales para desbloquear las condiciones de entrega de ayuda"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s487771498d",
+        "topic": "sport",
+        "title": "Résurgence des tensions en Australie autour du scandale du Sandpapergate",
+        "context": "Le scandale du Sandpapergate concerne des faits de triche par altération de la balle survenus lors d'un match de l'équipe australienne de cricket en 2018. De nouvelles déclarations viennent répertorier des accusations sur le niveau d'implication collective des joueurs de l'époque.",
+        "summary": "Le joueur Usman Khawaja a affirmé que l'ensemble des membres de la sélection nationale était informé des pratiques de falsification. En réaction, le capitaine Pat Cummins a fermement démenti ces propos lors d'une longue conférence de presse, qualifiant ces révélations de totalement fausses. L'ancien ouvreur David Warner s'est à son tour exprimé pour soutenir Khawaja et désapprouver publiquement la position du capitaine. Ces désaccords affichés ravivent une vive controverse au sein du cricket australien, divisant sportifs et observateurs.",
+        "stakes": [
+          "Rétablissement de la confiance du public envers les instances du cricket australien",
+          "Cohésion de l'équipe nationale face aux révélations sur d'anciens manquements éthiques",
+          "Transparence sur les responsabilités individuelles et collectives dans le sport de haut niveau"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+            "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-13T08:20:28.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "ABC News (Australie)",
+            "title": "Cummins hopes his answers ended the sandpaper war. He is sadly mistaken",
+            "link": "https://www.abc.net.au/news/2026-11-13/pat-cummins-press-conference-sandpaper-civil-war/107382866",
+            "publishedAt": "2026-11-13T03:56:54.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "ABC News (Australie)",
+            "title": "David Warner slams Pat Cummins over Sandpapergate denial",
+            "link": "https://www.abc.net.au/news/2026-11-13/david-warner-slams-pat-cummins-over-sandpapergate-denial/107383074",
+            "publishedAt": "2026-11-13T03:46:12.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "ABC News (Australie)",
+            "title": "Cummins addresses Khawaja claims in passionate hour-long press conference",
+            "link": "https://www.abc.net.au/news/2026-11-13/pat-cummins-says-usman-khawaja-casual-with-peoples-lives/107381770",
+            "publishedAt": "2026-11-13T00:39:48.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "ABC News (Australie)",
+            "title": "Cummins says Khawaja's ball-tampering claim '100 per cent wrong'",
+            "link": "https://www.abc.net.au/news/2026-11-13/pat-cummins-live-media-conference-ball-tampering-usman-khawaja/107381096",
+            "publishedAt": "2026-11-12T21:26:54.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "ABC News (Australie)",
+            "title": "Are we really going to shoot the messenger over Sandpapergate?",
+            "link": "https://www.abc.net.au/news/2026-11-13/cricket-australia-response-sandpaper-error-usman-khawaja-book/107378542",
+            "publishedAt": "2026-11-12T18:00:00.000Z",
+            "lang": "en"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a5/live/fac09110-df39-11f1-a701-fddedf244c16.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Resurgence of tensions in Australia surrounding the Sandpapergate scandal",
+            "context": "The Sandpapergate scandal involves ball-tampering cheating that occurred during an Australian cricket team match in 2018. New statements have listed accusations regarding the level of collective involvement of the players at the time.",
+            "summary": "Player Usman Khawaja claimed that all members of the national squad were aware of the tampering practices. In response, captain Pat Cummins firmly denied these remarks during a long press conference, calling the revelations completely false. Former opener David Warner in turn spoke out to support Khawaja and publicly disapprove of the captain's position. These public disagreements have revived a fierce controversy within Australian cricket, dividing athletes and observers.",
+            "stakes": [
+              "Restoration of public trust in Australian cricket authorities",
+              "Cohesion of the national team in the face of revelations about past ethical failures",
+              "Transparency on individual and collective responsibilities in elite sports"
+            ]
+          },
+          "es": {
+            "title": "Resurgimiento de tensiones en Australia en torno al escándalo del Sandpapergate",
+            "context": "El escándalo del Sandpapergate se refiere a hechos de trampa por alteración de la bola ocurridos durante un partido de la selección australiana de críquet en 2018. Nuevas declaraciones enumeran acusaciones sobre el nivel de implicación colectiva de los jugadores de la época.",
+            "summary": "El jugador Usman Khawaja afirmó que todos los miembros de la selección nacional estaban al tanto de las prácticas de alteración. En respuesta, el capitán Pat Cummins desmintió firmemente estas declaraciones durante una larga conferencia de prensa, calificando las revelaciones de totalmente falsas. El exabridor David Warner se expresó a su vez para apoyar a Khawaja y desaprobar públicamente la postura del capitán. Estos desacuerdos públicos reavivan una intensa controversia dentro del críquet australiano, dividiendo a deportistas y observadores.",
+            "stakes": [
+              "Restablecimiento de la confianza pública en las instancias del críquet australiano",
+              "Cohesión de la selección nacional frente a las revelaciones sobre fallas éticas pasadas",
+              "Transparencia sobre las responsabilidades individuales y colectivas en el deporte de alto rendimiento"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sd5cd6b050c",
+        "topic": "politique",
+        "title": "Premiers échanges politiques en Israël entre Netanyahu et Gadi Eisenkot",
+        "context": "Les dernières élections législatives en Israël n'ont pas permis de dégager une majorité claire au Parlement. Dans ce contexte d'incertitude, le processus de constitution d'un nouvel exécutif a été confié à un dirigeant de l'opposition.",
+        "summary": "Benyamin Nétanyahou et Gadi Eisenkot se sont rencontrés à Jérusalem pour une séance de travail officielle de deux heures. Cette entrevue, la première depuis le scrutin, était officiellement consacrée au bilan et aux enjeux de sécurité nationale. Gadi Eisenkot poursuit parallèlement ses démarches pour former la prochaine coalition gouvernementale. La position et le parcours de ce responsable politique suscitent une attention particulière quant à la future orientation du pays.",
+        "stakes": [
+          "Issue des négociations pour l'obtention d'une majorité parlementaire stable",
+          "Orientation future de la politique de sécurité de l'État d'Israël",
+          "Avenir politique de Benyamin Nétanyahou à l'issue de ces pourparlers"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde International",
+            "title": "Gadi Eisenkot, possible futur premier ministre d’Israël et « fils d’immigrés » nés à Casablanca et Marrakech, suscite l’intérêt au Maroc",
+            "link": "https://www.lemonde.fr/afrique/article/2026/11/13/gadi-eisenkot-possible-futur-premier-ministre-d-israel-et-fils-d-immigres-nes-a-casablanca-et-marrakech-suscite-l-interet-au-maroc_6809296_3212.html",
+            "publishedAt": "2026-11-13T09:00:06.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "RFI",
+            "title": "Israël: première rencontre officielle entre Benyamin Netanyahu et Gadi Eisenkot depuis les élections",
+            "link": "https://www.rfi.fr/fr/moyen-orient/20261113-en-isra%C3%ABl-premi%C3%A8re-rencontre-officielle-depuis-les-%C3%A9lections-entre-benyamin-netanyahu-et-gadi-eisenkot",
+            "publishedAt": "2026-11-13T08:36:45.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/10/28/845/0/5634/2817/644/322/60/0/ed28d90_upload-1-weftntsvs7x6-ll-elections-israel-eisenkot-08.jpg",
+          "credit": "Le Monde International",
+          "link": "https://www.lemonde.fr/afrique/article/2026/11/13/gadi-eisenkot-possible-futur-premier-ministre-d-israel-et-fils-d-immigres-nes-a-casablanca-et-marrakech-suscite-l-interet-au-maroc_6809296_3212.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "First political exchanges in Israel between Netanyahu and Gadi Eisenkot",
+            "context": "The latest legislative elections in Israel failed to produce a clear majority in Parliament. In this context of uncertainty, the process of forming a new executive has been entrusted to an opposition leader.",
+            "summary": "Benjamin Netanyahu and Gadi Eisenkot met in Jerusalem for a two-hour official working session. This meeting, the first since the election, was officially dedicated to assessing national security issues. At the same time, Gadi Eisenkot is continuing his efforts to form the next government coalition. The position and background of this political leader are attracting particular attention regarding the country's future direction.",
+            "stakes": [
+              "Outcome of negotiations to secure a stable parliamentary majority",
+              "Future direction of the State of Israel's security policy",
+              "Political future of Benjamin Netanyahu following these talks"
+            ]
+          },
+          "es": {
+            "title": "Primeros intercambios políticos en Israel entre Netanyahu y Gadi Eisenkot",
+            "context": "Las últimas elecciones legislativas en Israel no permitieron obtener una mayoría clara en el Parlamento. En este contexto de incertidumbre, el proceso de constitución de un nuevo ejecutivo fue encomendado a un dirigente de la oposición.",
+            "summary": "Benjamín Netanyahu y Gadi Eisenkot se reunieron en Jerusalén para una sesión de trabajo oficial de dos horas. Este encuentro, el primero desde los comicios, estuvo dedicado oficialmente al balance y a los desafíos de la seguridad nacional. Gadi Eisenkot continúa en paralelo sus gestiones para formar la próxima coalición gubernamental. La postura y la trayectoria de este líder político suscitan una atención particular sobre la futura orientación del país.",
+            "stakes": [
+              "Resultado de las negociaciones para la obtención de una mayoría parlamentaria estable",
+              "Orientación futura de la política de seguridad del Estado de Israel",
+              "Futuro político de Benjamín Netanyahu tras estas conversaciones"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sbdd0e45929",
+        "topic": "international",
+        "title": "Escalade des tensions entre l'Iran et les États-Unis au Moyen-Orient",
+        "context": "Les tensions militaires entre les États-Unis et l'Iran connaissent un surcroît de sévérité dans la région du Golfe. Cette dégradation intervient sur fond de désaccords persistants concernant les installations nucléaires iraniennes.",
+        "summary": "Les Gardiens de la révolution ont déclaré avoir détruit une installation radar américaine d'alerte précoce basée au Bahreïn. L'armée iranienne a affirmé agir en réplique à des attaques américaines antérieures et a menacé d'intensifier ses actions au niveau du détroit de Hormuz. De son côté, l'Agence internationale de l'énergie atomique a signalé ne plus être en mesure de vérifier le contenu de certains sites souterrains d'enrichissement. Les analystes soulignent que l'absence de dialogue direct maintient la région dans une situation d'instabilité permanente.",
+        "stakes": [
+          "Risque d'embrasement militaire direct et d'extension du conflit au niveau régional",
+          "Garantie de la liberté de navigation maritime dans les voies stratégiques du Golfe",
+          "Maintien des contrôles internationaux sur les capacités de développement nucléaire"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "title": "Iran says it destroyed US military radar in Bahrain in retaliatory strike",
+            "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+            "publishedAt": "2026-11-13T12:07:13.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
+            "link": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss",
+            "publishedAt": "2026-11-13T11:51:57.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss",
+            "publishedAt": "2026-11-13T10:54:25.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?",
+            "link": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss",
+            "publishedAt": "2026-11-13T10:26:22.000Z",
+            "lang": "en"
+          }
+        ],
+        "image": {
+          "url": "https://i.guim.co.uk/img/media/f76fa0a8488f1c05bc755c935f60793cc0caee3d/448_0_4480_3584/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=1827173b1be92a1da7873febef1104d0",
+          "credit": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+        },
+        "i18n": {
+          "en": {
+            "title": "Escalation of tensions between Iran and the United States in the Middle East",
+            "context": "Military tensions between the United States and Iran are experiencing a surge in severity in the Gulf region. This deterioration comes against a backdrop of persistent disagreements regarding Iranian nuclear facilities.",
+            "summary": "The Revolutionary Guards claimed to have destroyed an American early-warning radar facility based in Bahrain. The Iranian military stated it was acting in retaliation for previous U.S. attacks and threatened to step up its actions around the Strait of Hormuz. Meanwhile, the International Atomic Energy Agency reported it was no longer able to verify the contents of certain underground enrichment sites. Analysts emphasize that the lack of direct dialogue keeps the region in a state of permanent instability.",
+            "stakes": [
+              "Risk of direct military conflagration and regional expansion of the conflict",
+              "Guarantee of freedom of maritime navigation in the strategic routes of the Gulf",
+              "Maintenance of international controls on nuclear development capabilities"
+            ]
+          },
+          "es": {
+            "title": "Escalada de tensiones entre Irán y Estados Unidos en Oriente Medio",
+            "context": "Las tensiones militares entre Estados Unidos e Irán experimentan un incremento de severidad en la región del Golfo. Este deterioro se produce en un contexto de desacuerdos persistentes sobre las instalaciones nucleares iraníes.",
+            "summary": "Los Guardianes de la Revolución declararon haber destruido una instalación de radar estadounidense de alerta temprana basada en Baréin. El ejército iraní afirmó haber actuado en respuesta a ataques estadounidenses anteriores y amenazó con intensificar sus acciones en el estrecho de Ormuz. Por su parte, el Organismo Internacional de Energía Atómica indicó que ya no puede verificar el contenido de ciertos sitios subterráneos de enriquecimiento. Los analistas subrayan que la ausencia de diálogo directo mantiene a la región en una situación de inestabilidad permanente.",
+            "stakes": [
+              "Riesgo de conflagración militar directa y extensión del conflicto a nivel regional",
+              "Garantía de la libertad de navegación marítima en las vías estratégicas del Golfo",
+              "Mantenimiento de los controles internacionales sobre las capacidades de desarrollo nuclear"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "storiesAt": "2026-11-13T12:30:14.539Z",
+  "inputHash": "de4cd64bf37f50fb95659928b65ad06a9b086b2a",
+  "synthStatus": "ok",
+  "news": {
+    "france": [
+      {
+        "id": "a0f62d8f0c0",
+        "title": "Affaire Nvidia : Colette Kress, la gardienne des finances propulsée à la tête du géant des puces",
+        "link": "https://www.lexpress.fr/economie/high-tech/affaire-nvidia-colette-kress-la-gardienne-des-finances-propulsee-a-la-tete-du-geant-des-puces-EDZ4KMAIKZGXHISHQ3BAMBB24U/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/PALXEPV7RFHF5M7PQCK3DL2EP4.JPG?auth=06992087af8e6eda2d7461fa389b6025b1d1b0abbbccce60ad44db959ff8cc06&smart=true&width=1920&height=1920",
+        "publishedAt": "2026-11-13T12:15:10.000Z",
+        "source": "L'Express",
+        "lang": "fr"
+      },
+      {
+        "id": "abfd09a4114",
+        "title": "Panne d’Outlook : vous n’avez plus de message",
+        "link": "https://www.liberation.fr/economie/economie-numerique/outlook-vous-navez-plus-de-message-20261113_O6IJNBBOCVA4HJWJVKQGH7WZXY/",
+        "summary": "Ce sont 74 pays dont la France qui ont été frappés par une panne de la messagerie de Microsoft. Peu avant 13 heures, la situation semblait revenir peu à peu à la normale.",
+        "image": null,
+        "publishedAt": "2026-11-13T12:05:58.000Z",
+        "source": "Libération",
+        "lang": "fr"
+      },
+      {
+        "id": "a89eeb4f72e",
+        "title": "Canon confie à un fidèle du groupe la présidence de la filiale française, deuxième marché d’Europe",
+        "link": "https://www.lefigaro.fr/decideurs/canon-confie-a-un-fidele-du-groupe-la-presidence-de-la-filiale-francaise-deuxieme-marche-d-europe-20261113",
+        "summary": "PORTRAIT - Entré dans l’entreprise en 1996, le Néerlandais Jacco Leurs supervise les activités au Benelux depuis 2020 et élargit dorénavant son périmètre à l’Hexagone.",
+        "image": "https://i.f1g.fr/media/cms/1667x937_crop/2026/11/05/30102906809e867b524f17195181c89371f256980fd12e837b3fdaab983397d6.jpg",
+        "publishedAt": "2026-11-13T12:03:15.000Z",
+        "source": "Le Figaro",
+        "lang": "fr"
+      },
+      {
+        "id": "abcf299c839",
+        "title": "Cyclisme. Killian Verschuren rebondit au CIC Pro Cycling Academy",
+        "link": "https://www.ouest-france.fr/sport/cyclisme/uc-nantes-atlantique/cyclisme-killian-verschuren-rebondit-au-cic-pro-cycling-academy-6906a852-df4f-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Killian Verschuren sera toujours dans le peloton professionnel l’an prochain. Le Morbihannais va rebondir au CIC Pro Cycling Academy après deux ans au sein de l’équipe Unibet Rose Rockets. Le Breton de 24 ans a signé pour un an. Il va remplacer Axel Mariault.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExZDI4ZDI3NmExZjQwNjliNzViYjI2Yjc3ZTY2NTIyNTk?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=de497d3681bb468fa51ccf212c2b849c4133087b1f910be453022d44ee5cd802",
+        "publishedAt": "2026-11-13T12:01:03.000Z",
+        "source": "Ouest-France",
+        "lang": "fr"
+      },
+      {
+        "id": "a423ea5c280",
+        "title": "Les meubles totems du designer Martin Szekely s’exposent à Paris",
+        "link": "https://www.lemonde.fr/m-styles/article/2026/11/13/les-meubles-totems-du-designer-martin-szekely-s-exposent-a-paris_6809322_4497319.html",
+        "summary": "Avec ses objets du quotidien taillés dans de massives pièces de bois récupérées, le Français rend hommage à l’histoire de son matériau, qui affleure sous la fonction utilitaire.",
+        "image": "https://img.lemde.fr/2026/11/10/780/0/2776/1388/644/322/60/0/e85cf03_upload-1-qj6kkrxjpz1u-msz-1-41-r.jpg",
+        "publishedAt": "2026-11-13T12:00:08.000Z",
+        "source": "Le Monde",
+        "lang": "fr"
+      },
+      {
+        "id": "a4af3ba0d84",
+        "title": "« Avec sa tradition de micromécanique, elle a un savoir-faire assez unique » : la Suisse s’affirme comme une référence de la recherche robotique",
+        "link": "https://www.lefigaro.fr/secteur/high-tech/avec-sa-tradition-de-micromecanique-elle-a-un-savoir-faire-assez-unique-la-suisse-s-affirme-comme-une-reference-de-la-recherche-robotique-20261113",
+        "summary": "DÉCRYPTAGE - De Lausanne à Zurich, les jeunes pousses helvétiques (RIVR, ANYbotics) font saliver les géants de la tech.",
+        "image": "https://i.f1g.fr/media/cms/1280x720_crop/2026/11/13/198428f8aa2b875c9ec426f1812f0fcd740129d1d83a4d978acb869b6e06b0d9.jpg",
+        "publishedAt": "2026-11-13T11:59:18.000Z",
+        "source": "Le Figaro",
+        "lang": "fr"
+      },
+      {
+        "id": "a8bcdf00138",
+        "title": "Renseignement : l'Autriche ne veut plus que Vienne soit la \"capitale des espions\"",
+        "link": "https://www.lexpress.fr/secret-defense/renseignement-lautriche-ne-veut-plus-que-vienne-soit-la-capitale-des-espions-KP2XXBPXOFAN5LWNDMDYBCC25Y/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/XJTFRLJF6ZC6TP2I5IJQIK5K6M.JPG?auth=d4760edcc75b8e92f491ad9b7e9fda834ea276c0b216f241df666d971404a105&smart=true&width=5900&height=3926",
+        "publishedAt": "2026-11-13T11:57:20.000Z",
+        "source": "L'Express",
+        "lang": "fr"
+      },
+      {
+        "id": "a77635933d2",
+        "title": "«L’Acte» de Cloé Korman, prix sur le vif",
+        "link": "https://www.liberation.fr/culture/livres/lacte-de-cloe-korman-prix-sur-le-vif-20261113_2T5J4H43RFFVZGI3EU4GMSXQ7E/",
+        "summary": "L’autrice fait le récit d’un monde où tout se vend et tout s’achète, à commencer par les corps et les esprits.",
+        "image": null,
+        "publishedAt": "2026-11-13T11:55:00.000Z",
+        "source": "Libération",
+        "lang": "fr"
+      },
+      {
+        "id": "a74ae349657",
+        "title": "Microsoft 365, Outlook, Teams, e-mails « retardés »… Ce que l’on sait de la panne mondiale des messageries informatiques",
+        "link": "https://www.ouest-france.fr/high-tech/microsoft/microsoft-365-outlook-teams-ce-que-lon-sait-de-la-panne-mondiale-qui-touche-les-messageries-informatiques-bbb822ce-df27-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Le géant américain de l’informatique travaille toujours à la résolution du problème ce vendredi 13 novembre. Une panne a touché Microsoft 365, Outlook et Teams pour des milliers d’utilisateurs américains au cours de la journée de jeudi, la perturbation touchant également les services d’IA d’OpenAI e",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExM2ZlNjZkM2U4YzljMmEyMjJiM2JkZDZlNTMwZGUwNGY?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=f766d39641b629a2840d11f409bcdc3f3c9afc33160eb7a1362f69859aed090c",
+        "publishedAt": "2026-11-13T11:54:57.000Z",
+        "source": "Ouest-France",
+        "lang": "fr"
+      },
+      {
+        "id": "af9ec0d040f",
+        "title": "Outlook hors service : ce que l’on sait de la panne mondiale qui touche Microsoft",
+        "link": "https://www.la-croix.com/microsoft-peine-a-reparer-la-panne-mondiale-d-outlook-20261113",
+        "summary": "Une panne mondiale frappe Outlook depuis jeudi 12 novembre, paralysant entreprises et gouvernements dans 74 pays. Le géant américain cherche des solutions alternatives après l’échec de ses premières mesures. Voici ce que l’on sait.",
+        "image": "https://i.la-croix.com/x/2026/11/13/2588273-des-dizaines-de-milliers-d-utilisateurs-ne-pouvaie.jpg",
+        "publishedAt": "2026-11-13T11:54:13.000Z",
+        "source": "La Croix",
+        "lang": "fr"
+      },
+      {
+        "id": "a2c135e8b20",
+        "title": "Une plaque commémorative en mémoire de Mehdi Kessaci dévoilée à Marseille en présence de sa famille, un an après son assassinat",
+        "link": "https://www.franceinfo.fr/faits-divers/meurtres/une-plaque-commemorative-en-memoire-de-mehdi-kessaci-devoilee-a-marseille-en-presence-de-sa-famille-un-an-apres-son-assassinat_8280989.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Un an jour pour jour après la mort de Mehdi Kessaci, une plaque commémorative a été dévoilée en présence de ses proches, vendredi, sur les lieux de l'assassinat. Benoit Payan, le maire de Marseille, était également présent.",
+        "image": "https://www.franceinfo.fr/pictures/GHaw_VoHN1P9ZrpKwm6e4i1zN2I/0x5:1200x680/432x243/filters:format(jpg)/2026/11/13/6af6f851c5278302665646.jpeg",
+        "publishedAt": "2026-11-13T11:48:26.000Z",
+        "source": "franceinfo",
+        "lang": "fr"
+      },
+      {
+        "id": "ac0035810c4",
+        "title": "En Tunisie, comment un projet d’élevage d’insectes a été au cœur de tensions et de violences",
+        "link": "https://www.lemonde.fr/planete/article/2026/11/13/en-tunisie-comment-un-projet-d-elevage-d-insectes-a-ete-au-c-ur-de-tensions-et-de-violences_6809321_3244.html",
+        "summary": "Après plusieurs semaines de protestations, une usine quasi achevée de protéines d’insectes au sud-est de Tunis a été incendiée fin octobre, peu après la mort d’un manifestant. Le projet, mis depuis à l’arrêt, avait été en partie financé par des investisseurs français.",
+        "image": "https://img.lemde.fr/2026/11/12/88/0/1500/750/644/322/60/0/e8fc781_upload-1-ostbevmeuvj7-nextprotein-1.jpg",
+        "publishedAt": "2026-11-13T11:30:10.000Z",
+        "source": "Le Monde",
+        "lang": "fr"
+      },
+      {
+        "id": "a38a1d07b2b",
+        "title": "Quand le repaire de brigands devient une maison de prière",
+        "link": "https://www.la-croix.com/religion/quand-le-repaire-de-brigands-devient-une-maison-de-priere-20261110",
+        "summary": "Des femmes, des hommes et des dieux. À dix kilomètres de Jérusalem, saint Chariton, victime d’un enlèvement au IVe siècle, a fait du lieu de sa détention un ermitage, puis un monastère. Un lieu de désolation, constate notre chroniqueuse Marie-Farouza Maximos, transfiguré au fil des siècles par la pr",
+        "image": "https://i.la-croix.com/x/2026/03/09/23565902-wp-r-marie-farouza-maximos-credit-magnus-aronsonjp.jpg",
+        "publishedAt": "2026-11-13T11:29:21.000Z",
+        "source": "La Croix",
+        "lang": "fr"
+      },
+      {
+        "id": "aba7c0ef3e7",
+        "title": "REPORTAGE. \"On entend parler d'islam tous les jours\" : à Mantes-la-Jolie, des habitants tentent de surmonter le traumatisme de l'attentat raciste de Trappes",
+        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/reportage-on-entend-parler-d-islam-tous-les-jours-a-mantes-la-jolie-des-habitants-tentent-de-surmonter-le-traumatisme-de-l-attentat-raciste-de-trappes_8280035.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Dans les Yvelines, le choc est encore profond après l'attentat raciste de Trappes et de la Verrière survenu le 23 octobre. À Mantes-la-Jolie, les habitants craignent d’être devenus des cibles en raison de leurs origines.",
+        "image": "https://www.franceinfo.fr/pictures/wSSiXqlI9mU_ac4kf_7rtUV6xto/0x53:1024x629/432x243/filters:format(jpg)/2026/11/12/6af629d1a6ecc230632527.jpg",
+        "publishedAt": "2026-11-13T11:27:24.000Z",
+        "source": "franceinfo",
+        "lang": "fr"
+      }
+    ],
+    "monde": [
+      {
+        "id": "a388c180a1a",
+        "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+        "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+        "summary": "Tech firm sees ‘early signs of stabilisation’ with efforts and says no indication problem was caused by cyber-attack Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Microsoft is scrambling to fix an outage of ",
+        "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d",
+        "publishedAt": "2026-11-13T12:19:57.000Z",
+        "source": "The Guardian",
+        "lang": "en"
+      },
+      {
+        "id": "ae1efe6f1af",
+        "title": "What we know about the global Microsoft outage",
+        "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+        "publishedAt": "2026-11-13T12:09:57.000Z",
+        "source": "BBC News",
+        "lang": "en"
+      },
+      {
+        "id": "a61212767e0",
+        "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+        "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+        "summary": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.",
+        "image": null,
+        "publishedAt": "2026-11-13T12:07:12.000Z",
+        "source": "NPR",
+        "lang": "en"
+      },
+      {
+        "id": "a97fc290349",
+        "title": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
+        "link": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss",
+        "summary": "Finland says Ukraine struck a Russian warship near its coast as Kyiv and Moscow held US-brokered talks in Abu Dhabi.",
+        "image": null,
+        "publishedAt": "2026-11-13T12:06:56.000Z",
+        "source": "Al Jazeera",
+        "lang": "en"
+      },
+      {
+        "id": "a64a69164db",
+        "title": "Teddy Riner lance sa campagne présidentielle dans un hôpital de Saint-Denis",
+        "link": "https://www.france24.com/fr/france/20261113-teddy-riner-lance-sa-campagne-pr%C3%A9sidentielle-dans-un-h%C3%B4pital-de-saint-denis",
+        "summary": "Teddy Riner, candidat surprise à l'élection présidentielle, s'est rendu vendredi à l'hôpital Delafontaine de Saint-Denis pour son premier déplacement de campagne. L'objectif affiché du judoka aspirant à l'Élysée : \"Replacer la santé au cœur de nos priorités.\"",
+        "image": "https://s.france24.com/media/display/59795ace-df59-11f1-a04a-695cb59fade5/w:1024/p:16x9/000-D6W679E-1.jpg",
+        "publishedAt": "2026-11-13T12:02:25.000Z",
+        "source": "France 24",
+        "lang": "fr"
+      },
+      {
+        "id": "ac0035810c4",
+        "title": "En Tunisie, comment un projet d’élevage d’insectes a été au cœur de tensions et de violences",
+        "link": "https://www.lemonde.fr/planete/article/2026/11/13/en-tunisie-comment-un-projet-d-elevage-d-insectes-a-ete-au-c-ur-de-tensions-et-de-violences_6809321_3244.html",
+        "summary": "Après plusieurs semaines de protestations, une usine quasi achevée de protéines d’insectes au sud-est de Tunis a été incendiée fin octobre, peu après la mort d’un manifestant. Le projet, mis depuis à l’arrêt, avait été en partie financé par des investisseurs français.",
+        "image": "https://img.lemde.fr/2026/11/12/88/0/1500/750/644/322/60/0/e8fc781_upload-1-ostbevmeuvj7-nextprotein-1.jpg",
+        "publishedAt": "2026-11-13T11:30:10.000Z",
+        "source": "Le Monde International",
+        "lang": "fr"
+      },
+      {
+        "id": "a49856a15e6",
+        "title": "Spectacular try helps England to Wheelchair Rugby League World Cup glory",
+        "link": "https://www.abc.net.au/news/2026-11-13/england-beats-france-in-wheelchair-rugby-league-final/107384352",
+        "summary": "England has been crowned Wheelchair Rugby League World Cup champion for a third time, defeating France 50-38 as Australia finished its campaign with a comprehensive victory in the third-place play-off.",
+        "image": "https://live-production.wcms.abc-cdn.net.au/4da0c584b4cf032afc2ede06f15351e5?impolicy=wcms_crop_resize&cropH=2116&cropW=3761&xPos=0&yPos=132&width=862&height=485",
+        "publishedAt": "2026-11-13T11:21:43.000Z",
+        "source": "ABC News (Australie)",
+        "lang": "en"
+      },
+      {
+        "id": "a751483a803",
+        "title": "Humanitarian situation in Gaza worsens amid political deadlock",
+        "link": "https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-world-4025-rdf",
+        "summary": "In war-battered Gaza, heavy rain flooded and damaged thousands of tents. Several people died. Could pressure by Trump's Board of Peace on Israel and Hamas help to ease the humanitarian crisis amid stalled peace talks?",
+        "image": null,
+        "publishedAt": "2026-11-13T09:30:00.000Z",
+        "source": "Deutsche Welle",
+        "lang": "en"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "franceinfo (France)",
+      "url": "https://www.francetvinfo.fr/france.rss",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Le Monde (France)",
+      "url": "https://www.lemonde.fr/rss/une.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Le Figaro (France)",
+      "url": "https://www.lefigaro.fr/rss/figaro_actualites-a-la-une.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Libération (France)",
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Ouest-France (France)",
+      "url": "https://www.ouest-france.fr/rss/une",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "La Croix (France)",
+      "url": "https://www.la-croix.com/RSS",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "L'Express (France)",
+      "url": "https://www.lexpress.fr/rss/alaune.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Le Parisien (France)",
+      "url": "https://feeds.leparisien.fr/leparisien/rss",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "BBC News (Monde)",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "The Guardian (Monde)",
+      "url": "https://www.theguardian.com/world/rss",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Deutsche Welle (Monde)",
+      "url": "https://rss.dw.com/rdf/rss-en-world",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Al Jazeera (Monde)",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "NPR (Monde)",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "ABC News (Australie) (Monde)",
+      "url": "https://www.abc.net.au/news/feed/2942460/rss.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "France 24 (Monde)",
+      "url": "https://www.france24.com/fr/rss",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Le Monde International (Monde)",
+      "url": "https://www.lemonde.fr/international/rss_full.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "RFI (Monde)",
+      "url": "https://www.rfi.fr/fr/rss",
+      "ok": true,
+      "count": 12
+    }
+  ],
+  "meteo": {
+    "ok": false,
+    "city": "Montaigu-Vendée",
+    "source": "Open-Meteo",
+    "sourceUrl": "https://open-meteo.com/en/docs",
+    "fetchedAt": null
+  },
+  "carburants": {
+    "ok": false,
+    "prices": [],
+    "best": {},
+    "stationsVerifiees": 0,
+    "source": "prix-carburants.gouv.fr",
+    "sourceUrl": "https://www.prix-carburants.gouv.fr/rubrique/opendata/"
+  },
+  "culture": [
+    {
+      "title": "3 artistes, 3 sensibilités, un même souffle !",
+      "discipline": "Peinture et photographie",
+      "artist": "Céline Ranger, Évelyne Gaillou et Bujo",
+      "city": "Clisson",
+      "venue": "Galerie Saint-Antoine, 7 rue Saint-Antoine",
+      "start": "2026-11-06",
+      "end": "2026-11-15",
+      "details": "Entrée gratuite ; du mercredi au dimanche, de 11 h à 18 h.",
+      "source": "Destination Vignoble Nantais",
+      "sourceUrl": "https://www.destination-vignoble-nantais.com/que-faire-vignoble-nantais/agenda/3-artistes-3-sensibilites-un-meme-souffle-clisson-fr-6875540/"
+    },
+    {
+      "title": "Océanissime Nantes 2026",
+      "discipline": "Peinture, gravure, photographie et sculpture",
+      "artist": "Seize membres de l’Académie des Arts et Sciences de la Mer",
+      "city": "Nantes",
+      "venue": "Maison de la Mer, 54 quai de la Fosse",
+      "start": "2026-11-07",
+      "end": "2026-11-22",
+      "details": "Plus de cent œuvres ; entrée gratuite. Horaires détaillés sur le site de Nantes Métropole.",
+      "source": "Nantes Métropole",
+      "sourceUrl": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/45675254_exposition-oceanissime-nantes-2026"
+    },
+    {
+      "title": "La figure de l’héroïne",
+      "discipline": "Peinture et histoire de l’art",
+      "artist": "Exposition consacrée aux représentations féminines du XIXe siècle",
+      "city": "La Roche-sur-Yon",
+      "venue": "Musée – Espace Malraux",
+      "start": "2026-11-03",
+      "end": "2027-02-07",
+      "details": "Exposition temporaire. Vérifier les horaires d’ouverture avant la visite.",
+      "source": "Ville de La Roche-sur-Yon",
+      "sourceUrl": "https://larochesuryon.fr/actualites/les-heroines-du-xixe-siecle-sexposent-a-la-roche/"
+    }
+  ],
+  "history": [],
+  "checks": {
+    "actualites": true,
+    "meteo": false,
+    "carburants": false
+  }
+}
