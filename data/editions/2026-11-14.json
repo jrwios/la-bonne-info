@@ -1,0 +1,1729 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T11:41:37.724Z",
+  "status": "complète",
+  "stories": {
+    "france": [
+      {
+        "id": "s1aeee71860",
+        "topic": "international",
+        "title": "Propositions américaines de négociations de paix et concessions territoriales en Ukraine",
+        "context": "Des pourparlers de paix se sont tenus récemment à Abou Dhabi dans le cadre du conflit en Ukraine. Dans ce contexte, la question des garanties de sécurité et du statut des territoires occupés fait l'objet de discussions internationales.",
+        "summary": "Le président ukrainien Volodymyr Zelensky a affirmé que les États-Unis ont évoqué la possibilité de concessions territoriales, portant sur le Donbass, en échange d'une adhésion de l'Ukraine à l'Otan. Cette option est évoquée pour la première fois selon le dirigeant ukrainien, qui envisage la tenue d'un référendum sur le sujet. Volodymyr Zelensky a rappelé que les forces ukrainiennes ne prévoient pas de se retirer et a mis en garde contre les intentions militaires de la Russie à l'approche de l'hiver. Parallèlement, les pays membres de l'Union européenne ont désigné leurs représentants pour d'éventuels pourparlers, tout en maintenant des divergences internes sur l'aide financière accordée à Kiev.",
+        "stakes": [
+          "Quelles seront les conséquences d'un éventuel référendum sur les conditions d'un accord de paix ?",
+          "Comment les pays européens vont-ils harmoniser leur soutien financier et politique à l'Ukraine ?",
+          "Quelle sera l'évolution de la position américaine dans le cadre des négociations internationales ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que les Etats-Unis ont évoqué des concessions territoriales en échange d’une adhésion à l’OTAN",
+            "link": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-les-etats-unis-ont-evoque-des-concessions-territoriales-en-echange-d-une-adhesion-a-l-otan_6808609_3210.html",
+            "publishedAt": "2026-11-14T11:13:27.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Guerre en Ukraine : Zelensky dévoile une proposition américaine de céder le Donbass contre une adhésion à l’Otan",
+            "link": "https://www.la-croix.com/international/ukraine-russie-jour-1725-point-conflit-ukrainien-poutine-aujourdhui-20261114",
+            "publishedAt": "2026-11-14T11:30:05.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "L'Express",
+            "title": "Ukraine : Washington aurait proposé une cession du Donbass en échange d'une adhésion à l'Otan, Volodymyr Zelensky envisage un référendum",
+            "link": "https://www.lexpress.fr/monde/europe/ukraine-washington-aurait-propose-une-cession-du-donbass-en-echange-dune-adhesion-a-lotan-volodymyr-VJOP65NI2JDMNEU4FSHCOL32RQ/",
+            "publishedAt": "2026-11-14T10:12:15.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/12/543/0/6754/3377/644/322/60/0/d5b1d16_ftp-1-ewrwnghrwutf-26d9ac290f55483da5fb4b7188da8cda-1-261a4dffa5174eaeb7abb0ca5e2ea62b.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-les-etats-unis-ont-evoque-des-concessions-territoriales-en-echange-d-une-adhesion-a-l-otan_6808609_3210.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "US Peace Negotiation Proposals and Territorial Concessions in Ukraine",
+            "context": "Peace talks were recently held in Abu Dhabi as part of the conflict in Ukraine. In this context, the issue of security guarantees and the status of occupied territories is the subject of international discussions.",
+            "summary": "Ukrainian President Volodymyr Zelensky stated that the United States raised the possibility of territorial concessions regarding the Donbas in exchange for Ukraine's NATO membership. According to the Ukrainian leader, this option is being brought up for the first time, and he is considering holding a referendum on the matter. Volodymyr Zelensky reiterated that Ukrainian forces do not plan to withdraw and warned against Russia's military intentions as winter approaches. Meanwhile, European Union member states have appointed their representatives for potential talks while maintaining internal disagreements over financial aid granted to Kyiv.",
+            "stakes": [
+              "What will be the consequences of a potential referendum on the conditions of a peace agreement?",
+              "How will European countries harmonize their financial and political support for Ukraine?",
+              "How will the US position evolve within the framework of international negotiations?"
+            ]
+          },
+          "es": {
+            "title": "Propuestas estadounidenses de negociaciones de paz y concesiones territoriales en Ucrania",
+            "context": "Recientemente se celebraron conversaciones de paz en Abu Dabi en el marco del conflicto en Ucrania. En este contexto, la cuestión de las garantías de seguridad y el estatus de los territorios ocupados es objeto de debates internacionales.",
+            "summary": "El presidente ucraniano, Volodímir Zelenski, afirmó que Estados Unidos planteó la posibilidad de concesiones territoriales en el Dombás a cambio de la adhesión de Ucrania a la OTAN. Esta opción se menciona por primera vez según el dirigente ucraniano, quien contempla la celebración de un referéndum sobre el tema. Volodímir Zelenski recordó que las fuerzas ucranianas no prevén retirarse y advirtió sobre las intenciones militares de Rusia ante la llegada del invierno. Paralelamente, los países miembros de la Unión Europea han designado a sus representantes para eventuales conversaciones, al tiempo que mantienen divergencias internas sobre la ayuda financiera concedida a Kiev.",
+            "stakes": [
+              "¿Cuáles serán las consecuencias de un posible referéndum sobre las condiciones de un acuerdo de paz?",
+              "¿Cómo armonizarán los países europeos su apoyo financiero y político a Ucrania?",
+              "¿Cómo evolucionará la postura estadounidense en el marco de las negociaciones internacionales?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sa51056ec73",
+        "topic": "international",
+        "title": "Une panne majeure de communication paralyse le trafic aérien américain",
+        "context": "La Federal Aviation Administration gère l'ensemble de la circulation aérienne au-dessus du territoire des États-Unis. La fiabilité de ses systèmes informatiques et de communication est essentielle au maintien du trafic commercial.",
+        "summary": "Une importante panne de communication a entraîné la suspension des vols sur le territoire américain pendant plusieurs heures. Cet incident a provoqué l'annulation de plusieurs milliers de vols et affecté plus d'un million de passagers dans les aéroports du pays. À l'aéroport JFK de New York, d'importantes perturbations et des situations de confusion ont été constatées dans les terminaux. Cet événement suscite de vives réactions de la part de voyageurs bloqués et relance le débat sur l'état des infrastructures de navigation aérienne. Aucune interruption de cette ampleur n'avait été enregistrée aux États-Unis depuis les événements du 11 septembre 2001.",
+        "stakes": [
+          "Quelles mesures seront prises pour moderniser les équipements de la navigation aérienne américaine ?",
+          "Quel sera l'impact financier de cette interruption sur les compagnies aériennes ?",
+          "Comment les autorités comptent-elles prévenir de futures défaillances systémiques ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Figaro",
+            "title": "«Ce n’est pas arrivé depuis le 11-Septembre» : l’inquiétude et l’agacement des centaines de milliers de passagers bloqués dans les aéroports américains",
+            "link": "https://www.lefigaro.fr/international/ce-n-est-pas-arrive-depuis-le-11-septembre-l-inquietude-et-l-agacement-des-centaines-de-milliers-de-passagers-bloques-dans-les-aeroports-americains-20261114",
+            "publishedAt": "2026-11-14T09:52:57.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Aux États-Unis, la panne du trafic aérien a semé le chaos et inquiète sur l’état des infrastructures",
+            "link": "https://www.la-croix.com/international/aux-etats-unis-la-panne-du-trafic-aerien-a-seme-le-chaos-et-ravive-les-inquietudes-sur-l-etat-des-infrastructures-20261114",
+            "publishedAt": "2026-11-14T09:26:34.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/14/c3222d5538ea8ab7a58da3295589ef7662cdb843a6985aeb27c964ee45856a1e.jpg",
+          "credit": "Le Figaro",
+          "link": "https://www.lefigaro.fr/international/ce-n-est-pas-arrive-depuis-le-11-septembre-l-inquietude-et-l-agacement-des-centaines-de-milliers-de-passagers-bloques-dans-les-aeroports-americains-20261114"
+        },
+        "i18n": {
+          "en": {
+            "title": "Major Communication Outage Paralyzes US Air Traffic",
+            "context": "The Federal Aviation Administration manages all air traffic over United States territory. The reliability of its IT and communication systems is essential to maintaining commercial traffic.",
+            "summary": "A major communication outage resulted in the suspension of flights across US territory for several hours. This incident caused the cancellation of several thousand flights and affected over a million passengers at airports nationwide. At JFK Airport in New York, significant disruptions and confusion were observed in the terminals. This event has sparked strong reactions from stranded travelers and revived the debate over the state of air navigation infrastructure. No disruption of this magnitude had been recorded in the United States since the events of September 11, 2001.",
+            "stakes": [
+              "What measures will be taken to modernize American air navigation equipment?",
+              "What will be the financial impact of this interruption on airlines?",
+              "How do authorities intend to prevent future systemic failures?"
+            ]
+          },
+          "es": {
+            "title": "Un apagón masivo de comunicaciones paraliza el tráfico aéreo estadounidense",
+            "context": "La Administración Federal de Aviación gestiona todo el tráfico aéreo sobre el territorio de Estados Unidos. La fiabilidad de sus sistemas informáticos y de comunicación es esencial para mantener el tráfico comercial.",
+            "summary": "Una importante interrupción en las comunicaciones provocó la suspensión de los vuelos en territorio estadounidense durante varias horas. Este incidente causó la cancelación de varios miles de vuelos y afectó a más de un millón de pasajeros en los aeropuertos del país. En el aeropuerto JFK de Nueva York se constataron importantes perturbaciones y situaciones de confusión en las terminales. Este acontecimiento suscita reacciones encontradas por parte de los viajeros varados y reaviva el debate sobre el estado de las infraestructuras de navegación aérea. No se había registrado ninguna interrupción de esta magnitud en Estados Unidos desde los atentados del 11 de septiembre de 2001.",
+            "stakes": [
+              "¿Qué medidas se tomarán para modernizar los equipos de navegación aérea estadounidense?",
+              "¿Cuál será el impacto financiero de esta interrupción en las aerolíneas?",
+              "¿Cómo pretenden las autoridades prevenir futuras fallas sistémicas?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s9a86f5c924",
+        "topic": "societe",
+        "title": "Appel à la grève et mobilisations sociales dans la fonction publique",
+        "context": "Le pouvoir d'achat et la revalorisation des salaires sont au cœur des revendications des agents de la fonction publique. Le gouvernement a réuni les organisations syndicales pour présenter ses arbitrages budgétaires et salariaux.",
+        "summary": "Le gouvernement a annoncé un alignement des bas traitements des agents publics sur la hausse du smic prévue au 1er décembre. Ces propositions ont été jugées insuffisantes par la CFDT, qui a rejoint l'appel à la grève dans la fonction publique prévu pour le 17 novembre. Les syndicats continuent de réclamer le dégel du point d'indice afin de compenser la baisse du pouvoir d'achat. En parallèle, des dizaines de rassemblements sont organisés à travers le pays dans le sillage des mobilisations lycéennes et contre la vie chère. Les autorités ont prévu un dispositif de sécurité mobilisant environ 70 000 policiers pour encadrer ces événements.",
+        "stakes": [
+          "Quelle sera l'ampleur de la mobilisation lors de la journée de grève du 17 novembre ?",
+          "Le gouvernement ajustera-t-il sa politique budgétaire concernant le point d'indice ?",
+          "Comment les contestations lycéennes et sociales vont-elles évoluer à court terme ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "La CFDT rejoint l'appel à la grève dans la fonction publique le 17 novembre, estimant que les propositions du gouvernement \"ne constituent pas de véritables avancées\"",
+            "link": "https://www.franceinfo.fr/economie/greve/la-cfdt-rejoint-l-appel-a-la-greve-dans-la-fonction-publique-le-17-novembre-estimant-que-les-propositions-du-gouvernement-ne-constituent-pas-de-veritables-avancees_8281298.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-13T16:15:52.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Fonction publique, le gouvernement annonce des mesures mais ne calme pas la colère",
+            "link": "https://www.la-croix.com/economie/fonction-publique-le-gouvernement-annonce-des-mesures-mais-ne-calme-pas-la-colere-20261114",
+            "publishedAt": "2026-11-14T10:57:35.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Mouvement social : 50 à 60 cortèges attendus ce samedi, 70 000 policiers mobilisés",
+            "link": "https://www.la-croix.com/societe/direct-acte-v-manifestation-14-novembre-colere-crise-sociale-violences-aujourdhui-20261031-20261114",
+            "publishedAt": "2026-11-14T10:18:51.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/Ns72V85T1oWQrDiGqM2N20nnjoY/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af700b6b4116511464260.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/economie/greve/la-cfdt-rejoint-l-appel-a-la-greve-dans-la-fonction-publique-le-17-novembre-estimant-que-les-propositions-du-gouvernement-ne-constituent-pas-de-veritables-avancees_8281298.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Strike Call and Social Protests in the Civil Service",
+            "context": "Purchasing power and salary revaluation are at the heart of civil servants' demands. The government has convened union organizations to present its budgetary and wage decisions.",
+            "summary": "The government announced an alignment of low salaries for public servants with the minimum wage increase scheduled for December 1. These proposals were deemed insufficient by the CFDT, which joined the call for a civil service strike planned for November 17. Unions continue to demand the unfreezing of the index point to offset the decline in purchasing power. Concurrently, dozens of rallies are being organized across the country following high school student mobilizations and against the high cost of living. Authorities have deployed a security apparatus involving approximately 70,000 police officers to oversee these events.",
+            "stakes": [
+              "What will be the scale of mobilization during the November 17 strike day?",
+              "Will the government adjust its budgetary policy regarding the index point?",
+              "How will high school and social protests evolve in the short term?"
+            ]
+          },
+          "es": {
+            "title": "Convocatoria de huelga y movilizaciones sociales en la función pública",
+            "context": "El poder adquisitivo y la revalorización salarial están en el centro de las reivindicaciones de los agentes de la función pública. El gobierno reunió a las organizaciones sindicales para presentar sus arbitrajes presupuestarios y salariales.",
+            "summary": "El gobierno anunció una equiparación de los salarios bajos de los empleados públicos con el incremento del salario mínimo previsto para el 1 de diciembre. Estas propuestas fueron consideradas insuficientes por la CFDT, que se sumó a la convocatoria de huelga en la función pública prevista para el 17 de noviembre. Los sindicatos siguen exigiendo el descongelamiento del punto índice para compensar la caída del poder adquisitivo. Paralelamente, se organizan decenas de concentraciones en todo el país a raíz de las movilizaciones estudiantiles y contra el alto coste de la vida. Las autoridades han previsto un dispositivo de seguridad que mobiliza a unos 70 000 policías para supervisar estos acontecimientos.",
+            "stakes": [
+              "¿Cuál será la magnitud de la movilización durante la jornada de huelga del 17 de noviembre?",
+              "¿Ajustará el gobierno su política presupuestaria respecto al punto índice?",
+              "¿Cómo evolucionarán las protestas estudiantiles y sociales a corto plazo?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s28db5435a5",
+        "topic": "environnement",
+        "title": "Intempéries, éboulements et vigilance orange dans le Sud-Est de la France",
+        "context": "Le Sud-Est de la France fait face régulièrement à des phénomènes météorologiques violents à l'automne. De fortes précipitations accompagnées de vents soutenus touchent actuellement plusieurs départements méditerranéens.",
+        "summary": "Le passage de la tempête Charles et des épisodes pluviométriques ont entraîné d'importants dégâts dans le Sud-Est. À La Turbie, dans les Alpes-Maritimes, un éboulement de trente tonnes de rochers s'est produit sur une falaise, endommageant quatre habitations. Bien qu'aucune victime ne soit à déplorer, plusieurs résidents ont dû être évacués en urgence et ne peuvent réintégrer leur logement. Par ailleurs, Météo-France a placé les départements du Gard et des Bouches-du-Rhône en vigilance orange pour orages et inondations. Les services météorologiques préviennent des risques de ruissellement et n'excluent pas une extension de l'alerte à d'autres zones.",
+        "stakes": [
+          "Quelles mesures de sécurisation seront mises en œuvre pour les falaises exposées ?",
+          "Comment les communes touchées géreront-elles le relogement des sinistrés ?",
+          "Quelle sera l'étendue des dégâts matériels suite aux intempéries annoncées ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "30 tonnes de roches s'effondrent après la tempête",
+            "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/30-tonnes-de-roches-s-effondrent-apres-la-tempete_8281649.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-13T21:00:02.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "franceinfo",
+            "title": "Dans les Alpes-Maritimes, 30 tonnes de roches s'effondrent à cause des intempéries",
+            "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/dans-les-alpes-maritimes-30-tonnes-de-roches-s-effondrent-a-cause-des-intemperies_8281610.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-13T19:54:09.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "franceinfo",
+            "title": "La tempête Charles provoque des éboulements en série dans les Alpes-Maritimes",
+            "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/tempete-charles-des-eboulements-en-serie-provoques-par-les-intemperies-dans-les-alpes-maritimes_8281064.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-13T15:57:18.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde",
+            "title": "Pluie et inondations : les départements du Gard et des Bouches-du-Rhône placés en vigilance orange à partir de samedi soir",
+            "link": "https://www.lemonde.fr/planete/article/2026/11/14/pluie-et-inondations-les-departements-du-gard-et-des-bouches-du-rhone-places-en-vigilance-orange-a-partir-de-samedi-soir_6810050_3244.html",
+            "publishedAt": "2026-11-14T10:53:47.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "Orages et fortes pluies : le Gard et les Bouches-du-Rhône placés en vigilance orange dans la soirée",
+            "link": "https://www.liberation.fr/environnement/climat/orages-et-fortes-pluies-le-gard-et-les-bouches-du-rhone-places-en-vigilance-orange-dans-la-soiree-20261114_4LXU2ENXP5DXJLM7VCSFSGUGSA/",
+            "publishedAt": "2026-11-14T10:46:52.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/knLdZpArUap2JS7wVYmvzkKw2Sc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/13/6af76dddb4722689960330.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/30-tonnes-de-roches-s-effondrent-apres-la-tempete_8281649.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Bad Weather, Landslides, and Orange Alert in Southeastern France",
+            "context": "Southeastern France regularly faces violent weather phenomena in the autumn. Heavy rainfall accompanied by sustained winds is currently affecting several Mediterranean departments.",
+            "summary": "The passage of Storm Charles and rainfall episodes have caused significant damage in the Southeast. In La Turbie, in the Alpes-Maritimes, a landslide of thirty tons of rock occurred on a cliff, damaging four homes. Although no casualties have been reported, several residents had to be evacuated urgently and cannot return to their homes. Furthermore, Météo-France has placed the Gard and Bouches-du-Rhône departments on orange alert for storms and flooding. Meteorological services warn of runoff risks and do not rule out extending the alert to other areas.",
+            "stakes": [
+              "What security measures will be implemented for exposed cliffs?",
+              "How will affected municipalities manage the relocation of disaster victims?",
+              "What will be the extent of material damage following the announced bad weather?"
+            ]
+          },
+          "es": {
+            "title": "Inclemencias meteorológicas, desprendimientos y alerta naranja en el sureste de Francia",
+            "context": "El sureste de Francia se enfrenta regularmente a fenómenos meteorológicos violentos en otoño. Fuertes precipitaciones acompañadas de vientos sostenidos afectan actualmente a varios departamentos mediterráneos.",
+            "summary": "El paso de la tormenta Charles y los episodios de lluvias han provocado importantes daños en el sureste. En La Turbie (Alpes Marítimos), se produjo el desprendimiento de treinta toneladas de rocas en un acantilado que dañó cuatro viviendas. Aunque no se lamentan víctimas, varios residentes tuvieron que ser evacuados de urgencia y no pueden regresar a sus hogares. Por otra parte, Météo-France colocó a los departamentos de Gard y Bocas del Ródano en alerta naranja por tormentas e inundaciones. Los servicios meteorológicos advierten de riesgos de escorrentía y no descartan ampliar la alerta a otras zonas.",
+            "stakes": [
+              "¿Qué medidas de seguridad se implementarán en los acantilados expuestos?",
+              "¿Cómo gestionarán los municipios afectados el realojamiento de los damnificados?",
+              "¿Cuál será la magnitud de los daños materiales tras las inclemencias meteorológicas anunciadas?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s2536e0f8e6",
+        "topic": "justice",
+        "title": "Un adolescent tué lors d'une course sauvage près de Clermont-Ferrand",
+        "context": "Les rassemblements non autorisés de véhicules et les courses sauvages se déroulent fréquemment dans des zones industrielles ou périphériques. Ces événements posent d'importantes questions de sécurité publique et de contrôle du territoire.",
+        "summary": "Un adolescent de 15 ans a perdu la vie dans la nuit du vendredi 13 au samedi 14 novembre à la suite d'un accident survenu près de Clermont-Ferrand. Le jeune spectateur a été percuté lors d'une course automobile non autorisée qui se tenait dans une zone industrielle. Après l'impact, le conducteur impliqué a pris la fuite et fait l'objet de recherches actives par les forces de l'ordre. Une enquête judiciaire a été ouverte pour homicide routier aggravé afin de déterminer les circonstances exactes du drame. Les services de police poursuivent leurs investigations pour localiser le véhicule et son chauffeur.",
+        "stakes": [
+          "Comment les forces de l'ordre parviendront-elles à identifier et interpeller le fuyard ?",
+          "Quelles mesures de prévention seront prises pour empêcher ces rassemblements illégaux ?",
+          "Quelles sanctions judiciaires seront retenues dans le cadre de l'enquête pour homicide routier ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Un adolescent tué lors d'une course de voitures sauvage près de Clermont-Ferrand",
+            "link": "https://www.franceinfo.fr/faits-divers/un-adolescent-tue-lors-d-une-course-de-voitures-sauvage-pres-de-clermont-ferrand_8282270.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-14T09:31:26.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "Un adolescent de 15 ans tué lors d’une course de voitures sauvage près de Clermont-Ferrand",
+            "link": "https://www.liberation.fr/societe/police-justice/un-adolescent-de-15-ans-tue-lors-dune-course-de-voitures-sauvage-pres-de-clermont-ferrand-20261114_MLWGAC3AMVG5DJOMBNLGNZQ3CU/",
+            "publishedAt": "2026-11-14T10:17:02.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "Un adolescent de 15 ans tué lors d’une course de voitures sauvage près de Clermont-Ferrand, un conducteur recherché",
+            "link": "https://www.ouest-france.fr/faits-divers/accidents/un-adolescent-de-15-ans-tue-lors-dune-course-de-voitures-sauvage-pres-de-clermont-ferrand-un-conducteur-recherche-e279af2e-e010-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-14T10:20:24.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/fGPzaPpsDVog4iuAZmPcC3YX0QE/432x243/filters:format(jpg)/2026/08/19/6a857da2e3c87457062436.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/faits-divers/un-adolescent-tue-lors-d-une-course-de-voitures-sauvage-pres-de-clermont-ferrand_8282270.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Teenager Killed During Illegal Street Race Near Clermont-Ferrand",
+            "context": "Unauthorized vehicle gatherings and street races frequently take place in industrial or peripheral areas. These events raise major public safety and territorial control issues.",
+            "summary": "A 15-year-old teenager lost their life on the night of Friday, November 13 to Saturday, November 14, following an accident near Clermont-Ferrand. The young spectator was struck during an unauthorized car race held in an industrial zone. After the impact, the driver involved fled and is the subject of an active manhunt by law enforcement. A judicial investigation for aggravated vehicular homicide has been opened to determine the exact circumstances of the tragedy. Police services are continuing their investigations to locate the vehicle and its driver.",
+            "stakes": [
+              "How will law enforcement manage to identify and apprehend the fleeing driver?",
+              "What prevention measures will be taken to prevent these illegal gatherings?",
+              "What judicial sanctions will be applied within the framework of the vehicular homicide investigation?"
+            ]
+          },
+          "es": {
+            "title": "Un adolescente muere en una carrera ilegal cerca de Clermont-Ferrand",
+            "context": "Las concentraciones de vehículos no autorizadas y las carreras ilegales ocurren con frecuencia en zonas industriales o periféricas. Estos eventos plantean importantes cuestiones de seguridad pública y control territorial.",
+            "summary": "Un adolescente de 15 años perdió la vida en la noche del viernes 13 al sábado 14 de noviembre tras un accidente ocurrido cerca de Clermont-Ferrand. El joven espectador fue atropellado durante una carrera automovilística no autorizada celebrada en una zona industrial. Tras el impacto, el conductor implicado se dio a la fuga y es objeto de una búsqueda activa por parte de las fuerzas de seguridad. Se ha abierto una investigación judicial por homicidio vial agravado para determinar las circunstancias exactas del drama. Los servicios policiales continúan sus investigaciones para localizar el vehículo y a su conductor.",
+            "stakes": [
+              "¿Cómo lograrán las fuerzas del orden identificar y detener al fugitivo?",
+              "¿Qué medidas de prevención se tomarán para impedir estas concentraciones ilegales?",
+              "¿Qué sanciones judiciales se impondrán en el marco de la investigación por homicidio vial?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s6918bb84fb",
+        "topic": "societe",
+        "title": "Tensions et actes de violence au sein de plusieurs universités françaises",
+        "context": "Plusieurs établissements d'enseignement supérieur connaissent actuellement des mouvements de contestation étudiante. Dans ce climat tendu, la gouvernance de certaines universités fait face à de fortes pressions.",
+        "summary": "Un vice-président de l'université de Versailles - Saint-Quentin-en-Yvelines a été agressé à l'arme blanche dans son bureau. La victime a été prise en charge et son pronostic vital n'est pas engagé, tandis qu'une enquête est en cours. Le ministre de l'Enseignement supérieur a réagi en évoquant un contexte de violences sur les campus. Parallèlement, la présidente de l'université de Lorraine a porté plainte après avoir reçu des menaces de mort sur les réseaux sociaux. Ces menaces font suite au refus de l'établissement de valider automatiquement un semestre perturbé par la contestation étudiante.",
+        "stakes": [
+          "Quelles mesures de sécurité supplémentaires seront déployées dans les campus ?",
+          "Comment la gouvernance universitaire parviendra-t-elle à rétablir le dialogue avec les étudiants ?",
+          "Quelles seront les suites judiciaires données aux agressions et menaces recensées ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Un vice-président de l’université de Versailles - Saint-Quentin-en-Yvelines agressé à l’arme blanche dans les locaux de l’établissement",
+            "link": "https://www.lemonde.fr/societe/article/2026/11/14/un-vice-president-de-l-universite-de-versailles-saint-quentin-en-yvelines-agresse-a-l-arme-blanche-pas-de-blessures-graves_6809950_3224.html",
+            "publishedAt": "2026-11-14T09:31:58.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "Mobilisation étudiante : la présidente de l’université de Lorraine porte plainte après des menaces de mort",
+            "link": "https://www.liberation.fr/societe/education/mobilisation-etudiante-la-presidente-de-luniversite-de-lorraine-porte-plainte-apres-des-menaces-de-mort-20261114_TE6MTBNTJFEFHMTN2VDVZQEUMI/",
+            "publishedAt": "2026-11-14T11:29:29.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "Le vice-président de l’université Versailles-Saint-Quentin agressé à l’arme blanche dans son bureau",
+            "link": "https://www.liberation.fr/societe/le-vice-president-de-luniversite-versailles-saint-quentin-agresse-a-larme-blanche-dans-son-bureau-20261114_P5FQSS6AGZFPJMR56AVGQPDFTI/",
+            "publishedAt": "2026-11-14T09:03:06.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "La présidente de l’université de Lorraine porte plainte pour menaces, une enquête ouverte",
+            "link": "https://www.ouest-france.fr/education/etudiant/universites/la-presidente-de-luniversite-de-lorraine-porte-plainte-pour-menaces-une-enquete-ouverte-d132505c-e017-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-14T11:17:22.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/05/26/250/0/3000/1500/644/322/60/0/3333cf8_upload-1-4dyxyjockhaz-frame-1142.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/societe/article/2026/11/14/un-vice-president-de-l-universite-de-versailles-saint-quentin-en-yvelines-agresse-a-l-arme-blanche-pas-de-blessures-graves_6809950_3224.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Tensions and Acts of Violence Within Several French Universities",
+            "context": "Several higher education institutions are currently experiencing student protest movements. In this tense climate, the governance of certain universities is facing intense pressure.",
+            "summary": "A vice-president of the University of Versailles Saint-Quentin-en-Yvelines was assaulted with a bladed weapon in his office. The victim received medical attention and his life is not in danger, while an investigation is underway. The Minister of Higher Education reacted by citing a context of violence on campuses. Meanwhile, the president of the University of Lorraine filed a complaint after receiving death threats on social media. These threats follow the institution's refusal to automatically validate a semester disrupted by student protests.",
+            "stakes": [
+              "What additional security measures will be deployed on campuses?",
+              "How will university governance manage to restore dialogue with students?",
+              "What legal follow-up will be given to the recorded assaults and threats?"
+            ]
+          },
+          "es": {
+            "title": "Tensiones y actos de violencia en varias universidades francesas",
+            "context": "Varios establecimientos de educación superior atraviesan actualmente movimientos de protesta estudiantil. En este clima tenso, la gobernanza de algunas universidades se enfrenta a fuertes presiones.",
+            "summary": "Un vicepresidente de la Universidad de Versalles-Saint-Quentin-en-Yvelines fue agredido con arma blanca en su despacho. La víctima recibió atención médica y su pronóstico vital no corre peligro, mientras se lleva a cabo una investigación. El ministro de Enseñanza Superior reaccionó mencionando un contexto de violencia en los campus. Paralelamente, la presidenta de la Universidad de Lorena presentó una denuncia tras recibir amenazas de muerte en las redes sociales. Estas amenazas se producen tras la negativa del centro a validar automáticamente un semestre perturbado por la protesta estudiantil.",
+            "stakes": [
+              "¿Qué medidas de seguridad adicionales se desplegarán en los campus?",
+              "¿Cómo logrará la gobernanza universitaria restablecer el diálogo con los estudiantes?",
+              "¿Qué consecuencias judiciales se derivarán de las agresiones y amenazas registradas?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s3a6e25fb8f",
+        "topic": "politique",
+        "title": "Adoption par le Sénat d'un amendement sur le temps de travail hebdomadaire",
+        "context": "L'examen du budget de la Sécurité sociale donne lieu à des débats récurrents sur le financement des comptes publics. La durée légale du travail fixée à 35 heures hebdomadaires demeure un sujet de discussion politique majeur.",
+        "summary": "Dans le cadre de la réflexion sur le budget de la Sécurité sociale pour 2027, le Sénat a voté un amendement proposant d'augmenter le temps de travail hebdomadaire de deux heures. Cette mesure votée par la majorité sénatoriale de droite vise à relancer le débat sur l'accroissement de l'activité professionnelle en France. La disposition adoptée au Palais du Luxembourg ne possède cependant pas de portée normative directe. Elle s'inscrit principalement dans une démarche politique tendant à afficher la priorité donnée à l'augmentation de la durée du travail. Les discussions sur l'équilibre des finances sociales se poursuivent au Parlement.",
+        "stakes": [
+          "Cette initiative sénatoriale aura-t-elle un impact sur les futurs textes législatifs ?",
+          "Comment les organisations syndicales réagiront-elles à ce retour du débat sur le temps de travail ?",
+          "Quelles autres pistes budgétaires seront retenues pour équilibrer le budget de la Sécurité sociale ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Budget de la « Sécu » 2027 : le retour du débat sur les 35 heures au Sénat",
+            "link": "https://www.lemonde.fr/politique/article/2026/11/14/budget-de-la-secu-2027-le-retour-du-debat-sur-les-35-heures-au-senat_6810049_823448.html",
+            "publishedAt": "2026-11-14T10:50:43.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/10/21/500/0/6000/3000/644/322/60/0/5ac7859_upload-1-ivtxpqth76uc-cbi1349061.JPG",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/politique/article/2026/11/14/budget-de-la-secu-2027-le-retour-du-debat-sur-les-35-heures-au-senat_6810049_823448.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Senate Adopts Amendment on Weekly Working Hours",
+            "context": "The review of the Social Security budget gives rise to recurring debates on the funding of public accounts. The legal working week set at 35 hours remains a major political discussion topic.",
+            "summary": "As part of the reflection on the 2027 Social Security budget, the Senate voted for an amendment proposing to increase the weekly working time by two hours. This measure, voted by the right-wing senatorial majority, aims to revive the debate on increasing professional activity in France. However, the provision adopted at the Palais du Luxembourg lacks direct normative effect. It is primarily part of a political approach aimed at highlighting the priority given to extending working hours. Discussions on the balance of social finances continue in Parliament.",
+            "stakes": [
+              "Will this senatorial initiative have an impact on future legislative texts?",
+              "How will trade union organizations react to this return of the debate on working hours?",
+              "What other budgetary avenues will be chosen to balance the Social Security budget?"
+            ]
+          },
+          "es": {
+            "title": "El Senado adopta una enmienda sobre la jornada laboral semanal",
+            "context": "El examen del presupuesto de la Seguridad Social da lugar a debates recurrentes sobre la financiación de las cuentas públicas. La duración legal del trabajo fijada en 35 horas semanales sigue siendo un tema de debate político principal.",
+            "summary": "En el marco de la reflexión sobre el presupuesto de la Seguridad Social para 2027, el Senado votó una enmienda que propone aumentar el tiempo de trabajo semanal en dos horas. Esta medida, votada por la mayoría senatorial de derechas, pretende relanzar el debate sobre el incremento de la actividad profesional en Francia. Sin embargo, la disposición adoptada en el Palacio de Luxemburgo no posee un alcance normativo directo. Se inscribe principalmente en una iniciativa política tendente a mostrar la prioridad concedida al aumento de la duración del trabajo. Los debates sobre el equilibrio de las finanzas sociales continúan en el Parlamento.",
+            "stakes": [
+              "¿Tendrá esta iniciativa senatorial un impacto en los futuros textos legislativos?",
+              "¿Cómo reaccionarán las organizaciones sindicales a este regreso del debate sobre el tiempo de trabajo?",
+              "¿Qué otras vías presupuestarias se elegirán para equilibrar el presupuesto de la Seguridad Social?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s7a6aaa4d9c",
+        "topic": "international",
+        "title": "Accusations d'inaction contre Donald Trump dans le dossier Nvidia",
+        "context": "Les tensions technologiques entre les États-Unis et la Chine touchent particulièrement le secteur des semi-conducteurs et de l'intelligence artificielle. Les relations entre les dirigeants d'entreprises stratégiques et le pouvoir politique font l'objet d'un suivi rigoureux.",
+        "summary": "Selon des informations publiées par le New York Times, Donald Trump aurait été informé dès le mois de mai de risques potentiels liés à l'entourage du patron de Nvidia, Jensen Huang. L'affaire concerne des soupçons d'espionnage impliquant une entrepreneuse chinoise liée au dirigeant du géant des puces électroniques. Le président américain se trouve directement mis en cause par ses opposants pour ne pas avoir réagi après ces avertissements. La démission de Jensen Huang s'inscrit dans ce climat de suspicion et de tensions politiques accrues. Ce dossier touche une entreprise centrale pour le marché financier américain et le secteur de l'intelligence artificielle.",
+        "stakes": [
+          "Quelles seront les répercussions politiques de ces révélations pour la présidence américaine ?",
+          "Comment Nvidia gérera-t-elle cette crise de gouvernance à court terme ?",
+          "Quel sera l'impact sur les réglementations régissant les entreprises technologiques américaines ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "L’affaire Nvidia tourne à la crise politique pour Donald Trump",
+            "link": "https://www.lemonde.fr/international/article/2026/11/14/aux-etats-unis-l-affaire-nvidia-tourne-a-la-crise-politique-pour-donald-trump_6809696_3210.html",
+            "publishedAt": "2026-11-14T05:00:42.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "Affaire Nvidia : Donald Trump rattrapé par ses liens avec Jensen Huang",
+            "link": "https://www.liberation.fr/international/amerique/affaire-nvidia-les-liaisons-dangereuses-de-donald-trump-20261114_ME42HBWJDBEANORJWKPNET4HPI/",
+            "publishedAt": "2026-11-14T09:31:36.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/13/141/0/3696/1848/644/322/60/0/19a017d_ftp-1-qfxvmkmw6bdf-2026-11-13t192458z-561553309-rc27tnatnx85-rtrmadp-3-nvidia-ceo.JPG",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/international/article/2026/11/14/aux-etats-unis-l-affaire-nvidia-tourne-a-la-crise-politique-pour-donald-trump_6809696_3210.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Accusations of Inaction Against Donald Trump in the Nvidia Case",
+            "context": "Technological tensions between the United States and China particularly affect the semiconductor and artificial intelligence sectors. Relations between strategic business leaders and political power are subject to rigorous monitoring.",
+            "summary": "According to information published by the New York Times, Donald Trump was informed as early as May about potential risks involving the entourage of Nvidia boss Jensen Huang. The case concerns suspicions of espionage involving a Chinese businesswoman linked to the chip giant's leader. The US president is directly blamed by his opponents for failing to act after these warnings. Jensen Huang's resignation takes place within this climate of suspicion and heightened political tensions. This case affects a company central to the US financial market and the artificial intelligence sector.",
+            "stakes": [
+              "What will be the political repercussions of these revelations for the US presidency?",
+              "How will Nvidia manage this governance crisis in the short term?",
+              "What will be the impact on regulations governing American tech companies?"
+            ]
+          },
+          "es": {
+            "title": "Acusaciones de inacción contra Donald Trump en el caso Nvidia",
+            "context": "Las tensiones tecnológicas entre Estados Unidos y China afectan particularmente al sector de los semiconductores y la inteligencia artificial. Las relaciones entre los líderes de empresas estratégicas y el poder político son objeto de un riguroso seguimiento.",
+            "summary": "Según informaciones publicadas por el New York Times, Donald Trump fue informado ya en el mes de mayo sobre los riesgos potenciales relacionados con el entorno del director de Nvidia, Jensen Huang. El caso concierne a sospechas de espionaje en las que estaría implicada una empresaria china vinculada al dirigente del gigante de los microchips. El presidente estadounidense se encuentra directamente cuestionado por sus opositores por no haber reaccionado tras estas advertencias. La dimisión de Jensen Huang se enmarca en este clima de sospecha y crecientes tensiones políticas. Este asunto afecta a una empresa central para el mercado financiero estadounidense y el sector de la inteligencia artificial.",
+            "stakes": [
+              "¿Cuáles serán las repercusiones políticas de estas revelaciones para la presidencia estadounidense?",
+              "¿Cómo gestionará Nvidia esta crisis de gobernanza a corto plazo?",
+              "¿Cuál será el impacto en las normativas que rigen a las empresas tecnológicas estadounidenses?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s7873fee176",
+        "topic": "sport",
+        "title": "Le XV de France s'impose face à l'Afrique du Sud au Stade de France",
+        "context": "Les rencontres entre l'équipe de France de rugby et l'Afrique du Sud figurent parmi les affiches les plus disputées du rugby international. Ces matchs de tournée automnale permettent d'évaluer le niveau des sélections nationales.",
+        "summary": "L'équipe de France de rugby s'est imposée sur le score de 21 à 19 face à l'Afrique du Sud au Stade de France. Les Bleus ont pris l'avantage au cours d'une première mi-temps maîtrisée avant d'affronter une forte remontée de leurs adversaires. La fin de la rencontre a été marquée par une solide prestation défensive des Français pour conserver leur avance. Cette victoire conclut un affrontement d'une grande intensité physique face aux champions du monde en titre. Le résultat permet aux joueurs français d'engranger de la confiance pour la suite de leur saison internationale.",
+        "stakes": [
+          "Quel impact cette victoire aura-t-elle sur le classement mondial du XV de France ?",
+          "Comment le staff technique va-t-il aborder les prochains matchs de la tournée ?",
+          "Quelles leçons physiques et tactiques seront tirées de cet affrontement ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Le XV de France fissure la forteresse sud-africaine",
+            "link": "https://www.la-croix.com/sport/le-xv-de-france-fissure-la-forteresse-sud-africaine-20261114",
+            "publishedAt": "2026-11-14T08:57:28.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/14/2589170-louis-bielle-biarrey-lors-de-du-match-france-afriq.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/sport/le-xv-de-france-fissure-la-forteresse-sud-africaine-20261114"
+        },
+        "i18n": {
+          "en": {
+            "title": "France beats South Africa at the Stade de France",
+            "context": "Matches between the French rugby team and South Africa are among the most fiercely contested fixtures in international rugby. These autumn tour matches provide an opportunity to assess the level of national teams.",
+            "summary": "The French rugby team secured a 21-19 victory against South Africa at the Stade de France. Les Bleus took the lead during a well-managed first half before withstanding a strong comeback from their opponents. The end of the match was marked by a solid defensive performance by the French to preserve their lead. This victory concludes a physically intense clash against the reigning world champions. The result allows the French players to build confidence for the remainder of their international season.",
+            "stakes": [
+              "What impact will this victory have on the world ranking of the French XV?",
+              "How will the coaching staff approach the upcoming tour matches?",
+              "What physical and tactical lessons will be drawn from this clash?"
+            ]
+          },
+          "es": {
+            "title": "Francia se impone a Sudáfrica en el Stade de France",
+            "context": "Los encuentros entre la selección francesa de rugby y Sudáfrica figuran entre los duelos más disputados del rugby internacional. Estos partidos de la gira de otoño permiten evaluar el nivel de las selecciones nacionales.",
+            "summary": "La selección francesa de rugby se impuso por 21 a 19 ante Sudáfrica en el Stade de France. Les Bleus tomaron ventaja durante una primera mitad controlada antes de hacer frente a una fuerte remontada de sus rivales. El final del encuentro estuvo marcado por una sólida actuación defensiva de los franceses para conservar su ventaja. Esta victoria concluye un enfrentamiento de gran intensidad física frente a los vigentes campeones del mundo. El resultado permite a los jugadores franceses ganar confianza para el resto de su temporada internacional.",
+            "stakes": [
+              "¿Qué impacto tendrá esta victoria en la clasificación mundial del XV de Francia?",
+              "¿Cómo abordará el cuerpo técnico los próximos partidos de la gira?",
+              "¿Qué lecciones físicas y tácticas se extraerán de este enfrentamiento?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s423e092df6",
+        "topic": "justice",
+        "title": "Démantèlement d'un réseau franco-belge de trafic d'armes dans les Ardennes",
+        "context": "La lutte contre la circulation illégale des armes à feu constitue une priorité pour les autorités judiciaires et policières européennes. La coopération transfrontalière entre la France et la Belgique permet de cibler les réseaux de contrebande.",
+        "summary": "Une opération conjointe menée par les polices française et belge a permis de démanteler une filière de trafic d'armes dans le département des Ardennes. Les forces de l'ordre ont interpellé neuf personnes suspectées de participer à ce réseau transfrontalier. Lors des perquisitions effectuées, les enquêteurs ont saisi 178 armes à feu ainsi que 370 kilogrammes de munitions. L'intervention fait suite à plusieurs mois d'investigations coordonnées entre les services de police des deux pays. Les suspects ont été placés à la disposition de la justice pour répondre des faits reprochés.",
+        "stakes": [
+          "Quels étaient les destinataires finaux de ces armes et munitions saisies ?",
+          "Comment la coopération policière franco-belge va-t-elle se poursuivre sur ce dossier ?",
+          "Quelles peines encoureront les personnes arrêtées lors des prochaines étapes judiciaires ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Une filière franco-belge de trafic d’armes démantelée dans les Ardennes",
+            "link": "https://www.liberation.fr/societe/police-justice/une-filiere-franco-belge-de-trafic-darmes-demantelee-dans-les-ardennes-20261114_IY5EJCERPBCVPAEYBCKQCPMGIY/",
+            "publishedAt": "2026-11-14T10:13:41.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": null,
+        "i18n": {
+          "en": {
+            "title": "Franco-Belgian arms trafficking network dismantled in the Ardennes",
+            "context": "The fight against the illegal circulation of firearms is a priority for European judicial and police authorities. Cross-border cooperation between France and Belgium helps target smuggling networks.",
+            "summary": "A joint operation led by the French and Belgian police dismantled an arms trafficking ring in the Ardennes department. Law enforcement arrested nine people suspected of participating in this cross-border network. During the searches, investigators seized 178 firearms as well as 370 kilograms of ammunition. The intervention follows several months of coordinated investigations between the police services of both countries. The suspects have been handed over to the judicial authorities to face the charges against them.",
+            "stakes": [
+              "Who were the final recipients of these seized weapons and ammunition?",
+              "How will Franco-Belgian police cooperation continue regarding this case?",
+              "What sentences will the arrested individuals face during the next legal steps?"
+            ]
+          },
+          "es": {
+            "title": "Desmantelan una red franco-belga de tráfico de armas en las Ardenas",
+            "context": "La lucha contra la circulación ilegal de armas de fuego es una prioridad para las autoridades judiciales y policiales europeas. La cooperación transfronteriza entre Francia y Bélgica permite centrarse en las redes de contrabando.",
+            "summary": "Una operación conjunta dirigida por las policías francesa y belga permitió desmantelar una red de tráfico de armas en el departamento de las Ardenas. Las fuerzas del orden detuvieron a nueve personas sospechosas de participar en esta red transfronteriza. Durante los registros efectuados, los investigadores incautaron 178 armas de fuego y 370 kilogramos de munición. La intervención se produce tras varios meses de investigaciones coordinadas entre los servicios policiales de ambos países. Los sospechosos han sido puestos a disposición judicial para responder por los hechos imputados.",
+            "stakes": [
+              "¿Cuáles eran los destinatarios finales de estas armas y municiones incautadas?",
+              "¿Cómo continuará la cooperación policial franco-belga en este expediente?",
+              "¿A qué penas se enfrentarán los detenidos en las próximas etapas judiciales?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s54ce7391ae",
+        "topic": "international",
+        "title": "Le pape Léon XIV effectue une visite pastorale à Chiclayo au Pérou",
+        "context": "Les déplacements internationaux du chef de l'Église catholique donnent lieu à de grands rassemblements de fidèles. Le pape Léon XIV a dirigé le diocèse de Chiclayo pendant près de dix ans avant son élection à Rome.",
+        "summary": "Le pape Léon XIV s'est rendu à Chiclayo, au Pérou, ville dont il a été l'évêque avant de rejoindre le Saint-Siège. Il s'agit du premier souverain pontife à retourner dans un diocèse qu'il a administré hors du continent européen. Plusieurs centaines de milliers de personnes se sont rassemblées pour l'accueillir lors de cet événement. Au cours de son discours devant la foule, le pape a abordé publiquement son état de santé et les épreuves médicales qu'il traverse. Ce voyage revêt une dimension particulière pour la population locale qui a célébré ce retour.",
+        "stakes": [
+          "Quel message le souverain pontife souhaite-t-il transmettre à travers cette visite pastorale ?",
+          "Comment cette étape péruvienne s'inscrit-elle dans le programme des voyages pontificaux ?",
+          "Quelle sera l'évolution de la santé du pape lors des prochains déplacements ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Le pape Léon XIV accueilli triomphalement dans son ancien diocèse de Chiclayo, au Pérou : « Nous avons l’impression qu’il rentre à la maison »",
+            "link": "https://www.lemonde.fr/international/article/2026/11/14/le-pape-leon-xiv-accueilli-triomphalement-dans-son-ancien-diocese-de-chiclayo-au-perou-nous-avons-l-impression-qu-il-rentre-a-la-maison_6809853_3210.html",
+            "publishedAt": "2026-11-14T08:30:03.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Le jour où le pape Léon XIV est rentré à Chiclayo",
+            "link": "https://www.la-croix.com/religion/le-jour-ou-le-pape-leon-xiv-est-rentre-a-chiclayo-20261114",
+            "publishedAt": "2026-11-14T08:37:42.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/13/572/0/6865/3432/644/322/60/0/13f4a92_ftp-1-7qgykzhyy6lf-afp-d7f43nq.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/international/article/2026/11/14/le-pape-leon-xiv-accueilli-triomphalement-dans-son-ancien-diocese-de-chiclayo-au-perou-nous-avons-l-impression-qu-il-rentre-a-la-maison_6809853_3210.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Pope Leo XIV makes a pastoral visit to Chiclayo, Peru",
+            "context": "International travel by the head of the Catholic Church generates large gatherings of the faithful. Pope Leo XIV led the Diocese of Chiclayo for nearly ten years before his election in Rome.",
+            "summary": "Pope Leo XIV traveled to Chiclayo, Peru, a city where he served as bishop before joining the Holy See. He is the first pontiff to return to a diocese he administered outside the European continent. Several hundred thousand people gathered to welcome him during this event. During his speech before the crowd, the pope publicly addressed his state of health and the medical trials he is going through. This trip holds a special significance for the local population, who celebrated this return.",
+            "stakes": [
+              "What message does the pontiff wish to convey through this pastoral visit?",
+              "How does this Peruvian leg fit into the schedule of papal journeys?",
+              "How will the pope's health evolve during upcoming trips?"
+            ]
+          },
+          "es": {
+            "title": "El papa León XIV realiza una visita pastoral a Chiclayo, en Perú",
+            "context": "Los desplazamientos internacionales del jefe de la Iglesia católica dan lugar a grandes concentraciones de fieles. El papa León XIV dirigió la diócesis de Chiclayo durante casi diez años antes de su elección en Roma.",
+            "summary": "El papa León XIV viajó a Chiclayo, en Perú, ciudad de la que fue obispo antes de unirse a la Santa Sede. Se trata del primer soberano pontífice que regresa a una diócesis que administró fuera del continente europeo. Varios cientos de miles de personas se congregaron para recibirle durante este acontecimiento. Durante su discurso ante la multitud, el papa abordó públicamente su estado de salud y las pruebas médicas por las que atraviesa. Este viaje reviste una dimensión especial para la población local, que celebró este regreso.",
+            "stakes": [
+              "¿Qué mensaje desea transmitir el soberano pontífice a través de esta visita pastoral?",
+              "¿Cómo se enmarca esta etapa peruana en el programa de los viajes pontificios?",
+              "¿Cuál será la evolución de la salud del papa en los próximos desplazamientos?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "seb945b7bee",
+        "topic": "economie",
+        "title": "Réouverture de rues commerçantes à la circulation automobile dans plusieurs villes",
+        "context": "De nombreuses municipalités ont mis en place des zones piétonnes au cours des dernières années afin de réduire la place de la voiture en centre-ville. Ces aménagements suscitent des débats réguliers quant à leur impact sur l'activité commerciale.",
+        "summary": "La ville de Mulhouse a pris la décision de réautoriser la circulation automobile dans l'une de ses principales artères commerçantes. Cette mesure vise à répondre aux difficultés exprimées par les commerçants de proximité concernant la fréquentation de leurs enseignes. Mulhouse s'inscrit dans un mouvement entamé par d'autres collectivités comme Besançon ou Avignon, qui ont également assoupli leurs règles d'accès routier. Ces arbitrages municipaux illustrent un changement d'approche face aux politiques d'interdiction de la voiture dans les cœurs de ville. Les élus locaux cherchent un équilibre entre attractivité économique et aménagements urbains.",
+        "stakes": [
+          "Quel sera l'impact réel de ce retour des voitures sur le chiffre d'affaires des commerces ?",
+          "Comment d'autres municipalités ajusteront-elles leur plan de circulation urbain ?",
+          "Quelles conséquences cette réouverture aura-t-elle sur la transition écologique locale ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Voitures en centres-villes : Mulhouse rétropédale et rouvre l'une de ses principales rues commerçantes à la circulation",
+            "link": "https://www.franceinfo.fr/france/grand-est/haut-rhin/voitures-en-centres-villes-mulhouse-retropedale-et-rouvre-l-une-de-ses-principales-rues-commercantes-a-la-circulation_8281196.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-13T16:00:19.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/ShwOo7z1F1ZO5YfvmOURgChN7Ro/114x0:1283x658/432x243/filters:format(jpg)/2026/11/13/6af7289ae71a1876968707.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/france/grand-est/haut-rhin/voitures-en-centres-villes-mulhouse-retropedale-et-rouvre-l-une-de-ses-principales-rues-commercantes-a-la-circulation_8281196.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Reopening of shopping streets to car traffic in several cities",
+            "context": "Many municipalities have implemented pedestrian zones in recent years to reduce the presence of cars in city centers. These developments spark regular debates regarding their impact on commercial activity.",
+            "summary": "The city of Mulhouse has decided to reauthorize car traffic in one of its main shopping arteries. This measure aims to address the difficulties expressed by local merchants regarding foot traffic in their stores. Mulhouse is part of a movement initiated by other local authorities, such as Besançon and Avignon, which have also relaxed their road access rules. These municipal decisions illustrate a shifting approach regarding policies banning cars from city centers. Local elected officials are seeking a balance between economic attractiveness and urban development.",
+            "stakes": [
+              "What will be the real impact of this return of cars on business turnover?",
+              "How will other municipalities adjust their urban traffic plans?",
+              "What consequences will this reopening have on local ecological transition?"
+            ]
+          },
+          "es": {
+            "title": "Reapertura de calles comerciales a la circulación de automóviles en varias ciudades",
+            "context": "Numerosos municipios han implantado zonas peatonales en los últimos años para reducir la presencia del coche en el centro de las ciudades. Estas actuaciones suscitan debates periódicos sobre su impacto en la actividad comercial.",
+            "summary": "La ciudad de Mulhouse ha tomado la decisión de volver a autorizar la circulación de automóviles en una de sus principales arterias comerciales. Esta medida pretende responder a las dificultades expresadas por los comerciantes locales en relación con la afluencia a sus establecimientos. Mulhouse se suma a un movimiento iniciado por otras entidades locales como Besanzón o Aviñón, que también han flexibilizado sus normas de acceso vial. Estas decisiones municipales ilustran un cambio de enfoque frente a las políticas de prohibición del coche en los centros urbanos. Los representantes locales buscan un equilibrio entre el atractivo económico y la ordenación urbana.",
+            "stakes": [
+              "¿Cuál será el impacto real de este regreso de los coches en la cifra de negocios de los comercios?",
+              "¿Cómo ajustarán otros municipios sus planes de tráfico urbano?",
+              "¿Qué consecuencias tendrá esta reapertura en la transición ecológica local?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s990410d2d5",
+        "topic": "environnement",
+        "title": "Interdiction de la pêche de loisir de l'anguille jaune en France",
+        "context": "L'anguille européenne fait face à un déclin critique de ses populations depuis plusieurs décennies. La préservation de la biodiversité aquatique nécessite l'instauration de réglementations strictes sur le territoire national.",
+        "summary": "La France a décidé de proscrire la pratique de la pêche de loisir pour l'anguille jaune sur l'ensemble de son territoire. Cette interdiction réglementaire vise à freiner le déclin important observé chez cette espèce de poisson migrateur. Les données scientifiques indiquent une chute de près de 90 % des effectifs d'anguilles en Europe depuis les années 1980. Par rapport aux années 1960, la régression de la population dépasse même 99 %. La mesure adoptée par les autorités françaises cherche ainsi à protéger les derniers individus et à favoriser le renouvellement de l'espèce.",
+        "stakes": [
+          "Cette interdiction suffira-t-elle à enrayer l'effondrement des populations d'anguilles ?",
+          "D'autres mesures ciblant la pêche professionnelle ou la qualité des eaux seront-elles adoptées ?",
+          "Comment les associations de pêcheurs amateurs s'adapteront-elles à cette nouvelle réglementation ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "La France interdit la pêche de loisir de l’anguille jaune, pour contrer l’effondrement de cette espèce",
+            "link": "https://www.lemonde.fr/planete/article/2026/11/14/la-france-interdit-la-peche-de-loisir-de-l-anguille-jaune-pour-contrer-l-effondrement-de-cette-espece_6810148_3244.html",
+            "publishedAt": "2026-11-14T11:33:13.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://asset.lemde.fr/medias/img/social-network/default.png",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/14/la-france-interdit-la-peche-de-loisir-de-l-anguille-jaune-pour-contrer-l-effondrement-de-cette-espece_6810148_3244.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Ban on recreational fishing of yellow eel in France",
+            "context": "The European eel has faced a critical decline in its populations for several decades. Preserving aquatic biodiversity requires the establishment of strict regulations nationwide.",
+            "summary": "France has decided to ban recreational fishing for the yellow eel across its entire territory. This regulatory ban aims to curb the significant decline observed in this migratory fish species. Scientific data indicate a drop of nearly 90% in eel stocks in Europe since the 1980s. Compared to the 1960s, the population decline even exceeds 99%. The measure adopted by French authorities thus seeks to protect the remaining individuals and promote the species' recovery.",
+            "stakes": [
+              "Will this ban be sufficient to halt the collapse of eel populations?",
+              "Will other measures targeting professional fishing or water quality be adopted?",
+              "How will amateur fishing associations adapt to this new regulation?"
+            ]
+          },
+          "es": {
+            "title": "Prohibición de la pesca recreativa de la anguila amarilla en Francia",
+            "context": "La anguila europea se enfrenta a un declive crítico de sus poblaciones desde hace varias décadas. La preservación de la biodiversidad acuática requiere el establecimiento de normativas estrictas en el territorio nacional.",
+            "summary": "Francia ha decidido prohibir la práctica de la pesca recreativa de la anguila amarilla en todo su territorio. Esta prohibición reglamentaria pretende frenar el importante declive observado en esta especie de pez migratorio. Los datos científicos indican una caída cercana al 90 % en las poblaciones de anguilas en Europa desde la década de 1980. En comparación con los años 1960, la regresión de la población supera incluso el 99 %. La medida adoptada por las autoridades francesas busca así proteger a los últimos ejemplares y favorecer la renovación de la especie.",
+            "stakes": [
+              "¿Será suficiente esta prohibición para frenar el desplome de las poblaciones de anguilas?",
+              "¿Se adoptarán otras medidas dirigidas a la pesca profesional o a la calidad del agua?",
+              "¿Cómo se adaptarán las asociaciones de pescadores aficionados a esta nueva normativa?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sb8b88baeb5",
+        "topic": "justice",
+        "title": "Braquage d'une bijouterie de luxe à Paris et enquête en cours",
+        "context": "Les commerces de haute joaillerie du centre de Paris font l'objet de mesures de sécurité renforcées en raison de la valeur des marchandises stockées. La criminalité organisée cible parfois ces établissements lors d'attaques ciblées.",
+        "summary": "La bijouterie De Beers située dans la capitale a été la cible d'un braquage à armement lourd par plusieurs individus munis de fusils d'assaut. Plus de vingt-quatre heures après les faits, les auteurs du vol n'ont pas été appréhendés et sont activement recherchés. Les premières estimations évaluent le montant des diamants et bijoux dérobés à plus d'un million d'euros. La destination finale de ces pierres précieuses volées constitue l'un des volets centraux des investigations menées par les services de police. L'enquête se poursuit pour identifier les braqueurs et remonter la filière d'écoulement.",
+        "stakes": [
+          "Comment les enquêteurs parviendront-ils à retrouver les diamants volés ?",
+          "Quelles failles de sécurité ont permis l'intrusion d'hommes armés de fusils d'assaut ?",
+          "Quel impact ce braquage aura-t-il sur la sécurité des joailliers parisiens ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Bijouterie de luxe braquée à Paris : que vont devenir les diamants ?",
+            "link": "https://www.franceinfo.fr/faits-divers/braquage/bijouterie-de-luxe-braquee-a-paris-que-vont-devenir-les-diamants_8281619.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-13T22:00:55.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/Y9xPWFt6v6z3HU71VTJkEc_5Ocw/0x18:1259x726/432x243/filters:format(jpg)/2026/11/13/6af76b9e75943710077926.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/faits-divers/braquage/bijouterie-de-luxe-braquee-a-paris-que-vont-devenir-les-diamants_8281619.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Luxury jewelry store robbery in Paris and ongoing investigation",
+            "context": "High-end jewelry stores in central Paris are subject to enhanced security measures due to the value of the goods stored. Organized crime sometimes targets these establishments in targeted attacks.",
+            "summary": "The De Beers jewelry store located in the capital was the target of a heavily armed robbery by several individuals carrying assault rifles. More than twenty-four hours after the incident, the perpetrators have not been apprehended and are actively sought. Initial estimates put the value of the stolen diamonds and jewelry at over one million euros. The final destination of these stolen gemstones is a central focus of investigations conducted by police services. The investigation continues to identify the robbers and trace the supply chain.",
+            "stakes": [
+              "How will investigators manage to recover the stolen diamonds?",
+              "What security flaws allowed the intrusion of men armed with assault rifles?",
+              "What impact will this robbery have on the security of Parisian jewelers?"
+            ]
+          },
+          "es": {
+            "title": "Robo con armas en una joyería de lujo en París e investigación en curso",
+            "context": "Los establecimientos de alta joyería del centro de París son objeto de medidas de seguridad reforzadas debido al valor de las mercancías almacenadas. La delincuencia organizada ataca en ocasiones estos establecimientos mediante asaltos específicos.",
+            "summary": "La joyería De Beers situada en la capital fue blanco de un atraco fuertemente armado por varios individuos provistos de fusiles de asalto. Más de veinticuatro horas después de los hechos, los autores del robo no han sido detenidos y son buscados activamente. Las primeras estimaciones cifran el valor de los diamantes y joyas sustraídos en más de un millón de euros. El destino final de estas piedras preciosas robadas constituye uno de los ejes centrales de las investigaciones llevadas a cabo por los servicios policiales. La investigación continúa para identificar a los asaltantes y desarticular la red de receptación.",
+            "stakes": [
+              "¿Cómo lograrán los investigadores recuperar los diamantes robados?",
+              "¿Qué fallos de seguridad permitieron la intrusión de hombres armados con fusiles de asalto?",
+              "¿Qué impacto tendrá este atraco en la seguridad de los joyeros parisinos?"
+            ]
+          }
+        }
+      }
+    ],
+    "monde": [
+      {
+        "id": "s1476d670af",
+        "topic": "international",
+        "title": "Les États-Unis évoquent la cession du Donbass contre l'adhésion à l'OTAN",
+        "context": "La guerre se poursuit entre l'Ukraine et la Russie, entraînant de multiples démarches diplomatiques internationales. Des pourparlers de paix ont récemment eu lieu à Abou Dhabi et à Dublin.",
+        "summary": "Le président ukrainien Volodymyr Zelensky affirme que des émissaires américains ont proposé la cession de la région du Donbass à la Russie en échange d'une adhésion de l'Ukraine à l'Otan. Selon le chef d'État ukrainien, c'est la première fois que cette éventualité est officiellement soulevée lors des discussions. Volodymyr Zelensky a réitéré que son pays n'était pas disposé à retirer ses troupes de ce territoire. Il a précisé que les termes d'un éventuel accord de paix devront être validés par la partie ukrainienne.",
+        "stakes": [
+          "Quelles conséquences cette proposition aura-t-elle sur les futures négociations de paix ?",
+          "Quel impact une éventuelle adhésion à l'Otan aura-t-elle sur la sécurité régionale ?",
+          "Comment la population et le gouvernement ukrainiens réagiront-ils face à des concessions territoriales ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+            "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-14T10:30:38.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "France 24",
+            "title": "Washington a proposé que Kiev cède le Donbass en échange d'une adhésion à l'Otan, affirme Zelensky",
+            "link": "https://www.france24.com/fr/europe/20261114-washington-propos%C3%A9-kiev-c%C3%A8de-donbass-%C3%A9change-adh%C3%A9sion-otan-affirme-zelensky",
+            "publishedAt": "2026-11-14T10:53:58.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que les Etats-Unis ont évoqué des concessions territoriales en échange d’une adhésion à l’OTAN",
+            "link": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-les-etats-unis-ont-evoque-des-concessions-territoriales-en-echange-d-une-adhesion-a-l-otan_6808609_3210.html",
+            "publishedAt": "2026-11-14T11:13:27.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "United States discusses ceding the Donbas in exchange for NATO membership",
+            "context": "The war continues between Ukraine and Russia, prompting multiple international diplomatic efforts. Peace talks recently took place in Abu Dhabi and Dublin.",
+            "summary": "Ukrainian President Volodymyr Zelensky claims that American envoys proposed ceding the Donbas region to Russia in exchange for Ukraine's accession to NATO. According to the Ukrainian head of state, this is the first time this possibility has been officially raised during discussions. Volodymyr Zelensky reiterated that his country was not willing to withdraw its troops from this territory. He specified that the terms of any potential peace agreement will have to be validated by the Ukrainian side.",
+            "stakes": [
+              "What consequences will this proposal have on future peace negotiations?",
+              "What impact would potential NATO membership have on regional security?",
+              "How will the Ukrainian population and government react to territorial concessions?"
+            ]
+          },
+          "es": {
+            "title": "Estados Unidos plantea la cesión del Donbás a cambio de la adhesión a la OTAN",
+            "context": "La guerra prosigue entre Ucrania y Rusia, lo que genera múltiples gestiones diplomáticas internacionales. Recientemente se han celebrado conversaciones de paz en Abu Dabi y Dublín.",
+            "summary": "El presidente ucraniano, Volodímir Zelenski, afirma que emisarios estadounidenses propusieron la cesión de la región del Donbás a Rusia a cambio de la adhesión de Ucrania a la OTAN. Según el jefe de Estado ucraniano, es la primera vez que se plantea oficialmente esta eventualidad durante las conversaciones. Volodímir Zelenski reiteró que su país no estaba dispuesto a retirar sus tropas de este territorio. Precisó que los términos de un posible acuerdo de paz deberán ser ratificados por la parte ucraniana.",
+            "stakes": [
+              "¿Qué consecuencias tendrá esta propuesta en las futuras negociaciones de paz?",
+              "¿Qué impacto tendría una eventual adhesión a la OTAN en la seguridad regional?",
+              "¿Cómo reaccionarán la población y el gobierno ucranianos ante las concesiones territoriales?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s61212767e0",
+        "topic": "economie",
+        "title": "Démission du fondateur de Nvidia après des révélations personnelles",
+        "context": "Nvidia est le principal fabricant américain de puces électroniques au cœur du développement de l'intelligence artificielle. Son cofondateur et dirigeant Jensen Huang en incarnait publiquement la réussite et la stratégie.",
+        "summary": "Jensen Huang a démissionné de son poste de directeur général de Nvidia à la suite de révélations sur une relation extraconjugale avec une femme d'affaires soupçonnée d'espionnage pour la Chine. La directrice financière de l'entreprise a été nommée pour assurer l'intérim à la tête du groupe. Cette transition intervient dans un contexte de paris financiers importants sur l'intelligence artificielle et de procédures judiciaires en cours. L'affaire prend également une tournure politique aux États-Unis, où l'administration présidentielle est interrogée sur sa gestion de l'information.",
+        "stakes": [
+          "Quel sera l'impact de ce changement de direction sur le marché de l'intelligence artificielle ?",
+          "Comment l'entreprise Nvidia gérera-t-elle les risques juridiques et stratégiques en cours ?",
+          "Quels seront les retentissements politiques pour l'administration américaine ?"
+        ],
+        "sources": [
+          {
+            "name": "NPR",
+            "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+            "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+            "publishedAt": "2026-11-13T12:07:12.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "NPR",
+            "title": "Nvidia's interim CEO inherits risky AI bets and a legal mess",
+            "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
+            "publishedAt": "2026-11-13T11:47:00.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "France 24",
+            "title": "Nvidia sans Jensen Huang, les risques du culte de la personnalité dans la tech",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261114-nvidia-sans-jensen-huang-les-risques-du-culte-de-la-personnalit%C3%A9-dans-la-tech",
+            "publishedAt": "2026-11-14T11:13:08.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "L’administration Trump percutée par l’onde de choc Nvidia",
+            "link": "https://www.lemonde.fr/idees/article/2026/11/14/l-administration-trump-percutee-par-l-onde-de-choc-nvidia_6809983_3232.html",
+            "publishedAt": "2026-11-14T10:01:14.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "L’affaire Nvidia tourne à la crise politique pour Donald Trump",
+            "link": "https://www.lemonde.fr/international/article/2026/11/14/aux-etats-unis-l-affaire-nvidia-tourne-a-la-crise-politique-pour-donald-trump_6809696_3210.html",
+            "publishedAt": "2026-11-14T05:00:42.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "RFI",
+            "title": "Le gouvernement Trump sera-t-il éclaboussé par les conséquences de l'affaire Nvidia?",
+            "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261114-le-gouvernement-trump-sera-t-il-%C3%A9clabouss%C3%A9-par-les-cons%C3%A9quences-de-l-affaire-nvidia",
+            "publishedAt": "2026-11-14T06:21:35.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8041x5361+0+0/resize/8041x5361!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F82%2Fe2d5cc5d4bc8b1889e79cb614f4a%2Fap26294366150010.jpg",
+          "credit": "NPR",
+          "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick"
+        },
+        "i18n": {
+          "en": {
+            "title": "Resignation of Nvidia's founder following personal revelations",
+            "context": "Nvidia is the leading American manufacturer of electronic chips at the heart of artificial intelligence development. Its co-founder and CEO, Jensen Huang, embodied its success and strategy publicly.",
+            "summary": "Jensen Huang has resigned as CEO of Nvidia following revelations regarding an extramarital affair with a businesswoman suspected of espionage for China. The company's chief financial officer has been appointed as interim head of the group. This transition comes amid significant financial bets on artificial intelligence and ongoing legal proceedings. The affair is also taking a political turn in the United States, where the presidential administration is being questioned about its handling of information.",
+            "stakes": [
+              "What will be the impact of this leadership change on the artificial intelligence market?",
+              "How will Nvidia manage ongoing legal and strategic risks?",
+              "What will the political repercussions be for the American administration?"
+            ]
+          },
+          "es": {
+            "title": "Dimisión del fundador de Nvidia tras revelaciones personales",
+            "context": "Nvidia es el principal fabricante estadounidense de chips electrónicos en el centro del desarrollo de la inteligencia artificial. Su cofundador y director, Jensen Huang, encarnaba públicamente su éxito y su estrategia.",
+            "summary": "Jensen Huang ha dimitido de su puesto de director general de Nvidia a raíz de unas revelaciones sobre una relación extramatrimonial con una empresaria sospechosa de espionaje para China. La directora financiera de la empresa ha sido nombrada para asumir la dirección interina del grupo. Esta transición se produce en un contexto de importantes apuestas financieras por la inteligencia artificial y de procedimientos judiciales en curso. El asunto también adquiere un tinte político en Estados Unidos, donde la administración presidencial es interrogada sobre su gestión de la información.",
+            "stakes": [
+              "¿Cuál será el impacto de este cambio de dirección en el mercado de la inteligencia artificial?",
+              "¿Cómo gestionará la empresa Nvidia los riesgos jurídicos y estratégicos en curso?",
+              "¿Cuáles serán las repercusiones políticas para la administración estadounidense?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s92720765a4",
+        "topic": "international",
+        "title": "Annonce d'une rencontre tripartite entre Donald Trump, Vladimir Poutine et Xi Jinping",
+        "context": "Le sommet de l'APEC doit se tenir la semaine prochaine à Shenzhen, en Chine. Il rassemble de nombreux dirigeants de la région Asie-Pacifique et des grandes puissances mondiales.",
+        "summary": "La Maison Blanche a annoncé l'organisation d'une rencontre conjointe entre le président américain Donald Trump, le président russe Vladimir Poutine et le président chinois Xi Jinping. Les discussions se tiendront en marge du sommet de l'APEC en Chine. Selon la porte-parole américaine, les échanges porteront principalement sur la réduction des armes nucléaires et la situation en Iran. Un responsable américain a précisé sous couvert d'anonymat que le conflit en Ukraine ne ferait pas partie des sujets abordés.",
+        "stakes": [
+          "Quels progrès réels sur le désarmement nucléaire peuvent être obtenus lors de cette réunion ?",
+          "Quel impact cette rencontre au sommet aura-t-elle sur les relations géopolitiques mondiales ?",
+          "Comment les alliés des États-Unis percevront-ils cette initiative diplomatique ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+            "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-14T05:52:31.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "La Maison Blanche annonce une rencontre trilatérale entre Donald Trump, Vladimir Poutine et Xi Jinping, le 19 novembre en Chine",
+            "link": "https://www.lemonde.fr/international/article/2026/11/14/la-maison-blanche-annonce-une-rencontre-trilaterale-entre-donald-trump-vladimir-poutine-et-xi-jinping-jeudi-en-chine_6809488_3210.html",
+            "publishedAt": "2026-11-14T01:49:53.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Announcement of a tripartite meeting between Donald Trump, Vladimir Putin, and Xi Jinping",
+            "context": "The APEC summit is scheduled to take place next week in Shenzhen, China. It brings together numerous leaders from the Asia-Pacific region and major global powers.",
+            "summary": "The White House announced the organization of a joint meeting between U.S. President Donald Trump, Russian President Vladimir Putin, and Chinese President Xi Jinping. The discussions will take place on the sidelines of the APEC summit in China. According to the U.S. spokeswoman, the talks will focus primarily on nuclear arms reduction and the situation in Iran. A U.S. official stated on condition of anonymity that the conflict in Ukraine would not be among the topics addressed.",
+            "stakes": [
+              "What real progress on nuclear disarmament can be achieved during this meeting?",
+              "What impact will this summit meeting have on global geopolitical relations?",
+              "How will U.S. allies perceive this diplomatic initiative?"
+            ]
+          },
+          "es": {
+            "title": "Anuncio de un encuentro tripartito entre Donald Trump, Vladimir Putin y Xi Jinping",
+            "context": "La cumbre de la APEC debe celebrarse la próxima semana en Shenzhen, China. Reúne a numerosos dirigentes de la región de Asia-Pacífico y de las grandes potencias mundiales.",
+            "summary": "La Casa Blanca anunció la organización de un encuentro conjunto entre el presidente estadounidense Donald Trump, el presidente ruso Vladimir Putin y el presidente chino Xi Jinping. Las discusiones se celebrarán al margen de la cumbre de la APEC en China. Según la portavoz estadounidense, los intercambios se centrarán principalmente en la reducción de las armas nucleares y la situación en Irán. Un responsable estadounidense precisó bajo condición de anonimato que el conflicto en Ucrania no formaría parte de los temas abordados.",
+            "stakes": [
+              "¿Qué progresos reales en el desarme nuclear se pueden lograr durante esta reunión?",
+              "¿Qué impacto tendrá este encuentro en la cumbre sobre las relaciones geopolíticas mundiales?",
+              "¿Cómo percibirán los aliados de Estados Unidos esta iniciativa diplomática?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sfb9303c767",
+        "topic": "international",
+        "title": "Interruption temporaire du trafic aérien aux États-Unis après une panne",
+        "context": "L'administration fédérale de l'aviation américaine gère la régulation du trafic aérien sur l'ensemble du territoire des États-Unis. Un dysfonctionnement des systèmes de communication peut perturber l'ensemble des transports.",
+        "summary": "La régulation de l'aviation civile américaine a ordonné la suspension provisoire de tous les décollages sur le territoire des États-Unis. Cette décision a provoqué d'importants retards et des blocages pour les voyageurs dans les aéroports du pays. Les autorités aéronautiques et le ministère des Transports ont attribué cette interruption à une surcharge matérielle et à des pannes sur d'anciens équipements de télécommunication. La piste d'une cyberattaque a été écartée par les responsables officiels. Le trafic a pu reprendre après plusieurs heures d'interruption et la remise en service des installations.",
+        "stakes": [
+          "Quelles mesures seront prises pour moderniser les infrastructures du contrôle aérien américain ?",
+          "Quel est le coût économique de cette panne pour les compagnies et les passagers ?",
+          "Le Congrès américain accordera-t-il les financements réclamés par le département des Transports ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "What we know about the ground stop and what to do if you're affected",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-14T07:42:11.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "BBC News",
+            "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+            "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-14T01:47:36.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Airport chaos continues after US ground stop lifted – as it happened",
+            "link": "https://www.theguardian.com/world/live/2026/nov/13/us-flight-outage-live-updates-faa-lifts-nationwide-ground-stop-as-airport-chaos-continues",
+            "publishedAt": "2026-11-14T05:55:53.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "France 24",
+            "title": "États-Unis : reprise du trafic aérien après une panne du contrôle aérien",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261114-%C3%A9tats-unis-reprise-du-trafic-a%C3%A9rien-apr%C3%A8s-une-panne-du-contr%C3%B4le-a%C3%A9rien",
+            "publishedAt": "2026-11-14T10:02:55.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "Suspension des vols aux Etats-Unis : une panne géante que l’administration Trump cherche déjà à politiser",
+            "link": "https://www.lemonde.fr/economie/article/2026/11/14/aux-etats-unis-apres-la-suspension-des-vols-l-administration-trump-politise-cette-panne-geante-et-reclame-50-milliards-de-dollars_6809689_3234.html",
+            "publishedAt": "2026-11-14T05:00:20.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "Suspension des vols aux Etats-Unis : le trafic aérien reprend après une vaste « panne des télécommunications »",
+            "link": "https://www.lemonde.fr/international/article/2026/11/14/suspension-des-vols-aux-etats-unis-l-agence-de-l-aviation-civile-annonce-une-reprise-du-trafic-aerien-apres-une-vaste-panne-des-telecommunications_6809389_3211.html",
+            "publishedAt": "2026-11-14T02:31:51.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Temporary disruption of air traffic in the United States following an outage",
+            "context": "The Federal Aviation Administration manages air traffic regulation across the entire territory of the United States. A malfunction in communication systems can disrupt all transportation.",
+            "summary": "U.S. civil aviation regulators ordered the temporary suspension of all departures across the United States. This decision caused significant delays and blockages for travelers at the country's airports. Aviation authorities and the Department of Transportation attributed the disruption to hardware overload and failures in aging telecommunication equipment. The possibility of a cyberattack was ruled out by official officials. Traffic was able to resume after several hours of interruption and the restoration of facilities.",
+            "stakes": [
+              "What measures will be taken to modernize American air traffic control infrastructure?",
+              "What is the economic cost of this outage for airlines and passengers?",
+              "Will the U.S. Congress grant the funding requested by the Department of Transportation?"
+            ]
+          },
+          "es": {
+            "title": "Interrupción temporal del tráfico aéreo en Estados Unidos tras una avería",
+            "context": "La Administración Federal de Aviación estadounidense gestiona la regulación del tráfico aéreo en todo el territorio de los Estados Unidos. Un fallo en los sistemas de comunicación puede perturbar la totalidad de los transportes.",
+            "summary": "La regulación de la aviación civil estadounidense ordenó la suspensión provisional de todos los despegues en el territorio de los Estados Unidos. Esta decisión provocó importantes retrasos y bloqueos para los viajeros en los aeropuertos del país. Las autoridades aeronáuticas y el Ministerio de Transportes atribuyeron esta interrupción a una sobrecarga de hardware y a fallos en antiguos equipos de telecomunicación. Los responsables oficiales descartaron la hipótesis de un ciberataque. El tráfico pudo reanudarse tras varias horas de interrupción y la puesta en servicio de las instalaciones.",
+            "stakes": [
+              "¿Qué medidas se tomarán para modernizar las infraestructuras del control aéreo estadounidense?",
+              "¿Cuál es el coste económico de esta avería para las compañías y los pasajeros?",
+              "¿Concederá el Congreso estadounidense la financiación reclamada por el Departamento de Transportes?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sa20a765200",
+        "topic": "sciences_tech",
+        "title": "Rétablissement des services mondiaux de Microsoft après une panne majeure",
+        "context": "Le géant technologique Microsoft fournit des services informatiques et des logiciels utilisés par de nombreuses entreprises, administrations et services publics à l'échelle mondiale. Des interruptions de service peuvent affecter l'économie globale.",
+        "summary": "Microsoft a annoncé le rétablissement complet de ses services informatiques après une panne mondiale ayant duré plus de 24 heures. Le dysfonctionnement a touché des applications phares telles qu'Outlook, Teams et Copilot, perturbant le fonctionnement d'entreprises et de gouvernements. L'entreprise a présenté ses excuses et déclaré que les interventions sur le problème sous-jacent étaient terminées. Des experts estiment que cet incident met en lumière la dépendance de nombreux pays vis-à-vis des technologies étrangères.",
+        "stakes": [
+          "Quelles sont les pertes économiques globales engendrées par cette interruption de service ?",
+          "Comment les entreprises et gouvernements peuvent-ils réduire leur vulnérabilité technologique ?",
+          "Quelles garanties de fiabilité Microsoft apportera-t-il à ses clients internationaux ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Microsoft says services fully restored after day-long global outage",
+            "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-14T06:42:27.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Microsoft says services fully restored after global outage",
+            "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+            "publishedAt": "2026-11-14T11:07:10.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
+            "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
+            "publishedAt": "2026-11-14T06:19:04.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "Microsoft says all services working again",
+            "link": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-14T09:06:00.000Z",
+            "lang": "en"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Restoration of Microsoft global services following a major outage",
+            "context": "Technology giant Microsoft provides IT services and software used by numerous businesses, administrations, and public services worldwide. Service interruptions can affect the global economy.",
+            "summary": "Microsoft announced the full restoration of its IT services following a global outage that lasted more than 24 hours. The malfunction affected flagship applications such as Outlook, Teams, and Copilot, disrupting the operations of businesses and governments. The company apologized and stated that interventions on the underlying problem were complete. Experts believe this incident highlights the dependence of many countries on foreign technologies.",
+            "stakes": [
+              "What are the overall economic losses caused by this service interruption?",
+              "How can businesses and governments reduce their technological vulnerability?",
+              "What reliability guarantees will Microsoft offer to its international clients?"
+            ]
+          },
+          "es": {
+            "title": "Restablecimiento de los servicios mundiales de Microsoft tras un apagón informático mayor",
+            "context": "El gigante tecnológico Microsoft proporciona servicios informáticos y programas de software utilizados por numerosas empresas, administraciones y servicios públicos a escala mundial. Las interrupciones del servicio pueden afectar a la economía global.",
+            "summary": "Microsoft anunció el restablecimiento completo de sus servicios informáticos tras un apagón mundial que duró más de 24 horas. El fallo afectó a aplicaciones estrella como Outlook, Teams y Copilot, perturbando el funcionamiento de empresas y gobiernos. La empresa presentó sus disculpas y declaró que las intervenciones sobre el problema subyacente habían finalizado. Los expertos estiman que este incidente pone de relieve la dependencia de numerosos países respecto a las tecnologías extranjeras.",
+            "stakes": [
+              "¿Cuáles son las pérdidas económicas globales generadas por esta interrupción del servicio?",
+              "¿Cómo pueden las empresas y los gobiernos reducir su vulnerabilidad tecnológica?",
+              "¿Qué garantías de fiabilidad aportará Microsoft a sus clientes internacionales?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s713a48e07b",
+        "topic": "sciences_tech",
+        "title": "Bilan mitigé pour le vol d'essai de la fusée Starship de SpaceX",
+        "context": "L'entreprise spatiale SpaceX développe sa mégafusée Starship en vue de la réutiliser entièrement pour de futures missions orbitales. Elle procède régulièrement à des vols d'essai pour tester la récupération de ses étages.",
+        "summary": "Lors de son dernier vol d'essai, SpaceX a manqué la récupération du premier étage de sa fusée Starship. Le propulseur s'est abîmé et a explosé dans le golfe du Mexique après l'annulation de la tentative de capture. En revanche, le second étage du vaisseau a poursuivi sa trajectoire et est parvenu à se placer en orbite. Cet essai est qualifié de succès partiel par les observateurs du secteur spatial.",
+        "stakes": [
+          "Quel sera le calendrier des prochains essais pour valider la réutilisabilité complète de Starship ?",
+          "Comment cet échec partiel affectera-t-il les futurs projets d'exploration spatiale de SpaceX ?",
+          "Quelles améliorations techniques seront apportées au système de récupération du propulseur ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Setback for SpaceX Starship rocket's double-catch test",
+            "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-14T00:01:01.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "SpaceX launches Starship rocket, fails to recover booster",
+            "link": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-14T02:24:00.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "France 24",
+            "title": "La mégafusée Starship réussit partiellement son quinzième vol d'essai",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261114-la-m%C3%A9gafus%C3%A9e-starship-r%C3%A9ussit-partiellement-son-quinzi%C3%A8me-vol-d-essai",
+            "publishedAt": "2026-11-14T10:08:12.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Mixed results for SpaceX Starship rocket test flight",
+            "context": "Space technology company SpaceX is developing its Starship mega-rocket with the goal of making it fully reusable for future orbital missions. It regularly conducts test flights to practice recovering its stages.",
+            "summary": "During its latest test flight, SpaceX missed the recovery of the first stage of its Starship rocket. The booster crashed and exploded in the Gulf of Mexico after the capture attempt was aborted. On the other hand, the ship's second stage continued its trajectory and successfully placed itself into orbit. This test is described as a partial success by space sector observers.",
+            "stakes": [
+              "What will be the schedule for upcoming tests to validate Starship's full reusability?",
+              "How will this partial failure affect SpaceX's future space exploration projects?",
+              "What technical improvements will be made to the booster recovery system?"
+            ]
+          },
+          "es": {
+            "title": "Balance mixto para el vuelo de prueba del cohete Starship de SpaceX",
+            "context": "La empresa espacial SpaceX está desarrollando su megacohete Starship con vistas a reutilizarlo por completo para futuras misiones orbitales. Realiza regularmente vuelos de prueba para ensayar la recuperación de sus etapas.",
+            "summary": "Durante su último vuelo de prueba, SpaceX falló en la recuperación de la primera etapa de su cohete Starship. El propulsor se estrelló y explotó en el golfo de México tras la anulación del intento de captura. En cambio, la segunda etapa de la nave continuó su trayectoria y logró situarse en órbita. Este ensayo es calificado de éxito parcial por los observadores del sector espacial.",
+            "stakes": [
+              "¿Cuál será el calendario de las próximas pruebas para validar la reutilización completa de Starship?",
+              "¿Cómo afectará este fracaso parcial a los futuros proyectos de exploración espacial de SpaceX?",
+              "¿Qué mejoras técnicas se introducirán en el sistema de recuperación del propulsor?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s0db8dc11d5",
+        "topic": "societe",
+        "title": "Collision entre un cargo et un navire de croisière à La Nouvelle-Orléans",
+        "context": "Le fleuve Mississippi est une voie navigable majeure aux États-Unis, fréquentée par de nombreux navires de marchandise et de transport de passagers.",
+        "summary": "Un navire-citerne est entré en collision avec un bateau de croisière amarré à quai à La Nouvelle-Orléans, en Louisiane. Le choc a provoqué le chavirement de l'embarcation de tourisme, qui transportait environ 130 personnes. Les secours ont réussi à secourir l'ensemble des passagers et des membres d'équipage, évitant ainsi toute disparition. Une trentaine de personnes ont été hospitalisées pour des blessures légères.",
+        "stakes": [
+          "Quelles sont les causes exactes de cet accident de navigation sur le Mississippi ?",
+          "Quelles règles de sécurité maritime devront être renforcées dans la zone portuaire ?",
+          "Quel est le bilan des dégâts matériels pour les entreprises de transport concernées ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+            "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-14T11:30:10.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "BBC News",
+            "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+            "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-13T23:40:45.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "Tanker collides with cruise ship on Mississippi in New Orleans",
+            "link": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-13T21:31:00.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "Un navire-citerne percute un bateau de croisière à La Nouvelle-Orléans, aucun blessé grave",
+            "link": "https://www.lemonde.fr/international/article/2026/11/14/un-navire-citerne-percute-un-bateau-de-croisiere-a-la-nouvelle-orleans-aucun-blesse-grave_6809455_3210.html",
+            "publishedAt": "2026-11-14T00:35:34.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Collision between a cargo ship and a cruise ship in New Orleans",
+            "context": "The Mississippi River is a major navigable waterway in the United States, frequented by numerous cargo and passenger transport vessels.",
+            "summary": "A tanker ship collided with a docked cruise ship in New Orleans, Louisiana. The impact caused the tourism vessel, which was carrying about 130 people, to capsize. Rescue teams successfully rescued all passengers and crew members, avoiding any loss of life. About thirty people were hospitalized for minor injuries.",
+            "stakes": [
+              "What are the exact causes of this navigation accident on the Mississippi?",
+              "What maritime safety rules will need to be reinforced in the port area?",
+              "What is the assessment of material damages for the transport companies involved?"
+            ]
+          },
+          "es": {
+            "title": "Colisión entre un carguero y un buque de crucero en Nueva Orleans",
+            "context": "El río Misisipi es una vía navegable mayor en Estados Unidos, frecuentada por numerosos buques de mercancías y de transporte de pasajeros.",
+            "summary": "Un buque cisterna colisionó con un barco de crucero amarrado a muelle en Nueva Orleans, Luisiana. El impacto provocó el vuelco de la embarcación turística, que transportaba a unas 130 personas. Los equipos de rescate lograron socorrer a todos los pasajeros y miembros de la tripulación, evitando así cualquier desaparición. Alrededor de treinta personas fueron hospitalizadas con heridas leves.",
+            "stakes": [
+              "¿Cuáles son las causas exactas de este accidente de navegación en el Misisipi?",
+              "¿Qué normas de seguridad marítima deberán reforzarse en la zona portuaria?",
+              "¿Cuál es el balance de los daños materiales para las empresas de transporte afectadas?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s8bd1f3690b",
+        "topic": "societe",
+        "title": "Le pape Léon XIV achève sa tournée latino-américaine au Pérou",
+        "context": "Le souverain pontife effectue un voyage pastoral en Amérique latine. Il s'est notamment rendu en Argentine et en Uruguay avant d'arriver au Pérou.",
+        "summary": "Le pape Léon XIV a conclu sa tournée sud-américaine en se rendant au Pérou, un pays où il a vécu durant vingt ans. Il a été accueilli par des foules nombreuses, notamment lors d'une messe rassembleuse organisée près de la ville de Chiclayo. Le souverain pontife avait précédemment exercé la charge d'évêque dans ce diocèse péruvien pendant près de dix ans. Il a exprimé publiquement sa satisfaction d'être de retour dans ce territoire qu'il considère comme sa seconde patrie.",
+        "stakes": [
+          "Quel est le bilan pastoral et institutionnel de cette tournée papale en Amérique latine ?",
+          "Comment ce voyage influencera-t-il l'engagement de l'Église catholique dans la région ?",
+          "Quel impact ce retour marquera-t-il pour les fidèles et le diocèse de Chiclayo ?"
+        ],
+        "sources": [
+          {
+            "name": "France 24",
+            "title": "Léon XIV retrouve le Pérou, sa \"seconde patrie\", pour achever sa tournée",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261114-l%C3%A9on-xiv-retrouve-le-p%C3%A9rou-sa-seconde-patrie-pour-achever-sa-tourn%C3%A9e",
+            "publishedAt": "2026-11-14T10:14:31.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "Le pape Léon XIV accueilli triomphalement dans son ancien diocèse de Chiclayo, au Pérou : « Nous avons l’impression qu’il rentre à la maison »",
+            "link": "https://www.lemonde.fr/international/article/2026/11/14/le-pape-leon-xiv-accueilli-triomphalement-dans-son-ancien-diocese-de-chiclayo-au-perou-nous-avons-l-impression-qu-il-rentre-a-la-maison_6809853_3210.html",
+            "publishedAt": "2026-11-14T08:30:03.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "RFI",
+            "title": "En visite au Pérou, le pape Léon XIV retrouve son diocèse de Chiclayo",
+            "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261114-en-visite-au-p%C3%A9rou-le-pape-l%C3%A9on-xiv-retrouve-son-dioc%C3%A8se-de-chiclayo",
+            "publishedAt": "2026-11-14T05:35:53.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://s.france24.com/media/display/8c717fc4-e012-11f1-b8b7-5f54d898a954/w:1024/p:16x9/FR-20261114-100845-101035-CS.jpg",
+          "credit": "France 24",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261114-l%C3%A9on-xiv-retrouve-le-p%C3%A9rou-sa-seconde-patrie-pour-achever-sa-tourn%C3%A9e"
+        },
+        "i18n": {
+          "en": {
+            "title": "Pope Leo XIV concludes his Latin American tour in Peru",
+            "context": "The Sovereign Pontiff is undertaking a pastoral journey to Latin America. He notably visited Argentina and Uruguay before arriving in Peru.",
+            "summary": "Pope Leo XIV concluded his South American tour by visiting Peru, a country where he lived for twenty years. He was greeted by large crowds, notably during a mass gathering organized near the city of Chiclayo. The Sovereign Pontiff had previously served as bishop in this Peruvian diocese for nearly ten years. He publicly expressed his satisfaction at being back in this territory which he considers his second homeland.",
+            "stakes": [
+              "What is the pastoral and institutional assessment of this papal tour in Latin America?",
+              "How will this journey influence the engagement of the Catholic Church in the region?",
+              "What impact will this return mark for the faithful and the diocese of Chiclayo?"
+            ]
+          },
+          "es": {
+            "title": "El papa León XIV concluye su gira latinoamericana en Perú",
+            "context": "El Sumo Pontífice realiza un viaje pastoral a América Latina. Visitó en particular Argentina y Uruguay antes de llegar a Perú.",
+            "summary": "El papa León XIV concluyó su gira sudamericana desplazándose a Perú, un país donde vivió durante veinte años. Fue recibido por numerosas multitudes, especialmente durante una misa de acogida organizada cerca de la ciudad de Chiclayo. El Sumo Pontífice había ejercido anteriormente el cargo de obispo en esta diócesis peruana durante casi diez años. Expresó públicamente su satisfacción por estar de vuelta en este territorio que considera su segunda patria.",
+            "stakes": [
+              "¿Cuál es el balance pastoral e institucional de esta gira papal en América Latina?",
+              "¿Cómo influirá este viaje en el compromiso de la Iglesia católica en la región?",
+              "¿Qué impacto marcará este regreso para los fieles y la diócesis de Chiclayo?"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "storiesAt": "2026-11-14T11:41:37.724Z",
+  "inputHash": "35886f75d8162a773313d1ffd7fe397470e66b6d",
+  "synthStatus": "ok",
+  "news": {
+    "france": [
+      {
+        "id": "a990410d2d5",
+        "title": "La France interdit la pêche de loisir de l’anguille jaune, pour contrer l’effondrement de cette espèce",
+        "link": "https://www.lemonde.fr/planete/article/2026/11/14/la-france-interdit-la-peche-de-loisir-de-l-anguille-jaune-pour-contrer-l-effondrement-de-cette-espece_6810148_3244.html",
+        "summary": "En Europe, les anguilles ont diminué de quelque 90 % depuis les années 1980, et même de plus de 99 % par rapport aux années 1960.",
+        "image": "https://asset.lemde.fr/medias/img/social-network/default.png",
+        "publishedAt": "2026-11-14T11:33:13.000Z",
+        "source": "Le Monde",
+        "lang": "fr"
+      },
+      {
+        "id": "a18d5e5cf63",
+        "title": "Guerre en Ukraine : Zelensky dévoile une proposition américaine de céder le Donbass contre une adhésion à l’Otan",
+        "link": "https://www.la-croix.com/international/ukraine-russie-jour-1725-point-conflit-ukrainien-poutine-aujourdhui-20261114",
+        "summary": "Volodymyr Zelensky a révélé samedi 14 novembre que Washington lui aurait proposé des concessions territoriales contre une adhésion à l’Otan, tout en alertant sur les ambitions militaires russes cet hiver. Retrouvez l’actualité de la guerre en Ukraine de ce samedi 14 novembre.",
+        "image": "https://i.la-croix.com/x/2026/11/14/2589235-volodymyr-zelensky-au-sommet-de-dublin-vendredi-13.jpg",
+        "publishedAt": "2026-11-14T11:30:05.000Z",
+        "source": "La Croix",
+        "lang": "fr"
+      },
+      {
+        "id": "a1de57b6ba1",
+        "title": "«Nous ne pouvons même plus accéder à certaines zones» : les ONG contraintes de réduire l’aide humanitaire pour compenser le démantèlement de l’USaid",
+        "link": "https://www.liberation.fr/international/afrique/nous-ne-pouvons-meme-plus-acceder-a-certaines-zones-les-ong-contraintes-de-reduire-laide-humanitaire-pour-compenser-le-demantelement-de-lusaid-20261114_LEZIH5P2Q5FFBDIP5XJYXO3W3I/",
+        "summary": "Les coupes budgétaires américaines continuent de fragiliser les opérations humanitaires. Les fonds débloqués privilégient l’urgence et certaines crises, laissant les ONG sans visibilité pour la suite.",
+        "image": null,
+        "publishedAt": "2026-11-14T11:30:00.000Z",
+        "source": "Libération",
+        "lang": "fr"
+      },
+      {
+        "id": "ac0a98ff115",
+        "title": "Mobilisation étudiante : la présidente de l’université de Lorraine porte plainte après des menaces de mort",
+        "link": "https://www.liberation.fr/societe/education/mobilisation-etudiante-la-presidente-de-luniversite-de-lorraine-porte-plainte-apres-des-menaces-de-mort-20261114_TE6MTBNTJFEFHMTN2VDVZQEUMI/",
+        "summary": "Les intimidations sont notamment liées au refus de la présidence de valider automatiquement le semestre perturbé par la grogne, comme demandé par les étudiants.",
+        "image": null,
+        "publishedAt": "2026-11-14T11:29:29.000Z",
+        "source": "Libération",
+        "lang": "fr"
+      },
+      {
+        "id": "a05a28979fd",
+        "title": "Audition au sénat, enquête, charte… Des acteurs du trail se mobilisent pour la préservation de l’environnement",
+        "link": "https://www.ouest-france.fr/sport/running/trail/audition-au-senat-enquete-charte-des-acteurs-du-trail-se-mobilisent-pour-la-preservation-de-lenvironnement-58803f44-e00c-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Véritable succès populaire, le trail fait face à des problématiques environnementales nouvelles. Pour préserver les espaces naturels, la discipline s’organise et agit pour définir un cadre favorable sur le plan écologique.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExMjQ2M2M2NzQzZWQ2ZGYyNmJjMjRjNDViZmRlMzZmYmM?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=7d9c726d965cf8d8bda0d6b4303cef088360c9c32cc73aacc1a5d030a3e9ee24",
+        "publishedAt": "2026-11-14T11:28:46.000Z",
+        "source": "Ouest-France",
+        "lang": "fr"
+      },
+      {
+        "id": "a2540940ce4",
+        "title": "La présidente de l’université de Lorraine porte plainte pour menaces, une enquête ouverte",
+        "link": "https://www.ouest-france.fr/education/etudiant/universites/la-presidente-de-luniversite-de-lorraine-porte-plainte-pour-menaces-une-enquete-ouverte-d132505c-e017-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "« J’ai mis des mesures permettant de protéger mes proches que je pensais ne jamais devoir prendre un jour », a déclaré la présidente de l’université de Lorraine à l’« Est Républicain », après avoir fait l’objet de menaces sur les réseaux sociaux. Une enquête a été ouverte.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExYTlkY2I2OWI1MjlkMzZmZjRjZjhlNzc5ZWM3YzFkOWM?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=e6335c53e447aeb6793d353bd39a5f9f72ef38865fe88ae881d38db144989cbc",
+        "publishedAt": "2026-11-14T11:17:22.000Z",
+        "source": "Ouest-France",
+        "lang": "fr"
+      },
+      {
+        "id": "a1aeee71860",
+        "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que les Etats-Unis ont évoqué des concessions territoriales en échange d’une adhésion à l’OTAN",
+        "link": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-les-etats-unis-ont-evoque-des-concessions-territoriales-en-echange-d-une-adhesion-a-l-otan_6808609_3210.html",
+        "summary": "« C’est la première fois que cette question a été soulevée », a déclaré le président ukrainien, quelques jours après le dernier cycle de pourparlers de paix à Abou ⁠Dhabi. Il a répété que l’Ukraine n’était pas disposée à retirer ⁠ses ‌troupes et que les termes d’un éventuel accord de paix devraient ",
+        "image": "https://img.lemde.fr/2026/11/12/543/0/6754/3377/644/322/60/0/d5b1d16_ftp-1-ewrwnghrwutf-26d9ac290f55483da5fb4b7188da8cda-1-261a4dffa5174eaeb7abb0ca5e2ea62b.jpg",
+        "publishedAt": "2026-11-14T11:13:27.000Z",
+        "source": "Le Monde",
+        "lang": "fr"
+      },
+      {
+        "id": "a8825bd7e13",
+        "title": "Sylvain Delouvée, chercheur : « L’interaction sociale aide à se sentir considéré »",
+        "link": "https://www.la-croix.com/politique/sylvain-delouvee-chercheur-l-interaction-sociale-aide-a-se-sentir-considere-20261114",
+        "summary": "Sylvain Delouvée, enseignant en psychologie sociale à l’Université Rennes 2, revient sur les mécanismes à l’œuvre derrière le manque de considération. Et comment parer au ressentiment contemporain.",
+        "image": "https://i.la-croix.com/x/2026/11/14/2583144-a-l-appel-des-gilets-jaunes-de-commercy-une-assemb.jpg",
+        "publishedAt": "2026-11-14T11:12:50.000Z",
+        "source": "La Croix",
+        "lang": "fr"
+      },
+      {
+        "id": "afccbc0d4c2",
+        "title": "\"Nous n’avons pas évolué pour faire un régime\" : les leçons pour bien manger du professeur à Harvard Daniel Lieberman",
+        "link": "https://www.lexpress.fr/sciences-sante/nous-navons-pas-evolue-pour-faire-un-regime-les-lecons-pour-bien-manger-du-professeur-a-harvard-DW2CNWKBY5CVVOIBHNAXSK5ZOU/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/MXD4LH2LPFFOZHKYOYNYZJGSZU.JPG?auth=512800dd613eb5faafdfe7088089b1408bbb379592c276945018038febf46553&smart=true&width=5760&height=3840",
+        "publishedAt": "2026-11-14T11:00:00.000Z",
+        "source": "L'Express",
+        "lang": "fr"
+      },
+      {
+        "id": "a60ae342de5",
+        "title": "Avec cet abonnement télépéage Bip&Go, vous offrez un spectacle à un enfant pour le Black Friday solidaire",
+        "link": "https://www.lefigaro.fr/bons-plans/black-friday/avec-cet-abonnement-telepeage-bip-go-vous-offrez-un-spectacle-a-un-enfant-pour-le-black-friday-solidaire-20261114",
+        "summary": "Et si vos prochains trajets faisaient aussi des heureux ? Pour le Black Friday, Bip&amp;Go lance une opération solidaire permettant d’offrir un spectacle à un enfant tout en profitant d’avantages exclusifs. Découvrez tout ce qu’il y a à savoir !",
+        "image": "https://i.f1g.fr/media/cms/1200x800_crop/2026/11/14/f9af94f9d3279b69bd549dbea125f045d6705bdadd9ca38c5983e71c91736173.png",
+        "publishedAt": "2026-11-14T10:55:00.000Z",
+        "source": "Le Figaro",
+        "lang": "fr"
+      },
+      {
+        "id": "a5ebf9f971b",
+        "title": "À peine arrivé, l’ex-ministre de la Santé François Braun quitte la campagne de Teddy Riner",
+        "link": "https://www.lefigaro.fr/politique/a-peine-arrive-l-ex-ministre-de-la-sante-francois-braun-quitte-la-campagne-de-teddy-riner-20261114",
+        "summary": "Il était présenté comme une figure crédible, donnant du poids à celle du champion de judo. Six jours après le lancement de la campagne du candidat ni de droite ni de gauche, l’ex-ministre du gouvernement Borne quitte le bateau.",
+        "image": "https://i.f1g.fr/media/cms/2998x1687_crop/2026/11/14/1bed7da8700288e14d315992068e46fa321de56dcba8368f967739550a1704ab.jpg",
+        "publishedAt": "2026-11-14T10:44:31.000Z",
+        "source": "Le Figaro",
+        "lang": "fr"
+      },
+      {
+        "id": "a83e4e3eb56",
+        "title": "Ukraine : Washington aurait proposé une cession du Donbass en échange d'une adhésion à l'Otan, Volodymyr Zelensky envisage un référendum",
+        "link": "https://www.lexpress.fr/monde/europe/ukraine-washington-aurait-propose-une-cession-du-donbass-en-echange-dune-adhesion-a-lotan-volodymyr-VJOP65NI2JDMNEU4FSHCOL32RQ/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/HSXOWP5RSBHQ5AUWMINSCM25KY.JPG?auth=d5ecbfd1247de0761af5c6a1a976b2534c9fe6b2e11084e96a8ff041f276650d&smart=true&width=6000&height=4000",
+        "publishedAt": "2026-11-14T10:12:15.000Z",
+        "source": "L'Express",
+        "lang": "fr"
+      },
+      {
+        "id": "a2536e0f8e6",
+        "title": "Un adolescent tué lors d'une course de voitures sauvage près de Clermont-Ferrand",
+        "link": "https://www.franceinfo.fr/faits-divers/un-adolescent-tue-lors-d-une-course-de-voitures-sauvage-pres-de-clermont-ferrand_8282270.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Une enquête est ouverte pour homicide routier aggravé. Le conducteur en fuite.",
+        "image": "https://www.franceinfo.fr/pictures/fGPzaPpsDVog4iuAZmPcC3YX0QE/432x243/filters:format(jpg)/2026/08/19/6a857da2e3c87457062436.jpg",
+        "publishedAt": "2026-11-14T09:31:26.000Z",
+        "source": "franceinfo",
+        "lang": "fr"
+      },
+      {
+        "id": "a1fddf52e1f",
+        "title": "Interdictions de manifestations, couvre-feux, parcours hors des centres-villes… Comment les préfets multiplient les mesures administratives en amont des mobilisations",
+        "link": "https://www.franceinfo.fr/societe/manifestations/interdictions-de-manifestations-couvre-feux-parcours-hors-des-centres-villes-comment-les-prefets-multiplient-les-mesures-administratives-en-amont-des-mobilisations_8274263.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Depuis le 1er octobre, 219 arrêtés concernant le mouvement lycéen ou les manifestations contre la vie chère ont été pris par la préfecture de police de Paris, d'après le décompte de franceinfo.",
+        "image": "https://www.franceinfo.fr/pictures/-TvsmB4XeLJ_KtApHrJmrHwpc_A/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/13/6af6cbdbef77c753960787.png",
+        "publishedAt": "2026-11-14T06:12:24.000Z",
+        "source": "franceinfo",
+        "lang": "fr"
+      }
+    ],
+    "monde": [
+      {
+        "id": "a0db8dc11d5",
+        "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+        "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+        "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg",
+        "publishedAt": "2026-11-14T11:30:10.000Z",
+        "source": "BBC News",
+        "lang": "en"
+      },
+      {
+        "id": "a858ac96aaa",
+        "title": "New facilities in Laos and Cambodia: Is China expanding its military presence in Southeast Asia?",
+        "link": "https://www.dw.com/en/new-facilities-in-laos-and-cambodia-is-china-expanding-its-military-presence-in-southeast-asia/a-79944798?maca=en-rss-en-world-4025-rdf",
+        "summary": "China has been growing its economic relationships in Southeast Asia. Now new military facilities in Laos and Cambodia are causing smaller countries to worry China's military networks are also expanding.",
+        "image": null,
+        "publishedAt": "2026-11-14T11:24:00.000Z",
+        "source": "Deutsche Welle",
+        "lang": "en"
+      },
+      {
+        "id": "a939bf44290",
+        "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
+        "link": "https://www.aljazeera.com/sports/2026/11/14/usman-nurmagomedov-merab-dvalishvili-abu-dhabi-hotel-brawl-jail-sentence?traffic_source=rss",
+        "summary": "A brawl broke out between the two MMA fighters and their teams inside a hotel before a wrestling event.",
+        "image": null,
+        "publishedAt": "2026-11-14T11:14:18.000Z",
+        "source": "Al Jazeera",
+        "lang": "en"
+      },
+      {
+        "id": "a1aeee71860",
+        "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que les Etats-Unis ont évoqué des concessions territoriales en échange d’une adhésion à l’OTAN",
+        "link": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-les-etats-unis-ont-evoque-des-concessions-territoriales-en-echange-d-une-adhesion-a-l-otan_6808609_3210.html",
+        "summary": "« C’est la première fois que cette question a été soulevée », a déclaré le président ukrainien, quelques jours après le dernier cycle de pourparlers de paix à Abou ⁠Dhabi. Il a répété que l’Ukraine n’était pas disposée à retirer ⁠ses ‌troupes et que les termes d’un éventuel accord de paix devraient ",
+        "image": "https://img.lemde.fr/2026/11/12/543/0/6754/3377/644/322/60/0/d5b1d16_ftp-1-ewrwnghrwutf-26d9ac290f55483da5fb4b7188da8cda-1-261a4dffa5174eaeb7abb0ca5e2ea62b.jpg",
+        "publishedAt": "2026-11-14T11:13:27.000Z",
+        "source": "Le Monde International",
+        "lang": "fr"
+      },
+      {
+        "id": "a0eb8ac3adf",
+        "title": "Nvidia sans Jensen Huang, les risques du culte de la personnalité dans la tech",
+        "link": "https://www.france24.com/fr/vid%C3%A9o/20261114-nvidia-sans-jensen-huang-les-risques-du-culte-de-la-personnalit%C3%A9-dans-la-tech",
+        "summary": "À Taïwan comme dans la Silicon Valley, Jensen Huang était devenu une véritable \"rock star\" de la tech et le visage de Nvidia. Son départ brutal pose désormais une question centrale : à l'heure de l'IA, une entreprise peut-elle rester aussi dépendante d'un seul dirigeant ?",
+        "image": "https://s.france24.com/media/display/d4b16a32-e018-11f1-bb3b-3f371022a770/w:1024/p:16x9/FR-20261114-110321-110510-CS-01.jpg",
+        "publishedAt": "2026-11-14T11:13:08.000Z",
+        "source": "France 24",
+        "lang": "fr"
+      },
+      {
+        "id": "afcc1899af9",
+        "title": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
+        "link": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+        "summary": "Prime ministerial hopeful calls Arab minority ‘an integral part of the Israeli story’ as he seeks to form government Israeli prime ministerial hopeful Gadi Eisenkot condemned a “racist and aggressive campaign of delegitimisation” against the country’s Arab citizens, after the caretaker prime ministe",
+        "image": "https://i.guim.co.uk/img/media/caafae25c0bca6314b12439ac03f6e61770f8341/308_0_3083_2466/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=94d792291c0caa876c75116721318aaf",
+        "publishedAt": "2026-11-14T11:11:03.000Z",
+        "source": "The Guardian",
+        "lang": "en"
+      },
+      {
+        "id": "ab58149e995",
+        "title": "Heat hammer Hurricanes to hand WBBL champions sixth straight loss",
+        "link": "https://www.abc.net.au/news/2026-11-14/hobart-hurricanes-hammered-by-brisbane-heat-in-wbbl/107386442",
+        "summary": "The Hobart Hurricanes' WBBL defence falls further into tatters with a humiliating 10-wicket loss to the Brisbane Heat.",
+        "image": "https://live-production.wcms.abc-cdn.net.au/647d115bffa3f8300b8a68d373dd9e6a?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=60&width=862&height=485",
+        "publishedAt": "2026-11-14T08:34:29.000Z",
+        "source": "ABC News (Australie)",
+        "lang": "en"
+      },
+      {
+        "id": "a92fe297395",
+        "title": "What's Trump's strategy now with Iran? To keep things as they are",
+        "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+        "summary": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/3377x1900!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F75%2Ff4%2Fdda272054cc49d1d325e1fb89080%2F0eb9a283-2aff-4d96-b972-8f285cd219b7.jpg",
+        "publishedAt": "2026-11-13T19:02:04.000Z",
+        "source": "NPR",
+        "lang": "en"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "franceinfo (France)",
+      "url": "https://www.francetvinfo.fr/france.rss",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Le Monde (France)",
+      "url": "https://www.lemonde.fr/rss/une.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Le Figaro (France)",
+      "url": "https://www.lefigaro.fr/rss/figaro_actualites-a-la-une.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Libération (France)",
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Ouest-France (France)",
+      "url": "https://www.ouest-france.fr/rss/une",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "La Croix (France)",
+      "url": "https://www.la-croix.com/RSS",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "L'Express (France)",
+      "url": "https://www.lexpress.fr/rss/alaune.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Le Parisien (France)",
+      "url": "https://feeds.leparisien.fr/leparisien/rss",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "BBC News (Monde)",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "The Guardian (Monde)",
+      "url": "https://www.theguardian.com/world/rss",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Deutsche Welle (Monde)",
+      "url": "https://rss.dw.com/rdf/rss-en-world",
+      "ok": true,
+      "count": 11
+    },
+    {
+      "name": "Al Jazeera (Monde)",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "NPR (Monde)",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "ok": true,
+      "count": 3
+    },
+    {
+      "name": "ABC News (Australie) (Monde)",
+      "url": "https://www.abc.net.au/news/feed/2942460/rss.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "France 24 (Monde)",
+      "url": "https://www.france24.com/fr/rss",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Le Monde International (Monde)",
+      "url": "https://www.lemonde.fr/international/rss_full.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "RFI (Monde)",
+      "url": "https://www.rfi.fr/fr/rss",
+      "ok": true,
+      "count": 12
+    }
+  ],
+  "meteo": {
+    "ok": false,
+    "city": "Montaigu-Vendée",
+    "source": "Open-Meteo",
+    "sourceUrl": "https://open-meteo.com/en/docs",
+    "fetchedAt": null
+  },
+  "carburants": {
+    "ok": false,
+    "prices": [],
+    "best": {},
+    "stationsVerifiees": 0,
+    "source": "prix-carburants.gouv.fr",
+    "sourceUrl": "https://www.prix-carburants.gouv.fr/rubrique/opendata/"
+  },
+  "culture": [
+    {
+      "title": "3 artistes, 3 sensibilités, un même souffle !",
+      "discipline": "Peinture et photographie",
+      "artist": "Céline Ranger, Évelyne Gaillou et Bujo",
+      "city": "Clisson",
+      "venue": "Galerie Saint-Antoine, 7 rue Saint-Antoine",
+      "start": "2026-11-06",
+      "end": "2026-11-15",
+      "details": "Entrée gratuite ; du mercredi au dimanche, de 11 h à 18 h.",
+      "source": "Destination Vignoble Nantais",
+      "sourceUrl": "https://www.destination-vignoble-nantais.com/que-faire-vignoble-nantais/agenda/3-artistes-3-sensibilites-un-meme-souffle-clisson-fr-6875540/"
+    },
+    {
+      "title": "Océanissime Nantes 2026",
+      "discipline": "Peinture, gravure, photographie et sculpture",
+      "artist": "Seize membres de l’Académie des Arts et Sciences de la Mer",
+      "city": "Nantes",
+      "venue": "Maison de la Mer, 54 quai de la Fosse",
+      "start": "2026-11-07",
+      "end": "2026-11-22",
+      "details": "Plus de cent œuvres ; entrée gratuite. Horaires détaillés sur le site de Nantes Métropole.",
+      "source": "Nantes Métropole",
+      "sourceUrl": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/45675254_exposition-oceanissime-nantes-2026"
+    },
+    {
+      "title": "La figure de l’héroïne",
+      "discipline": "Peinture et histoire de l’art",
+      "artist": "Exposition consacrée aux représentations féminines du XIXe siècle",
+      "city": "La Roche-sur-Yon",
+      "venue": "Musée – Espace Malraux",
+      "start": "2026-11-03",
+      "end": "2027-02-07",
+      "details": "Exposition temporaire. Vérifier les horaires d’ouverture avant la visite.",
+      "source": "Ville de La Roche-sur-Yon",
+      "sourceUrl": "https://larochesuryon.fr/actualites/les-heroines-du-xixe-siecle-sexposent-a-la-roche/"
+    }
+  ],
+  "history": [],
+  "checks": {
+    "actualites": true,
+    "meteo": false,
+    "carburants": false
+  }
+}
