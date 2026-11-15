@@ -1,0 +1,1670 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T12:15:59.003Z",
+  "status": "complète",
+  "stories": {
+    "france": [
+      {
+        "id": "s877b0027e1",
+        "topic": "sciences_tech",
+        "title": "Cyberattaque massive ciblant Maileva et fuite de données personnelles",
+        "context": "Maileva, une filiale spécialisée dans la gestion du courrier et rattachée au groupe La Poste, héberge les coordonnées de millions d'usagers. Les attaques informatiques visant les prestataires de services se sont multipliées ces derniers mois en France.",
+        "summary": "La plateforme Maileva a fait l'objet d'une piraterie informatique survenue à la mi-septembre. L'incursion a entraîné le vol des identités et des adresses postales d'environ 22 millions d'individus. La presse souligne l'ampleur inédite de cette fuite d'informations à l'échelle nationale. Une enquête a été ouverte pour évaluer l'étendue des préjudices et analyser les failles de sécurité. Les autorités invitent les usagers concernés à la vigilance face à d'éventuelles sollicitations frauduleuses.",
+        "stakes": [
+          "Quelles mesures de protection pour les données des usagers ?",
+          "Quel risque de fraudes ultérieures pour les personnes touchées ?",
+          "Comment restaurer la confiance envers les filiales des services publics ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Figaro",
+            "title": "Cyberattaque chez Maileva, filiale de La Poste : ce que l’on sait du vol des données personnelles de 22 millions de personnes",
+            "link": "https://www.lefigaro.fr/secteur/high-tech/cyberattaque-chez-maileva-filiale-de-la-poste-ce-que-l-on-sait-du-vol-des-donnees-personnelles-d-un-tiers-de-la-population-francaise-20261115",
+            "publishedAt": "2026-11-15T11:09:44.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Cyberattaque de Maileva : la filiale de La Poste touchée par un vol de données concernant 22 millions de personnes",
+            "link": "https://www.la-croix.com/une-filiale-de-la-poste-victime-d-un-vol-de-donnees-massif-22-millions-de-personnes-concernees-20261114",
+            "publishedAt": "2026-11-15T09:00:06.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://i.f1g.fr/media/cms/2996x1686_crop/2026/11/15/b614874a5f03c2c2070fb7bfd6b3ca1251089829860d55f93d7648d2d7a452e4.jpg",
+          "credit": "Le Figaro",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/cyberattaque-chez-maileva-filiale-de-la-poste-ce-que-l-on-sait-du-vol-des-donnees-personnelles-d-un-tiers-de-la-population-francaise-20261115"
+        },
+        "i18n": {
+          "en": {
+            "title": "Massive Cyberattack Targeting Maileva and Personal Data Leak",
+            "context": "Maileva, a subsidiary specializing in mail management and affiliated with the La Poste group, hosts the contact details of millions of users. Cyberattacks targeting service providers have multiplied in recent months in France.",
+            "summary": "The Maileva platform was the target of a cyberattack in mid-September. The breach resulted in the theft of identities and postal addresses belonging to approximately 22 million individuals. The press highlights the unprecedented scale of this data leak at the national level. An investigation has been opened to assess the extent of the damage and analyze security flaws. Authorities are urging affected users to remain vigilant against potential fraudulent solicitations.",
+            "stakes": [
+              "What protection measures for user data?",
+              "What risk of subsequent fraud for affected individuals?",
+              "How to restore trust in public service subsidiaries?"
+            ]
+          },
+          "es": {
+            "title": "Ciberataque masivo contra Maileva y filtración de datos personales",
+            "context": "Maileva, una filial especializada en la gestión de correspondencia y vinculada al grupo La Poste, aloja los datos de contacto de millones de usuarios. Los ataques informáticos contra proveedores de servicios se han multiplicado en los últimos meses en Francia.",
+            "summary": "La plataforma Maileva fue objeto de un ataque informático a mediados de septiembre. La incursión provocó el robo de las identidades y direcciones postales de unos 22 millones de personas. La prensa destaca la magnitud sin precedentes de esta filtración de datos a escala nacional. Se ha abierto una investigación para evaluar el alcance de los daños y analizar los fallos de seguridad. Las autoridades instan a los usuarios afectados a permanecer alerta ante posibles solicitudes fraudulentas.",
+            "stakes": [
+              "¿Qué medidas de protección para los datos de los usuarios?",
+              "¿Qué riesgo de fraudes posteriores existe para las personas afectadas?",
+              "¿Cómo restablecer la confianza en las filiales de los servicios públicos?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "se56452acfc",
+        "topic": "sciences_tech",
+        "title": "SpaceX réussit le retour de l'étage supérieur de Starship",
+        "context": "La société d'exploration spatiale SpaceX développe sa mégafusée Starship afin de permettre des vols réutilisables à destination de la Lune et de Mars. L'entreprise cherchait à maîtriser l'atterrissage contrôlé de ses lanceurs lourds.",
+        "summary": "Lors d'un test expérimental récent, SpaceX est parvenue à récupérer intact l'étage supérieur de son lanceur spatial. La manœuvre complexe s'est conclue par le positionnement précis de la structure au niveau de sa tour de lancement. Cette réussite technique représente un jalon important pour l'industrie aérospatiale américaine. Le secteur ambitionne ainsi d'abaisser les coûts des missions spatiales futures. La réutilisation rapide des équipements constitue le cœur de la stratégie de l'entreprise.",
+        "stakes": [
+          "Quel impact pour les futurs programmes d'exploration lunaire ?",
+          "Quelle accélération de la réutilisabilité des fusées spatiales ?",
+          "Quelles conséquences pour la compétitivité du secteur aérospatial ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "SpaceX réussit pour la première fois à récupérer l’étage supérieur de «Starship»",
+            "link": "https://www.liberation.fr/sciences/espace/spacex-reussit-pour-la-premiere-fois-a-recuperer-letage-superieur-de-starship-20261115_JOFBITPBVVEE5KCJCMJZ6WH45M/",
+            "publishedAt": "2026-11-15T09:17:00.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "L'Express",
+            "title": "SpaceX : Starship réussit une première historique en revenant se poser dans les bras de sa tour de lancement",
+            "link": "https://www.lexpress.fr/monde/amerique/spacex-starship-reussit-une-premiere-historique-en-revenant-se-poser-dans-les-bras-de-sa-tour-de-DNETDQ63BBF2BO42OS5GURWTNE/",
+            "publishedAt": "2026-11-15T08:24:59.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.lexpress.fr/resizer/v2/3Z2EUNYFBBBQLEOOFACF6LERL4.JPG?auth=7bf969fcfd30efdd100aef9a7b1a2c5882086fcd2240a8b0b1fed6c3cbda07d1&smart=true&width=3814&height=2630",
+          "credit": "L'Express",
+          "link": "https://www.lexpress.fr/monde/amerique/spacex-starship-reussit-une-premiere-historique-en-revenant-se-poser-dans-les-bras-de-sa-tour-de-DNETDQ63BBF2BO42OS5GURWTNE/"
+        },
+        "i18n": {
+          "en": {
+            "title": "SpaceX Successfully Recovers Starship's Upper Stage",
+            "context": "The space exploration company SpaceX is developing its Starship mega-rocket to enable reusable flights to the Moon and Mars. The company was seeking to master the controlled landing of its heavy launchers.",
+            "summary": "During a recent experimental test, SpaceX managed to recover the upper stage of its space launcher intact. The complex maneuver concluded with the precise positioning of the structure at its launch tower. This technical success represents an important milestone for the American aerospace industry. The sector aims to lower the costs of future space missions. Rapid equipment reuse lies at the heart of the company's strategy.",
+            "stakes": [
+              "What impact for future lunar exploration programs?",
+              "What acceleration in space rocket reusability?",
+              "What consequences for the competitiveness of the aerospace sector?"
+            ]
+          },
+          "es": {
+            "title": "SpaceX logra el regreso de la etapa superior de Starship",
+            "context": "La empresa de exploración espacial SpaceX está desarrollando su megarohete Starship para hacer posibles vuelos reutilizables a la Luna y a Marte. La compañía buscaba dominar el aterrizaje controlado de sus lanzadores pesados.",
+            "summary": "Durante una prueba experimental reciente, SpaceX logró recuperar intacta la etapa superior de su lanzador espacial. La compleja maniobra concluyó con el posicionamiento preciso de la estructura en su torre de lanzamiento. Este éxito técnico representa un hito importante para la industria aeroespacial estadounidense. El sector aspira así a reducir los costes de las futuras misiones espaciales. La rápida reutilización de los equipos constituye el núcleo de la estrategia de la empresa.",
+            "stakes": [
+              "¿Qué impacto tendrá en los futuros programas de exploración lunar?",
+              "¿Qué aceleración supondrá para la reutilización de cohetes espaciales?",
+              "¿Cuáles serán las consecuencias para la competitividad del sector aeroespacial?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s06c248b8b9",
+        "topic": "economie",
+        "title": "Chiffrage du coût des revalorisations salariales pour l'État",
+        "context": "Dans un climat de revendications sociales portant sur le pouvoir d'achat, le gouvernement a annoncé des mesures salariales ciblées. Celles-ci concernent l'augmentation du revenu minimum légal ainsi qu'une revalorisation des rémunérations les plus basses de la fonction publique.",
+        "summary": "Le ministère des Comptes publics évalue à un peu plus d'un milliard d'euros le coût des revalorisations prévues au 1er décembre. L'augmentation fixée à 1,6 % du salaire minimum s'accompagne d'un complément annuel brut estimé à 350 euros pour plus d'un million d'agents publics. Les syndicats de fonctionnaires maintiennent toutefois leurs exigences quant à une hausse générale de la valeur du point d'indice. L'exécutif justifie ces décisions par l'urgence de soutenir le pouvoir d'achat des travailleurs modestes.",
+        "stakes": [
+          "Quel impact de ces revalorisations sur le budget public ?",
+          "Comment concilier soutien au pouvoir d'achat et maîtrise des dépenses ?",
+          "Les syndicats poursuivront-ils leurs actions de protestation ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "La hausse de 1,6 % du smic et des « bas salaires » des fonctionnaires coûteront « un peu plus de 1 milliard d’euros », selon le gouvernement",
+            "link": "https://www.lemonde.fr/politique/article/2026/11/15/les-revalorisations-du-smic-et-des-bas-salaires-des-fonctionnaires-couteront-un-peu-plus-de-1-milliard-d-euros-aux-finances-publiques-selon-le-gouvernement_6811009_823448.html",
+            "publishedAt": "2026-11-15T10:09:57.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "Le gouvernement chiffre à environ 1 milliard d’euros les gestes pour les bas salaires",
+            "link": "https://www.liberation.fr/economie/social/le-gouvernement-chiffre-a-environ-1-milliard-deuros-les-gestes-pour-les-bas-salaires-20261115_SWSZRZNYERBULLREF3KQ7I5XUY/",
+            "publishedAt": "2026-11-15T10:52:35.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/03/664/0/8000/4000/644/322/60/0/fa2aa4c_upload-1-0ngovo7atcvt-jmug261103046.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/politique/article/2026/11/15/les-revalorisations-du-smic-et-des-bas-salaires-des-fonctionnaires-couteront-un-peu-plus-de-1-milliard-d-euros-aux-finances-publiques-selon-le-gouvernement_6811009_823448.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Cost of Wage Increases for the State Quantified",
+            "context": "In a climate of social demands regarding purchasing power, the government announced targeted wage measures. These involve raising the legal minimum wage as well as increasing the lowest public sector salaries.",
+            "summary": "The Ministry of Public Accounts estimates the cost of the wage increases scheduled for December 1 at just over one billion euros. The 1.6% increase in the minimum wage is accompanied by an estimated gross annual top-up of 350 euros for more than one million public servants. However, civil service unions maintain their demands for an across-the-board increase in the index point value. The executive justifies these decisions by the urgent need to support the purchasing power of low-income workers.",
+            "stakes": [
+              "What is the impact of these wage increases on the public budget?",
+              "How to reconcile support for purchasing power with spending control?",
+              "Will unions continue their protest actions?"
+            ]
+          },
+          "es": {
+            "title": "Cuantificación del coste de los aumentos salariales para el Estado",
+            "context": "En un clima de reivindicaciones sociales en torno al poder adquisitivo, el gobierno anunció medidas salariales específicas. Estas contemplan el aumento del salario mínimo legal, así como una revalorización de las remuneraciones más bajas de la función pública.",
+            "summary": "El Ministerio de Cuentas Públicas calcula en algo más de mil millones de euros el coste de los aumentos salariales previstos para el 1 de diciembre. El incremento del 1,6 % en el salario mínimo se complementa con una asignación anual bruta estimada en 350 euros para más de un millón de empleados públicos. Sin embargo, los sindicatos de funcionarios mantienen sus exigencias de un aumento general del valor del punto índice. El ejecutivo justifica estas decisiones por la urgencia de respaldar el poder adquisitivo de los trabajadores con ingresos modestos.",
+            "stakes": [
+              "¿Qué impacto tendrán estos aumentos en el presupuesto público?",
+              "¿Cómo conciliar el apoyo al poder adquisitivo con el control del gasto?",
+              "¿Continuarán los sindicatos con sus protestas?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sfb1f552f79",
+        "topic": "sport",
+        "title": "Succès du cycliste Paul Seixas au Critérium de Saitama",
+        "context": "Le jeune coureur français Paul Seixas concluait au Japon sa première saison au plus haut niveau professionnel du cyclisme sur route. Les épreuves d'exhibition de fin d'année réunissent régulièrement les grands noms du peloton international.",
+        "summary": "Âgé de 20 ans, Paul Seixas s'est imposé lors du Critérium de Saitama sur le sol japonais. Le cycliste tricolore a devancé sur la ligne d'arrivée l'Américain Brandon McNulty, titré champion du monde. Cette victoire conclut une série de performances en Asie après une deuxième place décrochée une semaine plus tôt à Singapour. Le sportif achève ainsi une saison marquée par l'obtention de ses premiers succès professionnels. La presse souligne l'émergence rapide de ce jeune talent au sein de l'élite.",
+        "stakes": [
+          "Quelle progression pour le jeune coureur dans la hiérarchie mondiale ?",
+          "Quel avenir pour le cyclisme tricolore au plus haut niveau ?",
+          "Comment confirmer ces performances lors des compétitions à venir ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Paul Seixas remporte le Critérium de Saitama, un succès pour « bien finir » sa belle année 2026",
+            "link": "https://www.lemonde.fr/sport/article/2026/11/15/paul-seixas-remporte-le-criterium-de-saitama-un-succes-pour-bien-finir-sa-belle-annee-2026_6811010_3242.html",
+            "publishedAt": "2026-11-15T10:51:55.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "Cyclisme. Paul Seixas termine sa saison par une victoire devant le champion du monde Brandon McNulty",
+            "link": "https://www.ouest-france.fr/sport/cyclisme/paul-seixas/cyclisme-paul-seixas-gagne-le-criterium-de-saitama-devant-le-champion-du-monde-brandon-mcnulty-4bb5f92a-e0d4-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-15T10:51:56.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/15/1141/0/6846/3423/644/322/60/0/ebea3a4_ftp-1-g1cst6mjtxox-afp-d7hm6r3.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/sport/article/2026/11/15/paul-seixas-remporte-le-criterium-de-saitama-un-succes-pour-bien-finir-sa-belle-annee-2026_6811010_3242.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Cyclist Paul Seixas Triumphs at Saitama Criterium",
+            "context": "Young French rider Paul Seixas concluded his first season at the highest professional level of road cycling in Japan. Year-end exhibition races regularly bring together the big names of the international peloton.",
+            "summary": "At 20 years old, Paul Seixas claimed victory at the Saitama Criterium on Japanese soil. The French cyclist crossed the finish line ahead of American world champion Brandon McNulty. This victory caps a series of strong performances in Asia following a second-place finish a week earlier in Singapore. The athlete thus wraps up a season highlighted by his first professional successes. The press highlights the rapid emergence of this young talent among the elite.",
+            "stakes": [
+              "What progression for the young rider in the global hierarchy?",
+              "What future for French cycling at the highest level?",
+              "How to confirm these performances in upcoming competitions?"
+            ]
+          },
+          "es": {
+            "title": "Éxito del ciclista Paul Seixas en el Criterium de Saitama",
+            "context": "El joven corredor francés Paul Seixas concluyó en Japón su primera temporada en el máximo nivel profesional del ciclismo de ruta. Las pruebas de exhibición de fin de año reúnen con frecuencia a las grandes figuras del pelotón internacional.",
+            "summary": "A sus 20 años, Paul Seixas se impuso en el Criterium de Saitama en tierras japonesas. El ciclista francés superó en la línea de meta al estadounidense Brandon McNulty, proclamado campeón del mundo. Esta victoria corona una serie de actuaciones destacadas en Asia, tras haber obtenido un segundo puesto una semana antes en Singapur. El deportista cierra así una temporada marcada por la obtención de sus primeros triunfos profesionales. La prensa destaca la rápida consolidación de este joven talento dentro de la élite.",
+            "stakes": [
+              "¿Qué progresión tendrá el joven corredor en la jerarquía mundial?",
+              "¿Qué futuro le espera al ciclismo francés en el máximo nivel?",
+              "¿Cómo consolidar estas actuaciones en las próximas competiciones?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s3ada9015a4",
+        "topic": "sport",
+        "title": "Préparatifs de l'équipe de France de football avant la Turquie",
+        "context": "La sélection tricolore de football sort d'une défaite subie face à l'Italie en compétition internationale. L'équipe prépare une rencontre décisive contre la Turquie sous la direction du sélectionneur Zinédine Zidane.",
+        "summary": "À la veille de la rencontre contre l'équipe de Turquie, le sélectionneur a appelé au calme à la suite du récent revers en Italie. La sélection enregistre le retour de son capitaine Kylian Mbappé, remis de son indisponibilité. La presse sportive souligne l'attente autour de l'attaquant pour redresser la dynamique du collectif tricolore. Zinédine Zidane a confirmé sa confiance envers le groupe pour réagir au plus vite. Les joueurs cherchent à rassurer leur public lors de ce rendez-vous.",
+        "stakes": [
+          "L'équipe de France parviendra-t-elle à s'imposer contre la Turquie ?",
+          "Quel impact du retour du capitaine sur le niveau du collectif ?",
+          "Comment gérer la pression après un revers récent ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Figaro",
+            "title": "France-Turquie : Kylian Mbappé, pourquoi le retour du patron des Bleus est (très) attendu",
+            "link": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-kylian-mbappe-pourquoi-le-retour-du-patron-des-bleus-est-tres-attendu-20261115",
+            "publishedAt": "2026-11-15T11:00:00.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "Équipe de France. Zinédine Zidane appelle au calme après la défaite face à l’Italie et savoure le retour de Mbappé",
+            "link": "https://www.ouest-france.fr/sport/football/equipe-de-france/equipe-de-france-zinedine-zidane-appelle-au-calme-apres-la-defaite-face-a-litalie-et-savoure-le-retour-de-mbappe-7046c4be-e0e2-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-15T11:29:09.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/13/4691c7952b19b40bc1658700238f5fa1355a321e07f9011092bc7e553ca9bc61.jpg",
+          "credit": "Le Figaro",
+          "link": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-kylian-mbappe-pourquoi-le-retour-du-patron-des-bleus-est-tres-attendu-20261115"
+        },
+        "i18n": {
+          "en": {
+            "title": "French National Football Team Prepares Ahead of Turkey Clash",
+            "context": "The French national football team is coming off a defeat against Italy in international competition. The squad is preparing for a decisive match against Turkey under manager Zinédine Zidane.",
+            "summary": "On the eve of the match against Turkey, the manager called for calm following the recent setback in Italy. The squad welcomes back its captain Kylian Mbappé, who has recovered and is available again. The sports press highlights the high expectations surrounding the forward to revive the team's momentum. Zinédine Zidane reaffirmed his confidence in the squad to bounce back promptly. The players are looking to reassure their supporters during this encounter.",
+            "stakes": [
+              "Will the French team manage to win against Turkey?",
+              "What impact will the captain's return have on the squad's performance?",
+              "How to handle pressure following a recent defeat?"
+            ]
+          },
+          "es": {
+            "title": "Preparativos de la selección francesa de fútbol antes de enfrentarse a Turquía",
+            "context": "La selección francesa de fútbol viene de sufrir una derrota frente a Italia en competición internacional. El equipo prepara un encuentro decisivo contra Turquía bajo la dirección del seleccionador Zinédine Zidane.",
+            "summary": "En la víspera del partido contra el combinado turco, el seleccionador llamó a la calma tras el reciente revés sufrido en Italia. La selección celebra el regreso de su capitán Kylian Mbappé, ya recuperado de su indisponibilidad. La prensa deportiva destaca las expectativas puestas en el delantero para reactivar la dinámica colectiva del equipo. Zinédine Zidane confirmó su confianza en el grupo para reaccionar cuanto antes. Los jugadores buscan dar tranquilidad a su afición durante esta cita.",
+            "stakes": [
+              "¿Logrará la selección francesa imponerse a Turquía?",
+              "¿Qué impacto tendrá el regreso del capitán en el rendimiento del colectivo?",
+              "¿Cómo gestionar la presión tras un revés reciente?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s73c85c40ce",
+        "topic": "international",
+        "title": "Paralysie des vols américains causée par une panne d'infrastructure",
+        "context": "Le réseau de transport aérien des États-Unis a subi d'importantes perturbations perturbant la circulation de nombreux vols commerciaux sur l'ensemble du territoire. Les infrastructures de contrôle font l'objet de chantiers de modernisation.",
+        "summary": "L'interruption massive du trafic aérien observée outre-Atlantique s'explique par la défaillance d'anciennes infrastructures de communication. Les investigations indiquent qu'une opération de remplacement de câbles en cuivre vétustes a provoqué des dysfonctionnements en cascade. Les autorités de l'aviation s'emploient à rétablir la situation et à remettre en service les liaisons perturbées. Plusieurs jours après le début de la crise, de nombreux appareils restent encore bloqués sur le tarmac.",
+        "stakes": [
+          "Comment moderniser les infrastructures de communication aériennes ?",
+          "Quel coût économique pour les compagnies et les usagers ?",
+          "Quelles mesures pour prévenir d'autres pannes d'ampleur ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Avions cloués au sol aux Etats-Unis : des câbles en cuivre vétustes à l’origine des perturbations",
+            "link": "https://www.liberation.fr/international/amerique/avions-cloues-au-sol-aux-etats-unis-des-cables-en-cuivre-vetustes-a-lorigine-des-perturbations-20261115_7BLQEXRP2NHQ3G46IQIYY3KJLQ/",
+            "publishedAt": "2026-11-15T08:42:31.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "L'Express",
+            "title": "Etats-Unis : le trafic aérien toujours paralysé après une panne majeure",
+            "link": "https://www.lexpress.fr/monde/amerique/etats-unis-le-trafic-aerien-toujours-paralyse-apres-une-panne-majeure-ULHWP3Y2WZCFLA7LLBAOSZOVRY/",
+            "publishedAt": "2026-11-14T16:39:31.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.lexpress.fr/resizer/v2/XYV2WA3XXRH4HFAEYWWCXTST6A.JPG?auth=bcffc4b540b00d9db706f0d9fa92a757b924fe98d6ddd5b9ecebfabeabaff154&smart=true&width=4000&height=2667",
+          "credit": "L'Express",
+          "link": "https://www.lexpress.fr/monde/amerique/etats-unis-le-trafic-aerien-toujours-paralyse-apres-une-panne-majeure-ULHWP3Y2WZCFLA7LLBAOSZOVRY/"
+        },
+        "i18n": {
+          "en": {
+            "title": "US Flights Grounded Due to Infrastructure Outage",
+            "context": "The United States air transport network suffered major disruptions, affecting the operation of numerous commercial flights across the country. Air traffic control infrastructures are currently undergoing modernization projects.",
+            "summary": "The widespread disruption of US air traffic was caused by the failure of aging communication infrastructure. Investigations indicate that an operation to replace outdated copper cables triggered cascading malfunctions. Aviation authorities are working to restore the situation and return affected links to service. Several days after the crisis began, numerous aircraft remain stranded on the tarmac.",
+            "stakes": [
+              "How to modernize aviation communication infrastructure?",
+              "What economic cost for airlines and passengers?",
+              "What measures to prevent further major outages?"
+            ]
+          },
+          "es": {
+            "title": "Paralización de vuelos en EE. UU. a causa de un fallo de infraestructura",
+            "context": "La red de transporte aéreo de Estados Unidos sufrió graves alteraciones que afectaron la circulación de numerosos vuelos comerciales en todo el territorio. Las infraestructuras de control son objeto de obras de modernización.",
+            "summary": "La interrupción masiva del tráfico aéreo registrada en Estados Unidos se debió al fallo de infraestructuras de comunicación obsoletas. Las investigaciones señalan que una operación de sustitución de cables de cobre deteriorados provocó fallos en cadena. Las autoridades de aviación trabajan para restablecer la normalidad y reactivar las conexiones afectadas. Varios días después del inicio de la crisis, numerosos aviones siguen varados en la pista.",
+            "stakes": [
+              "¿Cómo modernizar las infraestructuras de comunicación aérea?",
+              "¿Cuál será el coste económico para las aerolíneas y los usuarios?",
+              "¿Qué medidas adoptar para evitar nuevos fallos a gran escala?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s71de3b43e4",
+        "topic": "international",
+        "title": "Tensions et débats sur l'aide militaire et technologique à l'Ukraine",
+        "context": "L'Ukraine fait face à des attaques répétées de drones et de missiles sur son territoire dans le cadre du conflit armé qui l'oppose à la Russie. L'aide technologique et militaire des pays alliés reste un enjeu central pour le gouvernement de Kiev.",
+        "summary": "Le président Volodymyr Zelensky a affirmé que les limitations imposées à l'accès au réseau satellite Starshield entravent la défense de son pays face aux frappes de l'armée russe. En parallèle, l'exécutif français a mis en garde contre toute volonté d'affaiblir les moyens accordés à Kiev, ciblant la position défendue par le Rassemblement national. Paris estime que rationner l'aide contraindrait l'Ukraine à accepter des conditions défavorables. Le débat sur la continuité du soutien technique et matériel continue d'animer la scène internationale.",
+        "stakes": [
+          "Quelles conséquences des restrictions technologiques sur le front ukrainien ?",
+          "Comment évoluera le soutien des nations européennes à Kiev ?",
+          "Quel impact de la politique interne française sur les alliances internationales ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "EN DIRECT, guerre en Ukraine : les restrictions d’accès à Starshield persistent et empêchent Kiev de se protéger des attaques russes, dit Volodymyr Zelensky",
+            "link": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-emissaire-americain-jared-kushner-regrette-la-diffusion-de-positions-maximalistes-apres-les-negociations-avec-l-ukraine-et-la-russie_6810982_3210.html",
+            "publishedAt": "2026-11-15T09:59:59.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "Ukraine : Marine Le Pen « isolera » la France en Europe si elle est élue, met en garde l’entourage d’Emmanuel Macron",
+            "link": "https://www.ouest-france.fr/europe/ukraine/ukraine-marine-le-pen-isolera-la-france-en-europe-si-elle-est-elue-met-en-garde-lentourage-demmanuel-macron-5ea2f1da-e0e0-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-15T10:59:07.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/10/17/371/0/3810/1905/644/322/60/0/741a5dd_ftp-1-y1fd910kabzp-2026-10-17t100023z-1329003188-rc2a4oa0c6jm-rtrmadp-3-ukraine-crisis-trump-zelenskiy.JPG",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-emissaire-americain-jared-kushner-regrette-la-diffusion-de-positions-maximalistes-apres-les-negociations-avec-l-ukraine-et-la-russie_6810982_3210.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Tensions and Debates Over Military and Technological Aid to Ukraine",
+            "context": "Ukraine faces repeated drone and missile strikes on its territory as part of the armed conflict with Russia. Technological and military aid from allied nations remains a central issue for the Kyiv government.",
+            "summary": "President Volodymyr Zelensky stated that restrictions on access to the Starshield satellite network are hindering his country's defense against strikes by the Russian army. Meanwhile, the French government warned against any intention to weaken the resources granted to Kyiv, targeting the stance defended by the Rassemblement National. Paris argues that rationing aid would force Ukraine to accept unfavorable conditions. The debate over the continuation of technical and material support continues to stir the international stage.",
+            "stakes": [
+              "What are the consequences of technological restrictions on the Ukrainian front?",
+              "How will European support for Kyiv evolve?",
+              "What impact will French domestic politics have on international alliances?"
+            ]
+          },
+          "es": {
+            "title": "Tensiones y debates en torno a la ayuda militar y tecnológica a Ucrania",
+            "context": "Ucrania afronta reiterados ataques con drones y misiles en su territorio en el marco del conflicto armado con Rusia. La ayuda tecnológica y militar de los países aliados sigue siendo una cuestión crucial para el gobierno de Kiev.",
+            "summary": "El presidente Volodímir Zelenski afirmó que las restricciones impuestas al acceso a la red de satélites Starshield obstaculizan la defensa de su país frente a los ataques del ejército ruso. En paralelo, el ejecutivo francés advirtió contra cualquier intento de debilitar los medios asignados a Kiev, señalando la postura defendida por el Rassemblement National. París sostiene que racionar la ayuda obligaría a Ucrania a aceptar condiciones desfavorables. El debate sobre la continuidad del apoyo técnico y material sigue marcando el panorama internacional.",
+            "stakes": [
+              "¿Cuáles son las consecuencias de las restricciones tecnológicas en el frente ucraniano?",
+              "¿Cómo evolucionará el apoyo de las naciones europeas a Kiev?",
+              "¿Qué impacto tendrá la política interna francesa en las alianzas internacionales?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s6aa7c8c0c5",
+        "topic": "politique",
+        "title": "Débats sur le repositionnement politique de Raphaël Glucksmann",
+        "context": "Tête de liste soutenue par Place publique et le Parti socialiste lors des précédentes élections européennes, Raphaël Glucksmann cherche à s'imposer dans les débats de la gauche française. Les réseaux sociaux constituent un terrain clé de sa communication.",
+        "summary": "Des analyses soulignent le ralentissement de la dynamique du responsable politique sur les réseaux sociaux, marqué par une diminution de son nombre d'abonnés. Les commentateurs décrivent la position délicate de l'élu, contraint d'équilibrer son discours pour s'adresser à différentes composantes de l'échiquier politique. Face aux critiques, son camp cherche à maintenir une ligne capable de rassembler au-delà de sa base électorale initiale. La capacité du député européen à incarner une alternative centrale fait l'objet de discussions au sein de la gauche.",
+        "stakes": [
+          "Raphaël Glucksmann parviendra-t-il à maintenir son leadership à gauche ?",
+          "Quelle stratégie de communication adopter face aux critiques ?",
+          "Quel rassemblement possible en vue des prochaines échéances électorales ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Réseaux sociaux : pourquoi Raphaël Glucksmann n’a plus la cote",
+            "link": "https://www.liberation.fr/politique/reseaux-sociaux-pourquoi-raphael-glucksmann-na-plus-la-cote-20261115_GIC6HKMNTZAO3DUPZDRJAPX64I/",
+            "publishedAt": "2026-11-15T10:02:17.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "L'Express",
+            "title": "\"Il faut faire campagne sur les deux bords\" : coincé entre deux lignes, Raphaël Glucksmann sur la ligne de crête",
+            "link": "https://www.lexpress.fr/politique/il-faut-faire-campagne-sur-les-deux-bords-coince-entre-deux-lignes-raphael-glucksmann-sur-la-ligne-UPHEPC52SFEKBAYX72Y4D7PBEA/",
+            "publishedAt": "2026-11-15T06:30:00.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.lexpress.fr/resizer/v2/X4DPFXAANVBAHEZEFBC3KA7IEE.JPG?auth=ab7c31250af8c3261b16c86a0337b7fa72b09092cee6b66b8faa08812713cd61&smart=true&width=4937&height=3291",
+          "credit": "L'Express",
+          "link": "https://www.lexpress.fr/politique/il-faut-faire-campagne-sur-les-deux-bords-coince-entre-deux-lignes-raphael-glucksmann-sur-la-ligne-UPHEPC52SFEKBAYX72Y4D7PBEA/"
+        },
+        "i18n": {
+          "en": {
+            "title": "Debates Over the Political Repositioning of Raphaël Glucksmann",
+            "context": "As lead candidate backed by Place publique and the Socialist Party during the previous European elections, Raphaël Glucksmann is seeking to establish himself within French left-wing debates. Social media constitutes a key arena for his communication.",
+            "summary": "Analyses point to a slowdown in the politician's momentum on social media, marked by a decline in his follower count. Commentators describe the delicate position of the elected official, forced to balance his messaging to address different factions of the political spectrum. In the face of criticism, his camp aims to maintain a line capable of uniting voters beyond his initial electoral base. The MEP's ability to embody a central alternative remains a subject of debate within the left.",
+            "stakes": [
+              "Will Raphaël Glucksmann manage to maintain his leadership on the left?",
+              "What communication strategy should be adopted in the face of criticism?",
+              "What potential unity ahead of upcoming elections?"
+            ]
+          },
+          "es": {
+            "title": "Debates sobre el reposicionamiento político de Raphaël Glucksmann",
+            "context": "Cabeza de lista respaldado por Place publique y el Partido Socialista en las pasadas elecciones europeas, Raphaël Glucksmann busca consolidarse en los debates de la izquierda francesa. Las redes sociales constituyen un terreno clave para su comunicación.",
+            "summary": "Diversos análisis señalan una desaceleración en la dinámica del líder político en las redes sociales, marcada por una disminución de su número de seguidores. Los comentaristas describen la delicada posición del mandatario, obligado a equilibrar su discurso para dirigirse a distintos sectores del arco político. Frente a las críticas, su entorno procura mantener una línea capaz de aglutinar más allá de su base electoral inicial. La capacidad del eurodiputado para encarnar una alternativa central es objeto de debate en el seno de la izquierda.",
+            "stakes": [
+              "¿Logrará Raphaël Glucksmann mantener su liderazgo en la izquierda?",
+              "¿Qué estrategia de comunicación adoptar frente a las críticas?",
+              "¿Qué unidad es posible con vistas a las próximas citas electorales?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s42232d5110",
+        "topic": "justice",
+        "title": "Deux jeunes mis en examen pour des piratages informatiques d'ampleur",
+        "context": "Plusieurs institutions publiques et entreprises privées françaises ont fait l'objet de cyberattaques au cours de la période estivale. Ces attaques ciblaient la confidentialité des fichiers administratifs et commerciaux.",
+        "summary": "Deux adolescents de 16 et 18 ans ont été mis en examen dans le cadre d'enquêtes judiciaires relatives au piratage de données administratives. Les deux suspects sont soupçonnés d'avoir pénétré les systèmes de l'administration fiscale et du ministère de l'Éducation nationale. Ils sont également suspectés d'avoir visé l'opérateur Free et le média BFM-TV. Les procédures judiciaires cherchent à déterminer leur degré de responsabilité et la portée des données siphonnées lors de ces intrusions.",
+        "stakes": [
+          "Quelles sanctions pour les cyberattaques menées par des mineurs ?",
+          "Comment renforcer la sécurité des bases de données administratives ?",
+          "Quelle réponse judiciaire face à la délinquance numérique émergente ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Sur les traces de « ChatNoir » et « Casquette », ces deux jeunes de 18 et 16 ans soupçonnés d’avoir piraté le site des impôts",
+            "link": "https://www.lemonde.fr/societe/article/2026/11/15/sur-les-traces-de-chatnoir-et-casquette-le-duo-d-adolescents-soupconnes-d-avoir-pirate-le-site-des-impots_6810985_3224.html",
+            "publishedAt": "2026-11-15T05:15:04.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/05/582/0/4252/2126/644/322/60/0/072457f_upload-1-nklihjm7k4pk-mw-lm-cybercrime-1.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/societe/article/2026/11/15/sur-les-traces-de-chatnoir-et-casquette-le-duo-d-adolescents-soupconnes-d-avoir-pirate-le-site-des-impots_6810985_3224.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Two youths under formal investigation for major computer hacking",
+            "context": "Several French public institutions and private companies were the target of cyberattacks during the summer period. These attacks targeted the confidentiality of administrative and commercial files.",
+            "summary": "Two teenagers aged 16 and 18 have been placed under formal investigation as part of judicial inquiries relating to the hacking of administrative data. The two suspects are suspected of having penetrated the systems of the tax administration and the Ministry of National Education. They are also suspected of having targeted the operator Free and the media outlet BFM-TV. The judicial procedures seek to determine their degree of responsibility and the scope of the data siphoned off during these intrusions.",
+            "stakes": [
+              "What sanctions for cyberattacks carried out by minors?",
+              "How to strengthen the security of administrative databases?",
+              "What judicial response to emerging digital delinquency?"
+            ]
+          },
+          "es": {
+            "title": "Dos jóvenes imputados por piratería informática a gran escala",
+            "context": "Varias instituciones públicas y empresas privadas francesas fueron objeto de ciberataques durante el período estival. Estos ataques se dirigieron contra la confidencialidad de los archivos administrativos y comerciales.",
+            "summary": "Dos adolescentes de 16 y 18 años han sido imputados en el marco de investigaciones judiciales relativas a la piratería de datos administrativos. Los dos sospechosos son sospechosos de haber penetrado en los sistemas de la administración fiscal y del Ministerio de Educación Nacional. También se sospecha que apuntaron al operador Free y al medio de comunicación BFM-TV. Los procedimientos judiciales buscan determinar su grado de responsabilidad y el alcance de los datos extraídos durante estas intrusiones.",
+            "stakes": [
+              "¿Qué sanciones para los ciberataques llevados a cabo por menores?",
+              "¿Cómo reforzar la seguridad de las bases de datos administrativas?",
+              "¿Qué respuesta judicial ante la delincuencia digital emergente?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s1fddf52e1f",
+        "topic": "societe",
+        "title": "Encadrement des manifestations et heurts lors des mobilisations",
+        "context": "De récents mouvements protestataires portant sur le pouvoir d'achat et les revendications lycéennes ont donné lieu à des rassemblements dans plusieurs villes. Les autorités territoriales ont accru la prise d'arrêtés administratifs pour encadrer ces événements.",
+        "summary": "Les préfectures ont multiplié les arrêtés d'interdiction et de déviation de parcours pour encadrer les mouvements sociaux récents. Selon un décompte, plus de deux cents arrêtés ont été promulgués à Paris depuis le début du mois d'octobre. En marge d'un rassemblement à Lyon, une équipe de la chaîne BFM TV a été victime d'une agression nécessitant l'intervention des forces de l'ordre. Les professionnels des médias et les autorités s'inquiètent des conditions de déroulement des mobilisations sur la voie publique.",
+        "stakes": [
+          "Comment concilier droit de manifester et maintien de l'ordre public ?",
+          "Quelles garanties pour la sécurité des journalistes sur le terrain ?",
+          "Les mesures préfectorales réduiront-elles les dérapages lors des cortèges ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Interdictions de manifestations, couvre-feux, parcours hors des centres-villes… Comment les préfets multiplient les mesures administratives en amont des mobilisations",
+            "link": "https://www.franceinfo.fr/societe/manifestations/interdictions-de-manifestations-couvre-feux-parcours-hors-des-centres-villes-comment-les-prefets-multiplient-les-mesures-administratives-en-amont-des-mobilisations_8274263.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-14T12:03:26.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "A Lyon, une équipe de BFM TV agressée en marge de la manifestation",
+            "link": "https://www.liberation.fr/economie/medias/a-lyon-une-equipe-de-bfm-tv-agressee-en-marge-de-la-manifestation-20261115_NJ3DNAPMOBASXN2U2V336KF4NI/",
+            "publishedAt": "2026-11-15T10:44:28.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/-TvsmB4XeLJ_KtApHrJmrHwpc_A/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/13/6af6cbdbef77c753960787.png",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/societe/manifestations/interdictions-de-manifestations-couvre-feux-parcours-hors-des-centres-villes-comment-les-prefets-multiplient-les-mesures-administratives-en-amont-des-mobilisations_8274263.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Regulation of demonstrations and clashes during mobilizations",
+            "context": "Recent protest movements concerning purchasing power and high school student demands have given rise to gatherings in several cities. Territorial authorities have increased the issuance of administrative decrees to regulate these events.",
+            "summary": "The prefectures have multiplied orders banning and diverting routes to regulate recent social movements. According to a tally, more than two hundred decrees have been issued in Paris since the beginning of October. On the sidelines of a gathering in Lyon, a crew from the BFM TV channel was the victim of an assault requiring the intervention of law enforcement. Media professionals and authorities are concerned about the conditions under which mobilizations on public roads take place.",
+            "stakes": [
+              "How to reconcile the right to demonstrate with the maintenance of public order?",
+              "What guarantees for the safety of journalists in the field?",
+              "Will prefectural measures reduce slip-ups during processions?"
+            ]
+          },
+          "es": {
+            "title": "Regulación de manifestaciones y enfrentamientos durante las movilizaciones",
+            "context": "Recientes movimientos de protesta sobre el poder adquisitivo y las reivindicaciones de los estudiantes de secundaria han dado lugar a concentraciones en varias ciudades. Las autoridades territoriales han incrementado la adopción de decretos administrativos para regular estos eventos.",
+            "summary": "Las prefecturas han multiplicado los decretos de prohibición y desvío de rutas para regular los recientes movimientos sociales. Según un recuento, se han promulgado más de doscientos decretos en París desde principios de octubre. al margen de una concentración en Lyon, un equipo del canal BFM TV fue víctima de una agresión que requirió la intervención de las fuerzas del orden. Los profesionales de los medios y las autoridades están preocupados por las condiciones en que se desarrollan las movilizaciones en la vía pública.",
+            "stakes": [
+              "¿Cómo conciliar el derecho a manifestarse y el mantenimiento del orden público?",
+              "¿Qué garantías para la seguridad de los periodistas sobre el terreno?",
+              "¿Reducirán las medidas prefectorales los incidentes durante las marchas?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s2d16409d3b",
+        "topic": "sante",
+        "title": "Inquiétudes autour du financement public des cures thermales",
+        "context": "Le secteur thermal français repose en grande partie sur la prise en charge des soins par l'Assurance maladie pour assurer la fréquentation des établissements de santé spécialisés. Les communes thermales en tirent une activité économique essentielle.",
+        "summary": "Une proposition gouvernementale vise à transférer aux organismes complémentaires de santé une enveloppe de 200 millions d'euros dédiée aux cures thermales. Cette perspective suscite de vives inquiétudes chez les acteurs du secteur ainsi que dans les communes thermales comme Royat. Les professionnels font valoir que la viabilité des commerces et hôtels locaux dépend de la fréquentation médicale de leurs installations. Les collectivités craignent les répercussions économiques d'un déremboursement partiel des prestations.",
+        "stakes": [
+          "Quel avenir financier pour les stations thermales françaises ?",
+          "Quel report de charge pour les mutuelles et les patients ?",
+          "Quelles conséquences sur le tissu économique des communes concernées ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "« Sans les thermes, Royat est morte » : le possible déremboursement des cures thermales menace un modèle déjà fragilisé",
+            "link": "https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html",
+            "publishedAt": "2026-11-15T09:00:10.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/11/648/0/7784/3892/644/322/60/0/8c07bff_upload-1-idy6bwvje7rc-20250628lmt2372.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Concerns surrounding the public funding of thermal spa treatments",
+            "context": "The French thermal sector relies largely on the coverage of care by Health Insurance to ensure the attendance of specialized health establishments. Spa towns derive essential economic activity from this.",
+            "summary": "A government proposal aims to transfer to complementary health organizations an envelope of 200 million euros dedicated to thermal cures. This prospect arouses deep concerns among actors in the sector as well as in thermal towns such as Royat. Professionals argue that the viability of local shops and hotels depends on the medical attendance of their facilities. Local authorities fear the economic repercussions of partial reimbursement of services.",
+            "stakes": [
+              "What financial future for French thermal spa resorts?",
+              "What cost transfer for mutual insurance companies and patients?",
+              "What consequences on the economic fabric of the municipalities concerned?"
+            ]
+          },
+          "es": {
+            "title": "Preocupación en torno a la financiación pública de los curas termales",
+            "context": "El sector termal francés depende en gran medida de la cobertura de la atención por parte del Seguro de Enfermedad para garantizar la asistencia a los establecimientos sanitarios especializados. Los municipios termales obtienen de ello una actividad económica esencial.",
+            "summary": "Una propuesta gubernamental pretende transferir a los organismos complementarios de salud una partida de 200 millones de euros dedicada a los curas termales. Esta perspectiva suscita profunda preocupación entre los actores del sector, así como en las localidades termales como Royat. Los profesionales argumentan que la viabilidad de los comercios y hoteles locales depende de la afluencia médica a sus instalaciones. Las colectividades temen las repercusiones económicas de un reembolso parcial de las prestaciones.",
+            "stakes": [
+              "¿Qué futuro financiero para los balnearios termales franceses?",
+              "¿Qué traslado de carga para las mutuas y los pacientes?",
+              "¿Qué consecuencias para el tejido económico de los municipios afectados?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sf9a756ec99",
+        "topic": "economie",
+        "title": "Ralentissement de la croissance économique française au sein de l'Europe",
+        "context": "L'économie de l'Union européenne affiche des rythmes de reprise très hétérogènes selon les États membres à la suite des récentes poussées inflationnistes. La France tente d'enrayer l'augmentation de son endettement public.",
+        "summary": "Les indicateurs économiques récents confirment la faiblesse de la croissance enregistrée par la France par rapport à la moyenne européenne. Ce manque de dynamisme entraîne un recul du pays dans les classements mesurant le produit intérieur brut par habitant. Les analyses économiques soulignent un décrochage qui fragilise la position relative du pays face à ses partenaires continentaux. La situation ravive le débat sur la compétitivité et les réformes de la fiscalité.",
+        "stakes": [
+          "Quels leviers pour relancer l'activité économique nationale ?",
+          "Comment enrayer la dégradation du produit intérieur brut par habitant ?",
+          "Quelles répercussions sur les politiques budgétaires à venir ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Le lent déclin économique de la France face au reste de l’Europe",
+            "link": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html",
+            "publishedAt": "2026-11-15T05:15:07.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/13/399/0/5700/2850/644/322/60/0/8a4f3b3_upload-1-z9mvgb5tupsr-000-c9428we.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Slowdown of French economic growth within Europe",
+            "context": "The economy of the European Union shows very heterogeneous recovery rates among member states following recent inflation surges. France is trying to halt the increase in its public debt.",
+            "summary": "Recent economic indicators confirm the weakness of the growth recorded by France compared to the European average. This lack of dynamism leads to a decline of the country in rankings measuring gross domestic product per capita. Economic analyses highlight a decoupling that weakens the relative position of the country vis-à-vis its continental partners. The situation revives the debate on competitiveness and tax reforms.",
+            "stakes": [
+              "What levers to revive national economic activity?",
+              "How to stop the deterioration of gross domestic product per capita?",
+              "What repercussions on future budgetary policies?"
+            ]
+          },
+          "es": {
+            "title": "Desaceleración del crecimiento económico francés en el seno de Europa",
+            "context": "La economía de la Unión Europea muestra ritmos de recuperación muy heterogéneos entre los Estados miembros tras los recientes repuntes inflacionarios. Francia intenta frenar el aumento de su deuda pública.",
+            "summary": "Los indicadores económicos recientes confirman la debilidad del crecimiento registrado por Francia en comparación con la media europea. Esta falta de dinamismo provoca un retroceso del país en las clasificaciones que miden el producto interior bruto por habitante. Los análisis económicos subrayan un desfase que debilita la posición relativa del país frente a sus socios continentales. La situación reaviva el debate sobre la competitividad y las reformas fiscales.",
+            "stakes": [
+              "¿Qué palancas para relanzar la actividad económica nacional?",
+              "¿Cómo frenar el deterioro del producto interior bruto por habitante?",
+              "¿Qué repercusiones en las futuras políticas presupuestarias?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s95b697a878",
+        "topic": "economie",
+        "title": "Persistance des écarts de prix dans les territoires d'outre-mer",
+        "context": "Le niveau des prix des biens de consommation courante dans les départements ultramarins fait l'objet de contestations récurrentes de la part des habitants et des associations locales. La dépendance aux importations accentue les coûts de distribution.",
+        "summary": "Les écarts de prix alimentaires s'établissent à des niveaux nettement supérieurs à ceux de la métropole, atteignant environ 40 % en Martinique, 42 % en Guadeloupe et 37 % à La Réunion. Cette situation affecte directement le pouvoir d'achat des résidents et alimente les tensions sociales régulières. Les acteurs locaux s'interrogent sur les réformes structurelles nécessaires pour briser l'enchaînement des crises de la vie chère. La recherche de solutions durables demeure complexe face aux contraintes insulaires.",
+        "stakes": [
+          "Comment réduire la cherté de l'alimentation dans les départements d'outre-mer ?",
+          "Quelles mesures de régulation des marchés ultramarins adopter ?",
+          "Comment apaiser les frustrations sociales nées des inégalités de prix ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Pouvoir d'achat : les Antillais en première ligne face à la vie chère",
+            "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pouvoir-d-achat-les-antillais-en-premiere-ligne-face-a-la-vie-chere_8282885.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-14T22:44:40.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/Sw0-_zCNQyNqYzSOmpkOnnesrWU/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/14/6af8dd54bddaf886438237.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pouvoir-d-achat-les-antillais-en-premiere-ligne-face-a-la-vie-chere_8282885.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Persistence of price disparities in overseas territories",
+            "context": "The price level of everyday consumer goods in overseas departments is the subject of recurrent protests by residents and local associations. Dependence on imports accentuates distribution costs.",
+            "summary": "Food price disparities are established at levels significantly higher than those in mainland France, reaching approximately 40% in Martinique, 42% in Guadeloupe, and 37% in Réunion. This situation directly affects the purchasing power of residents and fuels regular social tensions. Local actors are questioning the structural reforms necessary to break the sequence of high cost of living crises. The search for lasting solutions remains complex given insular constraints.",
+            "stakes": [
+              "How to reduce the high cost of food in overseas departments?",
+              "What measures to regulate overseas markets should be adopted?",
+              "How to appease social frustrations born of price inequalities?"
+            ]
+          },
+          "es": {
+            "title": "Persistencia de las disparidades de precios en los territorios de ultramar",
+            "context": "El nivel de precios de los bienes de consumo corriente en los departamentos de ultramar es objeto de protestas recurrentes por parte de los habitantes y las asociaciones locales. La dependencia de las importaciones acentúa los costes de distribución.",
+            "summary": "Las disparidades de precios de los alimentos se sitúan en niveles netamente superiores a los de la Francia metropolitana, alcanzando aproximadamente un 40% en Martinica, un 42% en Guadalupe y un 37% en Reunión. Esta situación afecta directamente al poder adquisitivo de los residentes y alimenta tensiones sociales regulares. Los actores locales se interrogan sobre las reformas estructurales necesarias para romper la cadena de las crisis de la carestía de la vida. La búsqueda de soluciones duraderas sigue siendo compleja dadas las limitaciones insulares.",
+            "stakes": [
+              "¿Cómo reducir el elevado coste de los alimentos en los departamentos de ultramar?",
+              "¿Qué medidas de regulación de los mercados de ultramar adoptar?",
+              "¿Cómo calmar las frustraciones sociales nacidas de las desigualdades de precios?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s3cf74fe2b7",
+        "topic": "environnement",
+        "title": "Épisode d'intempéries et de fortes pluies dans l'Hérault",
+        "context": "Le département de l'Hérault a fait l'objet d'une vigilance orange pour des risques de pluies et d'inondations au cours du week-end. Les épisodes cévenols touchent régulièrement la région à cette période de l'année.",
+        "summary": "Des précipitations intenses ont provoqué des inondations dans plusieurs communes de l'Hérault, notamment à Pérols où d'importants ruissellements ont été constatés par le maire. Dans le cadre des secours déployés, une femme de 70 ans portée disparue à Candillargues a été retrouvée saine et sauve. La personne a été hélitreuillée avant d'être transportée vers le centre hospitalier de Montpellier. Les alertes météorologiques ont été levées au terme de l'épisode pluvieux.",
+        "stakes": [
+          "Comment améliorer la prévention face aux épisodes méditerranéens ?",
+          "Quelles mesures de sécurisation des zones urbaines exposées ?",
+          "Quel bilan pour les infrastructures de secours lors des crues soudaines ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "\"Il y avait de l'eau partout\", raconte le maire de Pérols après les intempéries dans l'Hérault",
+            "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/il-y-avait-de-l-eau-partout-raconte-le-maire-de-perols-apres-les-intemperies-dans-l-herault_8283443.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-15T11:01:38.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "franceinfo",
+            "title": "Intempéries dans l'Hérault : la septuagénaire recherchée a été retrouvée saine et sauve",
+            "link": "https://www.franceinfo.fr/faits-divers/une-septuagenaire-disparue-a-candillargues-apres-les-intemperies-dans-l-herault_8283239.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-15T09:42:36.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/ghAlw7-EH6orJ4dJNPxMLV5bZi0/0x164:3200x1964/432x243/filters:format(jpg)/2026/11/15/6af990fc3d3b3959547135.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/il-y-avait-de-l-eau-partout-raconte-le-maire-de-perols-apres-les-intemperies-dans-l-herault_8283443.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Episode of bad weather and heavy rain in Hérault",
+            "context": "The Hérault department was placed on orange alert for rain and flood risks during the weekend. Cévenol episodes regularly affect the region at this time of year.",
+            "summary": "Intense rainfall caused floods in several municipalities of Hérault, notably in Pérols where significant runoff was noted by the mayor. As part of the deployed rescue efforts, a 70-year-old woman reported missing in Candillargues was found safe and sound. The person was hoisted by helicopter before being transported to the Montpellier hospital center. Meteorological alerts were lifted at the end of the rainy episode.",
+            "stakes": [
+              "How to improve prevention against Mediterranean episodes?",
+              "What measures to secure exposed urban areas?",
+              "What assessment for rescue infrastructure during flash floods?"
+            ]
+          },
+          "es": {
+            "title": "Episodio de mal tiempo y fuertes lluvias en Hérault",
+            "context": "El departamento de Hérault fue objeto de una alerta naranja por riesgos de lluvias e inundaciones durante el fin de semana. Los episodios de lluvias en las Cevenas afectan regularmente a la región en esta época del año.",
+            "summary": "Las precipitaciones intensas provocaron inundaciones en varios municipios de Hérault, en particular en Pérols, donde el alcalde constató importantes escorrentías. En el marco de los rescates desplegados, una mujer de 70 años declarada desaparecida en Candillargues fue encontrada sana y salva. La persona fue izada en helicóptero antes de ser trasladada al centro hospitalario de Montpellier. Las alertas meteorológicas fueron levantadas al término del episodio lluvioso.",
+            "stakes": [
+              "¿Cómo mejorar la prevención ante los episodios mediterráneos?",
+              "¿Qué medidas de seguridad para las zonas urbanas expuestas?",
+              "¿Qué balance para las infraestructuras de rescate durante las crecidas repentinas?"
+            ]
+          }
+        }
+      }
+    ],
+    "monde": [
+      {
+        "id": "s1476d670af",
+        "topic": "international",
+        "title": "Propositions d'accord sur la guerre en Ukraine et réactions de Kiev",
+        "context": "Dans le cadre de la recherche d'une issue au conflit en Ukraine, des propositions de garanties de sécurité font l'objet de discussions entre Washington et Kiev. La question des frontières territoriales et de l'intégration à l'alliance atlantique constitue un point central des pourparlers.",
+        "summary": "Selon le président ukrainien Volodymyr Zelensky, les États-Unis auraient suggéré l'abandon de la région du Donbass en échange d'une adhésion à l'OTAN. Un responsable américain a confirmé au média BBC que de nombreuses pistes restaient débattues sans appuyer cette annonce spécifique. Le chef de l'État ukrainien a indiqué qu'il souhaitait consulter la population par référendum sur d'éventuelles concessions territoriales. De son côté, la Russie a rappelé que la neutralité de l'Ukraine demeurait une exigence stratégique essentielle. Volodymyr Zelensky a également dénoncé des limitations de vitesse sur les équipements Starshield perturbant la défense ukrainienne.",
+        "stakes": [
+          "Quelle sera la réaction de la population ukrainienne en cas de consultation par référendum ?",
+          "La Russie accepterait-elle l'entrée de l'Ukraine dans l'OTAN contre un contrôle territorial ?",
+          "Comment évoluera la stratégie de défense de Kiev face aux contraintes d'équipement ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+            "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-14T22:37:25.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+            "link": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-14T11:40:00.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
+            "link": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
+            "publishedAt": "2026-11-15T10:58:36.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "France 24",
+            "title": "Zelensky veut consulter les Ukrainiens sur d'éventuelles concessions territoriales",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261115-zelensky-veut-consulter-les-ukrainiens-sur-d-%C3%A9ventuelles-concessions-territoriales",
+            "publishedAt": "2026-11-15T10:09:47.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "EN DIRECT, guerre en Ukraine : les restrictions d’accès à Starshield persistent et empêchent Kiev de se protéger des attaques russes, dit Volodymyr Zelensky",
+            "link": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-emissaire-americain-jared-kushner-regrette-la-diffusion-de-positions-maximalistes-apres-les-negociations-avec-l-ukraine-et-la-russie_6810982_3210.html",
+            "publishedAt": "2026-11-15T09:59:59.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Proposals for an agreement on the war in Ukraine and Kiev's reactions",
+            "context": "As part of the search for an end to the conflict in Ukraine, proposals for security guarantees are being discussed between Washington and Kiev. The issue of territorial borders and integration into the Atlantic alliance constitutes a central point of the talks.",
+            "summary": "According to Ukrainian President Volodymyr Zelensky, the United States allegedly suggested abandoning the Donbas region in exchange for NATO membership. A US official confirmed to the BBC that many avenues remained debated without supporting this specific announcement. The Ukrainian head of state indicated that he wished to consult the population via a referendum on potential territorial concessions. For its part, Russia recalled that Ukraine's neutrality remained an essential strategic requirement. Volodymyr Zelensky also denounced speed limits on Starshield equipment disrupting Ukrainian defense.",
+            "stakes": [
+              "What will be the reaction of the Ukrainian population in the event of a referendum consultation?",
+              "Would Russia accept Ukraine's entry into NATO in exchange for territorial control?",
+              "How will Kiev's defense strategy evolve in the face of equipment constraints?"
+            ]
+          },
+          "es": {
+            "title": "Propuestas de acuerdo sobre la guerra en Ucrania y reacciones de Kiev",
+            "context": "En el marco de la búsqueda de una salida al conflicto en Ucrania, se están discutiendo propuestas de garantías de seguridad entre Washington y Kiev. La cuestión de las fronteras territoriales y de la integración en la alianza atlántica constituye un punto central de las conversaciones.",
+            "summary": "Según el presidente ucraniano Volodímir Zelenski, Estados Unidos habría sugerido el abandono de la región del Donbás a cambio de una adhesión a la OTAN. Un responsable estadounidense confirmó al medio BBC que se seguían debatiendo numerosas vías sin apoyar este anuncio específico. El jefe de Estado ucraniano indicó que deseaba consultar a la población mediante referéndum sobre posibles concesiones territoriales. Por su parte, Rusia recordó que la neutralidad de Ucrania seguía siendo una exigencia estratégica esencial. Volodímir Zelenski también denunció las limitaciones de velocidad en los equipos Starshield que perturban la defensa ucraniana.",
+            "stakes": [
+              "¿Cuál será la reacción de la población ucraniana en caso de consulta por referéndum?",
+              "¿Aceptaría Rusia la entrada de Ucrania en la OTAN a cambio de un control territorial?",
+              "¿Cómo evolucionará la estrategia de defensa de Kiev ante las limitaciones de equipamiento?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s12b449161b",
+        "topic": "international",
+        "title": "Attaques de drones iraniens contre des installations américaines au Bahreïn",
+        "context": "Les tensions militaires entre Téhéran et Washington demeurent élevées dans l'espace du golfe Persique. Le royaume du Bahreïn accueille une importante base navale de la Cinquième Flotte des États-Unis.",
+        "summary": "Les Gardiens de la révolution iraniens ont revendiqué des frappes de drones menées contre une base militaire et des équipements radar américains au Bahreïn. De son côté, la force de défense de Bahreïn affirme avoir neutralisé plusieurs attaques aériennes venues du golfe Persique. Il s'agit d'une nouvelle escalade militaire dans une région déjà fragilisée par les rivalités régionales. Malgré les dégâts subis par ses installations de production, l'Iran conserverait un arsenal conséquent de missiles balistiques. Cette déstabilisation accroît les inquiétudes sécuritaires pour la navigation et les pays voisins.",
+        "stakes": [
+          "Quelles seront les répercussions de ces frappes sur la sécurité de la navigation maritime dans le Golfe ?",
+          "Comment les États-Unis ajusteront-ils leur dispositif militaire face à la reprise des attaques ?",
+          "Existe-t-il un risque d'escalade militaire directe entre l'Iran et ses voisins du Golfe ?"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
+            "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+            "publishedAt": "2026-11-15T11:30:27.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "Iran says it targets US radar in Bahrain. What do we know?",
+            "link": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
+            "publishedAt": "2026-11-15T09:41:27.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "France 24",
+            "title": "L'Iran revendique des frappes de drones contre une base américaine au Bahreïn",
+            "link": "https://www.france24.com/fr/moyen-orient/20261115-iran-revendique-frappes-drones-contre-base-am%C3%A9ricaine-au-bahre%C3%AFn",
+            "publishedAt": "2026-11-15T10:21:15.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "L’Iran revendique une attaque de drones contre une base américaine à Bahreïn",
+            "link": "https://www.lemonde.fr/international/article/2026/11/15/l-iran-revendique-une-attaque-de-drones-contre-une-base-americaine-a-bahrein_6810990_3210.html",
+            "publishedAt": "2026-11-15T05:58:52.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b",
+          "credit": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
+        },
+        "i18n": {
+          "en": {
+            "title": "Iranian drone attacks against US installations in Bahrain",
+            "context": "Military tensions between Tehran and Washington remain high in the Persian Gulf space. The Kingdom of Bahrain hosts a major naval base of the US Fifth Fleet.",
+            "summary": "The Iranian Revolutionary Guards claimed drone strikes carried out against a US military base and radar equipment in Bahrain. For its part, the Bahrain Defense Force claims to have neutralized several aerial attacks coming from the Persian Gulf. This is a new military escalation in a region already weakened by regional rivalries. Despite the damage suffered by its production facilities, Iran reportedly retains a substantial arsenal of ballistic missiles. This destabilization increases security concerns for navigation and neighboring countries.",
+            "stakes": [
+              "What will be the repercussions of these strikes on the security of maritime navigation in the Gulf?",
+              "How will the United States adjust its military posture in the face of resumed attacks?",
+              "Is there a risk of direct military escalation between Iran and its Gulf neighbors?"
+            ]
+          },
+          "es": {
+            "title": "Ataques con drones iraníes contra instalaciones estadounidenses en Baréin",
+            "context": "Las tensiones militares entre Teherán y Washington siguen siendo elevadas en el espacio del golfo Pérsico. El Reino de Baréin alberga una importante base naval de la Quinta Flota de los Estados Unidos.",
+            "summary": "La Guardia Revolucionaria iraní reivindicó ataques con drones llevados a cabo contra una base militar y equipos de radar estadounidenses en Baréin. Por su parte, la fuerza de defensa de Baréin afirma haber neutralizado varios ataques aéreos procedentes del golfo Pérsico. Se trata de una nueva escalada militar en una región ya debilitada por las rivalidades regionales. A pesar de los daños sufridos en sus instalaciones de producción, Irán conservaría un arsenal considerable de misiles balísticos. Esta desestabilización aumenta las preocupaciones de seguridad para la navegación y los países vecinos.",
+            "stakes": [
+              "¿Qué repercusiones tendrán estos ataques en la seguridad de la navegación marítima en el Golfo?",
+              "¿Cómo ajustarán los Estados Unidos su dispositivo militar ante la reanudación de los ataques?",
+              "¿Existe un riesgo de escalada militar directa entre Irán y sus vecinos del Golfo?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sb922f8d6c9",
+        "topic": "international",
+        "title": "Ouverture du sommet de la Francophonie sur fond de divisions diplomatiques",
+        "context": "Le vingtième sommet de l'Organisation internationale de la Francophonie s'est ouvert à Phnom Penh au Cambodge. La rencontre doit notamment désigner le nouveau secrétaire général de l'institution.",
+        "summary": "Les délibérations pour la direction de l'Organisation internationale de la Francophonie se heurtent à de vives rivalités politiques. La République démocratique du Congo s'oppose à la reconduction de la candidate rwandaise Louise Mushikiwabo, accusant Kigali de soutenir le groupe rebelle M23. Face à ces tensions, la France a suggéré le retrait du Rwanda au profit d'une candidature roumaine. Cependant, la représentante rwandaise a réaffirmé sa volonté de maintenir sa candidature jusqu'au vote. Emmanuel Macron a ainsi appelé les pays membres à rechercher le consensus et l'unité.",
+        "stakes": [
+          "L'Organisation internationale de la Francophonie parviendra-t-elle à préserver le consensus entre ses membres ?",
+          "Quelles conséquences ce différend aura-t-il sur les relations diplomatiques entre la RDC et le Rwanda ?",
+          "La désignation du secrétaire général se fera-t-elle par vote direct à défaut d'accord ?"
+        ],
+        "sources": [
+          {
+            "name": "France 24",
+            "title": "Sommet de la Francophonie : la rivalité RD Congo-Rwanda au cœur des débats",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261115-sommet-de-la-francophonie-la-rivalit%C3%A9-rd-congo-rwanda-au-c%C5%93ur-des-d%C3%A9bats",
+            "publishedAt": "2026-11-15T11:06:04.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "France 24",
+            "title": "La succession à la tête de l'OIF tourne au casse-tête diplomatique à Phnom Penh",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261115-la-succession-%C3%A0-la-t%C3%AAte-de-l-oif-tourne-au-casse-t%C3%AAte-diplomatique-%C3%A0-phnom-penh",
+            "publishedAt": "2026-11-15T10:06:24.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "France 24",
+            "title": "Présidence de la Francophonie : Louise Mushikiwabo \"candidate jusqu'au bout\"",
+            "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261114-pr%C3%A9sidence-de-la-francophonie-louise-mushikiwabo-candidate-jusqu-au-bout",
+            "publishedAt": "2026-11-14T22:12:50.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "Sommet de la francophonie : Emmanuel Macron appelle à l’« unité » et au « consensus » face aux tensions entre la RDC et le Rwanda",
+            "link": "https://www.lemonde.fr/international/article/2026/11/15/somment-de-la-francophonie-emmanuel-macron-appelle-a-l-unite-et-au-consensus-face-aux-tensions-entre-la-rdc-et-le-rwanda_6810995_3210.html",
+            "publishedAt": "2026-11-15T07:45:48.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "RFI",
+            "title": "Francophonie: le XXe sommet de Phnom Penh s'ouvre sur fond de tensions",
+            "link": "https://www.rfi.fr/fr/asie-pacifique/20261115-francophonie-le-xxe-sommet-de-phnom-penh-s-ouvre-sur-fond-de-tensions",
+            "publishedAt": "2026-11-15T07:36:15.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://s.france24.com/media/display/ebcfb0f4-e0e3-11f1-b6a3-695cb59fade5/w:1024/p:16x9/capture-06021bec.jpg",
+          "credit": "France 24",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261115-sommet-de-la-francophonie-la-rivalit%C3%A9-rd-congo-rwanda-au-c%C5%93ur-des-d%C3%A9bats"
+        },
+        "i18n": {
+          "en": {
+            "title": "Opening of the Francophonie Summit against a backdrop of diplomatic divisions",
+            "context": "The twentieth summit of the International Organisation of la Francophonie opened in Phnom Penh, Cambodia. The meeting is notably set to appoint the institution's new secretary-general.",
+            "summary": "Deliberations for the leadership of the International Organisation of la Francophonie are running up against fierce political rivalries. The Democratic Republic of Congo opposes the reappointment of the Rwandan candidate Louise Mushikiwabo, accusing Kigali of supporting the M23 rebel group. Faced with these tensions, France has suggested Rwanda's withdrawal in favor of a Romanian candidacy. However, the Rwandan representative has reaffirmed her determination to maintain her candidacy until the vote. Emmanuel Macron thus called on member countries to seek consensus and unity.",
+            "stakes": [
+              "Will the International Organisation of la Francophonie manage to preserve consensus among its members?",
+              "What consequences will this dispute have on diplomatic relations between the DRC and Rwanda?",
+              "Will the secretary-general be appointed by direct vote in the absence of an agreement?"
+            ]
+          },
+          "es": {
+            "title": "Apertura de la cumbre de la Francofonía en un contexto de divisiones diplomáticas",
+            "context": "La vigésima cumbre de la Organización Internacional de la Francofonía se inauguró en Nom Pen, Camboya. El encuentro debe designar en particular al nuevo secretario general de la institución.",
+            "summary": "Las deliberaciones para la dirección de la Organización Internacional de la Francofonía chocan contra fuertes rivalidades políticas. La República Democrática del Congo se opone a la reelección de la candidata ruandesa Louise Mushikiwabo, y acusa a Kigali de apoyar al grupo rebelde M23. Ante estas tensiones, Francia sugirió la retirada de Ruanda en favor de una candidatura rumana. Sin embargo, la representante ruandesa reafirmó su voluntad de mantener su candidatura hasta la votación. De este modo, Emmanuel Macron hizo un llamado a los países miembros para buscar el consenso y la unidad.",
+            "stakes": [
+              "¿Logrará la Organización Internacional de la Francofonía preservar el consenso entre sus miembros?",
+              "¿Qué consecuencias tendrá este diferendo en las relaciones diplomáticas entre la RDC y Ruanda?",
+              "¿Se realizará la designación del secretario general mediante votación directa a falta de un acuerdo?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s06a1e4f465",
+        "topic": "sciences_tech",
+        "title": "Nouveau vol d'essai du lanceur lourd Starship par SpaceX",
+        "context": "L'entreprise privée SpaceX développe la fusée géante Starship pour effectuer des missions spatiales habitées et réutilisables. Les essais visent à perfectionner la récupération des différents étages du lanceur après leur vol.",
+        "summary": "SpaceX a procédé à un nouvel essai en vol de sa fusée géante Starship aux résultats mitigés. Pour la première fois, la société américaine a réussi à récupérer l'étage supérieur du vaisseau après son vol orbital. En revanche, le propulseur principal a explosé au-dessus du golfe du Mexique sans pouvoir être récupéré. Lors d'un test antérieur, la firme avait réussi à capturer le booster au moyen de bras mécaniques installés sur la tour de lancement. Ces opérations s'inscrivent dans l'objectif de réutilisation complète du matériel spatial.",
+        "stakes": [
+          "À quelle échéance SpaceX parviendra-t-il à fiabiliser la récupération simultanée des deux étages ?",
+          "Quel impact ces avancées techniques auront-elles sur le calendrier des futures missions spatiales ?",
+          "Comment les entreprises concurrentes réagiront-elles face aux progrès des lanceurs réutilisables ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+            "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-14T22:09:40.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "SpaceX launches Starship rocket, fails to recover booster",
+            "link": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-14T02:24:00.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "France 24",
+            "title": "Starship : SpaceX réussit pour la première fois à récupérer l'étage supérieur",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261115-starship-spacex-r%C3%A9ussit-pour-la-premi%C3%A8re-fois-%C3%A0-r%C3%A9cup%C3%A9rer-l-%C3%A9tage-sup%C3%A9rieur",
+            "publishedAt": "2026-11-15T09:47:54.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "New test flight of SpaceX's Starship heavy launcher",
+            "context": "Private company SpaceX is developing the giant Starship rocket to carry out crewed and reusable space missions. The tests aim to perfect the recovery of the launcher's various stages after flight.",
+            "summary": "SpaceX carried out a new test flight of its giant Starship rocket with mixed results. For the first time, the American company successfully recovered the upper stage of the spacecraft after its orbital flight. On the other hand, the main booster exploded over the Gulf of Mexico without being recovered. During a previous test, the firm had managed to catch the booster using mechanical arms installed on the launch tower. These operations are part of the goal of complete reusability of space hardware.",
+            "stakes": [
+              "When will SpaceX succeed in making the simultaneous recovery of both stages reliable?",
+              "What impact will these technical advances have on the schedule of future space missions?",
+              "How will competing companies react to the progress of reusable launchers?"
+            ]
+          },
+          "es": {
+            "title": "Nuevo vuelo de prueba del lanzador pesado Starship de SpaceX",
+            "context": "La empresa privada SpaceX está desarrollando el cohete gigante Starship para realizar misiones espaciales tripuladas y reutilizables. Las pruebas tienen como objetivo perfeccionar la recuperación de las distintas etapas del lanzador después de su vuelo.",
+            "summary": "SpaceX llevó a cabo un nuevo vuelo de prueba de su cohete gigante Starship con resultados mixtos. Por primera vez, la empresa estadounidense logró recuperar la etapa superior de la nave tras su vuelo orbital. En cambio, el propulsor principal explotó sobre el golfo de México sin poder ser recuperado. En una prueba anterior, la firma había logrado capturar el propulsor mediante brazos mecánicos instalados en la torre de lanzamiento. Estas operaciones forman parte del objetivo de reutilización completa del material espacial.",
+            "stakes": [
+              "¿En qué plazo logrará SpaceX hacer fiable la recuperación simultánea de ambas etapas?",
+              "¿Qué impacto tendrán estos avances técnicos en el calendario de las futuras misiones espaciales?",
+              "¿Cómo reaccionarán las empresas competidoras ante los progresos de los lanzadores reutilizables?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "scedd4c64ea",
+        "topic": "justice",
+        "title": "Condamnation à mort de trois hommes pour l'attaque d'une église",
+        "context": "En octobre dernier, une fusillade de masse survenue lors d'un enterrement dans une église grecque-orthodoxe avait secoué la ville de Karak. Cet attentat avait coûté la vie à neuf personnes et fait des dizaines de blessés.",
+        "summary": "La justice jordanienne a prononcé la peine capitale à l'encontre de trois individus reconnus coupables de l'attentat de Karak. Les juges ont appliqué les peines les plus fermes prévues par le code pénal du royaume. Le roi Abdallah II s'était publiquement engagé à ce que les auteurs de la fusillade soient sévèrement châtiés. L'attaque avait causé la mort de neuf fidèles et fait 34 blessés parmi la communauté chrétienne locale. Ce verdict marque une étape majeure dans le traitement judiciaire de cette attaque terroriste.",
+        "stakes": [
+          "Ces sentences capitales permettront-elles de rassurer les minorités religieuses touchées par les attaques ?",
+          "Quelles mesures de sécurité renforcées seront déployées autour des édifices religieux en Jordanie ?",
+          "Comment la décision judiciaire sera-t-elle perçue par l'opinion publique locale ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+            "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-15T11:06:32.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "France 24",
+            "title": "Jordanie : les assaillants de l'attaque contre l'église orthodoxe de Karak condamnés à mort",
+            "link": "https://www.france24.com/fr/moyen-orient/20261115-jordanie-assaillants-attaque-%C3%A9glise-orthodoxe-karak-peine-de-mort",
+            "publishedAt": "2026-11-15T09:49:40.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "Jordanie : trois hommes condamnés à mort pour l’attaque meurtrière d’une église orthodoxe en octobre",
+            "link": "https://www.lemonde.fr/international/article/2026/11/15/jordanie-trois-hommes-condamnes-a-mort-pour-l-attaque-meurtriere-d-une-eglise-orthodoxe-en-octobre_6810998_3210.html",
+            "publishedAt": "2026-11-15T08:52:09.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fb0/live/ed275c50-e0dd-11f1-a701-fddedf244c16.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Three men sentenced to death for church attack",
+            "context": "Last October, a mass shooting during a funeral at a Greek Orthodox church shook the city of Karak. The attack cost the lives of nine people and left dozens injured.",
+            "summary": "Jordanian courts handed down the death penalty to three individuals found guilty of the Karak attack. The judges applied the strictest penalties provided by the kingdom's penal code. King Abdullah II had publicly pledged that the perpetrators of the shooting would be severely punished. The attack caused the death of nine worshippers and injured 34 among the local Christian community. This verdict marks a major milestone in the judicial handling of this terrorist attack.",
+            "stakes": [
+              "Will these capital sentences help reassure religious minorities affected by the attacks?",
+              "What reinforced security measures will be deployed around religious buildings in Jordan?",
+              "How will the judicial decision be perceived by the local public opinion?"
+            ]
+          },
+          "es": {
+            "title": "Condena a muerte de tres hombres por el ataque a una iglesia",
+            "context": "El pasado mes de octubre, un tiroteo masivo ocurrido durante un funeral en una iglesia greco-ortodoxa sacudió la ciudad de Karak. Este atentado costó la vida a nueve personas y dejó decenas de heridos.",
+            "summary": "La justicia jordana dictó la pena capital contra tres individuos declarados culpables del atentado de Karak. Los jueces aplicaron las penas más severas previstas por el código penal del reino. El rey Abdalá II se había comprometido públicamente a que los autores del tiroteo fueran castigados con severidad. El ataque causó la muerte de nueve fieles y dejó 34 heridos entre la comunidad cristiana local. Este veredicto marca un hito importante en el tratamiento judicial de este ataque terrorista.",
+            "stakes": [
+              "¿Permitirán estas sentencias capitales tranquilizar a las minorías religiosas afectadas por los ataques?",
+              "¿Qué medidas de seguridad reforzadas se desplegarán en torno a los edificios religiosos en Jordania?",
+              "¿Cómo será percibida la decisión judicial por la opinión pública local?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "sa34f168e06",
+        "topic": "economie",
+        "title": "Panne majeure des vols américains causée par une mise à jour",
+        "context": "L'ensemble du trafic aérien aux États-Unis a subi d'importantes perturbations et des suspensions de vols imprévues. L'administration fédérale a immédiatement ouvert une enquête pour identifier les causes de cette interruption.",
+        "summary": "Les autorités américaines ont expliqué que le blocage du trafic aérien provenait du dysfonctionnement d'un routeur et de la surcharge d'équipements anciens. L'incident s'est produit lors d'une opération de mise à niveau du réseau de télécommunications de la navigation aérienne. Le gouvernement fédéral a exclu l'hypothèse d'une cyberattaque extérieure pour privilégier la piste d'une défaillance matérielle. L'interruption des vols a causé une désorganisation massive dans les aéroports du pays avant le rétablissement progressif du système. Une investigation cherche à déterminer si une incompétence technique est à l'origine de cette panne.",
+        "stakes": [
+          "Quelles décisions seront prises pour moderniser les infrastructures informatiques du secteur aérien ?",
+          "Quel est l'impact financier de ces interruptions de vol pour le secteur des transports ?",
+          "Comment les autorités comptent-elles prévenir la répétition de défaillances matérielles similairement critiques ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+            "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-15T07:10:31.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "BBC News",
+            "title": "How telecoms upgrade work sparked US flight chaos",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-14T23:11:27.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "What forced the US to ground all planes? A router switch, we now know",
+            "link": "https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know?traffic_source=rss",
+            "publishedAt": "2026-11-15T09:17:49.000Z",
+            "lang": "en"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Major US flight outage caused by an update",
+            "context": "Air traffic across the United States suffered significant disruptions and unplanned flight suspensions. The federal administration immediately launched an investigation to identify the causes of this outage.",
+            "summary": "US authorities explained that the blocking of air traffic stemmed from a router malfunction and the overload of outdated equipment. The incident occurred during an upgrade operation of the air navigation telecommunications network. The federal government ruled out the hypothesis of an external cyberattack in favor of a hardware failure. The flight interruption caused massive disorganization in the country's airports before the gradual restoration of the system. An investigation is seeking to determine whether technical incompetence is behind this breakdown.",
+            "stakes": [
+              "What decisions will be made to modernize the IT infrastructure of the aviation sector?",
+              "What is the financial impact of these flight interruptions for the transport sector?",
+              "How do the authorities intend to prevent the repetition of similarly critical hardware failures?"
+            ]
+          },
+          "es": {
+            "title": "Apagón masivo de vuelos estadounidenses causado por una actualización",
+            "context": "Todo el tráfico aéreo en Estados Unidos sufrió importantes perturbaciones y suspensiones de vuelos imprevistas. La administración federal abrió inmediatamente una investigación para identificar las causas de esta interrupción.",
+            "summary": "Las autoridades estadounidenses explicaron que el bloqueo del tráfico aéreo provino del mal funcionamiento de un enrutador y de la sobrecarga de equipos antiguos. El incidente ocurrió durante una operación de actualización de la red de telecomunicaciones de navegación aérea. El gobierno federal descartó la hipótesis de un ciberataque externo para centrarse en la pista de un fallo material. La interrupción de los vuelos causó una desorganización masiva en los aeropuertos del país antes del restablecimiento progresivo del sistema. Una investigación busca determinar si la incompetencia técnica está en el origen de este fallo.",
+            "stakes": [
+              "¿Qué decisiones se tomarán para modernizar las infraestructuras informáticas del sector aéreo?",
+              "¿Cuál es el impacto financiero de estas interrupciones de vuelo para el sector del transporte?",
+              "¿Cómo planean las autoridades prevenir la repetición de fallos de hardware críticamente similares?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s1ac3da7d31",
+        "topic": "sante",
+        "title": "Six mois d'épidémie d'Ebola en République démocratique du Congo",
+        "context": "La République démocratique du Congo traverse une grave crise sanitaire liée à la résurgence du virus Ebola depuis le mois de mai. Les autorités sanitaires et les ONG tentent de contenir la propagation du virus dans plusieurs régions.",
+        "summary": "Le bilan humain de l'épidémie d'Ebola en RDC dépasse désormais les 5 400 morts après six mois de crise. Sur le terrain, soignants et humanitaires font face à des difficultés majeures d'accès et d'intervention auprès des populations. La désinformation et les retards dans la prise en charge médicale constituent des obstacles importants pour stopper la contagion. Certains membres de communautés restent réticents aux traitements par crainte ou manque d'information sur la maladie. Les structures médicales demandent une amplification de l'aide internationale pour endiguer le fléau.",
+        "stakes": [
+          "Quelles stratégies de sensibilisation permettront de surmonter la désinformation autour du virus Ebola ?",
+          "De quels moyens supplémentaires le système de santé congolais aura-t-il besoin pour endiguer l'épidémie ?",
+          "Comment la communauté internationale ajustera-t-elle son aide face au bilan humain s'alourdissant ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+            "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-15T00:06:55.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "Six mois d’épidémie d’Ebola en RDC : ils racontent leur vie en première ligne face au virus",
+            "link": "https://www.lemonde.fr/afrique/article/2026/11/15/six-mois-d-epidemie-d-ebola-en-rdc-ils-racontent-leur-vie-en-premiere-ligne-face-au-virus_6810987_3212.html",
+            "publishedAt": "2026-11-15T05:30:09.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d8/live/8fe15d90-df82-11f1-b441-2b33b063138f.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Six months of Ebola epidemic in the Democratic Republic of Congo",
+            "context": "The Democratic Republic of Congo is going through a severe health crisis linked to the resurgence of the Ebola virus since May. Health authorities and NGOs are trying to contain the spread of the virus in several regions.",
+            "summary": "The death toll from the Ebola epidemic in the DRC now exceeds 5,400 dead after six months of crisis. On the ground, health workers and humanitarians face major difficulties in accessing and intervening with populations. Misinformation and delays in medical care constitute significant obstacles to stopping the contagion. Some community members remain reluctant to treatments due to fear or lack of information about the disease. Medical structures are calling for an amplification of international aid to stem the scourge.",
+            "stakes": [
+              "What awareness-raising strategies will help overcome misinformation surrounding the Ebola virus?",
+              "What additional resources will the Congolese health system need to stem the epidemic?",
+              "How will the international community adjust its aid in the face of the worsening death toll?"
+            ]
+          },
+          "es": {
+            "title": "Seis meses de epidemia de ébola en la República Democrática del Congo",
+            "context": "La República Democrática del Congo atraviesa una grave crisis sanitaria vinculada al recrudecimiento del virus del ébola desde el mes de mayo. Las autoridades sanitarias y las ONG intentan contener la propagación del virus en varias regiones.",
+            "summary": "El balance humano de la epidemia de ébola en la RDC supera ya los 5.400 muertos tras seis meses de crisis. Sobre el terreno, el personal sanitario y los humanitarios se enfrentan a grandes dificultades de acceso e intervención con las poblaciones. La desinformación y los retrasos en la atención médica constituyen obstáculos importantes para frenar el contagio. Cuyos miembros de algunas comunidades siguen mostrando reticencia a los tratamientos por miedo o falta de información sobre la enfermedad. Las estructuras médicas piden que se amplíe la ayuda internacional para contener este flagelo.",
+            "stakes": [
+              "¿Qué estrategias de sensibilización permitirán superar la desinformación en torno al virus del ébola?",
+              "¿De qué medios adicionales necesitará el sistema de salud congoleño para frenar la epidemia?",
+              "¿Cómo ajustará la comunidad internacional su ayuda frente al empeoramiento del balance humano?"
+            ]
+          }
+        }
+      },
+      {
+        "id": "s71ec998add",
+        "topic": "societe",
+        "title": "Manifestations en Europe contre la hausse du coût de la vie",
+        "context": "L'inflation continue de peser sur le pouvoir d'achat et le coût du logement dans plusieurs pays européens. Des mouvements sociaux s'organisent pour exprimer le mécontentement de la population face aux difficultés financières.",
+        "summary": "Des milliers de manifestants se sont rassemblés dans plusieurs grandes villes de France et d'Allemagne pour dénoncer la vie chère. Au Portugal, des mobilisations d'ampleur ont réuni des milliers de personnes contesting la hausse importante des loyers. Les manifestants réclament des réformes législatives urgentes pour encadrer le prix des logements et soutenir les ménages modestes. Certaines réunions de rue en France et en Allemagne ont donné lieu à des heurts avec les forces de l'ordre. Les protestataires demandent une réponse globale des gouvernements face à la précarisation économique.",
+        "stakes": [
+          "Quelles réponses législatives les gouvernements apporteront-ils à l'augmentation des prix des loyers ?",
+          "La contestation contre la vie chère risque-t-elle de s'étendre à d'autres pays européens ?",
+          "Quel sera l'impact de ce mécontentement populaire sur le climat politique et social en Europe ?"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "title": "Police confront protesters in clashes across France and Germany",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
+            "publishedAt": "2026-11-15T11:04:10.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "Thousands in Portugal protest against surging rental prices",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
+            "publishedAt": "2026-11-15T08:40:37.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "RFI",
+            "title": "Des milliers de Portugais manifestent contre la crise du logement et la vie chère",
+            "link": "https://www.rfi.fr/fr/europe/20261115-des-milliers-de-portugais-manifestent-contre-la-crise-du-logement-et-la-vie-ch%C3%A8re",
+            "publishedAt": "2026-11-15T10:13:04.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://s.rfi.fr/media/display/bb583482-e0d4-11f1-84b6-29048b396e03/w:1024/p:16x9/AP26318666792713.jpg",
+          "credit": "RFI",
+          "link": "https://www.rfi.fr/fr/europe/20261115-des-milliers-de-portugais-manifestent-contre-la-crise-du-logement-et-la-vie-ch%C3%A8re"
+        },
+        "i18n": {
+          "en": {
+            "title": "Protests in Europe against the rising cost of living",
+            "context": "Inflation continues to weigh on purchasing power and housing costs in several European countries. Social movements are organizing to express public discontent in the face of financial difficulties.",
+            "summary": "Thousands of demonstrators gathered in several major cities in France and Germany to denounce the high cost of living. In Portugal, large-scale mobilizations brought together thousands of people protesting the significant rise in rents. Protesters are demanding urgent legislative reforms to cap housing prices and support low-income households. Some street gatherings in France and Germany led to clashes with law enforcement. Protesters are demanding a global response from governments to economic precariousness.",
+            "stakes": [
+              "What legislative responses will governments provide to the increase in rental prices?",
+              "Is the protest against the high cost of living likely to spread to other European countries?",
+              "What will the impact of this popular discontent be on the political and social climate in Europe?"
+            ]
+          },
+          "es": {
+            "title": "Manifestaciones en Europa contra el encarecimiento del coste de la vida",
+            "context": "La inflación sigue pesando sobre el poder adquisitivo y el coste de la vivienda en varios países europeos. Se están organizando movimientos sociales para expresar el descontento de la población ante las dificultades financieras.",
+            "summary": "Miles de manifestantes se congregaron en varias grandes ciudades de Francia y Alemania para denunciar el alto coste de la vida. En Portugal, movilizaciones de gran envergadura reunieron a miles de personas que protestaban contra el fuerte aumento de los alquileres. Los manifestantes exigen reformas legislativas urgentes para regular el precio de los alquileres y apoyar a los hogares con menores ingresos. Algunas concentraciones callejeras en Francia y Alemania derivaron en enfrentamientos con las fuerzas del orden. Los manifestantes exigen una respuesta global de los gobiernos ante la precarización económica.",
+            "stakes": [
+              "¿Qué respuestas legislativas darán los gobiernos al aumento de los precios de los alquileres?",
+              "¿Corre el riesgo de extenderse a otros países europeos la protesta contra el coste de la vida?",
+              "¿Cuál será el impacto de este descontento popular en el clima político y social de Europa?"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "storiesAt": "2026-11-15T12:15:59.003Z",
+  "inputHash": "6ea8f096a98cc71366513f872828d6e25d0fbc36",
+  "synthStatus": "ok",
+  "news": {
+    "france": [
+      {
+        "id": "ae99126678e",
+        "title": "« Seules les promotions fonctionnent » : Les Français se replient sur les centres commerciaux, mais y consomment peu",
+        "link": "https://www.ouest-france.fr/economie/commerce/seules-les-promotions-fonctionnent-les-francais-se-replient-sur-les-centres-commerciaux-mais-y-consomment-peu-fdc061be-e048-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "La canicule cet été, puis les manifestations dans certains centres de grandes villes ces dernières semaines, ont favorisé la fréquentation des centres commerciaux situés en périphérie. Mais leur chiffre d’affaires ne progresse pas forcément, face au manque de pouvoir d’achat de nombreux Français.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExYjdiNzU2N2I0ODZmY2VlM2MyMTlkNDE5MmZkMTA3NGY?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=a5e7cc0b9baa3c047b1d84b6196883bf6658c6c78396543163a2920426e0cac7",
+        "publishedAt": "2026-11-15T12:00:05.000Z",
+        "source": "Ouest-France",
+        "lang": "fr"
+      },
+      {
+        "id": "a4b598c636f",
+        "title": "En Seine-Saint-Denis, trois personnes interpellées après la découverte d’un corps sans vie dans un garage automobile",
+        "link": "https://www.liberation.fr/societe/en-seine-saint-denis-trois-personnes-interpellees-apres-la-decouverte-dun-corps-sans-vie-dans-un-garage-automobile-20261115_PVPDI2ZLL5GTRPMVQ5V3U5S7UU/",
+        "summary": "Dans la soirée de samedi 14 novembre, la police a retrouvé la dépouille d’une femme de 50 ans dans un atelier de La Courneuve. Les enfants de la victime avaient donné l’alerte : leur mère avait disparu depuis mardi.",
+        "image": null,
+        "publishedAt": "2026-11-15T11:52:02.000Z",
+        "source": "Libération",
+        "lang": "fr"
+      },
+      {
+        "id": "a04e4b945df",
+        "title": "Seule une politique de coalitions et de compromis nous sortira de l’impasse démocratique, par Benoît Payan",
+        "link": "https://www.liberation.fr/idees-et-debats/tribunes/seule-une-politique-de-coalitions-et-de-compromis-nous-sortira-de-limpasse-democratique-par-benoit-payan-20261115_UFXKA2NM4ZEQZPRFCN2N23S3YE/",
+        "summary": "Instauration de la proportionnelle, autonomie et meilleure représentation des collectivités locales au Sénat… Face à l’incapacité des institutions à transformer les aspirations des Français en décisions politiques, le maire de Marseille esquisse des pistes de réflexion.",
+        "image": null,
+        "publishedAt": "2026-11-15T11:34:41.000Z",
+        "source": "Libération",
+        "lang": "fr"
+      },
+      {
+        "id": "a09a099169d",
+        "title": "MMA. Ciryl Gane et Josh Hokit ont fini à l’hôpital après leur violent combat",
+        "link": "https://www.ouest-france.fr/sport/mma/ciryl-gane/mma-ciryl-gane-et-josh-hokit-ont-fini-a-lhopital-apres-leur-violent-combat-fbbfe1ae-e0e4-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Ciryl Gane et Josh Hokit, opposés lors de l’UFC 334 à New York, dans la nuit du samedi 14 à dimanche 15 novembre 2026, ont été conduits après leur combat à l’hôpital, où ils devaient passer un scanner. Les deux poids lourds de l’UFC ont livré une bagarre intense de cinq rounds, qui a finalement sour",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExMDdjNjk2MThmMGI2ZTdiZjQ3Y2JiYmQ4YjQzMDM3MDU?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=9448686c0101b9b202c4674150349b9a103665d115f44075d9d38abea4791561",
+        "publishedAt": "2026-11-15T11:33:48.000Z",
+        "source": "Ouest-France",
+        "lang": "fr"
+      },
+      {
+        "id": "ab6188505cd",
+        "title": "Dans les Deux-Sèvres, le collectif Bassines Non Merci appelle à un nouveau rassemblement pour rejoindre le site de Sainte-Soline le 29 novembre",
+        "link": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/megabassine/megabassine-de-sainte-soline/dans-les-deux-sevres-le-collectif-bassines-non-merci-appelle-a-un-nouveau-rassemblement-pour-rejoindre-le-site-de-sainte-soline-le-29-novembre_8283479.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Le rassemblement doit se dérouler au départ d'Azay-le-Brûlé, dans les Deux-Sèvres, pour rejoindre le site de Sainte-Soline à vélo ou en tracteur.",
+        "image": "https://www.franceinfo.fr/pictures/AbZ-sV1hm-JgpnEIA6W188utYU4/0x634:12183x7487/432x243/filters:format(jpg)/2026/11/15/6af996e55eb56288900537.jpg",
+        "publishedAt": "2026-11-15T11:27:38.000Z",
+        "source": "franceinfo",
+        "lang": "fr"
+      },
+      {
+        "id": "a2a25c4758c",
+        "title": "« Trop d’impôts et trop peu de reconnaissance » : dans C’est Nicolas qui paie !, Jonas Haddad analyse les dessous de la révolte des actifs",
+        "link": "https://www.lefigaro.fr/conjoncture/trop-d-impots-et-trop-peu-de-reconnaissance-dans-c-est-nicolas-qui-paie-jonas-haddad-analyse-les-dessous-de-la-revolte-des-actifs-20261115",
+        "summary": "CRITIQUE - Dans un petit essai pédagogique, le vice-président LR de la région Normandie détaille les ressorts de la colère de nombreux jeunes travailleurs et dénonce une fracture générationnelle.",
+        "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/15/521efaae91a1c9507bd1543b0857876132acab99b1c3af86800f15d75a0b99c0.jpg",
+        "publishedAt": "2026-11-15T11:15:00.000Z",
+        "source": "Le Figaro",
+        "lang": "fr"
+      },
+      {
+        "id": "aa1365add2c",
+        "title": "Un feu se déclare dans une entreprise de peintures en Loire-Atlantique, les riverains invités à rester chez eux",
+        "link": "https://www.franceinfo.fr/faits-divers/incendie/un-feu-se-declare-dans-une-entreprise-de-peintures-en-loire-atlantique-les-riverains-invites-a-rester-chez-eux_8283464.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "L'incendie n'a pas fait de victime. La préfecture demande aux riverains de fermer portes et fenêtres et de limiter leurs déplacements",
+        "image": "https://www.franceinfo.fr/pictures/62b8CxsEhaWEI8GDHGILq_w0P20/0x103:1165x759/432x243/filters:format(jpg)/2026/11/15/6af9936db54f7305818823.jpg",
+        "publishedAt": "2026-11-15T11:13:04.000Z",
+        "source": "franceinfo",
+        "lang": "fr"
+      },
+      {
+        "id": "a79a04706ad",
+        "title": "En Haïti, l’importation de la méthode Bukele contre les gangs pose question",
+        "link": "https://www.la-croix.com/international/en-haiti-l-importation-de-la-methode-bukele-contre-les-gangs-pose-question-20261115",
+        "summary": "Fort d’une première victoire armée contre un gang haïtien, le président salvadorien Nayib Bukele doit recevoir la visite du premier ministre Alix Didier Fils-Aimé, les 16 et 17 novembre. Au-delà de l’affichage, la pacification totale du pays et les élections, espérées en juillet 2027, paraissent bie",
+        "image": "https://i.la-croix.com/x/2026/11/15/2588764-des-membres-des-forces-armees-salvadoriennes-defil.jpg",
+        "publishedAt": "2026-11-15T11:12:14.000Z",
+        "source": "La Croix",
+        "lang": "fr"
+      },
+      {
+        "id": "acc4bd97548",
+        "title": "Allemagne : Ilse Aigner, cette conservatrice atypique qui pourrait devenir la première femme présidente",
+        "link": "https://www.lexpress.fr/monde/europe/allemagne-ilse-aigner-cette-conservatrice-atypique-qui-pourrait-devenir-la-premiere-femme-presidente-PRJTZD34EJEWLGE2YJKDPQJDXA/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/TVFR2MSIIRDHJN6YKUAWNWFAHE.JPG?auth=3d630f4bcc24bfabaf545b4c0b46ab1a0a924f5eb3db5ecf796caba58a9576f3&smart=true&width=2712&height=1808",
+        "publishedAt": "2026-11-15T11:10:29.000Z",
+        "source": "L'Express",
+        "lang": "fr"
+      },
+      {
+        "id": "a877b0027e1",
+        "title": "Cyberattaque chez Maileva, filiale de La Poste : ce que l’on sait du vol des données personnelles de 22 millions de personnes",
+        "link": "https://www.lefigaro.fr/secteur/high-tech/cyberattaque-chez-maileva-filiale-de-la-poste-ce-que-l-on-sait-du-vol-des-donnees-personnelles-d-un-tiers-de-la-population-francaise-20261115",
+        "summary": "DÉCRYPTAGE - Victime d’une cyberattaque mi-septembre, la plateforme spécialisée dans l’envoi de courriers professionnels a subi le vol des coordonnées de 22 millions de personnes.",
+        "image": "https://i.f1g.fr/media/cms/2996x1686_crop/2026/11/15/b614874a5f03c2c2070fb7bfd6b3ca1251089829860d55f93d7648d2d7a452e4.jpg",
+        "publishedAt": "2026-11-15T11:09:44.000Z",
+        "source": "Le Figaro",
+        "lang": "fr"
+      },
+      {
+        "id": "a8563886ce5",
+        "title": "Sandra Wollner, réalisatrice d’« Everytime », une redoutable conteuse et artiste touche-à-tout",
+        "link": "https://www.lemonde.fr/culture/article/2026/11/15/sandra-wollner-realisatrice-d-everytime-une-redoutable-conteuse-et-artiste-touche-a-tout_6811011_3246.html",
+        "summary": "Après le sulfureux « The Trouble With Being Born », en 2020, la cinéaste autrichienne présente son troisième long-métrage, scrutant le deuil d’une mère sous un nouveau jour.",
+        "image": "https://img.lemde.fr/2026/11/06/125/0/3316/1658/644/322/60/0/1f0b5dd_upload-1-mfcjw73u54ly-063-2297809208.jpg",
+        "publishedAt": "2026-11-15T11:00:10.000Z",
+        "source": "Le Monde",
+        "lang": "fr"
+      },
+      {
+        "id": "aaa37d78af6",
+        "title": "A Chalon-sur-Saône, la vie après Kodak ou l'histoire d'une renaissance",
+        "link": "https://www.lexpress.fr/economie/entreprises/a-chalon-sur-saone-la-vie-apres-kodak-ou-lhistoire-dune-renaissance-GNMDMQLQHFEXXDOFMQXUW2AS7M/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/FZD4LNRPVVA2JK2EOATBLVNLV4.jpg?auth=2e3bc2704094f4bebbde40658761d6342b9ebfe7dcc5140d84ea434281638c2f&smart=true&width=2000&height=1333",
+        "publishedAt": "2026-11-15T11:00:00.000Z",
+        "source": "L'Express",
+        "lang": "fr"
+      },
+      {
+        "id": "afb1f552f79",
+        "title": "Paul Seixas remporte le Critérium de Saitama, un succès pour « bien finir » sa belle année 2026",
+        "link": "https://www.lemonde.fr/sport/article/2026/11/15/paul-seixas-remporte-le-criterium-de-saitama-un-succes-pour-bien-finir-sa-belle-annee-2026_6811010_3242.html",
+        "summary": "Le cycliste français a devancé le champion du monde américain Brandon McNulty sur la ligne d’arrivée de cette course d’exhibition organisée au Japon. Il conclue, à 20 ans, une saison qui l’aura vu décrocher ses premiers succès au plus haut niveau.",
+        "image": "https://img.lemde.fr/2026/11/15/1141/0/6846/3423/644/322/60/0/ebea3a4_ftp-1-g1cst6mjtxox-afp-d7hm6r3.jpg",
+        "publishedAt": "2026-11-15T10:51:55.000Z",
+        "source": "Le Monde",
+        "lang": "fr"
+      },
+      {
+        "id": "a3c091944f9",
+        "title": "Jordanie : trois hommes condamnés à mort pour l’attaque contre une église",
+        "link": "https://www.la-croix.com/religion/jordanie-trois-hommes-condamnes-a-mort-pour-l-attaque-contre-une-eglise-20261115",
+        "summary": "La justice jordanienne a condamné, dimanche 15 novembre, à mort par pendaison trois hommes reconnus coupables de l’attaque meurtrière contre une église grecque-orthodoxe dans la localité de Hammoud, à Karak, dans le sud du pays, le 23 octobre 2026.",
+        "image": "https://i.la-croix.com/x/2026/11/15/2589703-des-fideles-et-des-membres-des-forces-de-securite-.jpg",
+        "publishedAt": "2026-11-15T10:46:36.000Z",
+        "source": "La Croix",
+        "lang": "fr"
+      }
+    ],
+    "monde": [
+      {
+        "id": "a3050326839",
+        "title": "Reform UK losing support to Labour after ‘difficult year’, says Danny Kruger",
+        "link": "https://www.theguardian.com/politics/2026/nov/15/reform-uk-losing-support-to-labour-after-difficult-year-says-danny-kruger",
+        "summary": "MP says party is being squeezed by arrival of ‘more plausible’ Labour leader in Andy Burnham Reform UK has been losing support to Labour after “a very difficult year,” Danny Kruger has admitted, just over 12 months after his defection to Nigel Farage’s party. The MP, who has been tasked with prepari",
+        "image": "https://i.guim.co.uk/img/media/69519d357913a1109b72cce7c6bab8d6e86cd732/164_166_2096_1676/master/2096.jpg?width=140&quality=85&auto=format&fit=max&s=4dbfdc6c28b3068643580d7502d2717a",
+        "publishedAt": "2026-11-15T11:53:01.000Z",
+        "source": "The Guardian",
+        "lang": "en"
+      },
+      {
+        "id": "a4c1b6726b6",
+        "title": "MMA fighters jailed after Abu Dhabi hotel lobby brawl",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/mma-fighters-jailed-after-abu-dhabi-hotel-lobby-brawl?traffic_source=rss",
+        "summary": "Ten people have been convicted by the Abu Dhabi Criminal Court over a brawl in a hotel lobby.",
+        "image": null,
+        "publishedAt": "2026-11-15T11:33:49.000Z",
+        "source": "Al Jazeera",
+        "lang": "en"
+      },
+      {
+        "id": "a0be1f7da41",
+        "title": "De retour dans les Andes péruviennes, le pape Léon XIV s'inquiète de l'exode rural",
+        "link": "https://www.france24.com/fr/am%C3%A9riques/20261115-perou-retour-andes-pape-l%C3%A9on-xiv-inquiet-exode-rural-pauvret%C3%A9",
+        "summary": "En visite dans la région de Cajamarca, où le taux de pauvreté est le plus élevé du Pérou, le pape Léon XIV s'est inquiété samedi de la \"souffrance\" des populations rurales contraintes à l'exode. Lorsqu'il était évêque de Chiclayo, entre 2015 et 2023, il se rendait régulièrement dans cette région mon",
+        "image": "https://s.france24.com/media/display/1e4a9246-e0e0-11f1-a218-29048b396e03/w:1024/p:16x9/000-D7HD3NR.jpg",
+        "publishedAt": "2026-11-15T11:06:47.000Z",
+        "source": "France 24",
+        "lang": "fr"
+      },
+      {
+        "id": "acedd4c64ea",
+        "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+        "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+        "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fb0/live/ed275c50-e0dd-11f1-a701-fddedf244c16.jpg",
+        "publishedAt": "2026-11-15T11:06:32.000Z",
+        "source": "BBC News",
+        "lang": "en"
+      },
+      {
+        "id": "aa90f8d6f77",
+        "title": "Au Sénégal, travailler sous 38 °C toute l’année",
+        "link": "https://www.lemonde.fr/afrique/article/2026/11/15/au-senegal-travailler-sous-38-c-toute-l-annee_6811008_3212.html",
+        "summary": "La photographe Adrienne Surprenant raconte les défis climatiques auxquels les agriculteurs sénégalais font face dans le nord-est du pays et leurs tentatives d’adaptation.",
+        "image": "https://img.lemde.fr/2026/11/12/250/0/3000/1500/644/322/60/0/315b930_upload-1-l5eyehiuyuwk-senegal-heat-asurp-as109869.jpg",
+        "publishedAt": "2026-11-15T10:06:01.000Z",
+        "source": "Le Monde International",
+        "lang": "fr"
+      },
+      {
+        "id": "a70ab235a3e",
+        "title": "Shark attack hero breaks through for Iron Series win",
+        "link": "https://www.abc.net.au/news/2026-11-15/shark-attack-hero-charlie-verco-iron-series-win/107387616",
+        "summary": "An emotional Charlie Verco describes his journey from a shark-attack rescue to a maiden Iron Series win as a \"roller coaster\".",
+        "image": "https://live-production.wcms.abc-cdn.net.au/4c2440160d90936f76a386393849a247?impolicy=wcms_crop_resize&cropH=2025&cropW=3600&xPos=0&yPos=0&width=862&height=485",
+        "publishedAt": "2026-11-15T07:57:27.000Z",
+        "source": "ABC News (Australie)",
+        "lang": "en"
+      },
+      {
+        "id": "abeb5af434f",
+        "title": "Beijing faces its Russia dilemma amid talk of Xi-Trump-Putin summit",
+        "link": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-world-4025-rdf",
+        "summary": "China is forced to tread carefully as it considers hosting a meeting between Xi Jinping, Vladimir Putin, and Donald Trump. While the optics are sure to favor Moscow, Beijing is risking its image on the global stage.",
+        "image": null,
+        "publishedAt": "2026-11-15T06:31:00.000Z",
+        "source": "Deutsche Welle",
+        "lang": "en"
+      },
+      {
+        "id": "a86cee693d6",
+        "title": "Fuel crisis and protests pressure Chile's far-right president",
+        "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+        "summary": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8193x5462+0+0/resize/8193x5462!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2F57%2F7e653aad4c7b8e810540c25313e9%2Fap26309662592247.jpg",
+        "publishedAt": "2026-11-14T16:05:12.000Z",
+        "source": "NPR",
+        "lang": "en"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "franceinfo (France)",
+      "url": "https://www.francetvinfo.fr/france.rss",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Le Monde (France)",
+      "url": "https://www.lemonde.fr/rss/une.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Le Figaro (France)",
+      "url": "https://www.lefigaro.fr/rss/figaro_actualites-a-la-une.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Libération (France)",
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Ouest-France (France)",
+      "url": "https://www.ouest-france.fr/rss/une",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "La Croix (France)",
+      "url": "https://www.la-croix.com/RSS",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "L'Express (France)",
+      "url": "https://www.lexpress.fr/rss/alaune.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Le Parisien (France)",
+      "url": "https://feeds.leparisien.fr/leparisien/rss",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "BBC News (Monde)",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "The Guardian (Monde)",
+      "url": "https://www.theguardian.com/world/rss",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Deutsche Welle (Monde)",
+      "url": "https://rss.dw.com/rdf/rss-en-world",
+      "ok": true,
+      "count": 11
+    },
+    {
+      "name": "Al Jazeera (Monde)",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "NPR (Monde)",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "ok": true,
+      "count": 1
+    },
+    {
+      "name": "ABC News (Australie) (Monde)",
+      "url": "https://www.abc.net.au/news/feed/2942460/rss.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "France 24 (Monde)",
+      "url": "https://www.france24.com/fr/rss",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Le Monde International (Monde)",
+      "url": "https://www.lemonde.fr/international/rss_full.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "RFI (Monde)",
+      "url": "https://www.rfi.fr/fr/rss",
+      "ok": true,
+      "count": 12
+    }
+  ],
+  "meteo": {
+    "ok": false,
+    "city": "Montaigu-Vendée",
+    "source": "Open-Meteo",
+    "sourceUrl": "https://open-meteo.com/en/docs",
+    "fetchedAt": null
+  },
+  "carburants": {
+    "ok": false,
+    "prices": [],
+    "best": {},
+    "stationsVerifiees": 0,
+    "source": "prix-carburants.gouv.fr",
+    "sourceUrl": "https://www.prix-carburants.gouv.fr/rubrique/opendata/"
+  },
+  "culture": [
+    {
+      "title": "3 artistes, 3 sensibilités, un même souffle !",
+      "discipline": "Peinture et photographie",
+      "artist": "Céline Ranger, Évelyne Gaillou et Bujo",
+      "city": "Clisson",
+      "venue": "Galerie Saint-Antoine, 7 rue Saint-Antoine",
+      "start": "2026-11-06",
+      "end": "2026-11-15",
+      "details": "Entrée gratuite ; du mercredi au dimanche, de 11 h à 18 h.",
+      "source": "Destination Vignoble Nantais",
+      "sourceUrl": "https://www.destination-vignoble-nantais.com/que-faire-vignoble-nantais/agenda/3-artistes-3-sensibilites-un-meme-souffle-clisson-fr-6875540/"
+    },
+    {
+      "title": "Océanissime Nantes 2026",
+      "discipline": "Peinture, gravure, photographie et sculpture",
+      "artist": "Seize membres de l’Académie des Arts et Sciences de la Mer",
+      "city": "Nantes",
+      "venue": "Maison de la Mer, 54 quai de la Fosse",
+      "start": "2026-11-07",
+      "end": "2026-11-22",
+      "details": "Plus de cent œuvres ; entrée gratuite. Horaires détaillés sur le site de Nantes Métropole.",
+      "source": "Nantes Métropole",
+      "sourceUrl": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/45675254_exposition-oceanissime-nantes-2026"
+    },
+    {
+      "title": "La figure de l’héroïne",
+      "discipline": "Peinture et histoire de l’art",
+      "artist": "Exposition consacrée aux représentations féminines du XIXe siècle",
+      "city": "La Roche-sur-Yon",
+      "venue": "Musée – Espace Malraux",
+      "start": "2026-11-03",
+      "end": "2027-02-07",
+      "details": "Exposition temporaire. Vérifier les horaires d’ouverture avant la visite.",
+      "source": "Ville de La Roche-sur-Yon",
+      "sourceUrl": "https://larochesuryon.fr/actualites/les-heroines-du-xixe-siecle-sexposent-a-la-roche/"
+    }
+  ],
+  "history": [],
+  "checks": {
+    "actualites": true,
+    "meteo": false,
+    "carburants": false
+  }
+}
