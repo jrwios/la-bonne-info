@@ -81,12 +81,13 @@ const D = {
  look:['Apparence','Appearance','Apariencia'], th_auto:['Automatique','Automatic','Automático'], th_light:['Claire','Light','Claro'], th_dark:['Sombre','Dark','Oscuro'], ink:['Couleur de l’encre secondaire','Secondary ink colour','Color de tinta secundario'], lang_h:['Langue','Language','Idioma'],
  col0:['Kaki','Khaki','Caqui'], col1:['Anthracite','Charcoal','Antracita'], col2:['Sépia','Sepia','Sepia'], col3:['Prune grise','Grey plum','Ciruela gris'],
  charter_h:['Charte de LA BONNE INFO','LA BONNE INFO charter','Carta de LA BONNE INFO'],
- charter:['Les synthèses croisent plusieurs médias de sensibilités et de pays différents et attribuent chaque affirmation contestée à sa source. Elles sont rédigées automatiquement à partir des titres et résumés publiés ; les sources sont toujours indiquées. Les chiffres sont horodatés. Une information absente n’est pas remplacée par une invention.','The summaries cross-check several outlets of different leanings and countries and attribute each contested claim to its source. They are written automatically from published headlines and abstracts; sources are always shown. Figures are timestamped. Missing information is never replaced by invention.','Los resúmenes contrastan varios medios de distintas sensibilidades y países y atribuyen cada afirmación discutida a su fuente. Se redactan automáticamente a partir de titulares y extractos publicados; las fuentes siempre se indican. Las cifras llevan fecha y hora. Una información ausente no se sustituye por una invención.'],
+ charter:['Les synthèses croisent plusieurs médias de sensibilités et de pays différents et attribuent chaque affirmation contestée à sa source. Un sujet politique ou de société n’est publié que s’il s’appuie sur des médias de sensibilités différentes. Elles sont rédigées automatiquement à partir des titres et résumés publiés ; les sources sont toujours indiquées. Les chiffres sont horodatés. Une information absente n’est pas remplacée par une invention.','The summaries cross-check several outlets of different leanings and countries and attribute each contested claim to its source. A political or social topic is only published if it relies on outlets of different leanings. They are written automatically from published headlines and abstracts; sources are always shown. Figures are timestamped. Missing information is never replaced by invention.','Los resúmenes contrastan varios medios de distintas sensibilidades y países y atribuyen cada afirmación discutida a su fuente. Un tema político o social solo se publica si se apoya en medios de distintas sensibilidades. Se redactan automáticamente a partir de titulares y extractos publicados; las fuentes siempre se indican. Las cifras llevan fecha y hora. Una información ausente no se sustituye por una invención.'],
  tp_politique:['Politique','Politics','Política'], tp_economie:['Économie','Economy','Economía'], tp_societe:['Société','Society','Sociedad'], tp_justice:['Justice et faits divers','Justice and crime','Justicia y sucesos'], tp_sport:['Sport','Sport','Deportes'], tp_culture:['Culture et médias','Culture and media','Cultura y medios'], tp_sciences_tech:['Sciences et technologies','Science and technology','Ciencia y tecnología'], tp_sante:['Santé','Health','Salud'], tp_environnement:['Environnement et climat','Environment and climate','Medio ambiente y clima'], tp_international:['International','World affairs','Internacional'],
  flt_all:['Tous','All','Todos'], flt_mine:['Pour vous','For you','Para usted'], for_you:['Pour vous','For you','Para usted'], other_fr:['Autres sujets · France','Other topics · France','Otros temas · Francia'], other_world:['Autres sujets · International','Other topics · World','Otros temas · Internacional'], hello:['Bonjour {n}','Hello {n}','Hola {n}'],
  no_match:['Aucun sujet récent ne correspond à vos centres d’intérêt pour le moment. Les autres sujets sont affichés ci-dessous.','No recent topic matches your interests right now. Other topics are shown below.','Ningún tema reciente coincide con sus intereses por ahora. Los demás temas aparecen abajo.'],
  topics_pending:['Vos centres d’intérêt seront pris en compte à la prochaine mise à jour des synthèses : les sujets actuels n’ont pas encore de rubrique.','Your interests will be applied at the next summary update: current topics have no category yet.','Sus intereses se aplicarán en la próxima actualización de los resúmenes: los temas actuales aún no tienen categoría.'],
  empty_filter:['Aucun sujet dans cette catégorie pour le moment.','No topic in this category right now.','Ningún tema en esta categoría por ahora.'], topics_lbl:['Rubriques','Categories','Categorías'],
+ div_line:['Médias : {m} · Pays : {c} · Langues : {l}','Outlets: {m} · Countries: {c} · Languages: {l}','Medios: {m} · Países: {c} · Idiomas: {l}'],
  s_plain:['En clair','In plain words','En pocas palabras'],
  chart_src:['Chiffres cités par {s}','Figures quoted by {s}','Cifras citadas por {s}'],
  chart_note:['Graphique construit uniquement avec les chiffres présents dans l’article cité.','Chart built only from the figures found in the cited article.','Gráfico elaborado solo con las cifras que aparecen en el artículo citado.'],
@@ -160,6 +161,12 @@ function chartHtml(s){
  const aria=title+' : '+labels.map((l,i)=>l+' '+c.items[i].value+(unit?' '+unit:'')).join(', ');
  return `<figure class="chart"><figcaption><strong>${esc(title)}</strong></figcaption><svg viewBox="0 0 ${w} ${h}" role="img" aria-label="${esc(aria)}" font-family="system-ui,sans-serif">${rows}</svg><div class="micro">${link(c.source&&c.source.link,t('chart_src',{s:(c.source&&c.source.name)||''}))} · ${t('chart_note')}</div></figure>`;
 }
+function countryName(c){try{return new Intl.DisplayNames([LOC()],{type:'region'}).of(String(c).toUpperCase())||c;}catch(_){return c;}}
+function diversityLine(s){
+ const src=(s.sources||[]).filter(a=>a&&a.name);if(!src.some(a=>a.country))return '';
+ const m=new Set(src.map(a=>a.name)).size,c=new Set(src.map(a=>a.country).filter(Boolean)).size,l=new Set(src.map(a=>a.lang).filter(Boolean)).size;
+ return `<p class="micro diversity">${esc(t('div_line',{m,c,l}))}</p>`;
+}
 function storyCard(s){
  const x=sx(s);
  const miss=state.lang!=='fr'&&x===s;
@@ -169,7 +176,7 @@ function storyCard(s){
  <h4>${t('s_summary')}</h4><p>${esc(x.summary)}</p>
  ${chartHtml(s)}
  ${x.stakes&&x.stakes.length?`<h4>${t('s_stakes')}</h4><ul class="stakes">${x.stakes.map(i=>`<li>${esc(i)}</li>`).join('')}</ul>`:''}
- <h4>${t('s_sources')}</h4><ul class="srclist">${(s.sources||[]).map(a=>`<li>${link(a.link,a.name+' — '+a.title,'srclink')}<span class="micro"> · ${esc(fmtDatetime(a.publishedAt))}${a.lang&&a.lang!==state.lang?' · '+esc(String(a.lang).toUpperCase()):''}</span></li>`).join('')}</ul>
+ <h4>${t('s_sources')}</h4><ul class="srclist">${(s.sources||[]).map(a=>`<li>${link(a.link,a.name+' — '+a.title,'srclink')}<span class="micro"> · ${esc(fmtDatetime(a.publishedAt))}${a.country?' · '+esc(countryName(a.country)):''}${a.lang&&a.lang!==state.lang?' · '+esc(String(a.lang).toUpperCase()):''}</span></li>`).join('')}</ul>${diversityLine(s)}
  ${(s.sources||[]).length<2?`<p class="micro">${t('s_single')}</p>`:''}${miss?`<p class="micro">${t('s_notrans')}</p>`:''}</article>`;
 }
 function mediaCard(article){

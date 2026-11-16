@@ -177,3 +177,5 @@ footer{border-top:2px double var(--ink);margin:25px 0 18px;padding-top:17px;font
 .legend{display:flex;flex-wrap:wrap;gap:14px;margin:4px 0 6px;font:600 .8rem system-ui,sans-serif}
 .legend .lg i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:6px;vertical-align:-1px}
 .histsvg{display:block;width:100%;height:auto;color:var(--ink)}
+
+.diversity{margin-top:6px;font-weight:600}

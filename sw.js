@@ -1,4 +1,4 @@
-const CACHE = 'la-bonne-info-v13';
+const CACHE = 'la-bonne-info-v14';
 const SHELL = ['./', './index.html', './styles.css', './app.js', './live.js', './scenes.js', './features.js', './art.js', './maps.js', './vendor/leaflet/leaflet.js', './vendor/leaflet/leaflet.css', './manifest.webmanifest', './logo.svg', './icon-192.png', './icon-512.png'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(SHELL.map(u => new Request(u, {cache: 'reload'})))).then(() => self.skipWaiting()));
