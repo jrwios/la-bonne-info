@@ -1,0 +1,2187 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-16T23:56:22.074Z",
+  "status": "partielle",
+  "stories": {
+    "france": [
+      {
+        "id": "sf68728ab51",
+        "topic": "politique",
+        "title": "Débat télévisé entre cinq candidats à l'élection présidentielle de 2027",
+        "context": "À l'approche du scrutin présidentiel de 2027, la question sociale et du pouvoir d'achat suscite de vifs débats politiques en France. Sur les antennes de TF1 et LCI, plusieurs responsables politiques se sont affrontés lors d'une émission consacrée à la précarité et à la fiscalité.",
+        "summary": "Marine Le Pen, Raphaël Glucksmann, Jean-Luc Mélenchon, Gabriel Attal et Bruno Retailleau ont débattu pendant près de trois heures. Les échanges ont porté sur la précarité des travailleurs, la crise du logement, l'aide aux associations et les retraites. Les candidats se sont mutuellement accusés de proposer des financements irréalistes ou d'accorder des cadeaux fiscaux aux plus aisés. Politico Europe observe que la candidate du Rassemblement national a été ciblée par ses adversaires. Libération et France 24 mettent en lumière de profonds clivages idéologiques sur le traitement de la pauvreté.",
+        "plain": "EN CLAIR : Les principaux candidats déclarés pour la présidentielle de 2027 ont participé à un premier grand débat télévisé. Ils ont affiché de profonds désaccords sur l'aide sociale, la fiscalité et le logement. Ce rendez-vous donne le ton des oppositions politiques à venir.",
+        "chart": null,
+        "stakes": [
+          "Quelle stratégie sera privilégiée face à la hausse de la précarité ?",
+          "Comment évolueront les alliances et oppositions entre les blocs politiques ?",
+          "Quel sera le coût financier des programmes présentés d'ici 2027 ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Débat de la présidentielle 2027 : revivez le débat entre Marine Le Pen, Raphaël Glucksmann, Jean-Luc Mélenchon, Gabriel Attal et Bruno Retailleau",
+            "link": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-debat-de-la-presidentielle-2027-les-cinq-candidats-s-affrontent-sur-les-retraites-marine-le-pen-cible-la-ligue-des-droits-de-l-homme-un-ramassis-de-gauchistes_6811633_6205049.html",
+            "publishedAt": "2026-11-16T22:21:54.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Libération",
+            "title": "Associations, salaires, logement… Sur la pauvreté, un débat riche en clivages",
+            "link": "https://www.liberation.fr/politique/elections/associations-salaires-logement-sur-la-pauvrete-un-debat-riche-en-clivages-20261117_NGRLJYOLKNBXLDOCJUYLU2FQDU/",
+            "publishedAt": "2026-11-16T23:29:05.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Libération",
+            "title": "Présidentielle 2027 : les moments forts du débat entre Mélenchon, Glucksmann, Le Pen, Attal et Retailleau",
+            "link": "https://www.liberation.fr/politique/il-ny-a-personne-qui-veut-parler-de-la-distribution-retrouvez-les-moments-forts-du-debat-presidentielle-20261116_MZBZMVHPSVBL3DQHSSB3IWPCUE/",
+            "publishedAt": "2026-11-16T22:09:45.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "Élection présidentielle 2027. Ce qu’il faut retenir du débat sur la solidarité, le pouvoir d’achat et la précarité",
+            "link": "https://www.ouest-france.fr/elections/presidentielle/election-presidentielle-2027-ce-quil-faut-retenir-du-debat-sur-la-solidarite-le-pouvoir-dachat-et-la-precarite-f78247e6-e1dc-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-16T22:31:54.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "French presidential rivals take aim at Le Pen in debate",
+            "link": "https://www.politico.eu/article/france-election-2027-presidential-candidates-target-marine-le-pen-tv-debate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-16T23:27:47.000Z",
+            "lang": "en",
+            "country": "BE"
+          },
+          {
+            "name": "France 24",
+            "title": "Impôts, logement, Smic... les candidats à la présidentielle débattent de leurs propositions",
+            "link": "https://www.france24.com/fr/france/20261116-imp%C3%B4ts-logement-smic-les-candidats-%C3%A0-la-pr%C3%A9sidentielle-d%C3%A9battent-de-leurs-propositions",
+            "publishedAt": "2026-11-16T22:39:30.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/16/479/0/5748/2874/644/322/60/0/40b1c23_ftp-1-lvyqkyk0mtmd-2026-11-16t194753z-1720879303-rc27poaq40ka-rtrmadp-3-france-politics.JPG",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-debat-de-la-presidentielle-2027-les-cinq-candidats-s-affrontent-sur-les-retraites-marine-le-pen-cible-la-ligue-des-droits-de-l-homme-un-ramassis-de-gauchistes_6811633_6205049.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Televised debate between five candidates for the 2027 presidential election",
+            "context": "As the 2027 presidential election approaches, social issues and purchasing power are sparking intense political debate in France. On TF1 and LCI channels, several political figures clashed during a broadcast dedicated to precariousness and taxation.",
+            "summary": "Marine Le Pen, Raphaël Glucksmann, Jean-Luc Mélenchon, Gabriel Attal, and Bruno Retailleau debated for nearly three hours. Discussions focused on workers' precariousness, the housing crisis, aid to associations, and pensions. The candidates accused each other of proposing unrealistic funding or granting tax breaks to the wealthy. Politico Europe notes that the National Rally candidate was targeted by her opponents. Libération and France 24 highlight deep ideological divides regarding the handling of poverty.",
+            "plain": "IN BRIEF: The main declared candidates for the 2027 presidential election participated in a first major televised debate. They displayed deep disagreements over social welfare, taxation, and housing. This meeting sets the tone for upcoming political oppositions.",
+            "stakes": [
+              "What strategy will be prioritized to address rising precariousness?",
+              "How will alliances and oppositions between political blocs evolve?",
+              "What will be the financial cost of the programs presented by 2027?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Debate televisado entre cinco candidatos a las elecciones presidenciales de 2027",
+            "context": "A medida que se acercan las elecciones presidenciales de 2027, la cuestión social y del poder adquisitivo suscita intensos debates políticos en Francia. En los canales TF1 y LCI, varios líderes políticos se enfrentaron en un programa dedicado a la precariedad y la fiscalidad.",
+            "summary": "Marine Le Pen, Raphaël Glucksmann, Jean-Luc Mélenchon, Gabriel Attal y Bruno Retailleau debatieron durante casi tres horas. Los intercambios se centraron en la precariedad de los trabajadores, la crisis de la vivienda, la ayuda a las asociaciones y las pensiones. Los candidatos se acusaron mutuamente de proponer financiamientos poco realistas o de conceder regalos fiscales a los más ricos. Politico Europe observa que la candidata de Agrupación Nacional fue blanco de sus oponentes. Libération y France 24 ponen de relieve profundas divisiones ideológicas sobre el tratamiento de la pobreza.",
+            "plain": "EN CLARO: Los principales candidatos declarados para las presidenciales de 2027 participaron en un primer gran debate televisado. Mostraron profundos desacuerdos sobre la ayuda social, la fiscalidad y la vivienda. Este encuentro marca la pauta de las futuras oposiciones políticas.",
+            "stakes": [
+              "¿Qué estrategia se privilegiará frente al aumento de la precariedad?",
+              "¿Cómo evolucionarán las alianzas y oposiciones entre los bloques políticos?",
+              "¿Cuál será el coste financiero de los programas presentados de aquí a 2027?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s7fc5dd022f",
+        "topic": "international",
+        "title": "Blocage au sommet de l'Organisation internationale de la francophonie",
+        "context": "L'Organisation internationale de la francophonie (l'OIF, l'institution promouvant la langue française) regroupe 53 États membres. Son sommet bisannuel s'est tenu à Phnom Penh, au Cambodge, dans un contexte d'importantes tensions diplomatiques régionales.",
+        "summary": "Les États membres de l'OIF ont reporté d'un an la désignation de leur secrétaire général, faute d'accord entre les délégations. Ce blocage inédit s'explique par les tensions diplomatiques vives entre le Rwanda et la République démocratique du Congo. La secrétaire générale sortante, Louise Mushikiwabo, reste en fonction pour un an supplémentaire mais a annoncé qu'elle ne solliciterait pas de nouveau mandat. Le président français Emmanuel Macron a salué un compromis évitant une crise ouverte. Les médias analysent cet ajournement comme le signe d'une fragilisation de l'institution internationale face aux conflits régionaux.",
+        "plain": "EN CLAIR : Les pays membres de l'Organisation internationale de la francophonie n'ont pas réussi à élire leur nouveau dirigeant au Cambodge. Les tensions entre le Rwanda et le Congo ont empêché tout consensus. La direction actuelle est prolongée d'un an en attendant une nouvelle élection.",
+        "chart": null,
+        "stakes": [
+          "L'OIF parviendra-t-elle à surmonter les crises diplomatiques entre ses membres ?",
+          "Quel sera le rôle diplomatique futur de la francophonie sur le continent africain ?",
+          "Comment s'organisera la succession de l'actuelle secrétaire générale dans un an ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde (International)",
+            "title": "Le XXᵉ Sommet de la francophonie paralysé par les tensions diplomatiques​",
+            "link": "https://www.lemonde.fr/international/article/2026/11/16/une-crise-inedite-au-sommet-de-la-francophonie-paralysee-par-les-tensions-diplomatiques_6812590_3210.html",
+            "publishedAt": "2026-11-16T22:21:42.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "La Croix",
+            "title": "La francophonie rattrapée par les tensions entre le Rwanda et la République démocratique du Congo",
+            "link": "https://www.la-croix.com/international/la-francophonie-rattrapee-par-les-tensions-entre-le-rwanda-et-la-republique-democratique-du-congo-20261116",
+            "publishedAt": "2026-11-16T18:29:07.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "France 24",
+            "title": "Francophonie : l'avenir du français se joue-t-il en Afrique ?",
+            "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261116-francophonie-l-avenir-du-fran%C3%A7ais-se-joue-t-il-en-afrique",
+            "publishedAt": "2026-11-16T23:11:50.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "France 24",
+            "title": "Francophonie : face à l'impasse, l'élection du secrétaire général repoussée d'un an",
+            "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261116-francophonie-face-%C3%A0-l-impasse-l-%C3%A9lection-du-secr%C3%A9taire-g%C3%A9n%C3%A9ral-repouss%C3%A9e-d-un-an",
+            "publishedAt": "2026-11-16T21:39:37.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Euronews",
+            "title": "Emmanuel Macron salue un \"compromis\" après le report de l'élection du secrétaire général de la Francophonie",
+            "link": "https://fr.euronews.com/2026/11/16/emmanuel-macron-salue-un-compromis-apres-le-report-de-lelection-du-secretaire-general-de-l",
+            "publishedAt": "2026-11-16T17:15:39.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Jeune Afrique",
+            "title": "OIF : Louise Mushikiwabo reconduite pour un an, son départ désormais programmé",
+            "link": "https://www.jeuneafrique.com/1861844/politique/oif-louise-mushikiwabo-reconduite-pour-un-an-son-depart-desormais-programme/",
+            "publishedAt": "2026-11-16T10:47:59.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/16/558/0/6691/3345/644/322/60/0/09df054_ftp-1-uvp2uxnwa0y7-afp-d7lg7aw.jpg",
+          "credit": "Le Monde (International)",
+          "link": "https://www.lemonde.fr/international/article/2026/11/16/une-crise-inedite-au-sommet-de-la-francophonie-paralysee-par-les-tensions-diplomatiques_6812590_3210.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Deadlock at the top of the Organisation internationale de la Francophonie",
+            "context": "The Organisation internationale de la Francophonie (OIF, the institution promoting the French language) brings together 53 member states. Its biennial summit was held in Phnom Penh, Cambodia, amidst significant regional diplomatic tensions.",
+            "summary": "OIF member states postponed the appointment of their secretary-general by a year due to a lack of agreement among delegations. This unprecedented deadlock stems from intense diplomatic tensions between Rwanda and the Democratic Republic of Congo. The outgoing secretary-general, Louise Mushikiwabo, remains in office for an additional year but announced she will not seek another term. French President Emmanuel Macron praised a compromise that avoided an open crisis. Analysts view this postponement as a sign of the international institution's vulnerability in the face of regional conflicts.",
+            "plain": "IN BRIEF: Member countries of the Organisation internationale de la Francophonie failed to elect their new leader in Cambodia. Tensions between Rwanda and Congo prevented any consensus. Current leadership is extended by one year pending a new election.",
+            "stakes": [
+              "Will the OIF manage to overcome diplomatic crises among its members?",
+              "What will be the future diplomatic role of Francophonie on the African continent?",
+              "How will the succession of the current secretary-general be organized in a year?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Bloqueo en la cúpula de la Organización Internacional de la Francofonía",
+            "context": "La Organización Internacional de la Francofonía (OIF, la institución que promueve la lengua francesa) agrupa a 53 Estados miembros. Su cumbre bienal se celebró en Nom Pen, Camboya, en un contexto de importantes tensiones diplomáticas regionales.",
+            "summary": "Los Estados miembros de la OIF aplazaron un año la designación de su secretario general por falta de acuerdo entre las delegaciones. Este bloqueo inédito se explica por las intensas tensiones diplomáticas entre Ruanda y la República Democrática del Congo. La secretaria general saliente, Louise Mushikiwabo, permanece en el cargo un año más, pero anunció que no solicitará un nuevo mandato. El presidente francés, Emmanuel Macron, saludó un compromiso que evitó una crisis abierta. Los analistas interpretan este aplazamiento como un signo de la fragilidad de la institución internacional frente a los conflictos regionales.",
+            "plain": "EN CLARO: Los países miembros de la Organización Internacional de la Francofonía no lograron elegir a su nuevo dirigente en Camboya. Las tensiones entre Ruanda y el Congo impidieron cualquier consenso. La dirección actual se prorroga un año a la espera de una nueva elección.",
+            "stakes": [
+              "¿Logrará la OIF superar las crisis diplomáticas entre sus miembros?",
+              "¿Cuál será el futuro papel diplomático de la francofonía en el continente africano?",
+              "¿Cómo se organizará la sucesión de la actual secretaria general dentro de un año?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s4833f3a2b5",
+        "topic": "economie",
+        "title": "Renault annonce des créations et des départs d'emplois en France",
+        "context": "Le secteur automobile européen fait face à d'importantes mutations industrielles liées à la transition vers les véhicules électriques et à la concurrence mondiale. L'entreprise française Renault adapte l'organisation de ses effectifs sur le territoire national.",
+        "summary": "Le groupe automobile Renault a annoncé une restructuration de ses effectifs en France d'ici à 2028. Le plan prévoit la création de 2 000 postes d'ouvriers de production tout en organisant 1 000 départs volontaires parmi le personnel cadre. Cette réorganisation vise à adapter l'outil industriel aux nouveaux défis du marché et à la baisse des coûts. L'entreprise cherche ainsi à renforcer ses usines d'assemblage françaises.",
+        "plain": "EN CLAIR : Renault modifie la répartition de ses effectifs en France avec 2 000 recrutements dans ses usines et 1 000 départs volontaires chez les cadres. Le constructeur entend ainsi moderniser sa production. L'objectif est d'adapter l'entreprise aux évolutions du secteur automobile.",
+        "chart": {
+          "title": "Évolution planifiée des effectifs de Renault en France d'ici 2028",
+          "unit": "postes",
+          "items": [
+            {
+              "label": "Créations de postes (cols bleus)",
+              "value": 2000
+            },
+            {
+              "label": "Départs volontaires (cols blancs)",
+              "value": 1000
+            }
+          ],
+          "source": {
+            "name": "La Croix",
+            "link": "https://www.la-croix.com/economie/automobile-renault-prevoit-2-000-creations-de-postes-et-1-000-departs-volontaires-en-france-20261116"
+          }
+        },
+        "stakes": [
+          "Comment évoluera le niveau global de l'emploi industriel automobile en France ?",
+          "Renault réussira-t-il sa transition technologique face à la concurrence internationale ?",
+          "Quelles seront les modalités d'accompagnement des départs volontaires des cadres ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Automobile : Renault prévoit 2 000 créations de postes et 1 000 départs volontaires en France",
+            "link": "https://www.la-croix.com/economie/automobile-renault-prevoit-2-000-creations-de-postes-et-1-000-departs-volontaires-en-france-20261116",
+            "publishedAt": "2026-11-16T21:30:17.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/16/2590815-l-usine-renault-de-douai-dans-le-nord-ici-en-juill.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/economie/automobile-renault-prevoit-2-000-creations-de-postes-et-1-000-departs-volontaires-en-france-20261116"
+        },
+        "i18n": {
+          "en": {
+            "title": "Renault announces job creations and departures in France",
+            "context": "The European automotive sector is facing major industrial shifts linked to the transition to electric vehicles and global competition. French company Renault is adjusting its workforce organization domestically.",
+            "summary": "Automotive group Renault announced a restructuring of its workforce in France by 2028. The plan involves creating 2,000 production worker positions while organizing 1,000 voluntary departures among management personnel. This reorganization aims to adapt the industrial tool to new market challenges and lower costs. The company thus seeks to strengthen its French assembly plants.",
+            "plain": "IN BRIEF: Renault is modifying the distribution of its workforce in France with 2,000 hires in its factories and 1,000 voluntary departures among executives. The manufacturer intends to modernize its production in this way. The goal is to adapt the company to changes in the automotive sector.",
+            "stakes": [
+              "How will the overall level of automotive industrial employment in France evolve?",
+              "Will Renault succeed in its technological transition facing international competition?",
+              "What support arrangements will be put in place for the voluntary departures of executives?"
+            ],
+            "chart": {
+              "title": "Planned evolution of Renault's workforce in France by 2028",
+              "unit": "positions",
+              "labels": [
+                "Job creations (blue-collar)",
+                "Voluntary departures (white-collar)"
+              ]
+            }
+          },
+          "es": {
+            "title": "Renault anuncia creación y salida de empleos en Francia",
+            "context": "El sector automovilístico europeo se enfrenta a importantes mutaciones industriales vinculadas a la transición hacia los vehículos eléctricos y a la competencia mundial. La empresa francesa Renault adapta la organización de su plantilla en el territorio nacional.",
+            "summary": "El grupo automovilístico Renault anunció una reestructuración de su plantilla en Francia de aquí a 2028. El plan prevé la creación de 2.000 puestos de operarios de producción al tiempo que organiza 1.000 salidas voluntarias entre el personal directivo. Esta reorganización pretende adaptar la herramienta industrial a los nuevos retos del mercado y a la reducción de costes. La empresa busca así reforzar sus plantas de ensamblaje francesas.",
+            "plain": "EN CLARO: Renault modifica la distribución de su plantilla en Francia con 2.000 contrataciones en sus fábricas y 1.000 salidas voluntarias entre los directivos. El fabricante pretende así modernizar su producción. El objetivo es adaptar la empresa a la evolución del sector del automóvil.",
+            "stakes": [
+              "¿Cómo evolucionará el nivel global del empleo industrial automovilístico en Francia?",
+              "¿Logrará Renault su transición tecnológica frente a la competencia internacional?",
+              "¿Cuáles serán las modalidades de acompañamiento de las salidas voluntarias de los directivos?"
+            ],
+            "chart": {
+              "title": "Evolución planificada de la plantilla de Renault en Francia de aquí a 2028",
+              "unit": "puestos",
+              "labels": [
+                "Creación de puestos (cuellos azules)",
+                "Salidas voluntarias (cuellos blancos)"
+              ]
+            }
+          }
+        }
+      },
+      {
+        "id": "s909a43f9ed",
+        "topic": "sport",
+        "title": "Le président de la FFF candidat à la présidence de la FIFA",
+        "context": "La FIFA (Fédération internationale de football association) gère l'organisation du football à l'échelle mondiale. L'UEFA (l'Union des associations européennes de football) désigne ses représentants pour concourir aux instances de gouvernance internationale.",
+        "summary": "Le comité exécutif de l'UEFA a choisi Philippe Diallo, le président de la Fédération française de football (FFF), pour se porter candidat à la présidence de la FIFA. Il affrontera le président sortant Gianni Infantino lors du congrès prévu le 18 mars 2027 à Rabat, au Maroc. Cette candidature a suscité des réactions contrastées au sein des instances. Ramon Vega, également candidat déclaré, a vivement dénoncé la désignation du dirigeant français par l'UEFA.",
+        "plain": "EN CLAIR : Le patron de la Fédération française de football, Philippe Diallo, va se présenter pour diriger la FIFA face au président actuel Gianni Infantino. Le scrutin se tiendra au Maroc début 2027. Cette décision soutenue par l'Europe suscite déjà des contestations dans le milieu du football.",
+        "chart": null,
+        "stakes": [
+          "L'Europe peut-elle faire basculer la présidence de la FIFA en 2027 ?",
+          "Quel soutien obtiendra le candidat français auprès des autres confédérations ?",
+          "Comment cette rivalité influencera-t-elle les relations diplomatiques dans le football ?"
+        ],
+        "sources": [
+          {
+            "name": "Ouest-France",
+            "title": "« Une honte pour le football européen ! » : Ramon Vega, candidat à la Fifa, critique le choix de Philippe Diallo",
+            "link": "https://www.ouest-france.fr/sport/football/fifa/une-honte-pour-le-football-europeen-ramon-vega-candidat-a-la-fifa-critique-le-choix-de-philippe-diallo-b2b95e16-e203-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-16T21:40:38.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Sky News",
+            "title": "FIFA president Gianni Infantino faces challenge from French football chief",
+            "link": "https://news.sky.com/story/head-of-french-football-to-stand-against-infantino-in-fifa-presidential-election-13612894",
+            "publishedAt": "2026-11-16T15:25:00.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "RFI",
+            "title": "Foot: le patron de la FFF Philippe Diallo candidat à la présidence de la Fifa",
+            "link": "https://www.rfi.fr/fr/sports/20261116-foot-le-patron-de-la-fff-philippe-diallo-candidat-%C3%A0-la-pr%C3%A9sidence-de-la-fifa",
+            "publishedAt": "2026-11-16T16:15:13.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Euronews",
+            "title": "Le Français Philippe Diallo va défier Gianni Infantino pour la présidence de la FIFA",
+            "link": "https://fr.euronews.com/2026/11/16/le-francais-philippe-diallo-va-defier-gianni-infantino-pour-la-presidence-de-la-fifa",
+            "publishedAt": "2026-11-16T17:52:42.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExMWIwZTNhZGIzMmUxNmU5MzNhNDIzOGM2MzVhZDQ5MDE?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=eb043dbd10218bf5fcfa654b260fc98af44cfea607d44c9434660097712759f8",
+          "credit": "Ouest-France",
+          "link": "https://www.ouest-france.fr/sport/football/fifa/une-honte-pour-le-football-europeen-ramon-vega-candidat-a-la-fifa-critique-le-choix-de-philippe-diallo-b2b95e16-e203-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+        },
+        "i18n": {
+          "en": {
+            "title": "FFF President runs for FIFA presidency",
+            "context": "FIFA (Fédération Internationale de Football Association) manages the organization of football globally. UEFA (Union of European Football Associations) designates its representatives to run for international governance bodies.",
+            "summary": "UEFA's executive committee chose Philippe Diallo, president of the French Football Federation (FFF), to run for the FIFA presidency. He will face incumbent president Gianni Infantino at the congress scheduled for March 18, 2027, in Rabat, Morocco. This candidacy has sparked mixed reactions within the bodies. Ramon Vega, also a declared candidate, strongly denounced the French leader's designation by UEFA.",
+            "plain": "IN BRIEF: The head of the French Football Federation, Philippe Diallo, will run to lead FIFA against current president Gianni Infantino. The election will be held in Morocco in early 2027. This Europe-backed decision is already sparking protests in the football world.",
+            "stakes": [
+              "Can Europe swing the FIFA presidency in 2027?",
+              "What support will the French candidate secure from other confederations?",
+              "How will this rivalry influence diplomatic relations in football?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "El presidente de la FFF se presenta candidato a la presidencia de la FIFA",
+            "context": "La FIFA (Federación Internacional de Fútbol Asociado) gestiona la organización del fútbol a escala mundial. La UEFA (Unión de Asociaciones Europeas de Fútbol) designa a sus representantes para concurrir a los órganos de gobernanza internacional.",
+            "summary": "El comité ejecutivo de la UEFA eligió a Philippe Diallo, presidente de la Federación Francesa de Fútbol (FFF), para presentarse como candidato a la presidencia de la FIFA. Se enfrentará al presidente saliente, Gianni Infantino, en el congreso previsto para el 18 de marzo de 2027 en Rabat, Marruecos. Esta candidatura ha suscitado reacciones contrastadas en el seno de las instancias. Ramon Vega, también candidato declarado, denunció enérgicamente la designación del dirigente francés por parte de la UEFA.",
+            "plain": "EN CLARO: El jefe de la Federación Francesa de Fútbol, Philippe Diallo, se presentará para dirigir la FIFA frente al actual presidente Gianni Infantino. Las elecciones se celebrarán en Marruecos a principios de 2027. Esta decisión respaldada por Europa ya suscita contestaciones en el mundo del fútbol.",
+            "stakes": [
+              "¿Puede Europa hacer bascular la presidencia de la FIFA en 2027?",
+              "¿Qué apoyo obtendrá el candidato francés por parte de las demás confederaciones?",
+              "¿Cómo influirá esta rivalidad en las relaciones diplomáticas en el fútbol?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s862c39f6d1",
+        "topic": "justice",
+        "title": "Prison à perpétuité prononcée au procès du triple homicide à Marseille",
+        "context": "La ville de Marseille est le théâtre d'affrontements sanglants entre réseaux criminels pour le contrôle du trafic de drogue. Le meurtre du frère d'Amine Kessaci, militant associatif et élu local, avait provoqué un fort retentissement.",
+        "summary": "La cour d'assises d'Aix-en-Provence a condamné deux figures majeures du narcotrafic phocéen à la réclusion criminelle à perpétuité pour un triple assassinat. Amine Kessaci a salué une décision envoyant un signal clair à la narcocratie. Les débats ont mis en lumière la violence extrême des méthodes employées par les réseaux. Valeurs actuelles souligne par ailleurs des inquiétudes quant à la présence possible de filières criminelles étrangères pour remplacer les réseaux condamnés.",
+        "plain": "EN CLAIR : Deux responsables du narcotrafic à Marseille ont été condamnés à la prison à vie pour avoir orchestré un triple meurtre. Les familles de victimes saluent un jugement exemplaire de la justice. La décision judiciaire vise à sanctionner sévèrement les règlements de comptes.",
+        "chart": null,
+        "stakes": [
+          "Cette décision de justice permettra-t-elle de faire baisser la violence à Marseille ?",
+          "Comment les forces de l'ordre luttent-elles contre la restructuration des gangs ?",
+          "Quelles mesures administratives renforceront la sécurité dans les quartiers touchés ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Les assassins du frère d'Amine Kessaci condamnés à la perpétuité : \"Ce message-là, il est à la narcocratie\", lance le militant et adjoint au maire phocéen",
+            "link": "https://www.franceinfo.fr/faits-divers/justice-proces/les-assassins-du-frere-d-amine-kessaci-condamnes-a-la-perpetuite-ce-message-la-il-est-a-la-narcocratie-lance-le-militant-et-adjoint-au-maire-phoceen_8285402.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-16T19:56:30.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Valeurs actuelles",
+            "title": "Marseille : la DZ Mafia sous la menace d’une filière turque pour la remplacer ?",
+            "link": "https://www.valeursactuelles.com/clubvaleurs/regions/provence-alpes-cote-dazur/bouches-du-rhone/marseille/faits-divers/marseille-la-dz-mafia-sous-la-menace-dune-filiere-turque-pour-la-remplacer",
+            "publishedAt": "2026-11-16T20:00:45.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "RFI",
+            "title": "France: deux condamnations à perpétuité à l'issue du procès du triple narchomicide près de Marseille",
+            "link": "https://www.rfi.fr/fr/france/20261116-france-deux-condamnations-%C3%A0-perp%C3%A9tuit%C3%A9-%C3%A0-l-issue-du-proc%C3%A8s-du-triple-narchomicide-pr%C3%A8s-de-marseille",
+            "publishedAt": "2026-11-16T19:38:46.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/P3vofRagJZY92rEcWR9jKluucOo/57x0:1381x745/432x243/filters:format(jpg)/2026/11/16/6afb5ece7e914571430988.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/faits-divers/justice-proces/les-assassins-du-frere-d-amine-kessaci-condamnes-a-la-perpetuite-ce-message-la-il-est-a-la-narcocratie-lance-le-militant-et-adjoint-au-maire-phoceen_8285402.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Life imprisonment handed down in Marseille triple homicide trial",
+            "context": "The city of Marseille is the scene of bloody clashes between criminal networks for the control of drug trafficking. The murder of the brother of Amine Kessaci, a community activist and local elected official, caused a strong resonance.",
+            "summary": "The Aix-en-Provence assize court sentenced two major figures of Marseille's drug trafficking to life imprisonment for a triple murder. Amine Kessaci welcomed a decision sending a clear signal to narcocracy. The debates highlighted the extreme violence of the methods used by the networks. Valeurs actuelles also highlights concerns regarding the potential presence of foreign criminal networks to replace the convicted networks.",
+            "plain": "IN BRIEF: Two drug trafficking bosses in Marseille were sentenced to life in prison for orchestrating a triple murder. Victims' families welcome an exemplary judicial judgment. The court decision aims to severely punish settling of scores.",
+            "stakes": [
+              "Will this judicial decision help reduce violence in Marseille?",
+              "How are law enforcement agencies fighting the restructuring of gangs?",
+              "What administrative measures will strengthen security in affected neighborhoods?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Cadena perpetua dictada en el juicio por el triple homicidio en Marsella",
+            "context": "La ciudad de Marsella es escenario de enfrentamientos sangrientos entre redes criminales por el control del tráfico de drogas. El asesinato del hermano de Amine Kessaci, militante asociativo y elegido local, había provocado una gran repercusión.",
+            "summary": "El tribunal de lo penal de Aix-en-Provence condenó a dos figuras principales del narcotráfico marsellés a cadena perpetua por un triple asesinato. Amine Kessaci celebró una decisión que envía una señal clara a la narcocracia. Los debates pusieron de relieve la violencia extrema de los métodos empleados por las redes. Valeurs actuelles subraya por otra parte la preocupación ante la posible presencia de redes criminales extranjeras para sustituir a las redes condenadas.",
+            "plain": "EN CLARO: Dos responsables del narcotráfico en Marsella fueron condenados a cadena perpetua por haber orquestado un triple asesinato. Las familias de las víctimas saludan un juicio ejemplar de la justicia. La decisión judicial pretende sancionar severamente los ajustes de cuentas.",
+            "stakes": [
+              "¿Permitirá esta decisión judicial reducir la violencia en Marsella?",
+              "¿Cómo luchan las fuerzas del orden contra la reestructuración de las bandas?",
+              "¿Qué medidas administrativas reforzarán la seguridad en los barrios afectados?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s3314862c6e",
+        "topic": "international",
+        "title": "Révélations sur une mission militaire française de formation en Ukraine",
+        "context": "Depuis le début du conflit opposant l'Ukraine à la Russie, la France et ses alliés apportent un soutien matériel et d'instruction aux forces ukrainiennes. La nature exacte du soutien sur le terrain fait l'objet d'une grande discrétion militaire.",
+        "summary": "Des informations révèlent l'existence de la mission « Volia », une opération secrète menée par des soldats français déployés sur le sol ukrainien. Ces militaires assurent des formations techniques et tactiques auprès des troupes de Kiev. Un ancien responsable de l'OTAN a salué le courage politique de cette initiative. Toutefois, des analystes soulignent que ces révélations risquent de susciter une réaction de propagande importante de la part du gouvernement russe.",
+        "plain": "EN CLAIR : Des révélations indiquent que des soldats français forment directement des militaires en Ukraine au sein d'une mission discrète. Cette présence vise à renforcer les capacités de défense de Kiev. Les experts craignent une surenchère verbale et militaire de Moscou.",
+        "chart": null,
+        "stakes": [
+          "Quelles sont les implications politiques de la présence directe de soldats français ?",
+          "Comment la diplomatie russe exploitera-t-elle ces révélations sur le plan international ?",
+          "Quel est l'impact réel de ces formations sur l'efficacité des forces ukrainiennes ?"
+        ],
+        "sources": [
+          {
+            "name": "Fox News",
+            "title": "French troops secretly deployed inside Ukraine as ex-NATO chief praises Macron's 'guts'",
+            "link": "https://www.foxnews.com/world/french-troops-secretly-deployed-ukraine-ex-nato-chief-praises-macrons-guts",
+            "publishedAt": "2026-11-16T22:44:05.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "RFI",
+            "title": "Soldats français en Ukraine: «Cela va sans doute amplifier la réaction de propagande de la Russie»",
+            "link": "https://www.rfi.fr/fr/europe/20261116-soldats-fran%C3%A7ais-en-ukraine-cela-va-sans-doute-amplifier-la-r%C3%A9action-de-propagande-de-la-russie",
+            "publishedAt": "2026-11-16T17:58:48.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/france-emmanuel-macron-ukraine-volodymyr-zelenskyy-fox-news.jpg?ve=1&tl=1",
+          "credit": "Fox News",
+          "link": "https://www.foxnews.com/world/french-troops-secretly-deployed-ukraine-ex-nato-chief-praises-macrons-guts"
+        },
+        "i18n": {
+          "en": {
+            "title": "Revelations about a French military training mission in Ukraine",
+            "context": "Since the beginning of the conflict pitting Ukraine against Russia, France and its allies have been providing material support and instruction to Ukrainian forces. The exact nature of on-the-ground support is subject to great military discretion.",
+            "summary": "Information reveals the existence of the \"Volia\" mission, a secret operation conducted by French soldiers deployed on Ukrainian soil. These military personnel provide technical and tactical training to Kiev's troops. A former NATO official praised the political courage of this initiative. However, analysts point out that these revelations risk sparking significant propaganda reactions from the Russian government.",
+            "plain": "IN BRIEF: Revelations indicate that French soldiers are directly training military personnel in Ukraine as part of a discreet mission. This presence aims to strengthen Kiev's defense capabilities. Experts fear a verbal and military escalation from Moscow.",
+            "stakes": [
+              "What are the political implications of the direct presence of French soldiers?",
+              "How will Russian diplomacy exploit these revelations internationally?",
+              "What is the actual impact of these trainings on the effectiveness of Ukrainian forces?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Revelaciones sobre una misión militar francesa de formación en Ucrania",
+            "context": "Desde el inicio del conflicto que enfrenta a Ucrania con Rusia, Francia y sus aliados aportan apoyo material e instrucción a las fuerzas ucranianas. La naturaleza exacta del sobre el terreno es objeto de una gran discreción militar.",
+            "summary": "Informaciones revelan la existencia de la misión «Volia», una operación secreta llevada a cabo por soldados franceses desplegados en suelo ucraniano. Estos militares aseguran formaciones técnicas y tácticas a las tropas de Kiev. Un exresponsable de la OTAN saludó el valor político de esta iniciativa. Sin embargo, los analistas subrayan que estas revelaciones corren el riesgo de suscitar una importante reacción de propaganda por parte del gobierno ruso.",
+            "plain": "EN CLARO: Revelaciones indican que soldados franceses forman directamente a militares en Ucrania en el marco de una misión discreta. Esta presencia pretende reforzar las capacidades de defensa de Kiev. Los expertos temen una escalada verbal y militar por parte de Moscú.",
+            "stakes": [
+              "¿Cuáles son las implicaciones políticas de la presencia directa de soldados franceses?",
+              "¿Cómo explotará la diplomacia rusa estas revelaciones en el plano internacional?",
+              "¿Cuál es el impacto real de estas formaciones en la eficacia de las fuerzas ucranianas?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s929691721c",
+        "topic": "politique",
+        "title": "Marine Le Pen réaffirme le refus d'un soutien financier à Kiev",
+        "context": "L'aide militaire et financière accordée par les pays occidentaux à l'Ukraine divise la classe politique française. À l'approche des échéances électorales, l'avenir du soutien budgétaire parisien devient un sujet d'opposition de politique étrangère.",
+        "summary": "Lors d'un entretien avec l'ambassadeur d'Ukraine en France, Marine Le Pen a réaffirmé sa ligne politique en cas d'élection à la présidence de la République en 2027. La candidate du Rassemblement national a indiqué que l'état dégradé des finances publiques françaises ne permettrait plus d'octroyer des aides financières à Kiev. Elle soutient que la France doit maintenir une aide diplomatique mais cesser les transferts budgétaires directes. Cette prise de position marque une rupture nette avec les choix de l'exécutif actuel.",
+        "plain": "EN CLAIR : Marine Le Pen a prévenu l'ambassadeur d'Ukraine qu'elle mettrait fin aux aides financières de la France si elle arrivait au pouvoir en 2027. Elle justifie ce choix par les difficultés du budget national. Elle propose de conserver uniquement un soutien diplomatique.",
+        "chart": null,
+        "stakes": [
+          "Comment l'Ukraine réagira-t-elle face aux perspectives d'alternance politique en Europe ?",
+          "Quel impact l'arrêt de l'aide financière aurait-il sur la position diplomatique de la France ?",
+          "Comment s'organisera le débat sur les finances publiques lors de la campagne de 2027 ?"
+        ],
+        "sources": [
+          {
+            "name": "L'Express",
+            "title": "Ukraine : Marine Le Pen veut changer la nature de l'aide française à Kiev",
+            "link": "https://www.lexpress.fr/monde/europe/ukraine-marine-le-pen-veut-changer-la-nature-de-laide-francaise-a-kiev-YIPQHFO6UBGUXPHO2DTQ7N7EXA/",
+            "publishedAt": "2026-11-16T17:56:34.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "France 24",
+            "title": "Ukraine : Marine Le Pen confirme à l'ambassadeur la fin de l'aide financière si elle est élue",
+            "link": "https://www.france24.com/fr/france/20261116-ukraine-marine-le-pen-confirme-%C3%A0-l-ambassadeur-la-fin-de-l-aide-financi%C3%A8re-si-elle-est-%C3%A9lue",
+            "publishedAt": "2026-11-16T21:46:15.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Euronews",
+            "title": "Marine Le Pen : \"La France continuerait à soutenir l'Ukraine\", mais pas financièrement",
+            "link": "https://fr.euronews.com/2026/11/16/marine-le-pen-la-france-continuerait-a-soutenir-lukraine-mais-pas-financierement",
+            "publishedAt": "2026-11-16T18:17:46.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.lexpress.fr/resizer/v2/6KM2DZ6JNVCRLKV4U2OCANXP7A.JPG?auth=cb5dee579c0c6144477a9ddbfae5666fa3efc81af83b9d9579396d656a1e69ab&smart=true&width=6000&height=4000",
+          "credit": "L'Express",
+          "link": "https://www.lexpress.fr/monde/europe/ukraine-marine-le-pen-veut-changer-la-nature-de-laide-francaise-a-kiev-YIPQHFO6UBGUXPHO2DTQ7N7EXA/"
+        },
+        "i18n": {
+          "en": {
+            "title": "Marine Le Pen Reaffirms Refusal of Financial Support for Kyiv",
+            "context": "Military and financial aid provided by Western countries to Ukraine is dividing the French political class. As election deadlines approach, the future of Paris's budgetary support is becoming a foreign policy point of contention.",
+            "summary": "During a meeting with the Ambassador of Ukraine to France, Marine Le Pen reaffirmed her political line in the event of an election to the presidency of the Republic in 2027. The National Rally candidate indicated that the degraded state of French public finances would no longer allow for financial aid to be granted to Kyiv. She argues that France must maintain diplomatic aid but cease direct budgetary transfers. This stance marks a clear break with the choices of the current executive branch.",
+            "plain": "IN CLEAR: Marine Le Pen warned the Ukrainian ambassador that she would end France's financial aid if she comes to power in 2027. She justifies this choice by the difficulties of the national budget. She proposes maintaining only diplomatic support.",
+            "stakes": [
+              "How will Ukraine react to the prospects of political alternation in Europe?",
+              "What impact would the halt of financial aid have on France's diplomatic position?",
+              "How will the debate on public finances be organized during the 2027 campaign?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Marine Le Pen reafirma el rechazo a un apoyo financiero a Kiev",
+            "context": "La ayuda militar y financiera concedida por los países occidentales a Ucrania divide a la clase política francesa. A medida que se acercan los plazos electorales, el futuro del respaldo presupuestario de París se convierte en un tema de oposición de política exterior.",
+            "summary": "Durante una entrevista con el embajador de Ucrania en Francia, Marine Le Pen reafirmó su línea política en caso de ser elegida a la presidencia de la República en 2027. La candidata de Agrupación Nacional indicó que el estado degradado de las finanzas públicas francesas ya no permitiría otorgar ayudas financieras a Kiev. Sostiene que Francia debe mantener la ayuda diplomática pero cesar las transferencias presupuestarias directas. Esta toma de postura marca una ruptura clara con las decisiones del actual ejecutivo.",
+            "plain": "EN CLARO: Marine Le Pen advirtió al embajador de Ucrania que pondría fin a las ayudas financieras de Francia si llega al poder en 2027. Justifica esta elección por las dificultades del presupuesto nacional. Propone conservar únicamente el apoyo diplomático.",
+            "stakes": [
+              "¿Cómo reaccionará Ucrania ante las perspectivas de alternancia política en Europa?",
+              "¿Qué impacto tendría el cese de la ayuda financiera en la posición diplomática de Francia?",
+              "¿Cómo se organizará el debate sobre las finanzas públicas durante la campaña de 2027?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s1cf96e4571",
+        "topic": "societe",
+        "title": "Mobilisations et restrictions de rassemblements autour des lycées",
+        "context": "Des mouvements sociaux portant sur les salaires et la précarité s'accompagnent de perturbations dans les établissements scolaires. Ces mobilisations s'inscrivent dans un contexte de tensions autour de la sécurité dans les lycées.",
+        "summary": "Des lycéens et des enseignants s'organisent pour maintenir des actions de protestation avant une journée nationale de grève. La justice administrative a ordonné à l'État d'assurer sans délai l'accès aux cours dans deux lycées rennais bloqués. À Paris, le préfet de police a interdit tout rassemblement autour de dix lycées et cinq universités jusqu'au 20 novembre. En parallèle, des blessures par tirs de mortiers d'artifice ont été signalées dans plusieurs établissements malgré l'interdiction de leur vente.",
+        "plain": "EN CLAIR : Des manifestations et des blocages perturbent plusieurs établissements scolaires avant une grève générale. À Paris, la préfecture a interdit les rassemblements devant une quinzaine de lycées et universités. En province, des dérapages avec des feux d'artifice ont fait plusieurs blessés.",
+        "chart": null,
+        "stakes": [
+          "Comment concilier la liberté de manifester et le respect du droit à l'instruction ?",
+          "Quelles sanctions seront appliquées en cas d'utilisation illégale d'engins pyrotechniques ?",
+          "Quelle sera l'ampleur de la réponse du gouvernement face aux revendications sociales ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "\"Des élèves ont été blessés, ils ont des traces de brûlures\" : les tirs de mortiers continuent dans certains lycées malgré l'interdiction",
+            "link": "https://www.franceinfo.fr/faits-divers/des-eleves-ont-ete-blesses-ils-ont-des-traces-de-brulures-les-tirs-de-mortiers-continuent-dans-certains-lycees-malgre-l-interdiction_8285423.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-16T20:13:54.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Libération",
+            "title": "Mouvement social : la justice ordonne à l’Etat d’assurer «sans délai» l’accès aux cours dans deux lycées rennais",
+            "link": "https://www.liberation.fr/societe/education/en-direct-mobilisation-lyceenne-et-etudiante-les-rassemblements-interdits-autour-de-certains-etablissements-a-paris-20261116_3RW4TCVB55DSVFMBCL27WKJSEU/",
+            "publishedAt": "2026-11-16T20:10:56.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "L'Humanité",
+            "title": "« Une leçon de mobilisation » : lycéens et enseignants s’organisent pour faire durer le mouvement",
+            "link": "https://www.humanite.fr/societe/mouvement-lyceen/une-lecon-de-mobilisation-lyceens-et-enseignants-sorganisent-pour-faire-durer-le-mouvement",
+            "publishedAt": "2026-11-16T18:45:09.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le JDD",
+            "title": "Grève du 17 novembre et colère lycéenne : les rendez-vous, les perturbations et la réponse du gouvernement",
+            "link": "https://www.lejdd.fr/Societe/greve-du-17-novembre-et-colere-lyceenne-les-rendez-vous-les-perturbations-et-la-reponse-du-gouvernement-188895",
+            "publishedAt": "2026-11-16T17:10:29.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Police ban protests near 10 schools and five universities in Paris",
+            "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-15T22:28:54.000Z",
+            "lang": "en",
+            "country": "GB"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/UyI068risDejUi2Ccyls73QYTt8/0x46:890x547/432x243/filters:format(jpg)/2026/11/16/6afb63595da3b689475831.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/faits-divers/des-eleves-ont-ete-blesses-ils-ont-des-traces-de-brulures-les-tirs-de-mortiers-continuent-dans-certains-lycees-malgre-l-interdiction_8285423.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Mobilizations and Restrictions on Gatherings Around High Schools",
+            "context": "Social movements focusing on wages and precariousness are accompanied by disruptions in educational establishments. These mobilizations are taking place in a context of tensions surrounding security in high schools.",
+            "summary": "High school students and teachers are organizing to maintain protest actions ahead of a national strike day. The administrative court ordered the State to ensure access to classes without delay in two blocked high schools in Rennes. In Paris, the prefect of police banned any gatherings around ten high schools and five universities until November 20. At the same time, injuries from firework mortar blasts were reported in several establishments despite the ban on their sale.",
+            "plain": "IN CLEAR: Demonstrations and blockades are disrupting several schools ahead of a general strike. In Paris, the prefecture has banned gatherings in front of about fifteen high schools and universities. In the provinces, incidents involving fireworks have left several people injured.",
+            "stakes": [
+              "How can the freedom to demonstrate and respect for the right to education be reconciled?",
+              "What penalties will be applied in the event of illegal use of pyrotechnic devices?",
+              "What will be the scale of the government's response to social demands?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Movilizaciones y restricciones de concentraciones en torno a los institutos",
+            "context": "Los movimientos sociales sobre los salarios y la precariedad van acompañados de perturbaciones en los centros educativos. Estas movilizaciones se enmarcan en un contexto de tensiones en torno a la seguridad en los institutos.",
+            "summary": "Estudiantes de secundaria y profesores se están organizando para mantener acciones de protesta antes de una jornada nacional de huelga. La justicia administrativa ordenó al Estado garantizar sin demora el acceso a las clases en dos institutos bloqueados en Rennes. En París, el prefecto de policía prohibió cualquier concentración en torno a diez institutos y cinco universidades hasta el 20 de noviembre. Paralelamente, se han señalado lesiones por disparos de petardos de pirotecnia en varios centros a pesar de la prohibición de su venta.",
+            "plain": "EN CLARO: Manifestaciones y bloqueos perturban varios centros educativos antes de una huelga general. En París, la prefectura ha prohibido las concentraciones frente a una quincena de institutos y universidades. En provincias, incidentes con fuegos artificiales han dejado varios heridos.",
+            "stakes": [
+              "¿Cómo conciliar la libertad de manifestación y el respeto al derecho a la educación?",
+              "¿Qué sanciones se aplicarán en caso de uso ilegal de artefactos pirotécnicos?",
+              "¿Cuál será la magnitud de la respuesta del gobierno frente a las reivindicaciones sociales?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sd8555ecb74",
+        "topic": "justice",
+        "title": "Procès des dégradations d'un monument religieux à Porto-Vecchio",
+        "context": "Les dégradations commises sur des édifices ou monuments religieux donnent lieu à des procédures judiciaires accélérées. La diffusion d'actes de vandalisme sur Internet amplifie régulièrement l'émoi public autour de ces affaires.",
+        "summary": "Deux jeunes travailleurs saisonniers ont été jugés en comparution immédiate à Ajaccio après des actes commis sur une statue de la Vierge à Porto-Vecchio. L'un des prévenus s'est filmé en train de simuler des actes obscènes sur la statue endommagée, tandis que le second a diffusé la séquence sur les réseaux sociaux. À la barre, les deux accusés ont exprimé des regrets et de la honte pour leur comportement. Le ministère public a requis des peines de prison ferme assorties d'une partie avec sursis.",
+        "plain": "EN CLAIR : Deux saisonniers ont été jugés en Corse pour avoir dégradé et profané une statue religieuse. La vidéo de l'acte avait suscité l'indignation après sa mise en ligne. La justice a requis des peines de prison ferme adaptées avec du sursis.",
+        "chart": null,
+        "stakes": [
+          "Quelle gravité la justice attribue-t-elle aux provocations sur les monuments religieux ?",
+          "Quel rôle joue la diffusion sur les réseaux sociaux dans l'appréciation des Peines ?",
+          "Comment apaiser les tensions locales nées de cet épisode d'incivilité ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Statue de la Vierge vandalisée à Porto-Vecchio : des peines de prison ferme requises",
+            "link": "https://www.lemonde.fr/societe/article/2026/11/16/en-corse-une-peine-de-prison-ferme-requise-pour-la-degradation-de-la-statue-de-la-vierge-a-porto-vecchio_6812458_3224.html",
+            "publishedAt": "2026-11-16T21:12:50.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Figaro",
+            "title": "Profanation de la Vierge Marie en Corse : à leur procès, les deux accusés entre honte et regrets",
+            "link": "https://www.lefigaro.fr/actualite-france/profanation-de-la-vierge-marie-en-corse-a-leur-proces-les-deux-accuses-entre-honte-et-regrets-20261116",
+            "publishedAt": "2026-11-16T20:45:22.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "La Croix",
+            "title": "Statue de la Vierge vandalisée en Corse : de la prison avec une part de sursis requise",
+            "link": "https://www.la-croix.com/religion/statue-de-la-vierge-vandalisee-en-corse-de-la-prison-avec-une-part-de-sursis-requise-20261116",
+            "publishedAt": "2026-11-16T19:56:49.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/16/500/0/6000/3000/644/322/60/0/6de5013_ftp-1-0cij8poa9z2d-afp-d7mc2nr.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/societe/article/2026/11/16/en-corse-une-peine-de-prison-ferme-requise-pour-la-degradation-de-la-statue-de-la-vierge-a-porto-vecchio_6812458_3224.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Trial for Vandalism of a Religious Monument in Porto-Vecchio",
+            "context": "Damage committed against religious buildings or monuments leads to expedited judicial proceedings. The sharing of acts of vandalism on the Internet regularly amplifies public emotion surrounding these cases.",
+            "summary": "Two young seasonal workers were tried in an immediate appearance court in Ajaccio following acts committed against a statue of the Virgin Mary in Porto-Vecchio. One of the defendants filmed himself simulating obscene acts on the damaged statue, while the second broadcast the sequence on social media. At the bar, the two accused expressed regret and shame for their behavior. The public prosecutor's office requested firm prison sentences combined with a suspended portion.",
+            "plain": "IN CLEAR: Two seasonal workers were tried in Corsica for vandalizing and desecrating a religious statue. The video of the act had sparked outrage after being posted online. The justice system has requested firm prison sentences combined with probation.",
+            "stakes": [
+              "How much gravity does the judiciary attribute to provocations against religious monuments?",
+              "What role does sharing on social media play in the assessment of penalties?",
+              "How can local tensions born from this episode of incivility be calmed?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Juicio por los daños a un monumento religioso en Porto-Vecchio",
+            "context": "Los daños cometidos en edificios o monumentos religiosos dan lugar a procedimientos judiciales acelerados. La difusión de actos de vandalismo en internet amplifica regularmente la conmoción pública en torno a estos casos.",
+            "summary": "Dos jóvenes trabajadores temporeros fueron juzgados mediante comparecencia inmediata en Ajaccio tras los actos cometidos contra una estatua de la Virgen en Porto-Vecchio. Uno de los acusados se grabó a sí mismo simulando actos obscenos en la estatua dañada, mientras que el segundo difundió la secuencia en las redes sociales. En el estrado, los dos acusados expresaron arrepentimiento y vergüenza por su comportamiento. El ministerio fiscal solicitó penas de prisión firme combinadas con una parte condicional.",
+            "plain": "EN CLARO: Dos trabajadores temporeros fueron juzgados en Córcega por dañar y profanar una estatua religiosa. El vídeo del acto había suscitado indignación tras su publicación en línea. La justicia ha solicitado penas de prisión firme combinadas con libertad condicional.",
+            "stakes": [
+              "¿Qué gravedad atribuye la justicia a las provocaciones contra los monumentos religiosos?",
+              "¿Qué papel desempeña la difusión en las redes sociales en la valoración de las penas?",
+              "¿Cómo calmar las tensiones locales nacidas de este episodio de incivismo?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sb63f5a0f50",
+        "topic": "justice",
+        "title": "Gérard Depardieu renonce à faire appel de sa condamnation",
+        "context": "L'acteur français Gérard Depardieu avait été reconnu coupable en première instance d'agressions sexuelles commises lors d'un tournage en 2021. La tenue d'un procès en appel devait réexaminer l'ensemble des accusations.",
+        "summary": "Gérard Depardieu a pris la décision de retirer son appel judiciaire concernant sa condamnation pour agressions sexuelles. La presse britannique précise que l'acteur a adressé des excuses aux deux femmes plaignantes dans cette affaire. L'abandon de cette procédure rend la décision de justice de première instance définitive. Cette démarche met un terme à ce volet judiciaire qui avait suscité de vastes débats dans le milieu du cinéma.",
+        "plain": "EN CLAIR : Gérard Depardieu a décidé de renoncer à son procès en appel pour agressions sexuelles. Sa condamnation initiale devient donc définitive. L'acteur a exprimé des excuses auprès des deux plaignantes.",
+        "chart": null,
+        "stakes": [
+          "Comment cette décision clôture-t-elle le volet pénal de cette affaire emblématique ?",
+          "Quel est l'impact du renoncement à l'appel sur l'opinion publique et le secteur culturel ?",
+          "Comment les victimes accueillent-elles la fin de cette procédure judiciaire ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+            "link": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-16T13:40:56.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+            "link": "https://www.theguardian.com/film/2026/nov/16/gerard-depardieu-drops-appeal-against-sexual-assault-conviction",
+            "publishedAt": "2026-11-16T12:10:22.000Z",
+            "lang": "en",
+            "country": "GB"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e5e/live/d9ec2540-e1b8-11f1-99a1-253766e7ad8b.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Gérard Depardieu Drops Appeal Against His Conviction",
+            "context": "French actor Gérard Depardieu had been found guilty in the first instance of sexual assaults committed during a 2021 film shoot. An appeal trial was set to re-examine all the accusations.",
+            "summary": "Gérard Depardieu has made the decision to withdraw his legal appeal regarding his conviction for sexual assault. The British press specifies that the actor sent an apology to the two female plaintiffs in this case. Dropping this procedure makes the first-instance court decision final. This step puts an end to this legal chapter, which had sparked widespread debate within the film community.",
+            "plain": "IN CLEAR: Gérard Depardieu has decided to drop his appeal trial for sexual assault. His initial conviction thus becomes final. The actor has expressed apologies to the two plaintiffs.",
+            "stakes": [
+              "How does this decision close the criminal chapter of this emblematic case?",
+              "What is the impact of dropping the appeal on public opinion and the cultural sector?",
+              "How are the victims receiving the end of this legal procedure?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Gérard Depardieu renuncia a recurrir su condena",
+            "context": "El actor francés Gérard Depardieu había sido declarado culpable en primera instancia de agresiones sexuales cometidas durante un rodaje en 2021. La celebración de un juicio de apelación debía reexaminar el conjunto de las acusaciones.",
+            "summary": "Gérard Depardieu ha tomado la decisión de retirar su recurso judicial en relación con su condena por agresiones sexuales. La prensa británica precisa que el actor dirigió unas disculpas a las dos mujeres demandantes en este caso. El abandono de este procedimiento hace que la decisión judicial de primera instancia sea definitiva. Este paso pone fin a este capítulo judicial que había suscitado amplios debates en el medio cinematográfico.",
+            "plain": "EN CLARO: Gérard Depardieu ha decidido renunciar a su juicio de apelación por agresiones sexuales. Su condena inicial se vuelve por tanto definitiva. El actor ha expresado disculpas a las dos demandantes.",
+            "stakes": [
+              "¿Cómo cierra esta decisión el capítulo penal de este caso emblemático?",
+              "¿Qué impacto tiene la renuncia al recurso en la opinión pública y el sector cultural?",
+              "¿Cómo acogen las víctimas el final de este procedimiento judicial?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s167152c7c7",
+        "topic": "sante",
+        "title": "Baisse de la consommation d'antibiotiques selon Santé publique France",
+        "context": "La surconsommation d'antibiotiques favorise l'antibiorésistance, un phénomène où les bactéries deviennent insensibles aux traitements. Les autorités de santé mènent depuis plusieurs années des campagnes de sensibilisation ciblées.",
+        "summary": "Dans son rapport annuel couvrant la période 2015-2025, Santé publique France fait état d'une baisse marquée des prescriptions et de la consommation d'antibiotiques. L'agence sanitaire attribue ces résultats aux actions d'information menées auprès des professionnels de santé et des usagers. Les données publiées montrent des avancées encourageantes dans les habitudes de soin en France. Cette évolution doit permettre de préserver l'efficacité des molécules médicales existantes.",
+        "plain": "EN CLAIR : La consommation d'antibiotiques a nettement baissé en France au cours des dix dernières années. Selon un rapport officiel, les comportements des médecins et des patients se sont améliorés. Cela aide à lutter contre la résistance des bactéries aux médicaments.",
+        "chart": null,
+        "stakes": [
+          "Les baisses de consommation observées seront-elles durables dans les prochaines années ?",
+          "Quelles nouvelles campagnes seront lancées pour consolider ces résultats de santé ?",
+          "Comment prévenir d'éventuelles pénuries sur le marché des antibiotiques essentiels ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Antibiorésistance : «La sensibilisation des usagers et des soignants commence à porter ses fruits»",
+            "link": "https://www.liberation.fr/societe/sante/antibioresistance-la-sensibilisation-des-usagers-et-des-soignants-commence-a-porter-ses-fruits-20261117_5VC3AHJJTZF37KKOUOTA7G6WUQ/",
+            "publishedAt": "2026-11-16T23:01:00.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": null,
+        "i18n": {
+          "en": {
+            "title": "Decline in Antibiotic Consumption According to Santé publique France",
+            "context": "Overconsumption of antibiotics promotes antimicrobial resistance, a phenomenon where bacteria become insensitive to treatments. Health authorities have been running targeted awareness campaigns for several years.",
+            "summary": "In its annual report covering the 2015-2025 period, Santé publique France reports a marked decline in prescriptions and the consumption of antibiotic treatments. The health agency attributes these results to information actions carried out among health professionals and users. The published data show encouraging progress in care habits in France. This evolution should help preserve the effectiveness of existing medical molecules.",
+            "plain": "IN CLEAR: Antibiotic consumption has dropped significantly in France over the past ten years. According to an official report, the behaviors of doctors and patients have improved. This helps fight against bacterial resistance to drugs.",
+            "stakes": [
+              "Will the drops in consumption observed be sustainable in the coming years?",
+              "What new campaigns will be launched to consolidate these health results?",
+              "How can potential shortages in the market of essential antibiotics be prevented?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Descenso del consumo de antibióticos según Santé publique France",
+            "context": "El consumo excesivo de antibióticos favorece la resistencia a los antibióticos, un fenómeno en el que las bacterias se vuelven insensibles a los tratamientos. Las autoridades sanitarias llevan varios años realizando campañas de sensibilización dirigidas.",
+            "summary": "En su informe anual que abarca el período 2015-2025, Santé publique France informa de un descenso acusado de las prescripciones y del consumo de antibióticos. La agencia sanitaria atribuye estos resultados a las acciones de información llevadas a cabo entre los profesionales sanitarios y los usuarios. Los datos publicados muestran avances alentadores en los hábitos de cuidado en Francia. Esta evolución debe permitir preservar la eficacia de las moléculas médicas existentes.",
+            "plain": "EN CLARO: El consumo de antibióticos ha bajado notablemente en Francia en los últimos diez años. Según un informe oficial, los comportamientos de los médicos y de los pacientes han mejorado. Esto ayuda a luchar contra la resistencia de las bacterias a los medicamentos.",
+            "stakes": [
+              "¿Serán duraderas las bajadas de consumo observadas en los próximos años?",
+              "¿Qué nuevas campañas se lanzarán para consolidar estos resultados de salud?",
+              "¿Cómo prevenir posibles escaseces en el mercado de los antibióticos esenciales?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sc874c6a4aa",
+        "topic": "justice",
+        "title": "Ouverture d'une enquête pour assassinat au Fœil",
+        "context": "La découverte de restes humains sur une propriété privée entraîne systématiquement la saisine de la gendarmerie et l'ouverture d'une enquête pénale sous la conduite du procureur de la République.",
+        "summary": "Un corps ainsi que des ossements humains ont été découverts au lieu-dit Les Bouillons, sur la commune du Fœil dans les Côtes-d'Armor. Le parquet de Saint-Brieuc a ouvert une enquête judiciaire sous la qualification d'assassinat. Les premières investigations s'orientent vers un litige opposant des habitants du secteur. Le propriétaire de la ferme où ont été retrouvés les restes a été découvert pendu peu après l'arrivée des secours.",
+        "plain": "EN CLAIR : Une enquête pour assassinat a été ouverte après la découverte d'un corps et d'ossements dans une ferme des Côtes-d'Armor. Le propriétaire des lieux a été retrouvé mort pendu. Les enquêteurs privilégient pour l'instant la piste d'un conflit entre voisins.",
+        "chart": null,
+        "stakes": [
+          "Comment les expertises scientifiques permettront-elles d'identifier formellement la victime ?",
+          "Quel a été le déroulement exact des faits ayant mené au drame ?",
+          "Comment s'éteindront les poursuites pénale en cas de confirmation du suicide du suspect ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Un corps et des ossements découverts dans les Côtes-d'Armor, une enquête pour assassinat est ouverte",
+            "link": "https://www.franceinfo.fr/faits-divers/un-corps-et-des-ossements-decouverts-dans-les-cotes-d-armor-une-enquete-pour-assassinat-est-ouverte_8285348.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-16T18:37:56.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Figaro",
+            "title": "Côtes-d’Armor : une enquête ouverte après la découverte d’ossements dans une ferme, le propriétaire retrouvé pendu",
+            "link": "https://www.lefigaro.fr/faits-divers/cotes-d-armor-une-enquete-ouverte-apres-la-decouverte-d-ossements-dans-une-ferme-le-proprietaire-retrouve-pendu-20261116",
+            "publishedAt": "2026-11-16T20:11:24.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/FtJ1ELHvV1O5H3iub5J93819H9M/0x326:3543x2319/432x243/filters:format(jpg)/2026/11/16/6afb4d7a1cd49175553090.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/faits-divers/un-corps-et-des-ossements-decouverts-dans-les-cotes-d-armor-une-enquete-pour-assassinat-est-ouverte_8285348.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Opening of a Murder Investigation in Le Fœil",
+            "context": "The discovery of human remains on private property systematically triggers the involvement of the gendarmerie and the opening of a criminal investigation led by the public prosecutor.",
+            "summary": "A body as well as human bones were discovered at a place called Les Bouillons, in the municipality of Le Fœil in Côtes-d'Armor. The Saint-Brieuc prosecutor's office has opened a judicial investigation under the classification of murder. Initial investigations are pointing towards a dispute between local residents. The owner of the farm where the remains were found was discovered hanged shortly after the emergency services arrived.",
+            "plain": "IN CLEAR: A murder investigation has been opened following the discovery of a body and bones on a farm in Côtes-d'Armor. The owner of the premises was found dead by hanging. Investigators are currently favoring the theory of a conflict between neighbors.",
+            "stakes": [
+              "How will scientific expertise make it possible to formally identify the victim?",
+              "What was the exact sequence of events that led to the tragedy?",
+              "How will criminal proceedings be extinguished if the suspect's suicide is confirmed?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Apertura de una investigación por asesinato en Le Fœil",
+            "context": "El descubrimiento de restos humanos en una propiedad privada conlleva sistemáticamente la intervención de la gendarmería y la apertura de una investigación penal bajo la dirección del fiscal de la República.",
+            "summary": "Un cuerpo así como osamentas humanas fueron descubiertos en el lugar denominado Les Bouillons, en el municipio de Le Fœil, en Côtes-d'Armor. La fiscalía de Saint-Brieuc ha abierto una investigación judicial bajo la calificación de asesinato. Las primeras investigaciones se orientan hacia un litigio que enfrenta a habitantes del sector. El propietario de la granja donde se encontraron los restos fue descubierto ahorcado poco después de la llegada de los servicios de emergencia.",
+            "plain": "EN CLARO: Se ha abierto una investigación por asesinato tras el descubrimiento de un cuerpo y huesos en una granja de Côtes-d'Armor. El propietario del lugar fue hallado muerto ahorcado. Los investigadores privilegian por el momento la pista de un conflicto entre vecinos.",
+            "stakes": [
+              "¿Cómo permitirán los peritajes científicos identificar formalmente a la víctima?",
+              "¿Cuál fue el desarrollo exacto de los hechos que condujeron al drama?",
+              "¿Cómo se extinguirán los procedimientos penales en caso de confirmarse el suicidio del sospechoso?"
+            ],
+            "chart": null
+          }
+        }
+      }
+    ],
+    "monde": [
+      {
+        "id": "sfd6bc50eac",
+        "topic": "international",
+        "title": "Cinq pays européens envisagent d'expulser des demandeurs d'asile vers le Rwanda",
+        "context": "Plusieurs États membres de l'Union européenne cherchent à externaliser la gestion des demandes d'asile afin de réduire les arrivées clandestines. Cette démarche s'inspire de projets visant à traiter les dossiers d'asile hors du continent européen.",
+        "summary": "L'Allemagne, l'Autriche, le Danemark, la Grèce et les Pays-Bas ont annoncé un projet conjoint visant à créer un centre de retour au Rwanda. Ce dispositif serait destiné à accueillir les demandeurs d'asile dont la requête a été définitivement rejetée par les services d'immigration européens. Cette initiative illustre la volonté de plusieurs gouvernements de durcir les politiques migratoires à l'échelle du continent. Les pays initiateurs présentent cette mesure comme un moyen de dissuasion contre les traversées irrégulières. Toutefois, des observateurs s'interrogent sur les garanties juridiques et le respect du droit international concernant le transfert de personnes déboutées.",
+        "plain": "EN CLAIR : Cinq pays d'Europe veulent envoyer au Rwanda les personnes dont les demandes d'asile ont été refusées. Ils espèrent ainsi décourager l'immigration clandestine. Ce projet marque un tournant très ferme dans la politique migratoire européenne.",
+        "chart": null,
+        "stakes": [
+          "Quelle sera la conformité de ce dispositif au regard du droit international ?",
+          "Comment cette initiative influencera-t-elle les règles d'asile au sein de l'Union européenne ?",
+          "Quelles seront les garanties apportées quant au traitement des personnes expulsées ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde (International)",
+            "title": "Le projet de cinq pays européens d’ouvrir un centre de retour au Rwanda traduit la bascule de la politique européenne en matière d’immigration",
+            "link": "https://www.lemonde.fr/international/article/2026/11/16/le-projet-de-cinq-pays-europeens-d-ouvrir-un-centre-de-retour-au-rwanda-traduit-la-bascule-de-la-politique-europeenne-en-matiere-d-immigration_6812426_3210.html",
+            "publishedAt": "2026-11-16T20:52:34.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Five EU countries announce migrant deportation centre in Rwanda",
+            "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-16T23:20:45.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Tagesschau",
+            "title": "Migrationspolitik: Deutschland plant Abschiebezentrum in Ruanda",
+            "link": "https://www.tagesschau.de/tagesthemen/video-1684984.html",
+            "publishedAt": "2026-11-16T20:50:56.000Z",
+            "lang": "de",
+            "country": "DE"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "Five European countries agree to deport rejected asylum seekers to Rwanda",
+            "link": "https://www.washingtonpost.com/world/2026/11/16/five-european-countries-agree-deport-rejected-asylum-seekers-rwanda/",
+            "publishedAt": "2026-11-16T20:40:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "5 countries announce plan to deport failed asylum-seekers to Rwanda",
+            "link": "https://www.politico.eu/article/5-countries-announce-plan-to-deport-failed-asylum-seekers-to-rwanda/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-16T16:57:27.000Z",
+            "lang": "en",
+            "country": "BE"
+          },
+          {
+            "name": "RFI",
+            "title": "L'Allemagne, l'Autriche, le Danemark, la Grèce et les Pays-Bas présentent leur projet de «hub de retour» pour migrants au Rwanda",
+            "link": "https://www.rfi.fr/fr/europe/20261116-l-allemagne-l-autriche-le-danemark-la-gr%C3%A8ce-et-les-pays-bas-pr%C3%A9sentent-leur-projet-de-hub-de-retour-pour-migrants-au-rwanda",
+            "publishedAt": "2026-11-16T15:35:36.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "Comment l’Allemagne a renoncé à sa politique d’accueil : du « nous y arriverons » d’Angela Merkel au projet d’expulser des réfugiés vers le Rwanda",
+            "link": "https://www.lemonde.fr/international/article/2026/11/16/comment-l-allemagne-a-renonce-a-sa-politique-d-accueil-du-nous-y-arriverons-d-angela-merkel-au-projet-d-expulser-des-refugies-vers-le-rwanda_6812359_3210.html",
+            "publishedAt": "2026-11-16T19:53:33.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/16/441/0/5297/2648/644/322/60/0/0a55900_ftp-1-5vczqw1iruzb-2026-11-16t163414z-235323189-rc24poat54y9-rtrmadp-3-europe-migration-rwanda.JPG",
+          "credit": "Le Monde (International)",
+          "link": "https://www.lemonde.fr/international/article/2026/11/16/le-projet-de-cinq-pays-europeens-d-ouvrir-un-centre-de-retour-au-rwanda-traduit-la-bascule-de-la-politique-europeenne-en-matiere-d-immigration_6812426_3210.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Five European countries consider expelling asylum seekers to Rwanda",
+            "context": "Several European Union member states are seeking to externalize the management of asylum applications in order to reduce clandestine arrivals. This approach is inspired by projects aimed at processing asylum files outside the European continent.",
+            "summary": "Germany, Austria, Denmark, Greece, and the Netherlands have announced a joint project aimed at creating a return center in Rwanda. This mechanism would be intended to accommodate asylum seekers whose applications have been definitively rejected by European immigration services. This initiative illustrates the willingness of several governments to tighten migration policies across the continent. The initiating countries present this measure as a deterrent against irregular crossings. However, observers question the legal guarantees and respect for international law regarding the transfer of rejected individuals.",
+            "plain": "IN CLEAR: Five European countries want to send individuals whose asylum applications have been refused to Rwanda. They hope this will discourage illegal immigration. This project marks a very firm turning point in European migration policy.",
+            "stakes": [
+              "How compliant will this mechanism be with regard to international law?",
+              "How will this initiative influence asylum rules within the European Union?",
+              "What guarantees will be provided regarding the treatment of expelled persons?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Cinco países europeos estudian la expulsión de solicitantes de asilo a Ruanda",
+            "context": "Varios Estados miembros de la Unión Europea buscan externalizar la gestión de las solicitudes de asilo para reducir las llegadas clandestinas. Este enfoque se inspira en proyectos destinados a tramitar expedientes de asilo fuera del continente europeo.",
+            "summary": "Alemania, Austria, Dinamarca, Grecia y los Países Bajos han anunciado un proyecto conjunto para crear un centro de retorno en Ruanda. Este dispositivo estaría destinado a acoger a los solicitantes de asilo cuya petición haya sido rechazada definitivamente por los servicios de inmigración europeos. Esta iniciativa ilustra la voluntad de varios gobiernos de endurecer las políticas migratorias a escala del continente. Los países impulsores presentan esta medida como un medio de disuasión contra las travesías irregulares. Sin embargo, los observadores cuestionan las garantías jurídicas y el respeto del derecho internacional respecto al traslado de personas rechazadas.",
+            "plain": "EN CLARO: Cinco países de Europa quieren enviar a Ruanda a las personas cuyas solicitudes de asilo han sido rechazadas. Esperan así disuadir la inmigración clandestina. Este proyecto marca un giro muy firme en la política migratoria europea.",
+            "stakes": [
+              "¿Cuál será la conformidad de este dispositivo con respecto al derecho internacional?",
+              "¿Cómo influirá esta iniciativa en las normas de asilo dentro de la Unión Europea?",
+              "¿Qué garantías se aportarán en cuanto al trato de las personas expulsadas?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sd01ce23ff8",
+        "topic": "international",
+        "title": "Sommets diplomatiques majeurs en Asie autour des dirigeants mondiaux",
+        "context": "L'Asie accueille cette semaine plusieurs réunions internationales d'envergure, notamment les sommets de l'Asean aux Philippines et de l'Apec en Chine. Ces rassemblements interviennent dans un contexte de fortes rivalités économiques et géopolitiques globales.",
+        "summary": "Le président américain Donald Trump s'est rendu en Asie pour participer aux sommets régionaux de l'Asean et de l'Apec. Des rencontres sont prévues en Chine avec le président chinois Xi Jinping et le président russe Vladimir Poutine. Les discussions doivent aborder la crise en Ukraine, la sécurité régionale et les échanges commerciaux internationaux. Des représentants évoquent également la possibilité d'échanges avec le dirigeant nord-coréen Kim Jong-un. Cette séquence multilatérale place la région asiatique au cœur des tentatives de médiation diplomatique internationale.",
+        "plain": "EN CLAIR : Les dirigeants des grandes puissances mondiales se retrouvent en Asie pour des réunions diplomatiques. Ils doivent discuter des guerres en cours, du commerce et de la sécurité. Ces rencontres visent à aborder les tensions internationales actuelles.",
+        "chart": null,
+        "stakes": [
+          "Ces échanges favoriseront-ils une baisse des tensions autour de la guerre en Ukraine ?",
+          "Comment évolueront les relations commerciales entre Washington et Pékin ?",
+          "Une reprise du dialogue avec la Corée du Nord est-elle envisagée ?"
+        ],
+        "sources": [
+          {
+            "name": "NPR",
+            "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+            "link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+            "publishedAt": "2026-11-16T10:00:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
+            "link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+            "publishedAt": "2026-11-16T21:42:51.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "Southeast Asian leaders kick-start summit, with South China Sea and energy on agenda",
+            "link": "https://www.washingtonpost.com/world/2026/11/15/southeast-asian-leaders-open-asean-summit-with-south-china-sea-energy-agenda/",
+            "publishedAt": "2026-11-15T20:30:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "Trump departs for ASEAN on summit with Xi and Putin",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+            "publishedAt": "2026-11-16T23:42:03.000Z",
+            "lang": "en",
+            "country": "QA"
+          },
+          {
+            "name": "The Hindu",
+            "title": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting",
+            "link": "https://www.thehindu.com/news/international/trumps-asia-trip-deals-in-manila-and-shenzhen-nuclear-summit-with-xi-and-putin-maybe-kim-meeting/article71708808.ece",
+            "publishedAt": "2026-11-16T15:35:38.000Z",
+            "lang": "en",
+            "country": "IN"
+          },
+          {
+            "name": "South China Morning Post",
+            "title": "Putin could meet North Korea’s Kim if he also heads to China for Apec summit",
+            "link": "https://www.scmp.com/news/china/diplomacy/article/3374652/putin-could-meet-north-koreas-kim-if-he-also-heads-china-apec-summit",
+            "publishedAt": "2026-11-16T21:34:56.000Z",
+            "lang": "en",
+            "country": "HK"
+          },
+          {
+            "name": "RFI",
+            "title": "Sommets de l'Asean et de l'Apec: la France et les Européens à l'écart des grandes rencontres en Asie",
+            "link": "https://www.rfi.fr/fr/asie-pacifique/20261116-sommets-de-l-asean-et-de-l-apec-la-france-et-les-europ%C3%A9ens-%C3%A0-l-%C3%A9cart-des-grandes-rencontres-en-asie",
+            "publishedAt": "2026-11-16T17:35:23.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Euronews",
+            "title": "Trump évoque une possible rencontre avec Kim Jong-un en Chine cette semaine",
+            "link": "https://fr.euronews.com/2026/11/16/trump-evoque-une-possible-rencontre-avec-kim-jong-un-en-chine-cette-semaine",
+            "publishedAt": "2026-11-16T18:43:44.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1903+0+0/resize/3000x1903!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F43%2Fa1078a164917808b90cb7d9ece17%2Fgettyimages-2304645424.jpg",
+          "credit": "NPR",
+          "link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia"
+        },
+        "i18n": {
+          "en": {
+            "title": "Major diplomatic summits in Asia centering on world leaders",
+            "context": "Asia is hosting several major international meetings this week, notably the ASEAN summits in the Philippines and APEC in China. These gatherings take place against a backdrop of intense global economic and geopolitical rivalries.",
+            "summary": "US President Donald Trump traveled to Asia to participate in the regional ASEAN and APEC summits. Meetings are scheduled in China with Chinese President Xi Jinping and Russian President Vladimir Putin. Discussions are expected to address the crisis in Ukraine, regional security, and international trade exchanges. Representatives also mention the possibility of exchanges with North Korean leader Kim Jong-un. This multilateral sequence places the Asian region at the heart of international diplomatic mediation attempts.",
+            "plain": "IN CLEAR: The leaders of the world's major powers are meeting in Asia for diplomatic meetings. They are set to discuss ongoing wars, trade, and security. These meetings aim to address current international tensions.",
+            "stakes": [
+              "Will these exchanges help lower tensions surrounding the war in Ukraine?",
+              "How will trade relations between Washington and Beijing evolve?",
+              "Is a resumption of dialogue with North Korea being considered?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Importantes cumbres diplomáticas en Asia en torno a los líderes mundiales",
+            "context": "Asia acoge esta semana varias reuniones internacionales de envergadura, en particular las cumbres de la ASEAN en Filipinas y de la APEC en China. Estas reuniones se producen en un contexto de fuertes rivalidades económicas y geopolíticas globales.",
+            "summary": "El presidente estadounidense Donald Trump viajó a Asia para participar en las cumbres regionales de la ASEAN y de la APEC. Están previstas reuniones en China con el presidente chino Xi Jinping y el presidente ruso Vladímir Putin. Los debates deben abordar la crisis en Ucrania, la seguridad regional y los intercambios comerciales internacionales. Los representantes también mencionan la posibilidad de intercambios con el líder norcoreano Kim Jong-un. Esta secuencia multilateral sitúa a la región asiática en el centro de los intentos de mediación diplomática internacional.",
+            "plain": "EN CLARO: Los dirigentes de las grandes potencias mundiales se reúnen en Asia para encuentros diplomáticos. Deben debatir sobre las guerras en curso, el comercio y la seguridad. Estos encuentros pretenden abordar las tensiones internacionales actuales.",
+            "stakes": [
+              "¿Favorecerán estos intercambios una bajada de la tensión en torno a la guerra en Ucrania?",
+              "¿Cómo evolucionarán las relaciones comerciales entre Washington y Pekín?",
+              "¿Se contempla una reanudación del diálogo con Corea del Norte?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sc9785d9d28",
+        "topic": "international",
+        "title": "Intensification des attaques de drones et frappes contre les infrastructures en Ukraine",
+        "context": "Le conflit armé entre la Russie et l'Ukraine connaît une recrudescence des attaques aériennes à l'approche de la période hivernale. Les deux camps ciblent des installations stratégiques et des infrastructures énergétiques.",
+        "summary": "L'Ukraine a mené une vaste offensive de drones qui a touché le pont de Crimée, ce que la Russie décrit comme une attaque d'une ampleur inédite. En réplique, les forces russes accentuent leurs bombardements sur les réseaux électriques et de chauffage ukrainiens, provoquant des coupures d'électricité récurrentes. Selon les déclarations du président Volodymyr Zelensky, la Corée du Nord livrerait régulièrement des missiles balistiques à Moscou. Le gouvernement ukrainien demande aux États occidentaux une augmentation des livraisons d'armements pour contrer les lanceurs russes. La situation s'avère critique pour les civils confrontés à la baisse des températures.",
+        "plain": "EN CLAIR : Les attaques s'intensifient entre la Russie et l'Ukraine avec de nombreux drones et missiles. La Russie vise l'approvisionnement en énergie ukrainien avant l'hiver, ce qui menace le quotidien des habitants. De son côté, l'Ukraine tente de viser des installations russes stratégiques.",
+        "chart": {
+          "title": "Attaque de drones rapportée près de Moscou",
+          "unit": "drones",
+          "items": [
+            {
+              "label": "Drones lancés",
+              "value": 600
+            },
+            {
+              "label": "Drones interceptés",
+              "value": 191
+            }
+          ],
+          "source": {
+            "name": "La Croix",
+            "link": "https://www.la-croix.com/international/ukraine-russie-jour-1727-point-conflit-ukrainien-poutine-aujourdhui-20261116"
+          }
+        },
+        "stakes": [
+          "La population civile pourra-t-elle faire face aux ruines énergétiques pendant l'hiver ?",
+          "Quel sera l'impact de l'utilisation de matériels militaires nord-coréens sur le front ?",
+          "Les pays alliés répondront-ils aux demandes d'équipements de défense formulées par Kiev ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Guerre en Ukraine : ce qu’il faut retenir de la situation du lundi 16 novembre",
+            "link": "https://www.la-croix.com/international/ukraine-russie-jour-1727-point-conflit-ukrainien-poutine-aujourdhui-20261116",
+            "publishedAt": "2026-11-16T20:15:03.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "L'Humanité",
+            "title": "Guerre en Ukraine : quand l’Europe veut s’imposer en acteur diplomatique… sans négocier avec Moscou",
+            "link": "https://www.humanite.fr/monde/diplomatie/guerre-en-ukraine-quand-leurope-veut-simposer-en-acteur-diplomatique-sans-negocier-avec-moscou",
+            "publishedAt": "2026-11-16T18:12:31.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+            "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-16T14:58:12.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly",
+            "link": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
+            "publishedAt": "2026-11-16T19:43:53.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Fox News",
+            "title": "Ukraine hits Putin's prized bridge in record drone blitz as Kremlin tells lawmakers to prepare for 'victory'",
+            "link": "https://www.foxnews.com/world/ukraine-hits-putins-prized-bridge-record-drone-blitz-kremlin-tells-lawmakers-prepare-victory",
+            "publishedAt": "2026-11-16T18:15:50.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que la Corée du Nord livre à la Russie chaque mois « des dizaines de missiles balistiques » et demande aux Européens plus de missiles pour Kiev",
+            "link": "https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-la-coree-du-nord-livre-a-la-russie-chaque-mois-des-dizaines-de-missiles-balistiques-et-demande-aux-europeens-plus-de-missiles-pour-kiev_6810982_3210.html",
+            "publishedAt": "2026-11-16T19:02:37.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/16/2590034-une-frappe-aerienne-russe-sur-zaporijjia-en-ukrain.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/international/ukraine-russie-jour-1727-point-conflit-ukrainien-poutine-aujourdhui-20261116"
+        },
+        "i18n": {
+          "en": {
+            "title": "Intensification of drone attacks and strikes against infrastructure in Ukraine",
+            "context": "The armed conflict between Russia and Ukraine is experiencing a resurgence of aerial attacks as the winter period approaches. Both sides are targeting strategic installations and energy infrastructure.",
+            "summary": "Ukraine carried out a vast drone offensive that hit the Crimean bridge, which Russia describes as an unprecedented attack. In retaliation, Russian forces are increasing their bombardments on Ukrainian electricity and heating networks, causing recurring power outages. According to statements by President Volodymyr Zelensky, North Korea is regularly delivering ballistic missiles to Moscow. The Ukrainian government is asking Western states for increased deliveries of weaponry to counter Russian launchers. The situation is proving critical for civilians facing falling temperatures.",
+            "plain": "IN CLEAR: Attacks are intensifying between Russia and Ukraine with numerous drones and missiles. Russia is targeting Ukraine's energy supply ahead of winter, threatening residents' daily lives. Meanwhile, Ukraine is attempting to target strategic Russian installations.",
+            "stakes": [
+              "Will the civilian population be able to cope with the destroyed energy infrastructure during winter?",
+              "What will be the impact of using North Korean military equipment on the front line?",
+              "Will allied countries respond to Kiev's requests for defense equipment?"
+            ],
+            "chart": {
+              "title": "Reported drone attack near Moscow",
+              "unit": "drones",
+              "labels": [
+                "Drones launched",
+                "Drones intercepted"
+              ]
+            }
+          },
+          "es": {
+            "title": "Intensificación de los ataques con drones y de los bombardeos contra infraestructuras en Ucrania",
+            "context": "El conflicto armado entre Rusia y Ucrania experimenta un recrudecimiento de los ataques aéreos al acercarse el periodo invernal. Ambos bandos atacan instalaciones estratégicas e infraestructuras energéticas.",
+            "summary": "Ucrania llevó a cabo una gran ofensiva de drones que alcanzó el puente de Crimea, lo que Rusia describe como un ataque de una magnitud sin precedentes. En respuesta, las fuerzas rusas acentúan sus bombardeos sobre las redes eléctricas y de calefacción ucranianas, provocando cortes de electricidad recurrentes. Según las declaraciones del presidente Volodímir Zelenski, Corea del Norte suministraría regularmente misiles balísticos a Moscú. El gobierno ucraniano pide a los Estados occidentales un aumento de los envíos de armamento para contrarrestar a los lanzadores rusos. La situación resulta crítica para los civiles que se enfrentan a la bajada de las temperaturas.",
+            "plain": "EN CLARO: Los ataques se intensifican entre Rusia y Ucrania con numerosos drones y misiles. Rusia apunta al suministro de energía ucraniano antes del invierno, lo que amenaza el día a día de los habitantes. Por su parte, Ucrania intenta atacar instalaciones rusas estratégicas.",
+            "stakes": [
+              "¿Podrá la población civil hacer frente a las ruinas energéticas durante el invierno?",
+              "¿Cuál será el impacto de la utilización de material militar norcoreano en el frente?",
+              "¿Responderán los países aliados a las solicitudes de equipos de defensa formuladas por Kiev?"
+            ],
+            "chart": {
+              "title": "Ataque con drones reportado cerca de Moscú",
+              "unit": "drones",
+              "labels": [
+                "Drones lanzados",
+                "Drones interceptados"
+              ]
+            }
+          }
+        }
+      },
+      {
+        "id": "s9646fcfcf7",
+        "topic": "international",
+        "title": "Renforcement du dispositif naval américain au Moyen-Orient sur fond de crise",
+        "context": "La situation sécuritaire au Moyen-Orient demeure instable en raison d'incidents maritimes et d'attaques ciblées dans le Golfe. Les États-Unis maintiennent une importante présence militaire pour protéger les voies navigables.",
+        "summary": "Le porte-avions américain Theodore Roosevelt est arrivé au Moyen-Orient pour rejoindre deux autres bâtiments déjà déployés dans la zone. Ce mouvement fait suite à un tir ayant touché un pétrolier près du détroit d'Ormuz et à des frappes de drones visant Bahreïn. Au sein du gouvernement américain, des débats ont lieu sur les actions à mener face à l'Iran, certains avertissant des dangers d'une escalade armée. Parallèlement, des poursuites judiciaires menées à Bahreïn contre des religieux accusés de liens avec Téhéran suscitent des controverses. L'ensemble de la région demeure sous la menace d'une extension des hostilités.",
+        "plain": "EN CLAIR : Les États-Unis ont envoyé un troisième porte-avions au Moyen-Orient pour renforcer leur présence militaire. Cette décision intervient après plusieurs attaques sur des navires et des infrastructures régionales. L'objectif américain est de dissuader l'Iran tout en évitant un conflit ouvert.",
+        "chart": null,
+        "stakes": [
+          "Ce déploiement permettra-t-il de prévenir un embrasement généralisé dans la région ?",
+          "Les routes maritimes commerciales seront-elles sécurisées pour le transport pétrolier ?",
+          "Comment s'orientera la stratégie américaine face aux actions de Téhéran ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde (International)",
+            "title": "Un troisième porte-avions américain, le « Theodore-Roosevelt », est arrivé au Moyen-Orient",
+            "link": "https://www.lemonde.fr/international/article/2026/11/16/un-troisieme-porte-avions-americain-le-theodore-roosevelt-est-arrive-au-moyen-orient_6812491_3210.html",
+            "publishedAt": "2026-11-16T21:23:33.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "La Croix",
+            "title": "Guerre au Moyen-Orient : pétrolier touché à Ormuz ; frappe au Liban… Le bilan du lundi 16 novembre",
+            "link": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-262-moyen-orient-bilan-resume-aujourdhui-20261116",
+            "publishedAt": "2026-11-16T20:16:45.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "Critics blame U.S.-Iran war for crackdown on clerics in Bahrain",
+            "link": "https://www.washingtonpost.com/world/2026/11/16/critics-blame-us-iran-war-crackdown-clerics-bahrain/",
+            "publishedAt": "2026-11-16T16:57:08.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "Iran targets Bahrain twice after months of quiet, claiming retaliation against U.S.",
+            "link": "https://www.washingtonpost.com/world/2026/11/15/iran-targets-bahrain-twice-after-months-quiet-claiming-retaliation-against-us/",
+            "publishedAt": "2026-11-15T18:18:13.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Fox News",
+            "title": "Blinken warns US ground invasion of Iran would be 'absolute disaster' as Tehran escalates attacks",
+            "link": "https://www.foxnews.com/world/blinken-warns-us-ground-invasion-iran-would-be-disaster-tehran-escalates-attacks",
+            "publishedAt": "2026-11-16T00:17:38.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Hindu",
+            "title": "Third American aircraft carrier arrives in West Asia as Trump keeps options open in Iran war",
+            "link": "https://www.thehindu.com/news/international/third-american-aircraft-carrier-arrives-in-west-asia-as-trump-keeps-options-open-in-iran-war/article71709128.ece",
+            "publishedAt": "2026-11-16T17:00:24.000Z",
+            "lang": "en",
+            "country": "IN"
+          },
+          {
+            "name": "ANSA",
+            "title": "'007 Usa, Iran sta sviluppando piani per bomba sporca a Washington'",
+            "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/17/007-usa-iran-sta-sviluppando-piani-per-bomba-sporca-a-washington_e9e48fc7-b720-4ea8-9a49-e5b5a1ec380a.html",
+            "publishedAt": "2026-11-16T23:23:44.000Z",
+            "lang": "it",
+            "country": "IT"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/07/332/0/3984/1992/644/322/60/0/656c4df_ftp-1-3niebrdzvsme-2026-11-07t081645z-1924332331-rc25ioa57nej-rtrmadp-3-iran-crisis-usa-vessel.JPG",
+          "credit": "Le Monde (International)",
+          "link": "https://www.lemonde.fr/international/article/2026/11/16/un-troisieme-porte-avions-americain-le-theodore-roosevelt-est-arrive-au-moyen-orient_6812491_3210.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Reinforcement of the US naval presence in the Middle East amid crisis",
+            "context": "The security situation in the Middle East remains unstable due to maritime incidents and targeted attacks in the Gulf. The United States is maintaining a significant military presence to protect waterways.",
+            "summary": "The US aircraft carrier Theodore Roosevelt has arrived in the Middle East to join two other vessels already deployed in the area. This movement follows a strike that hit an oil tanker near the Strait of Hormuz and drone strikes targeting Bahrain. Within the US government, debates are taking place regarding actions to take against Iran, with some warning of the dangers of armed escalation. Concurrently, legal proceedings conducted in Bahrain against clerics accused of ties to Tehran are sparking controversy. The entire region remains under the threat of an expansion of hostilities.",
+            "plain": "IN CLEAR: The United States has sent a third aircraft carrier to the Middle East to strengthen its military presence. This decision comes after several attacks on ships and regional infrastructure. The American objective is to deter Iran while avoiding open conflict.",
+            "stakes": [
+              "Will this deployment help prevent a generalized flare-up in the region?",
+              "Will commercial maritime routes be secured for oil transport?",
+              "How will US strategy toward Tehran's actions be oriented?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Refuerzo del dispositivo naval estadounidense en Oriente Medio en un contexto de crisis",
+            "context": "La situación de seguridad en Oriente Medio sigue siendo inestable debido a incidentes marítimos y ataques selectivos en el Golfo. Estados Unidos mantiene una importante presencia militar para proteger las vías navegables.",
+            "summary": "El portaviones estadounidense Theodore Roosevelt ha llegado a Oriente Medio para unirse a otros dos buques ya desplegados en la zona. Este movimiento se produce tras un disparo que alcanzó a un petrolero cerca del estrecho de Ormuz y ataques de drones dirigidos contra Baréin. En el seno del gobierno estadounidense se debate sobre las acciones que deben tomarse frente a Irán, y algunos advierten de los peligros de una escalada armada. Paralelamente, los procedimientos judiciales llevados a cabo en Baréin contra clérigos acusados de vínculos con Teherán suscitan controversia. Toda la región sigue bajo la amenaza de una extensión de las hostilidades.",
+            "plain": "EN CLARO: Estados Unidos ha enviado un tercer portaviones a Oriente Medio para reforzar su presencia militar. Esta decisión se produce tras varios ataques a barcos e infraestructuras regionales. El objetivo estadounidense es disuadir a Irán evitando al mismo tiempo un conflicto abierto.",
+            "stakes": [
+              "¿Permitirá este despliegue prevenir un estallido generalizado en la región?",
+              "¿Se asegurarán las rutas marítimas comerciales para el transporte de petróleo?",
+              "¿Cómo se orientará la estrategia estadounidense frente a las acciones de Teherán?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s349134aed1",
+        "topic": "economie",
+        "title": "Durcissement des contrôles américains sur les exportations de puces vers la Chine",
+        "context": "Les États-Unis imposent des restrictions stratégiques sur la vente et l'accès aux technologies de pointe afin de limiter la capacité de la Chine dans le domaine du calcul haute performance et de l'intelligence artificielle.",
+        "summary": "Le gouvernement américain prépare de nouvelles règles visant à restreindre l'accès à distance des entreprises chinoises aux puces d'intelligence artificielle conçues par le fabricant Nvidia. Ces annonces s'inscrivent dans une compétition technologique intense entre Washington et Pékin. Parallèlement, des spéculations entourent l'éventuelle réintégration de l'ancien dirigeant Jensen Huang, sujet sur lequel le conseil d'administration est resté mesuré. Ces incertitudes réglementaires et managériales entraînent des fluctuations sur les marchés boursiers. Les décideurs américains réaffirment vouloir protéger la souveraineté technologique nationale.",
+        "plain": "EN CLAIR : Les États-Unis veulent empêcher la Chine d'utiliser leurs puces d'intelligence artificielle les plus performantes. Cette décision s'inscrit dans une rivalité commerciale et technologique, tandis que l'entreprise Nvidia traverse une période d'incertitude.",
+        "chart": null,
+        "stakes": [
+          "Ces restrictions freineront-elles l'avancée de la Chine dans l'intelligence artificielle ?",
+          "Quelles seront les répercussions financières pour les industriels américains du secteur ?",
+          "La gouvernance de Nvidia connaîtra-t-elle des évolutions dans les prochains mois ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+            "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-16T22:21:27.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+            "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+            "publishedAt": "2026-11-16T23:23:57.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Sky News",
+            "title": "US to further curb China's access to Nvidia chips",
+            "link": "https://news.sky.com/story/us-to-further-curb-chinas-access-to-ai-chips-from-companies-like-nvidia-13612884",
+            "publishedAt": "2026-11-16T14:59:00.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race",
+            "link": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-16T16:32:00.000Z",
+            "lang": "en",
+            "country": "DE"
+          },
+          {
+            "name": "The Wall Street Journal",
+            "title": "Commerce Department Rule Aims to Further Limit Chip Shipments to China",
+            "link": "https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33?mod=rss_worldnews",
+            "publishedAt": "2026-11-16T22:35:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Wall Street Journal",
+            "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO",
+            "link": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=rss_worldnews",
+            "publishedAt": "2026-11-16T20:32:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Japan Times",
+            "title": "U.S. moves to curb China’s remote access to Nvidia’s AI chips",
+            "link": "https://www.japantimes.co.jp/business/2026/11/17/tech/us-china-nvidia-ai-chips/",
+            "publishedAt": "2026-11-16T23:20:00.000Z",
+            "lang": "en",
+            "country": "JP"
+          },
+          {
+            "name": "ANSA",
+            "title": "The Donald sostiene Mr. Nvidia, 'una buona idea il suo rientro'",
+            "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/the-donald-sostiene-mr.-nvidia-una-buona-idea-il-suo-rientro_df084f26-8996-46a2-927f-645ecc3fe8fe.html",
+            "publishedAt": "2026-11-16T21:43:23.000Z",
+            "lang": "it",
+            "country": "IT"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Tightening of US controls on chip exports to China",
+            "context": "The United States is imposing strategic restrictions on the sale of and access to advanced technologies in order to limit China's capacity in the fields of high-performance computing and artificial intelligence.",
+            "summary": "The US government is preparing new rules aimed at restricting remote access by Chinese companies to artificial intelligence chips designed by the manufacturer Nvidia. These announcements are part of an intense technological competition between Washington and Beijing. Concurrently, speculation surrounds the potential reintegration of former leader Jensen Huang, a subject on which the board of directors has remained measured. These regulatory and managerial uncertainties are causing fluctuations in stock markets. US decision-makers reaffirm their desire to protect national technological sovereignty.",
+            "plain": "IN CLEAR: The United States wants to prevent China from using their highest-performing artificial intelligence chips. This decision is part of a commercial and technological rivalry, while Nvidia undergoes a period of uncertainty.",
+            "stakes": [
+              "Will these restrictions slow down China's advancement in artificial intelligence?",
+              "What will the financial repercussions be for American industrial players in the sector?",
+              "Will Nvidia's governance experience changes in the coming months?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Endurecimiento de los controles estadounidenses sobre las exportaciones de chips a China",
+            "context": "Estados Unidos impone restricciones estratégicas a la venta y el acceso a tecnologías avanzadas para limitar la capacidad de China en el ámbito de la computación de alto rendimiento y la inteligencia artificial.",
+            "summary": "El gobierno estadounidense prepara nuevas normas destinadas a restringir el acceso a distancia de las empresas chinas a los chips de inteligencia artificial diseñados por el fabricante Nvidia. Estos anuncios se inscriben en una intensa competición tecnológica entre Washington y Pekín. Paralelamente, surgen especulaciones en torno a la eventual reincorporación del exdirigente Jensen Huang, un asunto sobre el cual el consejo de administración se ha mostrado medido. Estas incertidumbres regulatorias y de gestión provocan fluctuaciones en los mercados bursátiles. Los responsables políticos estadounidenses reafirman su voluntad de proteger la soberanía tecnológica nacional.",
+            "plain": "EN CLARO: Estados Unidos quiere impedir que China utilice sus chips de inteligencia artificial más potentes. Esta decisión se enmarca en una rivalidad comercial y tecnológica, mientras la empresa Nvidia atraviesa un periodo de incertidumbre.",
+            "stakes": [
+              "¿Frenarán estas restricciones el avance de China en la inteligencia artificial?",
+              "¿Cuáles serán las repercusiones financieras para los industriales estadounidenses del sector?",
+              "¿Experimentará cambios la gobernanza de Nvidia en los próximos meses?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s7d3949895d",
+        "topic": "sciences_tech",
+        "title": "Discussions à l'ONU pour encadrer les armes autonomes basées sur l'IA",
+        "context": "Le développement de technologies militaires intégrant l'intelligence artificielle suscite des débats sur le rôle et la responsabilité de l'humain dans le déclenchement des frappes.",
+        "summary": "Des représentants d'États se réunissent à Genève sous l'égide des Nations unies pour étudier une réglementation internationale des armes autonomes, parfois qualifiées de robots tueurs. Le secrétaire général de l'ONU, Antonio Guterres, plaide pour l'adoption de règles contraignantes limitant les systèmes capables d'identifier et d'attaquer des cibles sans intervention humaine. Cependant, plusieurs puissances militaires comme les États-Unis, la Russie et Israël s'opposent à un traité juridiquement obligatoire. Des organisations non gouvernementales insistent sur la nécessité d'interdire l'automatisation totale des décisions léthales. Les négociations se poursuivent pour établir si des règles communes peuvent émerger.",
+        "plain": "EN CLAIR : Les Nations unies organisent des réunions pour décider s'il faut interdire ou limiter les armes autonomes guidées par l'intelligence artificielle. Plusieurs pays demandent un traité strict, mais de grandes puissances refusent des règles obligatoires.",
+        "chart": null,
+        "stakes": [
+          "Les États membres de l'ONU s'accorderont-ils sur un cadre juridique contraignant ?",
+          "Comment garantir la présence d'un contrôle humain dans l'usage de la force armée ?",
+          "Quels sont les risques éthiques liés au développement des armes autonomes ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "« Robots tueurs » : le défi de la régulation des armes autonomes pilotées par l’IA",
+            "link": "https://www.la-croix.com/international/robots-tueurs-le-defi-de-la-regulation-des-armes-autonomes-pilotees-par-l-ia-20261116",
+            "publishedAt": "2026-11-16T18:00:44.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "NPR",
+            "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+            "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+            "publishedAt": "2026-11-16T18:04:50.000Z",
+            "lang": "en",
+            "country": "US"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/16/2590620-antonio-guterres-a-appele-lundi-16-novembre-2026-a.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/international/robots-tueurs-le-defi-de-la-regulation-des-armes-autonomes-pilotees-par-l-ia-20261116"
+        },
+        "i18n": {
+          "en": {
+            "title": "UN discussions to regulate AI-based autonomous weapons",
+            "context": "The development of military technologies integrating artificial intelligence is sparking debates about the role and responsibility of humans in initiating strikes.",
+            "summary": "State representatives are meeting in Geneva under the auspices of the United Nations to study international regulation of autonomous weapons, sometimes referred to as killer robots. UN Secretary-General Antonio Guterres is advocating for the adoption of binding rules limiting systems capable of identifying and attacking targets without human intervention. However, several military powers such as the United States, Russia, and Israel oppose a legally binding treaty. Non-governmental organizations insist on the need to ban the total automation of lethal decisions. Negotiations continue to establish whether common rules can emerge.",
+            "plain": "IN CLEAR: The United Nations is holding meetings to decide whether to ban or limit autonomous weapons guided by artificial intelligence. Several countries are calling for a strict treaty, but major powers are refusing mandatory rules.",
+            "stakes": [
+              "Will UN member states agree on a binding legal framework?",
+              "How can human control be guaranteed in the use of armed force?",
+              "What are the ethical risks linked to the development of autonomous weapons?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Discusiones en la ONU para regular las armas autónomas basadas en la IA",
+            "context": "El desarrollo de tecnologías militares que integran la inteligencia artificial suscita debates sobre el papel y la responsabilidad del ser humano en el desencadenamiento de los ataques.",
+            "summary": "Representantes de Estados se reúnen en Ginebra bajo los auspicios de las Naciones Unidas para estudiar una regulación internacional de las armas autónomas, a veces calificadas de robots asesinos. El secretario general de la ONU, António Guterres, aboga por la adopción de normas vinculantes que limiten los sistemas capaces de identificar y atacar objetivos sin intervención humana. Sin embargo, varias potencias militares como Estados Unidos, Rusia e Israel se oponen a un tratado jurídicamente obligatorio. Organizaciones no gubernamentales insisten en la necesidad de prohibir la automatización total de las decisiones letales. Las negociaciones continúan para establecer si pueden surgir normas comunes.",
+            "plain": "EN CLARO: Las Naciones Unidas organizan reuniones para decidir si se deben prohibir o limitar las armas autónomas guiadas por inteligencia artificial. Varios países piden un tratado estricto, pero grandes potencias rechazan normas obligatorias.",
+            "stakes": [
+              "¿Se pondrán de acuerdo los Estados miembros de la ONU sobre un marco jurídico vinculante?",
+              "¿Cómo garantizar la presencia de control humano en el uso de la fuerza armada?",
+              "¿Cuáles son los riesgos éticos relacionados con el desarrollo de armas autónomas?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s8d34f4d0c4",
+        "topic": "justice",
+        "title": "Un juge américain annule les limites de séjour pour étudiants et journalistes",
+        "context": "Le système de visas des États-Unis définit la durée d'autorisation de séjour accordée aux ressortissants étrangers venus suivre un cursus universitaire ou exercer une activité professionnelle de presse.",
+        "summary": "Un juge fédéral américain a annulé une réglementation restreignant la durée des visas des étudiants et des journalistes étrangers à quatre années maximum. La mesure avait été introduite sous l'administration Trump dans l'objectif déclaré de renforcer le suivi des flux migratoires. La décision de justice conclut que cette limitation ne repose pas sur des bases légales valides. Les représentants des universités et des médias s'étaient opposés à cette règle, soulignant qu'elle créait une instabilité administrative pour les étudiants et reporters. L'annulation rétablit les critères antérieurs d'octroi de séjour.",
+        "plain": "EN CLAIR : La justice américaine a annulé une règle qui empêchait les étudiants et journalistes étrangers de rester plus de quatre ans aux États-Unis. La décision permet de revenir aux anciennes modalités de délivrance des visas.",
+        "chart": null,
+        "stakes": [
+          "Le gouvernement américain fera-t-il appel de cette décision de justice ?",
+          "Quel sera l'impact sur l'attractivité des universités américaines pour les étudiants étrangers ?",
+          "Comment évolueront les conditions d'accueil pour la presse internationale aux États-Unis ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde (International)",
+            "title": "Un juge fédéral américain annule les limites de séjour des étudiants et des journalistes étrangers imposées par Donald Trump",
+            "link": "https://www.lemonde.fr/international/article/2026/11/16/un-juge-federal-americain-annule-les-limites-de-sejour-des-etudiants-et-journalistes-etrangers-imposees-par-donald-trump_6812623_3210.html",
+            "publishedAt": "2026-11-16T22:30:16.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "Aux États-Unis, un juge annule les limites de visa pour étudiants et journalistes étrangers imposées par Donald Trump",
+            "link": "https://www.ouest-france.fr/monde/etats-unis/aux-etats-unis-un-juge-annule-les-limites-de-visa-pour-etudiants-et-journalistes-etrangers-imposees-par-donald-trump-812137da-e207-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-16T22:26:07.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "The Straits Times",
+            "title": "US judge tosses new visa rules for foreign students, journalists",
+            "link": "https://www.straitstimes.com/world/united-states/us-judge-tosses-new-visa-rules-for-foreign-students-journalists",
+            "publishedAt": "2026-11-16T22:23:00.000Z",
+            "lang": "en",
+            "country": "SG"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/02/250/0/3000/1500/644/322/60/0/3cbd968_ftp-1-a4c3cg4pcwar-2026-11-02t201318z-1951589874-rc2vzhahwbf9-rtrmadp-3-usa-trump-harvard.JPG",
+          "credit": "Le Monde (International)",
+          "link": "https://www.lemonde.fr/international/article/2026/11/16/un-juge-federal-americain-annule-les-limites-de-sejour-des-etudiants-et-journalistes-etrangers-imposees-par-donald-trump_6812623_3210.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "US judge strikes down residency limits for students and journalists",
+            "context": "The US visa system defines the length of authorized stay granted to foreign nationals who come to pursue university studies or work in the press.",
+            "summary": "A US federal judge has struck down a regulation restricting the duration of visas for foreign students and journalists to a maximum of four years. The measure had been introduced under the Trump administration with the stated goal of strengthening the monitoring of migratory flows. The court decision concludes that this limitation is not based on valid legal grounds. University and media representatives had opposed the rule, pointing out that it created administrative instability for students and reporters. The cancellation restores the previous criteria for granting residency.",
+            "plain": "IN SHORT: The US judiciary has struck down a rule that prevented foreign students and journalists from staying in the United States for more than four years. The decision allows a return to the former visa issuance procedures.",
+            "stakes": [
+              "Will the US government appeal this court decision?",
+              "What will the impact be on the attractiveness of US universities for foreign students?",
+              "How will the reception conditions for the international press evolve in the United States?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Un juez estadounidense anula los límites de estancia para estudiantes y periodistas",
+            "context": "El sistema de visados de Estados Unidos define la duración de la autorización de estancia concedida a los ciudadanos extranjeros que acuden a cursar estudios universitarios o a ejercer una actividad profesional en la prensa.",
+            "summary": "Un juez federal estadounidense ha anulado una normativa que restringía la duración de los visados para estudiantes y periodistas extranjeros a un máximo de cuatro años. La medida había sido introducida bajo la administración Trump con el objetivo declarado de reforzar el seguimiento de los flujos migratorios. La decisión judicial concluye que esta limitación no se basa en fundamentos legales válidos. Representantes de las universidades y de los medios de comunicación se habían opuesto a la norma, señalando que creaba inestabilidad administrativa para estudiantes y reporteros. La anulación restablece los criterios anteriores de concesión de estancia.",
+            "plain": "EN CLARO: La justicia estadounidense ha anulado una norma que impedía a los estudiantes y periodistas extranjeros permanecer más de cuatro años en Estados Unidos. La decisión permite volver a las modalidades anteriores de expedición de visados.",
+            "stakes": [
+              "¿Apelará el gobierno estadounidense esta decisión judicial?",
+              "¿Cuál será el impacto en el atractivo de las universidades estadounidenses para los estudiantes extranjeros?",
+              "¿Cómo evolucionarán las condiciones de acogida para la prensa internacional en Estados Unidos?"
+            ],
+            "chart": null
+          }
+        }
+      }
+    ]
+  },
+  "storiesAt": "2026-11-16T23:56:20.806Z",
+  "inputHash": "1a1de17b7be6f5fabf96a6dbd2dffcb35024a4dd",
+  "synthStatus": "ok",
+  "news": {
+    "france": [
+      {
+        "id": "a19632c4d36",
+        "title": "Au procès de l’interpellation violente de Michel Zecler par des policiers : « Les vidéos parlent d’elles-mêmes, c’est impardonnable, ce n’est même pas de l’amateurisme »",
+        "link": "https://www.lemonde.fr/societe/article/2026/11/17/au-proces-de-l-interpellation-violente-de-michel-zecler-par-des-policiers-les-videos-parlent-d-elles-memes-c-est-impardonnable-ce-n-est-meme-pas-de-l-amateurisme_6812689_3224.html",
+        "summary": "Trois agents sont jugés pour avoir roué de coups le producteur de musique, à Paris, en 2020, et « faux en écriture publique ». Sept fonctionnaires de police, appelés en renfort par les accusés ont livré leur témoignage.",
+        "image": "https://img.lemde.fr/2026/11/16/0/0/650/325/644/322/60/0/eca2c32_upload-1-hilzzvstf9bq-000-8vz946.jpg",
+        "publishedAt": "2026-11-16T23:36:09.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "af9d3cee0c8",
+        "title": "Associations, salaires, logement… Sur la pauvreté, un débat riche en clivages",
+        "link": "https://www.liberation.fr/politique/elections/associations-salaires-logement-sur-la-pauvrete-un-debat-riche-en-clivages-20261117_NGRLJYOLKNBXLDOCJUYLU2FQDU/",
+        "summary": "Réunis lundi soir sur LCI dans un entrepôt des Restos du cœur, cinq candidats à la présidentielle, dont Marine Le Pen, Jean-Luc Mélenchon et Raphaël Glucksmann, ont exposé leurs divergences sur la manière de lutter contre la précarité.",
+        "image": null,
+        "publishedAt": "2026-11-16T23:29:05.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "a167152c7c7",
+        "title": "Antibiorésistance : «La sensibilisation des usagers et des soignants commence à porter ses fruits»",
+        "link": "https://www.liberation.fr/societe/sante/antibioresistance-la-sensibilisation-des-usagers-et-des-soignants-commence-a-porter-ses-fruits-20261117_5VC3AHJJTZF37KKOUOTA7G6WUQ/",
+        "summary": "Entre 2015 et 2025, la consommation et les prescriptions d’antibiotiques ont nettement diminué, selon le rapport annuel de Santé publique France publié ce mardi 17 novembre. Des données encourageantes pour le médecin Rémi Lefrançois, qui rappelle toutefois que le danger de l’antibiorésistance menace",
+        "image": null,
+        "publishedAt": "2026-11-16T23:01:00.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "a4870271550",
+        "title": "\"C'est pire que d'habitude\", \"Ça va être un bazar\"… La fermeture de l'A13 pour neuf mois provoque déjà des bouchons en Île-de-France et inquiète les communes",
+        "link": "https://www.franceinfo.fr/economie/transports/c-est-pire-que-d-habitude-ca-va-etre-un-bazar-la-fermeture-de-l-a13-pour-neuf-mois-provoque-deja-des-bouchons-en-ile-de-france-et-inquiete-les-communes_8285477.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Trouver un autre chemin pour aller travailler, c’est le casse-tête qui commence pour les habitués de l’A13, fermée depuis lundi 16 novembre matin à la sortie de Paris, en direction de la Normandie, jusqu’à fin août 2027. Les bouchons étaient déjà nombreux ce lundi, et les communes voisines veulent é",
+        "image": "https://www.franceinfo.fr/pictures/YNaMH7qnyQFsaMQpDMm6oTk0Q0I/0x5:1296x734/432x243/filters:format(jpg)/2026/11/16/6afb6eb8895c5096830785.jpg",
+        "publishedAt": "2026-11-16T22:44:34.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "a461e3299e7",
+        "title": "Élection présidentielle 2027. Ce qu’il faut retenir du débat sur la solidarité, le pouvoir d’achat et la précarité",
+        "link": "https://www.ouest-france.fr/elections/presidentielle/election-presidentielle-2027-ce-quil-faut-retenir-du-debat-sur-la-solidarite-le-pouvoir-dachat-et-la-precarite-f78247e6-e1dc-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Durant près de trois heures, lundi 16 novembre 2026, sur TF1 et LCI, cinq candidats au scrutin national d’avril-mai 2027 ont débattu de la société de demain. L’occasion de se faire mieux connaître des Français à une heure de grande écoute et d’égrener une partie de leur programme. Sur le plateau : G",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExOTZlZTkwNDUyNjI0NTg3MTI4OGYwOWU4ZmZhZmZkM2U?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=8495c0f7e35100c1cd38ac563aa5d14295087e3ca5d42e6e37e920b035ec8206",
+        "publishedAt": "2026-11-16T22:31:54.000Z",
+        "source": "Ouest-France",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "a8d34f4d0c4",
+        "title": "Un juge fédéral américain annule les limites de séjour des étudiants et des journalistes étrangers imposées par Donald Trump",
+        "link": "https://www.lemonde.fr/international/article/2026/11/16/un-juge-federal-americain-annule-les-limites-de-sejour-des-etudiants-et-journalistes-etrangers-imposees-par-donald-trump_6812623_3210.html",
+        "summary": "Dans une réglementation de juillet 2026, l’administration Trump avait décidé que les ressortissants étrangers détenteurs d’un visa étudiant ne seraient pas autorisés à rester plus de quatre ans sur le territoire américain tandis que les journalistes étrangers seraient limités à des séjours d’environ",
+        "image": "https://img.lemde.fr/2026/11/02/250/0/3000/1500/644/322/60/0/3cbd968_ftp-1-a4c3cg4pcwar-2026-11-02t201318z-1951589874-rc2vzhahwbf9-rtrmadp-3-usa-trump-harvard.JPG",
+        "publishedAt": "2026-11-16T22:30:16.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "a83fce283d9",
+        "title": "En Guyane, l'Amazonie fragilisée par la sécheresse et l'extraction d'or",
+        "link": "https://www.franceinfo.fr/france/guyane-francaise/en-guyane-l-amazonie-fragilisee-par-la-secheresse-et-l-extraction-d-or_8285513.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "De l'autre côté de l'Atlantique, la Guyane abrite la plus grande forêt de France. Mais cet immense territoire amazonien est fragilisé par des épisodes de sécheresse de plus en plus marqués, qui font baisser le niveau des fleuves et menacent la biodiversité. Sur place, les agents de l'ONF tentent de ",
+        "image": "https://www.franceinfo.fr/pictures/pTpKQDEP75qLxrhKhUCzBUs1_oQ/0x0:1477x831/432x243/filters:format(jpg)/2026/11/16/6afb7637c7f12437279694.png",
+        "publishedAt": "2026-11-16T21:41:08.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "ae122ce8e32",
+        "title": "Comment les héritiers présumés d’un Van Gogh estimé à 180 millions de dollars sèment le trouble dans une vente phare chez Sotheby’s",
+        "link": "https://www.lefigaro.fr/culture/encheres/un-van-gogh-prete-a-contestation-chez-sotheby-s-avant-sa-vente-a-new-york-mercredi-20261116",
+        "summary": "Revendiquée par les héritiers d’un propriétaire juif, la toile provenant de la célèbre collection Blaquier-Arrieta risque d’être retirée in extremis de la vente après des doutes sur sa provenance.",
+        "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/11/16/35fb7ee8c8fe7bd721850f86893cd80f0c874a54cb4e5df176ed1352d6b9aa79.jpg",
+        "publishedAt": "2026-11-16T21:38:15.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "a4833f3a2b5",
+        "title": "Automobile : Renault prévoit 2 000 créations de postes et 1 000 départs volontaires en France",
+        "link": "https://www.la-croix.com/economie/automobile-renault-prevoit-2-000-creations-de-postes-et-1-000-departs-volontaires-en-france-20261116",
+        "summary": "Renault Group a annoncé lundi 16 novembre 2 000 créations de postes d’ici à 2028, principalement de « cols bleus », et 1 000 départs volontaires chez les « cols blancs » en France afin de riposter à la concurrence chinoise.",
+        "image": "https://i.la-croix.com/x/2026/11/16/2590815-l-usine-renault-de-douai-dans-le-nord-ici-en-juill.jpg",
+        "publishedAt": "2026-11-16T21:30:17.000Z",
+        "source": "La Croix",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0.5
+      },
+      {
+        "id": "acbd33c8afa",
+        "title": "Liberté d’expression : Quand la France cultivait l’art du débat",
+        "link": "https://www.valeursactuelles.com/clubvaleurs/politique/liberte-dexpression-quand-la-france-cultivait-lart-du-debat",
+        "summary": "Les années 1980 étaient encore jeunes. Chaque samedi soir, à 20 h 30, TF1 préférait la dispute des idées à la niaiserie adolescente de la Star Academy. Dans un décor... L’article Liberté d&rsquo;expression : Quand la France cultivait l’art du débat est apparu en premier sur Valeurs actuelles .",
+        "image": null,
+        "publishedAt": "2026-11-16T21:01:44.000Z",
+        "source": "Valeurs actuelles",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
+      },
+      {
+        "id": "a950d44f750",
+        "title": "«L’enfer a commencé le 12 janvier 2019» : au procès de l’explosion de la rue de Trévise, les victimes racontent leurs vies brisées",
+        "link": "https://www.lefigaro.fr/actualite-france/l-enfer-a-commence-le-12-janvier-2019-au-proces-de-l-explosion-de-la-rue-de-trevise-les-victimes-racontent-leurs-vies-brisees-20261116",
+        "summary": "COMPTE RENDU D’AUDIENCE - Les parties civiles témoignent devant le tribunal judiciaire de Paris depuis jeudi dernier. Des victimes qui, en plus du choc de l’explosion, ont dû se battre contre des obstacles administratifs et assurantiels.",
+        "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/16/1ffd2c3ad7aff1f9ded0ee53330a6b97030424de6eb35fe7868395da40b02f3c.jpg",
+        "publishedAt": "2026-11-16T20:46:23.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "ac68725a15e",
+        "title": "Cinq pays de l'UE dévoilent leur projet de centre pour migrants au Rwanda",
+        "link": "https://www.lexpress.fr/monde/europe/cinq-pays-de-lue-devoilent-leur-projet-de-centre-pour-migrants-au-rwanda-PSF4X3ATCFEMLLWUPF4CPK2JXY/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/ROMZMUHKJJAZ5IRAB7FDDOCJKM.JPG?auth=a5686acb715e8dcf5f415fb4b8d87cc21c6cddee539e8e5502fce54d7ce90b35&smart=true&width=5277&height=3518",
+        "publishedAt": "2026-11-16T19:07:54.000Z",
+        "source": "L'Express",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1
+      },
+      {
+        "id": "a3251fd2f3e",
+        "title": "Pierre Ménès face à la justice : « On ne m’a jamais donné de limites », le sexisme en coulisses du Canal Football Club",
+        "link": "https://www.humanite.fr/feminisme/feminisme/pierre-menes-face-a-la-justice-on-ne-ma-jamais-donne-de-limites-le-sexisme-en-coulisses-du-canal-football-club",
+        "summary": "L’ancien chroniqueur de Canal + comparaissait ce lundi 16 novembre devant le tribunal correctionnel de Nanterre pour des faits de « harcèlement et d’atteintes sexuelles » sur trois femmes. Une affaire née des révélations du documentaire de Marie Portolano, qui avait pointé le sexisme dans les rédact",
+        "image": "https://www.humanite.fr/wp-content/uploads/2026/11/AFP_D7LL2AU-2.jpg?w=1200",
+        "publishedAt": "2026-11-16T18:53:42.000Z",
+        "source": "L'Humanité",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -2
+      },
+      {
+        "id": "a52f1b05de4",
+        "title": "Mélenchon «chtarbé», Rima Hassan «des trous d’air dans le keffieh»... Le chanteur Pierre Perret se lâche sur les Insoumis",
+        "link": "https://www.lejdd.fr/politique/melenchon-chtarbe-rima-hassan-des-trous-dair-dans-le-keffieh-le-chanteur-pierre-perret-se-lache-sur-les-insoumis-188898",
+        "summary": "Dans son titre « Les Antisémites » paru la semaine dernière, le chanteur de 92 ans se moque du chef de file des Insoumis et de plusieurs figures du parti.",
+        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/16/18/076_chlflo_024983.jpg?VersionId=DHaWbbIKMifN_4ok2jf2mQcsf1B_gzzR",
+        "publishedAt": "2026-11-16T17:26:40.000Z",
+        "source": "Le JDD",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
+      }
+    ],
+    "monde": [
+      {
+        "id": "a771bc90d33",
+        "title": "United Airlines says ‘widespread’ system outage resolved",
+        "link": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+        "summary": "Airline acknowledges ‘technology issue that delayed flight departures’ in latest high-profile outage to affect Americans United ⁠Airlines said on ⁠Monday ⁠that it had resolved ⁠a widespread system ⁠outage, just three days after the Federal ⁠Aviation Administration issued a rare nationwide ground sto",
+        "image": "https://i.guim.co.uk/img/media/eb6b6150bca60af4894ce9e3f598b0ea8d74e90c/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=28983698125cd7b39a7adedf7e96dd07",
+        "publishedAt": "2026-11-16T23:26:23.000Z",
+        "source": "The Guardian",
+        "lang": "en",
+        "country": "GB",
+        "lean": -1.5
+      },
+      {
+        "id": "a8d5a143784",
+        "title": "Five EU countries announce migrant deportation centre in Rwanda",
+        "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+        "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
+        "publishedAt": "2026-11-16T23:20:45.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      },
+      {
+        "id": "a9d68249016",
+        "title": "5:0 gegen Niederlande: Deutschland im Viertelfinale der Nations League",
+        "link": "https://www.sportschau.de/fussball/nationalmannschaft/klopp-setzt-auf-schlotterbeck-und-brown,deutschland-niederlande-spielbericht-102.html",
+        "summary": "Die deutsche Nationalmannschaft hat mit einem rauschhaften Auftritt die Niederlande klar besiegt und den Gruppensieg in der Nations League eingefahren. Damit zieht sie ins Viertelfinale ein.",
+        "image": "https://images.sportschau.de/image/787e000b-97ba-497c-b521-f43062e12f8d/AAABoeZIVHw/AAABnSSvrFg/16x9-big/scherhant-brown-100.jpg?width=1920",
+        "publishedAt": "2026-11-16T21:35:02.000Z",
+        "source": "Tagesschau",
+        "lang": "de",
+        "country": "DE",
+        "lean": 0
+      },
+      {
+        "id": "aa29c233ccd",
+        "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+        "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a51/live/78372760-e180-11f1-9386-1b849272ca8f.jpg",
+        "publishedAt": "2026-11-16T20:16:15.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      },
+      {
+        "id": "accefa2bd2e",
+        "title": "The Guardian view on Europe and Burnham: a future that can only be viewed through a glass darkly | Editorial",
+        "link": "https://www.theguardian.com/commentisfree/2026/nov/16/the-guardian-view-on-europe-and-burnham-a-future-that-can-only-be-viewed-through-a-glass-darkly",
+        "summary": "Predicting a final destination for reset negotiations between the EU and the UK is futile, given the wider challenges that Brussels is facing At the European Political Community summit in Dublin last week, Emmanuel Macron was pictured apparently waving a grinning Andy Burnham to a seat at the head o",
+        "image": "https://i.guim.co.uk/img/media/acf9d98dec4c22462c0258419bc2b28e3a45da43/1226_0_3651_2920/master/3651.jpg?width=140&quality=85&auto=format&fit=max&s=56fbb4db05cc1bda06981fcd22b23094",
+        "publishedAt": "2026-11-16T18:37:44.000Z",
+        "source": "The Guardian",
+        "lang": "en",
+        "country": "GB",
+        "lean": -1.5
+      },
+      {
+        "id": "a6180f0403e",
+        "title": "Wall Street slides as Nvidia casts shadow over tech stocks",
+        "link": "https://www.telegraph.co.uk/business/2026/11/16/nvidia-stocks-asia-us-anthropic-tech-trump-ftse-100-markets1/",
+        "summary": "Wall Street slides as Nvidia casts shadow over tech stocks",
+        "image": "https://www.telegraph.co.uk/content/dam/business/2026/11/16/TELEMMGLPICT000511881903_17948511916530_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+        "publishedAt": "2026-11-16T17:54:34.000Z",
+        "source": "The Telegraph",
+        "lang": "en",
+        "country": "GB",
+        "lean": 1.5
+      },
+      {
+        "id": "a958d7fb3fb",
+        "title": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race",
+        "link": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766?maca=en-rss-en-world-4025-rdf",
+        "summary": "The controversy surrounding Nvidia and its former CEO Jensen Huang has put a spotlight on the intensifying AI race between the US and China.",
+        "image": null,
+        "publishedAt": "2026-11-16T16:32:00.000Z",
+        "source": "Deutsche Welle",
+        "lang": "en",
+        "country": "DE",
+        "lean": 0
+      },
+      {
+        "id": "a1167f355c9",
+        "title": "Retrial date set for Lindsay Clancy over killing of her three children",
+        "link": "https://news.sky.com/story/lindsay-clancy-retrial-date-set-over-killing-of-her-three-children-13612927",
+        "summary": "Lindsay Clancy is due to face a retrial next March over the killing of her three young children.",
+        "image": "https://e3.365dm.com/26/11/1920x1080/skynews-lindsay-clancy-clancy-retrial_7407912.jpg?20261116161612",
+        "publishedAt": "2026-11-16T16:20:00.000Z",
+        "source": "Sky News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0.5
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "franceinfo (FR)",
+      "url": "https://www.francetvinfo.fr/france.rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Monde (FR)",
+      "url": "https://www.lemonde.fr/rss/une.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Figaro (FR)",
+      "url": "https://www.lefigaro.fr/rss/figaro_actualites-a-la-une.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Libération (FR)",
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Ouest-France (FR)",
+      "url": "https://www.ouest-france.fr/rss/une",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "La Croix (FR)",
+      "url": "https://www.la-croix.com/RSS",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "L'Express (FR)",
+      "url": "https://www.lexpress.fr/rss/alaune.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Parisien (FR)",
+      "url": "https://feeds.leparisien.fr/leparisien/rss",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "L'Humanité (FR)",
+      "url": "https://www.humanite.fr/feed",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Valeurs actuelles (FR)",
+      "url": "https://www.valeursactuelles.com/feed",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le JDD (FR)",
+      "url": "https://www.lejdd.fr/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "BBC News (GB)",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "BBC News (GB)",
+      "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Guardian (GB)",
+      "url": "https://www.theguardian.com/world/rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Guardian (GB)",
+      "url": "https://www.theguardian.com/world/france/rss",
+      "ok": true,
+      "count": 2
+    },
+    {
+      "name": "The Telegraph (GB)",
+      "url": "https://www.telegraph.co.uk/rss.xml",
+      "ok": true,
+      "count": 5
+    },
+    {
+      "name": "Sky News (GB)",
+      "url": "https://feeds.skynews.com/feeds/rss/world.xml",
+      "ok": true,
+      "count": 7
+    },
+    {
+      "name": "Deutsche Welle (DE)",
+      "url": "https://rss.dw.com/rdf/rss-en-world",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Tagesschau (DE)",
+      "url": "https://www.tagesschau.de/index~rss2.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Der Spiegel (DE)",
+      "url": "https://www.spiegel.de/international/index.rss",
+      "ok": true,
+      "count": 1
+    },
+    {
+      "name": "NPR (US)",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "ok": true,
+      "count": 6
+    },
+    {
+      "name": "The New York Times (US)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Washington Post (US)",
+      "url": "https://feeds.washingtonpost.com/rss/world",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Wall Street Journal (US)",
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Fox News (US)",
+      "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Politico Europe (BE)",
+      "url": "https://www.politico.eu/feed/",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "ABC News (Australie) (AU)",
+      "url": "https://www.abc.net.au/news/feed/2942460/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Al Jazeera (QA)",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Times of Israel (IL)",
+      "url": "https://www.timesofisrael.com/feed/",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "Daily Sabah (TR)",
+      "url": "https://www.dailysabah.com/rssFeed/10",
+      "ok": true,
+      "count": 5
+    },
+    {
+      "name": "The Times of India (IN)",
+      "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Hindu (IN)",
+      "url": "https://www.thehindu.com/news/international/feeder/default.rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Japan Times (JP)",
+      "url": "https://www.japantimes.co.jp/feed/",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Straits Times (SG)",
+      "url": "https://www.straitstimes.com/news/world/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "South China Morning Post (HK)",
+      "url": "https://www.scmp.com/rss/91/feed",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "El País (ES)",
+      "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "ANSA (IT)",
+      "url": "https://www.ansa.it/sito/ansait_rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Soir (BE)",
+      "url": "https://www.lesoir.be/rss/81853/cible_principale_gratuit",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "France 24 (FR)",
+      "url": "https://www.france24.com/fr/rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "RFI (FR)",
+      "url": "https://www.rfi.fr/fr/rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Euronews (FR)",
+      "url": "https://fr.euronews.com/rss?format=mrss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Monde (International) (FR)",
+      "url": "https://www.lemonde.fr/international/rss_full.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Africanews (FR)",
+      "url": "https://www.africanews.com/feed/rss",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "Jeune Afrique (FR)",
+      "url": "https://www.jeuneafrique.com/feed/",
+      "ok": true,
+      "count": 8
+    }
+  ],
+  "meteo": {
+    "ok": false,
+    "city": "Montaigu-Vendée",
+    "source": "Open-Meteo",
+    "sourceUrl": "https://open-meteo.com/en/docs",
+    "fetchedAt": null
+  },
+  "carburants": {
+    "ok": false,
+    "prices": [],
+    "best": {},
+    "stationsVerifiees": 0,
+    "source": "prix-carburants.gouv.fr",
+    "sourceUrl": "https://www.prix-carburants.gouv.fr/rubrique/opendata/"
+  },
+  "culture": [
+    {
+      "title": "Océanissime Nantes 2026",
+      "discipline": "Peinture, gravure, photographie et sculpture",
+      "artist": "Seize membres de l’Académie des Arts et Sciences de la Mer",
+      "city": "Nantes",
+      "venue": "Maison de la Mer, 54 quai de la Fosse",
+      "start": "2026-11-07",
+      "end": "2026-11-22",
+      "details": "Plus de cent œuvres ; entrée gratuite. Horaires détaillés sur le site de Nantes Métropole.",
+      "source": "Nantes Métropole",
+      "sourceUrl": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/45675254_exposition-oceanissime-nantes-2026",
+      "image": null
+    },
+    {
+      "title": "La figure de l’héroïne",
+      "discipline": "Peinture et histoire de l’art",
+      "artist": "Exposition consacrée aux représentations féminines du XIXe siècle",
+      "city": "La Roche-sur-Yon",
+      "venue": "Musée – Espace Malraux",
+      "start": "2026-11-03",
+      "end": "2027-02-07",
+      "details": "Exposition temporaire. Vérifier les horaires d’ouverture avant la visite.",
+      "source": "Ville de La Roche-sur-Yon",
+      "sourceUrl": "https://larochesuryon.fr/actualites/les-heroines-du-xixe-siecle-sexposent-a-la-roche/",
+      "image": {
+        "url": "https://larochesuryon.fr/app/uploads/2026/11/IMG_8828-scaled.jpg",
+        "credit": "Ville de La Roche-sur-Yon",
+        "link": "https://larochesuryon.fr/actualites/les-heroines-du-xixe-siecle-sexposent-a-la-roche/"
+      }
+    }
+  ],
+  "history": [],
+  "checks": {
+    "actualites": true,
+    "meteo": false,
+    "carburants": false
+  }
+}
