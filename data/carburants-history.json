@@ -1,0 +1,20 @@
+{
+  "weeks": [
+    {
+      "week": "2026-11-16",
+      "measuredOn": "2026-11-16",
+      "gazole": 2.163,
+      "e10": 2.003,
+      "sp95": 2.073,
+      "sp98": 2.116,
+      "e85": 0.898,
+      "gpl": 1.08,
+      "stations": 9831
+    }
+  ],
+  "updated": "2026-11-16T08:47:19.455Z",
+  "scope": "France entière : moyenne des stations",
+  "unit": "€/L",
+  "source": "prix-carburants.gouv.fr",
+  "sourceUrl": "https://www.prix-carburants.gouv.fr/rubrique/opendata/"
+}
