@@ -1,0 +1,1400 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T09:49:26.551Z",
+  "status": "complète",
+  "stories": {
+    "france": [
+      {
+        "id": "s8c8aa21a5b",
+        "topic": "justice",
+        "title": "Gérard Depardieu renonce à faire appel de sa condamnation",
+        "context": "En mai 2025, l'acteur Gérard Depardieu avait été condamné en première instance à dix-huit mois de prison avec sursis pour des agressions sexuelles commises sur deux femmes lors d'un tournage en 2021. Un procès en appel devait se tenir à partir du 16 novembre.",
+        "summary": "L'acteur Gérard Depardieu a publiquement annoncé qu'il renonçait à faire appel de sa condamnation pour agressions sexuelles. Dans un communiqué officiel, l'artiste indique assumer la décision rendue par la justice. Il adresse également ses excuses profondes et sincères aux personnes qui ont pu souffrir de ses actes. Ce désistement rend sa peine de dix-huit mois de prison avec sursis définitive.",
+        "plain": "EN CLAIR : Gérard Depardieu a décidé d'abandonner son recours en justice et d'accepter sa peine pour agressions sexuelles. Il a également présenté ses excuses aux victimes, ce qui met un terme définitif à ce dossier judiciaire.",
+        "chart": null,
+        "stakes": [
+          "Quelles seront les conséquences de cette décision sur le versement d'éventuels dommages aux victimes ?",
+          "Comment l'industrie du cinéma va-t-elle réagir à la confirmation définitive de la condamnation ?",
+          "Quel impact cette issue aura-t-elle sur les autres dossiers visant le secteur culturel ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Gérard Depardieu renonce à faire appel et « assume » sa condamnation pour agressions sexuelles",
+            "link": "https://www.lemonde.fr/societe/article/2026/11/16/gerard-depardieu-renonce-a-faire-appel-et-assume-sa-condamnation-pour-agressions-sexuelles_6811634_3224.html",
+            "publishedAt": "2026-11-16T08:30:29.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "Gérard Depardieu présente ses «excuses» et se désiste de son procès en appel pour agressions sexuelles",
+            "link": "https://www.liberation.fr/societe/police-justice/gerard-depardieu-presente-ses-excuses-et-se-desiste-de-son-proces-en-appel-pour-agressions-sexuelles-20261116_FWKCUOQJPFBMRBMIQFQAZE56PE/",
+            "publishedAt": "2026-11-16T08:25:01.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "Agressions sexuelles : Depardieu se désiste de son procès en appel et présente ses « excuses »",
+            "link": "https://www.ouest-france.fr/cinema/gerard-depardieu/agressions-sexuelles-depardieu-se-desiste-de-son-proces-en-appel-et-presente-ses-excuses-2e36ed20-e19a-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-16T08:54:47.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "Condamné pour agression sexuelle, Gérard Depardieu se désiste de son procès en appel et présente ses « excuses »",
+            "link": "https://www.ouest-france.fr/cinema/gerard-depardieu/condamne-pour-agression-sexuelle-gerard-depardieu-se-desiste-de-son-proces-en-appel-et-presente-ses-excuses-f46cb3fe-e194-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-16T08:54:24.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/13/595/0/5042/2521/644/322/60/0/0c8be8a_ftp-1-fdf44wlj1kxp-afp-d7cx49g.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/societe/article/2026/11/16/gerard-depardieu-renonce-a-faire-appel-et-assume-sa-condamnation-pour-agressions-sexuelles_6811634_3224.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Gérard Depardieu drops appeal against conviction",
+            "context": "In May 2025, actor Gérard Depardieu was sentenced in the first instance to an eighteen-month suspended prison term for sexual assaults committed against two women during the filming of a movie in 2021. An appeal trial was scheduled to start on November 16.",
+            "summary": "Actor Gérard Depardieu has publicly announced that he is dropping his appeal against his conviction for sexual assault. In an official statement, the artist indicated that he accepts the court's decision. He also offered deep and sincere apologies to anyone who may have suffered from his actions. This withdrawal makes his eighteen-month suspended prison sentence final.",
+            "plain": "IN SHORT: Gérard Depardieu has decided to drop his legal appeal and accept his sentence for sexual assault. He also apologized to the victims, which definitively brings this judicial case to a close.",
+            "stakes": [
+              "What will be the consequences of this decision on the payment of potential damages to the victims?",
+              "How will the film industry react to the definitive confirmation of the conviction?",
+              "What impact will this outcome have on other cases targeting the cultural sector?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Gérard Depardieu renuncia a apelar su condena",
+            "context": "En mayo de 2025, el actor Gérard Depardieu había sido condenado en primera instancia a dieciocho meses de prisión condicional por agresiones sexuales cometidas contra dos mujeres durante un rodaje en 2021. Un juicio de apelación debía celebrarse a partir del 16 de noviembre.",
+            "summary": "El actor Gérard Depardieu anunció públicamente que renuncia a apelar su condena por agresiones sexuales. En un comunicado oficial, el artista indicó que asume la decisión dictada por la justicia. Asimismo, expresó sus profundas y sinceras disculpas a las personas que hayan podido sufrir por sus actos. Esta retirada hace que su condena de dieciocho meses de prisión condicional sea firme.",
+            "plain": "EN CLARO: Gérard Depardieu decidió abandonar su recurso judicial y aceptar su condena por agresiones sexuales. También presentó sus disculpas a las víctimas, lo que pone fin de manera definitiva a este expediente judicial.",
+            "stakes": [
+              "¿Cuáles serán las consecuencias de esta decisión sobre el pago de posibles indemnizaciones a las víctimas?",
+              "¿Cómo reaccionará la industria cinematográfica ante la confirmación definitiva de la condena?",
+              "¿Qué impacto tendrá este desenlace en otros casos que afectan al sector cultural?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s46bd6f0855",
+        "topic": "societe",
+        "title": "Réouverture du lycée de Nantes et restrictions de rassemblements",
+        "context": "Au début du mois d'octobre, le lycée Nelson-Mandela de Nantes a été partiellement détruit par un incendie survenu en marge de mouvements de protestation. À Paris, les tensions autour de plusieurs établissements scolaires ont mené à des décisions administratives de restriction.",
+        "summary": "Six semaines après les dégradations causées par les flammes, environ 1 700 élèves ont pu réintégrer le lycée Nelson-Mandela ce lundi 16 novembre. La venue sur place du ministre de l'Éducation, Édouard Geffray, a été accueillie par les huées de plusieurs dizaines de lycéens alors que les travaux de réparation se poursuivent. En Île-de-France, la préfecture de police a interdit tout rassemblement aux abords de dix lycées et cinq sites universitaires jusqu'à vendredi. Le syndicat étudiant Unef a immédiatement contesté cette mesure préfectorale devant le tribunal administratif.",
+        "plain": "EN CLAIR : Les élèves du lycée Nelson-Mandela de Nantes ont pu reprendre les cours dans leur établissement partiellement réparé après un incendie. En parallèle, les autorités parisiennes ont interdit les rassemblements devant plusieurs établissements, une décision contestée par un syndicat étudiant.",
+        "chart": null,
+        "stakes": [
+          "Comment la justice administrative va-t-elle trancher le recours déposé contre l'arrêté de la préfecture de police ?",
+          "Quel sera l'impact des mesures de restriction sur le droit de manifestation des élèves et étudiants ?",
+          "Quel est le calendrier prévu pour la remise en état complète du lycée nantais ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "TÉMOIGNAGE. \"Je suis content de retourner en cours\" : à Nantes, le lycée Nelson Mandela rouvre ses portes, six semaines après l'incendie qui a touché l'établissement",
+            "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/je-suis-content-de-retourner-en-cours-a-nantes-le-lycee-nelson-mandela-rouvre-ses-portes-six-semaines-apres-l-incendie-qui-a-touche-l-etablissement_8284331.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-16T07:20:19.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde",
+            "title": "Mobilisations lycéennes : les cours reprennent au lycée Nelson-Mandela de Nantes, incendié en octobre",
+            "link": "https://www.lemonde.fr/campus/article/2026/11/16/mobilisations-lyceennes-les-cours-reprennent-au-lycee-nelson-mandela-de-nantes-incendie-debut-octobre_6811675_4401467.html",
+            "publishedAt": "2026-11-16T09:14:57.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "EN DIRECT – Mobilisation lycéenne et étudiante : les rassemblements interdits autour de certains établissements en Ile-de-France",
+            "link": "https://www.liberation.fr/societe/education/en-direct-mobilisation-lyceenne-et-etudiante-les-rassemblements-interdits-autour-de-certains-etablissements-a-paris-20261116_3RW4TCVB55DSVFMBCL27WKJSEU/",
+            "publishedAt": "2026-11-16T08:55:30.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "Nantes : incendié il y a plus d’un mois, le lycée Nelson-Mandela rouvre partiellement ses portes",
+            "link": "https://www.liberation.fr/societe/education/nantes-incendie-il-y-a-plus-dun-mois-le-lycee-nelson-mandela-rouvre-partiellement-ses-portes-20261116_AGXJI5NL6VAPPALXLSSH6LV45Y/",
+            "publishedAt": "2026-11-16T07:11:31.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Paris : interdiction de rassemblement autour de certains lycées et universités",
+            "link": "https://www.la-croix.com/paris-interdiction-de-rassemblement-autour-de-certains-lycees-et-universites-20261115",
+            "publishedAt": "2026-11-16T06:08:49.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/R7_ntpCytiGz8EYzBXfNFkqJRcM/0x319:8256x4963/432x243/filters:format(jpg)/2026/11/16/6afaaaae81ed4808888492.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/je-suis-content-de-retourner-en-cours-a-nantes-le-lycee-nelson-mandela-rouvre-ses-portes-six-semaines-apres-l-incendie-qui-a-touche-l-etablissement_8284331.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Reopening of the Nantes high school and gathering restrictions",
+            "context": "At the beginning of October, the Nelson-Mandela high school in Nantes was partially destroyed by a fire that broke out on the sidelines of protest movements. In Paris, tensions surrounding several educational institutions led to administrative restriction decisions.",
+            "summary": "Six weeks after the damage caused by the flames, approximately 1,700 students were able to return to the Nelson-Mandela high school this Monday, November 16. The visit to the site by Education Minister Édouard Geffray was met with jeers from dozens of high school students while repair work continues. In the Île-de-France region, the police prefecture banned all gatherings around ten high schools and five university sites until Friday. The Unef student union immediately challenged this prefectural measure before the administrative court.",
+            "plain": "IN SHORT: Students at the Nelson-Mandela high school in Nantes were able to resume classes in their partially repaired facility following a fire. At the same time, Paris authorities banned gatherings in front of several establishments, a decision contested by a student union.",
+            "stakes": [
+              "How will the administrative court rule on the appeal filed against the police prefecture's decree?",
+              "What will be the impact of the restriction measures on the right of students to demonstrate?",
+              "What is the scheduled timeline for the complete restoration of the high school in Nantes?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Reapertura del instituto de Nantes y restricciones de reuniones",
+            "context": "A principios de octubre, el instituto Nelson-Mandela de Nantes fue parcialmente destruido por un incendio ocurrido al margen de movimientos de protesta. En París, las tensiones en torno a varios centros educativos condujeron a decisiones administrativas de restricción.",
+            "summary": "Seis semanas después de los daños causados por las llamas, unos 1.700 alumnos pudieron reincorporarse al instituto Nelson-Mandela este lunes 16 de noviembre. La visita al lugar del ministro de Educación, Édouard Geffray, fue recibida con abucheos por parte de decenas de estudiantes de secundaria mientras continúan las obras de reparación. En la región de Île-de-France, la prefectura de policía prohibió cualquier concentración en las inmediaciones de diez institutos y cinco campus universitarios hasta el viernes. El sindicato estudiantil Unef impugnó inmediatamente esta medida prefectoral ante el tribunal administrativo.",
+            "plain": "EN CLARO: Los alumnos del instituto Nelson-Mandela de Nantes pudieron retomar las clases en su centro parcialmente reparado tras un incendio. Paralelamente, las autoridades parisienses prohibieron las concentraciones frente a varios establecimientos, una decisión cuestionada por un sindicato estudiantil.",
+            "stakes": [
+              "¿Cómo resolverá la justicia administrativa el recurso presentado contra el decreto de la prefectura de policía?",
+              "¿Cuál será el impacto de las medidas de restricción sobre el derecho de manifestación de los alumnos y estudiantes?",
+              "¿Cuál es el calendario previsto para la completa restauración del instituto de Nantes?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s750e69ddf8",
+        "topic": "politique",
+        "title": "Position de Marine Le Pen sur l'aide française à l'Ukraine",
+        "context": "L'enquête annuelle « Fractures françaises » vient d'être publiée pour mesurer le climat politique et les attentes des citoyens. Dans ce cadre, les responsables politiques précisent leurs orientations stratégiques en vue de l'échéance présidentielle de 2027.",
+        "summary": "La candidate du Rassemblement national Marine Le Pen a réaffirmé sa volonté de mettre fin aux aides accordées par la France à l'Ukraine. Elle accepte ainsi l'idée de stopper le soutien financier et militaire français envers ce pays en guerre. La responsable politique doit rencontrer l'ambassadeur ukrainien lors d'un entretien confidentiel. Cette prise de position intervient après les critiques d'Emmanuel Macron ciblant ceux qui souhaitent imposer une paix injuste au gouvernement ukrainien.",
+        "plain": "EN CLAIR : Marine Le Pen a confirmé qu'elle souhaitait stopper l'aide financière et militaire de la France à l'Ukraine si elle est élue. Cette position suscite de vives réactions au moment où les débats pour l'élection présidentielle de 2027 s'intensifient.",
+        "chart": null,
+        "stakes": [
+          "Quelles seraient les conséquences diplomatiques pour la France en cas d'arrêt de l'aide à l'Ukraine ?",
+          "Comment la position sur le conflit ukrainien va-t-elle peser dans les débats de la campagne de 2027 ?",
+          "Quelle réponse la diplomatie ukrainienne apportera-t-elle aux propositions du Rassemblement national ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "EN DIRECT, présidentielle 2027 : posez vos questions à notre journaliste politique après la publication de la nouvelle enquête « Fractures françaises »",
+            "link": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-presidentielle-2027-decouvrez-les-enseignements-de-la-nouvelle-enquete-fractures-francaises-une-grande-etude-sur-l-etat-d-esprit-des-francais-a-cinq-mois-de-l-election_6811633_6205049.html",
+            "publishedAt": "2026-11-16T08:00:05.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde",
+            "title": "Présidentielle 2027 : Marine Le Pen assume sa volonté d’abandonner l’Ukraine en mettant fin aux aides françaises",
+            "link": "https://www.lemonde.fr/politique/article/2026/11/16/presidentielle-2027-marine-le-pen-assume-sa-volonte-d-abandonner-l-ukraine-en-mettant-fin-aux-aides-francaises_6811338_823448.html",
+            "publishedAt": "2026-11-16T04:30:00.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/09/10/344/0/3008/1504/644/322/60/0/cb7c208_upload-1-58spdx0zo0hf-frame-1405.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-presidentielle-2027-decouvrez-les-enseignements-de-la-nouvelle-enquete-fractures-francaises-une-grande-etude-sur-l-etat-d-esprit-des-francais-a-cinq-mois-de-l-election_6811633_6205049.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Marine Le Pen's position on French aid to Ukraine",
+            "context": "The annual \"French Fractures\" survey has just been published to measure the political climate and citizens' expectations. In this context, political leaders are clarifying their strategic orientations ahead of the 2027 presidential election.",
+            "summary": "National Rally candidate Marine Le Pen has reaffirmed her desire to put an end to the aid granted by France to Ukraine. She thus accepts the idea of stopping French financial and military support for this war-torn country. The political leader is scheduled to meet the Ukrainian ambassador in a confidential interview. This stance comes after criticisms from Emmanuel Macron targeting those who wish to impose an unjust peace on the Ukrainian government.",
+            "plain": "IN SHORT: Marine Le Pen has confirmed that she wants to stop France's financial and military aid to Ukraine if she is elected. This position has sparked sharp reactions as debates for the 2027 presidential election intensify.",
+            "stakes": [
+              "What would the diplomatic consequences be for France if aid to Ukraine were halted?",
+              "How will the position on the Ukrainian conflict weigh in the debates of the 2027 campaign?",
+              "What response will Ukrainian diplomacy provide to the National Rally's proposals?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Postura de Marine Le Pen sobre la ayuda francesa a Ucrania",
+            "context": "La encuesta anual «Fracturas francesas» acaba de ser publicada para medir el clima político y las expectativas de los ciudadanos. En este contexto, los responsables políticos detallan sus orientaciones estratégicas de cara a las elecciones presidenciales de 2027.",
+            "summary": "La candidata de Agrupación Nacional, Marine Le Pen, reafirmó su voluntad de poner fin a las ayudas concedidas por Francia a Ucrania. De este modo, acepta la idea de detener el apoyo financiero y militar francés a este país en guerra. Está previsto que la dirigente política se reúna con el embajador ucraniano en una entrevista confidencial. Esta toma de postura se produce tras las críticas de Emmanuel Macron dirigidas a quienes desean imponer una paz injusta al gobierno ucraniano.",
+            "plain": "EN CLARO: Marine Le Pen confirmó que desea detener la ayuda financiera y militar de Francia a Ucrania si es elegida. Esta postura suscita vivas reacciones en un momento en que se intensifican los debates para las elecciones presidenciales de 2027.",
+            "stakes": [
+              "¿Cuáles serían las consecuencias diplomáticas para Francia en caso de cese de la ayuda a Ucrania?",
+              "¿Cómo pesará la postura sobre el conflicto ucraniano en los debates de la campaña de 2027?",
+              "¿Qué respuesta ofrecerá la diplomacia ucraniana a las propuestas de Agrupación Nacional?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sb2830c6f8e",
+        "topic": "justice",
+        "title": "Procès à Marseille du triple homicide lié au narcotrafic",
+        "context": "En 2020, un triple homicide commis à Marseille a coûté la vie à trois personnes sur fond d'affrontements entre réseaux de trafic de stupéfiants. Parmi les victimes figurait le frère aîné d'Amine Kessaci, une figure engagée dans la lutte contre le narcotrafic.",
+        "summary": "Cinq hommes comparaissent devant la justice pour leur participation à ce triple règlement de comptes. Les débats judiciaires ont illustré la gravité des guerres de territoire opposant les groupes de trafiquants dans la cité phocéenne. L'audience a été marquée par des aveux inattendus de la part d'accusés au cours de la procédure. La décision rendue par le tribunal doit venir clore ce procès très suivi sur le narcotrafic.",
+        "plain": "EN CLAIR : La justice examine l'affaire du meurtre en 2020 de trois hommes à Marseille, dont le frère du militant Amine Kessaci. Ce procès met en lumière la violence des affrontements entre réseaux de drogue dans la ville.",
+        "chart": null,
+        "stakes": [
+          "Quelles peines la justice prononcera-t-elle à l'encontre des cinq prévenus ?",
+          "Comment les autorités comptent-elles protéger les militants et familles exposés à ces violences ?",
+          "Quelles mesures seront prises pour endiguer la guerre de territoire entre les réseaux de stupéfiants ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Guerre de territoire, \"barbarie\", aveux surprises... Ce que l'on a appris au procès de l'assassinat du frère d'Amine Kessaci",
+            "link": "https://www.franceinfo.fr/faits-divers/justice-proces/guerre-de-territoire-barbarie-aveux-surprises-ce-que-l-on-a-appris-au-proces-de-l-assassinat-du-frere-d-amine-kessaci_8278823.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-16T05:00:38.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Libération",
+            "title": "Rassemblements interdits autour de lycées franciliens, verdict au procès du narchomicide du demi-frère d’Amine Kessaci, avancée des Houthis au Yémen… L’actu de ce lundi 16 novembre au matin",
+            "link": "https://www.liberation.fr/international/europe/rassemblements-interdits-autour-de-lycees-a-paris-verdict-au-proces-du-narchomicide-du-demi-frere-damine-kessaci-avancee-des-houthis-au-yemen-lactu-de-ce-lundi-16-novembre-au-matin-20261116_5LHQIC7VEZCB7L6I64YBHHM7CM/",
+            "publishedAt": "2026-11-16T06:57:43.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/bMYvhF-e_Wow32o8SPSBU7l7A4o/432x243/filters:format(jpg)/2026/10/28/6ae21f909275a787934568.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/faits-divers/justice-proces/guerre-de-territoire-barbarie-aveux-surprises-ce-que-l-on-a-appris-au-proces-de-l-assassinat-du-frere-d-amine-kessaci_8278823.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Marseille trial for triple homicide linked to drug trafficking",
+            "context": "In 2020, a triple homicide committed in Marseille cost the lives of three people against the backdrop of clashes between drug trafficking networks. Among the victims was the older brother of Amine Kessaci, a figure involved in the fight against drug trafficking.",
+            "summary": "Five men are standing trial for their participation in this triple settling of scores. The judicial proceedings illustrated the gravity of territorial wars opposing trafficking groups in the Phocaean city. The hearing was marked by unexpected confessions from defendants during the procedure. The decision handed down by the court is expected to conclude this highly watched drug trafficking trial.",
+            "plain": "IN SHORT: The justice system is examining the 2020 murder of three men in Marseille, including the brother of activist Amine Kessaci. This trial highlights the violence of clashes between drug networks in the city.",
+            "stakes": [
+              "What sentences will the court hand down against the five defendants?",
+              "How do the authorities intend to protect activists and families exposed to this violence?",
+              "What measures will be taken to stem the territorial war between drug networks?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Juicio en Marsella por el triple homicidio relacionado con el narcotráfico",
+            "context": "En 2020, un triple homicidio cometido en Marsella costó la vida a tres personas en un contexto de enfrentamientos entre redes de tráfico de drogas. Entre las víctimas figuraba el hermano mayor de Amine Kessaci, una figura comprometida en la lucha contra el narcotráfico.",
+            "summary": "Cinco hombres comparecen ante la justicia por su participación en este triple ajuste de cuentas. Los debates judiciales ilustraron la gravedad de las guerras territoriales que oponen a los grupos de traficantes en la ciudad focense. La vista estuvo marcada por confesiones inesperadas por parte de los acusados durante el procedimiento. La decisión dictada por el tribunal debe cerrar este juicio tan seguido sobre el narcotráfico.",
+            "plain": "EN CLARO: La justicia examina el caso del asesinato en 2020 de tres hombres en Marsella, incluido el hermano del activista Amine Kessaci. Este juicio pone de relieve la violencia de los enfrentamientos entre redes de droga en la ciudad.",
+            "stakes": [
+              "¿Qué penas dictará la justicia contra los cinco procesados?",
+              "¿Cómo planean las autoridades proteger a los activistas y familias expuestos a estas violencias?",
+              "¿Qué medidas se adoptarán para frenar la guerra territorial entre las redes de estupefacientes?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sc97cf97244",
+        "topic": "international",
+        "title": "Attaques de drones et exode civil dans la guerre en Ukraine",
+        "context": "Les affrontements militaires entre la Russie et l'Ukraine se poursuivent sur le front oriental et dans l'espace aérien. Ces attaques touchent les infrastructures essentielles ainsi que les populations civiles.",
+        "summary": "La Russie a essuyé une attaque massive de 600 drones dirigés vers la région de Moscou, dont 191 ont été détruits par la défense antiaérienne. Dans la région du Donbass, les récents bombardements de l'armée russe détruisent les équipements et poussent les habitants à l'exil. Face à cette situation militaire critique, le président Volodymyr Zelensky prépare une réunion de la coalition réunissant les pays alliés. Cette rencontre doit permettre de coordonner le soutien international accordé aux forces ukrainiennes.",
+        "plain": "EN CLAIR : Les combats s'intensifient en Ukraine où les bombardements russes forcent de nombreux habitants du Donbass à fuir. Dans le même temps, Moscou a été visée par une attaque importante de drones.",
+        "chart": null,
+        "stakes": [
+          "Comment les pays voisins vont-ils gérer l'afflux d'habitants fuyant la région du Donbass ?",
+          "Quels nouveaux équipements militaires les alliés vont-ils valider lors de la réunion de la coalition ?",
+          "Quelle sera la capacité de la défense antiaérienne russe face à la répétition des attaques de drones ?"
+        ],
+        "sources": [
+          {
+            "name": "Ouest-France",
+            "title": "Ukraine : les bombardements russes accélèrent la fuite des civils de la région de Donetsk",
+            "link": "https://www.ouest-france.fr/europe/ukraine/ukraine-les-bombardements-russes-accelerent-la-fuite-des-civils-de-la-region-de-donetsk-fee79a8a-e0d9-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-16T09:00:19.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Guerre en Ukraine : 600 drones lancés vers Moscou ; les alliés de l’Ukraine prêts à se réunir",
+            "link": "https://www.la-croix.com/international/ukraine-russie-jour-1727-point-conflit-ukrainien-poutine-aujourdhui-20261116",
+            "publishedAt": "2026-11-16T07:03:56.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExNDgwODM1NDA5Yjg1MzVmZGUzZGU2NDYwOWVhZTk0NTk?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=2d099461f97c56bcca218e0c53ba42b54ff0052fd9caff0a32c60b41f4825f8a",
+          "credit": "Ouest-France",
+          "link": "https://www.ouest-france.fr/europe/ukraine/ukraine-les-bombardements-russes-accelerent-la-fuite-des-civils-de-la-region-de-donetsk-fee79a8a-e0d9-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+        },
+        "i18n": {
+          "en": {
+            "title": "Drone attacks and civilian exodus in the war in Ukraine",
+            "context": "Military clashes between Russia and Ukraine continue on the eastern front and in airspace. These attacks target essential infrastructure as well as civilian populations.",
+            "summary": "Russia withstood a massive attack of 600 drones directed at the Moscow region, 191 of which were destroyed by air defense. In the Donbas region, recent bombardments by the Russian army are destroying equipment and pushing residents into exile. Faced with this critical military situation, President Volodymyr Zelensky is preparing a meeting of the coalition bringing together allied countries. This meeting is intended to coordinate international support granted to Ukrainian forces.",
+            "plain": "IN SHORT: Fighting is intensifying in Ukraine, where Russian bombardments are forcing many residents of Donbas to flee. At the same time, Moscow was targeted by a significant drone attack.",
+            "stakes": [
+              "How will neighboring countries manage the influx of residents fleeing the Donbas region?",
+              "What new military equipment will allies approve during the coalition meeting?",
+              "What will be the capacity of Russian air defense in the face of repeated drone attacks?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Ataques de drones y éxodo civil en la guerra en Ucrania",
+            "context": "Los enfrentamientos militares entre Rusia y Ucrania continúan en el frente oriental y en el espacio aéreo. Estos ataques afectan a infraestructuras esenciales así como a las poblaciones civiles.",
+            "summary": "Rusia sufrió un ataque masivo de 600 drones dirigidos hacia la región de Moscú, de los cuales 191 fueron destruidos por la defensa antiaérea. En la región del Dombás, los recientes bombardeos del ejército ruso destruyen los equipos y empujan a los habitantes al exilio. Ante esta situación militar crítica, el presidente Volodímir Zelenski prepara una reunión de la coalición que reúne a los países aliados. Este encuentro debe permitir coordinar el apoyo internacional concedido a las fuerzas ucranianas.",
+            "plain": "EN CLARO: Los combates se intensifican en Ucrania, donde los bombardeos rusos obligan a huir a numerosos habitantes del Dombás. Al mismo tiempo, Moscú fue blanco de un importante ataque de drones.",
+            "stakes": [
+              "¿Cómo gestionarán los países vecinos la afluencia de habitantes que huyen de la región del Dombás?",
+              "¿Qué nuevos equipos militares aprobarán los aliados durante la reunión de la coalición?",
+              "¿Cuál será la capacidad de la defensa antiaérea rusa frente a la repetición de los ataques de drones?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s63a6e66599",
+        "topic": "justice",
+        "title": "Saisie record de cocaïne par la Marine nationale en Atlantique",
+        "context": "La lutte contre le trafic international de stupéfiants s'appuie sur des opérations maritimes menées dans les eaux internationales. Ces interventions nécessitent la coopération entre plusieurs armées et services de renseignement.",
+        "summary": "La Marine nationale française a arraisonné un engin semi-submersible qui transportait plusieurs tonnes de cocaïne dans l'océan Atlantique. L'opération a été conduite avec le concours d'un avion de patrouille maritime et de partenaires internationaux. La ministre Catherine Vautrin s'est félicitée du succès de cette action ciblée contre les réseaux criminels. L'armée française a qualifié cette interdiction d'action inédite en raison des moyens engagés et de la nature du bâtiment intercepté.",
+        "plain": "EN CLAIR : La Marine française a arraisonné un sous-marin artisanal transportant plusieurs tonnes de cocaïne au milieu de l'océan Atlantique. Il s'agit d'une saisie exceptionnelle rendue possible par une coopération internationale.",
+        "chart": null,
+        "stakes": [
+          "Quel est le volume exact de stupéfiants saisis lors de cette opération maritime ?",
+          "Comment les cartels s'adaptent-ils face à l'interception de leurs bâtiments semi-submersibles ?",
+          "Quels nouveaux moyens la Marine nationale va-t-elle déployer pour surveiller les routes transatlantiques ?"
+        ],
+        "sources": [
+          {
+            "name": "Ouest-France",
+            "title": "Un semi-submersible chargé de plusieurs tonnes de cocaïne intercepté par la Marine nationale dans l’océan Atlantique",
+            "link": "https://www.ouest-france.fr/societe/drogue/un-semi-submersible-charge-de-plusieurs-tonnes-de-cocaine-intercepte-par-la-marine-nationale-dans-locean-atlantique-fe079b2c-e18f-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-16T09:01:11.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExZTBhYTk4YTJmMjMyMThmYjI1YjEwNDhjODQ4N2E0NzM?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=c33516f7fe9552fa3a01c597062e5b87acb61462920a3ca7dbe99a1b925df152",
+          "credit": "Ouest-France",
+          "link": "https://www.ouest-france.fr/societe/drogue/un-semi-submersible-charge-de-plusieurs-tonnes-de-cocaine-intercepte-par-la-marine-nationale-dans-locean-atlantique-fe079b2c-e18f-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+        },
+        "i18n": {
+          "en": {
+            "title": "Record cocaine seizure by the French Navy in the Atlantic",
+            "context": "The fight against international drug trafficking relies on maritime operations conducted in international waters. These interventions require cooperation between several navies and intelligence services.",
+            "summary": "The French Navy intercepted a semi-submersible vessel transporting several tons of cocaine in the Atlantic Ocean. The operation was carried out with the assistance of a maritime patrol aircraft and international partners. Minister Catherine Vautrin praised the success of this targeted action against criminal networks. The French military described this interdiction as unprecedented due to the resources engaged and the nature of the intercepted vessel.",
+            "plain": "IN SHORT: The French Navy intercepted an artisanal submarine carrying several tons of cocaine in the middle of the Atlantic Ocean. This is an exceptional seizure made possible by international cooperation.",
+            "stakes": [
+              "What is the exact volume of narcotics seized during this maritime operation?",
+              "How are cartels adapting in the face of the interception of their semi-submersible vessels?",
+              "What new resources will the French Navy deploy to monitor transatlantic routes?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Incautación récord de cocaína por la Marina nacional en el Atlántico",
+            "context": "La lucha contra el tráfico internacional de estupefacientes se apoya en operaciones marítimas llevadas a cabo en aguas internacionales. Estas intervenciones requieren la cooperación entre varias armadas y servicios de inteligencia.",
+            "summary": "La Marina nacional francesa interceptó un artefacto semisumergible que transportaba varias toneladas de cocaína en el océano Atlántico. La operación se llevó a cabo con el concurso de un avión de patrulla marítima y socios internacionales. La ministra Catherine Vautrin se felicitó por el éxito de esta acción selectiva contra las redes criminales. El ejército francés calificó esta interceptación de acción inédita debido a los medios desplegados y a la naturaleza de la embarcación interceptada.",
+            "plain": "EN CLARO: La Marina francesa interceptó un submarino artesanal que transportaba varias toneladas de cocaína en medio del océano Atlántico. Se trata de una incautación excepcional posible gracias a la cooperación internacional.",
+            "stakes": [
+              "¿Cuál es el volumen exacto de estupefacientes incautados durante esta operación marítima?",
+              "¿Cómo se adaptan los cárteles ante la interceptación de sus embarcaciones semisumergibles?",
+              "¿Qué nuevos medios desplegará la Marina nacional para vigilar las rutas transatlánticas?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sfad8d8e4ea",
+        "topic": "international",
+        "title": "Prochain sommet entre la Chine, les États-Unis et la Russie",
+        "context": "La ville de Shenzhen accueille cette semaine le sommet annuel du Forum de coopération économique Asie-Pacifique. Les responsables des grandes puissances mondiales profitent de ce rassemblement pour organiser des échanges bilatéraux et multilatéraux.",
+        "summary": "Les dirigeants chinois Xi Jinping, américain Donald Trump et russe Vladimir Poutine doivent se rencontrer jeudi 19 novembre. Cet entretien trilatéral se déroulera en marge des travaux officiels de la réunion de l'Apec. Les trois chefs d'État prévoient d'échanger sur la situation géopolitique globale et sur les conditions de la paix mondiale. Un tel format de réunion directe entre ces trois puissances constitue une démarche diplomatique particulièrement rare.",
+        "plain": "EN CLAIR : Les dirigeants américain, chinois et russe ont prévu de se réunir en Chine cette semaine. Ils aborderont ensemble les grandes questions liées à la stabilité de la planète.",
+        "chart": null,
+        "stakes": [
+          "Quelles avancées diplomatiques concrètes peuvent découler de cet entretien à trois ?",
+          "Comment ce sommet influencera-t-il les conflits régionaux en cours dans le monde ?",
+          "Quels équilibres économiques seront discutés entre les trois premières puissances mondiales ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Xi, Trump et Poutine : la « paix mondiale » au programme de la rencontre au sommet prévue jeudi",
+            "link": "https://www.la-croix.com/international/xi-trump-et-poutine-la-paix-mondiale-au-programme-de-la-rencontre-au-sommet-prevue-jeudi-20261116",
+            "publishedAt": "2026-11-16T08:06:20.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/16/2590073-une-peinture-de-l-artiste-russe-alexey-sergienko-r.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/international/xi-trump-et-poutine-la-paix-mondiale-au-programme-de-la-rencontre-au-sommet-prevue-jeudi-20261116"
+        }
+      },
+      {
+        "id": "s2124c63302",
+        "topic": "sciences_tech",
+        "title": "Soupçons de contrebande et chute boursière pour Nvidia",
+        "context": "L'entreprise américaine Nvidia fabrique des composants électroniques essentiels au fonctionnement des systèmes d'intelligence artificielle. Les États-Unis contrôlent strictly l'exportation de ces technologies vers certains pays tiers.",
+        "summary": "Le gouvernement américain a réclamé des explications au conseil d'administration du fabricant de puces Nvidia concernant un possible trafic de composants vers la Chine. Le ministre américain des Finances a accordé un délai de dix jours au groupe pour apporter des réponses claires. À la suite de ces accusations, l'entreprise a subi une perte de 500 milliards de dollars de sa valeur boursière. Cette affaire survient au moment où Washington et Pékin négocient sur les règles encadrant les technologies stratégiques.",
+        "plain": "EN CLAIR : L'entreprise Nvidia est soupçonné par le gouvernement américain d'être liée à des ventes illégales de puces électroniques vers la Chine. L'annonce de cette enquête a fait chuter l'action de l'entreprise en bourse.",
+        "chart": null,
+        "stakes": [
+          "Quelles sanctions administratives l'entreprise américaine risque-t-elle de subir ?",
+          "Comment cette enquête affectera-t-elle les discussions sino-américaines sur le secteur de l'IA ?",
+          "Quel impact financier à long terme cette crise aura-t-elle sur l'industrie globale des puces ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Nvidia : le ministre américain des Finances veut savoir si l’entreprise avait connaissance d’une contrebande de puces",
+            "link": "https://www.liberation.fr/international/amerique/nvidia-le-ministre-americain-des-finances-veut-savoir-si-lentreprise-avait-connaissance-dune-contrebande-de-puces-20261116_HGLOLGMT2BFSTFPMHRU5YVCMZA/",
+            "publishedAt": "2026-11-16T08:01:15.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "L'Express",
+            "title": "Affaire Nvidia : comment le scandale d'espionnage chinois pourrait parasiter les négociations entre Donald Trump et Xi Jinping sur l'IA",
+            "link": "https://www.lexpress.fr/monde/amerique/affaire-nvidia-comment-le-scandale-despionnage-chinois-pourrait-parasiter-les-negociations-entre-RPSYVUL4ERDADANCT52NNXDOBU/",
+            "publishedAt": "2026-11-15T13:57:41.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.lexpress.fr/resizer/v2/ZSUIJFP4UBBOBAWVTU7V2ZCJFY.JPG?auth=0e9ae1e909245c5216086711df1d11bf52feaae9beb6d534fa307ca989a5a988&smart=true&width=5500&height=3609",
+          "credit": "L'Express",
+          "link": "https://www.lexpress.fr/monde/amerique/affaire-nvidia-comment-le-scandale-despionnage-chinois-pourrait-parasiter-les-negociations-entre-RPSYVUL4ERDADANCT52NNXDOBU/"
+        }
+      },
+      {
+        "id": "scd8ea36184",
+        "topic": "environnement",
+        "title": "Impacts de la sécheresse sur l'agriculture et l'eau potable",
+        "context": "La sécheresse et la montée des températures mondiales perturbent le cycle de l'eau et les récoltes agricoles en France. Ces phénomènes météorologiques pèsent sur l'approvisionnement des populations et l'alimentation des animaux d'élevage.",
+        "summary": "Les mauvaises conditions climatiques ont causé un net recul des récoltes de maïs sur le territoire français. La production de maïs grain a chuté de 50 % et celle du maïs destiné au fourrage a diminué de plus de 30 %. En Bretagne, la baisse des réserves d'eau potable maintient l'ensemble de la région en niveau d'alerte maximale. Les autorités locales préparent la mise en place d'un plan d'urgence pour sécuriser l'accès à l'eau dans les prochaines semaines.",
+        "plain": "EN CLAIR : La sécheresse touche durement les agriculteurs français qui ont vu leurs récoltes de maïs chuter cette année. Par ailleurs, la manque d'eau potable en Bretagne pourrait contraindre les autorités à déclencher un plan de crise.",
+        "chart": null,
+        "stakes": [
+          "Comment les éleveurs adapteront-ils l'alimentation du bétail face à la baisse des récoltes de maïs ?",
+          "Quelles mesures de restriction supplémentaires seront imposées aux usagers de l'eau en Bretagne ?",
+          "Quelles cultures de substitution devront être développées pour faire face au changement climatique ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Agriculture : la dépendance au maïs percutée par le dérèglement climatique",
+            "link": "https://www.lemonde.fr/economie/article/2026/11/16/le-mais-indispensable-au-modele-agricole-francais-menace-par-le-dereglement-climatique_6811339_3234.html",
+            "publishedAt": "2026-11-16T04:30:00.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "« On se prépare au pire » : faute d’eau potable, la Bretagne sous la menace d’un plan Orsec imminent",
+            "link": "https://www.ouest-france.fr/bretagne/on-se-prepare-au-pire-faute-deau-potable-la-bretagne-sous-la-menace-dun-plan-orsec-imminent-ccaca70a-df7a-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-16T09:20:58.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/13/319/0/8016/4008/644/322/60/0/8809400_upload-1-fqtcde1dj8wk-000-c3v87af.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/economie/article/2026/11/16/le-mais-indispensable-au-modele-agricole-francais-menace-par-le-dereglement-climatique_6811339_3234.html"
+        }
+      },
+      {
+        "id": "sef6d2dd22a",
+        "topic": "sport",
+        "title": "Qualification des Bleus pour les quarts de la Ligue des nations",
+        "context": "L'équipe de France de football dispute la phase de groupes de la Ligue des nations pour tenter de se qualifier pour les phases finales de la compétition.",
+        "summary": "Les joueurs de l'équipe de France ont décroché leur qualification pour les quarts de finale grâce à une victoire 2 à 1 contre la Turquie à Bordeaux. Ce succès permet aux Français d'occuper la première place de leur groupe de qualification. Toutefois, le niveau de jeu proposé par la sélection nationale durant la rencontre est resté poussif. Le sélectionneur Zinédine Zidane prépare désormais la suite de la compétition prévue pour la fin du mois de mars.",
+        "plain": "EN CLAIR : L'équipe de France de football a battu la Turquie 2 à 1 et s'est qualifiée pour les quarts de finale de la Ligue des nations. Bien que la prestation ait été difficile, les Bleus terminent à la première place de leur groupe.",
+        "chart": null,
+        "stakes": [
+          "Quels changements tactiques le sélectionneur apportera-t-il avant la phase finale du mois de mars ?",
+          "Quel adversaire la France affrontera-t-elle lors du tirage au sort des quarts de finale ?",
+          "L'équipe de France parviendra-t-elle à rassurer sur son niveau de jeu collectif lors des prochains matchs ?"
+        ],
+        "sources": [
+          {
+            "name": "Ouest-France",
+            "title": "« Il va falloir que je me creuse la tête... » : les grands chantiers de Zidane avant le retour de l’équipe de France",
+            "link": "https://www.ouest-france.fr/sport/football/equipe-de-france/il-va-falloir-que-je-me-creuse-la-tete-les-grands-chantiers-de-zidane-avant-le-retour-de-lequipe-de-france-e2ebf404-e154-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-16T09:00:25.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Football : les Bleus battent la Turquie et filent en quarts de finale de la Ligue des Nations",
+            "link": "https://www.la-croix.com/ligue-des-nations-des-bleus-poussifs-mais-au-rendez-vous-des-quarts-20261115",
+            "publishedAt": "2026-11-16T07:14:42.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExMDQwYjc5ZDFlNTZkMzBjYTM1ZmIyZTA3YzMxOTY1ZGI?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=2a8d1c1ed9cd9f245341d6293df13668ceda8c746402a7461e7b0bfb2e13f5e2",
+          "credit": "Ouest-France",
+          "link": "https://www.ouest-france.fr/sport/football/equipe-de-france/il-va-falloir-que-je-me-creuse-la-tete-les-grands-chantiers-de-zidane-avant-le-retour-de-lequipe-de-france-e2ebf404-e154-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+        }
+      },
+      {
+        "id": "sba6d37c5d2",
+        "topic": "sciences_tech",
+        "title": "Échec du lancement d'une fusée portant des satellites d'Amazon",
+        "context": "De nombreuses entreprises privées développent des constellations de satellites en orbite pour proposer des services de communication. Ces opérations nécessitent le recours à des fusées de lancement à haut niveau de fiabilité.",
+        "summary": "Le lanceur spatial Vulcan utilisé pour le compte de l'entreprise Amazon a subi un échec lors de son vol du dimanche 15 novembre. La fusée n'a pas réussi à placer en orbite la cargaison qu'elle transportait en raison d'une défaillance technique. Cet incident s'est traduit par la destruction de quarante satellites appartenant au projet de communication du groupe. Ce revers technique entraîne un retard important dans le déploiement du réseau d'Amazon.",
+        "plain": "EN CLAIR : La fusée chargée d'envoyer des satellites pour l'entreprise Amazon a manqué sa mission en raison d'une panne. Une quarantaine de satellites de communication ont été perdus lors de cet accident.",
+        "chart": null,
+        "stakes": [
+          "Quelles sont les causes techniques précises de la panne du lanceur Vulcan ?",
+          "Quel retard cet accident causera-t-il au projet d'accès à Internet par satellite d'Amazon ?",
+          "Comment le marché de la mise en orbite va-t-il réagir à ce nouvel échec commercial ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Course aux satellites : la panne de la fusée Vulcan d’Amazon, un échec historique pour Jeff Bezos",
+            "link": "https://www.liberation.fr/international/amerique/course-aux-satellites-la-panne-de-la-fusee-vulcan-damazon-un-echec-historique-pour-jeff-bezos-20261116_2ERQR2IVPVEUFFCV3HVPBET37Q/",
+            "publishedAt": "2026-11-16T08:17:42.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": null
+      },
+      {
+        "id": "sc890daa80e",
+        "topic": "societe",
+        "title": "Télétravail et emploi des personnes en situation de handicap",
+        "context": "Organisée du 16 au 22 novembre, la Semaine européenne pour l'emploi des personnes handicapées vise à inciter les entreprises à adapter leurs postes de travail.",
+        "summary": "À l'occasion de cet événement, les responsables du secteur rappellent que le handicap au travail dépasse la seule question de la mobilité physique. Le développement du télétravail offre plus de flexibilité mais peut également renforcer l'isolement de certains travailleurs s'il n'est pas encadré. Dans ce contexte, des entreprises de travail temporaire développent des programmes de recrutement spécifiques depuis plusieurs années. Les représentants associatifs insistent sur l'urgence de former les managers pour favoriser l'inclusion professionnelle.",
+        "plain": "EN CLAIR : La Semaine européenne pour l'emploi des personnes handicapées met l'accent sur les transformations du monde du travail. Les spécialistes rappellent que si le télétravail aide de nombreux salariés, il nécessite un accompagnement pour éviter l'isolement.",
+        "chart": null,
+        "stakes": [
+          "Comment les entreprises peuvent-elles éviter le risque d'isolement lié au travail à distance ?",
+          "Quels outils de formation seront mis à disposition des responsables d'équipe ?",
+          "Comment encourager le recrutement des personnes en situation de handicap dans tous les secteurs ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Figaro",
+            "title": "«Plus que jamais, le sujet du handicap ne se résume pas à un fauteuil roulant» : pourquoi il est urgent de former les managers",
+            "link": "https://www.lefigaro.fr/decideurs/management/plus-que-jamais-le-sujet-du-handicap-ne-se-resume-pas-a-un-fauteuil-roulant-pourquoi-il-est-urgent-de-former-les-managers-20261116",
+            "publishedAt": "2026-11-16T09:06:23.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Comment un groupe d’intérim s’est investi dans l’embauche de salariés en situation de handicap",
+            "link": "https://www.la-croix.com/societe/comment-un-groupe-d-interim-sest-investi-dans-lembauche-de-salaries-en-situation-de-handicap-20261116",
+            "publishedAt": "2026-11-16T07:36:53.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "La Croix",
+            "title": "Emploi des personnes handicapées : comment le télétravail a changé la donne",
+            "link": "https://www.la-croix.com/societe/emploi-des-personnes-handicapees-comment-le-teletravail-a-change-la-donne-20261116",
+            "publishedAt": "2026-11-16T07:04:20.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/12/4935a942e37e4c843ef89cd641f59db1ab4eaa6b9c8b0ed18cd956dc32f187e1.jpg",
+          "credit": "Le Figaro",
+          "link": "https://www.lefigaro.fr/decideurs/management/plus-que-jamais-le-sujet-du-handicap-ne-se-resume-pas-a-un-fauteuil-roulant-pourquoi-il-est-urgent-de-former-les-managers-20261116"
+        }
+      },
+      {
+        "id": "s1f66a3bcb7",
+        "topic": "international",
+        "title": "Manifestation d'ampleur à Prague contre la réforme de l'audiovisuel",
+        "context": "Le parlement tchèque examine un projet de réforme modifiant le mode de financement de l'audiovisuel public national.",
+        "summary": "Une manifestation massive a rassemblé environ 400 000 personnes dans les rues de la capitale Prague. Les citoyens entendaient protester contre la suppression programmée de la redevance audiovisuelle qui finance la télévision et la radio publiques. Les manifestants estiment que cette mesure affaiblira l'indépendance des médias publics face aux pressions politiques. Ce mouvement de contestation est présenté comme le plus important rassemblement organisé en République tchèque depuis 1989.",
+        "plain": "EN CLAIR : Près de 400 000 manifestants ont défilé à Prague pour s'opposer à la fin de la redevance audiovisuelle. Ils estiment que ce changement risque de réduire l'indépendance des radios et télévisions publiques.",
+        "chart": null,
+        "stakes": [
+          "Le gouvernement tchèque révisera-t-il son projet de loi sous la pression de la rue ?",
+          "Quel sera le futur mode de financement retenu pour garantir l'indépendance des médias publics ?",
+          "Quel impact cette contestation aura-t-elle sur la stabilité politique du pays ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "A Prague, 400 000 manifestants dénoncent une réforme de l’audiovisuel public tchèque",
+            "link": "https://www.lemonde.fr/international/article/2026/11/16/a-prague-400-000-manifestants-denoncent-une-reforme-de-l-audiovisuel-public-tcheque_6811567_3210.html",
+            "publishedAt": "2026-11-16T06:52:30.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/15/375/0/4500/2250/644/322/60/0/2daab9c_ftp-1-5q9epuiowymm-2026-11-15t133004z-1947864216-rc2cooafpla9-rtrmadp-3-czech-media.JPG",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/international/article/2026/11/16/a-prague-400-000-manifestants-denoncent-une-reforme-de-l-audiovisuel-public-tcheque_6811567_3210.html"
+        }
+      },
+      {
+        "id": "sa3a139e096",
+        "topic": "societe",
+        "title": "Un gain de un million d'euros au Loto toujours pas réclamé",
+        "context": "La réglementation des jeux de tirage impose aux gagnants de réclamer leur lot dans un délai strict après la publication des résultats.",
+        "summary": "Un gain d'un montant de un million d'euros remporté lors du tirage du Loto le 22 septembre dernier n'a toujours pas été réclamé. Le ticket gagnant a été enregistré par un joueur situé dans le département d'Ille-et-Vilaine. L'heureux propriétaire dispose de quelques jours, jusqu'au 20 novembre à 23h59, pour se manifester auprès de la société organisatrice. Une fois cette échéance dépassée, la somme inutilisée sera définitivement perdue pour le vainqueur.",
+        "plain": "EN CLAIR : Un joueur d'Ille-et-Vilaine a gagné un million d'euros au Loto mais ne s'est toujours pas fait connaître. Il a jusqu'au 20 novembre avant minuit pour récupérer son gain sous peine de le perdre définitivement.",
+        "chart": null,
+        "stakes": [
+          "Le gagnant parviendra-t-il à se faire connaître avant l'expiration du délai légal ?",
+          "À quel organisme ou fonds le lot non réclamé sera-t-il affecté en cas d'expiration du délai ?",
+          "Quels dispositifs sont mis en œuvre pour retrouver les gagnants de sommes importantes ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Un million d'euros gagné au Loto... toujours pas réclamé",
+            "link": "https://www.franceinfo.fr/france/bretagne/ille-et-vilaine/un-million-d-euros-gagne-au-loto-toujours-pas-reclame_8283713.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-15T17:00:02.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "franceinfo",
+            "title": "Loto : un million d'euros n'a toujours pas été réclamé, le gagnant a quelques jours pour se manifester",
+            "link": "https://www.franceinfo.fr/societe/loto-un-million-d-euros-n-a-toujours-pas-ete-reclame-le-gagnant-a-quelques-jours-pour-se-manifester_8283584.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-15T13:35:31.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/_CE6lQnYdchYkMZuAESdAfSAaC4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/15/6af9d95eb661a076413424.png",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/france/bretagne/ille-et-vilaine/un-million-d-euros-gagne-au-loto-toujours-pas-reclame_8283713.html#xtor=RSS-3-%5Bfrance%5D"
+        }
+      }
+    ],
+    "monde": [
+      {
+        "id": "sacc0ae9c8b",
+        "topic": "international",
+        "title": "Attaques de drones et frappe sur le pont de Crimée",
+        "context": "Depuis le début du conflit entre la Russie et l'Ukraine, les infrastructures stratégiques et la capitale russe font régulièrement l'objet de tentatives de frappes aériennes. Les liaisons vers les territoires annexés sont particulièrement surveillées.",
+        "summary": "Selon les autorités locales et le ministère de la Défense russe, plusieurs centaines de drones ukrainiens ont été lancés en direction du territoire russe et de la région de Moscou. Les forces russes affirment avoir intercepté la majorité de ces appareils au cours des attaques. Par ailleurs, une frappe a directement touché le pont reliant la Russie à la péninsule de Crimée annexée. Cette action a entraîné des restrictions de la circulation sur cet axe stratégique.",
+        "plain": "EN CLAIR : L'Ukraine a mené une vaste attaque de drones vers Moscou et a endommagé le pont menant à la Crimée. Cette offensive perturbe les transports et illustre l'intensité des combats à distance entre les deux pays.",
+        "chart": null,
+        "stakes": [
+          "Quelles seront les conséquences sur le ravitaillement russe via le pont de Crimée ?",
+          "Comment la défense antiaérienne russe va-t-elle s'adapter à ces attaques massives ?",
+          "Quel sera l'impact de ces frappes sur l'évolution globale du conflit ?"
+        ],
+        "sources": [
+          {
+            "name": "France 24",
+            "title": "Ukraine en direct : 600 drones lancés sur Moscou, le pont de Crimée touché par une frappe",
+            "link": "https://www.france24.com/fr/europe/20261116-ukraine-en-direct-russie-600-drones-lanc%C3%A9s-sur-moscou-maire-capitale",
+            "publishedAt": "2026-11-16T06:38:01.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "EN DIRECT, guerre en Ukraine : le pont reliant la Russie à la Crimée attaqué dans la nuit ; près de 200 drones neutralisés à l’approche de Moscou",
+            "link": "https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-pres-de-200-drones-neutralises-a-l-approche-de-moscou-selon-le-maire-de-la-capitale-russe_6810982_3210.html",
+            "publishedAt": "2026-11-16T05:52:17.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "RFI",
+            "title": "L'Ukraine frappe le pont reliant la Russie à la Crimée annexée par Moscou",
+            "link": "https://www.rfi.fr/fr/europe/20261116-l-ukraine-frappe-le-pont-reliant-la-russie-%C3%A0-la-crim%C3%A9e-annex%C3%A9e-par-moscou",
+            "publishedAt": "2026-11-16T07:42:37.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://s.france24.com/media/display/4a95eebc-e19a-11f1-bc6d-29048b396e03/w:1024/p:16x9/000-D7KG3ZQ.jpg",
+          "credit": "France 24",
+          "link": "https://www.france24.com/fr/europe/20261116-ukraine-en-direct-russie-600-drones-lanc%C3%A9s-sur-moscou-maire-capitale"
+        }
+      },
+      {
+        "id": "s25181e5359",
+        "topic": "international",
+        "title": "Rencontre annoncée entre Xi Jinping, Donald Trump et Vladimir Poutine",
+        "context": "Le sommet de l'APEC, l'organisation de coopération économique Asie-Pacifique, réunit chaque année les dirigeants de la région pour aborder les enjeux économiques et géopolitiques globaux. L'édition actuelle se tient à Shenzhen, en Chine.",
+        "summary": "Une réunion trilatérale inédite doit se dérouler en marge du sommet de l'APEC. Selon les autorités chinoises, les échanges entre les dirigeants chinois, américain et russe porteront principalement sur la paix mondiale. Des responsables américains ont précisé que Washington souhaite aborder la réduction des arsenaux nucléaires. Cette rencontre suscite une grande attention diplomatique internationale.",
+        "plain": "EN CLAIR : Les dirigeants américain, chinois et russe prévoient de se rencontrer en Chine pendant un sommet international. Ils doivent discuter de la sécurité mondiale et du contrôle des armes nucléaires.",
+        "chart": null,
+        "stakes": [
+          "Les trois puissances pourront-elles s'entendre sur une réduction de leurs armements ?",
+          "Quelles avancées économiques émergeront de ce sommet de l'APEC ?",
+          "Comment cette rencontre influencera-t-elle les tensions géopolitiques actuelles ?"
+        ],
+        "sources": [
+          {
+            "name": "NPR",
+            "title": "What to expect from Trump and Xi's upcoming meeting in China",
+            "link": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
+            "publishedAt": "2026-11-15T22:11:26.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "France 24",
+            "title": "La \"paix mondiale\" au menu de la rencontre trilatérale en Chine entre Xi, Trump et Poutine",
+            "link": "https://www.france24.com/fr/asie-pacifique/20261116-paix-mondiale-menu-rencontre-trilat%C3%A9rale-chine-xi-trump-poutine",
+            "publishedAt": "2026-11-16T09:25:06.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "France 24",
+            "title": "À la Fifa, l'improbable remontada de Gianni Infantino",
+            "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261116-fifa-l-improbable-remontada-de-gianni-infantino",
+            "publishedAt": "2026-11-16T07:05:34.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "RFI",
+            "title": "Sommet de l'Asean: la venue de Donald Trump très attendue par les Philippines",
+            "link": "https://www.rfi.fr/fr/asie-pacifique/20261116-sommet-de-l-asean-la-venue-de-donald-trump-tr%C3%A8s-attendue-par-les-philippines",
+            "publishedAt": "2026-11-16T09:14:57.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6038814",
+          "credit": "NPR",
+          "link": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china"
+        }
+      },
+      {
+        "id": "s8f99a466bb",
+        "topic": "politique",
+        "title": "Report de l'élection du secrétaire général de la Francophonie",
+        "context": "L'OIF, l'Organisation internationale de la Francophonie, rassemble les pays ayant la langue française en partage et tient son sommet à Phnom Penh, au Cambodge. L'institution élit régulièrement son secrétaire général.",
+        "summary": "Faute de consensus entre les États membres, le vote pour l'élection du prochain secrétaire général de l'OIF a été reporté d'un an. La République démocratique du Congo s'oppose à la reconduction de la candidate rwandaise Louise Mushikiwabo, accusant le Rwanda de soutenir le groupe armé M23 dans ses provinces orientales. Les tractations intenses n'ont pas permis de dégager une candidature commune. Le président français Emmanuel Macron a salué un compromis permettant d'éviter une crise majeure.",
+        "plain": "EN CLAIR : Les pays francophones n'ont pas réussi à se mettre d'accord pour élire leur dirigeant à cause de tensions politiques régionales. Ils ont décidé de repousser le vote d'un an.",
+        "chart": {
+          "title": "Poids économique des pays de la Francophonie",
+          "unit": "%",
+          "items": [
+            {
+              "label": "Part du PIB mondial",
+              "value": 16.5
+            },
+            {
+              "label": "Part du commerce mondial de marchandises",
+              "value": 20
+            }
+          ],
+          "source": {
+            "name": "France 24",
+            "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261116-francophonie-une-puissance-%C3%A9conomique-encore-sous-exploit%C3%A9e"
+          }
+        },
+        "stakes": [
+          "Comment l'organisation fonctionnera-t-elle pendant cette année de transition ?",
+          "Les tensions entre la RDC et le Rwanda pourront-elles s'apaiser avant le prochain vote ?",
+          "Quel sera l'impact de ce blocage diplomatique sur l'influence de la Francophonie ?"
+        ],
+        "sources": [
+          {
+            "name": "France 24",
+            "title": "Francophonie : une puissance économique encore sous-exploitée",
+            "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261116-francophonie-une-puissance-%C3%A9conomique-encore-sous-exploit%C3%A9e",
+            "publishedAt": "2026-11-16T09:22:28.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "France 24",
+            "title": "🔴 Francophonie : l'élection du secrétaire général reportée d'un an, Emmanuel Macron salue le \"compromis\"",
+            "link": "https://www.france24.com/fr/france/20261116-francophonie-oif-vote-%C3%A9lection-secr%C3%A9taire-g%C3%A9n%C3%A9ral-louise-mushikiwabo-rwanda-rd-congo-juliana-lumumba-dacian-ciolos-coumba-ba",
+            "publishedAt": "2026-11-16T08:46:10.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "France 24",
+            "title": "Francophonie : l'élection du secrétaire général reportée, Macron salue un \"compromis\"",
+            "link": "https://www.france24.com/fr/france/20261116-francophonie-oif-vote-%C3%A9lection-secr%C3%A9taire-g%C3%A9n%C3%A9ral-louise-mushikiwabo-rwanda-rd-congo-juliana-lumumba-dacian-ciolos-coumba-ba",
+            "publishedAt": "2026-11-16T07:01:33.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "RFI",
+            "title": "Francophonie: faute de consensus, l'OIF reporte d'un an l'élection du secrétaire général",
+            "link": "https://www.rfi.fr/fr/asie-pacifique/20261116-francophonie-faute-de-consensus-l-oif-reporte-d-un-an-l-%C3%A9lection-du-secr%C3%A9taire-g%C3%A9n%C3%A9ral",
+            "publishedAt": "2026-11-16T08:39:48.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://s.france24.com/media/display/749282d0-e199-11f1-9a11-3f371022a770/w:1024/p:16x9/capture-8623fb67.jpg",
+          "credit": "France 24",
+          "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261116-francophonie-une-puissance-%C3%A9conomique-encore-sous-exploit%C3%A9e"
+        }
+      },
+      {
+        "id": "sce3be4bd55",
+        "topic": "societe",
+        "title": "Manifestation massive à Prague pour l'indépendance de l'audiovisuel",
+        "context": "En République tchèque, les médias publics de télévision et de radio sont historiquement financés par une redevance payée directement par les usagers. Le gouvernement souhaite modifier ce système.",
+        "summary": "Des centaines de milliers de personnes se sont rassemblées à Prague pour protester contre le projet de réforme de l'audiovisuel public. Le gouvernement veut remplacer la redevance par un financement prélevé directement sur le budget de l'État. Les organisateurs et les manifestants craignent que cette dépendance financière n'accorde un moyen de pression direct au pouvoir politique. Il s'agit de la plus grande rassemblement populaire dans le pays depuis 1989.",
+        "plain": "EN CLAIR : Des centaines de milliers de citoyens manifestent en République tchèque contre une nouvelle loi sur les médias publics. Ils craignent que le gouvernement ne prenne le contrôle de la télévision et de la radio s'il gère directement leur budget.",
+        "chart": null,
+        "stakes": [
+          "Le gouvernement tchèque révisera-t-il son projet face à la pression populaire ?",
+          "Comment garantir l'indépendance des médias publics en cas de financement budgétaire ?",
+          "Cette mobilisation massive aura-t-elle des conséquences sur la stabilité du gouvernement ?"
+        ],
+        "sources": [
+          {
+            "name": "France 24",
+            "title": "Les Tchèques manifestent massivement contre la réforme du financement des médias publics",
+            "link": "https://www.france24.com/fr/europe/20261116-tcheques-manifestent-en-masse-contre-reforme-financement-medias-publics-redevance-andrej-babis-liberte-presse",
+            "publishedAt": "2026-11-16T02:34:27.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "A Prague, 400 000 manifestants dénoncent une réforme de l’audiovisuel public tchèque",
+            "link": "https://www.lemonde.fr/international/article/2026/11/16/a-prague-400-000-manifestants-denoncent-une-reforme-de-l-audiovisuel-public-tcheque_6811567_3210.html",
+            "publishedAt": "2026-11-16T06:52:30.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://s.france24.com/media/display/9b90c524-e165-11f1-8bad-29048b396e03/w:1024/p:16x9/2026-11-15T160533Z-1645454597-RC2FOOA3ZEB0-RTRMADP-3-CZECH-MEDIA.jpg",
+          "credit": "France 24",
+          "link": "https://www.france24.com/fr/europe/20261116-tcheques-manifestent-en-masse-contre-reforme-financement-medias-publics-redevance-andrej-babis-liberte-presse"
+        }
+      },
+      {
+        "id": "s7162fe1108",
+        "topic": "international",
+        "title": "Avancée des forces houthistes vers la ville d'Aden au Yémen",
+        "context": "Le Yémen est traversé par un conflit opposant les rebelles Houthis au gouvernement reconnu par la communauté internationale et soutenu par une coalition menée par l'Arabie saoudite. La ville d'Aden sert de capitale intérimaire aux forces gouvernementales.",
+        "summary": "Les forces houthistes ont progressé dans le sud du Yémen et se trouvent désormais à environ 60 kilomètres d'Aden. Pour faire face à cette avancée, le camp gouvernemental a décidé de déplacer des troupes depuis le détroit de Bab al-Mandab afin de renforcer les défenses de la ville. Ce redéploiement stratégique laisse une zone clé de la côte sous le contrôle des Houthis. Les observateurs estiment que la sécurité de la mer Rouge reste indissociable de la stabilité de l'État yéménite.",
+        "plain": "EN CLAIR : Au Yémen, les rebelles Houthis se rapprochent de la ville où siège le gouvernement. Les autorités ont dû déplacer leurs soldats pour tenter de protéger cette capitale temporaire.",
+        "chart": null,
+        "stakes": [
+          "Les forces gouvernementales parviendront-elles à stopper la progression houthiste vers Aden ?",
+          "Quelles seront les conséquences de ce recul militaire sur le trafic maritime en mer Rouge ?",
+          "Ce changement de rapport de force peut-il modifier les négociations de paix ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+            "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-16T07:23:23.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "The Red Sea cannot be secured without restoring the Yemeni state",
+            "link": "https://www.aljazeera.com/opinions/2026/11/16/the-red-sea-cannot-be-secured-without-restoring-the-yemeni-state?traffic_source=rss",
+            "publishedAt": "2026-11-16T07:06:23.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "RFI",
+            "title": "Yémen: les Houthis à 60 km d'Aden, siège du gouvernement, qui masse des renforts pour protéger la ville",
+            "link": "https://www.rfi.fr/fr/moyen-orient/20261116-y%C3%A9men-les-houthis-%C3%A0-60-km-d-aden-si%C3%A8ge-du-gouvernement-qui-masse-des-renforts-pour-prot%C3%A9ger-la-ville",
+            "publishedAt": "2026-11-16T07:30:55.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss"
+        }
+      },
+      {
+        "id": "s111652aa24",
+        "topic": "justice",
+        "title": "Décès de l'ancien baron de la drogue Miguel Ángel Félix Gallardo",
+        "context": "Dans les années 1980, le cartel de Guadalajara était la structure criminelle la plus puissante du Mexique. Son arrestation à la fin de cette décennie avait provoqué l'éclatement de son réseau en plusieurs cartels distincts.",
+        "summary": "Miguel Ángel Félix Gallardo est mort à l'âge de 80 ans dans un hôpital de l'État de Jalisco alors qu'il purgeait une peine de prison. Surnommé le « Chef des chefs », il était considéré comme le fondateur des cartels modernes au Mexique. Il avait marqué l'histoire criminelle du pays avant d'être condamné à de très lourdes peines de réclusion. Sa trajectoire a largement inspiré la culture populaire et les séries télévisées.",
+        "plain": "EN CLAIR : L'un des plus célèbres chefs de la drogue au Mexique est mort à l'hôpital pendant l'exécution de sa peine de prison. Il avait créé le premier grand cartel mexicain dans les années 1980.",
+        "chart": null,
+        "stakes": [
+          "Comment les autorités mexicaines s'adaptent-elles à la fragmentation des cartels actuels ?",
+          "Quel est le bilan de la lutte contre le crime organisé depuis la fin du cartel de Guadalajara ?",
+          "Quelles leçons les institutions judiciaires tirent-elles de l'emprisonnement prolongé des barons de la drogue ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
+            "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-16T03:21:56.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "Le Monde International",
+            "title": "Miguel Angel Félix Gallardo, l’un des narcotrafiquants mexicains les plus puissants, est mort après trente-sept ans passés en prison",
+            "link": "https://www.lemonde.fr/disparitions/article/2026/11/16/miguel-angel-felix-gallardo-l-un-des-narcotrafiquants-mexicains-les-plus-reputes-est-mort-apres-trente-sept-ans-passes-en-prison_6811303_3382.html",
+            "publishedAt": "2026-11-16T04:17:11.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "RFI",
+            "title": "Mexique: mort du baron de la drogue Miguel Angel Félix Gallardo",
+            "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261116-mexique-mort-du-baron-de-la-drogue-miguel-%C3%A1ngel-f%C3%A9lix-gallardo",
+            "publishedAt": "2026-11-16T07:37:29.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e63/live/e166e240-e19c-11f1-93e1-3b657b665bcf.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss"
+        }
+      },
+      {
+        "id": "s772fa1c6a8",
+        "topic": "environnement",
+        "title": "Négociations complexes sur le financement climatique à la COP31",
+        "context": "La COP, la conférence annuelle de l'ONU sur le climat, réunit les pays signataires pour fixer les engagements environnementaux mondiaux. L'édition COP31 se déroule actuellement à Antalya, en Turquie.",
+        "summary": "Les discussions de mi-parcours de la COP31 se concentrent sur l'aide financière à apporter aux pays en développement pour lutter contre le changement climatique. La France fait de l'élargissement du groupe des pays contributeurs une priorité des négociations. En réponse, l'Inde et plusieurs nations africaines rappellent le coût financier très lourd de la transition écologique pour leurs économies. Par ailleurs, la présidence porte un projet visant à atteindre 35 % d'électricité dans la consommation mondiale d'ici 2035.",
+        "plain": "EN CLAIR : Lors des réunions sur le climat en Turquie, les pays débattent de la répartition des aides financières. Les pays en développement soulignent que la transition écologique représente un coût très élevé.",
+        "chart": null,
+        "stakes": [
+          "Les participants parviendront-ils à un accord financier avant la fin du sommet ?",
+          "Les nouvelles puissances économiques accepteront-elles de contribuer aux fonds d'aide ?",
+          "L'objectif de 35 % d'électricité mondiale sera-t-il retenu dans l'accord final ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde International",
+            "title": "COP31 : quels pays doivent régler la facture de la lutte contre la catastrophe climatique ?",
+            "link": "https://www.lemonde.fr/planete/article/2026/11/16/cop31-quels-pays-doivent-regler-la-facture-de-la-lutte-contre-la-catastrophe-climatique_6811341_3244.html",
+            "publishedAt": "2026-11-16T04:30:11.000Z",
+            "lang": "fr"
+          },
+          {
+            "name": "RFI",
+            "title": "COP31: la Chine ne s'opposerait pas à l’objectif d’électrification, l’Afrique et l’Inde rappellent que ça coûte cher",
+            "link": "https://www.rfi.fr/fr/environnement/20261116-cop31-la-chine-ne-s-opposerait-pas-%C3%A0-l-objectif-d-%C3%A9lectrification-l-afrique-et-l-inde-rappellent-que-%C3%A7a-co%C3%BBte-cher",
+            "publishedAt": "2026-11-16T08:19:29.000Z",
+            "lang": "fr"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/11/427/0/5126/2563/644/322/60/0/a62d95d_ftp-1-0gb4wp8efo9i-df4aa3f26cad435a9ee26f1c810591ab-0-9da7855560e04ba6a03c2ba384808757.jpg",
+          "credit": "Le Monde International",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/16/cop31-quels-pays-doivent-regler-la-facture-de-la-lutte-contre-la-catastrophe-climatique_6811341_3244.html"
+        }
+      },
+      {
+        "id": "sc6f717fdbe",
+        "topic": "sciences_tech",
+        "title": "Tensions chez Nvidia après des accusations d'espionnage",
+        "context": "Le gouvernement américain applique des restrictions strictes sur l'exportation vers la Chine de puces électroniques de haute technologie destinées à l'intelligence artificielle.",
+        "summary": "Le dirigeant de l'entreprise américaine Nvidia, Jensen Huang, a été évincé de son poste à la suite de révélations sur une liaison avec une personne soupçonnée d'espionnage pour le compte de la Chine. Cette affaire suscite de fortes inquiétudes aux États-Unis concernant la fuite potentielle de composants électroniques avancés malgré les règles en vigueur. De leur côté, l'entreprise visée affirme exercer une activité légale et conforme. Elon Musk et de nombreux responsables du secteur ont signé une lettre ouverte demandant le retour du dirigeant.",
+        "plain": "EN CLAIR : Le patron du géant américain des puces informatiques Nvidia a été écarté en raison d'une affaire liée à des soupçons d'espionnage chinois. Plusieurs chefs d'entreprise demandent son retour, tandis que Washington s'inquiète pour ses technologies.",
+        "chart": null,
+        "stakes": [
+          "Des puces d'intelligence artificielle ont-elles été transférées vers la Chine malgré les interdictions ?",
+          "Les autorités américaines vont-elles durcir la réglementation sur le secteur technologique ?",
+          "La pression des dirigeants de la tech permettra-t-elle le retour de Jensen Huang ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+            "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-16T01:47:57.000Z",
+            "lang": "en"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+            "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+            "publishedAt": "2026-11-16T08:18:12.000Z",
+            "lang": "en"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+        }
+      }
+    ]
+  },
+  "storiesAt": "2026-11-16T09:49:24.322Z",
+  "inputHash": "2ba422f09e19c1a30068bda6a98afc98cf496c4f",
+  "synthStatus": "ok",
+  "news": {
+    "france": [
+      {
+        "id": "affca019954",
+        "title": "Arrêts maladie auto-déclarés : la France pourrait-elle vraiment s’inspirer de ses voisins européens, comme l’affirme LFI ?",
+        "link": "https://www.lefigaro.fr/elections/presidentielles/arrets-maladie-auto-declares-la-france-pourrait-elle-vraiment-s-inspirer-de-ses-voisins-europeens-comme-l-affirme-lfi-20261116",
+        "summary": "Dans son programme présidentiel, Jean-Luc Mélenchon propose d’instaurer «l’auto-déclaration pour les arrêts de courte durée». Pour défendre cette mesure, la France insoumise note que ce dispositif existe déjà chez «de nombreux pays européens»… mais avec quelques différences.",
+        "image": "https://i.f1g.fr/media/cms/3000x2002_crop/2026/11/13/365e355440ebdc230dc1c083a5b1cce6c4b38b363b29865f1a134317b1df6eba.jpg",
+        "publishedAt": "2026-11-16T09:30:00.000Z",
+        "source": "Le Figaro",
+        "lang": "fr"
+      },
+      {
+        "id": "a8e694ff64d",
+        "title": "«Face à l’IA, il faut flécher les financements vers les reconversions» : avant la présidentielle, l’appel des DRH",
+        "link": "https://www.lefigaro.fr/decideurs/management/face-a-l-ia-il-faut-flecher-les-financements-vers-les-reconversions-avant-la-presidentielle-l-appel-des-drh-20261116",
+        "summary": "Plus que quelques mois avant le scrutin présidentiel du printemps 2027 : les professionnels des ressources humaines montent au créneau pour sensibiliser les politiques à plusieurs dossiers cruciaux.",
+        "image": "https://i.f1g.fr/media/cms/1600x1140_crop/2026/11/15/581d063609d1a8328d3e7175738e9b1dd6096e3d12f70f6f9e29f5b4ce4228ed.jpg",
+        "publishedAt": "2026-11-16T09:28:49.000Z",
+        "source": "Le Figaro",
+        "lang": "fr"
+      },
+      {
+        "id": "ad716b65d20",
+        "title": "« Une fête incontournable à La Réunion » : de rituel religieux à fête populaire, comment Dipavali s’est transformé",
+        "link": "https://www.ouest-france.fr/region-la-reunion/une-fete-incontournable-a-la-reunion-de-rituel-religieux-a-fete-populaire-comment-dipavali-sest-transforme-3dac168e-e197-11f1-8a68-1e9f9f2c4ff6?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "La fête religieuse indienne, Dipavali, a profondément évolué en 36 ans à La Réunion. Portée par les associations et les collectivités, cette fête des lumières attire désormais des milliers de spectateurs dans les rues de l’île.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExM2FjMGI2Njk1YzgzZGVlOTYxN2Y0NGY2YzI3N2U1Mjg?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=899cb4562db32ef4c2029ee6625906e3cb5812c1bca45e25514e58d6046b5bc2",
+        "publishedAt": "2026-11-16T09:27:43.000Z",
+        "source": "Ouest-France",
+        "lang": "fr"
+      },
+      {
+        "id": "a0c10063f84",
+        "title": "L’intelligence artificielle recèle à la fois un « immense potentiel » et un « grand péril » pour le climat, selon l’Onu",
+        "link": "https://www.ouest-france.fr/high-tech/intelligence-artificielle/lintelligence-artificielle-recele-a-la-fois-un-immense-potentiel-et-un-grand-peril-pour-le-climat-selon-lonu-0b61e476-e195-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Le responsable onusien pour le Climat Simon Stiell a appelé, lundi 16 novembre, les pays à faire de l’IA « un élément de la solution » face aux enjeux climatiques, et non une nouvelle source d’explosion des émissions de gaz à effet de serre. La construction des « data centers », très consommateurs d",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExOWJiNzZkOTAwZjEzODY1ZGZmYjYyNzVjN2M0YTA2ZGY?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=70bc4aaf84f135a2d1550e6e8000b644c4f4ade1cb883a01376b27758971a932",
+        "publishedAt": "2026-11-16T09:26:34.000Z",
+        "source": "Ouest-France",
+        "lang": "fr"
+      },
+      {
+        "id": "a77a47343fc",
+        "title": "Guerre au Moyen-Orient : les houthistes aux portes d’Aden ; un porte-avions américain dans la région",
+        "link": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-262-moyen-orient-bilan-resume-aujourdhui-20261116",
+        "summary": "Un troisième porte-avions américain, le Theodore Roosevelt, est arrivé au Moyen-Orient. Les houthistes pro-iraniens se trouvent désormais à quelque 60 km de la ville d’Aden, siège du gouvernement yéménite. Retrouvez l’actualité du conflit au Moyen-Orient de ce lundi 16 novembre.",
+        "image": "https://i.la-croix.com/x/2026/11/16/2590142-des-decombres-de-maisons-deux-jours-apres-des-frap.jpg",
+        "publishedAt": "2026-11-16T09:17:17.000Z",
+        "source": "La Croix",
+        "lang": "fr"
+      },
+      {
+        "id": "a81883ad778",
+        "title": "Mobilisations lycéennes : les cours reprennent au lycée Nelson-Mandela de Nantes, incendié en octobre",
+        "link": "https://www.lemonde.fr/campus/article/2026/11/16/mobilisations-lyceennes-les-cours-reprennent-au-lycee-nelson-mandela-de-nantes-incendie-debut-octobre_6811675_4401467.html",
+        "summary": "Arrivé lundi vers 9 h 30, le ministre de l’éducation, Edouard Geffray, a été hué par quelques dizaines de lycéens lors de son déplacement. L’établissement a été endommagé par un incendie le 1ᵉʳ octobre, durant les actions des mouvements lycéens.",
+        "image": "https://img.lemde.fr/2026/11/16/433/0/7270/3635/644/322/60/0/30ec828_ftp-1-coppukopz6kr-afp-d7kk39f.jpg",
+        "publishedAt": "2026-11-16T09:14:57.000Z",
+        "source": "Le Monde",
+        "lang": "fr"
+      },
+      {
+        "id": "a86c64b6818",
+        "title": "«Guillaume Pley, agresseur» : une représentation du «Legend Tour» perturbée dimanche par des militantes féministes",
+        "link": "https://www.liberation.fr/culture/scenes/guillaume-pley-agresseur-une-representation-du-legend-tour-perturbee-dimanche-par-des-militantes-feministes-20261116_XDXZGFJIXBGQNF3MNLRXFTYS3A/",
+        "summary": "L’animateur du podcast controversé «Legend» avait peu avant l’interruption, fait monter sur la scène de l’Adidas Arena, Nicolas Sarkozy. Le podcasteur a été mis en cause cet été dans plusieurs médias concernant des échanges inappropriés avec des mineures.",
+        "image": null,
+        "publishedAt": "2026-11-16T09:12:00.000Z",
+        "source": "Libération",
+        "lang": "fr"
+      },
+      {
+        "id": "ab79481289d",
+        "title": "Destruction de la statue de la Vierge à Porto-Vecchio : deux hommes devant la justice",
+        "link": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/destruction-de-la-statue-de-la-vierge-a-porto-vecchio-deux-hommes-devant-la-justice_8284487.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Un mois et demi après la dégradation d'une statue de la Vierge Marie à Porto-Vecchio deux hommes comparaissent devant la justice. L’acte avait scandalisé l’ile. Les deux prévenus devraient être entendus en visioconférence.",
+        "image": "https://www.franceinfo.fr/pictures/8BuN_AKBubZ_BdnElMilI--F-A8/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/16/6afac782326f5765966849.jpg",
+        "publishedAt": "2026-11-16T09:08:55.000Z",
+        "source": "franceinfo",
+        "lang": "fr"
+      },
+      {
+        "id": "a379365a678",
+        "title": "L’œuf mayonnaise fait son huitième championnat, entre tradition et haute voltige",
+        "link": "https://www.lemonde.fr/m-perso/article/2026/11/16/l-uf-mayonnaise-fait-son-huitieme-championnat-entre-tradition-et-haute-voltige_6811668_4497916.html",
+        "summary": "« La France buissonnière ». Début novembre, au Mans, huit chefs ont rivalisé d’inventivité autour de ce classique des bistrots, lors d’une sélection régionale pour le championnat du monde, qui aura lieu le 23 novembre à Saint-Ouen en Seine-Saint-Denis.",
+        "image": "https://img.lemde.fr/2026/11/10/504/0/4032/2016/644/322/60/0/260f1d4_upload-1-7r90aecsn0kb-img-2144.jpeg",
+        "publishedAt": "2026-11-16T09:00:12.000Z",
+        "source": "Le Monde",
+        "lang": "fr"
+      },
+      {
+        "id": "abc312076d0",
+        "title": "Budget 2027 : faute de financements, quel avenir pour la musique ?",
+        "link": "https://www.liberation.fr/idees-et-debats/tribunes/budget-2027-faute-de-financements-quel-avenir-pour-la-musique-20261116_EJIEY67PHZDSTAQZFYYC233XSA/",
+        "summary": "Un collectif d’artistes et d’acteur·ices du secteur alerte sur les coupes budgétaires prévues dans le projet de loi des finances. Celui-ci signe la précarisation des artistes et des technicien·nes et un recul inédit de toutes les actions de médiation qui ont été développées pour offrir la culture au",
+        "image": null,
+        "publishedAt": "2026-11-16T09:00:00.000Z",
+        "source": "Libération",
+        "lang": "fr"
+      },
+      {
+        "id": "a2f397279bc",
+        "title": "Léon XIV au Pérou : les « chasquis » du pape",
+        "link": "https://www.la-croix.com/religion/leon-xiv-au-perou-les-chasquis-du-pape-20261116",
+        "summary": "LETTRE DU VATICAN. Arrivé à Lima, jeudi 12 novembre, dans le cadre de son voyage apostolique en Amérique latine, du 6 au 17 novembre, Léon XIV a comparé les évêques péruviens aux coureurs qui portaient les messages de l’empire inca. La Croix vous emmène dans les coulisses du plus petit État du monde",
+        "image": "https://i.la-croix.com/x/2026/10/16/2564089-mikael-corre-envoye-special-permanent-a-rome.jpg",
+        "publishedAt": "2026-11-16T08:20:37.000Z",
+        "source": "La Croix",
+        "lang": "fr"
+      },
+      {
+        "id": "ad9e71b9989",
+        "title": "\"Les actions hostiles ont des conséquences\" : pourquoi l'Estonie ferme sa frontière avec la Russie",
+        "link": "https://www.lexpress.fr/monde/europe/les-actions-hostiles-ont-des-consequences-pourquoi-lestonie-ferme-sa-frontiere-avec-la-russie-KJDTKY2ORJFTBKN7DTREMHDCWI/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/LH26BZWMC5AEFKIGX7TJI53LS4.JPG?auth=5efac1eddd84f4e2658f72f4dc1fb5b8d109e639850e341694b08eacba919bfc&smart=true&width=5616&height=3744",
+        "publishedAt": "2026-11-16T07:50:27.000Z",
+        "source": "L'Express",
+        "lang": "fr"
+      },
+      {
+        "id": "a46bd6f0855",
+        "title": "TÉMOIGNAGE. \"Je suis content de retourner en cours\" : à Nantes, le lycée Nelson Mandela rouvre ses portes, six semaines après l'incendie qui a touché l'établissement",
+        "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/je-suis-content-de-retourner-en-cours-a-nantes-le-lycee-nelson-mandela-rouvre-ses-portes-six-semaines-apres-l-incendie-qui-a-touche-l-etablissement_8284331.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Un mois et demi après l'incendie qui a ravagé une partie de l'établissement, les 1 700 élèves du lycée retrouvent leurs salles de classe lundi. Franceinfo a rencontré un élève de première qui est impatient de revenir dans son établissement.",
+        "image": "https://www.franceinfo.fr/pictures/R7_ntpCytiGz8EYzBXfNFkqJRcM/0x319:8256x4963/432x243/filters:format(jpg)/2026/11/16/6afaaaae81ed4808888492.jpg",
+        "publishedAt": "2026-11-16T07:20:19.000Z",
+        "source": "franceinfo",
+        "lang": "fr"
+      },
+      {
+        "id": "a8c681fb8b7",
+        "title": "Optimiste ou pessimiste ? Pourquoi il faut être les deux à la fois, par Anne Rosencher",
+        "link": "https://www.lexpress.fr/societe/optimiste-ou-pessimiste-pourquoi-il-faut-etre-les-deux-a-la-fois-par-anne-rosencher-NJ4RJE57LBBG5AT3MD2LURDN2M/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/N2QLI7UGB5GVBOT2UUTUZQBSXI.jpg?auth=0d2359b8447252e35e046ecee1d84abceb3e724586f08f9a87fcba2665f110dc&smart=true&width=1439&height=1080",
+        "publishedAt": "2026-11-16T07:00:00.000Z",
+        "source": "L'Express",
+        "lang": "fr"
+      }
+    ],
+    "monde": [
+      {
+        "id": "a205c56b886",
+        "title": "La \"paix mondiale\" au menu de la rencontre trilatérale en Chine entre Xi, Trump et Poutine",
+        "link": "https://www.france24.com/fr/asie-pacifique/20261116-paix-mondiale-menu-rencontre-trilat%C3%A9rale-chine-xi-trump-poutine",
+        "summary": "Prévue jeudi en marge du sommet de l'Apec à Shenzhen, la première rencontre entre Xi Jinping, Donald Trump et Vladimir Poutine devrait aborder la problématique de la \"paix mondiale\", a fait savoir Pékin. Selon des responsables américains, Washington souhaite aborder la question de la réduction du no",
+        "image": "https://s.france24.com/media/display/a660692a-e195-11f1-bda7-f71d22e7fea9/w:1024/p:16x9/000-D7K64G3.jpg",
+        "publishedAt": "2026-11-16T09:25:06.000Z",
+        "source": "France 24",
+        "lang": "fr"
+      },
+      {
+        "id": "a5b9aec90bc",
+        "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
+        "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+        "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/545f/live/c6cd0f20-e18a-11f1-b441-2b33b063138f.jpg",
+        "publishedAt": "2026-11-16T09:21:31.000Z",
+        "source": "BBC News",
+        "lang": "en"
+      },
+      {
+        "id": "a797d00ec63",
+        "title": "Ed Miliband defends doing 2015 election interview with Russell Brand, saying he was ‘taking him on’ not endorsing him – UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+        "summary": "Ed Balls, shadow chancellor at the time, said he had warned Labour leader not to go ahead with ‘ridiculous’ interview Good morning. There are two issues that will dominate the political news this week – the EU reset, and the Alan Milburn report on youth unemployment – and this morning there are new ",
+        "image": "https://i.guim.co.uk/img/media/5abef6272b524d031e88e996ddb75818ad7ddf73/0_0_3417_2735/master/3417.jpg?width=140&quality=85&auto=format&fit=max&s=68a9655e241aa3e1eebadc36b3d06bea",
+        "publishedAt": "2026-11-16T09:15:50.000Z",
+        "source": "The Guardian",
+        "lang": "en"
+      },
+      {
+        "id": "a3f559fd5b4",
+        "title": "La Grèce multiplie les mesures pour attirer les grosses fortunes et les hedge funds",
+        "link": "https://www.lemonde.fr/economie/article/2026/11/16/la-grece-multiplie-les-mesures-pour-attirer-les-grosses-fortunes-et-les-hedge-funds_6811670_3234.html",
+        "summary": "Un nouveau régime fiscal taxe désormais les bonus et les plus-values ​​réalisés par les gestionnaires des fonds spéculatifs à 5 %, contre 15 % précédemment. Un taux plus intéressant que dans les pays anglo-saxons.",
+        "image": "https://img.lemde.fr/2026/11/16/875/0/6000/3000/644/322/60/0/31564e9_upload-1-nqxmopatnop3-2024-04-18t061550z-2013221288-rc2057ay757b-rtrmadp-3-greece-economy-rebound.JPG",
+        "publishedAt": "2026-11-16T09:00:21.000Z",
+        "source": "Le Monde International",
+        "lang": "fr"
+      },
+      {
+        "id": "aafa16b6b04",
+        "title": "Ronaldinho comes out retirement for 45 mins in Italy’s third division",
+        "link": "https://www.aljazeera.com/video/sports-world/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss",
+        "summary": "Football legend Ronaldinho came out of retirement to play 45 minutes of a match in Italy’s third division.",
+        "image": null,
+        "publishedAt": "2026-11-16T08:54:58.000Z",
+        "source": "Al Jazeera",
+        "lang": "en"
+      },
+      {
+        "id": "a3fcf73e8ac",
+        "title": "Test cricket hopefuls let last chance slip to bang the door down",
+        "link": "https://www.abc.net.au/news/2026-11-16/test-cricket-hopefuls-let-last-chance-slip-to-bang-door-down/107392054",
+        "summary": "With only days left before selectors put together their Test squad to face New Zealand, Sam Konstas and Jack Clayton have their chance to impress in the One-Day Cup, but they can't cash in.",
+        "image": "https://live-production.wcms.abc-cdn.net.au/0af4f91d5805d42c039f1bde768c77eb?impolicy=wcms_crop_resize&cropH=2656&cropW=4722&xPos=0&yPos=139&width=862&height=485",
+        "publishedAt": "2026-11-16T08:30:14.000Z",
+        "source": "ABC News (Australie)",
+        "lang": "en"
+      },
+      {
+        "id": "a1f3254e40c",
+        "title": "Mozambique's justice under scrutiny as Venancio Mondlane faces trial",
+        "link": "https://www.dw.com/en/mozambique-s-justice-under-scrutiny-as-venancio-mondlane-faces-trial/a-79949795?maca=en-rss-en-world-4025-rdf",
+        "summary": "The trial of opposition politician Venancio Mondlane begins in Mozambique on Tuesday. The former presidential candidate is facing five charges, including incitement to terrorism.",
+        "image": null,
+        "publishedAt": "2026-11-16T07:38:00.000Z",
+        "source": "Deutsche Welle",
+        "lang": "en"
+      },
+      {
+        "id": "a25181e5359",
+        "title": "What to expect from Trump and Xi's upcoming meeting in China",
+        "link": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
+        "summary": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week.",
+        "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6038814",
+        "publishedAt": "2026-11-15T22:11:26.000Z",
+        "source": "NPR",
+        "lang": "en"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "franceinfo (France)",
+      "url": "https://www.francetvinfo.fr/france.rss",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Le Monde (France)",
+      "url": "https://www.lemonde.fr/rss/une.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Le Figaro (France)",
+      "url": "https://www.lefigaro.fr/rss/figaro_actualites-a-la-une.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Libération (France)",
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Ouest-France (France)",
+      "url": "https://www.ouest-france.fr/rss/une",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "La Croix (France)",
+      "url": "https://www.la-croix.com/RSS",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "L'Express (France)",
+      "url": "https://www.lexpress.fr/rss/alaune.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Le Parisien (France)",
+      "url": "https://feeds.leparisien.fr/leparisien/rss",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "BBC News (Monde)",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "The Guardian (Monde)",
+      "url": "https://www.theguardian.com/world/rss",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Deutsche Welle (Monde)",
+      "url": "https://rss.dw.com/rdf/rss-en-world",
+      "ok": true,
+      "count": 4
+    },
+    {
+      "name": "Al Jazeera (Monde)",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "NPR (Monde)",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "ok": true,
+      "count": 2
+    },
+    {
+      "name": "ABC News (Australie) (Monde)",
+      "url": "https://www.abc.net.au/news/feed/2942460/rss.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "France 24 (Monde)",
+      "url": "https://www.france24.com/fr/rss",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "Le Monde International (Monde)",
+      "url": "https://www.lemonde.fr/international/rss_full.xml",
+      "ok": true,
+      "count": 12
+    },
+    {
+      "name": "RFI (Monde)",
+      "url": "https://www.rfi.fr/fr/rss",
+      "ok": true,
+      "count": 12
+    }
+  ],
+  "meteo": {
+    "ok": false,
+    "city": "Montaigu-Vendée",
+    "source": "Open-Meteo",
+    "sourceUrl": "https://open-meteo.com/en/docs",
+    "fetchedAt": null
+  },
+  "carburants": {
+    "ok": false,
+    "prices": [],
+    "best": {},
+    "stationsVerifiees": 0,
+    "source": "prix-carburants.gouv.fr",
+    "sourceUrl": "https://www.prix-carburants.gouv.fr/rubrique/opendata/"
+  },
+  "culture": [
+    {
+      "title": "Océanissime Nantes 2026",
+      "discipline": "Peinture, gravure, photographie et sculpture",
+      "artist": "Seize membres de l’Académie des Arts et Sciences de la Mer",
+      "city": "Nantes",
+      "venue": "Maison de la Mer, 54 quai de la Fosse",
+      "start": "2026-11-07",
+      "end": "2026-11-22",
+      "details": "Plus de cent œuvres ; entrée gratuite. Horaires détaillés sur le site de Nantes Métropole.",
+      "source": "Nantes Métropole",
+      "sourceUrl": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/45675254_exposition-oceanissime-nantes-2026",
+      "image": null
+    },
+    {
+      "title": "La figure de l’héroïne",
+      "discipline": "Peinture et histoire de l’art",
+      "artist": "Exposition consacrée aux représentations féminines du XIXe siècle",
+      "city": "La Roche-sur-Yon",
+      "venue": "Musée – Espace Malraux",
+      "start": "2026-11-03",
+      "end": "2027-02-07",
+      "details": "Exposition temporaire. Vérifier les horaires d’ouverture avant la visite.",
+      "source": "Ville de La Roche-sur-Yon",
+      "sourceUrl": "https://larochesuryon.fr/actualites/les-heroines-du-xixe-siecle-sexposent-a-la-roche/",
+      "image": {
+        "url": "https://larochesuryon.fr/app/uploads/2026/11/IMG_8828-scaled.jpg",
+        "credit": "Ville de La Roche-sur-Yon",
+        "link": "https://larochesuryon.fr/actualites/les-heroines-du-xixe-siecle-sexposent-a-la-roche/"
+      }
+    }
+  ],
+  "history": [],
+  "checks": {
+    "actualites": true,
+    "meteo": false,
+    "carburants": false
+  }
+}
