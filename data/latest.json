@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-11-16",
-  "generatedAt": "2026-11-16T13:12:51.166Z",
+  "generatedAt": "2026-11-16T19:54:46.041Z",
   "status": "partielle",
   "stories": {
     "france": [
@@ -673,129 +673,50 @@
     ],
     "monde": [
       {
-        "id": "sca0421ad04",
-        "topic": "environnement",
-        "title": "COP31 : les négociations climatiques s'intensifient à Antalya",
-        "context": "La conférence annuelle de l'ONU sur le climat, la COP31, se tient à Antalya en Turquie. Les délégués y négocient les engagements internationaux pour limiter le réchauffement climatique.",
-        "summary": "À mi-parcours de la COP31, la présidence australo-turque a présenté un projet de décision appelant à accélérer la sortie des énergies fossiles. Le texte propose notamment de porter à 35 % la part de l'électricité dans la consommation mondiale. Devant l'assemblée, la présidente de la Commission européenne Ursula von der Leyen a mis en avant une promesse de réduction de 50 % des émissions de CO2. En parallèle, plusieurs pays africains cherchent à exploiter le marché du carbone pour soutenir leur souveraineté économique.",
-        "plain": "EN CLAIR : Les pays du monde entier sont réunis en Turquie pour négocier la baisse des émissions de gaz à effet de serre. Un premier texte propose d'accélérer l'abandon des énergies fossiles et de développer l'électricité propre.",
-        "chart": null,
-        "stakes": [
-          "Rythme d'abandon des énergies fossiles",
-          "Financement de la transition énergétique mondiale",
-          "Développement des marchés du carbone pour les pays en développement"
-        ],
-        "sources": [
-          {
-            "name": "L'Humanité",
-            "title": "Climat : les promesses intenables d’Ursula von der Leyen",
-            "link": "https://www.humanite.fr/en-debat/cop-31/climat-les-promesses-intenables-dursula-von-der-leyen",
-            "publishedAt": "2026-11-16T11:30:00.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Daily Sabah",
-            "title": "COP31 draws record crowds as summit enters final days",
-            "link": "https://www.dailysabah.com/turkiye/cop31-draws-record-crowds-as-summit-enters-final-days/news",
-            "publishedAt": "2026-11-16T11:53:00.000Z",
-            "lang": "en",
-            "country": "TR"
-          },
-          {
-            "name": "The Hindu",
-            "title": "COP31 draft deal calls for ‘accelerated action’ to exit fossil fuels",
-            "link": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels/article71707955.ece",
-            "publishedAt": "2026-11-16T12:33:16.000Z",
-            "lang": "en",
-            "country": "IN"
-          },
-          {
-            "name": "RFI",
-            "title": "La COP31 publie un projet de décision qui propose d’accélérer la sortie des énergies fossiles",
-            "link": "https://www.rfi.fr/fr/environnement/20261116-la-cop31-publie-un-projet-de-d%C3%A9cision-qui-propose-d-acc%C3%A9l%C3%A9rer-la-sortie-des-%C3%A9nergies-fossiles",
-            "publishedAt": "2026-11-16T12:17:39.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "RFI",
-            "title": "COP31: l'Afrique peut-elle transformer le carbone en levier de souveraineté économique?",
-            "link": "https://www.rfi.fr/fr/podcasts/aujourd-hui-l-%C3%A9conomie/20261116-cop31-afrique-marche-carbone-gabon-richesse-economique",
-            "publishedAt": "2026-11-16T10:14:14.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "RFI",
-            "title": "COP31: ce qu'il faut retenir de la première semaine de négociations",
-            "link": "https://www.rfi.fr/fr/environnement/20261116-cop31-la-chine-ne-s-opposerait-pas-%C3%A0-l-objectif-d-%C3%A9lectrification-l-afrique-et-l-inde-rappellent-que-%C3%A7a-co%C3%BBte-cher",
-            "publishedAt": "2026-11-16T08:19:29.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://www.humanite.fr/wp-content/uploads/2026/11/Vignette_2024_tribune_97bbf4_398a92.webp?w=1023",
-          "credit": "L'Humanité",
-          "link": "https://www.humanite.fr/en-debat/cop-31/climat-les-promesses-intenables-dursula-von-der-leyen"
-        },
-        "i18n": {
-          "en": {
-            "title": "COP31: climate negotiations intensify in Antalya",
-            "context": "The annual UN climate conference, COP31, is being held in Antalya, Turkey. Delegates are negotiating international commitments there to limit global warming.",
-            "summary": "At the halfway point of COP31, the Australian-Turkish presidency presented a draft decision calling to accelerate the phase-out of fossil fuels. The text notably proposes bringing the share of electricity in global consumption to 35%. Before the assembly, European Commission President Ursula von der Leyen highlighted a promise to reduce CO2 emissions by 50%. Concurrently, several African countries are seeking to exploit the carbon market to support their economic sovereignty.",
-            "plain": "IN PLAIN TERMS: Countries from all over the world are gathered in Turkey to negotiate the reduction of greenhouse gas emissions. A first text proposes accelerating the abandonment of fossil fuels and developing clean electricity.",
-            "stakes": [
-              "Pace of phasing out fossil fuels",
-              "Financing of the global energy transition",
-              "Development of carbon markets for developing countries"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "COP31: las negociaciones climáticas se intensifican en Antalya",
-            "context": "La conferencia anual de la ONU sobre el clima, la COP31, se celebra en Antalya, Turquía. Los delegados negocian allí los compromisos internacionales para limitar el calentamiento global.",
-            "summary": "A mitad de camino de la COP31, la presidencia australo-turca presentó un proyecto de decisión que pide acelerar la salida de los combustibles fósiles. El texto propone en particular elevar al 35 % la parte de la electricidad en el consumo mundial. Ante la asamblea, la presidenta de la Comisión Europea, Ursula von der Leyen, destacó una promesa de reducción del 50 % de las emisiones de CO2. Paralelamente, varios países africanos buscan explotar el mercado del carbono para apoyar su soberanía económica.",
-            "plain": "EN CLARO: Los países de todo el mundo están reunidos en Turquía para negociar la reducción de las emisiones de gases de efecto invernadero. Un primer texto propone acelerar el abandono de los combustibles fósiles y desarrollar electricidad limpia.",
-            "stakes": [
-              "Ritmo de abandono de los combustibles fósiles",
-              "Financiación de la transición energética mundial",
-              "Desarrollo de los mercados de carbono para los países en desarrollo"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "se6ff120e40",
+        "id": "sce9f05e036",
         "topic": "international",
-        "title": "Sommets en Asie : intenses tractations entre Washington, Pékin et Moscou",
-        "context": "L'Asie-Pacifique accueille coup sur coup les sommets de l'APEC en Chine et de l'ASEAN aux Philippines, réunissant les principales puissances économiques et militaires mondiales.",
-        "summary": "Les dirigeants mondiaux se rassemblent en Asie pour débattre du commerce, de la sécurité régionale et des nouvelles technologies. Le président américain Donald Trump doit rencontrer ses homologues chinois Xi Jinping et russe Vladimir Poutine en marge du sommet de l'APEC à Shenzhen. En mer de Chine méridionale, la Chine et les pays membres de l'ASEAN se sont engagés à la retenue face aux différends territoriaux. Par ailleurs, les discussions portent sur l'encadrement de l'intelligence artificielle et l'avancement d'un accord de libre-échange régional.",
-        "plain": "EN CLAIR : Les chefs d'État des plus grandes puissances se rencontrent en Asie pour parler d'économie, de commerce et de sécurité. Les discussions visent à apaiser les tensions en mer de Chine et à fixer des règles sur les nouvelles technologies.",
+        "title": "Escalade des attaques aériennes et préparatifs du sommet APEC en Chine",
+        "context": "Alors que le conflit entre la Russie et l'Ukraine se poursuit avec des attaques de drones de grande ampleur, des discussions diplomatiques s'intensifient en coulisses. En parallèle, les dirigeants des plus grandes puissances mondiales se préparent à se réunir lors du sommet de l'APEC.",
+        "summary": "Les attaques aériennes entre la Russie et l'Ukraine s'intensifient, Moscou faisant état d'une attaque de drones ukrainiens d'une ampleur inédite visant notamment le pont de Crimée, tandis que Kiev subit des frappes répétées sur ses infrastructures énergétiques. En parallèle, une rencontre diplomatique doit réunir le président américain Donald Trump, le président chinois Xi Jinping et le président russe Vladimir Poutine en Chine. Donald Trump a suggéré que Vladimir Poutine cherche une issue au conflit, sans exclure une rencontre avec le dirigeant nord-coréen Kim Jong-un. De son côté, Volodymyr Zelensky dénonce la livraison de missiles balistiques par la Corée du Nord à la Russie et demande un soutien militaire accru aux Européens tout en exigeant la levée des restrictions sur le réseau internet Starlink.",
+        "plain": "EN CLAIR : La guerre entre la Russie et l'Ukraine connaît une nouvelle escalade d'attaques aériennes au moment même où les dirigeants des grandes puissances se réunissent en Chine. Ces discussions pourraient peser sur la suite du conflit et sur les tentatives de négociation.",
         "chart": null,
         "stakes": [
-          "Gestion des rivalités géopolitiques en mer de Chine méridionale",
-          "Régulation transfrontalière de l'intelligence artificielle",
-          "Avenir du libre-échange dans la zone Asie-Pacifique"
+          "L'évolution des opérations militaires à l'approche de l'hiver",
+          "L'impact de la rencontre tripartite sur les futures négociations de paix",
+          "L'implication croissante d'acteurs tiers comme la Corée du Nord"
         ],
         "sources": [
           {
-            "name": "The Guardian",
-            "title": "World leaders head to Asia for back-to-back diplomatic summits",
-            "link": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
-            "publishedAt": "2026-11-15T04:00:02.000Z",
+            "name": "Le Monde (International)",
+            "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que la Corée du Nord livre à la Russie chaque mois « des dizaines de missiles balistiques » et demande aux Européens plus de missiles pour Kiev",
+            "link": "https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-la-coree-du-nord-livre-a-la-russie-chaque-mois-des-dizaines-de-missiles-balistiques-et-demande-aux-europeens-plus-de-missiles-pour-kiev_6810982_3210.html",
+            "publishedAt": "2026-11-16T19:02:37.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "La Croix",
+            "title": "Guerre en Ukraine : 600 drones lancés vers Moscou ; un sommet Trump-Xi-Poutine jeudi",
+            "link": "https://www.la-croix.com/international/ukraine-russie-jour-1727-point-conflit-ukrainien-poutine-aujourdhui-20261116",
+            "publishedAt": "2026-11-16T18:41:02.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+            "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-16T14:58:12.000Z",
             "lang": "en",
             "country": "GB"
           },
           {
-            "name": "NPR",
-            "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
-            "link": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
-            "publishedAt": "2026-11-16T12:08:14.000Z",
+            "name": "BBC News",
+            "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+            "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-15T19:32:39.000Z",
             "lang": "en",
-            "country": "US"
+            "country": "GB"
           },
           {
             "name": "NPR",
@@ -806,121 +727,643 @@
             "country": "US"
           },
           {
-            "name": "NPR",
-            "title": "What to expect from Trump and Xi's upcoming meeting in China",
-            "link": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
-            "publishedAt": "2026-11-15T22:11:26.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "The Washington Post",
-            "title": "Southeast Asian leaders kick-start summit, with South China Sea and energy on agenda",
-            "link": "https://www.washingtonpost.com/world/2026/11/15/southeast-asian-leaders-open-asean-summit-with-south-china-sea-energy-agenda/",
-            "publishedAt": "2026-11-15T20:30:00.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
             "name": "The Hindu",
-            "title": "Beijing hails ‘groundbreaking significance’ of U.S., China, Russia summit in Shenzhen",
-            "link": "https://www.thehindu.com/news/international/beijing-hails-groundbreaking-significance-of-us-china-russia-summit-in-shenzhen/article71707480.ece",
-            "publishedAt": "2026-11-16T11:49:02.000Z",
+            "title": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting",
+            "link": "https://www.thehindu.com/news/international/trumps-asia-trip-deals-in-manila-and-shenzhen-nuclear-summit-with-xi-and-putin-maybe-kim-meeting/article71708808.ece",
+            "publishedAt": "2026-11-16T15:35:38.000Z",
             "lang": "en",
             "country": "IN"
           },
           {
-            "name": "The Hindu",
-            "title": "China, Southeast Asia pledge to avoid disputes during talks on South China Sea pact",
-            "link": "https://www.thehindu.com/news/international/china-southeast-asia-pledge-to-avoid-disputes-during-talks-on-south-china-sea-pact/article71707568.ece",
-            "publishedAt": "2026-11-16T11:13:20.000Z",
-            "lang": "en",
-            "country": "IN"
+            "name": "El País",
+            "title": "Rusia rechaza la presencia de negociadores europeos en las conversaciones sobre la seguridad de Europa",
+            "link": "https://elpais.com/internacional/2026-11-16/rusia-rechaza-la-presencia-de-negociadores-europeos-en-las-conversaciones-sobre-la-seguridad-de-europa.html",
+            "publishedAt": "2026-11-16T19:30:38.000Z",
+            "lang": "es",
+            "country": "ES"
           },
           {
-            "name": "South China Morning Post",
-            "title": "China seeks Apec road map for long-envisioned Asia-Pacific free trade area",
-            "link": "https://www.scmp.com/economy/global-economy/article/3374621/china-seeks-apec-road-map-long-envisioned-asia-pacific-free-trade-area",
-            "publishedAt": "2026-11-16T12:22:56.000Z",
-            "lang": "en",
-            "country": "HK"
+            "name": "ANSA",
+            "title": "Trump: 'Putin non va all'affondo, vuole la fine della guerra'",
+            "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/trump-putin-non-va-allaffondo-vuole-la-fine-della-guerra_719b0e4a-833e-4411-9f49-e3bdeca194d9.html",
+            "publishedAt": "2026-11-16T19:12:51.000Z",
+            "lang": "it",
+            "country": "IT"
           }
         ],
         "image": {
-          "url": "https://i.guim.co.uk/img/media/ef4d680eeeb4b13e743836eee5388c60a984dd7c/0_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=5c0edeb347e23bbede89a1c6c3a7ee1c",
-          "credit": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean"
+          "url": "https://img.lemde.fr/2026/11/04/625/0/7497/3748/644/322/60/0/bde64e8_ftp-1-m8w1c8qfbpdq-781e98ac13834a95b919ae668d8d2cbb-0-51733297ee224bbc8a726dc8d5e07102.jpg",
+          "credit": "Le Monde (International)",
+          "link": "https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-la-coree-du-nord-livre-a-la-russie-chaque-mois-des-dizaines-de-missiles-balistiques-et-demande-aux-europeens-plus-de-missiles-pour-kiev_6810982_3210.html"
         },
         "i18n": {
           "en": {
-            "title": "Summits in Asia: intense behind-the-scenes talks between Washington, Beijing, and Moscow",
-            "context": "The Asia-Pacific region is successively hosting the APEC summit in China and the ASEAN summit in the Philippines, bringing together the world's leading economic and military powers.",
-            "summary": "World leaders are gathering in Asia to debate trade, regional security, and new technologies. US President Donald Trump is scheduled to meet with his Chinese counterpart Xi Jinping and Russian counterpart Vladimir Poutine on the sidelines of the APEC summit in Shenzhen. In the South China Sea, China and ASEAN member states have committed to restraint in the face of territorial disputes. Furthermore, discussions are focusing on the regulation of artificial intelligence and the advancement of a regional free trade agreement.",
-            "plain": "IN SHORT: Heads of state from the major powers are meeting in Asia to discuss economy, trade, and security. The discussions aim to ease tensions in the South China Sea and set rules on new technologies.",
+            "title": "Escalation of airstrikes and APEC summit preparations in China",
+            "context": "As the conflict between Russia and Ukraine continues with large-scale drone attacks, diplomatic discussions are intensifying behind the scenes. At the same time, leaders of the world's major powers are preparing to meet at the APEC summit.",
+            "summary": "Airstrikes between Russia and Ukraine are intensifying, with Moscow reporting an unprecedented Ukrainian drone attack targeting the Crimean Bridge, while Kyiv suffers repeated strikes on its energy infrastructure. Meanwhile, a diplomatic meeting is set to bring together US President Donald Trump, Chinese President Xi Jinping, and Russian President Vladimir Putin in China. Donald Trump suggested that Vladimir Putin is looking for a way out of the conflict, without ruling out a meeting with North Korean leader Kim Jong-un. For his part, Volodymyr Zelensky denounced North Korea's delivery of ballistic missiles to Russia and called for increased military support from Europeans while demanding the lifting of restrictions on the Starlink internet network.",
+            "plain": "IN SHORT: The war between Russia and Ukraine is seeing a new escalation of airstrikes just as leaders of major powers gather in China. These discussions could influence the rest of the conflict and negotiation attempts.",
             "stakes": [
-              "Management of geopolitical rivalries in the South China Sea",
-              "Cross-border regulation of artificial intelligence",
-              "Future of free trade in the Asia-Pacific zone"
+              "The evolution of military operations as winter approaches",
+              "The impact of the tripartite meeting on future peace negotiations",
+              "The growing involvement of third-party actors such as North Korea"
             ],
             "chart": null
           },
           "es": {
-            "title": "Cumbres en Asia: intensas negociaciones entre Washington, Pekín y Moscú",
-            "context": "La región de Asia-Pacífico acoge consecutivamente las cumbres de la APEC en China y de la ASEAN en Filipinas, reuniendo a las principales potencias económicas y militares mundiales.",
-            "summary": "Los líderes mundiales se reúnen en Asia para debatir sobre comercio, seguridad regional y nuevas tecnologías. El presidente estadounidense Donald Trump tiene previsto reunirse con sus homólogos chino Xi Jinping y ruso Vladimir Putin al margen de la cumbre de la APEC en Shenzhen. En el mar de la China Meridional, China y los países miembros de la ASEAN se han comprometido a la contención ante las disputas territoriales. Asimismo, las discusiones se centran en la regulación de la inteligencia artificial y el avance de un acuerdo de libre comercio regional.",
-            "plain": "EN CLARO: Los jefes de Estado de las mayores potencias se reúnen en Asia para hablar de economía, comercio y seguridad. Las discusiones buscan calmar las tensiones en el mar de China y fijar reglas sobre las nuevas tecnologías.",
+            "title": "Escalada de ataques aéreos y preparativos para la cumbre de la APEC en China",
+            "context": "Mientras continúa el conflicto entre Rusia y Ucrania con ataques de drones a gran escala, las conversaciones diplomáticas se intensifican tras bambalinas. Paralelamente, los líderes de las mayores potencias mundiales se preparan para reunirse en la cumbre de la APEC.",
+            "summary": "Los ataques aéreos entre Rusia y Ucrania se intensifican, y Moscú informa sobre un ataque de drones ucranianos sin precedentes dirigido en particular al puente de Crimea, mientras Kiev sufre ataques repetidos contra su infraestructura energética. Paralelamente, se prevé un encuentro diplomático que reunirá en China al presidente estadounidense Donald Trump, al presidente chino Xi Jinping y al presidente ruso Vladimir Putin. Donald Trump sugirió que Vladimir Putin busca una salida al conflicto, sin excluir una reunión con el líder norcoreano Kim Jong-un. Por su parte, Volodymyr Zelensky denunció la entrega de misiles balísticos por parte de Corea del Norte a Rusia y pidió un mayor apoyo militar a los europeos, exigiendo al mismo tiempo el levantamiento de las restricciones sobre la red de internet Starlink.",
+            "plain": "EN CLARO: La guerra entre Rusia y Ucrania experimenta una nueva escalada de ataques aéreos en el mismo momento en que los líderes de las grandes potencias se reúnen en China. Estas discusiones podrían influir en el desarrollo del conflicto y en los intentos de negociación.",
             "stakes": [
-              "Gestión de las rivalidades geopolíticas en el mar de la China Meridional",
-              "Regulación transfronteriza de la inteligencia artificial",
-              "Futuro del libre comercio en la zona de Asia-Pacífico"
+              "La evolución de las operaciones militares ante la llegada del invierno",
+              "El impacto del encuentro tripartito en las futuras negociaciones de paz",
+              "La creciente implicación de actores terceros como Corea del Norte"
             ],
             "chart": null
           }
         }
       },
       {
-        "id": "s77a47343fc",
-        "topic": "international",
-        "title": "Escalade des tensions militaires et sécuritaires au Moyen-Orient",
-        "context": "La région du Moyen-Orient reste le théâtre de plusieurs foyers de crise interconnectés impliquant diverses forces armées et mouvements régionaux.",
-        "summary": "Au Yémen, les forces soutenues par l'Arabie saoudite se sont repliées du détroit de Bab el-Mandeb vers Aden face à la pression des rebelles houthistes. Dans le détroit d'Ormuz, un pétrolier a pris feu après avoir été touché par un projectile d'origine inconnue. Parallèlement, l'armée israélienne a mené des frappes dans l'est du Liban, affirmant avoir ciblé un stock d'armes du Hezbollah. Enfin, des tirs de drones attribués à l'Iran ont visé Bahreïn, soulevant des craintes d'embrasement régional.",
-        "plain": "EN CLAIR : Les tensions s'aggravent sur plusieurs fronts au Moyen-Orient, avec des attaques visant des navires marchands, des frappes aériennes au Liban et des mouvements de troupes autour des voies maritimes stratégiques.",
+        "id": "s532a6c14da",
+        "topic": "societe",
+        "title": "Projet de transfert de migrants vers le Rwanda par cinq pays européens",
+        "context": "Plusieurs gouvernements européens cherchent à durcir leurs politiques d'asile en délocalisant l'hébergement des demandeurs d'asile déboutés en dehors des frontières de l'Union européenne. La France a de son côté indiqué qu'elle refusait de participer à ce type de dispositif.",
+        "summary": "L'Allemagne, l'Autriche, le Danemark, la Grèce et les Pays-Bas ont annoncé un projet conjoint visant à créer un centre de retour pour migrants expulsés au Rwanda. Ce dispositif prévoit d'expédier vers ce pays africain les personnes dont la demande d'asile a été définitivement rejetée en Europe. L'initiative s'inscrit dans le cadre des mécanismes autorisés à l'échelle européenne, bien que la France récuse le concept. De nombreuses organisations de défense des droits humains et syndicats ont vivement critiqué cet accord, estimant qu'il met en danger des populations vulnérables.",
+        "plain": "EN CLAIR : Cinq pays d'Europe veulent envoyer les personnes dont la demande d'asile a été refusée dans un centre situé au Rwanda. Ce projet suscite de vives protestations de la part des associations humanitaires qui s'inquiètent pour le droit d'asile.",
         "chart": null,
         "stakes": [
-          "Sécurité de la navigation commerciale maritime internationale",
-          "Risque d'extension des affrontements armés régionaux",
-          "Stabilité des approvisionnements énergétiques mondiaux"
+          "La légalité et le respect des droits humains dans la gestion de l'asile",
+          "Les divergences d'approche entre les pays membres de l'Union européenne",
+          "L'efficacité de la délocalisation des procédures d'expulsion"
         ],
         "sources": [
           {
-            "name": "La Croix",
-            "title": "Guerre au Moyen-Orient : pétrolier touché dans le détroit d’Ormuz ; frappe israélienne au Liban",
-            "link": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-262-moyen-orient-bilan-resume-aujourdhui-20261116",
-            "publishedAt": "2026-11-16T12:54:06.000Z",
+            "name": "Le Figaro",
+            "title": "«Cela ne correspond pas aux principes qui sont les nôtres» : la France rejette le projet de « centre de retour » pour migrants au Rwanda",
+            "link": "https://www.lefigaro.fr/international/cela-ne-correspond-pas-aux-principes-qui-sont-les-notres-la-france-rejette-le-projet-de-centre-de-retour-pour-migrants-au-rwanda-20261116",
+            "publishedAt": "2026-11-16T19:09:48.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
             "name": "L'Express",
-            "title": "Au Yémen, les houthistes renforcent leur contrôle du détroit de Bab el-Mandeb et menacent Aden",
-            "link": "https://www.lexpress.fr/monde/proche-moyen-orient/au-yemen-les-houthistes-renforcent-leur-controle-du-detroit-de-bab-el-mandeb-et-menacent-aden-XRLDIJ6PLJHALIBCFDAIEEFMZM/",
-            "publishedAt": "2026-11-16T10:56:30.000Z",
+            "title": "Cinq pays de l'UE dévoilent leur projet de centre pour migrants au Rwanda",
+            "link": "https://www.lexpress.fr/monde/europe/cinq-pays-de-lue-devoilent-leur-projet-de-centre-pour-migrants-au-rwanda-PSF4X3ATCFEMLLWUPF4CPK2JXY/",
+            "publishedAt": "2026-11-16T19:07:54.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le JDD",
+            "title": "Immigration clandestine : cinq pays européens en passe de créer un «hub de retour» au Rwanda",
+            "link": "https://www.lejdd.fr/International/immigration-clandestine-cinq-pays-europeens-en-passe-de-creer-un-hub-de-retour-au-rwanda-188877",
+            "publishedAt": "2026-11-16T15:26:45.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
             "name": "BBC News",
-            "title": "Yemeni forces retreat to defend port city from Houthis",
-            "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-16T11:09:38.000Z",
+            "title": "Five EU countries announce migrant deportation centre in Rwanda",
+            "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-16T16:27:24.000Z",
             "lang": "en",
             "country": "GB"
           },
+          {
+            "name": "Tagesschau",
+            "title": "Deutschland und weitere Staaten planen Abschiebezentrum in Ruanda",
+            "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1684948.html",
+            "publishedAt": "2026-11-16T19:10:29.000Z",
+            "lang": "de",
+            "country": "DE"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Five European Countries Plan to Deport Migrants to Rwanda",
+            "link": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
+            "publishedAt": "2026-11-16T17:36:21.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "5 countries announce plan to deport failed asylum-seekers to Rwanda",
+            "link": "https://www.politico.eu/article/5-countries-announce-plan-to-deport-failed-asylum-seekers-to-rwanda/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-16T16:57:27.000Z",
+            "lang": "en",
+            "country": "BE"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
+            "link": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
+            "publishedAt": "2026-11-16T19:26:40.000Z",
+            "lang": "en",
+            "country": "QA"
+          }
+        ],
+        "image": {
+          "url": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/16/6389426ce43b83b06059b492a4b6da9c4eaf10d37feb8921d985614b218a3526.jpg",
+          "credit": "Le Figaro",
+          "link": "https://www.lefigaro.fr/international/cela-ne-correspond-pas-aux-principes-qui-sont-les-notres-la-france-rejette-le-projet-de-centre-de-retour-pour-migrants-au-rwanda-20261116"
+        },
+        "i18n": {
+          "en": {
+            "title": "Migrant transfer project to Rwanda by five European countries",
+            "context": "Several European governments are seeking to tighten their asylum policies by relocating the housing of rejected asylum seekers outside the borders of the European Union. France, for its part, has stated that it refuses to participate in this type of arrangement.",
+            "summary": "Germany, Austria, Denmark, Greece, and the Netherlands have announced a joint project aimed at creating a return center for expelled migrants in Rwanda. This mechanism plans to send individuals whose asylum applications have been definitively rejected in Europe to this African country. The initiative is part of mechanisms authorized at the European scale, although France rejects the concept. Numerous human rights organizations and trade unions have sharply criticized this agreement, arguing that it endangers vulnerable populations.",
+            "plain": "IN SHORT: Five European countries want to send individuals whose asylum requests were denied to a center located in Rwanda. This project has sparked strong protests from humanitarian associations concerned about the right of asylum.",
+            "stakes": [
+              "Legality and respect for human rights in the management of asylum",
+              "Divergences in approach among European Union member states",
+              "The effectiveness of outsourcing deportation procedures"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Proyecto de transferencia de migrantes a Ruanda por parte de cinco países europeos",
+            "context": "Varios gobiernos europeos buscan endurecer sus políticas de asilo reubicando el alojamiento de los solicitantes de asilo rechazados fuera de las fronteras de la Unión Europea. Por su parte, Francia indicó que se niega a participar en este tipo de dispositivo.",
+            "summary": "Alemania, Austria, Dinamarca, Grecia y los Países Bajos anunciaron un proyecto conjunto destinado a crear un centro de retorno para migrantes expulsados en Ruanda. Este mecanismo prevé enviar a ese país africano a las personas cuya solicitud de asilo haya sido definitivamente rechazada en Europa. La iniciativa se enmarca en los mecanismos autorizados a escala europea, aunque Francia rechaza el concepto. Numerosas organizaciones de defensa de los derechos humanos y sindicatos han criticado duramente este acuerdo, estimando que pone en peligro a poblaciones vulnerables.",
+            "plain": "EN CLARO: Cinco países de Europa quieren enviar a un centro situado en Ruanda a las personas cuya solicitud de asilo ha sido rechazada. Este proyecto genera fuertes protestas por parte de las asociaciones humanitarias, que se inquietan por el derecho de asilo.",
+            "stakes": [
+              "La legalidad y el respeto de los derechos humanos en la gestión del asilo",
+              "Las divergencias de enfoque entre los países miembros de la Unión Europea",
+              "La eficacia de la deslocalización de los procedimientos de expulsión"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s644a7208a9",
+        "topic": "economie",
+        "title": "Restrictions américaines sur les puces Nvidia et tensions autour de leur direction",
+        "context": "Les puces électroniques à haute performance produites par l'entreprise américaine Nvidia sont indispensables au développement de l'intelligence artificielle avancée. Elles constituent un enjeu stratégique et économique majeur dans la rivalité entre Washington et Pékin.",
+        "summary": "Le gouvernement américain cherche à renforcer le blocage des exportations des puces de pointe de Nvidia vers la Chine, notamment en instaurant des règles ciblant les transits par des pays tiers. Dans le même temps, la direction de Nvidia fait l'objet d'incertitudes après le départ de son patron Jensen Huang, dont le retour est publiquement soutenu par Donald Trump et plusieurs acteurs du secteur technologique. Ces tensions réglementaires et managériales pèsent sur les marchés financiers. Elles s'inscrivent dans un contexte d'affrontement économique global autour du leadership de l'intelligence artificielle.",
+        "plain": "EN CLAIR : Les États-Unis veulent empêcher la Chine d'acheter leurs puces informatiques les plus puissantes pour la recherche sur l'intelligence artificielle. Les querelles autour de la direction de Nvidia ajoutent des incertitudes sur les marchés.",
+        "chart": null,
+        "stakes": [
+          "Le contrôle des technologies clés pour l'intelligence artificielle",
+          "La stabilité financière des géants américains de la technologie",
+          "L'impact sur les relations commerciales entre les États-Unis et la Chine"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde (International)",
+            "title": "Nvidia : les Etats-Unis cherchent à bloquer l’accès de la Chine aux puces américaines par le biais de pays tiers",
+            "link": "https://www.lemonde.fr/international/article/2026/11/16/nvidia-les-etats-unis-cherchent-a-bloquer-l-acces-de-la-chine-aux-puces-americaines-par-le-biais-de-pays-tiers_6812260_3210.html",
+            "publishedAt": "2026-11-16T18:30:08.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Figaro",
+            "title": "Nvidia, OpenAI, Anthropic… Le plan de Donald Trump pour accélérer la conquête mondiale de ses « champions nationaux de l’IA »",
+            "link": "https://www.lefigaro.fr/secteur/high-tech/nvidia-openai-anthropic-le-plan-de-donald-trump-pour-accelerer-la-conquete-mondiale-de-ses-champions-nationaux-de-l-ia-20261116",
+            "publishedAt": "2026-11-16T19:00:00.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+            "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-16T19:16:52.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+            "link": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+            "publishedAt": "2026-11-16T18:30:57.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Sky News",
+            "title": "US to further curb China's access to Nvidia chips",
+            "link": "https://news.sky.com/story/us-to-further-curb-chinas-access-to-ai-chips-from-companies-like-nvidia-13612884",
+            "publishedAt": "2026-11-16T14:59:00.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race",
+            "link": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-16T16:32:00.000Z",
+            "lang": "en",
+            "country": "DE"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Too Many Chips in One Basket?",
+            "link": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
+            "publishedAt": "2026-11-16T16:56:44.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Wall Street Journal",
+            "title": "Nvidia Scandal Threatens China’s Charm Offensive Ahead of Trump Summit",
+            "link": "https://www.wsj.com/world/china/nvidia-scandal-threatens-chinas-charm-offensive-ahead-of-trump-summit-9fa887fe?mod=rss_worldnews",
+            "publishedAt": "2026-11-16T17:43:00.000Z",
+            "lang": "en",
+            "country": "US"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/16/500/0/6000/3000/644/322/60/0/034781f_upload-1-g5l4tsika0du-000-622u4vd.jpg",
+          "credit": "Le Monde (International)",
+          "link": "https://www.lemonde.fr/international/article/2026/11/16/nvidia-les-etats-unis-cherchent-a-bloquer-l-acces-de-la-chine-aux-puces-americaines-par-le-biais-de-pays-tiers_6812260_3210.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "US restrictions on Nvidia chips and tensions surrounding its leadership",
+            "context": "High-performance electronic chips produced by the American company Nvidia are essential for the development of advanced artificial intelligence. They represent a major strategic and economic issue in the rivalry between Washington and Beijing.",
+            "summary": "The US government is seeking to strengthen the blockage of exports of Nvidia's advanced chips to China, notably by establishing rules targeting transits through third countries. At the same time, Nvidia's management is facing uncertainty following the departure of its CEO Jensen Huang, whose return is publicly supported by Donald Trump and several tech industry players. These regulatory and managerial tensions are weighing on financial markets. They are part of a context of global economic confrontation over artificial intelligence leadership.",
+            "plain": "IN SHORT: The United States wants to prevent China from buying its most powerful computer chips for artificial intelligence research. Quarrels surrounding Nvidia's leadership add uncertainty to the markets.",
+            "stakes": [
+              "Control of key technologies for artificial intelligence",
+              "The financial stability of American tech giants",
+              "The impact on trade relations between the United States and China"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Restricciones estadounidenses a los chips de Nvidia y tensiones en torno a su dirección",
+            "context": "Los chips electrónicos de alto rendimiento producidos por la empresa estadounidense Nvidia son indispensables para el desarrollo de la inteligencia artificial avanzada. Constituyen un desafío estratégico y económico mayor en la rivalidad entre Washington y Pekín.",
+            "summary": "El gobierno estadounidense busca reforzar el bloqueo a las exportaciones de los chips avanzados de Nvidia hacia China, en particular mediante el establecimiento de reglas que apuntan a los tránsitos por países terceros. Al mismo tiempo, la dirección de Nvidia es objeto de incertidumbres tras la marcha de su jefe Jensen Huang, cuyo regreso es apoyado públicamente por Donald Trump y varios actores del sector tecnológico. Estas tensiones regulatorias y gerenciales pesan sobre los mercados financieros. Se inscriben en un contexto de enfrentamiento económico global en torno al liderazgo de la inteligencia artificial.",
+            "plain": "EN CLARO: Estados Unidos quiere impedir que China compre sus chips informáticos más potentes para la investigación sobre inteligencia artificial. Las disputas en torno a la dirección de Nvidia añaden incertidumbre a los mercados.",
+            "stakes": [
+              "El control de las tecnologías clave para la inteligencia artificial",
+              "La estabilidad financiera de los gigantes tecnológicos estadounidenses",
+              "El impacto en las relaciones comerciales entre Estados Unidos y China"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s1bc0a1c88c",
+        "topic": "societe",
+        "title": "Fin de la tournée du pape Léon XIV en Amérique du Sud",
+        "context": "Le pape Léon XIV s'est rendu en Amérique du Sud pour un voyage officiel de douze jours couvrant plusieurs nations du continent. Ce déplacement s'est déroulé quelques semaines seulement après une intervention chirurgicale subie par le souverain pontife.",
+        "summary": "Le pape Léon XIV a achevé son voyage de douze jours en Amérique du Sud, qui l'a mené en Uruguay, en Argentine et au Pérou. Malgré les inquiétudes sur son état de santé à la suite de son opération aux poumons en octobre, le pontife a assuré un programme dense et rassemblé de grandes foules. Lors de ses prises de parole, il a insisté sur la protection de l'environnement, notamment en Amazonie et dans les Andes, tout en prenant la défense des peuples autochtones. Il a également dénoncé les inégalités sociales, la pauvreté et les violences faites aux femmes.",
+        "plain": "EN CLAIR : Le pape a conclu un long voyage en Amérique du Sud où il a rassemblé des millions de personnes. Il a profité de ce déplacement pour défendre la protection de la nature et les droits des peuples indigènes.",
+        "chart": null,
+        "stakes": [
+          "L'unité des communautés catholiques sud-américaines dans un contexte politique divisé",
+          "La portée des déclarations du Vatican sur l'écologie et les droits humains",
+          "La capacité du souverain pontife à maintenir ses déplacements internationaux"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Le pape et les maîtres du monde",
+            "link": "https://www.la-croix.com/a-vif/le-pape-et-les-maitres-du-monde-20261116",
+            "publishedAt": "2026-11-16T17:48:51.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "La Croix",
+            "title": "« L’espace d’un instant, le pape a fait un miracle » : comment Léon XIV a rassemblé une Argentine divisée",
+            "link": "https://www.la-croix.com/religion/l-espace-dun-instant-le-pape-a-fait-un-miracle-comment-leon-xiv-a-rassemble-une-argentine-divisee-20261116",
+            "publishedAt": "2026-11-16T17:24:42.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
+            "link": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
+            "publishedAt": "2026-11-16T17:37:25.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "A ‘miracle’ or Chicago grit? In South America, a post-op pope shows endurance.",
+            "link": "https://www.washingtonpost.com/world/2026/11/16/miracle-or-chicago-grit-south-america-post-op-pope-shows-endurance/",
+            "publishedAt": "2026-11-16T16:25:22.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Straits Times",
+            "title": "Pope Leo ends South America tour that drew millions with one final vast crowd",
+            "link": "https://www.straitstimes.com/world/europe/pope-leo-ends-south-america-tour-that-drew-millions-with-one-final-vast-crowd",
+            "publishedAt": "2026-11-16T16:34:48.000Z",
+            "lang": "en",
+            "country": "SG"
+          },
+          {
+            "name": "El País",
+            "title": "León XIV se despide de la gira por Sudamérica en un Perú volcado con ‘su’ Papa: “Os llevaré siempre conmigo”",
+            "link": "https://elpais.com/america/2026-11-16/leon-xiv-se-despide-de-la-gira-por-sudamerica-en-un-peru-volcado-con-su-papa-os-llevare-siempre-conmigo.html",
+            "publishedAt": "2026-11-16T19:02:30.000Z",
+            "lang": "es",
+            "country": "ES"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "Des Andes à l’Amazonie, Léon XIV insiste sur la protection des peuples et de l’environnement : « Le cri de la terre et le cri des pauvres s’élèvent ensemble »",
+            "link": "https://www.lemonde.fr/international/article/2026/11/16/des-andes-a-l-amazonie-leon-xiv-insiste-sur-la-protection-des-peuples-et-de-l-environnement-le-cri-de-la-terre-et-le-cri-des-pauvres-s-elevent-ensemble_6812198_3210.html",
+            "publishedAt": "2026-11-16T17:05:23.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/09/30/25491802-jerome-chapuis-directeur-de-la-croix.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/a-vif/le-pape-et-les-maitres-du-monde-20261116"
+        },
+        "i18n": {
+          "en": {
+            "title": "End of Pope Leo XIV's tour of South America",
+            "context": "Pope Leo XIV traveled to South America for a twelve-day official trip covering several nations on the continent. This trip took place just a few weeks after the sovereign pontiff underwent surgery.",
+            "summary": "Pope Leo XIV concluded his twelve-day trip to South America, which took him to Uruguay, Argentina, and Peru. Despite concerns about his health following his lung surgery in October, the pontiff maintained a dense schedule and gathered large crowds. In his speeches, he insisted on environmental protection, particularly in the Amazon and the Andes, while defending indigenous peoples. He also denounced social inequalities, poverty, and violence against women.",
+            "plain": "IN SHORT: The pope concluded a long trip to South America where he gathered millions of people. He used this trip to defend the protection of nature and the rights of indigenous peoples.",
+            "stakes": [
+              "The unity of South American Catholic communities in a divided political context",
+              "The scope of Vatican statements on ecology and human rights",
+              "The sovereign pontiff's ability to maintain his international travel"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Fin de la gira del papa León XIV por América del Sur",
+            "context": "El papa León XIV viajó a América del Sur para un viaje oficial de doce días que abarcó varias naciones del continente. Este desplazamiento se produjo pocas semanas después de una intervención quirúrgica a la que se sometió el sumo pontífice.",
+            "summary": "El papa León XIV concluyó su viaje de doce días a América del Sur, que lo llevó a Uruguay, Argentina y Perú. A pesar de las preocupaciones sobre su estado de salud tras su operación de pulmón en octubre, el pontífice cumplió con un programa denso y reunió a grandes multitudes. Durante sus intervenciones, insistió en la protección del medio ambiente, especialmente en la Amazonía y los Andes, al tiempo que tomó la defensa de los pueblos indígenas. También denunció las desigualdades sociales, la pobreza y la violencia contra las mujeres.",
+            "plain": "EN CLARO: El papa concluyó un largo viaje por América del Sur donde reunió a millones de personas. Aprovechó este desplazamiento para defender la protección de la naturaleza y los derechos de los pueblos indígenas.",
+            "stakes": [
+              "La unidad de las comunidades católicas sudamericanas en un contexto político dividido",
+              "El alcance de las declaraciones del Vaticano sobre ecología y derechos humanos",
+              "La capacidad del sumo pontífice para mantener sus desplazamientos internacionales"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s7d3949895d",
+        "topic": "sciences_tech",
+        "title": "Négociations à l'ONU sur l'encadrement des armes autonomes et robots tueurs",
+        "context": "Les progrès rapides de l'intelligence artificielle permettent la conception de systèmes d'armes capables de sélectionner et de frapper des cibles sans intervention humaine directe. Cette perspective suscite des débats éthiques et sécuritaires mondiaux.",
+        "summary": "Des représentants diplomatiques se sont réunis à Genève pour discuter d'une régulation internationale des armes létales autonomes, désignées sous le terme de « robots tueurs ». Le secrétaire général de l'ONU, António Guterres, a appelé les États à s'entendre sur un accord contraignant pour encadrer ou interdire ces technologies. Les négociations se heurtent toutefois aux réticences de plusieurs grandes puissances militaires, dont les États-Unis et la Russie, opposées à des règles juridiquement obligatoires. Les organisations non gouvernementales mettent en garde contre l'absence de contrôle humain sur les décisions de tir.",
+        "plain": "EN CLAIR : Des pays discutent à l'ONU pour décider s'il faut interdire ou limiter les armes capables de tuer sans décision humaine. L'absence d'accord entre les grandes puissances bloque la création de règles obligatoires.",
+        "chart": null,
+        "stakes": [
+          "L'établissement de limites éthiques à l'utilisation militaire de l'IA",
+          "La prévention d'une nouvelle course aux armements haute technologie",
+          "L'efficacité des traités internationaux face aux innovations de défense"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "« Robots tueurs » : le défi de la régulation des armes autonomes pilotées par l’IA",
+            "link": "https://www.la-croix.com/international/robots-tueurs-le-defi-de-la-regulation-des-armes-autonomes-pilotees-par-l-ia-20261116",
+            "publishedAt": "2026-11-16T18:00:44.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "NPR",
+            "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+            "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+            "publishedAt": "2026-11-16T18:04:50.000Z",
+            "lang": "en",
+            "country": "US"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/16/2590620-antonio-guterres-a-appele-lundi-16-novembre-2026-a.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/international/robots-tueurs-le-defi-de-la-regulation-des-armes-autonomes-pilotees-par-l-ia-20261116"
+        },
+        "i18n": {
+          "en": {
+            "title": "UN negotiations on the regulation of autonomous weapons and killer robots",
+            "context": "Rapid advancements in artificial intelligence are enabling the design of weapon systems capable of selecting and striking targets without direct human intervention. This prospect is sparking global ethical and security debates.",
+            "summary": "Diplomatic representatives gathered in Geneva to discuss international regulation of lethal autonomous weapons, referred to as \"killer robots.\" UN Secretary-General António Guterres urged states to agree on a binding accord to regulate or ban these technologies. However, the negotiations are running into reluctance from several major military powers, including the United States and Russia, which oppose legally mandatory rules. Non-governmental organizations are warning against the lack of human control over shooting decisions.",
+            "plain": "IN SHORT: Countries are discussing at the UN to decide whether to ban or limit weapons capable of killing without human decision. The lack of agreement among major powers is blocking the creation of mandatory rules.",
+            "stakes": [
+              "The establishment of ethical limits on the military use of AI",
+              "The prevention of a new high-tech arms race",
+              "The effectiveness of international treaties in the face of defense innovations"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Negociaciones en la ONU sobre la regulación de las armas autónomas y robots asesinos",
+            "context": "Los rápidos avances de la inteligencia artificial permiten el diseño de sistemas de armas capaces de seleccionar y atacar objetivos sin intervención humana directa. Esta perspectiva suscita debates éticos y de seguridad a nivel mundial.",
+            "summary": "Representantes diplomáticos se reunieron en Ginebra para debatir sobre una regulación internacional de las armas letales autónomas, denominadas \"robots asesinos\". El secretario general de la ONU, António Guterres, hizo un llamado a los Estados para que acuerden un tratado vinculante que regule o prohíba estas tecnologías. Sin embargo, las negociaciones tropiezan con las reticencias de varias grandes potencias militares, entre ellas Estados Unidos y Rusia, opuestas a normas jurídicamente obligatorias. Las organizaciones no gubernamentales advierten contra la falta de control humano sobre las decisiones de fuego.",
+            "plain": "EN CLARO: Varios países discuten en la ONU para decidir si se deben prohibir o limitar las armas capaces de matar sin una decisión humana. La falta de acuerdo entre las grandes potencias frena la creación de normas obligatorias.",
+            "stakes": [
+              "El establecimiento de límites éticos al uso militar de la IA",
+              "La prevención de una nueva carrera armamentista de alta tecnología",
+              "La eficacia de los tratados internacionales frente a las innovaciones de defensa"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s15bf1354bf",
+        "topic": "culture",
+        "title": "Désignation de Robert Pattinson pour incarner le personnage de James Bond",
+        "context": "Après le départ de l'acteur Daniel Craig, l'une des franchises cinématographiques les plus populaires et rentables du cinéma mondial cherchait le comédien qui reprendrait le rôle de l'espion britannique James Bond.",
+        "summary": "Les studios Amazon MGM ont annoncé l'attribution du rôle de James Bond à l'acteur britannique Robert Pattinson. L'ancien comédien des sagas Twilight et Batman devient ainsi le septième acteur officiel à interpréter le personnage de 007 au cinéma. Cette nomination constitue le premier grand choix de casting depuis le rachat complet de la franchise par le groupe Amazon. Le studio prépare la production de la prochaine étape cinématographique de l'agent secret.",
+        "plain": "EN CLAIR : L'acteur Robert Pattinson a été choisi pour incarner le personnage de James Bond au cinéma. Une nouvelle étape commence pour cette saga célèbre après plusieurs années d'attente.",
+        "chart": null,
+        "stakes": [
+          "Le renouvellement artistique et commercial d'une franchise cinématographique majeure",
+          "Les choix stratégiques d'Amazon dans la gestion de ses licences culturelles",
+          "L'accueil par le public de la nouvelle incarnation du personnage"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "When will we see Robert Pattinson as Bond in cinemas?",
+            "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-16T17:18:54.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "BBC News",
+            "title": "Robert Pattinson: How the Twilight star became 007",
+            "link": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-16T15:02:41.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "British actor Robert Pattinson named as new James Bond",
+            "link": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss",
+            "publishedAt": "2026-11-16T18:13:14.000Z",
+            "lang": "en",
+            "country": "QA"
+          },
+          {
+            "name": "South China Morning Post",
+            "title": "Robert Pattinson is named the 7th James Bond, taking over from Daniel Craig",
+            "link": "https://www.scmp.com/news/world/united-states-canada/article/3374641/robert-pattinson-named-7th-james-bond-taking-over-daniel-craig",
+            "publishedAt": "2026-11-16T16:19:54.000Z",
+            "lang": "en",
+            "country": "HK"
+          },
+          {
+            "name": "RFI",
+            "title": "Cinéma: l'acteur britannique Robert Pattinson sera le nouveau James Bond",
+            "link": "https://www.rfi.fr/fr/culture/20261116-cin%C3%A9ma-l-acteur-britannique-robert-pattinson-sera-le-nouveau-james-bond",
+            "publishedAt": "2026-11-16T15:16:36.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6849/live/22d15940-e1ed-11f1-99a1-253766e7ad8b.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Robert Pattinson appointed to play the character of James Bond",
+            "context": "Following the departure of actor Daniel Craig, one of the most popular and profitable film franchises in global cinema was looking for the actor to take on the role of British spy James Bond.",
+            "summary": "Amazon MGM Studios announced the casting of British actor Robert Pattinson in the role of James Bond. The former actor from the Twilight and Batman sagas thus becomes the seventh official actor to portray the character of 007 on film. This appointment constitutes the first major casting choice since the complete acquisition of the franchise by the Amazon group. The studio is preparing the production of the secret agent's next cinematic chapter.",
+            "plain": "IN SHORT: Actor Robert Pattinson has been chosen to play the character of James Bond in the movies. A new chapter begins for this famous saga after several years of waiting.",
+            "stakes": [
+              "The artistic and commercial renewal of a major film franchise",
+              "Amazon's strategic choices in managing its cultural licenses",
+              "Public reception of the new incarnation of the character"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Designación de Robert Pattinson para encarnar al personaje de James Bond",
+            "context": "Tras la salida del actor Daniel Craig, una de las franquicias cinematográficas más populares y rentables del cine mundial buscaba al actor que asumiría el papel del espía británico James Bond.",
+            "summary": "Los estudios Amazon MGM anunciaron la asignación del papel de James Bond al actor británico Robert Pattinson. El ex actor de las sagas Crepúsculo y Batman se convierte así en el séptimo actor oficial en interpretar al personaje de 007 en el cine. Este nombramiento constituye la primera gran elección de casting desde la adquisición completa de la franquicia por parte del grupo Amazon. El estudio prepara la producción de la próxima etapa cinematográfica del agente secreto.",
+            "plain": "EN CLARO: El actor Robert Pattinson ha sido elegido para encarnar al personaje de James Bond en el cine. Una nueva etapa comienza para esta famosa saga tras varios años de espera.",
+            "stakes": [
+              "La renovación artística y comercial de una gran franquicia cinematográfica",
+              "Las elecciones estratégicas de Amazon en la gestión de sus licencias culturales",
+              "La acogida por parte del público de la nueva encarnación del personaje"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s2d94637f42",
+        "topic": "sport",
+        "title": "Candidature européenne surprise face à Gianni Infantino pour la présidence de la FIFA",
+        "context": "La présidence de la Fédération internationale de football association (FIFA), l'instance suprême qui gère le football mondial, est occupée par Gianni Infantino, qui brigue un nouveau mandat lors des prochaines élections.",
+        "summary": "Le président de la Fédération française de football, Philippe Diallo, a été désigné par le comité exécutif de l'UEFA pour se présenter à la présidence de la FIFA. Cette candidature soutenue unanimement par l'instance européenne vient faire obstacle au président sortant Gianni Infantino. Le scrutin se tiendra en mars 2027 lors du congrès de l'organisation à Rabat, au Maroc. Cette initiative met en lumière les divergences de vue entre le football européen et la gouvernance actuelle de la fédération internationale.",
+        "plain": "EN CLAIR : Le patron du football français se présente pour diriger la FIFA face à l'actuel président Gianni Infantino. Cette candidature soutenue par l'Europe relance le débat sur la gestion du football mondial.",
+        "chart": null,
+        "stakes": [
+          "L'équilibre des forces politiques entre l'Europe et les autres confédérations",
+          "Les choix de gouvernance et de répartition des recettes du football mondial",
+          "Les réformes futures de l'organisation des compétitions internationales"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Philippe Diallo, inattendu challenger de Gianni Infantino à la présidence de la FIFA",
+            "link": "https://www.lemonde.fr/sport/article/2026/11/16/philippe-diallo-inattendu-challenger-de-gianni-infantino-a-la-presidence-de-la-fifa_6812297_3242.html",
+            "publishedAt": "2026-11-16T19:02:55.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Sky News",
+            "title": "FIFA president Gianni Infantino faces challenge from French football chief",
+            "link": "https://news.sky.com/story/head-of-french-football-to-stand-against-infantino-in-fifa-presidential-election-13612894",
+            "publishedAt": "2026-11-16T15:25:00.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "RFI",
+            "title": "Foot: le patron de la FFF Philippe Diallo candidat à la présidence de la Fifa",
+            "link": "https://www.rfi.fr/fr/sports/20261116-foot-le-patron-de-la-fff-philippe-diallo-candidat-%C3%A0-la-pr%C3%A9sidence-de-la-fifa",
+            "publishedAt": "2026-11-16T16:15:13.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Euronews",
+            "title": "Le Français Philippe Diallo va défier Gianni Infantino pour la présidence de la FIFA",
+            "link": "https://fr.euronews.com/2026/11/16/le-francais-philippe-diallo-va-defier-gianni-infantino-pour-la-presidence-de-la-fifa",
+            "publishedAt": "2026-11-16T17:52:42.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/16/220/0/2640/1320/644/322/60/0/ed3f614_upload-1-hfirbvd1l0u5-000-b7xh3kh.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/sport/article/2026/11/16/philippe-diallo-inattendu-challenger-de-gianni-infantino-a-la-presidence-de-la-fifa_6812297_3242.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Surprise European bid against Gianni Infantino for the FIFA presidency",
+            "context": "The presidency of the International Federation of Association Football (FIFA), the supreme body governing world football, is held by Gianni Infantino, who is running for a new term in the upcoming elections.",
+            "summary": "The president of the French Football Federation, Philippe Diallo, has been designated by the UEFA executive committee to run for the FIFA presidency. This candidacy, unanimously supported by the European body, poses a challenge to incumbent president Gianni Infantino. The election will take place in March 2027 during the organization's congress in Rabat, Morocco. This initiative highlights differing viewpoints between European football and the current governance of the international federation.",
+            "plain": "IN SHORT: The head of French football is running to lead FIFA against current president Gianni Infantino. This European-backed candidacy revives the debate over the management of world football.",
+            "stakes": [
+              "The balance of political power between Europe and other confederations",
+              "Governance choices and the distribution of revenues in world football",
+              "Future reforms in the organization of international competitions"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Sorpresiva candidatura europea frente a Gianni Infantino para la presidencia de la FIFA",
+            "context": "La presidencia de la Federación Internacional de Fútbol Asociación (FIFA), el máximo organismo que rige el fútbol mundial, la ocupa Gianni Infantino, quien aspira a un nuevo mandato en las próximas elecciones.",
+            "summary": "El presidente de la Federación Francesa de Fútbol, Philippe Diallo, ha sido designado por el comité ejecutivo de la UEFA para presentarse a la presidencia de la FIFA. Esta candidatura, respaldada por unanimidad por el organismo europeo, supone un obstáculo para el presidente saliente, Gianni Infantino. Los comicios se celebrarán en marzo de 2027 durante el congreso de la organización en Rabat, Marruecos. Esta iniciativa pone de relieve las divergencias de opinión entre el fútbol europeo y la actual gobernanza de la federación internacional.",
+            "plain": "EN CLARIDAD: El jefe del fútbol francés se presenta para dirigir la FIFA frente al actual presidente Gianni Infantino. Esta candidatura respaldada por Europa reaviva el debate sobre la gestión del fútbol mundial.",
+            "stakes": [
+              "El equilibrio de fuerzas políticas entre Europa y las demás confederaciones",
+              "Las decisiones de gobernanza y reparto de ingresos del fútbol mundial",
+              "Las futuras reformas en la organización de las competiciones internacionales"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s0b8611dd07",
+        "topic": "international",
+        "title": "Renforcement militaire américain au Moyen-Orient et vives tensions avec l'Iran",
+        "context": "Les relations entre les États-Unis et l'Iran demeurent très tendues dans la région du Golfe Persique, avec des incidents militaires répétés et une présence navale importante des forces armées américaines.",
+        "summary": "Les États-Unis ont augmenté leur présence militaire au Moyen-Orient avec l'arrivée d'un troisième porte-avions, le USS Theodore Roosevelt. Dans le même temps, Téhéran a revendiqué des frappes de drones contre des installations à Bahreïn, qualifiées de répliques aux opérations américaines. L'ancien secrétaire d'État américain Antony Blinken a mis en garde contre les risques majeurs d'une intervention terrestre face à l'escalade des affrontements. De son côté, l'Iran poursuit ses avertissements directs à l'encontre des navires et du personnel militaire américain.",
+        "plain": "EN CLAIR : Les États-Unis ont envoyé de nouveaux navires de guerre au Moyen-Orient après des attaques de drones attribuées à l'Iran. La situation reste très tendue et fait craindre un affrontement plus étendu.",
+        "chart": null,
+        "stakes": [
+          "La sécurité de la navigation et des installations pétrolières dans le Golfe",
+          "Le risque d'un conflit armé direct entre Washington et Téhéran",
+          "La stabilité politique globale des pays du Moyen-Orient"
+        ],
+        "sources": [
           {
             "name": "The Washington Post",
             "title": "Iran targets Bahrain twice after months of quiet, claiming retaliation against U.S.",
             "link": "https://www.washingtonpost.com/world/2026/11/15/iran-targets-bahrain-twice-after-months-quiet-claiming-retaliation-against-us/",
             "publishedAt": "2026-11-15T18:18:13.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Wall Street Journal",
+            "title": "Watch What U.S. Aircraft Carriers Bring to the Iran War",
+            "link": "https://www.wsj.com/world/middle-east/watch-what-u-s-aircraft-carriers-bring-to-the-iran-war-cf8b3b51?mod=rss_worldnews",
+            "publishedAt": "2026-11-16T19:13:00.000Z",
             "lang": "en",
             "country": "US"
           },
@@ -933,317 +1376,41 @@
             "country": "US"
           },
           {
-            "name": "Le Monde (International)",
-            "title": "L’armée israélienne affirme avoir frappé une cargaison d’armes du Hezbollah dans l’est du Liban",
-            "link": "https://www.lemonde.fr/international/article/2026/11/16/l-armee-israelienne-affirme-avoir-frappe-une-cargaison-d-armes-du-hezbollah-dans-l-est-du-liban_6811700_3210.html",
-            "publishedAt": "2026-11-16T11:28:17.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://i.la-croix.com/x/2026/11/16/2590142-des-decombres-de-maisons-deux-jours-apres-des-frap.jpg",
-          "credit": "La Croix",
-          "link": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-262-moyen-orient-bilan-resume-aujourdhui-20261116"
-        },
-        "i18n": {
-          "en": {
-            "title": "Escalation of military and security tensions in the Middle East",
-            "context": "The Middle East region remains the theater of several interconnected crisis hotspots involving various armed forces and regional movements.",
-            "summary": "In Yemen, forces backed by Saudi Arabia have withdrawn from the Bab el-Mandeb Strait towards Aden in the face of pressure from Houthi rebels. In the Strait of Hormuz, an oil tanker caught fire after being hit by a projectile of unknown origin. Concurrently, the Israeli army carried out strikes in eastern Lebanon, claiming to have targeted a Hezbollah weapons stockpile. Finally, drone strikes attributed to Iran targeted Bahrain, raising fears of a regional conflagration.",
-            "plain": "IN SHORT: Tensions are worsening on several fronts in the Middle East, with attacks targeting merchant ships, airstrikes in Lebanon, and troop movements around strategic maritime routes.",
-            "stakes": [
-              "Security of international commercial maritime navigation",
-              "Risk of expansion of regional armed clashes",
-              "Stability of global energy supplies"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Escalada de tensiones militares y de seguridad en Oriente Medio",
-            "context": "La región de Oriente Medio sigue siendo escenario de varios focos de crisis interconectados que involucran a diversas fuerzas armadas y movimientos regionales.",
-            "summary": "En Yemen, las fuerzas apoyadas por Arabia Saudí se han retirado del estrecho de Bab el-Mandeb hacia Adén ante la presión de los rebeldes hutíes. En el estrecho de Ormuz, un petrolero se incendió tras ser alcanzado por un proyectil de origen desconocido. Paralelamente, el ejército israelí llevó a cabo ataques en el este del Líbano, afirmando haber atacado un almacén de armas de Hezbolá. Por último, los ataques con drones atribuidos a Irán tuvieron como objetivo Baréin, lo que genera temores de un estallido regional.",
-            "plain": "EN CLARO: Las tensiones empeoran en varios frentes en Oriente Medio, con ataques contra barcos mercantes, ataques aéreos en Líbano y movimientos de tropas alrededor de las rutas marítimas estratégicas.",
-            "stakes": [
-              "Seguridad de la navegación comercial marítima internacional",
-              "Riesgo de extensión de los enfrentamientos armados regionales",
-              "Estabilidad de los suministros energéticos mundiales"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s32a826199b",
-        "topic": "politique",
-        "title": "Tchéquie : manifestation massive à Prague contre la réforme de l'audiovisuel",
-        "context": "Le gouvernement tchèque dirigé par Andrej Babiš souhaite réorganiser le financement de la télévision et de la radio publiques pour limiter les dépenses.",
-        "summary": "Près de 400 000 personnes se sont rassemblées à Prague pour protester contre le projet de réforme du financement des médias publics. Les manifestants et les opposants affirment que ce changement menace la liberté de la presse et la neutralité des antennes. Le gouvernement maintient quant à lui que cette décision répond à des impératifs de réduction des coûts de fonctionnement de l'audiovisuel d'État.",
-        "plain": "EN CLAIR : Des centaines de milliers de personnes ont manifesté dans la capitale tchèque contre une réforme modifiant le financement de la télévision publique. Les manifestants craignent une perte d'indépendance de l'information, ce que le gouvernement dément.",
-        "chart": null,
-        "stakes": [
-          "Indépendance de l'information publique en République tchèque",
-          "Gestion du budget de l'audiovisuel public",
-          "Ampleur de la contestation populaire face aux réformes gouvernementales"
-        ],
-        "sources": [
-          {
-            "name": "Le Monde (International)",
-            "title": "République tchèque : les images de la plus grande manifestation dans le pays depuis 1989",
-            "link": "https://www.lemonde.fr/international/video/2026/11/16/republique-tcheque-les-images-de-la-plus-grande-manifestation-dans-le-pays-depuis-1989_6811766_3210.html",
-            "publishedAt": "2026-11-16T12:12:51.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "BBC News",
-            "title": "Czechs rally against plan to switch funding of public media",
-            "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-15T21:03:40.000Z",
-            "lang": "en",
-            "country": "GB"
-          }
-        ],
-        "image": {
-          "url": "https://img.lemde.fr/2026/11/15/439/0/5264/2632/644/322/60/0/f5a7cce_ftp-1-xbdm793glltv-2026-11-15t160533z-1645454597-rc2fooa3zeb0-rtrmadp-3-czech-media.JPG",
-          "credit": "Le Monde (International)",
-          "link": "https://www.lemonde.fr/international/video/2026/11/16/republique-tcheque-les-images-de-la-plus-grande-manifestation-dans-le-pays-depuis-1989_6811766_3210.html"
-        },
-        "i18n": {
-          "en": {
-            "title": "Czechia: massive protest in Prague against audiovisual reform",
-            "context": "The Czech government led by Andrej Babiš wants to reorganize the funding of public television and radio to curb expenditures.",
-            "summary": "Nearly 400,000 people gathered in Prague to protest against the proposed public media funding reform. Demonstrators and opponents claim this change threatens press freedom and the neutrality of broadcasting. Meanwhile, the government maintains that this decision responds to imperatives of reducing the operating costs of state broadcasting.",
-            "plain": "IN SHORT: Hundreds of thousands of people demonstrated in the Czech capital against a reform modifying the funding of public television. Demonstrators fear a loss of news independence, which the government denies.",
-            "stakes": [
-              "Independence of public information in the Czech Republic",
-              "Management of the public broadcasting budget",
-              "Scale of popular protest against government reforms"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Chequia: manifestación masiva en Praga contra la reforma audiovisual",
-            "context": "El gobierno checo dirigido por Andrej Babiš desea reorganizar la financiación de la televisión y la radio públicas para limitar los gastos.",
-            "summary": "Cerca de 400.000 personas se congregaron en Praga para protestar contra el proyecto de reforma de la financiación de los medios públicos. Los manifestantes y los opositores afirman que este cambio amenaza la libertad de prensa y la neutralidad de las cadenas. Por su parte, el gobierno sostiene que esta decisión responde a imperativos de reducción de los costes de funcionamiento de la radiodifusión estatal.",
-            "plain": "EN CLARO: Cientos de miles de personas se manifestaron en la capital checa contra una reforma que modifica la financiación de la televisión pública. Los manifestantes temen una pérdida de independencia de la información, algo que el gobierno desmiente.",
-            "stakes": [
-              "Independencia de la información pública en la República Checa",
-              "Gestión del presupuesto audiovisual público",
-              "Magnitud de la protesta popular frente a las reformas gubernamentales"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s436bbd781c",
-        "topic": "economie",
-        "title": "L'Union européenne valide le rachat de Commerzbank par UniCredit",
-        "context": "Le secteur bancaire européen fait l'objet de restructurations impliquant des opérations d'acquisition transfrontalières.",
-        "summary": "La Commission européenne a donné son feu vert à la prise de contrôle de la banque allemande Commerzbank par l'établissement italien UniCredit. Les services européens de la concurrence ont estimé que l'opération ne présentait pas de risque de position dominante. Cette décision est intervenue malgré l'opposition ferme du gouvernement allemand, actionnaire de Commerzbank, qui tente de fixer des limites à cette fusion.",
-        "plain": "EN CLAIR : Les autorités européennes ont autorisé la banque italienne UniCredit à racheter la banque allemande Commerzbank. Le gouvernement allemand s'opposait à ce rachat, mais l'UE a estimé qu'il respectait les règles de la concurrence.",
-        "chart": null,
-        "stakes": [
-          "Consolidation du marché bancaire au sein de la zone euro",
-          "Souveraineté financière et bancaire de l'Allemagne",
-          "Pouvoir d'arbitrage de la Commission européenne face aux États membres"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "title": "EU gibt UniCredit grünes Licht für Commerzbank-Übernahme",
-            "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html",
-            "publishedAt": "2026-11-16T11:50:50.000Z",
-            "lang": "de",
-            "country": "DE"
-          },
-          {
-            "name": "The Wall Street Journal",
-            "title": "UniCredit’s Commerzbank Bid Gets EU Approval",
-            "link": "https://www.wsj.com/business/deals/unicredits-commerzbank-bid-gets-eu-approval-44a821a6?mod=rss_worldnews",
-            "publishedAt": "2026-11-16T10:57:00.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "Politico Europe",
-            "title": "EU genehmigt Übernahme der Commerzbank durch UniCredit",
-            "link": "https://www.politico.eu/article/eu-genehmigt-uebernahme-der-commerzbank-durch-unicredit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-            "publishedAt": "2026-11-16T11:25:23.000Z",
-            "lang": "en",
-            "country": "BE"
-          },
-          {
-            "name": "Politico Europe",
-            "title": "Brussels clears UniCredit takeover of Commerzbank over Berlin’s objections",
-            "link": "https://www.politico.eu/article/eu-clears-unicredit-takeover-of-commerzbank/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-            "publishedAt": "2026-11-16T10:38:36.000Z",
-            "lang": "en",
-            "country": "BE"
-          }
-        ],
-        "image": {
-          "url": "https://images.tagesschau.de/image/48088695-d98f-4a0b-8eb4-cc1626bbac65/AAABoeQe9Xs/AAABnSSvrFg/16x9-big/commerzbank-195.jpg?width=1920",
-          "credit": "Tagesschau",
-          "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html"
-        },
-        "i18n": {
-          "en": {
-            "title": "The European Union validates UniCredit's buyout of Commerzbank",
-            "context": "The European banking sector is the subject of restructurings involving cross-border acquisition operations.",
-            "summary": "The European Commission has given the green light to the takeover of the German bank Commerzbank by the Italian institution UniCredit. European competition services estimated that the operation did not pose a risk of a dominant position. This decision came despite firm opposition from the German government, a shareholder in Commerzbank, which is trying to set limits on this merger.",
-            "plain": "IN SHORT: European authorities have authorized the Italian bank UniCredit to buy the German bank Commerzbank. The German government opposed this buyout, but the EU considered that it complied with competition rules.",
-            "stakes": [
-              "Consolidation of the banking market within the eurozone",
-              "Financial and banking sovereignty of Germany",
-              "Arbitration power of the European Commission vis-à-vis member states"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "La Unión Europea valida la compra de Commerzbank por UniCredit",
-            "context": "El sector bancario europeo es objeto de reestructuraciones que implican operaciones de adquisición transfronterizas.",
-            "summary": "La Comisión Europea dio luz verde a la adquisición del banco alemán Commerzbank por parte de la entidad italiana UniCredit. Los servicios europeos de competencia estimaron que la operación no presentaba un riesgo de posición dominante. Esta decisión se produjo a pesar de la firme oposición del gobierno alemán, accionista de Commerzbank, que intenta fijar límites a esta fusión.",
-            "plain": "EN CLARO: Las autoridades europeas han autorizado al banco italiano UniCredit a comprar el banco alemán Commerzbank. El gobierno alemán se oponía a esta compra, pero la UE estimó que respetaba las normas de la competencia.",
-            "stakes": [
-              "Consolidación del mercado bancario dentro de la eurozona",
-              "Soberanía financiera y bancaria de Alemania",
-              "Poder de arbitraje de la Comisión Europea frente a los Estados miembros"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "sfa56287cab",
-        "topic": "sciences_tech",
-        "title": "La Jordanie bloque Telegram après l'attentat contre une église",
-        "context": "Les autorités nationales tentent de réguler les applications de messagerie cryptée accusées de faciliter la diffusion de messages d'orientation extrémiste.",
-        "summary": "Le gouvernement jordanien a décrété l'interdiction de l'application Telegram sur son territoire à la suite d'une attaque contre une église ayant fait sept morts. Les autorités affirment que la plateforme est utilisée pour propager des contenus radicaux et menacer la sécurité nationale. Le royaume a parallèlement appelé la population à faire preuve de prudence sur les réseaux sociaux.",
-        "plain": "EN CLAIR : La Jordanie a interdit la messagerie Telegram après un attentat meurtrier contre une église. Le gouvernement explique vouloir empêcher la diffusion de contenus extrémistes sur la plateforme.",
-        "chart": null,
-        "stakes": [
-          "Équilibre entre sécurité nationale et accès aux outils numériques",
-          "Efficacité des fermetures d'applications face au terrorisme",
-          "Protection des données et communications privées"
-        ],
-        "sources": [
-          {
-            "name": "Deutsche Welle",
-            "title": "Jordan bans Telegram app over 'radicalisation' claims",
-            "link": "https://www.dw.com/en/jordan-bans-telegram-app-over-radicalisation-claims/a-79956706?maca=en-rss-en-world-4025-rdf",
-            "publishedAt": "2026-11-16T10:22:00.000Z",
-            "lang": "en",
-            "country": "DE"
-          },
-          {
-            "name": "Le Monde (International)",
-            "title": "La Jordanie interdit Telegram, accusé de contribuer à « l’extrémisme », après l’attaque meurtrière d’une église",
-            "link": "https://www.lemonde.fr/pixels/article/2026/11/16/la-jordanie-interdit-telegram-accuse-de-contribuer-a-l-extremisme-apres-l-attaque-meurtriere-d-une-eglise_6811768_4408996.html",
-            "publishedAt": "2026-11-16T12:36:45.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://img.lemde.fr/2026/10/25/239/0/5500/2750/644/322/60/0/269111d_ftp-1-3h5zhrdvqtzp-2026-10-25t141215z-1755896726-rc2p9oalwnmb-rtrmadp-3-jordan-church.JPG",
-          "credit": "Le Monde (International)",
-          "link": "https://www.lemonde.fr/pixels/article/2026/11/16/la-jordanie-interdit-telegram-accuse-de-contribuer-a-l-extremisme-apres-l-attaque-meurtriere-d-une-eglise_6811768_4408996.html"
-        },
-        "i18n": {
-          "en": {
-            "title": "Jordan blocks Telegram following church attack",
-            "context": "National authorities are attempting to regulate encrypted messaging applications accused of facilitating the spread of extremist-oriented messages.",
-            "summary": "The Jordanian government decreed a ban on the Telegram application within its territory following an attack on a church that left seven dead. Authorities claim the platform is used to propagate radical content and threaten national security. Concurrently, the kingdom called on the population to exercise caution on social networks.",
-            "plain": "IN SHORT: Jordan banned the Telegram messaging app following a deadly attack against a church. The government explains it wants to prevent the spread of extremist content on the platform.",
-            "stakes": [
-              "Balance between national security and access to digital tools",
-              "Efficacy of app shutdowns against terrorism",
-              "Protection of private data and communications"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Jordania bloquea Telegram tras el atentado contra una iglesia",
-            "context": "Las autoridades nacionales intentan regular las aplicaciones de mensajería cifrada acusadas de facilitar la difusión de mensajes de orientación extremista.",
-            "summary": "El gobierno jordano decretó la prohibición de la aplicación Telegram en su territorio tras un ataque contra una iglesia que dejó siete muertos. Las autoridades afirman que la plataforma se utiliza para propagar contenidos radicales y amenazar la seguridad nacional. Paralelamente, el reino hizo un llamamiento a la población para que actúe con cautela en las redes sociales.",
-            "plain": "EN CLARO: Jordania prohibió la mensajería Telegram tras un atentado mortal contra una iglesia. El gobierno explica que quiere impedir la difusión de contenidos extremistas en la plataforma.",
-            "stakes": [
-              "Equilibrio entre seguridad nacional y acceso a herramientas digitales",
-              "Eficacia de los cierres de aplicaciones frente al terrorismo",
-              "Protección de datos y comunicaciones privadas"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s48e22967ac",
-        "topic": "sciences_tech",
-        "title": "Armes autonomes : début de négociation à l'ONU pour encadrer les robots tueurs",
-        "context": "L'intégration croissante de l'intelligence artificielle dans les systèmes d'armement suscite de vives inquiétudes éthiques et militaires.",
-        "summary": "Une conférence s'est ouverte à Genève sous l'égide des Nations unies pour débattre de l'encadrement des armes autonomes léthales. Le secrétaire général de l'ONU, soutenu par des chercheurs et des industriels, plaide pour l'adoption de règles contraignantes interdisant les systèmes capables de tuer sans contrôle humain direct. Les négociations achoppent sur le niveau de supervision obligatoire et sur la portée juridique des futurs engagements.",
-        "plain": "EN CLAIR : Des pays se rencontrent à Genève sous l'égide de l'ONU pour encadrer ou interdire les armements automatisés capables de tuer sans décision humaine. De nombreux scientifiques et diplomates demandent des règles strictes.",
-        "chart": null,
-        "stakes": [
-          "Responsabilité morale et juridique dans l'usage d'armes intelligentes",
-          "Adoption d'un traité international contraignant sur les technologies de défense",
-          "Risque de prolifération d'équipements militaires incontrôlés"
-        ],
-        "sources": [
-          {
             "name": "The Hindu",
-            "title": "UN-backed talks consider possible rules on lethal autonomous weapons",
-            "link": "https://www.thehindu.com/news/international/un-backed-talks-consider-possible-rules-on-lethal-autonomous-weapons/article71707403.ece",
-            "publishedAt": "2026-11-16T11:17:03.000Z",
+            "title": "Third American aircraft carrier arrives in West Asia as Trump keeps options open in Iran war",
+            "link": "https://www.thehindu.com/news/international/third-american-aircraft-carrier-arrives-in-west-asia-as-trump-keeps-options-open-in-iran-war/article71709128.ece",
+            "publishedAt": "2026-11-16T17:00:24.000Z",
             "lang": "en",
             "country": "IN"
-          },
-          {
-            "name": "South China Morning Post",
-            "title": "UN chief urges countries to rein in ‘killer robots’ on the battlefield",
-            "link": "https://www.scmp.com/news/world/europe/article/3374616/un-chief-urges-countries-rein-killer-robots-battlefield",
-            "publishedAt": "2026-11-16T11:47:55.000Z",
-            "lang": "en",
-            "country": "HK"
-          },
-          {
-            "name": "Le Monde (International)",
-            "title": "Armes autonomes : « Confier la décision de tuer à des systèmes algorithmiques revient à franchir une ligne rouge morale »",
-            "link": "https://www.lemonde.fr/idees/article/2026/11/16/armes-autonomes-confier-la-decision-de-tuer-a-des-systemes-algorithmiques-revient-a-franchir-une-ligne-rouge-morale_6811701_3232.html",
-            "publishedAt": "2026-11-16T11:30:07.000Z",
-            "lang": "fr",
-            "country": "FR"
           }
         ],
         "image": {
-          "url": "https://th-i.thgim.com/public/incoming/ma7kk7/article71707571.ece/alternates/LANDSCAPE_1200/iStock-1404313318.jpg",
-          "credit": "The Hindu",
-          "link": "https://www.thehindu.com/news/international/un-backed-talks-consider-possible-rules-on-lethal-autonomous-weapons/article71707403.ece"
+          "url": "https://images.wsj.net/im-29512993",
+          "credit": "The Wall Street Journal",
+          "link": "https://www.wsj.com/world/middle-east/watch-what-u-s-aircraft-carriers-bring-to-the-iran-war-cf8b3b51?mod=rss_worldnews"
         },
         "i18n": {
           "en": {
-            "title": "Autonomous weapons: UN negotiations begin to regulate killer robots",
-            "context": "The increasing integration of artificial intelligence into weapon systems raises acute ethical and military concerns.",
-            "summary": "A conference opened in Geneva under the auspices of the United Nations to debate the regulation of lethal autonomous weapons. The UN Secretary-General, supported by researchers and industrialists, advocates for the adoption of binding rules prohibiting systems capable of killing without direct human control. Negotiations are stumbling over the level of mandatory supervision and the legal scope of future commitments.",
-            "plain": "IN SHORT: Countries are meeting in Geneva under the auspices of the UN to regulate or ban automated weaponry capable of killing without human decision. Numerous scientists and diplomats are demanding strict rules.",
+            "title": "US military reinforcement in the Middle East and acute tensions with Iran",
+            "context": "Relations between the United States and Iran remain very tense in the Persian Gulf region, marked by repeated military incidents and a significant naval presence of US armed forces.",
+            "summary": "The United States has increased its military presence in the Middle East with the arrival of a third aircraft carrier, the USS Theodore Roosevelt. Meanwhile, Tehran claimed responsibility for drone strikes against facilities in Bahrain, describing them as retaliation for US operations. Former US Secretary of State Antony Blinken warned of the major risks of a ground intervention amid escalating clashes. For its part, Iran continues to issue direct warnings against US vessels and military personnel.",
+            "plain": "IN SHORT: The United States has sent new warships to the Middle East following drone attacks attributed to Iran. The situation remains very tense, raising fears of a broader conflict.",
             "stakes": [
-              "Moral and legal responsibility in the use of intelligent weapons",
-              "Adoption of a binding international treaty on defense technologies",
-              "Risk of proliferation of uncontrolled military equipment"
+              "The security of navigation and oil facilities in the Gulf",
+              "The risk of a direct armed conflict between Washington and Tehran",
+              "The overall political stability of Middle Eastern countries"
             ],
             "chart": null
           },
           "es": {
-            "title": "Armas autónomas: inicio de negociaciones en la ONU para regular los robots asesinos",
-            "context": "La creciente integración de la inteligencia artificial en los sistemas de armamento suscita profundas preocupaciones éticas y militares.",
-            "summary": "Se abrió una conferencia en Ginebra bajo los auspicios de las Naciones Unidas para debatir sobre la regulación de las armas autónomas letales. El secretario general de la ONU, apoyado por investigadores e industriales, aboga por la adopción de normas vinculantes que prohíban los sistemas capaces de matar sin control humano directo. Las negociaciones tropiezan con el nivel de supervisión obligatoria y el alcance jurídico de los futuros compromisos.",
-            "plain": "EN CLARO: Varios países se reúnen en Ginebra bajo los auspicios de la ONU para regular o prohibir los armamentos automatizados capaces de matar sin decisión humana. Numerosos científicos y diplomáticos exigen normas estrictas.",
+            "title": "Refuerzo militar estadounidense en Oriente Medio y agudas tensiones con Irán",
+            "context": "Las relaciones entre Estados Unidos e Irán siguen siendo muy tensas en la región del golfo Pérsico, con incidentes militares repetidos y una importante presencia naval de las fuerzas armadas estadounidenses.",
+            "summary": "Estados Unidos ha incrementado su presencia militar en Oriente Medio con la llegada de un tercer portaaviones, el USS Theodore Roosevelt. Al mismo tiempo, Teherán reivindicó ataques con drones contra instalaciones en Baréin, calificados como réplicas a las operaciones estadounidenses. El exsecretario de Estado estadounidense Antony Blinken advirtió sobre los graves riesgos de una intervención terrestre ante la escalada de enfrentamientos. Por su parte, Irán mantiene sus advertencias directas contra los buques y el personal militar estadounidense.",
+            "plain": "EN CLARIDAD: Estados Unidos ha enviado nuevos buques de guerra a Oriente Medio tras ataques con drones atribuidos a Irán. La situación sigue siendo muy tensa y hace temer un enfrentamiento más amplio.",
             "stakes": [
-              "Responsabilidad moral y jurídica en el uso de armas inteligentes",
-              "Adopción de un tratado internacional vinculante sobre tecnologías de defensa",
-              "Riesgo de proliferación de equipos militares descontrolados"
+              "La seguridad de la navegación y de las instalaciones petroleras en el Golfo",
+              "El riesgo de un conflicto armado directo entre Washington y Teherán",
+              "La estabilidad política global de los países de Oriente Medio"
             ],
             "chart": null
           }
@@ -1251,276 +1418,276 @@
       }
     ]
   },
-  "storiesAt": "2026-11-16T13:12:49.630Z",
-  "inputHash": "9251caefe3f8816af1e376ac54d5b045f6f784c1",
-  "synthStatus": "ok",
+  "storiesAt": "2026-11-16T19:54:44.803Z",
+  "inputHash": null,
+  "synthStatus": "partielle",
   "news": {
     "france": [
       {
-        "id": "a91f0ca1311",
-        "title": "F1. Les combines du président de la Fédération internationale pour s’offrir un mandat à vie",
-        "link": "https://www.ouest-france.fr/sport/formule-1/f1-les-combines-du-president-de-la-federation-internationale-pour-soffrir-un-mandat-a-vie-427ee4f0-e1b7-11f1-b029-43a761592972?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-        "summary": "Mohammed Ben Sulayem, président de la Fédération internationale d’automobile depuis 2021, a fait supprimer la limitation du nombre de mandats, et espère supprimer la restriction d’âge, qu’il a déjà relevée à 75 ans. Ses détracteurs déplorent une volonté de s’assurer un mandat à vie.",
-        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExZTEzYWQ4Mzc2ZWFlZGUzOWI1YjJhOGJhMzkxYTA1NzE?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=8571581be4b8645f1bdd35a4fa1253782a90b9ec69594979cee5924e561b2540",
-        "publishedAt": "2026-11-16T12:56:40.000Z",
+        "id": "a0b61e7f571",
+        "title": "« C’est très impressionnant » : un marin photographie quatre sangliers nageant dans le golfe du Morbihan",
+        "link": "https://www.ouest-france.fr/bretagne/morbihan/cest-tres-impressionnant-un-marin-photographie-quatre-sangliers-nageant-dans-le-golfe-du-morbihan-bbac056e-e1ea-11f1-9a29-f4bab172af08?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "C’est un phénomène qui est rarement observé : ce lundi 16 novembre, un marin a croisé et photographié quatre sangliers nageant dans le golfe du Morbihan. Il raconte.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExOGFmMTc4NzljMzYyNjBhODE3MmRjYTM0ZmZkZTcxMjg?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=8745d05bae4e98c66897770418fe7e858a1c22724c1b0d3cbea3ed04cf4b6205",
+        "publishedAt": "2026-11-16T19:44:30.000Z",
         "source": "Ouest-France",
         "lang": "fr",
         "country": "FR",
         "lean": 0
       },
       {
-        "id": "a006968eb8b",
-        "title": "Réforme des retraites du RN, journée de grève nationale... Les 4 infos dont vous allez entendre parler demain",
-        "link": "https://www.lejdd.fr/politique/reforme-des-retraites-du-rn-journee-de-greve-nationale-les-4-infos-dont-vous-allez-entendre-parler-demain-188835",
-        "summary": "Chaque jour, le JDD vous présente les infos dont vous allez entendre parler le lendemain. Au programme : la présentation de la réforme des retraites du RN ; la nouvelle journée de grève ; le déplacement de Donald Trump en marge de l'Asean et l'élection du nouveau président de la Knesset.",
-        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/16/12/000_b9jt9zd-3.jpg?VersionId=mLNkkyUhPG0pBG2V4yrJ4tYacQ_pR8Ta",
-        "publishedAt": "2026-11-16T12:54:27.000Z",
-        "source": "Le JDD",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 2
-      },
-      {
-        "id": "a77a47343fc",
-        "title": "Guerre au Moyen-Orient : pétrolier touché dans le détroit d’Ormuz ; frappe israélienne au Liban",
-        "link": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-262-moyen-orient-bilan-resume-aujourdhui-20261116",
-        "summary": "Un pétrolier a été touché à la sortie du détroit d’Ormuz par un projectile d’origine inconnue qui a provoqué un incendie. L’aviation israélienne a mené une frappe dans l’est du Liban, affirmant avoir visé le Hezbollah. Retrouvez l’actualité du conflit au Moyen-Orient de ce lundi 16 novembre.",
-        "image": "https://i.la-croix.com/x/2026/11/16/2590142-des-decombres-de-maisons-deux-jours-apres-des-frap.jpg",
-        "publishedAt": "2026-11-16T12:54:06.000Z",
-        "source": "La Croix",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 0.5
-      },
-      {
-        "id": "a75d33d51aa",
-        "title": "Gérard Depardieu présente ses « excuses » : victoire pour les victimes ou stratégie pour éviter de nouveaux procès ?",
-        "link": "https://www.humanite.fr/societe/agressions-sexuelles/gerard-depardieu-presente-ses-excuses-victoire-pour-les-victimes-ou-strategie-pour-eviter-de-nouveaux-proces",
-        "summary": "Après avoir annoncé son désistement de son procès en appel pour avoir agressé sexuellement deux femmes lors du tournage du film «&nbsp;Les volets verts&nbsp;» en 2021, Gérard Depardieu a présenté ses «&nbsp;excuses, profondes et sincères&nbsp;». S’il pourrait s’agir d’une stratégie pour tenter d’évi",
-        "image": "https://www.humanite.fr/wp-content/uploads/2026/11/depardieu_4b7895.jpg?w=1200",
-        "publishedAt": "2026-11-16T12:48:54.000Z",
-        "source": "L'Humanité",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -2
-      },
-      {
-        "id": "aa0b8c9f765",
-        "title": "EN IMAGES – Pour la sortie de GTA VI, Miami se mue en «Vice City»",
-        "link": "https://www.liberation.fr/culture/photographie/en-images-pour-la-sortie-de-gta-vi-miami-se-mue-en-vice-city-20261116_K2HE5GC4ANC57CTKXSXLG6JSSI/",
-        "summary": "A deux jours de la sortie du nouveau «Grand Theft Auto», la métropole floridienne, qui a inspiré la ville dans laquelle se déroule ce nouvel opus, s’est parée des couleurs et des enseignes du jeu vidéo avec des pubs XXL.",
-        "image": null,
-        "publishedAt": "2026-11-16T12:47:48.000Z",
-        "source": "Libération",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1.5
-      },
-      {
-        "id": "a7fd3a543c7",
-        "title": "\"Les tôles ont commencé à partir en l'air\" : une violente tempête frappe la Mayenne",
-        "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/les-toles-ont-commence-a-partir-en-l-air-une-violente-tempete-frappe-la-mayenne_8284841.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "Un phénomène très violent a balayé une partie de la Mayenne, dimanche 15 novembre. Toitures et arbres ont été arrachés. En quelques minutes, le vent a occasionné d’importants dégâts. Certains habitants ont eu une grosse frayeur.",
-        "image": "https://www.franceinfo.fr/pictures/bIoQc21VUc9zgRHB1k_zhvAI8VI/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/16/6afaf8ef0693f464055431.jpg",
-        "publishedAt": "2026-11-16T12:47:11.000Z",
-        "source": "franceinfo",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 0
-      },
-      {
-        "id": "a75cbd7beb6",
-        "title": "Les étudiants internationaux se détournent des facs américaines, et Donald Trump n'y est pas pour rien",
-        "link": "https://www.lexpress.fr/campus/les-etudiants-internationaux-se-detournent-des-facs-americaines-et-donald-trump-ny-est-pas-pour-rien-LLT7D44W2ZEBHDRAFBRN5M5YQE/",
-        "summary": "",
-        "image": "https://www.lexpress.fr/resizer/v2/DZCSIUNLZBB5TO5FLOPGF6TYAM.jpg?auth=9d1cd8e6a03d4690205adf362b1651383687853e5e7ba6eff12faae5d210553b&smart=true&width=6960&height=4640",
-        "publishedAt": "2026-11-16T12:46:29.000Z",
-        "source": "L'Express",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 1
-      },
-      {
-        "id": "a41fa1a18ef",
-        "title": "La France interdit la pêche à l’anguille adulte dans toutes les rivières… avec des réserves",
-        "link": "https://www.liberation.fr/environnement/la-france-interdit-la-peche-a-languille-adulte-dans-toutes-les-rivieres-avec-des-reserves-20261116_UQW5GIOGPFB7RHFNKR4IKJSXH4/",
-        "summary": "Un moratoire sur la pêche au migrateur une fois devenu adulte est entré en vigueur samedi 14 novembre. Mais les défenseurs de l’environnement se désolent que les professionnels puissent continuer à attraper ce poisson dont les populations s’effondrent.",
-        "image": null,
-        "publishedAt": "2026-11-16T12:41:30.000Z",
-        "source": "Libération",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1.5
-      },
-      {
-        "id": "aa26db6f9c5",
-        "title": "Hisense C2, le vidéoprojecteur 4K triple laser de 100 pouces avec son JBL intégré pour le Black Friday",
-        "link": "https://www.lefigaro.fr/bons-plans/high-tech/hisense-c2-le-videoprojecteur-4k-triple-laser-de-100-pouces-avec-son-jbl-integre-pour-le-black-friday-20261116",
-        "summary": "Vous rêvez d’une image géante de 100 pouces dans le salon, mais pas d’une télé toujours éteinte qui n’en finirait pas de masquer la pièce ? Le Hisense C2 Ultra, un projecteur triple laser 4K et 3 000 lumens avec double coeur de cible et audio JBL signé par Dolby Atmos, est désormais en promotion Bla",
-        "image": "https://i.f1g.fr/media/cms/1200x900_crop/2026/11/16/f4ed5e1b80b1190ebb99d7d3b305f0f74c211d1a9487072fc4045a00d4d6196c.png",
-        "publishedAt": "2026-11-16T12:41:21.000Z",
-        "source": "Le Figaro",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 1.5
-      },
-      {
-        "id": "a3b5b5598c4",
-        "title": "Alexandre Mérieux : « La résistance aux antibiotiques est une pandémie silencieuse qui cause 1,3 million de morts par an »",
-        "link": "https://www.lefigaro.fr/societes/alexandre-merieux-la-resistance-aux-antibiotiques-est-une-pandemie-silencieuse-qui-cause-1-3-million-de-morts-par-an-20261116",
-        "summary": "ENTRETIEN - Face à la hausse des risques infectieux, le président de bioMérieux souligne l’importance du suivi épidémiologique et des diagnostics.",
-        "image": "https://i.f1g.fr/media/cms/2996x1686_crop/2026/11/16/074ccdb95782b33b7bf0204f62be17e568a212dc943616db4bded3d70df4e19d.jpg",
-        "publishedAt": "2026-11-16T12:40:18.000Z",
-        "source": "Le Figaro",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 1.5
-      },
-      {
-        "id": "a12a6563055",
-        "title": "Législatives en Israël : Benyamin Nétanyahou accusé d’avoir tenté un « coup d’Etat » par des opposants",
-        "link": "https://www.lemonde.fr/international/article/2026/11/16/legislatives-en-israel-benyamin-netanyahou-accuse-d-avoir-tente-un-coup-d-etat-par-des-opposants_6811767_3210.html",
-        "summary": "Le chef de cabinet de M. Nétanyahou est accusé d’avoir orienté des officiers de police vers une prétendue source de renseignement sur des militants d’une formation arabe, qui était en fait un ancien employé du bureau du premier ministre.",
-        "image": "https://img.lemde.fr/2026/11/10/148/0/8192/4096/644/322/60/0/d42cfdf_ftp-1-zafy0kb9e8hx-afp-d7393nr.jpg",
-        "publishedAt": "2026-11-16T12:19:23.000Z",
+        "id": "affdcd57134",
+        "title": "Narcobanditisme : pourquoi Amine Oualane et Karim Harrat sont condamnés à la réclusion criminelle à perpétuité",
+        "link": "https://www.lemonde.fr/societe/article/2026/11/16/narcobanditisme-pourquoi-amine-oualane-et-karim-harrat-sont-condamnes-a-la-reclusion-criminelle-a-perpetuite_6812326_3224.html",
+        "summary": "Les deux hommes sont reconnus coupables d’avoir organisé l’assassinat de trois concurrents, dont le frère du militant Amine Kessaci, qui voit dans le verdict « un message à la narcocratie ».",
+        "image": "https://img.lemde.fr/2026/11/16/157/0/5780/2890/644/322/60/0/d9d9a94_upload-1-ynh5trz9v5le-000-d3pa67b.jpg",
+        "publishedAt": "2026-11-16T19:34:20.000Z",
         "source": "Le Monde",
         "lang": "fr",
         "country": "FR",
         "lean": -1
       },
       {
-        "id": "a32a826199b",
-        "title": "République tchèque : les images de la plus grande manifestation dans le pays depuis 1989",
-        "link": "https://www.lemonde.fr/international/video/2026/11/16/republique-tcheque-les-images-de-la-plus-grande-manifestation-dans-le-pays-depuis-1989_6811766_3210.html",
-        "summary": "Près de 400 000 manifestants se sont rassemblés à Prague pour protester contre une réforme visant à modifier le financement de l’audiovisuel public, poussée par le gouvernement populiste d’Andrej Babis.",
-        "image": "https://img.lemde.fr/2026/11/15/439/0/5264/2632/644/322/60/0/f5a7cce_ftp-1-xbdm793glltv-2026-11-15t160533z-1645454597-rc2fooa3zeb0-rtrmadp-3-czech-media.JPG",
-        "publishedAt": "2026-11-16T12:12:51.000Z",
-        "source": "Le Monde",
+        "id": "a8da26ef09e",
+        "title": "Présidence des maires de France : pourquoi David Lisnard peut espérer un troisième mandat",
+        "link": "https://www.lefigaro.fr/politique/presidence-des-maires-de-france-pourquoi-david-lisnard-peut-esperer-un-troisieme-mandat-20261116",
+        "summary": "DÉCRYPTAGE - Malgré la croissance des oppositions auxquelles il est confronté, le maire de Cannes et candidat à la présidentielle compte plusieurs atouts pour poursuivre sa mission à la tête de la première association d’élus de France.",
+        "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/16/e010bbca065e8a3a3c51bd8280e6b6cb59b6e1191883e01759bce2cbaf6b3965.jpg",
+        "publishedAt": "2026-11-16T19:32:31.000Z",
+        "source": "Le Figaro",
         "lang": "fr",
         "country": "FR",
-        "lean": -1
+        "lean": 1.5
       },
       {
-        "id": "a54094e25e9",
-        "title": "Présidentielle 2027 : Marine Le Pen jugée la plus capable de lutter contre les discriminations",
-        "link": "https://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-marine-le-pen-jugee-la-plus-capable-de-lutter-contre-les-discriminations",
-        "summary": "Il y a les thématiques conquises de longue date. Et celles où le plafond de verre soudain se brise. À parcourir les résultats de notre enquête exclusive Ifop pour Valeurs... L’article Présidentielle 2027 : Marine Le Pen jugée la plus capable de lutter contre les discriminations est apparu en premier",
+        "id": "a0f149fff43",
+        "title": "« Ils cherchaient des fascistes » : à Marseille, une violente agression de militants RN et de la Cocarde dans un bar fait plusieurs blessés",
+        "link": "https://www.valeursactuelles.com/societe/ils-cherchaient-des-fascistes-a-marseille-une-violente-agression-de-militants-rn-et-de-la-cocarde-dans-un-bar-fait-plusieurs-blesses",
+        "summary": "Samedi 14 novembre, vers 21 h 50, une quinzaine d’individus masqués ont agressé plusieurs militants du Rassemblement national et de La Cocarde présents au Churchill, un bar du XIIe arrondissement... L’article « Ils cherchaient des fascistes » : à Marseille, une violente agression de militants RN et ",
         "image": null,
-        "publishedAt": "2026-11-16T11:59:19.000Z",
+        "publishedAt": "2026-11-16T19:31:53.000Z",
         "source": "Valeurs actuelles",
         "lang": "fr",
         "country": "FR",
         "lean": 2
       },
       {
-        "id": "ab79481289d",
-        "title": "Destruction de la statue de la Vierge à Porto-Vecchio : deux hommes devant la justice",
-        "link": "https://www.franceinfo.fr/replay-jt/france-2/8-heures/destruction-de-la-statue-de-la-vierge-a-porto-vecchio-deux-hommes-devant-la-justice_8284487.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "Un mois et demi après la dégradation d'une statue de la Vierge Marie à Porto-Vecchio, deux hommes comparaissent devant la justice. L’acte avait scandalisé l’île. Les deux prévenus devraient être entendus en visioconférence.",
-        "image": "https://www.franceinfo.fr/pictures/8BuN_AKBubZ_BdnElMilI--F-A8/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/16/6afac782326f5765966849.jpg",
-        "publishedAt": "2026-11-16T11:22:29.000Z",
+        "id": "af032be7b2a",
+        "title": "«Aux Antilles, nous observons plus de 60 % de perte» : les coraux tropicaux français dans un état préoccupant",
+        "link": "https://www.liberation.fr/environnement/biodiversite/aux-antilles-nous-observons-plus-de-60-de-perte-les-coraux-tropicaux-francais-dans-un-etat-preoccupant-20261116_NYDGJQW5PJEQFLX7XIJN3BHYLI/",
+        "summary": "L’Initiative française pour les récifs coralliens (Ifrecor) a dévoilé lundi 16 novembre un bilan de l’état des récifs coralliens d’outre mer. Entre pollutions locales, canicules marines et cyclones, ces écosystèmes d’une riche biodiversité ont été largement dégradés sur les cinq dernières années.",
+        "image": null,
+        "publishedAt": "2026-11-16T19:27:08.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "ac605efb3e3",
+        "title": "Rugby : trois espoirs du Stade Rochelais en garde à vue pour «violences aggravées»",
+        "link": "https://www.liberation.fr/societe/police-justice/rugby-trois-espoirs-du-stade-rochelais-en-garde-a-vue-pour-violences-aggravees-20261116_56XKUR5JANBA5C7BA45ZBBMVJI/",
+        "summary": "Après une altercation dans une boîte de nuit, ils auraient frappé violemment deux jeunes de 19 ans.",
+        "image": null,
+        "publishedAt": "2026-11-16T19:26:25.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "acd1bf3753b",
+        "title": "Pourquoi le recrutement des cadres atteint la cote d’alerte",
+        "link": "https://www.lefigaro.fr/conjoncture/pourquoi-le-recrutement-des-cadres-atteint-la-cote-d-alerte-20261116",
+        "summary": "DÉCRYPTAGE - Très peu des entreprises interrogées par l’Association pour l’emploi des cadres (Apec) envisagent d’en embaucher au cours des trois prochains mois.",
+        "image": "https://i.f1g.fr/media/cms/2959x1664_crop/2026/11/16/ed72351de3659b0f5c364ac779e164542418dbcf830227f8e6a1b54e33494e80.jpg",
+        "publishedAt": "2026-11-16T19:25:58.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "a030b975d33",
+        "title": "Nantes : à peine rouvert, le lycée incendié voit ses cours de nouveau suspendus jusqu’à mercredi",
+        "link": "https://www.la-croix.com/societe/nantes-a-peine-rouvert-le-lycee-incendie-voit-ses-cours-de-nouveau-suspendus-jusqu-a-mercredi-20261116",
+        "summary": "Près d’un mois et demi après l’incendie partiel du lycée Mandela de Nantes, sa réouverture tant attendue lundi 16 novembre a rapidement tourné court. Après la visite ce matin du ministre de l’éducation Édouard Geffray, hué par des élèves, les cours ont été de nouveau suspendus dès l’après-midi.",
+        "image": "https://i.la-croix.com/x/2026/11/16/2590820-dans-une-ambiance-electrique-le-ministre-de-l-educ.jpg",
+        "publishedAt": "2026-11-16T19:19:50.000Z",
+        "source": "La Croix",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0.5
+      },
+      {
+        "id": "ac68725a15e",
+        "title": "Cinq pays de l'UE dévoilent leur projet de centre pour migrants au Rwanda",
+        "link": "https://www.lexpress.fr/monde/europe/cinq-pays-de-lue-devoilent-leur-projet-de-centre-pour-migrants-au-rwanda-PSF4X3ATCFEMLLWUPF4CPK2JXY/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/ROMZMUHKJJAZ5IRAB7FDDOCJKM.JPG?auth=a5686acb715e8dcf5f415fb4b8d87cc21c6cddee539e8e5502fce54d7ce90b35&smart=true&width=5277&height=3518",
+        "publishedAt": "2026-11-16T19:07:54.000Z",
+        "source": "L'Express",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1
+      },
+      {
+        "id": "aab4ebe73f5",
+        "title": "Mobilisation de la jeunesse : 20 % des établissements du supérieur et 25 lycées franciliens perturbés lundi",
+        "link": "https://www.lemonde.fr/societe/article/2026/11/16/mobilisation-de-la-jeunesse-20-des-etablissements-du-superieur-et-25-lycees-franciliens-perturbes-lundi_6812298_3224.html",
+        "summary": "A la veille d’une nouvelle journée de mobilisation nationale, le gouvernement durcit le ton face à la contestation, en interdisant notamment la vente de mortiers d’artifice et les rassemblements autour de certains établissements parisiens.",
+        "image": "https://img.lemde.fr/2026/11/02/530/0/5578/2789/644/322/60/0/c80569f_ftp-1-nx82sivzt4uj-afp-d6629e7.jpg",
+        "publishedAt": "2026-11-16T19:06:05.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "a12858b0d7c",
+        "title": "Adolescent mortellement fauché dans le Puy-de-Dôme : deux hommes mis en examen",
+        "link": "https://www.franceinfo.fr/faits-divers/adolescent-mortellement-fauche-dans-le-puy-de-dome-deux-hommes-mis-en-examen_8285369.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Deux hommes de 22 et 19 ans, soupçonnés d'être impliqués dans l'homicide routier vendredi à Gerzat (Puy-de-Dôme), ont été mis en examen, indique le parquet de Clermont-Ferrand dans un communiqué ce lundi soir.",
+        "image": "https://www.franceinfo.fr/pictures/rRasZ-Q-CUPR3Cd0l2YxBRMtU-0/0x471:6048x3873/432x243/filters:format(jpg)/2026/11/16/6afb536c6833c922526146.jpg",
+        "publishedAt": "2026-11-16T19:03:14.000Z",
         "source": "franceinfo",
         "lang": "fr",
         "country": "FR",
         "lean": 0
+      },
+      {
+        "id": "a3251fd2f3e",
+        "title": "Pierre Ménès face à la justice : « On ne m’a jamais donné de limites », le sexisme en coulisses du Canal Football Club",
+        "link": "https://www.humanite.fr/feminisme/feminisme/pierre-menes-face-a-la-justice-on-ne-ma-jamais-donne-de-limites-le-sexisme-en-coulisses-du-canal-football-club",
+        "summary": "L’ancien chroniqueur de Canal + comparaissait ce lundi 16 novembre devant le tribunal correctionnel de Nanterre pour des faits de « harcèlement et d’atteintes sexuelles » sur trois femmes. Une affaire née des révélations du documentaire de Marie Portolano, qui avait pointé le sexisme dans les rédact",
+        "image": "https://www.humanite.fr/wp-content/uploads/2026/11/AFP_D7LL2AU-2.jpg?w=1200",
+        "publishedAt": "2026-11-16T18:53:42.000Z",
+        "source": "L'Humanité",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -2
+      },
+      {
+        "id": "ac874c6a4aa",
+        "title": "Un corps et des ossements découverts dans les Côtes-d'Armor, une enquête pour assassinat est ouverte",
+        "link": "https://www.franceinfo.fr/faits-divers/un-corps-et-des-ossements-decouverts-dans-les-cotes-d-armor-une-enquete-pour-assassinat-est-ouverte_8285348.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Un corps et des ossements ont été découverts dans la nuit de samedi à dimanche au lieu-dit Les Bouillons, situé au Fœil (Côtes-d'Armor), indique ce lundi ICI Armorique. Une enquête pour assassinat est ouverte.",
+        "image": "https://www.franceinfo.fr/pictures/FtJ1ELHvV1O5H3iub5J93819H9M/0x326:3543x2319/432x243/filters:format(jpg)/2026/11/16/6afb4d7a1cd49175553090.jpg",
+        "publishedAt": "2026-11-16T18:37:56.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "a52f1b05de4",
+        "title": "Mélenchon «chtarbé», Rima Hassan «des trous d’air dans le keffieh»... Le chanteur Pierre Perret se lâche sur les Insoumis",
+        "link": "https://www.lejdd.fr/politique/melenchon-chtarbe-rima-hassan-des-trous-dair-dans-le-keffieh-le-chanteur-pierre-perret-se-lache-sur-les-insoumis-188898",
+        "summary": "Dans son titre « Les Antisémites » paru la semaine dernière, le chanteur de 92 ans se moque du chef de file des Insoumis et de plusieurs figures du parti.",
+        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/16/18/076_chlflo_024983.jpg?VersionId=DHaWbbIKMifN_4ok2jf2mQcsf1B_gzzR",
+        "publishedAt": "2026-11-16T17:26:40.000Z",
+        "source": "Le JDD",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
       }
     ],
     "monde": [
       {
-        "id": "a8d5a143784",
-        "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
-        "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-        "summary": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f790/live/14731cc0-bfcb-11f0-8456-eff94716b162.jpg",
-        "publishedAt": "2026-11-16T12:54:44.000Z",
-        "source": "BBC News",
-        "lang": "en",
-        "country": "GB",
-        "lean": 0
-      },
-      {
-        "id": "a88c54ccc32",
-        "title": "Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html",
-        "summary": "Die Bundesregierung will die Stromsteuer senken - bislang war jedoch unklar, wie das gegenfinanziert werden soll. Jetzt gibt es offenbar eine Möglichkeit: Kanzler Merz zeigte sich sicher, dass sich SPD und Union morgen einigen.",
-        "image": "https://images.tagesschau.de/image/08258aaa-6bc7-4587-8e53-9d190092cf87/AAABoeRlSGU/AAABnSSvrFg/16x9-big/merz-1800.jpg?width=1920",
-        "publishedAt": "2026-11-16T12:46:45.000Z",
+        "id": "ac576760f20",
+        "title": "tagesschau mit Gebärdensprache",
+        "link": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12380.html",
+        "summary": "tagesschau mit Gebärdensprache",
+        "image": null,
+        "publishedAt": "2026-11-16T19:40:42.000Z",
         "source": "Tagesschau",
         "lang": "de",
         "country": "DE",
         "lean": 0
       },
       {
-        "id": "ac656e17c3c",
-        "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
-        "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-        "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success Sign up for the Breaking News US email US air travel was slowly returning to normal on Monday after three days of widespread disruption following an extrao",
-        "image": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=140&quality=85&auto=format&fit=max&s=84b5747737aac1f8cef320d0211f08a4",
-        "publishedAt": "2026-11-16T12:39:35.000Z",
-        "source": "The Guardian",
-        "lang": "en",
-        "country": "GB",
-        "lean": -1.5
-      },
-      {
-        "id": "a702fc42a26",
-        "title": "Gérard Depardieu drops appeal against sexual assault conviction",
-        "link": "https://www.theguardian.com/film/2026/nov/16/gerard-depardieu-drops-appeal-against-sexual-assault-conviction",
-        "summary": "French actor apologises to two women he was convicted of assaulting on a film set in 2021 The French actor Gérard Depardieu has dropped his appeal against a conviction for sexually assaulting two women on a film set, and has for the first time apologised to the victims. “I was found guilty. I hear i",
-        "image": "https://i.guim.co.uk/img/media/8645152ecf7185cd8b3f83c5e21adaaddb0697bc/480_355_3217_2574/master/3217.jpg?width=140&quality=85&auto=format&fit=max&s=e2f4a8eb308c65010f2b5764cde3e8fb",
-        "publishedAt": "2026-11-16T12:10:22.000Z",
-        "source": "The Guardian",
-        "lang": "en",
-        "country": "GB",
-        "lean": -1.5
-      },
-      {
-        "id": "afa56287cab",
-        "title": "Jordan bans Telegram app over 'radicalisation' claims",
-        "link": "https://www.dw.com/en/jordan-bans-telegram-app-over-radicalisation-claims/a-79956706?maca=en-rss-en-world-4025-rdf",
-        "summary": "Jordan has imposed a ban on Telegram over a deadly church attack which left seven people dead. The kingdom claims that content on the messaging app poses a threat to \"national interests.\"",
-        "image": null,
-        "publishedAt": "2026-11-16T10:22:00.000Z",
-        "source": "Deutsche Welle",
-        "lang": "en",
-        "country": "DE",
-        "lean": 0
-      },
-      {
-        "id": "aa9eaf50dc7",
-        "title": "Man jailed for life for attempted murder of children that sparked Dublin riots",
-        "link": "https://news.sky.com/story/man-jailed-for-life-for-attempted-murder-of-children-that-sparked-dublin-riots-13612748",
-        "summary": "A man who attempted to murder three children - including stabbing one in the heart - as they waited outside their school in Dublin has been sentenced to life in prison.",
-        "image": "https://e3.365dm.com/26/03/1920x1080/skynews-dublin-dublin-riots_7203476.jpg?20261116102750",
-        "publishedAt": "2026-11-16T10:11:00.000Z",
-        "source": "Sky News",
-        "lang": "en",
-        "country": "GB",
-        "lean": 0.5
-      },
-      {
-        "id": "a1e5d8f925b",
-        "title": "Russia's mega-rich are already imagining a future after Putin",
-        "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg",
-        "publishedAt": "2026-11-16T00:13:14.000Z",
+        "id": "a789464eb26",
+        "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+        "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+        "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f3a/live/c50f43d0-e1dd-11f1-99a1-253766e7ad8b.jpg",
+        "publishedAt": "2026-11-16T19:30:30.000Z",
         "source": "BBC News",
         "lang": "en",
         "country": "GB",
         "lean": 0
       },
       {
-        "id": "ad6bc8e7128",
-        "title": "England stun world champions Spain in one of their greatest victories",
-        "link": "https://www.telegraph.co.uk/football/2026/11/15/spain-vs-england-live-score-latest-nations-league-updates/",
-        "summary": "England stun world champions Spain in one of their greatest victories",
-        "image": "https://www.telegraph.co.uk/content/dam/football/2026/11/15/TELEMMGLPICT000511817090_17947800915580_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf_4Xpit_DMGvdp2n7FDd82k.jpeg",
-        "publishedAt": "2026-11-15T23:32:07.000Z",
+        "id": "ac656e17c3c",
+        "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+        "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+        "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidi",
+        "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b",
+        "publishedAt": "2026-11-16T19:17:37.000Z",
+        "source": "The Guardian",
+        "lang": "en",
+        "country": "GB",
+        "lean": -1.5
+      },
+      {
+        "id": "accefa2bd2e",
+        "title": "The Guardian view on Europe and Burnham: a future that can only be viewed through a glass darkly | Editorial",
+        "link": "https://www.theguardian.com/commentisfree/2026/nov/16/the-guardian-view-on-europe-and-burnham-a-future-that-can-only-be-viewed-through-a-glass-darkly",
+        "summary": "Predicting a final destination for reset negotiations between the EU and the UK is futile, given the wider challenges that Brussels is facing At the European Political Community summit in Dublin last week, Emmanuel Macron was pictured apparently waving a grinning Andy Burnham to a seat at the head o",
+        "image": "https://i.guim.co.uk/img/media/acf9d98dec4c22462c0258419bc2b28e3a45da43/1226_0_3651_2920/master/3651.jpg?width=140&quality=85&auto=format&fit=max&s=56fbb4db05cc1bda06981fcd22b23094",
+        "publishedAt": "2026-11-16T18:37:44.000Z",
+        "source": "The Guardian",
+        "lang": "en",
+        "country": "GB",
+        "lean": -1.5
+      },
+      {
+        "id": "a6180f0403e",
+        "title": "Wall Street slides as Nvidia casts shadow over tech stocks",
+        "link": "https://www.telegraph.co.uk/business/2026/11/16/nvidia-stocks-asia-us-anthropic-tech-trump-ftse-100-markets1/",
+        "summary": "Wall Street slides as Nvidia casts shadow over tech stocks",
+        "image": "https://www.telegraph.co.uk/content/dam/business/2026/11/16/TELEMMGLPICT000511881903_17948511916530_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+        "publishedAt": "2026-11-16T17:54:34.000Z",
         "source": "The Telegraph",
         "lang": "en",
         "country": "GB",
         "lean": 1.5
+      },
+      {
+        "id": "a958d7fb3fb",
+        "title": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race",
+        "link": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766?maca=en-rss-en-world-4025-rdf",
+        "summary": "The controversy surrounding Nvidia and its former CEO Jensen Huang has put a spotlight on the intensifying AI race between the US and China.",
+        "image": null,
+        "publishedAt": "2026-11-16T16:32:00.000Z",
+        "source": "Deutsche Welle",
+        "lang": "en",
+        "country": "DE",
+        "lean": 0
+      },
+      {
+        "id": "a8d5a143784",
+        "title": "Five EU countries announce migrant deportation centre in Rwanda",
+        "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+        "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
+        "publishedAt": "2026-11-16T16:27:24.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      },
+      {
+        "id": "a1167f355c9",
+        "title": "Retrial date set for Lindsay Clancy over killing of her three children",
+        "link": "https://news.sky.com/story/lindsay-clancy-retrial-date-set-over-killing-of-her-three-children-13612927",
+        "summary": "Lindsay Clancy is due to face a retrial next March over the killing of her three young children.",
+        "image": "https://e3.365dm.com/26/11/1920x1080/skynews-lindsay-clancy-clancy-retrial_7407912.jpg?20261116161612",
+        "publishedAt": "2026-11-16T16:20:00.000Z",
+        "source": "Sky News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0.5
       }
     ]
   },
@@ -1601,7 +1768,7 @@
       "name": "BBC News (GB)",
       "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
       "ok": true,
-      "count": 5
+      "count": 8
     },
     {
       "name": "The Guardian (GB)",
@@ -1613,25 +1780,25 @@
       "name": "The Guardian (GB)",
       "url": "https://www.theguardian.com/world/france/rss",
       "ok": true,
-      "count": 4
+      "count": 3
     },
     {
       "name": "The Telegraph (GB)",
       "url": "https://www.telegraph.co.uk/rss.xml",
       "ok": true,
-      "count": 4
+      "count": 6
     },
     {
       "name": "Sky News (GB)",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 6
+      "count": 7
     },
     {
       "name": "Deutsche Welle (DE)",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "ok": true,
-      "count": 5
+      "count": 8
     },
     {
       "name": "Tagesschau (DE)",
@@ -1649,7 +1816,7 @@
       "name": "NPR (US)",
       "url": "https://feeds.npr.org/1004/rss.xml",
       "ok": true,
-      "count": 4
+      "count": 6
     },
     {
       "name": "The New York Times (US)",
@@ -1661,7 +1828,7 @@
       "name": "The Washington Post (US)",
       "url": "https://feeds.washingtonpost.com/rss/world",
       "ok": true,
-      "count": 6
+      "count": 8
     },
     {
       "name": "The Wall Street Journal (US)",
@@ -1673,7 +1840,7 @@
       "name": "Fox News (US)",
       "url": "https://moxie.foxnews.com/google-publisher/world.xml",
       "ok": true,
-      "count": 5
+      "count": 7
     },
     {
       "name": "Politico Europe (BE)",
@@ -1756,8 +1923,8 @@
     {
       "name": "France 24 (FR)",
       "url": "https://www.france24.com/fr/rss",
-      "ok": false,
-      "count": 0
+      "ok": true,
+      "count": 8
     },
     {
       "name": "RFI (FR)",
