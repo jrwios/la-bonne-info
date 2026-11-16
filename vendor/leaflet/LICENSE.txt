@@ -1,0 +1,4 @@
+﻿Leaflet 1.9.4 - https://leafletjs.com
+Copyright (c) 2010-2023, Vladimir Agafonkin. Copyright (c) 2010-2011, CloudMade.
+Distribué sous licence BSD 2-Clause : https://github.com/Leaflet/Leaflet/blob/main/LICENSE
+Fichiers copiés tels quels depuis cdnjs.cloudflare.com pour éviter de charger un script tiers.
