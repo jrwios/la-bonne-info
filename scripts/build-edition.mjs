@@ -11,7 +11,7 @@ import { createHash } from 'node:crypto';
 
 const ROOT = new URL('../', import.meta.url);
 const MAX_AGE_H = 36;
-const PER_FEED = 12;
+const PER_FEED = 8;
 const TARGET = { france: 14, monde: 8 }; // assez de sujets pour couvrir plusieurs centres d'intérêt
 const TOPICS = new Set(['politique', 'economie', 'societe', 'justice', 'sport', 'culture', 'sciences_tech', 'sante', 'environnement', 'international']);
 const LANGS = ['en', 'es'];
@@ -32,30 +32,64 @@ const PROVIDERS = [
     synth: env('LBI_ANTHROPIC_SYNTH', 'claude-sonnet-5-5'), trans: env('LBI_ANTHROPIC_TRANS', 'claude-haiku-5-5'), fallback: [] },
 ].filter(p => p.key && p.key.trim());
 const HAS_AI = PROVIDERS.length > 0;
-// Médias de sensibilités et de pays variés. lang : langue des titres.
+// Médias de pays, de langues et de sensibilités variés.
+// [nom, flux RSS, langue, pays (ISO), sensibilité éditoriale]
+// La sensibilité va de -2 (gauche) à +2 (droite). C'est une estimation approximative, utilisée UNIQUEMENT en interne
+// pour vérifier qu'un sujet sensible s'appuie sur des médias de bords différents. Elle n'est pas affichée sur le site.
+// "france" = médias français ; "monde" = tous les autres. Les deux groupes sont lus ensemble par l'IA.
 const FEEDS = {
   france: [
-    ['franceinfo', 'https://www.francetvinfo.fr/france.rss', 'fr'],
-    ['Le Monde', 'https://www.lemonde.fr/rss/une.xml', 'fr'],
-    ['Le Figaro', 'https://www.lefigaro.fr/rss/figaro_actualites-a-la-une.xml', 'fr'],
-    ['Libération', 'https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml', 'fr'],
-    ['Ouest-France', 'https://www.ouest-france.fr/rss/une', 'fr'],
-    ['La Croix', 'https://www.la-croix.com/RSS', 'fr'],
-    ['L\'Express', 'https://www.lexpress.fr/rss/alaune.xml', 'fr'],
-    ['Le Parisien', 'https://feeds.leparisien.fr/leparisien/rss', 'fr'],
+    ['franceinfo', 'https://www.francetvinfo.fr/france.rss', 'fr', 'FR', 0],
+    ['Le Monde', 'https://www.lemonde.fr/rss/une.xml', 'fr', 'FR', -1],
+    ['Le Figaro', 'https://www.lefigaro.fr/rss/figaro_actualites-a-la-une.xml', 'fr', 'FR', 1.5],
+    ['Libération', 'https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml', 'fr', 'FR', -1.5],
+    ['Ouest-France', 'https://www.ouest-france.fr/rss/une', 'fr', 'FR', 0],
+    ['La Croix', 'https://www.la-croix.com/RSS', 'fr', 'FR', 0.5],
+    ['L\'Express', 'https://www.lexpress.fr/rss/alaune.xml', 'fr', 'FR', 1],
+    ['Le Parisien', 'https://feeds.leparisien.fr/leparisien/rss', 'fr', 'FR', 0],
+    ['L\'Humanité', 'https://www.humanite.fr/feed', 'fr', 'FR', -2],
+    ['Valeurs actuelles', 'https://www.valeursactuelles.com/feed', 'fr', 'FR', 2],
+    ['Le JDD', 'https://www.lejdd.fr/rss.xml', 'fr', 'FR', 2],
   ],
   monde: [
-    ['BBC News', 'https://feeds.bbci.co.uk/news/world/rss.xml', 'en'],
-    ['The Guardian', 'https://www.theguardian.com/world/rss', 'en'],
-    ['Deutsche Welle', 'https://rss.dw.com/rdf/rss-en-world', 'en'],
-    ['Al Jazeera', 'https://www.aljazeera.com/xml/rss/all.xml', 'en'],
-    ['NPR', 'https://feeds.npr.org/1004/rss.xml', 'en'],
-    ['ABC News (Australie)', 'https://www.abc.net.au/news/feed/2942460/rss.xml', 'en'],
-    ['France 24', 'https://www.france24.com/fr/rss', 'fr'],
-    ['Le Monde International', 'https://www.lemonde.fr/international/rss_full.xml', 'fr'],
-    ['RFI', 'https://www.rfi.fr/fr/rss', 'fr'],
+    ['BBC News', 'https://feeds.bbci.co.uk/news/world/rss.xml', 'en', 'GB', 0],
+    ['BBC News', 'https://feeds.bbci.co.uk/news/world/europe/rss.xml', 'en', 'GB', 0],
+    ['The Guardian', 'https://www.theguardian.com/world/rss', 'en', 'GB', -1.5],
+    ['The Guardian', 'https://www.theguardian.com/world/france/rss', 'en', 'GB', -1.5],
+    ['The Telegraph', 'https://www.telegraph.co.uk/rss.xml', 'en', 'GB', 1.5],
+    ['Sky News', 'https://feeds.skynews.com/feeds/rss/world.xml', 'en', 'GB', 0.5],
+    ['Deutsche Welle', 'https://rss.dw.com/rdf/rss-en-world', 'en', 'DE', 0],
+    ['Tagesschau', 'https://www.tagesschau.de/index~rss2.xml', 'de', 'DE', 0],
+    ['Der Spiegel', 'https://www.spiegel.de/international/index.rss', 'en', 'DE', 0],
+    ['NPR', 'https://feeds.npr.org/1004/rss.xml', 'en', 'US', -0.5],
+    ['The New York Times', 'https://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'en', 'US', -1],
+    ['The Washington Post', 'https://feeds.washingtonpost.com/rss/world', 'en', 'US', -1],
+    ['The Wall Street Journal', 'https://feeds.content.dowjones.io/public/rss/RSSWorldNews', 'en', 'US', 1.5],
+    ['Fox News', 'https://moxie.foxnews.com/google-publisher/world.xml', 'en', 'US', 2],
+    ['Politico Europe', 'https://www.politico.eu/feed/', 'en', 'BE', 0],
+    ['ABC News (Australie)', 'https://www.abc.net.au/news/feed/2942460/rss.xml', 'en', 'AU', 0],
+    ['Al Jazeera', 'https://www.aljazeera.com/xml/rss/all.xml', 'en', 'QA', 0],
+    ['Times of Israel', 'https://www.timesofisrael.com/feed/', 'en', 'IL', 0.5],
+    ['Daily Sabah', 'https://www.dailysabah.com/rssFeed/10', 'en', 'TR', 2],
+    ['The Times of India', 'https://timesofindia.indiatimes.com/rssfeeds/296589292.cms', 'en', 'IN', 0.5],
+    ['The Hindu', 'https://www.thehindu.com/news/international/feeder/default.rss', 'en', 'IN', -0.5],
+    ['The Japan Times', 'https://www.japantimes.co.jp/feed/', 'en', 'JP', 0],
+    ['The Straits Times', 'https://www.straitstimes.com/news/world/rss.xml', 'en', 'SG', 0],
+    ['South China Morning Post', 'https://www.scmp.com/rss/91/feed', 'en', 'HK', 0],
+    ['El País', 'https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada', 'es', 'ES', -0.5],
+    ['ANSA', 'https://www.ansa.it/sito/ansait_rss.xml', 'it', 'IT', 0],
+    ['Le Soir', 'https://www.lesoir.be/rss/81853/cible_principale_gratuit', 'fr', 'BE', 0],
+    ['France 24', 'https://www.france24.com/fr/rss', 'fr', 'FR', 0],
+    ['RFI', 'https://www.rfi.fr/fr/rss', 'fr', 'FR', 0],
+    ['Euronews', 'https://fr.euronews.com/rss?format=mrss', 'fr', 'FR', 0],
+    ['Le Monde (International)', 'https://www.lemonde.fr/international/rss_full.xml', 'fr', 'FR', -1],
+    ['Africanews', 'https://www.africanews.com/feed/rss', 'en', 'FR', 0],
+    ['Jeune Afrique', 'https://www.jeuneafrique.com/feed/', 'fr', 'FR', 0],
   ],
 };
+const bucket = l => (l <= -1 ? 'gauche' : l >= 1 ? 'droite' : 'centre');
+// Sujets sensibles : ils exigent des médias de sensibilités différentes, sinon ils ne sont pas publiés.
+const SENSITIVE = new Set(['politique', 'societe', 'justice', 'international']);
 
 const today = new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Paris', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
 const sha = s => createHash('sha1').update(s).digest('hex');
@@ -111,19 +145,19 @@ function parseFeed(xml) {
   });
 }
 
-async function readFeed([name, url, lang]) {
+async function readFeed([name, url, lang, country, lean]) {
   try {
     const xml = await (await get(url, 'application/rss+xml, application/xml, text/xml')).text();
     const min = Date.now() - MAX_AGE_H * 3600e3;
     const items = parseFeed(xml)
       .filter(a => a.title && /^https:\/\//.test(a.link) && a.publishedAt && new Date(a.publishedAt).getTime() >= min && new Date(a.publishedAt).getTime() <= Date.now() + 3600e3)
-      .map(a => ({ id: 'a' + sha(a.link).slice(0, 10), ...a, source: name, lang }))
+      .map(a => ({ id: 'a' + sha(a.link).slice(0, 10), ...a, source: name, lang, country, lean }))
       .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
       .slice(0, PER_FEED);
-    return { name, url, ok: items.length > 0, items };
+    return { name, url, country, ok: items.length > 0, items };
   } catch (e) {
     console.warn('Flux KO :', name, e.message);
-    return { name, url, ok: false, items: [] };
+    return { name, url, country, ok: false, items: [] };
   }
 }
 
@@ -235,14 +269,16 @@ Règles impératives :
 - Quand les médias présentent le sujet différemment, dis-le explicitement et décris chaque lecture sans en privilégier une.
 - Reformule avec tes propres mots : ne recopie aucune phrase des articles.
 - Les enjeux sont une analyse : formule-les comme des questions ou des conséquences possibles, sans prendre parti ni prédire.
-- Préfère les sujets traités par plusieurs médias. Un sujet traité par un seul média n'est retenu que s'il est clairement important.
+- Préfère les sujets traités par plusieurs médias de pays, de langues et de sensibilités politiques différents (presse de gauche, de droite, de centre, française et étrangère). Un sujet traité par un seul média n'est retenu que s'il est clairement important et non politique.
+- Pour chaque sujet, cite TOUS les articles du lot qui traitent le même événement (jusqu'à 8), en veillant à inclure des médias de pays et de bords différents quand ils existent. Ne cite jamais un article qui parle d'autre chose.
+- Donne le même poids à chaque lecture d'un événement : ne retiens jamais le cadrage ni le vocabulaire d'un seul bord, et mentionne explicitement les désaccords entre médias ("selon X… alors que Y souligne…").
 - Varie les rubriques : quand l'actualité le permet, couvre plusieurs catégories (politique, économie, société, justice, sport, culture, sciences et technologie, santé, environnement) plutôt que de multiplier les sujets d'une même catégorie, sans sacrifier les sujets majeurs.
 - Vulgarise : écris pour un lecteur non spécialiste (niveau lycée), avec des phrases courtes et des mots simples. Explique brièvement tout terme technique, sigle ou nom d'institution la première fois (exemple : « la COP, la conférence annuelle de l'ONU sur le climat »).
 - Graphique : ajoute le champ "chart" UNIQUEMENT si les textes fournis citent au moins 2 chiffres comparables (même unité). Reprends les chiffres EXACTEMENT comme ils sont écrits dans l'article, sans calcul, sans arrondi, sans estimation, et n'en invente jamais. "source" est le numéro de l'article qui cite ces chiffres. 8 éléments maximum. Sinon "chart": null.
 - Écris en français.
 
 Réponds UNIQUEMENT par un objet JSON, sans texte autour :
-{"stories":[{"topic":"politique | economie | societe | justice | sport | culture | sciences_tech | sante | environnement | international (une seule valeur)","title":"titre neutre et factuel, 12 mots maximum","context":"2 à 3 phrases : ce qu'il faut savoir en amont pour comprendre","summary":"4 à 6 phrases : synthèse croisée des articles","plain":"EN CLAIR : 2 à 3 phrases très simples, comme si tu expliquais à un ami ce qui se passe et pourquoi cela compte","stakes":["enjeu 1","enjeu 2","enjeu 3"],"chart":null,"sources":[numéros des articles utilisés, 1 à 6]}]}
+{"stories":[{"topic":"politique | economie | societe | justice | sport | culture | sciences_tech | sante | environnement | international (une seule valeur)","title":"titre neutre et factuel, 12 mots maximum","context":"2 à 3 phrases : ce qu'il faut savoir en amont pour comprendre","summary":"4 à 6 phrases : synthèse croisée des articles","plain":"EN CLAIR : 2 à 3 phrases très simples, comme si tu expliquais à un ami ce qui se passe et pourquoi cela compte","stakes":["enjeu 1","enjeu 2","enjeu 3"],"chart":null,"sources":[numéros des articles qui traitent ce sujet, 1 à 8, de médias variés]}]}
 Exemple de chart : {"title":"Titre du graphique","unit":"unité","items":[{"label":"Libellé","value":12.5}],"source":3}
 Classe les sujets par importance décroissante.`;
 
@@ -267,22 +303,26 @@ function cleanChart(c, items) {
 }
 
 async function synthesize(scope, items, n) {
-  const lines = items.map((a, i) => `#${i + 1} [${a.source}] ${a.title}${a.summary ? ' — ' + a.summary : ''}`).join('\n');
-  const label = scope === 'france' ? 'l\'actualité française' : 'l\'actualité internationale';
-  const user = `Choisis les ${n} sujets les plus importants de ${label} parmi les articles ci-dessous (moins si la matière manque).\n\n${lines}`;
+  const lines = items.map((a, i) => `#${i + 1} [${a.source} · ${a.country} · ${a.lang}] ${a.title}${a.summary ? ' — ' + a.summary.slice(0, 200) : ''}`).join('\n');
+  const label = scope === 'france' ? 'l\'actualité française (événements en France ou concernant surtout la France, y compris leur couverture par la presse étrangère)' : 'l\'actualité internationale (hors sujets qui concernent surtout la France)';
+  const user = `Choisis les ${n + 5} sujets les plus importants de ${label} parmi les articles ci-dessous (moins si la matière manque).\n\n${lines}`;
   const out = await claude({ role: 'synth', system: SYNTH_SYSTEM, user, maxTokens: 16000, parse: parseJson });
   const stories = [];
   for (const s of out.stories || []) {
-    const idx = [...new Set((s.sources || []).map(Number).filter(i => Number.isInteger(i) && i >= 1 && i <= items.length))].slice(0, 6);
+    const idx = [...new Set((s.sources || []).map(Number).filter(i => Number.isInteger(i) && i >= 1 && i <= items.length))].slice(0, 8);
     if (!idx.length || typeof s.title !== 'string' || typeof s.summary !== 'string' || !s.title.trim() || !s.summary.trim()) continue;
-    const srcItems = idx.map(i => items[i - 1]);
+    const srcItems = [...new Map(idx.map(i => items[i - 1]).map(a => [a.link, a])).values()];
+    // Contrôle d'équilibre (fait par le code, pas par l'IA) : un sujet sensible doit s'appuyer sur au moins 2 médias de bords différents.
+    const topic = TOPICS.has(s.topic) ? s.topic : (scope === 'monde' ? 'international' : 'societe');
+    const outlets = new Set(srcItems.map(a => a.source)), buckets = new Set(srcItems.map(a => bucket(a.lean)));
+    if (SENSITIVE.has(topic) && (outlets.size < 2 || buckets.size < 2)) { console.warn('Sujet écarté (sources insuffisamment variées) :', String(s.title).slice(0, 70)); continue; }
     stories.push({
       id: 's' + sha(srcItems[0].link).slice(0, 10),
-      topic: TOPICS.has(s.topic) ? s.topic : (scope === 'monde' ? 'international' : 'societe'),
+      topic,
       title: s.title.trim(), context: String(s.context || '').trim(), summary: s.summary.trim(), plain: String(s.plain || '').trim(),
       chart: cleanChart(s.chart, items),
       stakes: (Array.isArray(s.stakes) ? s.stakes : []).map(x => String(x).trim()).filter(Boolean).slice(0, 4),
-      sources: srcItems.map(a => ({ name: a.source, title: a.title, link: a.link, publishedAt: a.publishedAt, lang: a.lang })),
+      sources: srcItems.map(a => ({ name: a.source, title: a.title, link: a.link, publishedAt: a.publishedAt, lang: a.lang, country: a.country })),
       _items: srcItems,
     });
     if (stories.length >= n) break;
@@ -369,8 +409,9 @@ const [fr, mo] = await Promise.all([
   Promise.all(FEEDS.monde.map(readFeed)),
 ]);
 const allFr = fr.flatMap(r => r.items), allMo = mo.flatMap(r => r.items);
+const pool = [...new Map([...allFr, ...allMo].map(a => [a.link, a])).values()]; // médias français et étrangers lus ensemble (sans doublons)
 const news = { france: interleave(fr, TARGET.france), monde: interleave(mo, TARGET.monde) };
-const sources = [...fr.map(r => ({ name: r.name + ' (France)', url: r.url, ok: r.ok, count: r.items.length })), ...mo.map(r => ({ name: r.name + ' (Monde)', url: r.url, ok: r.ok, count: r.items.length }))];
+const sources = [...fr.map(r => ({ name: r.name + ' (' + r.country + ')', url: r.url, ok: r.ok, count: r.items.length })), ...mo.map(r => ({ name: r.name + ' (' + r.country + ')', url: r.url, ok: r.ok, count: r.items.length }))];
 
 let stories = prev?.stories || { france: [], monde: [] };
 let storiesAt = prev?.storiesAt || null;
@@ -388,8 +429,11 @@ if (!HAS_AI) {
 } else {
   try {
     let sf = [], sm = [];
-    try { sf = await synthesize('france', allFr, TARGET.france); } catch (e) { console.warn('Synthèse France KO :', e.message); }
-    try { sm = await synthesize('monde', allMo, TARGET.monde); } catch (e) { console.warn('Synthèse Monde KO :', e.message); }
+    try { sf = await synthesize('france', pool, TARGET.france); } catch (e) { console.warn('Synthèse France KO :', e.message); }
+    try { sm = await synthesize('monde', pool, TARGET.monde);
+    // Un événement ne doit pas figurer deux fois (France et International).
+    const seen = new Set(sf.flatMap(s => s.sources.map(x => x.link)));
+    sm = sm.filter(s => !s.sources.some(x => seen.has(x.link))); } catch (e) { console.warn('Synthèse Monde KO :', e.message); }
     await Promise.all([addImages(sf), addImages(sm)]);
     try { await translate([...sf, ...sm]); } catch (e) { console.warn('Traduction KO :', e.message); }
     if (sf.length + sm.length > 0) {
