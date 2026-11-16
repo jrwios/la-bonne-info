@@ -21,6 +21,13 @@
   rt_quiz_end:['Votre score : {s} sur {n}','Your score: {s} out of {n}','Su puntuación: {s} de {n}'], rt_quiz_best:['Meilleur score : {b} sur {n}','Best score: {b} out of {n}','Mejor puntuación: {b} de {n}'], rt_quiz_again:['Rejouer','Play again','Jugar de nuevo'],
   rt_points_q:['Combien de points sont retirés pour : « {x} » ?','How many points are lost for: “{x}”?','¿Cuántos puntos se pierden por: «{x}»?'], rt_points_e:['Cette infraction retire {n} point(s) du permis.','This offence removes {n} point(s) from the licence.','Esta infracción quita {n} punto(s) del permiso.'],
   rt_loading:['Chargement de la rubrique…','Loading…','Cargando…'], rt_error:['Rubrique indisponible pour le moment.','Section unavailable right now.','Sección no disponible por ahora.'], rt_pts:['−{n} pts','−{n} pts','−{n} pts'], rt_n_pts:['{n} pt(s)','{n} pt(s)','{n} pt(s)'],
+  rt_hist_h:['Ma progression','My progress','Mi progreso'],
+  rt_hist_none:['Aucun quiz terminé pour l’instant : vos scores apparaîtront ici.','No quiz completed yet: your scores will appear here.','Aún no ha terminado ningún quiz: sus puntuaciones aparecerán aquí.'],
+  rt_hist_stats:['{n} quiz joués · moyenne {a} % · meilleur score {b} sur {m}','{n} quizzes played · average {a}% · best score {b} out of {m}','{n} quizzes jugados · media {a} % · mejor puntuación {b} de {m}'],
+  rt_hist_trend:['Tendance : {d} points par rapport aux quiz précédents.','Trend: {d} points compared with earlier quizzes.','Tendencia: {d} puntos respecto a los quizzes anteriores.'],
+  rt_hist_clear:['Effacer mon historique','Clear my history','Borrar mi historial'],
+  rt_hist_note:['Historique enregistré sur cet appareil uniquement ; il est inclus dans le code de profil.','History is saved on this device only; it is included in the profile code.','El historial se guarda solo en este dispositivo; se incluye en el código de perfil.'],
+  rt_hist_bar:['{s} sur {n} · {d}','{s} out of {n} · {d}','{s} de {n} · {d}'],
   ob_title:['Bienvenue sur LA BONNE INFO','Welcome to LA BONNE INFO','Bienvenido a LA BONNE INFO'], ob_sub:['Créez votre profil en quelques secondes pour personnaliser votre journal.','Create your profile in a few seconds to personalise your news.','Cree su perfil en unos segundos para personalizar sus noticias.'],
   ob_lang:['Langue','Language','Idioma'], ob_name:['Prénom ou pseudo (facultatif)','First name or nickname (optional)','Nombre o apodo (opcional)'], ob_name_ph:['Votre prénom','Your first name','Su nombre'],
   ob_interests:['Vos centres d’intérêt','Your interests','Sus intereses'], ob_hint:['Choisissez-en autant que vous voulez. Sans choix, tous les sujets sont affichés.','Pick as many as you like. With no choice, all topics are shown.','Elija los que quiera. Sin elección, se muestran todos los temas.'],
@@ -87,6 +94,18 @@
   const ok=q.opts[chosen]?.correct;
   return `<p class="qfeed ${ok?'good':'bad'}" role="status"><strong>${t(ok?'rt_ok':'rt_ko')}</strong> ${esc(q.explain)}</p>`;
  }
+ function quizHistory(){
+  const h=(load().hist||[]).filter(x=>x&&Number.isFinite(x.s)&&Number.isFinite(x.n)&&x.n>0);
+  if(!h.length)return `<p class="micro">${t('rt_hist_none')}</p>`;
+  const pct=x=>Math.round(100*x.s/x.n),avg=a=>a.length?a.reduce((s,x)=>s+pct(x),0)/a.length:0;
+  const best=h.reduce((m,x)=>pct(x)>pct(m)?x:m,h[0]);
+  let trend='';
+  if(h.length>=2){const recent=h.slice(-5),before=h.slice(-10,-5);if(before.length){const d=Math.round(avg(recent)-avg(before));trend=`<p class="micro"><strong>${esc(t('rt_hist_trend',{d:(d>0?'+':'')+d}))}</strong></p>`;}}
+  const last=h.slice(-12),W=640,H=170,bw=Math.min(40,(W-40)/last.length-8),gap=((W-40)-bw*last.length)/Math.max(1,last.length-1);
+  const bars=last.map((x,i)=>{const bh=Math.max(4,(x.s/x.n)*100),xx=20+i*(bw+gap),y=120-bh,d=fmt({day:'2-digit',month:'2-digit'}).format(new Date(x.t));return `<rect x="${xx.toFixed(1)}" y="${y.toFixed(1)}" width="${bw.toFixed(1)}" height="${bh.toFixed(1)}" rx="4" fill="var(--olive)"><title>${esc(t('rt_hist_bar',{s:x.s,n:x.n,d}))}</title></rect><text x="${(xx+bw/2).toFixed(1)}" y="${(y-5).toFixed(1)}" text-anchor="middle" font-size="12" font-weight="700" fill="currentColor">${x.s}</text><text x="${(xx+bw/2).toFixed(1)}" y="140" text-anchor="middle" font-size="11" fill="currentColor" opacity=".7">${d}</text>`;}).join('');
+  const aria=last.map(x=>x.s+'/'+x.n).join(', ');
+  return `<p>${esc(t('rt_hist_stats',{n:h.length,a:Math.round(avg(h)),b:best.s,m:best.n}))}</p>${trend}<svg class="histsvg" viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(t('rt_hist_h')+' : '+aria)}" font-family="system-ui,sans-serif"><line x1="20" y1="120" x2="${W-20}" y2="120" stroke="currentColor" opacity=".25"/>${bars}</svg><p class="micro">${t('rt_hist_note')}</p><button type="button" class="link" data-qclear="1">${t('rt_hist_clear')}</button>`;
+ }
  function routePage(){
   loadRoute();
   const head=header(t('rt_title'),t('rt_kicker'));
@@ -106,6 +125,7 @@
   <div class="rulenav"><button type="button" class="link" data-rn="-1">${t('rt_prev')}</button>${offset!==0?`<button type="button" class="link" data-rn="0">${t('rt_back_today')}</button>`:''}<button type="button" class="link" data-rn="1">${t('rt_next')}</button></div></article></section>
   <section class="subsection"><h2 class="section-heading">${t('rt_question')}</h2><p class="qtext">${esc(dq.text)}</p>${optionsHtml(dq,'data-ra',ans)}${feedback(dq,ans)}</section>
   <section class="subsection"><h2 class="section-heading">${t('rt_quiz_h')}</h2>${quiz}</section>
+  <section class="subsection"><h2 class="section-heading">${t('rt_hist_h')}</h2>${quizHistory()}</section>
   <p class="micro">${esc(t('rt_ref',{r:ROUTE.reference||''}))}</p>`;
  }
  PAGES.route=routePage;
@@ -126,7 +146,7 @@
 
  const KNOWN=new Set(TOPIC_KEYS);
  function exportCode(){
-  const o={v:1,profile:ensureProfile(),lang:state.lang,place:state.place,theme:state.theme,size:state.size,accent:state.accent};
+  const o={v:1,profile:ensureProfile(),lang:state.lang,place:state.place,theme:state.theme,size:state.size,accent:state.accent,quiz:(load().hist||[]).slice(-100)};
   return 'LBI1.'+btoa(unescape(encodeURIComponent(JSON.stringify(o))));
  }
  function importCode(code){
@@ -141,6 +161,7 @@
   if(['auto','light','dark'].includes(o.theme))state.theme=o.theme;
   if(Number.isFinite(o.size))state.size=Math.max(15,Math.min(23,o.size));
   if(/^#[0-9A-Fa-f]{6}$/.test(String(o.accent||'')))state.accent=o.accent;
+  if(Array.isArray(o.quiz)){const hist=o.quiz.filter(x=>x&&typeof x.t==='string'&&Number.isInteger(x.s)&&Number.isInteger(x.n)&&x.n>=1&&x.n<=20&&x.s>=0&&x.s<=x.n&&!isNaN(Date.parse(x.t))).slice(-100).map(x=>({t:x.t,s:x.s,n:x.n}));const s=load();s.hist=hist;s.best=hist.reduce((m,x)=>Math.max(m,x.s),0);if(!hist.length)delete s.best;save(s);}
   persist();
  }
 
@@ -170,11 +191,12 @@
  document.addEventListener('click',e=>{
   const el=e.target.closest('button');if(!el)return;const d=el.dataset;
   if(d.lang)Q=null;
+  if(d.qclear!==undefined){const s=load();s.hist=[];delete s.best;save(s);render();return;}
   if(d.rn!==undefined){offset=d.rn==='0'?0:offset+Number(d.rn);render();return;}
   if(d.ra!==undefined&&ROUTE){const rule=ROUTE.rules[ruleIndex()];if(answered[rule.id]==null){answered[rule.id]=Number(d.ra);render();}return;}
   if(d.qs!==undefined&&ROUTE){newQuiz();render();return;}
   if(d.qa!==undefined&&Q&&Q.answered==null){const qq=quizQuestion(Q.items[Q.i]),c=Number(d.qa);Q.answered=c;if(qq.opts[c]&&qq.opts[c].correct)Q.score++;render();return;}
-  if(d.qn!==undefined&&Q){if(Q.i+1>=Q.items.length){Q.done=true;const s=load();if(s.best==null||Q.score>s.best){s.best=Q.score;save(s);}}else{Q.i++;Q.answered=null;}render();return;}
+  if(d.qn!==undefined&&Q){if(Q.i+1>=Q.items.length){Q.done=true;const s=load();s.hist=Array.isArray(s.hist)?s.hist:[];s.hist.push({t:new Date().toISOString(),s:Q.score,n:Q.items.length});s.hist=s.hist.slice(-100);if(s.best==null||Q.score>s.best)s.best=Q.score;save(s);}else{Q.i++;Q.answered=null;}render();return;}
   if(d.pi){const p=ensureProfile();const i=p.interests.indexOf(d.pi);if(i>=0)p.interests.splice(i,1);else p.interests.push(d.pi);persist();render();return;}
   if(d.prof==='export'){const code=exportCode();const box=document.getElementById('prof-code');if(box){box.value=code;box.select();}const msg=document.getElementById('prof-msg');const done=ok=>{if(msg)msg.textContent=t(ok?'prof_copied':'prof_copy_ko');};if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(code).then(()=>done(true),()=>done(false));else done(false);return;}
   if(d.prof==='import'){const msg=document.getElementById('prof-msg');try{importCode(document.getElementById('prof-in').value);render();const m2=document.getElementById('prof-msg');if(m2)m2.textContent=t('prof_import_ok');}catch(_){if(msg)msg.textContent=t('prof_import_ko');}return;}

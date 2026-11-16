@@ -22,14 +22,16 @@
   if(p.country!=='FR')return {ok:false,reason:'hors-france'};
   const base='https://data.economie.gouv.fr/api/explore/v2.1/catalog/datasets/prix-des-carburants-en-france-flux-instantane-v2/records';
   const where=encodeURIComponent(`within_distance(geom, geom'POINT(${p.lon} ${p.lat})', ${RADIUS_KM}km)`);
-  const select=encodeURIComponent('id,ville,adresse,gazole_prix,gazole_maj,e10_prix,e10_maj,sp95_prix,sp95_maj,sp98_prix,sp98_maj,e85_prix,e85_maj,gplc_prix,gplc_maj');
+  const select=encodeURIComponent('id,ville,adresse,gazole_prix,gazole_maj,e10_prix,e10_maj,sp95_prix,sp95_maj,sp98_prix,sp98_maj,e85_prix,e85_maj,gplc_prix,gplc_maj,geom');
   let rows=[];
-  for(let off=0;off<300;off+=100){
+  for(let off=0;off<500;off+=100){
    const j=await getJson(`${base}?limit=100&offset=${off}&where=${where}&select=${select}`);
    rows=rows.concat(j.results||[]);
    if(!j.results||j.results.length<100)break;
   }
   const limit=Date.now()-14*86400000, prices=[], best={}, fresh=new Set();
+  // Toutes les stations avec leurs coordonnées, pour la carte (le moins cher de chaque carburant sera en vert).
+  const stations=rows.filter(r=>r.geom&&Number.isFinite(r.geom.lat)&&Number.isFinite(r.geom.lon)).map(r=>{const pr={};for(const [label,pk,mk] of FUELS){if(Number(r[pk])>0&&r[mk]&&new Date(r[mk]).getTime()>=limit)pr[label]={v:Number(r[pk]),d:r[mk]};}return Object.keys(pr).length?{id:r.id,ville:r.ville,adresse:r.adresse,lat:r.geom.lat,lon:r.geom.lon,p:pr}:null;}).filter(Boolean);
   for(const [label,pk,mk] of FUELS){
    const list=rows.filter(r=>Number(r[pk])>0&&r[mk]&&new Date(r[mk]).getTime()>=limit).sort((a,b)=>a[pk]-b[pk]);
    list.forEach(r=>fresh.add(r.id));
@@ -37,7 +39,7 @@
    if(mapped.length){best[label]=mapped[0];prices.push(...mapped);}
   }
   if(!prices.length)throw Error('Aucun prix récent');
-  return {ok:true,prices,best,stationsVerifiees:fresh.size,radiusKm:RADIUS_KM,source:'prix-carburants.gouv.fr',sourceUrl:'https://www.prix-carburants.gouv.fr/rubrique/opendata/',fetchedAt:new Date().toISOString()};
+  return {ok:true,prices,best,stations,center:{lat:p.lat,lon:p.lon},stationsVerifiees:fresh.size,radiusKm:RADIUS_KM,source:'prix-carburants.gouv.fr',sourceUrl:'https://www.prix-carburants.gouv.fr/rubrique/opendata/',fetchedAt:new Date().toISOString()};
  }
 
  // Remplace la météo et les carburants de l'édition par ceux du lieu choisi.

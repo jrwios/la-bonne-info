@@ -87,6 +87,13 @@ const D = {
  no_match:['Aucun sujet récent ne correspond à vos centres d’intérêt pour le moment. Les autres sujets sont affichés ci-dessous.','No recent topic matches your interests right now. Other topics are shown below.','Ningún tema reciente coincide con sus intereses por ahora. Los demás temas aparecen abajo.'],
  topics_pending:['Vos centres d’intérêt seront pris en compte à la prochaine mise à jour des synthèses : les sujets actuels n’ont pas encore de rubrique.','Your interests will be applied at the next summary update: current topics have no category yet.','Sus intereses se aplicarán en la próxima actualización de los resúmenes: los temas actuales aún no tienen categoría.'],
  empty_filter:['Aucun sujet dans cette catégorie pour le moment.','No topic in this category right now.','Ningún tema en esta categoría por ahora.'], topics_lbl:['Rubriques','Categories','Categorías'],
+ s_plain:['En clair','In plain words','En pocas palabras'],
+ chart_src:['Chiffres cités par {s}','Figures quoted by {s}','Cifras citadas por {s}'],
+ chart_note:['Graphique construit uniquement avec les chiffres présents dans l’article cité.','Chart built only from the figures found in the cited article.','Gráfico elaborado solo con las cifras que aparecen en el artículo citado.'],
+ archived_chip:['Édition archivée','Archived edition','Edición archivada'],
+ stale_note:['<strong>Cette édition n’est pas celle du jour.</strong> Dernière mise à jour : {d}. Les synthèses se renouvellent trois fois par jour.','<strong>This is not today’s edition.</strong> Last update: {d}. Summaries are refreshed three times a day.','<strong>Esta no es la edición de hoy.</strong> Última actualización: {d}. Los resúmenes se renuevan tres veces al día.'],
+ see_map:['Voir la carte ›','See the map ›','Ver el mapa ›'],
+ event_img_credit:['Visuel : {s}','Image: {s}','Imagen: {s}'],
  loading:['Chargement du journal…','Loading…','Cargando…'], date_na:['Date non indiquée','Date not given','Fecha no indicada'], badge_arch:['Édition archivée','Archived edition','Edición archivada'],
  alert_load:['Cette édition ne peut pas être chargée pour le moment.','This edition cannot be loaded right now.','Esta edición no se puede cargar ahora.']
 };
@@ -137,12 +144,30 @@ function cover(s){
  return `<figure class="cover"><img data-cover="1" src="${esc(safeUrl(im.url))}" alt="" loading="lazy" referrerpolicy="no-referrer"><figcaption>${link(im.link,t('s_image',{s:im.credit}),'micro')}</figcaption></figure>`;
 }
 function starBtn(id){const fav=state.saved?.[id];return `<button class="star" data-save="${esc(id)}" aria-pressed="${!!fav}" title="${esc(fav?t('unsave'):t('save'))}" aria-label="${esc(fav?t('unsave'):t('save'))}">${fav?'★':'☆'}</button>`;}
+function topicArt(k){return window.LBI_ART&&k?window.LBI_ART.banner(k,t('tp_'+k)):'';}
+function eventImg(e){
+ const im=e&&e.image;
+ if(im&&safeUrl(im.url))return `<figure class="cover"><img data-cover="1" src="${esc(safeUrl(im.url))}" alt="" loading="lazy" referrerpolicy="no-referrer"><figcaption>${link(im.link,t('event_img_credit',{s:im.credit||e.source||''}),'micro')}</figcaption></figure>`;
+ return topicArt('culture');
+}
+function chartHtml(s){
+ const c=s.chart;if(!c||!Array.isArray(c.items)||c.items.length<2)return '';
+ const tr=state.lang!=='fr'&&s.i18n&&s.i18n[state.lang]&&s.i18n[state.lang].chart;
+ const labels=c.items.map((it,i)=>tr&&tr.labels&&tr.labels[i]!=null?tr.labels[i]:it.label);
+ const title=(tr&&tr.title)||c.title||'', unit=((tr&&tr.unit!=null)?tr.unit:c.unit)||'';
+ const max=Math.max(...c.items.map(i=>Math.abs(i.value)))||1,rowH=34,left=210,w=640,h=c.items.length*rowH+14;
+ const rows=c.items.map((it,i)=>{const y=8+i*rowH,bw=Math.max(3,(Math.abs(it.value)/max)*(w-left-120));return `<text x="${left-10}" y="${y+20}" text-anchor="end" font-size="13" fill="currentColor">${esc(String(labels[i]).slice(0,34))}</text><rect x="${left}" y="${y+4}" width="${bw.toFixed(1)}" height="22" rx="4" fill="var(--olive)"/><text x="${(left+bw+8).toFixed(1)}" y="${y+20}" font-size="13" font-weight="700" fill="currentColor">${esc(num(it.value,Number.isInteger(it.value)?0:2))}${unit?' '+esc(unit):''}</text>`;}).join('');
+ const aria=title+' : '+labels.map((l,i)=>l+' '+c.items[i].value+(unit?' '+unit:'')).join(', ');
+ return `<figure class="chart"><figcaption><strong>${esc(title)}</strong></figcaption><svg viewBox="0 0 ${w} ${h}" role="img" aria-label="${esc(aria)}" font-family="system-ui,sans-serif">${rows}</svg><div class="micro">${link(c.source&&c.source.link,t('chart_src',{s:(c.source&&c.source.name)||''}))} · ${t('chart_note')}</div></figure>`;
+}
 function storyCard(s){
  const x=sx(s);
  const miss=state.lang!=='fr'&&x===s;
- return `<article class="story">${starBtn(s.id)}${cover(s)}${s.topic&&D['tp_'+s.topic]?`<span class="eyebrow">${t('tp_'+s.topic)}</span>`:''}<h3>${esc(x.title)}</h3>
+ return `<article class="story">${starBtn(s.id)}${cover(s)||topicArt(s.topic)}${s.topic&&D['tp_'+s.topic]?`<span class="eyebrow">${t('tp_'+s.topic)}</span>`:''}<h3>${esc(x.title)}</h3>
+ ${x.plain?`<div class="plain"><strong>${t('s_plain')}</strong> ${esc(x.plain)}</div>`:''}
  ${x.context?`<h4>${t('s_context')}</h4><p>${esc(x.context)}</p>`:''}
  <h4>${t('s_summary')}</h4><p>${esc(x.summary)}</p>
+ ${chartHtml(s)}
  ${x.stakes&&x.stakes.length?`<h4>${t('s_stakes')}</h4><ul class="stakes">${x.stakes.map(i=>`<li>${esc(i)}</li>`).join('')}</ul>`:''}
  <h4>${t('s_sources')}</h4><ul class="srclist">${(s.sources||[]).map(a=>`<li>${link(a.link,a.name+' — '+a.title,'srclink')}<span class="micro"> · ${esc(fmtDatetime(a.publishedAt))}${a.lang&&a.lang!==state.lang?' · '+esc(String(a.lang).toUpperCase()):''}</span></li>`).join('')}</ul>
  ${(s.sources||[]).length<2?`<p class="micro">${t('s_single')}</p>`:''}${miss?`<p class="micro">${t('s_notrans')}</p>`:''}</article>`;
@@ -152,16 +177,23 @@ function mediaCard(article){
  return `<article class="article">${starBtn(article.id)}<div class="micro">${esc(article.source)} · ${esc(fmtDatetime(article.publishedAt))}</div><h3>${link(article.link,article.title,'article-headline')}</h3><div class="micro">${t('raw_from')} · ${link(article.link,t('raw_orig'))}</div></article>`;
 }
 
+function ageHours(){const x=parseISO(data&&(data.storiesAt||data.generatedAt));return x?(Date.now()-x.getTime())/36e5:999;}
+function isStale(){return !!data&&(!!state.selectedDate||ageHours()>36);}
 function banner(){
  const bar=$('info-banner'), chip=$('edition-chip');
- if(!data){chip.textContent=t('no_edition');bar.innerHTML=t('no_edition_b');return;}
- chip.textContent=t('edition_of',{d:fmtDate(data.date)});
+ bar.className='alert slim';
+ if(!data){chip.className='date-chip';chip.textContent=t('no_edition');bar.hidden=false;bar.innerHTML=t('no_edition_b');return;}
+ const stale=isStale();
+ chip.className='date-chip'+(stale?' chip-warn':'');
+ chip.textContent=stale?t('archived_chip')+' · '+fmtDate(data.date):t('edition_of',{d:fmtDate(data.date)});
+ if(stale){bar.hidden=true;bar.innerHTML='';return;}
+ bar.hidden=false;
  const st=storiesOf(data);
- if(!isCurrent())bar.innerHTML=t('archived',{d:esc(fmtDate(data.date))});
- else if(networkFailure)bar.innerHTML=t('offline',{d:esc(fmtDate(data.date))});
+ if(networkFailure)bar.innerHTML=t('offline',{d:esc(fmtDate(data.date))});
  else if(st){const n=allStories(data).length,m=allStories(data).reduce((a,s)=>a+(s.sources||[]).length,0);bar.innerHTML=t('banner_ok',{t:esc(fmtDatetime(data.storiesAt||data.generatedAt)),n,m});}
  else bar.innerHTML=t('banner_raw');
 }
+function staleNote(){return isStale()?`<div class="alert stale-note" role="note">${t('stale_note',{d:esc(fmtDate(data.date))})}</div>`:'';}
 function footer(){return `<footer><strong>${t('charter_h')}</strong><br>${esc(t('charter'))}</footer>`;}
 function infoEmpty(what,detail=''){return `<div class="empty"><strong>${esc(what)}</strong>${detail?'<br>'+esc(detail):''}</div>`;}
 function header(title,kicker){return `<div class="kicker-row"><span class="eyebrow">${esc(kicker)}</span><span class="date-chip">${data?esc(fmtDate(data.date)):'—'}</span></div><h2 class="section-title">${esc(title)}</h2>`;}
@@ -176,7 +208,7 @@ function headline(){
  const st=storiesOf(data);
  if(st){
   const s=heroStory(st),x=sx(s);
-  return `<section class="hero"><span class="eyebrow">${t('hero_eyebrow')}</span><h2>${esc(x.title)}</h2>${cover(s)}<p class="intro">${esc(x.summary)}</p><div class="micro">${esc(t('sources_lbl',{s:sourceNames(s)}))}</div><p><button class="mbtn" data-tab="journal">${t('hero_more')}</button></p></section>`;
+  return `<section class="hero"><span class="eyebrow">${t('hero_eyebrow')}</span><h2>${esc(x.title)}</h2>${cover(s)||topicArt(s.topic)}<p class="intro">${esc(x.summary)}</p><div class="micro">${esc(t('sources_lbl',{s:sourceNames(s)}))}</div><p><button class="mbtn" data-tab="journal">${t('hero_more')}</button></p></section>`;
  }
  const item=data.news?.france?.[0]||data.news?.monde?.[0];
  return `<section class="hero"><span class="eyebrow">${t('raw_hero')}</span>${item?`<h2>${link(item.link,item.title)}</h2><div class="micro">${esc(item.source)} · ${esc(fmtDatetime(item.publishedAt))}</div>${link(item.link,t('read_source'),'mbtn')}`:`<h2>${t('hero_none_h')}</h2><p class="intro">${t('hero_none_p')}</p>`}</section>`;
@@ -211,7 +243,7 @@ function home(){
   return fallback.slice(skip,skip+3).map(a=>`<p>${link(a.link,a.title)}</p>`).join('')||`<p class="micro">${t('none_topic')}</p>`;
  };
  const nCult=(data?.culture||[]).length;
- return `${greeting()}${headline()}<div class="subsection"><div class="kicker-row"><h2 class="section-heading">${t('in_edition')}</h2><button class="link" data-tab="journal">${t('full_journal')}</button></div><div class="grid"><div class="tile"><h2>${t('france')}</h2>${tile(st?.france||[],data?.news?.france||[],st?1:1)}</div><div class="tile"><h2>${t('world')}</h2>${tile(st?.monde||[],data?.news?.monde||[],0)}</div></div></div><div class="subsection"><h2 class="section-heading">${t('practical')}</h2>${placeBar()}<div class="grid"><div class="tile"><h2>${t('weather')}</h2>${weatherCard(false)}</div><div class="tile"><h2>${t('fuel')}</h2>${fuelCard(false)}</div></div></div><div class="subsection"><h2 class="section-heading">${t('culture_view')}</h2><p>${esc(t('culture_n',{n:nCult}))}</p><button class="mbtn ghost" data-tab="culture">${t('explore')}</button></div>`;
+ return `${greeting()}${headline()}<div class="subsection"><div class="kicker-row"><h2 class="section-heading">${t('in_edition')}</h2><button class="link" data-tab="journal">${t('full_journal')}</button></div><div class="grid"><div class="tile"><h2>${t('france')}</h2>${tile(st?.france||[],data?.news?.france||[],st?1:1)}</div><div class="tile"><h2>${t('world')}</h2>${tile(st?.monde||[],data?.news?.monde||[],0)}</div></div></div><div class="subsection"><h2 class="section-heading">${t('practical')}</h2>${placeBar()}<div class="grid"><div class="tile"><h2>${t('weather')}</h2>${weatherCard(false)}<p><button class="link" data-tab="reperes">${t('see_map')}</button></p></div><div class="tile"><h2>${t('fuel')}</h2>${fuelCard(false)}<p><button class="link" data-tab="reperes">${t('see_map')}</button></p></div></div></div><div class="subsection"><h2 class="section-heading">${t('culture_view')}</h2><p>${esc(t('culture_n',{n:nCult}))}</p><button class="mbtn ghost" data-tab="culture">${t('explore')}</button></div>`;
 }
 function journal(){
  const st=storiesOf(data);
@@ -234,11 +266,12 @@ function journal(){
 }
 function culture(){
  const events=data?.culture||[], hist=data?.history||[];
- return `${header(t('culture_h'),t('culture_k'))}${state.lang!=='fr'?`<p class="micro">${t('culture_fr')}</p>`:''}<section class="subsection"><h2 class="section-heading">${t('culture_s')}</h2>${events.length?events.map(e=>`<article class="event"><span class="eyebrow">${esc(e.discipline)} · ${esc(e.city)}</span><h3>${esc(e.title)}</h3><p>${esc(e.artist)}</p><p class="micro">${esc(e.venue)} · ${esc(t('from_to',{a:fmtDate(e.start),b:fmtDate(e.end)}))}</p><p>${esc(e.details)}</p>${link(e.sourceUrl,t('official',{s:e.source}))}</article>`).join(''):infoEmpty(t('culture_none'),t('culture_none_d'))}</section><section class="subsection"><h2 class="section-heading">${t('hist_h')}</h2>${hist.length?`<ol class="timeline">${hist.map(h=>`<li><span class="year">${esc(h.year)}</span><div><h3>${esc(h.title)}</h3><p>${esc(h.description)}</p><div class="micro">${link(h.sourceUrl,h.source)}</div></div></li>`).join('')}</ol>`:infoEmpty(t('hist_none'),t('hist_none_d'))}</section></section>`;
+ return `${header(t('culture_h'),t('culture_k'))}${state.lang!=='fr'?`<p class="micro">${t('culture_fr')}</p>`:''}<section class="subsection"><h2 class="section-heading">${t('culture_s')}</h2>${events.length?events.map(e=>`<article class="event">${eventImg(e)}<span class="eyebrow">${esc(e.discipline)} · ${esc(e.city)}</span><h3>${esc(e.title)}</h3><p>${esc(e.artist)}</p><p class="micro">${esc(e.venue)} · ${esc(t('from_to',{a:fmtDate(e.start),b:fmtDate(e.end)}))}</p><p>${esc(e.details)}</p>${link(e.sourceUrl,t('official',{s:e.source}))}</article>`).join(''):infoEmpty(t('culture_none'),t('culture_none_d'))}</section><section class="subsection"><h2 class="section-heading">${t('hist_h')}</h2>${hist.length?`<ol class="timeline">${hist.map(h=>`<li><span class="year">${esc(h.year)}</span><div><h3>${esc(h.title)}</h3><p>${esc(h.description)}</p><div class="micro">${link(h.sourceUrl,h.source)}</div></div></li>`).join('')}</ol>`:infoEmpty(t('hist_none'),t('hist_none_d'))}</section></section>`;
 }
+function mapSlot(k){return window.LBI_MAPS?window.LBI_MAPS.slot(k):'';}
 function reperes(){
  const checks=data?.checks||{};const src=data?.sources||[];
- return `${header(t('reperes_h'),t('reperes_k'))}<section class="subsection"><h2 class="section-heading">${esc(t('weather_h',{p:place().name}))}</h2>${placeBar()}${weatherCard(true)}</section><section class="subsection"><h2 class="section-heading">${esc(t('fuel_h',{p:place().name}))}</h2>${fuelCard(true)}</section><section class="subsection"><h2 class="section-heading">${t('transp')}</h2><p>${esc(t('last_ed',{d:data?fmtDate(data.date):t('none_w')}))}${data?' · '+esc(t('coll',{t:fmtDatetime(data.generatedAt)})):''}.</p><p class="micro">${t('reliab')}</p><ul class="state-log">${[['c_news','actualites'],['c_weather','meteo'],['c_fuel','carburants']].map(([label,key])=>`<li><span>${t(label)}</span><span class="${checks[key]?'good':'bad'}">${checks[key]?t('avail'):t('unavail')}</span></li>`).join('')}</ul><h3 class="section-heading" style="margin-top:26px">${t('feeds_h')}</h3>${src.length?`<ul class="state-log">${src.map(s=>`<li><span>${link(s.url,s.name)}</span><span class="${s.ok?'good':'bad'}">${s.ok?esc(t('feed_ok',{n:s.count})):t('feed_ko')}</span></li>`).join('')}</ul>`:infoEmpty(t('no_feed'))}</section>`;
+ return `${header(t('reperes_h'),t('reperes_k'))}<section class="subsection"><h2 class="section-heading">${esc(t('weather_h',{p:place().name}))}</h2>${placeBar()}${weatherCard(true)}${mapSlot('weather')}</section><section class="subsection"><h2 class="section-heading">${esc(t('fuel_h',{p:place().name}))}</h2>${fuelCard(true)}${mapSlot('fuel')}${mapSlot('history')}</section><section class="subsection"><h2 class="section-heading">${t('transp')}</h2><p>${esc(t('last_ed',{d:data?fmtDate(data.date):t('none_w')}))}${data?' · '+esc(t('coll',{t:fmtDatetime(data.generatedAt)})):''}.</p><p class="micro">${t('reliab')}</p><ul class="state-log">${[['c_news','actualites'],['c_weather','meteo'],['c_fuel','carburants']].map(([label,key])=>`<li><span>${t(label)}</span><span class="${checks[key]?'good':'bad'}">${checks[key]?t('avail'):t('unavail')}</span></li>`).join('')}</ul><h3 class="section-heading" style="margin-top:26px">${t('feeds_h')}</h3>${src.length?`<ul class="state-log">${src.map(s=>`<li><span>${link(s.url,s.name)}</span><span class="${s.ok?'good':'bad'}">${s.ok?esc(t('feed_ok',{n:s.count})):t('feed_ko')}</span></li>`).join('')}</ul>`:infoEmpty(t('no_feed'))}</section>`;
 }
 function favoriteCards(){const q=state.q.toLocaleLowerCase(LOC()),items=Object.values(state.saved||{}).filter(a=>(a.title+' '+a.source).toLocaleLowerCase(LOC()).includes(q)).sort((a,b)=>String(b.publishedAt||'').localeCompare(a.publishedAt||''));return items.length?items.map(mediaCard).join(''):infoEmpty(t('fav_none'),t('fav_none_d'));}
 function archives(){
@@ -253,7 +286,7 @@ function render(){
  const sel=$('lang');sel.innerHTML=ORDER.map(l=>`<option value="${l}"${l===state.lang?' selected':''}>${LANGS[l][0]}</option>`).join('');
  banner();
  const content=PAGES[state.tab]||home;
- $('app').innerHTML=`<div class="page">${content()}${footer()}</div>`;
+ $('app').innerHTML=`<div class="page">${content()}${(state.tab==='une'||state.tab==='journal')?staleNote():''}${footer()}</div>`;
  $('nav').setAttribute('aria-label',t('menu'));
  $('nav').innerHTML=NAV.map(([id,key,svg])=>`<button type="button" data-tab="${id}" aria-current="${state.tab===id?'page':'false'}"><svg viewBox="0 0 24 24" aria-hidden="true">${svg}</svg>${t(key)}</button>`).join('');
  document.title=t(NAV.find(x=>x[0]===state.tab)?.[1]||'nav_une')+' — LA BONNE INFO';
