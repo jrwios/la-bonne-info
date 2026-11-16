@@ -237,17 +237,40 @@ Règles impératives :
 - Les enjeux sont une analyse : formule-les comme des questions ou des conséquences possibles, sans prendre parti ni prédire.
 - Préfère les sujets traités par plusieurs médias. Un sujet traité par un seul média n'est retenu que s'il est clairement important.
 - Varie les rubriques : quand l'actualité le permet, couvre plusieurs catégories (politique, économie, société, justice, sport, culture, sciences et technologie, santé, environnement) plutôt que de multiplier les sujets d'une même catégorie, sans sacrifier les sujets majeurs.
+- Vulgarise : écris pour un lecteur non spécialiste (niveau lycée), avec des phrases courtes et des mots simples. Explique brièvement tout terme technique, sigle ou nom d'institution la première fois (exemple : « la COP, la conférence annuelle de l'ONU sur le climat »).
+- Graphique : ajoute le champ "chart" UNIQUEMENT si les textes fournis citent au moins 2 chiffres comparables (même unité). Reprends les chiffres EXACTEMENT comme ils sont écrits dans l'article, sans calcul, sans arrondi, sans estimation, et n'en invente jamais. "source" est le numéro de l'article qui cite ces chiffres. 8 éléments maximum. Sinon "chart": null.
 - Écris en français.
 
 Réponds UNIQUEMENT par un objet JSON, sans texte autour :
-{"stories":[{"topic":"politique | economie | societe | justice | sport | culture | sciences_tech | sante | environnement | international (une seule valeur)","title":"titre neutre et factuel, 12 mots maximum","context":"2 à 3 phrases : ce qu'il faut savoir en amont pour comprendre","summary":"4 à 6 phrases : synthèse croisée des articles","stakes":["enjeu 1","enjeu 2","enjeu 3"],"sources":[numéros des articles utilisés, 1 à 6]}]}
+{"stories":[{"topic":"politique | economie | societe | justice | sport | culture | sciences_tech | sante | environnement | international (une seule valeur)","title":"titre neutre et factuel, 12 mots maximum","context":"2 à 3 phrases : ce qu'il faut savoir en amont pour comprendre","summary":"4 à 6 phrases : synthèse croisée des articles","plain":"EN CLAIR : 2 à 3 phrases très simples, comme si tu expliquais à un ami ce qui se passe et pourquoi cela compte","stakes":["enjeu 1","enjeu 2","enjeu 3"],"chart":null,"sources":[numéros des articles utilisés, 1 à 6]}]}
+Exemple de chart : {"title":"Titre du graphique","unit":"unité","items":[{"label":"Libellé","value":12.5}],"source":3}
 Classe les sujets par importance décroissante.`;
+
+// Un graphique n'est gardé que si CHAQUE valeur apparaît dans le titre ou le résumé de l'article cité.
+function cleanChart(c, items) {
+  if (!c || typeof c !== 'object' || !Array.isArray(c.items)) return null;
+  const src = items[Number(c.source) - 1];
+  if (!src) return null;
+  const text = (src.title + ' ' + (src.summary || '')).replace(/\u00a0|\u202f/g, ' ');
+  const found = new Set();
+  for (const m of text.match(/\d+(?:[.,\s]\d+)*/g) || []) {
+    for (const part of [m, ...m.split(/\s+/)]) { const v = Number(part.replace(/\s/g, '').replace(',', '.')); if (Number.isFinite(v)) found.add(v); }
+  }
+  const clean = [];
+  for (const it of c.items.slice(0, 8)) {
+    const v = Number(it && it.value), label = String((it && it.label) || '').trim().slice(0, 40);
+    if (!label || !Number.isFinite(v) || !found.has(v)) continue;
+    clean.push({ label, value: v });
+  }
+  if (clean.length < 2) return null;
+  return { title: String(c.title || '').trim().slice(0, 90), unit: String(c.unit || '').trim().slice(0, 24), items: clean, source: { name: src.source, link: src.link } };
+}
 
 async function synthesize(scope, items, n) {
   const lines = items.map((a, i) => `#${i + 1} [${a.source}] ${a.title}${a.summary ? ' — ' + a.summary : ''}`).join('\n');
   const label = scope === 'france' ? 'l\'actualité française' : 'l\'actualité internationale';
   const user = `Choisis les ${n} sujets les plus importants de ${label} parmi les articles ci-dessous (moins si la matière manque).\n\n${lines}`;
-  const out = await claude({ role: 'synth', system: SYNTH_SYSTEM, user, maxTokens: 12000, parse: parseJson });
+  const out = await claude({ role: 'synth', system: SYNTH_SYSTEM, user, maxTokens: 16000, parse: parseJson });
   const stories = [];
   for (const s of out.stories || []) {
     const idx = [...new Set((s.sources || []).map(Number).filter(i => Number.isInteger(i) && i >= 1 && i <= items.length))].slice(0, 6);
@@ -256,7 +279,8 @@ async function synthesize(scope, items, n) {
     stories.push({
       id: 's' + sha(srcItems[0].link).slice(0, 10),
       topic: TOPICS.has(s.topic) ? s.topic : (scope === 'monde' ? 'international' : 'societe'),
-      title: s.title.trim(), context: String(s.context || '').trim(), summary: s.summary.trim(),
+      title: s.title.trim(), context: String(s.context || '').trim(), summary: s.summary.trim(), plain: String(s.plain || '').trim(),
+      chart: cleanChart(s.chart, items),
       stakes: (Array.isArray(s.stakes) ? s.stakes : []).map(x => String(x).trim()).filter(Boolean).slice(0, 4),
       sources: srcItems.map(a => ({ name: a.source, title: a.title, link: a.link, publishedAt: a.publishedAt, lang: a.lang })),
       _items: srcItems,
@@ -268,19 +292,19 @@ async function synthesize(scope, items, n) {
 
 // Traduction par lots (réponses plus courtes, donc plus fiables).
 async function translate(stories) {
-  for (let i = 0; i < stories.length; i += 8) await translateChunk(stories.slice(i, i + 8));
+  for (let i = 0; i < stories.length; i += 6) await translateChunk(stories.slice(i, i + 6));
 }
 async function translateChunk(stories) {
   if (!stories.length) return;
-  const payload = stories.map(s => ({ title: s.title, context: s.context, summary: s.summary, stakes: s.stakes }));
-  const system = `Tu es traducteur professionnel. Traduis fidèlement du français vers: ${LANGS.join(', ')} (codes ISO). Conserve le sens, le ton neutre et les nuances d'attribution ("selon..."). N'ajoute rien. Réponds UNIQUEMENT par un JSON : {"stories":[{${LANGS.map(l => `"${l}":{"title":"","context":"","summary":"","stakes":[]}`).join(',')}}]} avec exactement le même nombre d'éléments et le même ordre que l'entrée.`;
+  const payload = stories.map(s => ({ title: s.title, context: s.context, summary: s.summary, plain: s.plain, stakes: s.stakes, chart: s.chart ? { title: s.chart.title, unit: s.chart.unit, labels: s.chart.items.map(i => i.label) } : null }));
+  const system = `Tu es traducteur professionnel. Traduis fidèlement du français vers: ${LANGS.join(', ')} (codes ISO). Conserve le sens, le ton neutre et les nuances d'attribution ("selon..."). N'ajoute rien. Réponds UNIQUEMENT par un JSON : {"stories":[{${LANGS.map(l => `"${l}":{"title":"","context":"","summary":"","plain":"","stakes":[],"chart":null}`).join(',')}}]} avec exactement le même nombre d'éléments et le même ordre que l'entrée.`;
   const out = await claude({ role: 'trans', system, user: JSON.stringify({ stories: payload }), maxTokens: 16000, parse: parseJson });
   if (!Array.isArray(out.stories) || out.stories.length !== stories.length) throw new Error('Traduction : nombre d\'éléments inattendu');
   stories.forEach((s, i) => {
     s.i18n = {};
     for (const l of LANGS) {
       const t = out.stories[i]?.[l];
-      if (t && typeof t.title === 'string' && typeof t.summary === 'string') s.i18n[l] = { title: t.title, context: String(t.context || ''), summary: t.summary, stakes: (Array.isArray(t.stakes) ? t.stakes : []).map(String) };
+      if (t && typeof t.title === 'string' && typeof t.summary === 'string') s.i18n[l] = { title: t.title, context: String(t.context || ''), summary: t.summary, plain: String(t.plain || ''), stakes: (Array.isArray(t.stakes) ? t.stakes : []).map(String), chart: s.chart && t.chart && Array.isArray(t.chart.labels) && t.chart.labels.length === s.chart.items.length ? { title: String(t.chart.title || ''), unit: String(t.chart.unit || ''), labels: t.chart.labels.map(String) } : null };
     }
   });
 }
@@ -293,6 +317,47 @@ async function addImages(stories) {
     s.image = url && src ? { url, credit: src.source, link: src.link } : null;
     delete s._items;
   }
+}
+
+// Visuel des expositions : image de présentation de la page de l'organisateur (non copiée, simple lien avec crédit).
+async function addCultureImages(events, prevEvents) {
+  for (const e of events) {
+    const old = (prevEvents || []).find(x => x.sourceUrl === e.sourceUrl && x.image);
+    if (old) { e.image = old.image; continue; }
+    if (e.image && e.image.url) continue;
+    const url = e.sourceUrl && /^https:/.test(e.sourceUrl) ? await ogImage(e.sourceUrl) : null;
+    e.image = url ? { url, credit: e.source || '', link: e.sourceUrl } : null;
+  }
+  return events;
+}
+
+// Moyennes nationales des stations, enregistrées chaque lundi : fenêtre glissante de 12 semaines.
+const mondayOf = day => { const d = new Date(day + 'T12:00:00Z'); d.setUTCDate(d.getUTCDate() - ((d.getUTCDay() + 6) % 7)); return d.toISOString().slice(0, 10); };
+async function updateFuelHistory() {
+  const file = new URL('data/carburants-history.json', ROOT);
+  let h; try { h = JSON.parse(await readFile(file, 'utf8')); } catch { h = null; }
+  if (!h || !Array.isArray(h.weeks)) h = { weeks: [] };
+  const week = mondayOf(today);
+  if (h.weeks.some(w => w.week === week)) return h;
+  try {
+    const q = 'avg(gazole_prix) as gazole, avg(e10_prix) as e10, avg(sp95_prix) as sp95, avg(sp98_prix) as sp98, avg(e85_prix) as e85, avg(gplc_prix) as gpl, count(*) as n';
+    const j = await (await get('https://data.economie.gouv.fr/api/explore/v2.1/catalog/datasets/prix-des-carburants-en-france-flux-instantane-v2/records?limit=1&select=' + encodeURIComponent(q), 'application/json', 30000)).json();
+    const r = j.results && j.results[0];
+    if (!r || !(r.gazole > 0)) throw new Error('réponse vide');
+    const round = x => (x > 0 ? Math.round(x * 1000) / 1000 : null);
+    h.weeks.push({ week, measuredOn: today, gazole: round(r.gazole), e10: round(r.e10), sp95: round(r.sp95), sp98: round(r.sp98), e85: round(r.e85), gpl: round(r.gpl), stations: r.n });
+    h.weeks.sort((a, b) => a.week.localeCompare(b.week));
+    h.weeks = h.weeks.slice(-12);
+    h.updated = new Date().toISOString();
+    h.scope = 'France entière : moyenne des stations';
+    h.unit = '€/L';
+    h.source = 'prix-carburants.gouv.fr';
+    h.sourceUrl = 'https://www.prix-carburants.gouv.fr/rubrique/opendata/';
+    await mkdir(new URL('data/', ROOT), { recursive: true });
+    await writeFile(file, JSON.stringify(h, null, 2));
+    console.log('Historique carburants : semaine du ' + week + ' ajoutée (' + h.weeks.length + '/12).');
+  } catch (e) { console.warn('Historique carburants KO :', e.message); }
+  return h;
 }
 
 async function previous() { try { return JSON.parse(await readFile(new URL('data/latest.json', ROOT), 'utf8')); } catch { return null; } }
@@ -340,6 +405,8 @@ if (!HAS_AI) {
   }
 }
 
+const culture = await addCultureImages((prev?.culture || []).filter(e => e.end >= today), prev?.culture);
+await updateFuelHistory();
 const keepPrev = prev && prev.date === today;
 const edition = {
   schemaVersion: 2,
@@ -351,7 +418,7 @@ const edition = {
   sources,
   meteo: { ok: false, city: 'Montaigu-Vendée', source: 'Open-Meteo', sourceUrl: 'https://open-meteo.com/en/docs', fetchedAt: null },
   carburants: { ok: false, prices: [], best: {}, stationsVerifiees: 0, source: 'prix-carburants.gouv.fr', sourceUrl: 'https://www.prix-carburants.gouv.fr/rubrique/opendata/' },
-  culture: (prev?.culture || []).filter(e => e.end >= today),
+  culture,
   history: keepPrev ? prev.history || [] : [],
   checks: { actualites: news.france.length + news.monde.length > 0, meteo: false, carburants: false },
 };
