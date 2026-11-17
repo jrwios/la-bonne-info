@@ -1,0 +1,2052 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-17T23:18:44.631Z",
+  "status": "partielle",
+  "stories": {
+    "france": [
+      {
+        "id": "s72edaf525a",
+        "topic": "societe",
+        "title": "Manifestations en France pour le pouvoir d'achat et les services publics",
+        "context": "Les syndicats et plusieurs organisations appellent régulièrement à la mobilisation pour réclamer des hausses de salaires et de meilleures conditions de travail face à l'inflation.",
+        "summary": "Une nouvelle journée de mobilisation sociale s'est déroulée en France, réunissant des fonctionnaires, des salariés du secteur privé, des étudiants et des retraités. Les cortèges ont rassemblé 146 000 personnes selon le ministère de l'Intérieur, tandis que la CGT avance le chiffre de plus de 500 000 manifestants. Les participants ont exprimé leur inquiétude face à la dégradation du pouvoir d'achat et à la situation des services publics. Les syndicats reprochent au patronat et au gouvernement une fin de non-recevoir concernant leurs revendications salariales.",
+        "plain": "Des milliers de personnes ont manifesté en France pour réclamer de meilleurs salaires et défendre le service public face à la vie chère. Alors que les syndicats comptent un demi-million de participants, le gouvernement en dénombre nettement moins.",
+        "chart": null,
+        "stakes": [
+          "Quel sera l'impact de cette mobilisation sur la politique salariale du gouvernement ?",
+          "Les syndicats parviendront-ils à maintenir la pression à l'approche des échéances électorales ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "A La Rochelle, les fonctionnaires défendent leur pouvoir d'achat",
+            "link": "https://www.franceinfo.fr/societe/manifestations/a-la-rochelle-les-fonctionnaires-defendent-leur-pouvoir-d-achat_8286977.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-17T17:56:42.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Monde",
+            "title": "Manifestations du 17 novembre : de Paris à Lyon, un mouvement qui regarde vers la présidentielle, « on envoie un message au prochain locataire de l’Elysée »",
+            "link": "https://www.lemonde.fr/politique/article/2026/11/17/manifestations-du-17-novembre-de-paris-a-lyon-un-mouvement-qui-regarde-vers-la-presidentielle-on-envoie-un-message-au-prochain-locataire-de-l-elysee_6813043_823448.html",
+            "publishedAt": "2026-11-17T20:29:39.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Libération",
+            "title": "Mobilisation sociale : 146 000 personnes ont manifesté en France ce mardi selon l’Intérieur, plus de 500 000 selon les syndicats",
+            "link": "https://www.liberation.fr/economie/social/en-direct-mobilisations-sociales-fonctionnaires-cheminots-etudiants-et-lyceens-dans-la-rue-ce-mardi-20261117_OHS6A6MT4FDIBE5NLCOZ5SN2QY/",
+            "publishedAt": "2026-11-17T20:56:31.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "L'Humanité",
+            "title": "« Tout le monde est au bout du rouleau » : ce 17 novembre, fonctionnaires et jeunes unis contre un avenir plombé",
+            "link": "https://www.humanite.fr/social-et-economie/fonction-publique/tout-le-monde-est-au-bout-du-rouleau-ce-17-novembre-fonctionnaires-et-jeunes-unis-contre-un-avenir-plombe",
+            "publishedAt": "2026-11-17T19:14:30.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "France 24",
+            "title": "\"Fractures françaises\" : jusqu'où ?",
+            "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261117-fractures-fran%C3%A7aises-jusqu-o%C3%B9",
+            "publishedAt": "2026-11-17T19:20:47.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "RFI",
+            "title": "France: la colère sociale s'est encore faite entendre, malgré des cortèges moins fournis",
+            "link": "https://www.rfi.fr/fr/france/20261117-france-la-col%C3%A8re-sociale-s-est-encore-faite-entendre-malgr%C3%A9-des-cort%C3%A8ges-moins-fournis",
+            "publishedAt": "2026-11-17T19:14:20.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/lCmass0twDvP5ULJrCk7T9j2liQ/0x0:607x1080/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/17/6afc952745dbc799609076.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/societe/manifestations/a-la-rochelle-les-fonctionnaires-defendent-leur-pouvoir-d-achat_8286977.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Protests in France for purchasing power and public services",
+            "context": "Unions and several organizations regularly call for mobilization to demand wage increases and better working conditions in the face of inflation.",
+            "summary": "A new day of social mobilization took place in France, bringing together civil servants, private sector employees, students, and retirees. The marches gathered 146,000 people according to the Ministry of the Interior, while the CGT puts the figure at over 500,000 demonstrators. Participants expressed concern over the deterioration of purchasing power and the state of public services. The unions criticize employers and the government for a flat refusal regarding their wage demands.",
+            "plain": "Thousands of people demonstrated in France to demand better wages and defend public services in the face of the high cost of living. While the unions count half a million participants, the government counts significantly fewer.",
+            "stakes": [
+              "What will be the impact of this mobilization on the government's wage policy?",
+              "Will the unions manage to maintain pressure as electoral deadlines approach?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Manifestaciones en Francia por el poder adquisitivo y los servicios públicos",
+            "context": "Los sindicatos y varias organizaciones convocan regularmente a la movilización para exigir aumentos salariales y mejores condiciones de trabajo frente a la inflación.",
+            "summary": "Se llevó a cabo una nueva jornada de movilización social en Francia, que reunió a funcionarios, empleados del sector privado, estudiantes y jubilados. Las marchas congregaron a 146.000 personas según el Ministerio del Interior, mientras que la CGT cifra en más de 500.000 los manifestantes. Los participantes expresaron su preocupación ante la degradación del poder adquisitivo y la situación de los servicios públicos. Los sindicatos reprochan a la patronal y al gobierno una negativa rotunda respecto a sus reivindicaciones salariales.",
+            "plain": "Miles de personas se manifestaron en Francia para exigir mejores salarios y defender el servicio público frente a la carestía de la vida. Mientras que los sindicatos cuentan medio millón de participantes, el gobierno contabiliza bastantes menos.",
+            "stakes": [
+              "¿Cuál será el impacto de esta movilización en la política salarial del gobierno?",
+              "¿Lograrán los sindicatos mantener la presión a medida que se acerquen los plazos electorales?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s54aaf9fd5f",
+        "topic": "politique",
+        "title": "Marine Le Pen détaille son projet pour les retraites en vue de 2027",
+        "context": "La question des retraites demeure un sujet central dans le débat politique français en prévision de l'élection présidentielle.",
+        "summary": "La candidate du Rassemblement national Marine Le Pen a présenté les axes de sa réforme des retraites qu'elle compte mener en cas d'accession au pouvoir. Elle prévoit notamment de ramener l'âge légal de départ à 60 ans sous certaines conditions. Ses opposants critiquent la viabilité économique de ce projet, doutant de sa crédibilité financière. La responsable politique tente ainsi de préciser son programme social à l'approche de la campagne.",
+        "plain": "Marine Le Pen a dévoilé son plan pour abaisser l'âge de départ à la retraite si elle est élue présidente. Ses adversaires politiques remettent en cause la faisabilité financière de ses propositions.",
+        "chart": null,
+        "stakes": [
+          "Comment le Rassemblement national compte-t-il financer cette baisse de l'âge de départ ?",
+          "Cette proposition séduira-t-elle durablement les électeurs face aux critiques sur sa crédibilité ?"
+        ],
+        "sources": [
+          {
+            "name": "L'Express",
+            "title": "Réforme des retraites : Marine Le Pen ou la stratégie de l’adaptation permanente",
+            "link": "https://www.lexpress.fr/politique/reforme-des-retraites-marine-le-pen-ou-la-strategie-de-ladaptation-permanente-XEAXIGQMOBENNBWJS3BDJ4WNI4/",
+            "publishedAt": "2026-11-17T15:54:03.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Valeurs actuelles",
+            "title": "Présidentielle 2027 : Marine Le Pen tente de résoudre l’impossible équation des retraites",
+            "link": "https://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-marine-le-pen-tente-de-resoudre-limpossible-equation-des-retraites",
+            "publishedAt": "2026-11-17T17:29:06.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "Le Pen defends retirement reform plan as opponents mock her economic credibility",
+            "link": "https://www.politico.eu/article/marine-le-pen-defends-retirement-reform-plan-as-opponents-mock-her-economic-credibility/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-17T16:34:43.000Z",
+            "lang": "en",
+            "country": "BE"
+          },
+          {
+            "name": "RFI",
+            "title": "Présidentielle 2027: Marine Le Pen dévoile sa réforme des retraites qu'elle veut engager «dès son arrivée au pouvoir»",
+            "link": "https://www.rfi.fr/fr/france/20261117-pr%C3%A9sidentielle-2027-marine-le-pen-d%C3%A9voile-sa-r%C3%A9forme-des-retraites-qu-elle-veut-engager-d%C3%A8s-son-arriv%C3%A9e-au-pouvoir",
+            "publishedAt": "2026-11-17T17:00:17.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.lexpress.fr/resizer/v2/K7TWSKB6W5GLZADHRE6B4BKZAM.JPG?auth=c60ef5d63bc0fcfcb1ce20f9abe3e8473bdbddf52b3a55227fa1bf45fb6a9fdf&smart=true&width=2960&height=1968",
+          "credit": "L'Express",
+          "link": "https://www.lexpress.fr/politique/reforme-des-retraites-marine-le-pen-ou-la-strategie-de-ladaptation-permanente-XEAXIGQMOBENNBWJS3BDJ4WNI4/"
+        },
+        "i18n": {
+          "en": {
+            "title": "Marine Le Pen details her pension project ahead of 2027",
+            "context": "The pension issue remains a central topic in the French political debate ahead of the presidential election.",
+            "summary": "National Rally candidate Marine Le Pen presented the key points of her pension reform, which she intends to implement if she comes to power. Notably, she plans to lower the legal retirement age to 60 under certain conditions. Her opponents criticize the economic viability of this project, doubting its financial credibility. The political leader is thus attempting to clarify her social program as the campaign approaches.",
+            "plain": "Marine Le Pen unveiled her plan to lower the retirement age if she is elected president. Her political opponents question the financial feasibility of her proposals.",
+            "stakes": [
+              "How does the National Rally intend to finance this reduction in the retirement age?",
+              "Will this proposal appeal lastingly to voters despite criticism regarding its credibility?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Marine Le Pen detalla su proyecto sobre pensiones de cara a 2027",
+            "context": "La cuestión de las pensiones sigue siendo un tema central en el debate político francés de cara a las elecciones presidenciales.",
+            "summary": "La candidata de Agrupación Nacional, Marine Le Pen, presentó los ejes de su reforma de las pensiones que pretende llevar a cabo en caso de llegar al poder. Entre otras cosas, prevé rebajar la edad legal de jubilación a los 60 años bajo ciertas condiciones. Sus opositores critican la viabilidad económica de este proyecto, dudando de su credibilidad financiera. De este modo, la líder política intenta precisar su programa social a medida que se acerca la campaña.",
+            "plain": "Marine Le Pen desveló su plan para rebajar la edad de jubilación si es elegida presidenta. Sus adversarios políticos cuestionan la viabilidad financiera de sus propuestas.",
+            "stakes": [
+              "¿Cómo planea Agrupación Nacional financiar esta bajada de la edad de jubilación?",
+              "¿Seducirá esta propuesta de forma duradera a los electores frente a las críticas sobre su credibilidad?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sa41ef64858",
+        "topic": "politique",
+        "title": "La droite et le centre s'accordent sur le principe d'une primaire pour 2027",
+        "context": "Les formations politiques de gouvernement cherchent des stratégies d'union pour peser lors de la prochaine élection présidentielle.",
+        "summary": "Les équipes de plusieurs figures politiques de premier plan, parmi lesquelles Gabriel Attal, Bruno Retailleau et David Lisnard, se sont réunies pour valider le principe d'une primaire rassemblant la droite et le centre. Ce scrutin interne est envisagé pour le mois de janvier afin de départager les candidats potentiels. Cette démarche vise à structurer une alternative politique unifiée. Les discussions se poursuivent pour fixer les modalités exactes de cette consultation.",
+        "plain": "Des responsables de la droite et du centre ont acté l'organisation d'une primaire en janvier pour désigner un candidat commun en vue de la présidentielle. L'objectif est d'unir leurs forces pour peser dans la course à l'Élysée.",
+        "chart": null,
+        "stakes": [
+          "Quels candidats accepteront de se soumettre à cette primaire ?",
+          "Cette union permettra-t-elle à la droite et au centre de s'imposer face aux autres blocs politiques ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Présidentielle 2027 : ce que l’on sait du projet de primaire de la droite et du centre",
+            "link": "https://www.la-croix.com/politique/presidentielle-2027-ce-que-l-on-sait-du-projet-de-primaire-de-la-droite-et-du-centre-20261117",
+            "publishedAt": "2026-11-17T20:22:51.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le JDD",
+            "title": "Présidentielle : Attal, Retailleau et Lisnard s'accordent sur une primaire en janvier",
+            "link": "https://www.lejdd.fr/politique/presidentielle-attal-retailleau-et-lisnard-saccordent-sur-une-primaire-en-janvier-189027",
+            "publishedAt": "2026-11-17T18:19:59.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "Jusqu’où peut aller David Lisnard ?",
+            "link": "https://www.politico.eu/podcast/playbook-paris-podcast/jusquou-peut-aller-david-lisnard/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-17T16:26:44.000Z",
+            "lang": "en",
+            "country": "BE"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/17/2591894-gabriel-attal-lors-d-une-rencontre-avec-des-chefs-.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/politique/presidentielle-2027-ce-que-l-on-sait-du-projet-de-primaire-de-la-droite-et-du-centre-20261117"
+        },
+        "i18n": {
+          "en": {
+            "title": "The right and center agree on the principle of a primary for 2027",
+            "context": "Mainstream political parties are looking for unification strategies to wield influence in the next presidential election.",
+            "summary": "The teams of several prominent political figures, including Gabriel Attal, Bruno Retailleau, and David Lisnard, met to validate the principle of a primary bringing together the right and center. This internal vote is planned for January to decide between potential candidates. This approach aims to structure a united political alternative. Discussions are ongoing to set the exact terms of this consultation.",
+            "plain": "Leaders from the right and center have agreed to organize a primary in January to designate a common candidate for the presidential election. The objective is to unite their forces to make an impact in the race for the Élysée.",
+            "stakes": [
+              "Which candidates will agree to submit to this primary?",
+              "Will this union allow the right and center to prevail against other political blocs?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "La derecha y el centro acuerdan el principio de unas primarias para 2027",
+            "context": "Las formaciones políticas de gobierno buscan estrategias de unión para influir en las próximas elecciones presidenciales.",
+            "summary": "Los equipos de varias figuras políticas de primer orden, entre ellas Gabriel Attal, Bruno Retailleau y David Lisnard, se reunieron para validar el principio de unas primarias que agrupen a la derecha y al centro. Esta votación interna se contempla para el mes de enero con el fin de decidir entre los candidatos potenciales. Este enfoque pretende estructurar una alternativa política unificada. Continúan las discusiones para fijar las modalidades exactas de esta consulta.",
+            "plain": "Responsables de la derecha y el centro acordaron la organización de unas primarias en enero para designar un candidato común de cara a las presidenciales. El objetivo es unir sus fuerzas para influir en la carrera hacia el Elíseo.",
+            "stakes": [
+              "¿Qué candidatos aceptarán someterse a estas primarias?",
+              "¿Permitirá esta unión que la derecha y el centro se impongan frente a los demás bloques políticos?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s2e8e9320bd",
+        "topic": "justice",
+        "title": "Condamnations historiques au procès de « la petite inconnue de l’A10 »",
+        "context": "Ce dossier judiciaire constitue l'un des plus anciens « cold cases » de l'histoire criminelle française, l'enfant n'ayant été identifiée que de longues années après la découverte de son corps en 1987.",
+        "summary": "La cour d'assises de Blois a rendu son verdict dans le procès de la mort de la fillette surnommée « la petite inconnue de l'A10 ». La mère a été condamnée à vingt ans de réclusion criminelle, tandis que le père a écopé de quinze ans de prison. Les juges ont retenu les accusations d'actes de torture et de complicité. Cette décision met un terme judiciaire à une enquête vieille de près de quarante ans.",
+        "plain": "Près de quarante ans après la découverte du corps d'une fillette le long d'une autoroute, ses parents ont été lourdement condamnés par la justice. La mère a reçu vingt ans de prison et le père quinze ans.",
+        "chart": null,
+        "stakes": [
+          "Ce verdict permet-il de clore définitivement l'une des affaires criminelles les plus marquantes de France ?",
+          "Quels enseignements la justice tire-t-elle du traitement de ces affaires anciennes ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Procès des parents de « la petite inconnue de l’A10 » : la mère condamnée à vingt ans de réclusion, le père à quinze ans",
+            "link": "https://www.lemonde.fr/societe/article/2026/11/17/proces-des-parents-de-la-petite-inconnue-de-l-a10-la-mere-condamnee-a-vingt-ans-de-reclusion-le-pere-a-quinze-ans_6813049_3224.html",
+            "publishedAt": "2026-11-17T21:40:44.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Figaro",
+            "title": "La mère de la «martyre de l’A10» condamnée à 20 ans de réclusion criminelle, le père à 15 ans : «dans ce procès, l’horreur a une place immense»",
+            "link": "https://www.lefigaro.fr/faits-divers/la-mere-de-la-martyre-de-l-a10-condamnee-a-20-ans-de-reclusion-criminelle-le-pere-a-15-ans-dans-ce-proces-l-horreur-a-une-place-immense-20261117",
+            "publishedAt": "2026-11-17T21:31:20.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Libération",
+            "title": "Affaire de «la petite inconnue de l’A10» : la mère et le père condamnés à 20 ans et 15 ans de réclusion criminelle",
+            "link": "https://www.liberation.fr/societe/police-justice/affaire-de-la-petite-inconnue-de-la10-la-mere-et-le-pere-condamnes-a-20-ans-et-15-ans-de-reclusion-criminelle-20261117_FLR7DAUR6NCA5DKMHSTC24FLKQ/",
+            "publishedAt": "2026-11-17T21:34:27.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "Procès de « la martyre de l’A10 » : les parents condamnés pour actes de torture à 20 et 15 ans de réclusion criminelle",
+            "link": "https://www.ouest-france.fr/societe/justice/proces-de-la-martyre-de-la10-les-parents-condamnes-pour-actes-de-torture-a-20-et-15-ans-de-reclusion-criminelle-1c219032-e28e-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-17T21:39:41.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/17/0/0/5839/2919/644/322/60/0/4bd278f_ftp-1-baj2gbxlw55m-afp-d7rq9we.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/societe/article/2026/11/17/proces-des-parents-de-la-petite-inconnue-de-l-a10-la-mere-condamnee-a-vingt-ans-de-reclusion-le-pere-a-quinze-ans_6813049_3224.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Historic convictions in the trial of 'the little unknown girl of the A10'",
+            "context": "This legal case is one of the oldest 'cold cases' in French criminal history, as the child was only identified many years after the discovery of her body in 1987.",
+            "summary": "The Blois Assize Court delivered its verdict in the trial concerning the death of the young girl nicknamed 'the little unknown girl of the A10'. The mother was sentenced to twenty years of criminal imprisonment, while the father received a fifteen-year prison term. The judges upheld charges of acts of torture and complicity. This decision brings a legal end to an investigation nearly forty years old.",
+            "plain": "Nearly forty years after the discovery of a young girl's body along a highway, her parents were heavily sentenced by the courts. The mother received twenty years in prison and the father fifteen years.",
+            "stakes": [
+              "Does this verdict definitively close one of France's most striking criminal cases?",
+              "What lessons is the justice system drawing from the handling of these old cases?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Condenas históricas en el juicio de «la pequeña desconocida de la A10»",
+            "context": "Este expediente judicial constituye uno de los «casos sin resolver» más antiguos de la historia criminal francesa, ya que la niña solo fue identificada largos años después del descubrimiento de su cuerpo en 1987.",
+            "summary": "El Tribunal de lo Criminal de Blois dictó su sentencia en el juicio por la muerte de la niña apodada «la pequeña desconocida de la A10». La madre fue condenada a veinte años de reclusión criminal, mientras que el padre recibió una pena de quince años de prisión. Los jueces retuvieron los cargos de actos de tortura y complicidad. Esta decisión pone fin judicial a una investigación de casi cuarenta años de antigüedad.",
+            "plain": "Casi cuarenta años después del descubrimiento del cuerpo de una niña a lo largo de una autopista, sus padres fueron duramente condenados por la justicia. La madre recibió veinte años de cárcel y el padre quince años.",
+            "stakes": [
+              "¿Permite este veredicto cerrar definitivamente uno de los casos criminales más destacados de Francia?",
+              "¿Qué lecciones extrae la justicia del tratamiento de estos casos antiguos?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s4d7e16f40c",
+        "topic": "justice",
+        "title": "Le procès des policiers impliqués dans l'agression de Michel Zecler se poursuit",
+        "context": "Cette affaire fait suite à l'interpellation violente d'un producteur de musique en 2020, qui avait suscité une vive émotion et de nombreux débats sur les violences policières.",
+        "summary": "Devant la cour criminelle départementale de Paris, les trois policiers poursuiguis pour l'agression de Michel Zecler se sont exprimés sur les faits. Ils ont reconnu le caractère illégitime de leur intervention tout en invoquant la peur ressentie ce soir-là, exprimant des regrets. Les débats judiciaires permettent d'examiner les responsabilités de chacun dans cette affaire très médiatisée. Le procès se penche sur les circonstances exactes de l'interpellation et le comportement des agents.",
+        "plain": "Les policiers jugés pour l'agression du producteur Michel Zecler en 2020 ont présenté des excuses et reconnu des violences injustifiées, tout en invoquant la peur. Le procès se poursuit pour établir les responsabilités de chacun.",
+        "chart": null,
+        "stakes": [
+          "Quelle sera la décision de la justice concernant la qualification des faits et les peines requises ?",
+          "Comment cette affaire influence-t-elle le débat sur l'usage de la force par les forces de l'ordre ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Au procès de l’agression de Michel Zecler, trois policiers, quelques excuses, mais surtout pas de racisme",
+            "link": "https://www.liberation.fr/societe/police-justice/au-proces-de-lagression-de-michel-zecler-trois-policiers-quelques-excuses-mais-surtout-pas-de-racisme-20261117_NNQFLBRESBHF5LDTSVQRMQQPKM/",
+            "publishedAt": "2026-11-17T21:08:22.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "La Croix",
+            "title": "Au procès Zecler, les regrets des trois policiers face à des violences « illégitimes »",
+            "link": "https://www.la-croix.com/societe/au-proces-zecler-les-regrets-des-trois-policiers-face-a-des-violences-illegitimes-20261117",
+            "publishedAt": "2026-11-17T19:39:08.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/17/2591875-un-croquis-d-audience-realise-le-9-novembre-2026-m.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/societe/au-proces-zecler-les-regrets-des-trois-policiers-face-a-des-violences-illegitimes-20261117"
+        },
+        "i18n": {
+          "en": {
+            "title": "Trial of police officers involved in Michel Zecler's assault continues",
+            "context": "This case follows the violent arrest of a music producer in 2020, which had sparked deep emotion and widespread debate regarding police violence.",
+            "summary": "Before the Paris departmental criminal court, the three police officers on trial for the assault of Michel Zecler spoke about the events. They acknowledged the illegitimate nature of their intervention while citing the fear they felt that evening, expressing regret. The judicial proceedings allow for an examination of each person's responsibility in this highly publicized affair. The trial is looking into the exact circumstances of the arrest and the officers' behavior.",
+            "plain": "The police officers on trial for the 2020 assault of music producer Michel Zecler apologized and acknowledged unjustified violence, while citing fear. The trial continues to establish individual responsibilities.",
+            "stakes": [
+              "What will be the court's decision regarding the legal classification of the acts and the requested sentences?",
+              "How does this affair influence the debate on the use of force by law enforcement?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Continúa el juicio a los policías implicados en la agresión a Michel Zecler",
+            "context": "Este caso se produce tras la violenta detención de un productor musical en 2020, que había suscitado una profunda emoción y numerosos debates sobre la violencia policial.",
+            "summary": "Ante el tribunal penal departamental de París, los tres policías juzgados por la agresión a Michel Zecler se pronunciaron sobre los hechos. Reconocieron el carácter ilegítimo de su intervención al tiempo que invocaron el miedo sentido aquella noche, expresando su pesar. los debates judiciales permiten examinar las responsabilidades de cada uno en este asunto tan mediático. El juicio examina las circunstancias exactas de la detención y el comportamiento de los agentes.",
+            "plain": "Los policías juzgados por la agresión al productor Michel Zecler en 2020 pidieron disculpas y reconocieron la violencia injustificada, aunque alegaron miedo. El juicio continúa para determinar las responsabilidades de cada cual.",
+            "stakes": [
+              "¿Cuál será la decisión de la justicia respecto a la calificación de los hechos y las penas solicitadas?",
+              "¿Cómo influye este caso en el debate sobre el uso de la fuerza por parte de las fuerzas del orden?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s375da0847a",
+        "topic": "international",
+        "title": "La France conteste les accusations russes de participation directe au conflit en Ukraine",
+        "context": "Les relations diplomatiques et militaires entre Paris et Moscou restent extrêmement tendues dans le contexte de la guerre en Ukraine.",
+        "summary": "Le ministère français des Armées a formellement démenti les accusations formulées par la Russie affirmant que des militaires français seraient directement impliqués dans les combats en Ukraine. Moscou qualifie cette présence de « cobelligérance », ce que Paris rejette catégoriquement en affirmant que les soldats français ne sont pas parties prenantes aux affrontements. Le gouvernement français réaffirme sa position officielle face à ces déclarations russes.",
+        "plain": "La France a rejeté les accusations de la Russie qui l'accuse d'être un belligérant en Ukraine en raison de la présence de militaires français. Paris affirme qu'il n'y a pas de participation directe au conflit.",
+        "chart": null,
+        "stakes": [
+          "Ces tensions verbales risquent-elles d'accroître les frictions diplomatiques entre la France et la Russie ?",
+          "Comment les alliés occidentaux perçoivent-ils la gestion de cette situation par Paris ?"
+        ],
+        "sources": [
+          {
+            "name": "L'Express",
+            "title": "Soldats français en Ukraine : \"Nous ne sommes pas cobelligérants\", répond Paris à Moscou",
+            "link": "https://www.lexpress.fr/monde/europe/soldats-francais-en-ukraine-nous-ne-sommes-pas-cobelligerants-repond-paris-a-moscou-EIQTQLLPSZAQRCWULDIRRMPJDI/",
+            "publishedAt": "2026-11-17T17:13:23.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "L'Humanité",
+            "title": "« Nous ne sommes pas cobelligérants en Ukraine » : le ministère des Armées dément la « participation directe » dont l’accuse la Russie",
+            "link": "https://www.humanite.fr/monde/guerre-en-ukraine/nous-ne-sommes-pas-cobelligerants-en-ukraine-le-ministere-des-armees-dement-la-participation-directe-dont-laccuse-la-russie",
+            "publishedAt": "2026-11-17T19:38:07.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "Russia’s Lavrov says French troops in Ukraine amount to ‘direct participation’ in war",
+            "link": "https://www.politico.eu/article/sergey-lavrov-france-soldiers-ukraine-direct-participation-war-russia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-17T17:22:15.000Z",
+            "lang": "en",
+            "country": "BE"
+          },
+          {
+            "name": "RFI",
+            "title": "Les Français «ne sont pas cobelligérants en Ukraine» malgré la présence de soldats, martèle le gouvernement",
+            "link": "https://www.rfi.fr/fr/france/20261117-les-fran%C3%A7ais-ne-sont-pas-cobellig%C3%A9rants-en-ukraine-malgr%C3%A9-la-pr%C3%A9sence-de-soldats-mart%C3%A8le-le-gouvernement",
+            "publishedAt": "2026-11-17T17:47:27.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.lexpress.fr/resizer/v2/GHJGX5NPTBE6NGIJFHJDD2KWLE.jpg?auth=57aa55699facf12c768d7325d54e1ce3f09ee0e2db63445579f827a275c8c5ae&smart=true&width=5190&height=3460",
+          "credit": "L'Express",
+          "link": "https://www.lexpress.fr/monde/europe/soldats-francais-en-ukraine-nous-ne-sommes-pas-cobelligerants-repond-paris-a-moscou-EIQTQLLPSZAQRCWULDIRRMPJDI/"
+        },
+        "i18n": {
+          "en": {
+            "title": "France contests Russian accusations of direct participation in the conflict in Ukraine",
+            "context": "Diplomatic and military relations between Paris and Moscow remain extremely tense in the context of the war in Ukraine.",
+            "summary": "The French Ministry of Armed Forces formally denied accusations made by Russia claiming that French soldiers are directly involved in the fighting in Ukraine. Moscow describes this presence as 'co-belligerence', which Paris categorically rejects, asserting that French soldiers are not parties to the clashes. The French government reaffirms its official position in the face of these Russian statements.",
+            "plain": "France has rejected Russia's accusations that it is a belligerent in Ukraine due to the presence of French soldiers. Paris maintains there is no direct participation in the conflict.",
+            "stakes": [
+              "Do these verbal tensions risk increasing diplomatic friction between France and Russia?",
+              "How do Western allies perceive Paris's handling of this situation?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Francia contesta a las acusaciones rusas de participación directa en el conflicto en Ucrania",
+            "context": "Las relaciones diplomáticas y militares entre París y Moscú siguen siendo extremadamente tensas en el contexto de la guerra en Ucrania.",
+            "summary": "El Ministerio de los Ejércitos de Francia desmintió formalmente las acusaciones formuladas por Rusia que afirmaban que militares franceses estarían implicados directamente en los combates en Ucrania. Moscú califica esta presencia de «cobeligerancia», algo que París rechaza categóricamente al afirmar que los soldados franceses no son parte implicada en los enfrentamientos. El gobierno francés reafirma su posición oficial frente a estas declaraciones rusas.",
+            "plain": "Francia rechazó las acusaciones de Rusia que la acusan de ser beligerante en Ucrania debido a la presencia de militares franceses. París afirma que no hay participación directa en el conflicto.",
+            "stakes": [
+              "¿Corren el riesgo estas tensiones verbales de aumentar las fricciones diplomáticas entre Francia y Rusia?",
+              "¿Cómo perciben los aliados occidentales la gestión de esta situación por parte de París?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s30a513a8de",
+        "topic": "economie",
+        "title": "La Commission européenne appelle la France à réduire sa dette publique",
+        "context": "Les institutions européennes surveillent de près la situation budgétaire et les prévisions de croissance des pays de la zone euro.",
+        "summary": "Le commissaire européen à l'Économie, Valdis Dombrovskis, a exprimé l'inquiétude de Bruxelles face aux dérapages budgétaires et aux prévisions de croissance revues à la baisse pour la France. Tandis que la situation s'améliore dans la majorité des pays de la zone euro, l'économie française fait l'objet de demandes pressantes pour maîtriser ses dépenses publiques et réduire sa dette. Les autorités européennes insistent sur la nécessité de réformes structurelles.",
+        "plain": "L'Union européenne a pressé la France de redresser ses comptes publics et de baisser sa dette, constatant des difficultés économiques persistantes malgré l'embellie générale en zone euro.",
+        "chart": null,
+        "stakes": [
+          "Le gouvernement français parviendra-t-il à rassurer Bruxelles sur sa trajectoire budgétaire ?",
+          "Quelles mesures d'économie seront exigées pour respecter les règles européennes ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Dérapage budgétaire et chômage attendu à 10% en 2028, la France inquiète l’Europe",
+            "link": "https://www.la-croix.com/economie/derapage-budgetaire-et-chomage-attendu-a-10-en-2028-la-france-inquiete-l-europe-20261117",
+            "publishedAt": "2026-11-17T19:08:06.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Euronews",
+            "title": "Croissance de l'UE : Dombrovskis presse la France de réduire sa dette",
+            "link": "https://fr.euronews.com/2026/11/17/croissance-de-lue-dombrovskis-presse-la-france-de-reduire-sa-dette",
+            "publishedAt": "2026-11-17T20:24:41.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Euronews",
+            "title": "Zone euro : la croissance revue à la hausse à 1,2 %, malgré l'inflation et la dette",
+            "link": "https://fr.euronews.com/2026/11/17/commission-europeenne-releve-la-croissance-de-la-zone-euro-a-12-malgre-linflation-et-la-de",
+            "publishedAt": "2026-11-17T17:04:17.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/17/2591776-avec-04-de-croissance-en-2026-selon-les-previsions.jpeg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/economie/derapage-budgetaire-et-chomage-attendu-a-10-en-2028-la-france-inquiete-l-europe-20261117"
+        },
+        "i18n": {
+          "en": {
+            "title": "The European Commission calls on France to reduce its public debt",
+            "context": "European institutions closely monitor the budgetary situation and growth forecasts of euro area countries.",
+            "summary": "European Commissioner for Economy Valdis Dombrovskis expressed Brussels' concern over budget slippages and downwardly revised growth forecasts for France. While the situation is improving in the majority of euro area countries, the French economy is facing pressing demands to curb public spending and reduce its debt. European authorities insist on the necessity of structural reforms.",
+            "plain": "The European Union has urged France to straighten out its public accounts and lower its debt, noting persistent economic difficulties despite the general upturn in the euro area.",
+            "stakes": [
+              "Will the French government manage to reassure Brussels regarding its budgetary trajectory?",
+              "What savings measures will be required to comply with European rules?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "La Comisión Europea insta a Francia a reducir su deuda pública",
+            "context": "Las instituciones europeas vigilan de cerca la situación presupuestaria y las previsiones de crecimiento de los países de la eurozona.",
+            "summary": "El comisario europeo de Economía, Valdis Dombrovskis, expresó la preocupación de Bruselas ante las desviaciones presupuestarias y las previsiones de crecimiento revisadas a la baja para Francia. Mientras la situación mejora en la mayoría de los países de la zona del euro, la economía francesa es objeto de demandas apremiantes para controlar su gasto público y reducir su deuda. Las autoridades europeas insisten en la necesidad de reformas estructurales.",
+            "plain": "La Unión Europea instó a Francia a sanear sus cuentas públicas y reducir su deuda, constatando dificultades económicas persistentes a pesar de la mejora general en la eurozona.",
+            "stakes": [
+              "¿Logrará el gobierno francés tranquilizar a Bruselas sobre su trayectoria presupuestaria?",
+              "¿Qué medidas de ahorro se exigirán para cumplir con las normas europeas?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s4b88ce23b6",
+        "topic": "international",
+        "title": "Le pont de Crimée partiellement détruit après une attaque ukrainienne",
+        "context": "Le pont reliant la Russie à la péninsule occupée de Crimée représente un axe logistique et un symbole politique majeurs pour Moscou.",
+        "summary": "Une opération menée conjointement à l'aide de drones et de missiles a lourdement endommagé l'une des arches du pont de Kertch. Les autorités ukrainiennes ont salué cette action qualifiée d'« opération sans précédent », tandis que le président ukrainien Volodymyr Zelensky a souligné l'importance de cette frappe. De son côté, la Russie a constaté l'effondrement partiel de la structure. Cette attaque perturbe durablement les liaisons terrestres entre le territoire russe et la Crimée.",
+        "plain": "L'Ukraine a mené une attaque d'envergure avec des drones et des missiles contre le pont de Crimée, endommageant gravement cet ouvrage stratégique. Cette destruction porte un coup dur aux voies d'approvisionnement russes.",
+        "chart": null,
+        "stakes": [
+          "Quelles seront les répercussions militaires de la coupure de cet axe pour les forces russes en Crimée ?",
+          "Comment Moscou va-t-il réagir à cette attaque d'un symbole fort de son emprise territoriale ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+            "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-17T21:24:35.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "BBC News",
+            "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+            "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-17T17:19:57.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "BBC News",
+            "title": "How the attack on Putin's prized Crimean Bridge unfolded",
+            "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-17T15:38:10.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Tagesschau",
+            "title": "Schwere Schäden an der strategisch wichtigen Krim-Brücke nach ukrainischen Angriffen",
+            "link": "https://www.tagesschau.de/tagesthemen/video-1685614.html",
+            "publishedAt": "2026-11-17T21:35:45.000Z",
+            "lang": "de",
+            "country": "DE"
+          },
+          {
+            "name": "NPR",
+            "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+            "link": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
+            "publishedAt": "2026-11-17T09:50:45.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+            "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
+            "publishedAt": "2026-11-17T19:41:03.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Fox News",
+            "title": "Ukraine releases video showing damage to Putin's prized bridge following 'unprecedented operation' in Crimea",
+            "link": "https://www.foxnews.com/world/ukraine-releases-video-showing-damage-putins-prized-bridge-following-unprecedented-operation-crimea",
+            "publishedAt": "2026-11-17T17:15:42.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "Comment les Ukrainiens ont réussi à détruire une partie du « pont de Poutine » reliant la Russie à la Crimée",
+            "link": "https://www.lemonde.fr/international/article/2026/11/17/comment-les-ukrainiens-ont-reussi-a-detruire-une-partie-du-pont-de-poutine-reliant-la-russie-a-la-crimee_6813025_3210.html",
+            "publishedAt": "2026-11-17T18:00:02.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Crimea bridge partially destroyed after a Ukrainian attack",
+            "context": "The bridge linking Russia to the occupied Crimean peninsula represents a major logistical axis and political symbol for Moscow.",
+            "summary": "An operation carried out jointly using drones and missiles heavily damaged one of the arches of the Kerch bridge. Ukrainian authorities hailed this action, describing it as an \"unprecedented operation,\" while Ukrainian President Volodymyr Zelensky emphasized the importance of this strike. Meanwhile, Russia noted the partial collapse of the structure. This attack permanently disrupts land connections between Russian territory and Crimea.",
+            "plain": "Ukraine carried out a major attack with drones and missiles against the Crimea bridge, severely damaging this strategic structure. This destruction deals a heavy blow to Russian supply routes.",
+            "stakes": [
+              "What will the military repercussions of cutting this axis be for Russian forces in Crimea?",
+              "How will Moscow react to this attack on a strong symbol of its territorial hold?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "El puente de Crimea parcialmente destruido tras un ataque ucraniano",
+            "context": "El puente que une Rusia con la península ocupada de Crimea representa un eje logístico y un símbolo político importantes para Moscú.",
+            "summary": "Una operación llevada a cabo conjuntamente mediante drones y misiles dañó gravemente uno de los arcos del puente de Kerch. Las autoridades ucranianas celebraron esta acción, calificada de «operación sin precedentes», mientras que el presidente ucraniano, Volodímir Zelenski, subrayó la importancia de este ataque. Por su parte, Rusia constató el derrumbe parcial de la estructura. Este ataque perturba de forma duradera las conexiones terrestres entre el territorio ruso y Crimea.",
+            "plain": "Ucrania llevó a cabo un ataque a gran escala con drones y misiles contra el puente de Crimea, dañando gravemente esta obra estratégica. Esta destrucción asesta un duro golpe a las vías de suministro rusas.",
+            "stakes": [
+              "¿Cuáles serán las repercusiones militares del corte de este eje para las fuerzas rusas en Crimea?",
+              "¿Cómo reaccionará Moscú ante este ataque a un símbolo fuerte de su control territorial?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s30dc5b9b28",
+        "topic": "international",
+        "title": "Sommet tripartite entre Donald Trump, Xi Jinping et Vladimir Putin en Chine",
+        "context": "Les relations diplomatiques entre les grandes puissances mondiales se jouent lors de rencontres internationales de haut niveau.",
+        "summary": "Le président américain Donald Putin, le dirigeant chinois Xi Jinping et le président russe Vladimir Poutine se réunissent à Shenzhen, en Chine, en marge d'un sommet économique régional. Cette rencontre inédite à trois suscite de nombreuses interrogations et comparaisons avec des accords historiques passés. Les observateurs internationaux s'interrogent sur les sujets abordés, notamment la situation en Ukraine et les équilibres commerciaux mondiaux, en l'absence des dirigeants européens.",
+        "plain": "Un sommet réunissant Donald Trump, Xi Jinping et Vladimir Poutine s'ouvre en Chine. Cette rencontre exceptionnelle entre les dirigeants des grandes puissances est scrutée par les alliés occidentaux qui redoutent des accords conclus sans eux.",
+        "chart": null,
+        "stakes": [
+          "Quels compromis politiques ou commerciaux pourraient émerger de cette entente tripartite ?",
+          "Quelle sera la place de l'Europe face à ces tractations menées en son absence ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Figaro",
+            "title": "Sommet Xi-Trump-Poutine à Shenzhen : à la table des négociations, un président américain affaibli",
+            "link": "https://www.lefigaro.fr/international/sommet-xi-trump-poutine-a-shenzhen-a-la-table-des-negociations-un-president-americain-affaibli-20261117",
+            "publishedAt": "2026-11-17T20:25:06.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "La Croix",
+            "title": "Guerre en Ukraine : ce qu’il faut retenir de la situation du mardi 17 novembre",
+            "link": "https://www.la-croix.com/international/ukraine-russie-jour-1728-point-conflit-ukrainien-poutine-aujourdhui-20261117",
+            "publishedAt": "2026-11-17T20:42:08.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+            "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-17T20:25:46.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "NPR",
+            "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+            "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+            "publishedAt": "2026-11-17T12:20:57.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "NPR",
+            "title": "Trump arrives in Philippines to kick off Asia trip",
+            "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+            "publishedAt": "2026-11-17T10:43:55.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "NPR",
+            "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
+            "link": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
+            "publishedAt": "2026-11-17T09:46:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Trump’s Whirlwind Asia Trip Begins in the Philippines",
+            "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+            "publishedAt": "2026-11-17T20:21:27.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Wall Street Journal",
+            "title": "Opinion | Trump Meets With the Anti-U.S. Axis",
+            "link": "https://www.wsj.com/opinion/donald-trump-summit-xi-jinping-vladimir-putin-china-russia-ukraine-22332eaf?mod=rss_worldnews",
+            "publishedAt": "2026-11-17T22:36:00.000Z",
+            "lang": "en",
+            "country": "US"
+          }
+        ],
+        "image": {
+          "url": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/17/64a8d2c2a6c6b20fb4b8d46400485be27316ea28d1ee0583633caff5299e6662.jpg",
+          "credit": "Le Figaro",
+          "link": "https://www.lefigaro.fr/international/sommet-xi-trump-poutine-a-shenzhen-a-la-table-des-negociations-un-president-americain-affaibli-20261117"
+        },
+        "i18n": {
+          "en": {
+            "title": "Tripartite summit between Donald Trump, Xi Jinping, and Vladimir Putin in China",
+            "context": "Diplomatic relations between major world powers play out during high-level international meetings.",
+            "summary": "US President Donald Putin, Chinese leader Xi Jinping, and Russian President Vladimir Putin are meeting in Shenzhen, China, on the sidelines of a regional economic summit. This unprecedented three-way meeting raises numerous questions and comparisons with past historical agreements. International observers are wondering about the topics discussed, notably the situation in Ukraine and global trade balances, in the absence of European leaders.",
+            "plain": "A summit bringing together Donald Trump, Xi Jinping, and Vladimir Putin is opening in China. This exceptional meeting between the leaders of the major powers is being scrutinized by Western allies who fear agreements might be reached without them.",
+            "stakes": [
+              "What political or commercial compromises could emerge from this tripartite understanding?",
+              "What will Europe's position be in the face of these negotiations conducted in its absence?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Cumbre tripartita entre Donald Trump, Xi Jinping y Vladímir Putin en China",
+            "context": "Las relaciones diplomáticas entre las grandes potencias mundiales se debaten en encuentros internacionales de alto nivel.",
+            "summary": "El presidente estadounidense Donald Putin, el líder chino Xi Jinping y el presidente ruso Vladímir Putin se reúnen en Shenzhen, China, al margen de una cumbre económica regional. Este encuentro inédito a tres bandas suscita numerosos interrogantes y comparaciones con acuerdos históricos del pasado. Los observadores internacionales se preguntan sobre los temas abordados, en particular la situación en Ucrania y los equilibrios comerciales mundiales, en ausencia de los dirigentes europeos.",
+            "plain": "Una cumbre que reúne a Donald Trump, Xi Jinping y Vladímir Putin se inaugura en China. Este encuentro excepcional entre los dirigentes de las grandes potencias es observado con lupa por los aliados occidentales, que temen acuerdos concluidos sin ellos.",
+            "stakes": [
+              "¿Qué compromisos políticos o comerciales podrían surgir de este entendimiento tripartito?",
+              "¿Cuál será el papel de Europa frente a estas negociaciones llevadas a cabo en su ausencia?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sac8514244f",
+        "topic": "international",
+        "title": "Le Royaume-Uni adopte des sanctions contre des entreprises liées aux colonies en Cisjordanie",
+        "context": "La politique de colonisation en Cisjordanie occupée fait régulièrement l'objet de condamnations et de mesures restrictives de la part de la communauté internationale.",
+        "summary": "Le gouvernement britannique a annoncé des sanctions économiques visant huit entreprises israéliennes impliquées dans la construction et le développement de colonies en Cisjordanie. Cette décision s'inscrit dans le cadre d'une approche plus ferme affichée par Londres face aux implantations. En réaction, Israël a menacé de prendre des mesures de rétorsion, tandis que les tensions persistent dans la région.",
+        "plain": "Le Royaume-Uni a sanctionné plusieurs entreprises israéliennes participant à la colonisation en Cisjordanie. En réponse, Israël a brandi la menace de représailles diplomatiques.",
+        "chart": null,
+        "stakes": [
+          "Quel sera l'impact économique réel de ces sanctions sur les entreprises concernées ?",
+          "Ces mesures britanniques inciteront-ils d'autres pays occidentaux à durcir leur position ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Guerre au Moyen-Orient : frappes sur l’île de Qeshm, sanctions contre Israël… Le bilan du mardi 17 novembre",
+            "link": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-263-moyen-orient-bilan-resume-aujourdhui-20261117",
+            "publishedAt": "2026-11-17T20:46:01.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "UK sanctions firms over Israeli West Bank settlements",
+            "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-17T18:27:27.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+            "publishedAt": "2026-11-17T21:28:31.000Z",
+            "lang": "en",
+            "country": "QA"
+          },
+          {
+            "name": "The Hindu",
+            "title": "U.K. sanctions Israeli companies building West Bank settlements",
+            "link": "https://www.thehindu.com/news/international/uk-sanctions-israeli-companies-building-west-bank-settlements/article71713186.ece",
+            "publishedAt": "2026-11-17T18:11:03.000Z",
+            "lang": "en",
+            "country": "IN"
+          },
+          {
+            "name": "RFI",
+            "title": "Le Royaume-Uni sanctionne huit entreprises israéliennes impliquées dans la colonisation de la Cisjordanie",
+            "link": "https://www.rfi.fr/fr/moyen-orient/20261117-le-royaume-uni-sanctionne-huit-entreprises-isra%C3%A9liennes-impliqu%C3%A9es-dans-la-colonisation-de-la-cisjordanie",
+            "publishedAt": "2026-11-17T20:38:36.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "Cisjordanie : des sanctions britanniques contre des entreprises impliquées dans la construction de colonies ; Israël menace de « mesures de rétorsion »",
+            "link": "https://www.lemonde.fr/international/article/2026/11/17/cisjordanie-des-sanctions-britanniques-contre-des-entreprises-impliquees-dans-la-construction-de-colonies-israel-menace-de-mesures-de-retorsion_6813040_3210.html",
+            "publishedAt": "2026-11-17T20:02:27.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/17/2591219-une-procession-funeraire-a-jabalia-dans-la-bande-d.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-263-moyen-orient-bilan-resume-aujourdhui-20261117"
+        },
+        "i18n": {
+          "en": {
+            "title": "United Kingdom adopts sanctions against companies linked to settlements in the West Bank",
+            "context": "The policy of settlement in the occupied West Bank is regularly subject to condemnations and restrictive measures by the international community.",
+            "summary": "The British government announced economic sanctions targeting eight Israeli companies involved in the construction and development of settlements in the West Bank. This decision is part of a firmer approach displayed by London regarding settlements. In reaction, Israel threatened to take retaliatory measures, while tensions persist in the region.",
+            "plain": "The United Kingdom has sanctioned several Israeli companies participating in the colonization of the West Bank. In response, Israel has brandished the threat of diplomatic retaliation.",
+            "stakes": [
+              "What will the real economic impact of these sanctions be on the companies concerned?",
+              "Will these British measures encourage other Western countries to harden their position?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "El Reino Unido adopta sanciones contra empresas vinculadas a los asentamientos en Cisjordania",
+            "context": "La política de colonización en la Cisjordania ocupada es objeto habitual de condenas y medidas restrictivas por parte de la comunidad internacional.",
+            "summary": "El gobierno británico anunció sanciones económicas dirigidas contra ocho empresas israelíes implicadas en la construcción y el desarrollo de asentamientos en Cisjordania. Esta decisión se enmarca en un enfoque más firme mostrado por Londres ante los asentamientos. Como reacción, Israel amenazó con tomar medidas de represalia, mientras las tensiones persisten en la región.",
+            "plain": "El Reino Unido sancionó a varias empresas israelíes que participan en la colonización de Cisjordania. En respuesta, Israel blandió la amenaza de represalias diplomáticas.",
+            "stakes": [
+              "¿Cuál será el impacto económico real de estas sanciones sobre las empresas afectadas?",
+              "¿incentivarán estas medidas británicas a otros países occidentales a endurecer su postura?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s39b570cca8",
+        "topic": "international",
+        "title": "Élection surprise d'un opposant à Netanyahu à la tête de la Knesset",
+        "context": "La vie politique israélienne est marquée par de fortes tensions institutionnelles entre la coalition au pouvoir et l'opposition.",
+        "summary": "Le Parlement israélien a élu Matan Kahana, une personnalité proche du centriste Gadi Eisenkot, au poste de président de la Knesset. Cette élection a été rendue possible grâce à 66 voix, obtenues notamment avec le soutien des partis arabes. Cet événement constitue un revers pour le Premier ministre Benjamin Netanyahu, dont l'opposition espère infléchir la politique parlementaire et obtenir de nouvelles enquêtes.",
+        "plain": "Le Parlement israélien a choisi Matan Kahana, un allié de l'opposition centriste, pour le poste de président de la Knesset. C'est une défaite politique pour Benjamin Netanyahu et son camp.",
+        "chart": null,
+        "stakes": [
+          "Comment cette nouvelle présidence de la Knesset va-t-elle influencer le calendrier législatif en Israël ?",
+          "Le camp de Benjamin Netanyahu parviendra-t-il à contrer l'offensive politique de l'opposition ?"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
+            "link": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
+            "publishedAt": "2026-11-17T22:30:17.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Matan Kahana Elected Speaker of Israel’s Parliament",
+            "link": "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html",
+            "publishedAt": "2026-11-17T21:54:22.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Straits Times",
+            "title": "Eisenkot-led bloc replaces Netanyahu ally as Parliament speaker",
+            "link": "https://www.straitstimes.com/world/middle-east/eisenkot-led-bloc-replaces-netanyahu-ally-as-knesset-speaker",
+            "publishedAt": "2026-11-17T22:20:07.000Z",
+            "lang": "en",
+            "country": "SG"
+          },
+          {
+            "name": "ANSA",
+            "title": "Il blocco di Eisenkot vince la prova della presidenza della Knesset",
+            "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/17/il-blocco-di-eisenkot-vince-la-prova-della-presidenza-della-knesset_2a1369c8-b154-432e-8fb4-c9a976a54601.html",
+            "publishedAt": "2026-11-17T22:41:00.000Z",
+            "lang": "it",
+            "country": "IT"
+          },
+          {
+            "name": "France 24",
+            "title": "🔴 Israël : Matan Kahana, un fidèle d'Eisenkot, élu président du Parlement",
+            "link": "https://www.france24.com/fr/moyen-orient/20261117-isra%C3%ABl-matan-kahana-un-fid%C3%A8le-d-eisenkot-%C3%A9lu-pr%C3%A9sident-du-parlement%20Isra%C3%ABl%20:%20Matan%20Kahana%2C%20un%20fid%C3%A8le%20d%27Eisenkot%2C%20%C3%A9lu%20pr%C3%A9sident%20du%20Parlement%20-%20France%2024%20Le%20centriste%20Gadi%20Eisenkot%20a%20fait%20%C3%A9lire%20Matan%20Kahana%2C%20l%27un%20des%20siens%2C%20%C3%A0%20la%20t%C3%AAte%20du%20parlement%20isra%C3%A9lien%2C%20renforcant%20son%20camp%20face%20au%20Premier%20ministre%20sortant%20Benjamin%20Netanyahu%2C%20en%20pleine%20bataille%20p...",
+            "publishedAt": "2026-11-17T21:24:46.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "France 24",
+            "title": "Israël : Matan Kahana, un fidèle d'Eisenkot, élu président du Parlement",
+            "link": "https://www.france24.com/fr/moyen-orient/20261117-isra%C3%ABl-matan-kahana-un-fid%C3%A8le-d-eisenkot-%C3%A9lu-pr%C3%A9sident-du-parlement",
+            "publishedAt": "2026-11-17T21:23:18.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "RFI",
+            "title": "Israël: Matan Kahana, allié d'Eisenkot et opposant à Netanyahu, élu président de la Knesset",
+            "link": "https://www.rfi.fr/fr/moyen-orient/20261117-isra%C3%ABl-matan-kahana-alli%C3%A9-d-eisenkot-et-opposant-%C3%A0-netanyahu-%C3%A9lu-pr%C3%A9sident-de-la-knesset",
+            "publishedAt": "2026-11-17T21:26:30.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "Israël : Matan Kahana, un fidèle de Gadi Eisenkot, a été élu président de la Knesset",
+            "link": "https://www.lemonde.fr/international/article/2026/11/17/israel-matan-kahana-un-fidele-de-gadi-eisenkot-a-ete-elu-president-de-la-knesset_6813051_3210.html",
+            "publishedAt": "2026-11-17T22:07:25.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://i.guim.co.uk/img/media/de610ad7d09fc89df2c3a963761bfc9e2cc8e4da/1817_497_2596_2076/master/2596.jpg?width=140&quality=85&auto=format&fit=max&s=c5feba6fd1c6b1939e460cb6bcf5df69",
+          "credit": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents"
+        },
+        "i18n": {
+          "en": {
+            "title": "Surprise election of an opponent to Netanyahu as head of the Knesset",
+            "context": "Israeli political life is marked by strong institutional tensions between the ruling coalition and the opposition.",
+            "summary": "The Israeli parliament elected Matan Kahana, a figure close to centrist Gadi Eisenkot, to the position of Knesset Speaker. This election was made possible thanks to 66 votes, obtained notably with the support of Arab parties. This event constitutes a setback for Prime Minister Benjamin Netanyahu, whose opposition hopes to influence parliamentary policy and obtain new investigations.",
+            "plain": "The Israeli parliament chose Matan Kahana, an ally of the centrist opposition, for the position of Knesset Speaker. This is a political defeat for Benjamin Netanyahu and his camp.",
+            "stakes": [
+              "How will this new Knesset presidency influence the legislative calendar in Israel?",
+              "Will Benjamin Netanyahu's camp manage to counter the opposition's political offensive?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Elección sorpresa de un opositor a Netanyahu al frente de la Knéset",
+            "context": "La vida política israelí está marcada por fuertes tensiones institucionales entre la coalición en el poder y la oposición.",
+            "summary": "El parlamento israelí eligió a Matan Kahana, una personalidad cercana al centrista Gadi Eisenkot, para el cargo de presidente de la Knéset. Esta elección fue posible gracias a 66 votos, obtenidos especialmente con el apoyo de los partidos árabes. Este acontecimiento constituye un revés para el primer ministro Benjamin Netanyahu, cuya oposición espera influir en la política parlamentaria y obtener nuevas investigaciones.",
+            "plain": "El parlamento israelí eligió a Matan Kahana, un aliado de la oposición centrista, para el puesto de presidente de la Knéset. Es una derrota política para Benjamin Netanyahu y su bando.",
+            "stakes": [
+              "¿Cómo influirá esta nueva presidencia de la Knéset en el calendario legislativo en Israel?",
+              "¿Logrará el bando de Benjamin Netanyahu contrarrestar la ofensiva política de la oposición?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s64916d6055",
+        "topic": "sante",
+        "title": "La perte du statut d'élimination de la rougeole aux États-Unis",
+        "context": "La vaccination contre la rougeole constitue un enjeu de santé publique majeur pour prévenir la résurgence de cette maladie hautement contagieuse.",
+        "summary": "Les autorités sanitaires internationales et nationales ont annoncé que les États-Unis perdaient leur statut de pays ayant éliminé la rougeole, une première depuis des décennies. Plus de 5 400 cas et plusieurs décès ont été recensés à travers le pays. Cette situation découle d'une baisse notable de la couverture vaccinale, favorisant la circulation continue du virus sur le territoire américain.",
+        "plain": "Les États-Unis ne font plus partie des pays ayant éradiqué la rougeole. La diminution du nombre de personnes vaccinées a entraîné une forte hausse des cas et des décès liés à cette maladie.",
+        "chart": null,
+        "stakes": [
+          "Quelles mesures les autorités de santé publique vont-elles prendre pour relancer la vaccination ?",
+          "Cette tendance à la baisse de la couverture vaccinale s'observe-t-elle dans d'autres pays développés ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "US loses measles elimination status after 26 years amid record case numbers",
+            "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-17T21:04:00.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Guardian",
+            "title": "US loses measles elimination status amid worst outbreak since 1991",
+            "link": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
+            "publishedAt": "2026-11-17T22:18:53.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "South China Morning Post",
+            "title": "US loses measles-free status as vaccinations fall, cases and deaths mount",
+            "link": "https://www.scmp.com/news/world/united-states-canada/article/3374799/us-loses-measles-free-status-vaccinations-fall-cases-and-deaths-mount",
+            "publishedAt": "2026-11-17T17:18:13.000Z",
+            "lang": "en",
+            "country": "HK"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Loss of measles elimination status in the United States",
+            "context": "Measles vaccination constitutes a major public health issue to prevent the resurgence of this highly contagious disease.",
+            "summary": "International and national health authorities announced that the United States was losing its status as a country that has eliminated measles, a first in decades. More than 5,400 cases and several deaths have been recorded across the country. This situation stems from a notable drop in vaccination coverage, favoring the continuous circulation of the virus on American territory.",
+            "plain": "The United States is no longer among the countries that have eradicated measles. The decrease in the number of vaccinated people has led to a sharp increase in cases and deaths linked to this disease.",
+            "stakes": [
+              "What measures will public health authorities take to relaunch vaccination?",
+              "Is this downward trend in vaccination coverage observed in other developed countries?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "La pérdida del estatus de eliminación del sarampión en Estados Unidos",
+            "context": "La vacunación contra el sarampión constituye un importante reto de salud pública para prevenir el recrudecimiento de esta enfermedad altamente contagiosa.",
+            "summary": "Las autoridades sanitarias internacionales y nacionales anunciaron que Estados Unidos perdía su estatus de país que ha eliminado el sarampión, por primera vez en décadas. Se han registrado más de 5.400 casos y varias muertes en todo el país. Esta situación se deriva de un descenso notable de la cobertura de vacunación, lo que favorece la circulación continua del virus en territorio estadounidense.",
+            "plain": "Estados Unidos ya no forma parte de los países que han erradicado el sarampión. La disminución del número de personas vacunadas ha provocado un fuerte aumento de los casos y muertes relacionados con esta enfermedad.",
+            "stakes": [
+              "¿Qué medidas tomarán las autoridades de salud pública para relanzar la vacunación?",
+              "¿Se observa esta tendencia a la baja en la cobertura de vacunación en otros países desarrollados?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sdaa9959cb1",
+        "topic": "sciences_tech",
+        "title": "La direction de Nvidia écarte tout retour de son ancien PDG Jensen Huang",
+        "context": "",
+        "summary": "Le conseil d'administration de l'entreprise américaine Nvidia a confirmé lors de la publication de résultats financiers solides qu'il n'avait aucune intention de réintégrer son ancien directeur général, Jensen Huang. Ce dernier avait été écarté à la suite d'un scandale lié à sa vie privée et à des soupçons d'implication avec une ressortissante chinoise. Malgré une pétition soutenue par des personnalités du secteur technologique demandant son retour, l'entreprise maintient sa décision et crée un comité de sécurité nationale pour superviser ses activités.",
+        "plain": "Malgré de très bons résultats financiers et le soutien de figures de la tech, Nvidia a exclu le retour de son ancien patron Jensen Huang, poussé vers la sortie après une affaire personnelle.",
+        "chart": null,
+        "stakes": [
+          "Comment cette transition à la tête de Nvidia influencera-t-elle sa position dominante sur le marché des puces électroniques ?",
+          "Quelles seront les conclusions des enquêtes réglementaires concernant la gouvernance de l'entreprise ?"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+            "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+            "publishedAt": "2026-11-17T22:27:14.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "Nvidia forms national security committee after Huang affair",
+            "link": "https://www.dw.com/en/nvidia-forms-national-security-committee-after-huang-affair/a-79970447?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-17T14:53:00.000Z",
+            "lang": "en",
+            "country": "DE"
+          },
+          {
+            "name": "The Hindu",
+            "title": "Ex-Nvidia CEO Jensen Huang acknowledges ‘mistakes,’ signals interest in return if company chooses",
+            "link": "https://www.thehindu.com/news/international/ex-nvidia-ceo-jensen-huang-acknowledges-mistakes-signals-interest-in-return-if-company-chooses/article71713348.ece",
+            "publishedAt": "2026-11-17T18:17:12.000Z",
+            "lang": "en",
+            "country": "IN"
+          },
+          {
+            "name": "South China Morning Post",
+            "title": "Nvidia results beat expectations, as ousted CEO Huang told no way back",
+            "link": "https://www.scmp.com/news/world/united-states-canada/article/3374805/nvidia-results-beat-expectations-ousted-ceo-huang-told-no-way-back",
+            "publishedAt": "2026-11-17T22:47:11.000Z",
+            "lang": "en",
+            "country": "HK"
+          },
+          {
+            "name": "El País",
+            "title": "El presidente del consejo de Nvidia asegura que la junta no tiene intención de restituir a Jensen Huang como CEO",
+            "link": "https://elpais.com/us/economia/2026-11-17/jensen-huang-dice-que-esta-dispuesto-a-regresar-como-consejero-delegado-de-nvidia.html",
+            "publishedAt": "2026-11-17T22:58:52.000Z",
+            "lang": "es",
+            "country": "ES"
+          },
+          {
+            "name": "El País",
+            "title": "Nvidia bate previsiones al duplicar los ingresos y los beneficios, y defiende el poder de su tecnología",
+            "link": "https://elpais.com/economia/2026-11-17/nvidia-bate-previsiones-al-disparar-sus-ingresos-un-103-y-defiende-el-poder-de-su-tecnologia-y-su-remuneracion-a-los-accionistas.html",
+            "publishedAt": "2026-11-17T21:49:21.000Z",
+            "lang": "es",
+            "country": "ES"
+          },
+          {
+            "name": "ANSA",
+            "title": "Mr Invidia: 'Pronto a tornare'. Ma il board non prevede di reintegrare Jensen Huang",
+            "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/mr-invidia-pronto-a-tornare.-ma-il-board-non-prevede-di-reintegrare-jensen-huang_ca04ab2c-2e9b-4bb7-b6ba-1d6938cb2d6e.html",
+            "publishedAt": "2026-11-17T22:23:44.000Z",
+            "lang": "it",
+            "country": "IT"
+          }
+        ],
+        "image": {
+          "url": "https://i.guim.co.uk/img/media/8113a55d4f67088521e43617481262c2f4f3358a/366_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=886ec09740a96447a99058c23e7d0c2e",
+          "credit": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+        },
+        "i18n": {
+          "en": {
+            "title": "Nvidia Management Rules Out Any Return of Former CEO Jensen Huang",
+            "context": "",
+            "summary": "During the release of solid financial results, the board of directors of American company Nvidia confirmed it has no intention of reinstating its former CEO, Jensen Huang. Huang had been ousted following a scandal involving his private life and suspicions of involvement with a Chinese national. Despite a petition backed by tech sector figures calling for his return, the company is maintaining its decision and creating a national security committee to oversee its operations.",
+            "plain": "Despite very strong financial results and support from tech figures, Nvidia has ruled out the return of its former boss Jensen Huang, who was pushed out following a personal affair.",
+            "stakes": [
+              "How will this leadership transition at Nvidia influence its dominant position in the computer chip market?",
+              "What will be the conclusions of regulatory investigations concerning the company's governance?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "La dirección de Nvidia descarta cualquier regreso de su ex CEO Jensen Huang",
+            "context": "",
+            "summary": "Durante la publicación de sólidos resultados financieros, el consejo de administración de la empresa estadounidense Nvidia confirmó que no tiene ninguna intención de reintegrar a su antiguo director general, Jensen Huang. Este último había sido destituido tras un escándalo relacionado con su vida privada y sospechas de implicación con una ciudadana china. A pesar de una petición respaldada por personalidades del sector tecnológico que pedían su regreso, la empresa mantiene su decisión y crea un comité de seguridad nacional para supervisar sus actividades.",
+            "plain": "A pesar de muy buenos resultados financieros y del apoyo de figuras tecnológicas, Nvidia ha excluido el regreso de su exjefe Jensen Huang, apartado tras un asunto personal.",
+            "stakes": [
+              "¿Cómo influirá esta transición en la dirección de Nvidia en su posición dominante en el mercado de chips electrónicos?",
+              "¿Cuáles serán las conclusiones de las investigaciones reglamentarias sobre la gobernanza de la empresa?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sac8514244f",
+        "topic": "international",
+        "title": "Tensions accrues au Moyen-Orient et frappes sur l'île de Qeshm en Iran",
+        "context": "Les affrontements indirects et les opérations militaires se multiplient dans la région du Golfe et au Moyen-Orient.",
+        "summary": "Les forces américaines ont mené des frappes ciblées contre un site de lancement de missiles des Gardiens de la révolution sur l'île iranienne de Qeshm. Parallèlement, des attaques de drones ont visé des infrastructures alliées dans la région, notamment à Bahrain. Les intermédiaires diplomatiques appellent l'ensemble des parties à la retenue face à cette escalade des tensions et aux risques d'extension du conflit régional.",
+        "plain": "Les États-Unis ont bombardé un site de missiles en Iran après de nouvelles attaques de drones contre des intérêts alliés dans le Golfe. Cette recrudescence des hostilités inquiète la communauté internationale.",
+        "chart": null,
+        "stakes": [
+          "Ces échanges de tirs risquent-ils de déclencher un embrasement à l'échelle régionale ?",
+          "Quels moyens diplomatiques peuvent être mobilisés pour stabiliser la situation dans le Golfe ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Guerre au Moyen-Orient : frappes sur l’île de Qeshm, sanctions contre Israël… Le bilan du mardi 17 novembre",
+            "link": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-263-moyen-orient-bilan-resume-aujourdhui-20261117",
+            "publishedAt": "2026-11-17T20:46:01.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "NPR",
+            "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+            "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+            "publishedAt": "2026-11-17T18:34:31.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Fox News",
+            "title": "US carries out self-defense strike on IRGC missile launch site on Qeshm Island",
+            "link": "https://www.foxnews.com/world/us-carries-out-self-defense-strike-irgc-missile-launch-site-qeshm-island",
+            "publishedAt": "2026-11-17T20:32:27.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Fox News",
+            "title": "Bahrain intercepts Iranian drones targeting US radar after 2-month lull in Gulf strikes",
+            "link": "https://www.foxnews.com/world/bahrain-intercepts-iranian-drones-targeting-us-radar-after-2-month-lull-gulf-strikes",
+            "publishedAt": "2026-11-17T12:42:29.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Hindu",
+            "title": "Iran targets Bahrain, slams 'fabricated' dirty-bomb report",
+            "link": "https://www.thehindu.com/news/international/iran-targets-bahrain-slams-fabricated-dirty-bomb-report/article71713177.ece",
+            "publishedAt": "2026-11-17T17:46:56.000Z",
+            "lang": "en",
+            "country": "IN"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/17/2591219-une-procession-funeraire-a-jabalia-dans-la-bande-d.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-263-moyen-orient-bilan-resume-aujourdhui-20261117"
+        },
+        "i18n": {
+          "en": {
+            "title": "Increased Tensions in the Middle East and Strikes on Qeshm Island in Iran",
+            "context": "Indirect clashes and military operations are multiplying in the Gulf region and the Middle East.",
+            "summary": "US forces conducted targeted strikes against a Revolutionary Guard missile launch site on the Iranian island of Qeshm. Simultaneously, drone attacks targeted allied infrastructure in the region, notably in Bahrain. Diplomatic intermediaries are calling on all parties to show restraint in the face of this escalation of tensions and the risks of a broader regional conflict.",
+            "plain": "The United States bombed a missile site in Iran following new drone attacks against allied interests in the Gulf. This surge in hostilities is worrying the international community.",
+            "stakes": [
+              "Do these exchanges of fire risk triggering a regional conflagration?",
+              "What diplomatic means can be mobilized to stabilize the situation in the Gulf?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Aumento de las tensiones en Oriente Medio y ataques en la isla de Qeshm en Irán",
+            "context": "Los enfrentamientos indirectos y las operaciones militares se multiplican en la región del Golfo y en Oriente Medio.",
+            "summary": "Las fuerzas estadounidenses llevaron a cabo ataques selectivos contra un sitio de lanzamiento de misiles de la Guardia Revolucionaria en la isla iraní de Qeshm. Paralelamente, ataques con drones tuvieron como objetivo infraestructuras aliadas en la región, especialmente en Baréin. Los intermediarios diplomáticos piden a todas las partes moderación ante esta escalada de tensiones y los riesgos de una extensión del conflicto regional.",
+            "plain": "Estados Unidos bombardeó un sitio de misiles en Irán tras nuevos ataques con drones contra intereses aliados en el Golfo. Este recrudecimiento de las hostilidades preocupa a la comunidad internacional.",
+            "stakes": [
+              "¿Corren el riesgo estos intercambios de disparos de desencadenar un incendio a escala regional?",
+              "¿Qué medios diplomáticos pueden movilizarse para estabilizar la situación en el Golfo?"
+            ],
+            "chart": null
+          }
+        }
+      }
+    ],
+    "monde": [
+      {
+        "id": "sebb2a14e94",
+        "topic": "international",
+        "title": "Début de la tournée asiatique de Donald Trump et sommet diplomatique en vue",
+        "context": "Les relations géopolitiques entre les États-Unis, la Chine et la Russie traversent une période de redéfinition des alliances économiques et sécuritaires dans la zone pacifique.",
+        "summary": "Le président américain Donald Trump a entamé une tournée de quarante-huit heures en Asie, débutant par une halte aux Philippines et des échanges avec les dirigeants du bloc sécuritaire Quad. Cette visite intervient alors que se profile une rencontre trilatérale hautement symbolique à Shenzhen, en Chine, réunissant Donald Trump, le président chinois Xi Jinping et le dirigeant russe Vladimir Putin. Certains observateurs redoutent ou espèrent de ces tractations un nouvel équilibre mondial comparable à un accord de type Yalta, tandis que d'autres estiment que les rapports de force actuels limitent la portée d'un tel sommet.",
+        "plain": "Donald Trump est arrivé en Asie pour rencontrer les dirigeants de la région, avec en point d'orgue un sommet inédit prévu avec les présidents chinois et russe. Les observateurs surveillent de près ces discussions pour voir si un nouvel ordre mondial se dessine.",
+        "chart": null,
+        "stakes": [
+          "Quels compromis économiques ou sécuritaires pourront émerger de cette rencontre au sommet entre les trois grandes puissances ?",
+          "Comment les alliés traditionnels des États-Unis dans la zone indo-pacifique perçoivent-ils ce rapprochement diplomatique ?"
+        ],
+        "sources": [
+          {
+            "name": "NPR",
+            "title": "Trump arrives in Philippines to kick off Asia trip",
+            "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+            "publishedAt": "2026-11-17T10:43:55.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Live Updates: Trump’s Whirlwind Asia Trip Begins in the Philippines",
+            "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+            "publishedAt": "2026-11-17T13:36:35.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The New York Times",
+            "title": "A Visual Tour of President Trump’s Visits to Asia",
+            "link": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
+            "publishedAt": "2026-11-17T13:19:10.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "Trump arrives just as Southeast Asian summit is ending, but still looms over talks",
+            "link": "https://www.washingtonpost.com/world/2026/11/17/trump-arrives-manila-southeast-asia-navigates-us-china-rivalry/",
+            "publishedAt": "2026-11-17T12:10:30.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Wall Street Journal",
+            "title": "Trump Returns to World Stage After Midterm Setback",
+            "link": "https://www.wsj.com/world/trump-returns-to-world-stage-after-midterm-setback-65a1c88b?mod=rss_worldnews",
+            "publishedAt": "2026-11-17T13:35:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Wall Street Journal",
+            "title": "Why This Week’s Meeting of World Leaders Won’t Be Yalta 2.0",
+            "link": "https://www.wsj.com/world/why-this-weeks-meeting-of-world-leaders-wont-be-yalta-2-0-8cbf3a32?mod=rss_worldnews",
+            "publishedAt": "2026-11-17T03:00:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "El País",
+            "title": "Trump llega a Filipinas en plena pugna con China por la influencia en el Sudeste Asiático",
+            "link": "https://elpais.com/internacional/2026-11-17/trump-llega-a-filipinas-en-plena-pugna-con-china-por-la-influencia-en-el-sudeste-asiatico.html",
+            "publishedAt": "2026-11-17T13:33:49.000Z",
+            "lang": "es",
+            "country": "ES"
+          },
+          {
+            "name": "ANSA",
+            "title": "Trump a Manila per il vertice con i premier di India, Giappone e Australia",
+            "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/17/trump-a-manila-per-un-vertice-con-i-premier-di-india-giappone-e-australia_eb409fc3-0041-4e11-984a-6f48490ab800.html",
+            "publishedAt": "2026-11-17T12:19:02.000Z",
+            "lang": "it",
+            "country": "IT"
+          }
+        ],
+        "image": {
+          "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7840x5227+0+0/resize/7840x5227!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F04%2F49%2Fa294d8eb44928fd04761b88c0ba1%2Fap26321375771842.jpg",
+          "credit": "NPR",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines"
+        }
+      },
+      {
+        "id": "s4cfe4213f8",
+        "topic": "politique",
+        "title": "En Serbie, la Liste étudiante fait son entrée historique au Parlement",
+        "context": "La vie politique serbe est marquée par une contestation citoyenne prolongée contre les structures de pouvoir en place et les accusations de corruption.",
+        "summary": "La première session du nouveau Parlement serbe a consacré l'entrée officielle des représentants de la Liste étudiante, issus du mouvement contestataire et anticorruption. Portés par une dynamique populaire qui a mis fin à de longues années de domination politique, ces nouveaux députés disposent désormais d'un délai constitutionnel pour former un gouvernement et engager des réformes dans l'administration. Des voix issues de l'ancien pouvoir menacent toutefois de riposter par des manifestations si le paysage institutionnel venait à être trop profondément chamboulé.",
+        "plain": "Après des mois de mobilisation contre la corruption, les jeunes représentants de la Liste étudiante ont fait leur entrée au Parlement en Serbie. Ils doivent maintenant former un gouvernement pour tourner la page des années passées.",
+        "chart": null,
+        "stakes": [
+          "La nouvelle majorité parviendra-t-elle à s'imposer face aux forces politiques traditionnelles et à purifier l'administration ?",
+          "Quelles seront les répercussions de cette transition politique sur les équilibres régionaux dans les Balkans ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde (International)",
+            "title": "En Serbie, la Liste étudiante fait une entrée historique au Parlement",
+            "link": "https://www.lemonde.fr/international/article/2026/11/17/en-serbie-la-liste-etudiante-en-ordre-de-marche-pour-son-entree-au-parlement_6812966_3210.html",
+            "publishedAt": "2026-11-17T12:00:01.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Serbia’s Student List candidates sworn in as MPs after election triumph",
+            "link": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
+            "publishedAt": "2026-11-17T12:31:56.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "Students' List candidates take seats as Serbian parliament opens",
+            "link": "https://www.dw.com/en/students-list-candidates-take-seats-as-serbian-parliament-opens/a-79969166?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-17T12:09:00.000Z",
+            "lang": "en",
+            "country": "DE"
+          },
+          {
+            "name": "The Straits Times",
+            "title": "Serbia's Student List deputies take seats in parliament after landmark election win",
+            "link": "https://www.straitstimes.com/world/europe/serbias-student-list-deputies-take-seats-in-parliament-after-landmark-election-win",
+            "publishedAt": "2026-11-17T12:44:52.000Z",
+            "lang": "en",
+            "country": "SG"
+          },
+          {
+            "name": "RFI",
+            "title": "«C'est un jour historique»: en Serbie, le mouvement des étudiants fait son entrée au Parlement",
+            "link": "https://www.rfi.fr/fr/europe/20261117-c-est-un-jour-historique-en-serbie-le-mouvement-des-%C3%A9tudiants-fait-son-entr%C3%A9e-au-parlement",
+            "publishedAt": "2026-11-17T12:33:30.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/16/551/0/3334/1667/644/322/60/0/f16903f_upload-1-5atvuloxglha-students-serbia-061.jpg",
+          "credit": "Le Monde (International)",
+          "link": "https://www.lemonde.fr/international/article/2026/11/17/en-serbie-la-liste-etudiante-en-ordre-de-marche-pour-son-entree-au-parlement_6812966_3210.html"
+        }
+      },
+      {
+        "id": "sbfcaf275b2",
+        "topic": "sciences_tech",
+        "title": "Renforcement des restrictions américaines sur l'exportation de puces électroniques vers l'Asie",
+        "context": "Le secteur des semi-conducteurs et de l'intelligence artificielle est au cœur de la rivalité technologique et commerciale entre les États-Unis et la Chine.",
+        "summary": "Le gouvernement américain a enclenché de nouvelles mesures pour restreindre l'accès de la Chine aux technologies de pointe et aux puces électroniques haut de gamme, notamment celles fournies par le géant Nvidia. Des investigations visent également des intermédiaires en Asie du Sud-Est soupçonnés de contourner les embargos pour livrer du matériel informatique à des centres de données chinois. Alors que ces décisions pèsent sur les marchés boursiers technologiques, Pékin dénonce des entraves unilatérales injustifiées à la libre circulation des innovations.",
+        "plain": "Les États-Unis durcissent leurs règles pour empêcher la Chine d'importer des puces électroniques ultrapuissantes indispensables à l'intelligence artificielle. Des sociétés asiatiques relais sont également ciblées pour éviter les contournements de l'embargo.",
+        "chart": null,
+        "stakes": [
+          "Comment l'industrie technologique chinoise va-t-elle compenser ces nouvelles restrictions d'accès au matériel américain ?",
+          "Ces barrières commerciales vont-elles ralentir la croissance mondiale du secteur de l'intelligence artificielle ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+            "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-17T11:17:32.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "BBC News",
+            "title": "How new US chip restrictions on South East Asia will hit China",
+            "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-17T10:22:09.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Sky News",
+            "title": "US to further curb China's access to Nvidia chips",
+            "link": "https://news.sky.com/story/us-to-further-curb-chinas-access-to-ai-chips-from-companies-like-nvidia-13612884",
+            "publishedAt": "2026-11-16T14:59:00.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race",
+            "link": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-16T16:32:00.000Z",
+            "lang": "en",
+            "country": "DE"
+          },
+          {
+            "name": "The Wall Street Journal",
+            "title": "Asian Stocks Fall as U.S. Moves to Tighten Chip Curbs",
+            "link": "https://www.wsj.com/finance/stocks/asia-stocks-fall-as-u-s-commerce-department-cracks-down-on-chip-shipments-689af812?mod=rss_worldnews",
+            "publishedAt": "2026-11-17T06:49:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Hindu",
+            "title": "U.S. blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
+            "link": "https://www.thehindu.com/news/international/us-blocks-chinas-remote-access-to-ai-chips-after-nvidia-scandal-china-slams-move/article71711869.ece",
+            "publishedAt": "2026-11-17T13:31:09.000Z",
+            "lang": "en",
+            "country": "IN"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss"
+        }
+      },
+      {
+        "id": "s541d555df1",
+        "topic": "international",
+        "title": "L'Iran dément tout projet d'attentat à la « bombe sale » à Washington",
+        "context": "Les tensions géopolitiques au Moyen-Orient et les menaces sécuritaires impliquant l'Iran font régulièrement l'objet d'évaluations par les services de renseignement occidentaux.",
+        "summary": "Les autorités iraniennes ont qualifié d'allégations infondées les informations relayées par certains médias et services de sécurité concernant la préparation d'un projet d'attentat à la « bombe sale » à Washington. Si la Maison-Blanche indique surveiller la situation de près, elle précise qu'aucune menace directe ou imminente n'a été confirmée à ce stade. Du côté de Téhéran, on rejette catégoriquement ces accusations perçues comme une campagne de désinformation visant à aggraver les tensions bilatérales.",
+        "plain": "L'Iran a vigoureusement nié préparer une attaque terroriste à l'explosif radiologique dans la capitale américaine, après des informations de presse. Washington indique de son côté examiner les rapports sans pour l'instant attester de menace concrète.",
+        "chart": null,
+        "stakes": [
+          "Quelles conséquences ces alertes de sécurité ont-elles sur les canaux diplomatiques fragiles entre Washington et Téhéran ?",
+          "Comment les services de renseignement parviendront-ils à vérifier la véracité de telles menaces ?"
+        ],
+        "sources": [
+          {
+            "name": "Ouest-France",
+            "title": "Donald Trump dit « prendre très au sérieux » une potentielle menace d’attaque iranienne à Washington",
+            "link": "https://www.ouest-france.fr/monde/etats-unis/donald-trump/donald-trump-dit-prendre-tres-au-serieux-une-potentielle-menace-dattaque-iranienne-a-washington-73efdb3e-e27f-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-17T12:36:37.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "L'Express",
+            "title": "Des allégations \"sans fondement\" : l'Iran dément préparer un projet d'attentat à la \"bombe sale\" à Washington",
+            "link": "https://www.lexpress.fr/monde/amerique/des-allegations-sans-fondement-liran-dement-preparer-un-projet-dattentat-a-la-bombe-sale-a-2NZW7V27DVEHZO6LML33AOAODY/",
+            "publishedAt": "2026-11-17T12:35:45.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "The Straits Times",
+            "title": "Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington",
+            "link": "https://www.straitstimes.com/world/united-states/tehran-denies-report-of-a-potential-iranian-plan-to-detonate-dirty-bomb-in-washington",
+            "publishedAt": "2026-11-17T12:10:00.000Z",
+            "lang": "en",
+            "country": "SG"
+          },
+          {
+            "name": "ANSA",
+            "title": "Gli 007 americani: 'L'Iran sta sviluppando una bomba sporca'. Teheran smentisce",
+            "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/17/007-usa-iran-sta-sviluppando-piani-per-bomba-sporca-a-washington_187bd30b-f38c-4795-85cd-e36ed45edec5.html",
+            "publishedAt": "2026-11-17T12:36:54.000Z",
+            "lang": "it",
+            "country": "IT"
+          }
+        ],
+        "image": {
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExZTY0MjQwNmJiZDRiM2EzZTU1MWE2ZjA5Y2I5MjJlZTE?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=6103fa1a01ec34bafe818fed54ecb5e5575b821ae28be74ad30b21386be8f676",
+          "credit": "Ouest-France",
+          "link": "https://www.ouest-france.fr/monde/etats-unis/donald-trump/donald-trump-dit-prendre-tres-au-serieux-une-potentielle-menace-dattaque-iranienne-a-washington-73efdb3e-e27f-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+        }
+      }
+    ]
+  },
+  "storiesAt": "2026-11-17T23:18:43.357Z",
+  "inputHash": null,
+  "synthStatus": "partielle",
+  "news": {
+    "france": [
+      {
+        "id": "a9fe9e05cbc",
+        "title": "« Koh-Lanta » : quels aventuriers du jury final ont permis à Lola de l’emporter face à Freddy? Voici le détail des votes",
+        "link": "https://programmetv.ouest-france.fr/divers/telerealite/koh-lanta-m96969668/koh-lanta-quels-aventuriers-du-jury-final-ont-permis-a-lola-de-lemporter-face-a-freddy-voici-le-detail-des-votes-21f8abc4-e2d6-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Face à Lola et Freddy, ils et elles étaient neuf aventuriers à se prêter au vote lors de l’ultime conseil de la saison spéciale du jeu d’aventure de TF1 animé par Denis Brogniart. Avec six votes en sa faveur, Lola l’a emporté. Mais qui a voté pour qui ? On fait le point.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExOWQ1NGE2ZTUyZmJmZjZhYjdkZDc2OTFlZGU3ZTJmYzk?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=ba76c1e5673b5a48d02186a3f8eec94a85d403a2e1559477257d797ab8ec1cf2",
+        "publishedAt": "2026-11-17T22:56:59.000Z",
+        "source": "Ouest-France",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "a5e679ef68a",
+        "title": "\"On comprend qu'on n'a vraiment plus rien, qu'il faut recommencer à zéro\" : ils ont vu leur maison brûler et tentent de se relever",
+        "link": "https://www.franceinfo.fr/faits-divers/incendie/on-comprend-qu-on-n-a-vraiment-plus-rien-qu-il-faut-recommencer-a-zero-ils-ont-vu-leur-maison-bruler-et-tentent-de-se-relever_8287193.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Des commerces ravagés, des habitants évacués… À Cholet, dans le Maine-et-Loire, un incendie a gagné plusieurs bâtiments ce mardi matin pour une raison encore inconnue. Mais une fois le feu éteint, une autre épreuve commence : où dormir ? Que peut-on sauver ? Comment surmonter le choc d’avoir tout pe",
+        "image": "https://www.franceinfo.fr/pictures/sKWobtY44pcYT93UKpJrPjOg5WU/99x0:1363x711/432x243/filters:format(jpg)/2026/11/17/6afcc4bb0b829632305263.jpg",
+        "publishedAt": "2026-11-17T22:40:02.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "af82da94546",
+        "title": "«Malika» de Mounia Meddour, bas de gamme",
+        "link": "https://www.liberation.fr/culture/cinema/malika-de-mounia-meddour-bas-de-gamme-20261117_IXIJ2CH7KRH2VB6VF6H3UBPJDE/",
+        "summary": "La cinéaste met en scène la jeunesse de la cantatrice d’opéra d’origine algérienne Malika Bellaribi, sans dévier d’une formule lourde de scénario où le racisme ne semble qu’une embûche sur le chemin des bonnes volontés.",
+        "image": null,
+        "publishedAt": "2026-11-17T21:46:00.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "a2e8e9320bd",
+        "title": "Procès des parents de « la petite inconnue de l’A10 » : la mère condamnée à vingt ans de réclusion, le père à quinze ans",
+        "link": "https://www.lemonde.fr/societe/article/2026/11/17/proces-des-parents-de-la-petite-inconnue-de-l-a10-la-mere-condamnee-a-vingt-ans-de-reclusion-le-pere-a-quinze-ans_6813049_3224.html",
+        "summary": "Les deux accusés sont incarcérés immédiatement avec cette décision, qui marque l’aboutissement, trente-neuf ans après les faits, d’un des plus anciens « cold cases » français, objet de plusieurs livres et documentaires.",
+        "image": "https://img.lemde.fr/2026/11/17/0/0/5839/2919/644/322/60/0/4bd278f_ftp-1-baj2gbxlw55m-afp-d7rq9we.jpg",
+        "publishedAt": "2026-11-17T21:40:44.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "a3b4426d989",
+        "title": "«Vorace» de Malgorzata Lebda : la faune et la mort",
+        "link": "https://www.liberation.fr/culture/livres/vorace-de-malgorzata-lebda-la-faune-et-la-mort-20261117_XPOEBNJ3WZCUFILXAGSO6Z7FC4/",
+        "summary": "Dans ce premier roman, où la narratrice accompagne sa grand-mère mourante, l’écrivaine polonaise raconte la nature avec poésie.",
+        "image": null,
+        "publishedAt": "2026-11-17T21:38:00.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "a5a419bc724",
+        "title": "La mère de la «martyre de l’A10» condamnée à 20 ans de réclusion criminelle, le père à 15 ans : «dans ce procès, l’horreur a une place immense»",
+        "link": "https://www.lefigaro.fr/faits-divers/la-mere-de-la-martyre-de-l-a10-condamnee-a-20-ans-de-reclusion-criminelle-le-pere-a-15-ans-dans-ce-proces-l-horreur-a-une-place-immense-20261117",
+        "summary": "RÉCIT D’AUDIENCE - À l’issue de onze jours de débats, la cour d’assises de Blois a mis un terme judiciaire à l’une des plus anciennes énigmes criminelles françaises, vieille de près de 40 ans. Les parents d’Inass Touloub dormiront en prison ce mardi soir.",
+        "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/17/3c1bfdb250b8aa75b8ddc26c4faeb32d55e53bd29b265b92819317dc59155601.jpg",
+        "publishedAt": "2026-11-17T21:31:20.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "a29eebf0cbc",
+        "title": "Allemagne : une fuite de documents embarrasse la Deutsche Bank, Berlin réclame la transparence",
+        "link": "https://www.la-croix.com/russie-trump-epstein-une-fuite-massive-de-documents-secoue-deutsche-bank-20261117",
+        "summary": "Une fuite de plus de 15 millions de documents internes met en cause la Deutsche Bank, selon une enquête parue mardi 17 novembre. Le ministre des finances allemand Lars Klingbeil exige une transparence totale sur les défaillances de contrôle de la banque francfortoise.",
+        "image": "https://i.la-croix.com/x/2026/11/17/2591041-le-logo-de-deutsche-bank-sur-la-facade-de-son-sieg.jpg",
+        "publishedAt": "2026-11-17T21:30:00.000Z",
+        "source": "La Croix",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0.5
+      },
+      {
+        "id": "ab62a599beb",
+        "title": "Prostitution des mineurs : un rapport parlementaire appelle faire peser la charge de la preuve sur les « clients pédocriminels »",
+        "link": "https://www.lemonde.fr/societe/article/2026/11/17/prostitution-des-mineurs-un-rapport-parlementaire-appelle-faire-peser-la-charge-de-la-preuve-sur-les-clients-pedocriminels_6813048_3224.html",
+        "summary": "Le rapport, rédigé par la délégation aux droits des enfants de l’Assemblée nationale, propose de légiférer sur « la plus grosse défense » des clients pédocriminels, qui affirment penser que la personne prostituée avait déclaré être majeure au moment des faits.",
+        "image": "https://img.lemde.fr/2024/06/27/500/0/6000/3000/644/322/60/0/e5ac954_2024-06-27t164446z-1533479462-rc2rj8ataee2-rtrmadp-3-france-election.JPG",
+        "publishedAt": "2026-11-17T21:29:46.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "affcbae63f9",
+        "title": "\"Je ne démissionnerai pas\", affirme le proviseur du lycée Paul-Eluard de Saint-Denis après l'intervention de policiers dans l’établissement",
+        "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/je-ne-demissionnerai-pas-affirme-le-proviseur-du-lycee-paul-eluard-de-saint-denis-apres-l-intervention-de-policiers-dans-l-etablissement_8287196.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Il ne se sentait plus en sécurité dans son propre lycée. A Saint-Denis (Seine-Saint-Denis), le proviseur de l'établissement Paul-Eluard a demandé à être protégé et a dû quitter les lieux. Depuis qu'il a autorisé l’entrée de policiers pour interpeller un élève en octobre, il était contesté par une pa",
+        "image": "https://www.franceinfo.fr/pictures/4plFVI96jaXRYGNI2hw7Tcx7VCk/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/17/6afcc1e71f016581504961.jpg",
+        "publishedAt": "2026-11-17T21:25:48.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "a4c014faaa0",
+        "title": "«Elle n’a pas supporté le divorce» : dans un procès en appel où ses avocats plaident l’acquittement, premier jour difficile pour Maylis Daubon",
+        "link": "https://www.lefigaro.fr/faits-divers/elle-n-a-pas-supporte-le-divorce-dans-un-proces-en-appel-ou-ses-avocats-plaident-l-acquittement-premier-jour-difficile-pour-maylis-daubon-20261117",
+        "summary": "COMPTE RENDU D’AUDIENCE - La défense a toutefois soulevé une dernière carte en toute fin de journée. Leur cliente a bien été victime de violences conjugales. Ce sujet devrait occuper une bonne part dans les débats de ce mercredi.",
+        "image": "https://i.f1g.fr/media/cms/3000x2127_crop/2026/11/17/529954d9aa50251912684b293954290b31fcf92817c0ab6d255f9c8fb1ef448c.jpg",
+        "publishedAt": "2026-11-17T21:14:48.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "a4e23ee6654",
+        "title": "Francophonie : les coulisses d’un sommet sous haute tension",
+        "link": "https://www.valeursactuelles.com/clubvaleurs/monde/francophonie-les-coulisses-dun-sommet-sous-haute-tension",
+        "summary": "Le XXe Sommet de la Francophonie, organisé les 15 et 16 novembre à Phnom Penh, au Cambodge, devait permettre de désigner le prochain secrétaire général de l’Organisation internationale de la... L’article Francophonie : les coulisses d&rsquo;un sommet sous haute tension est apparu en premier sur Vale",
+        "image": null,
+        "publishedAt": "2026-11-17T21:01:46.000Z",
+        "source": "Valeurs actuelles",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
+      },
+      {
+        "id": "a9a548f677d",
+        "title": "Vincent Hervouët : «Yalta comme une farce»",
+        "link": "https://www.lejdd.fr/International/vincent-hervouet-yalta-comme-une-farce-188916",
+        "summary": "CHRONIQUE. La rencontre en Chine entre Xi Jinping, Donald Trump et Vladimir Poutine, sans les Européens, a des atours de nouvelle conférence de Yalta. Mais à la différence de l'entrevue de février 1945, ces discussions ne transformeront pas l'ordre international, estime notre chroniqueur Vincent Her",
+        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2024/10/01/23/hervouet.jpg?VersionId=ANsni9EGMImBa7ROW_1qHSpt13w3lbTb",
+        "publishedAt": "2026-11-17T20:24:25.000Z",
+        "source": "Le JDD",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
+      },
+      {
+        "id": "a034a341dfb",
+        "title": "« Nous ne sommes pas cobelligérants en Ukraine » : le ministère des Armées dément la « participation directe » dont l’accuse la Russie",
+        "link": "https://www.humanite.fr/monde/guerre-en-ukraine/nous-ne-sommes-pas-cobelligerants-en-ukraine-le-ministere-des-armees-dement-la-participation-directe-dont-laccuse-la-russie",
+        "summary": "Après les révélations de la presse sur la présence de militaires français en Ukraine, la Russie a qualifié mardi 17&nbsp;novembre ce déploiement de «&nbsp;participation directe&nbsp;» au conflit. «&nbsp;Nous ne sommes pas cobelligérants en Ukraine&nbsp;», a répondu la ministre déléguée aux Armées, A",
+        "image": "https://www.humanite.fr/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-17-at-20.15.53.jpeg?w=1200",
+        "publishedAt": "2026-11-17T19:38:07.000Z",
+        "source": "L'Humanité",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -2
+      },
+      {
+        "id": "a375da0847a",
+        "title": "Soldats français en Ukraine : \"Nous ne sommes pas cobelligérants\", répond Paris à Moscou",
+        "link": "https://www.lexpress.fr/monde/europe/soldats-francais-en-ukraine-nous-ne-sommes-pas-cobelligerants-repond-paris-a-moscou-EIQTQLLPSZAQRCWULDIRRMPJDI/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/GHJGX5NPTBE6NGIJFHJDD2KWLE.jpg?auth=57aa55699facf12c768d7325d54e1ce3f09ee0e2db63445579f827a275c8c5ae&smart=true&width=5190&height=3460",
+        "publishedAt": "2026-11-17T17:13:23.000Z",
+        "source": "L'Express",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1
+      }
+    ],
+    "monde": [
+      {
+        "id": "a2e8a2735ef",
+        "title": "New UK-EU youth mobility scheme may not fully launch until 2030",
+        "link": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
+        "summary": "Exclusive: deal expected to be sealed in principle at EU-UK summit on Friday but trickier elements could be postponed for six months The new post-Brexit UK-EU youth mobility scheme or agrifood deal may not come fully into force until 2030. It will be a disappointment to any under-30s in the UK and t",
+        "image": "https://i.guim.co.uk/img/media/6fc1f6014766f6cbb24d0d12e59c516e7ccd73c9/314_0_3181_2544/master/3181.jpg?width=140&quality=85&auto=format&fit=max&s=1236630a149edef98ad84bcca79d5dbf",
+        "publishedAt": "2026-11-17T22:55:06.000Z",
+        "source": "The Guardian",
+        "lang": "en",
+        "country": "GB",
+        "lean": -1.5
+      },
+      {
+        "id": "ac07f218d12",
+        "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+        "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg",
+        "publishedAt": "2026-11-17T22:46:30.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      },
+      {
+        "id": "a93b3f15eab",
+        "title": "tagesthemen",
+        "link": "https://www.tagesschau.de/tagesthemen/tt-12984.html",
+        "summary": "tagesthemen",
+        "image": null,
+        "publishedAt": "2026-11-17T22:26:43.000Z",
+        "source": "Tagesschau",
+        "lang": "de",
+        "country": "DE",
+        "lean": 0
+      },
+      {
+        "id": "a4b88ce23b6",
+        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+        "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
+        "publishedAt": "2026-11-17T21:24:35.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      },
+      {
+        "id": "a40118936c6",
+        "title": "Hashim Thaci's second conviction in The Hague reignites debate in Kosovo about justice and the Kosovo Specialist Chambers",
+        "link": "https://www.dw.com/en/hashim-thaci-s-second-conviction-in-the-hague-reignites-debate-in-kosovo-about-justice-and-the-kosovo-specialist-chambers/a-79975227?maca=en-rss-en-world-4025-rdf",
+        "summary": "Former President Hashim Thaci has been convicted of trying to influence witnesses in his war crimes trial. The conviction has reignited debate in Kosovo about the Kosovo Specialist Chambers, the court that convicted him.",
+        "image": null,
+        "publishedAt": "2026-11-17T20:40:00.000Z",
+        "source": "Deutsche Welle",
+        "lang": "en",
+        "country": "DE",
+        "lean": 0
+      },
+      {
+        "id": "a746d2513b9",
+        "title": "Saucepan racks, fitted sheets and dehumidifiers: Your tricks for drying laundry in winter",
+        "link": "https://www.telegraph.co.uk/recommended/home/telegraph-readers-drying-laundry-tricks/",
+        "summary": "Telegraph readers share their clever shortcuts for tackling the washing pile",
+        "image": "https://www.telegraph.co.uk/content/dam/recommended/2026/11/17/TELEMMGLPICT000511979962_17949201869080_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+        "publishedAt": "2026-11-17T18:00:00.000Z",
+        "source": "The Telegraph",
+        "lang": "en",
+        "country": "GB",
+        "lean": 1.5
+      },
+      {
+        "id": "ad3c4393568",
+        "title": "Police in Philippines pursue three charges against Thomas Markle Sr",
+        "link": "https://news.sky.com/story/police-in-philippines-pursue-three-charges-against-thomas-markle-sr-over-child-sex-abuse-images-13613346",
+        "summary": "Filipino police are pursuing three charges against Thomas Markle Sr relating to child sexual abuse images, Sky News understands.",
+        "image": "https://e3.365dm.com/26/11/1920x1080/skynews-thomas-markle-mugshot_7403623.jpg?20261111090436",
+        "publishedAt": "2026-11-17T17:34:00.000Z",
+        "source": "Sky News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0.5
+      },
+      {
+        "id": "a402f35e43d",
+        "title": "Asylum seekers on final ‘one in, one out’ UK-France flight feel they are being ‘punished’",
+        "link": "https://www.theguardian.com/uk-news/2026/nov/17/asylum-seekers-one-in-one-out-uk-france-smugglers",
+        "summary": "Many of those onboard are being deported for second time after fleeing threats from people smugglers in France Many of the asylum seekers on Tuesday’s final “one in, one out” deportation flight are people who returned to the UK fleeing threats from smugglers after they were already forcibly returned",
+        "image": "https://i.guim.co.uk/img/media/dac37f478ef7d47640a3bc5acc16af3f65584177/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=86d660e1f5fa7613d61ac99d005c909c",
+        "publishedAt": "2026-11-17T05:00:06.000Z",
+        "source": "The Guardian",
+        "lang": "en",
+        "country": "GB",
+        "lean": -1.5
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "franceinfo (FR)",
+      "url": "https://www.francetvinfo.fr/france.rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Monde (FR)",
+      "url": "https://www.lemonde.fr/rss/une.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Figaro (FR)",
+      "url": "https://www.lefigaro.fr/rss/figaro_actualites-a-la-une.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Libération (FR)",
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Ouest-France (FR)",
+      "url": "https://www.ouest-france.fr/rss/une",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "La Croix (FR)",
+      "url": "https://www.la-croix.com/RSS",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "L'Express (FR)",
+      "url": "https://www.lexpress.fr/rss/alaune.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Parisien (FR)",
+      "url": "https://feeds.leparisien.fr/leparisien/rss",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "L'Humanité (FR)",
+      "url": "https://www.humanite.fr/feed",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Valeurs actuelles (FR)",
+      "url": "https://www.valeursactuelles.com/feed",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le JDD (FR)",
+      "url": "https://www.lejdd.fr/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "BBC News (GB)",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "BBC News (GB)",
+      "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Guardian (GB)",
+      "url": "https://www.theguardian.com/world/rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Guardian (GB)",
+      "url": "https://www.theguardian.com/world/france/rss",
+      "ok": true,
+      "count": 3
+    },
+    {
+      "name": "The Telegraph (GB)",
+      "url": "https://www.telegraph.co.uk/rss.xml",
+      "ok": true,
+      "count": 7
+    },
+    {
+      "name": "Sky News (GB)",
+      "url": "https://feeds.skynews.com/feeds/rss/world.xml",
+      "ok": true,
+      "count": 4
+    },
+    {
+      "name": "Deutsche Welle (DE)",
+      "url": "https://rss.dw.com/rdf/rss-en-world",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Tagesschau (DE)",
+      "url": "https://www.tagesschau.de/index~rss2.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Der Spiegel (DE)",
+      "url": "https://www.spiegel.de/international/index.rss",
+      "ok": true,
+      "count": 1
+    },
+    {
+      "name": "NPR (US)",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The New York Times (US)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Washington Post (US)",
+      "url": "https://feeds.washingtonpost.com/rss/world",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Wall Street Journal (US)",
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Fox News (US)",
+      "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Politico Europe (BE)",
+      "url": "https://www.politico.eu/feed/",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "ABC News (Australie) (AU)",
+      "url": "https://www.abc.net.au/news/feed/2942460/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Al Jazeera (QA)",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Times of Israel (IL)",
+      "url": "https://www.timesofisrael.com/feed/",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "Daily Sabah (TR)",
+      "url": "https://www.dailysabah.com/rssFeed/10",
+      "ok": true,
+      "count": 5
+    },
+    {
+      "name": "The Times of India (IN)",
+      "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Hindu (IN)",
+      "url": "https://www.thehindu.com/news/international/feeder/default.rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Japan Times (JP)",
+      "url": "https://www.japantimes.co.jp/feed/",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Straits Times (SG)",
+      "url": "https://www.straitstimes.com/news/world/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "South China Morning Post (HK)",
+      "url": "https://www.scmp.com/rss/91/feed",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "El País (ES)",
+      "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "ANSA (IT)",
+      "url": "https://www.ansa.it/sito/ansait_rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Soir (BE)",
+      "url": "https://www.lesoir.be/rss/81853/cible_principale_gratuit",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "France 24 (FR)",
+      "url": "https://www.france24.com/fr/rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "RFI (FR)",
+      "url": "https://www.rfi.fr/fr/rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Euronews (FR)",
+      "url": "https://fr.euronews.com/rss?format=mrss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Monde (International) (FR)",
+      "url": "https://www.lemonde.fr/international/rss_full.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Africanews (FR)",
+      "url": "https://www.africanews.com/feed/rss",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "Jeune Afrique (FR)",
+      "url": "https://www.jeuneafrique.com/feed/",
+      "ok": true,
+      "count": 8
+    }
+  ],
+  "meteo": {
+    "ok": false,
+    "city": "Montaigu-Vendée",
+    "source": "Open-Meteo",
+    "sourceUrl": "https://open-meteo.com/en/docs",
+    "fetchedAt": null
+  },
+  "carburants": {
+    "ok": false,
+    "prices": [],
+    "best": {},
+    "stationsVerifiees": 0,
+    "source": "prix-carburants.gouv.fr",
+    "sourceUrl": "https://www.prix-carburants.gouv.fr/rubrique/opendata/"
+  },
+  "culture": [
+    {
+      "title": "Océanissime Nantes 2026",
+      "discipline": "Peinture, gravure, photographie et sculpture",
+      "artist": "Seize membres de l’Académie des Arts et Sciences de la Mer",
+      "city": "Nantes",
+      "venue": "Maison de la Mer, 54 quai de la Fosse",
+      "start": "2026-11-07",
+      "end": "2026-11-22",
+      "details": "Plus de cent œuvres ; entrée gratuite. Horaires détaillés sur le site de Nantes Métropole.",
+      "source": "Nantes Métropole",
+      "sourceUrl": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/45675254_exposition-oceanissime-nantes-2026",
+      "image": null
+    },
+    {
+      "title": "La figure de l’héroïne",
+      "discipline": "Peinture et histoire de l’art",
+      "artist": "Exposition consacrée aux représentations féminines du XIXe siècle",
+      "city": "La Roche-sur-Yon",
+      "venue": "Musée – Espace Malraux",
+      "start": "2026-11-03",
+      "end": "2027-02-07",
+      "details": "Exposition temporaire. Vérifier les horaires d’ouverture avant la visite.",
+      "source": "Ville de La Roche-sur-Yon",
+      "sourceUrl": "https://larochesuryon.fr/actualites/les-heroines-du-xixe-siecle-sexposent-a-la-roche/",
+      "image": {
+        "url": "https://larochesuryon.fr/app/uploads/2026/11/IMG_8828-scaled.jpg",
+        "credit": "Ville de La Roche-sur-Yon",
+        "link": "https://larochesuryon.fr/actualites/les-heroines-du-xixe-siecle-sexposent-a-la-roche/"
+      }
+    }
+  ],
+  "history": [],
+  "checks": {
+    "actualites": true,
+    "meteo": false,
+    "carburants": false
+  }
+}
