@@ -1,857 +1,1133 @@
 {
   "schemaVersion": 2,
   "date": "2026-11-18",
-  "generatedAt": "2026-11-18T18:32:25.039Z",
+  "generatedAt": "2026-11-18T22:49:39.292Z",
   "status": "partielle",
   "stories": {
     "france": [
       {
-        "id": "s78e8f24ff8",
+        "id": "scdb9c10b79",
         "topic": "politique",
-        "title": "Présidentielle 2027 : Édouard Philippe détaille son projet de réformes",
-        "context": "À l'approche de l'élection présidentielle de 2027, les personnalités politiques affinent leurs propositions et lancent leurs mouvements pour préparer la campagne.",
-        "summary": "Édouard Philippe a présenté une partie de son programme pour la présidentielle de 2027, insistant sur la nécessité de réformes radicales pour rétablir l'ordre et relancer le pays [14]. Le candidat d'Horizons a réuni ses soutiens à Paris pour structurer sa campagne et dévoiler les personnalités chargées de porter ses propositions, tout en écartant l'idée d'une primaire [34]. D'après La Tribune de l'art, le centriste cherche à éviter une crise financière en proposant des mesures d'austérité [233].",
-        "plain": "Édouard Philippe précise son programme pour 2027 avec des propositions de réformes profondes et s'entoure de nouveaux soutiens pour porter sa campagne présidentielle.",
+        "title": "Édouard Philippe présente son programme présidentiel axé sur l'ordre et la sécurité",
+        "context": "À l'approche de l'élection présidentielle de 2027, les différents candidats et prétendants affichent leurs stratégies pour tenter de s'imposer dans un paysage politique marqué par une forte polarisation.",
+        "summary": "L'ancien Premier ministre Édouard Philippe a dévoilé les premiers axes de son projet présidentiel afin de marquer sa différence face à ses rivaux et de s'extraire des débats sur l'organisation d'une primaire. Ses propositions mettent l'accent sur l'autorité et l'ordre, tout en lui attirant des critiques de la part de la gauche qui qualifie son programme de libéral et brutal. Parallèlement, les enquêtes d'opinion continuent d'évoluer, plaçant les forces des extrêmes au centre des projections pour le second tour.",
+        "plain": "Édouard Philippe a détaillé son programme pour la présidentielle de 2027 en insistant sur l'ordre et la sécurité. Cette démarche vise à se démarquer de ses adversaires, alors que les sondages indiquent une forte présence des extrêmes dans les intentions de vote.",
         "chart": null,
         "stakes": [
-          "Quelles seront les réactions des autres partis face à ces propositions de réformes ?",
-          "Comment le mouvement Horizons va-t-il structurer sa campagne sur le terrain ?"
+          "Quelles seront les réelles marges de manœuvre des candidats dits modérés face à la polarisation de la vie politique ?",
+          "Comment les propositions sécuritaires vont-elles peser dans le débat des prochains mois ?"
         ],
         "sources": [
           {
             "name": "Le Monde",
-            "title": "Présidentielle 2027 : Edouard Philippe présente une partie de son programme pour « rétablir l’ordre et remettre la France sur le chemin du progrès »",
-            "link": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-edouard-philippe-presente-une-partie-de-son-programme-pour-retablir-l-ordre-et-remettre-la-france-sur-le-chemin-du-progres_6813122_823448.html",
-            "publishedAt": "2026-11-18T11:46:08.000Z",
+            "title": "Présidentielle 2027 : Edouard Philippe met en musique une partie de son programme pour s’extirper du débat sur la primaire et de l’étau RN-LFI",
+            "link": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-edouard-philippe-met-en-musique-une-partie-de-son-programme-pour-s-extirper-du-debat-sur-la-primaire-et-de-l-etau-rn-lfi_6813202_823448.html",
+            "publishedAt": "2026-11-18T19:21:15.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "Ouest-France",
-            "title": "Présidentielle 2027 : Édouard Philippe conserve son cap, loin de la primaire",
-            "link": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-edouard-philippe-conserve-son-cap-loin-de-la-primaire-292f7d62-e34b-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-            "publishedAt": "2026-11-18T13:07:42.000Z",
+            "name": "La Croix",
+            "title": "Présidentielle 2027 : Édouard Philippe tient son cap sous la pression des sondages et d’une primaire",
+            "link": "https://www.la-croix.com/politique/presidentielle-2027-edouard-philippe-tient-son-cap-sous-la-pression-des-sondages-et-d-une-primaire-20261118",
+            "publishedAt": "2026-11-18T18:26:22.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "The Straits Times",
-            "title": "Struggling French centrist Philippe pledges radical reforms to avoid financial crisis",
-            "link": "https://www.straitstimes.com/world/europe/struggling-french-centrist-philippe-pledges-radical-reforms-to-avoid-financial-crisis",
-            "publishedAt": "2026-11-18T13:00:03.000Z",
+            "name": "L'Humanité",
+            "title": "Programme d’Édouard Philippe : du Macron en plus brutal, du Le Pen en plus poli",
+            "link": "https://www.humanite.fr/politique/edouard-philippe/programme-dedouard-philippe-du-macron-en-plus-brutal-du-le-pen-en-plus-poli-2",
+            "publishedAt": "2026-11-18T18:32:29.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Valeurs actuelles",
+            "title": "Présidentielle 2027 : « Ordre et Progrès », pour relancer sa campagne, Édouard Philippe s’essaie au positivisme",
+            "link": "https://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-ordre-et-progres-pour-relancer-sa-campagne-edouard-philippe-sessaie-au-positivisme",
+            "publishedAt": "2026-11-18T18:00:30.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "France’s Philippe steps up attacks on Le Pen and Mélenchon as his poll numbers slide",
+            "link": "https://www.politico.eu/article/france-edouard-philippe-steps-up-attacks-on-marine-le-pen-and-jean-luc-melenchon-as-his-poll-numbers-slide/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-18T13:52:43.000Z",
             "lang": "en",
-            "country": "SG"
+            "country": "BE"
+          },
+          {
+            "name": "Euronews",
+            "title": "Immigration, retraites, Ukraine : Édouard Philippe dévoile les grandes lignes de son programme",
+            "link": "https://fr.euronews.com/2026/11/18/immigration-retraites-ukraine-edouard-philippe-devoile-les-grandes-lignes-de-son-programme",
+            "publishedAt": "2026-11-18T18:15:53.000Z",
+            "lang": "fr",
+            "country": "FR"
           }
         ],
         "image": {
-          "url": "https://img.lemde.fr/2026/11/18/106/0/5967/2983/644/322/60/0/63dd8bb_ftp-1-ly3uahzd5xm6-afp-d7uw2fx.jpg",
+          "url": "https://img.lemde.fr/2026/11/18/1000/0/6000/3000/644/322/60/0/f16ed31_ftp-1-kiyi88n4hsfg-afp-d7v2967.jpg",
           "credit": "Le Monde",
-          "link": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-edouard-philippe-presente-une-partie-de-son-programme-pour-retablir-l-ordre-et-remettre-la-france-sur-le-chemin-du-progres_6813122_823448.html"
+          "link": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-edouard-philippe-met-en-musique-une-partie-de-son-programme-pour-s-extirper-du-debat-sur-la-primaire-et-de-l-etau-rn-lfi_6813202_823448.html"
         },
         "i18n": {
           "en": {
-            "title": "2027 Presidential Election: Édouard Philippe Details His Reform Project",
-            "context": "As the 2027 presidential election approaches, political figures are refining their proposals and launching movements to prepare for the campaign.",
-            "summary": "Édouard Philippe presented part of his platform for the 2027 presidential election, insisting on the necessity of radical reforms to restore order and revive the country [14]. The Horizons candidate gathered his supporters in Paris to structure his campaign and unveil the figures responsible for carrying his proposals, while ruling out the idea of a primary [34]. According to La Tribune de l'art, the centrist is seeking to avoid a financial crisis by proposing austerity measures [233].",
-            "plain": "Édouard Philippe clarifies his 2027 agenda with proposals for deep reforms and surrounds himself with new supporters to spearhead his presidential campaign.",
+            "title": "Édouard Philippe presents his presidential program focused on law and order",
+            "context": "As the 2027 presidential election approaches, various candidates and contenders are displaying their strategies in an attempt to stand out in a political landscape marked by strong polarization.",
+            "summary": "Former Prime Minister Édouard Philippe has unveiled the initial pillars of his presidential project to mark his difference from his rivals and avoid debates over organizing a primary. His proposals emphasize authority and order, while drawing criticism from the left, which describes his program as liberal and brutal. Meanwhile, opinion polls continue to evolve, placing extreme forces at the center of projections for the second round.",
+            "plain": "Édouard Philippe detailed his program for the 2027 presidential election, insisting on law and security. This move aims to set him apart from his opponents, as polls indicate a strong presence of the extremes in voting intentions.",
             "stakes": [
-              "How will other parties react to these reform proposals?",
-              "How will the Horizons movement structure its grassroots campaign?"
+              "What will be the real room for maneuver for so-called moderate candidates in the face of political polarization?",
+              "How will security proposals weigh in the debate over the coming months?"
             ],
             "chart": null
           },
           "es": {
-            "title": "Elección presidencial de 2027: Édouard Philippe detalla su proyecto de reformas",
-            "context": "A medida que se acercan las elecciones presidenciales de 2027, las figuras políticas afinan sus propuestas y lanzan sus movimientos para preparar la campaña.",
-            "summary": "Édouard Philippe presentó parte de su programa para las elecciones presidenciales de 2027, insistiendo en la necesidad de reformas radicales para restablecer el orden y relanzar el país [14]. El candidato de Horizons reunió a sus simpatizantes en París para estructurar su campaña y revelar las personalidades encargadas de llevar sus propuestas, al tiempo que descartó la idea de unas primarias [34]. Según La Tribune de l'art, el centrista busca evitar una crisis financiera proponiendo medidas de austeridad [233].",
-            "plain": "Édouard Philippe detalla su programa para 2027 con propuestas de reformas profundas y se rodea de nuevos apoyos para impulsar su campaña presidencial.",
+            "title": "Édouard Philippe presenta su programa presidencial centrado en el orden y la seguridad",
+            "context": "A medida que se acercan las elecciones presidenciales de 2027, los diferentes candidatos y aspirantes muestran sus estrategias para intentar imponerse en un panorama político marcado por una fuerte polarización.",
+            "summary": "El ex primer ministro Édouard Philippe ha desvelado los primeros ejes de su proyecto presidencial para marcar su diferencia frente a sus rivales y eludir los debates sobre la organización de unas primarias. Sus propuestas ponen el acento en la autoridad y el orden, al tiempo que le atraen críticas por parte de la izquierda, que califica su programa de liberal y brutal. Paralelamente, las encuestas de opinión siguen evolucionando y sitúan a las fuerzas de los extremos en el centro de las proyecciones para la segunda vuelta.",
+            "plain": "Édouard Philippe detalló su programa para las presidenciales de 2027 insistiendo en el orden y la seguridad. Este paso tiene como objetivo desmarcarse de sus adversarios, mientras las encuestas indican una fuerte presencia de los extremos en las intenciones de voto.",
             "stakes": [
-              "¿Cuáles serán las reacciones de los demás partidos ante estas propuestas de reforma?",
-              "¿Cómo estructurará el movimiento Horizons su campaña sobre el terreno?"
+              "¿Cuáles serán los márgenes de maniobra reales de los candidatos llamados moderados frente a la polarización de la vida política?",
+              "¿Cómo pesarán las propuestas de seguridad en el debate de los próximos meses?"
             ],
             "chart": null
           }
         }
       },
       {
-        "id": "s7176c0750e",
+        "id": "s9d18dd79aa",
         "topic": "politique",
-        "title": "Marine Le Pen cible les associations et précise son projet de retraite",
-        "context": "Le Rassemblement national prépare l'échéance présidentielle en multipliant les prises de position sur le financement public et la protection sociale.",
-        "summary": "Marine Le Pen a publié une tribune pour dénoncer le financement par l'État d'associations militantes, qu'elle accuse de fausser le jeu démocratique [24]. Dans le même temps, elle a détaillé son projet de réforme des retraites prévu pour 2028, présenté par certains opposants comme un artifice social [59]. Ses prises de position suscitent de vives réactions, notamment de la part de la Ligue des droits de l'homme qu'elle avait critiquée lors d'un débat télévisé [57].",
-        "plain": "Marine Le Pen critique l'aide publique aux associations politisées et détaille son projet de réforme des retraites, ce qui provoque des critiques de ses adversaires politiques.",
+        "title": "La gauche et les écologistes s'interrogent sur de possibles alliances pour 2027",
+        "context": "Les formations de gauche et écologistes tentent de structurer leur stratégie en vue de la prochaine élection présidentielle, dans un contexte de recomposition des équilibres politiques.",
+        "summary": "La cheffe des Écologistes, Marine Tondelier, s'est déclarée prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon, soulignant une dynamique qu'elle juge indéniable. Cette main tendue intervient alors que le leader de La France insoumise multiplie les initiatives, y compris sur le plan économique avec des rencontres patronales commentées. Pour autant, ces perspectives d'union suscitent des lectures divergentes au sein même des oppositions de gauche et du centre, entre espoir d'un rassemblement et craintes de fractures idéologiques.",
+        "plain": "Marine Tondelier a ouvert la porte à un soutien en faveur de Jean-Luc Mélenchon pour la présidentielle de 2027 en évoquant une coalition. Cette ouverture suscite de nombreux débats sur la capacité de la gauche à s'unir.",
         "chart": null,
         "stakes": [
-          "Quels impacts ces propositions auront-elles sur le débat électoral à venir ?",
-          "Comment les associations visées réagiront-elles sur le plan juridique et médiatique ?"
+          "Une alliance durable entre écologistes et insoumis est-elle possible malgré leurs divergences historiques ?",
+          "Quel impact cette stratégie aura-t-elle sur l'électorat modéré de gauche ?"
         ],
         "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Les grands patrons entre séduction et effroi : le récit d’un dîner mémorable avec Jean-Luc Mélenchon",
+            "link": "https://www.lemonde.fr/economie/article/2026/11/18/les-grands-patrons-entre-seduction-et-effroi-le-recit-d-un-diner-memorable-avec-jean-luc-melenchon_6813208_3234.html",
+            "publishedAt": "2026-11-18T20:24:02.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
           {
             "name": "Le Figaro",
-            "title": "Marine Le Pen : « Il est temps de mettre fin aux dérives financières et éthiques des associations politisées »",
-            "link": "https://www.lefigaro.fr/vox/politique/marine-le-pen-il-est-temps-de-mettre-fin-aux-derives-financieres-et-ethiques-des-associations-politisees-20261118",
-            "publishedAt": "2026-11-18T11:01:29.000Z",
+            "title": "Présidentielle 2027 : Marine Tondelier se dit «prête» à travailler à une «coalition autour de la candidature» de Jean-Luc Mélenchon",
+            "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-marine-tondelier-se-dit-prete-a-travailler-a-une-coalition-autour-de-la-candidature-de-jean-luc-melenchon-20261118",
+            "publishedAt": "2026-11-18T22:19:42.000Z",
             "lang": "fr",
             "country": "FR"
           },
-          {
-            "name": "L'Humanité",
-            "title": "« Ce n’est pas la première fois que nous sommes la cible de l’extrême droite » : Nathalie Tehio de la LDH réplique à Marine Le Pen",
-            "link": "https://www.humanite.fr/politique/associations/ce-nest-pas-la-premiere-fois-que-nous-sommes-la-cible-de-lextreme-droite-nathalie-tehio-de-la-ldh-replique-a-marine-le-pen",
-            "publishedAt": "2026-11-18T12:57:29.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "L'Humanité",
-            "title": "2027 : l’enfumage social du projet de réforme des retraites du RN",
-            "link": "https://www.humanite.fr/politique/extreme-droite/2027-lenfumage-social-du-projet-de-reforme-des-retraites-du-rn",
-            "publishedAt": "2026-11-18T11:53:09.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://i.f1g.fr/media/cms/3000x1997_crop/2026/11/18/b1c69f313d5f52eeecb8d4f57c4691351907218b4520fd0af33b95eaa76130d2.jpg",
-          "credit": "Le Figaro",
-          "link": "https://www.lefigaro.fr/vox/politique/marine-le-pen-il-est-temps-de-mettre-fin-aux-derives-financieres-et-ethiques-des-associations-politisees-20261118"
-        },
-        "i18n": {
-          "en": {
-            "title": "Marine Le Pen Targets Associations and Details Her Pension Project",
-            "context": "The National Rally is preparing for the presidential deadline by multiplying its positions on public funding and social protection.",
-            "summary": "Marine Le Pen published an opinion piece denouncing state funding for activist associations, which she accuses of distorting the democratic process [24]. At the same time, she detailed her pension reform project scheduled for 2028, presented by some opponents as a social artifice [59]. Her positions have sparked strong reactions, notably from the Human Rights League, which she had criticized during a televised debate [57].",
-            "plain": "Marine Le Pen criticizes public aid for politicized associations and details her pension reform project, drawing criticism from her political opponents.",
-            "stakes": [
-              "What impact will these proposals have on the upcoming electoral debate?",
-              "How will the targeted associations react legally and in the media?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Marine Le Pen apunta contra las asociaciones y detalla su proyecto de pensiones",
-            "context": "Agrupación Nacional se prepara para los comicios presidenciales multiplicando sus tomas de postura sobre la financiación pública y la protección social.",
-            "summary": "Marine Le Pen publicó una tribuna para denunciar la financiación estatal de asociaciones militantes, a las que acusa de distorsionar el juego democrático [24]. Al mismo tiempo, detalló su proyecto de reforma de las pensiones previsto para 2028, presentado por algunos opositores como un artificio social [59]. Sus posturas suscitan vivas reacciones, en particular por parte de la Liga de Derechos Humanos, a la que había criticado durante un debate televisado [57].",
-            "plain": "Marine Le Pen critica las ayudas públicas a las asociaciones politizadas y detalla su proyecto de reforma de las pensiones, lo que provoca críticas de sus adversarios políticos.",
-            "stakes": [
-              "¿Qué impacto tendrán estas propuestas en el próximo debate electoral?",
-              "¿Cómo reaccionarán las asociaciones señaladas a nivel jurídico y mediático?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "sbe093bf5eb",
-        "topic": "societe",
-        "title": "Mouvement lycéen : vagues de conseils de discipline et proposition d'amnistie",
-        "context": "Les récentes mobilisations lycéennes ont entraîné des tensions aux abords des établissements scolaires et de nombreuses interpellations de mineurs.",
-        "summary": "Le ministère de l'Éducation nationale a indiqué que près de 3 000 conseils de discipline ont concerné des élèves depuis le mois de septembre, en lien avec les violences commises lors des manifestations [25, 45]. Face à cette situation, La France insoumise a déposé une proposition de loi pour amnistier les mineurs poursuivis ou condamnés et effacer leur casier judiciaire [73]. Cette initiative vise à solder les conséquences judiciaires de cette contestation de la jeunesse [73].",
-        "plain": "Des milliers de lycéens ont subi des sanctions disciplinaires après les manifestations, poussant des députés à réclamer une amnistie judiciaire pour ces mineurs.",
-        "chart": null,
-        "stakes": [
-          "Le texte de loi pour l'amnistie sera-t-il examiné et voté à l'Assemblée ?",
-          "Quelle sera la suite des relations entre les syndicats lycéens et le gouvernement ?"
-        ],
-        "sources": [
           {
             "name": "Libération",
-            "title": "Mouvement lycéen : 3 000 élèves sont passés en conseil de discipline depuis le mois de septembre",
-            "link": "https://www.liberation.fr/societe/education/mouvement-lyceen-3-000-eleves-sont-passes-en-conseil-de-discipline-depuis-le-mois-de-septembre-20261118_YVGV3CJWPRGNPFPFIVYZ5MUP7Q/",
-            "publishedAt": "2026-11-18T13:07:35.000Z",
+            "title": "Présidentielle : Marine Tondelier «prête» à travailler à une «coalition autour de la candidature» de Jean-Luc Mélenchon",
+            "link": "https://www.liberation.fr/politique/elections/presidentielle-marine-tondelier-prete-a-travailler-a-une-coalition-autour-de-la-candidature-de-jean-luc-melenchon-20261118_PUIXEKHEVNGODJR6DXZRPEQ5ZI/",
+            "publishedAt": "2026-11-18T20:24:07.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
             "name": "La Croix",
-            "title": "Mouvement lycéen : 3 000 conseils de discipline entre septembre et début novembre",
-            "link": "https://www.la-croix.com/societe/mouvement-lyceen-3-000-conseils-de-discipline-entre-septembre-et-debut-novembre-20261118",
-            "publishedAt": "2026-11-18T11:32:31.000Z",
+            "title": "Présidentielle 2027 : Marine Tondelier prête à travailler à une « coalition autour de la candidature » Mélenchon",
+            "link": "https://www.la-croix.com/politique/presidentielle-2027-marine-tondelier-prete-a-travailler-a-une-coalition-autour-de-la-candidature-melenchon-20261118",
+            "publishedAt": "2026-11-18T20:48:47.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "Le JDD",
-            "title": "Colère lycéenne : LFI veut amnistier les mineurs poursuivis ou condamnés",
-            "link": "https://www.lejdd.fr/politique/colere-lyceenne-lfi-veut-amnistier-les-mineurs-poursuivis-ou-condamnes-189069",
-            "publishedAt": "2026-11-18T12:02:50.000Z",
+            "name": "France 24",
+            "title": "\"Les taxes, ils les boufferont\" : Mélenchon et le controversé dîner avec des grands patrons",
+            "link": "https://www.france24.com/fr/france/20261118-les-taxes-ils-les-boufferont-m%C3%A9lenchon-et-le-controvers%C3%A9-d%C3%AEner-avec-des-grands-patrons",
+            "publishedAt": "2026-11-18T17:09:31.000Z",
             "lang": "fr",
             "country": "FR"
           }
         ],
         "image": {
-          "url": "https://i.la-croix.com/x/2026/11/18/2592348-environ-3-000-conseils-de-disciplines-ont-eu-lieu-.jpg",
-          "credit": "La Croix",
-          "link": "https://www.la-croix.com/societe/mouvement-lyceen-3-000-conseils-de-discipline-entre-septembre-et-debut-novembre-20261118"
+          "url": "https://img.lemde.fr/2026/11/13/258/0/6000/3000/644/322/60/0/6bc80a1_upload-1-ykovpx6qoyup-cbi1356143.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/economie/article/2026/11/18/les-grands-patrons-entre-seduction-et-effroi-le-recit-d-un-diner-memorable-avec-jean-luc-melenchon_6813208_3234.html"
         },
         "i18n": {
           "en": {
-            "title": "High School Student Movement: Waves of Disciplinary Councils and Amnesty Proposal",
-            "context": "Recent student mobilizations have led to tensions around school establishments and numerous arrests of minors.",
-            "summary": "The Ministry of National Education indicated that nearly 3,000 disciplinary boards have involved students since September, linked to violence committed during protests [25, 45]. Faced with this situation, La France Insoumise has tabled a bill to amnesty minors prosecuted or convicted and clear their criminal records [73]. This initiative aims to settle the judicial consequences of this youth protest [73].",
-            "plain": "Thousands of high school students faced disciplinary sanctions following the protests, prompting lawmakers to demand judicial amnesty for these minors.",
+            "title": "The left and environmentalists ponder possible alliances for 2027",
+            "context": "Left-wing and green formations are attempting to structure their strategy for the upcoming presidential election, amidst a shifting political balance.",
+            "summary": "The leader of the Greens, Marine Tondelier, has stated she is ready to work on a coalition around the candidacy of Jean-Luc Mélenchon, highlighting a dynamic she considers undeniable. This outstretched hand comes as the leader of La France insoumise multiplies his initiatives, including on the economic front with commented business meetings. Nevertheless, these prospects for union elicit divergent views within the left-wing and centrist oppositions alike, between the hope of coming together and fears of ideological fractures.",
+            "plain": "Marine Tondelier has opened the door to supporting Jean-Luc Mélenchon for the 2027 presidential election by evoking a coalition. This opening has sparked numerous debates on the left's ability to unite.",
             "stakes": [
-              "Will the amnesty bill be examined and voted on in the Assembly?",
-              "What will be the future of relations between high school unions and the government?"
+              "Is a lasting alliance between environmentalists and the radical left possible despite their historical divergences?",
+              "What impact will this strategy have on the moderate left-wing electorate?"
             ],
             "chart": null
           },
           "es": {
-            "title": "Movimiento estudiantil: oleada de consejos de disciplina y propuesta de amnistía",
-            "context": "Las recientes movilizaciones estudiantiles han provocado tensiones en las inmediaciones de los centros educativos y numerosas detenciones de menores.",
-            "summary": "El Ministerio de Educación Nacional indicó que cerca de 3.000 consejos de disciplina han afectado a alumnos desde el mes de septiembre, en relación con la violencia cometida durante las manifestaciones [25, 45]. Ante esta situación, La Francia Insumisa presentó una proposición de ley para amnistiar a los menores procesados o condenados y borrar sus antecedentes penales [73]. Esta iniciativa pretende zanjar las consecuencias judiciales de esta protesta juvenil [73].",
-            "plain": "Miles de estudiantes de secundaria sufrieron sanciones disciplinarias tras las manifestaciones, lo que llevó a los diputados a reclamar una amnistía judicial para estos menores.",
+            "title": "La izquierda y los ecologistas se plantean posibles alianzas para 2027",
+            "context": "Las formaciones de izquierda y ecologistas intentan estructurar su estrategia de cara a las próximas elecciones presidenciales, en un contexto de recomposición de los equilibrios políticos.",
+            "summary": "La líder de los Ecologistas, Marine Tondelier, se declaró dispuesta a trabajar en una coalición en torno a la candidatura de Jean-Luc Mélenchon, destacando una dinámica que considera innegable. Esta mano tendida se produce mientras el líder de La Francia Insumisa multiplica sus iniciativas, incluso en el plano económico con comentados encuentros patronales. Sin embargo, estas perspectivas de unión suscitan lecturas divergentes en el seno mismo de las oposiciones de izquierda y del centro, entre la esperanza de un acercamiento y el temor a fracturas ideológicas.",
+            "plain": "Marine Tondelier abrió la puerta a un apoyo a favor de Jean-Luc Mélenchon para las presidenciales de 2027 al evocar una coalición. Esta apertura suscita numerosos debates sobre la capacidad de la izquierda para unirse.",
             "stakes": [
-              "¿Será examinado y votado el texto de ley de amnistía en la Asamblea?",
-              "¿Cómo continuarán las relaciones entre los sindicatos estudiantiles y el gobierno?"
+              "¿Es posible una alianza duradera entre ecologistas e insumisos a pesar de sus divergencias históricas?",
+              "¿Qué impacto tendrá esta estrategia en el electorado moderado de izquierda?"
             ],
             "chart": null
           }
         }
       },
       {
-        "id": "sc1e5523614",
-        "topic": "societe",
-        "title": "Manifestation de policiers à Paris pour de meilleures conditions de travail",
-        "context": "Les syndicats de police mènent régulièrement des actions pour réclamer des revalorisations de primes et dénoncer la surcharge de travail.",
-        "summary": "Une manifestation de policiers s'est déroulée devant le ministère de l'Intérieur à l'appel du syndicat Alliance pour réclamer une revalorisation de la prime de risque [27, 79]. Ce rassemblement intervient dans un contexte d'élections professionnelles et après plusieurs week-ends de forte mobilisation des forces de l'ordre pour encadrer les manifestations [27]. Une délégation a convergé vers un lieu de pouvoir parisien pour faire entendre ses revendications [79].",
-        "plain": "Des syndicats de policiers ont manifesté à Paris pour exiger une augmentation de leurs primes de risque, après une période de forte sollicitation sur le terrain.",
-        "chart": null,
-        "stakes": [
-          "Le ministère de l'Intérieur accordera-t-il les hausses de primes demandées par les syndicats ?",
-          "Quel sera l'impact de ces revendications sur les élections professionnelles en cours dans la police ?"
-        ],
-        "sources": [
-          {
-            "name": "Libération",
-            "title": "Des policiers en colère manifestent devant le ministère de l’Intérieur à l’appel du syndicat d’extrême droite Alliance",
-            "link": "https://www.liberation.fr/societe/police-justice/des-policiers-en-colere-manifestent-devant-le-ministere-de-linterieur-a-lappel-du-syndicat-dextreme-droite-alliance-20261118_HR5RSIDEKVDZ5I64L2EK57SU3A/",
-            "publishedAt": "2026-11-18T12:08:30.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Le JDD",
-            "title": "Policiers en colère : Alliance lance une marche vers un «lieu de pouvoir» à Paris",
-            "link": "https://www.lejdd.fr/Societe/policiers-en-colere-alliance-lance-une-marche-vers-un-lieu-de-pouvoir-a-paris-189051",
-            "publishedAt": "2026-11-18T09:55:57.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/18/10/080_hl_ebroncard_3304107_0.jpg?VersionId=vzXXfyWeaBqXy_W26dq5Il6axOqPzS0a",
-          "credit": "Le JDD",
-          "link": "https://www.lejdd.fr/Societe/policiers-en-colere-alliance-lance-une-marche-vers-un-lieu-de-pouvoir-a-paris-189051"
-        },
-        "i18n": {
-          "en": {
-            "title": "Police Officers Protest in Paris for Better Working Conditions",
-            "context": "Police unions regularly carry out actions to demand bonus revaluations and denounce heavy workloads.",
-            "summary": "A police protest took place in front of the Ministry of the Interior at the call of the Alliance union to demand a revaluation of the risk bonus [27, 79]. This gathering comes in the context of professional elections and after several weekends of heavy mobilization by law enforcement to monitor protests [27]. A delegation converged on a Parisian seat of power to make their demands heard [79].",
-            "plain": "Police unions protested in Paris to demand an increase in their risk bonuses, following a period of heavy mobilization on the ground.",
-            "stakes": [
-              "Will the Ministry of the Interior grant the bonus increases requested by the unions?",
-              "What will be the impact of these demands on the ongoing professional elections within the police force?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Manifestación de policías en París por mejores condiciones de trabajo",
-            "context": "Los sindicatos policiales llevan a cabo regularmente acciones para reclamar revalorizaciones de primas y denunciar la sobrecarga de trabajo.",
-            "summary": "Una manifestación de policías tuvo lugar frente al Ministerio del Interior a instancias del sindicato Alliance para reclamar una revalorización de la prima de riesgo [27, 79]. Esta concentración se produce en un contexto de elecciones profesionales y tras varios fines de semana de fuerte movilización de las fuerzas del orden para supervisar las manifestaciones [27]. Una delegación convergió hacia un centro de poder parisino para hacer oír sus reivindicaciones [79].",
-            "plain": "Los sindicatos policiales se manifestaron en París para exigir un aumento de sus primas de riesgo, tras un período de gran esfuerzo sobre el terreno.",
-            "stakes": [
-              "¿Concederá el Ministerio del Interior los aumentos de primas solicitados por los sindicatos?",
-              "¿Cuál será el impacto de estas reivindicaciones en las elecciones profesionales en curso dentro de la policía?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s9490ce30f0",
+        "id": "s8dd67f43b6",
         "topic": "international",
-        "title": "Sommet trilatéral inédit entre Donald Trump, Vladimir Poutine et Xi Jinping en Chine",
-        "context": "Les relations géopolitiques mondiales connaissent un nouveau tournant avec l'organisation de rencontres diplomatiques de haut niveau en Asie.",
-        "summary": "Le président américain Donald Trump est arrivé en Chine, à Shenzhen, où il a été accueilli personnellement par Xi Jinping, avant la tenue d'un sommet trilatéral inédit incluant Vladimir Poutine [16, 32, 146]. Les trois dirigeants se réunissent pour aborder des sujets internationaux majeurs et leurs relations bilatérales, un format comparé par certains observateurs à une nouvelle configuration de Yalta [16, 48, 279]. Les médias officiels chinois et étrangers commentent diversement les enjeux et les postures de chaque dirigeant lors de cette rencontre [30, 89].",
-        "plain": "Les dirigeants des États-Unis, de la Chine et de la Russie se retrouvent en Chine pour un sommet diplomatique exceptionnel axé sur les grands équilibres mondiaux.",
+        "title": "Sommet diplomatique inédit en Chine entre Trump, Xi et Putin",
+        "context": "Les relations internationales traversent des tensions majeures, alimentées par les conflits en cours et les mutations économiques mondiales.",
+        "summary": "Les dirigeants américain, chinois et russe se rencontrent en marge du sommet de l'APEC à Shenzhen pour des discussions tripartites très observées. Donald Trump a reçu d'importants égards protocolaires de la part de Xi Jinping dès son arrivée, tandis que les dossiers de la sécurité internationale, des armes nucléaires et des équilibres en Ukraine sont au cœur des préoccupations. En Europe, ces tractations de grande puissance font redouter aux pays membres d'être tenus à l'écart des décisions concernant leur avenir.",
+        "plain": "Donald Trump, Xi Jinping et Vladimir Putin se réunissent en Chine pour un sommet diplomatique historique. Les pays européens s'inquiètent de voir les grandes puissances décider de leur sort en leur absence.",
         "chart": null,
         "stakes": [
-          "Quelles décisions concrètes ou accords découleront de cette réunion au sommet ?",
-          "Comment les alliés européens réagiront-ils à ce rapprochement diplomatique ?"
+          "Quel impact ces discussions directes auront-elles sur la résolution de la guerre en Ukraine ?",
+          "L'Europe parviendra-t-elle à peser face au dialogue bilatéral ou trilatéral des superpuissances ?"
         ],
         "sources": [
           {
-            "name": "Le Monde (International)",
-            "title": "Donald Trump est arrivé en Chine, avant un sommet tripartite inédit avec Xi Jinping et Vladimir Poutine",
-            "link": "https://www.lemonde.fr/international/article/2026/11/18/donald-trump-est-arrive-en-chine-avant-un-sommet-tripartite-inedit-avec-xi-jinping-et-vladimir-poutine_6813120_3210.html",
-            "publishedAt": "2026-11-18T11:30:36.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
             "name": "Libération",
-            "title": "Sommet de Shenzhen : l’imprévisible Trump et le vieil ami Poutine, deux dirigeants aux antipodes dans les médias chinois",
-            "link": "https://www.liberation.fr/international/asie-pacifique/sommet-de-shenzen-limprevisible-trump-et-le-vieil-ami-poutine-deux-dirigeants-aux-antipodes-dans-les-medias-chinois-20261118_P7HQFGKZWZHMBENKN7GPTW5BLM/",
-            "publishedAt": "2026-11-18T12:00:49.000Z",
+            "title": "Rencontre Trump-Xi-Poutine : les Européens, grands absents du sommet de Shenzhen",
+            "link": "https://www.liberation.fr/international/europe/rencontre-trump-xi-poutine-les-europeens-grands-absents-du-sommet-de-shenzhen-20261118_4RVJ5AADHBB6LGJUC7SWIEAUKI/",
+            "publishedAt": "2026-11-18T19:45:55.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "Libération",
-            "title": "Chine : Donald Trump, Vladimir Poutine et Xi Jinping réunis pour un sommet inédit",
-            "link": "https://www.liberation.fr/international/asie-pacifique/rencontre-entre-donald-trump-xi-jinping-et-vladimir-poutine-en-chine-le-president-americain-est-arrive-a-shenzen-20261118_XT6AUM6DRFCVZESPNO5D7BQBWQ/",
-            "publishedAt": "2026-11-18T11:59:04.000Z",
+            "name": "L'Express",
+            "title": "\"Xi, Trump et Poutine veulent faire de l'Europe leur zone d'influence\" : la mise en garde de l'ex-ministre espagnole Arancha Gonzalez Laya",
+            "link": "https://www.lexpress.fr/monde/xi-trump-et-poutine-veulent-faire-de-leurope-leur-zone-dinfluence-la-mise-en-garde-de-lex-ministre-FXCLPXLNFBFNVOSXYON553ERIU/",
+            "publishedAt": "2026-11-18T16:00:00.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "La Croix",
-            "title": "Sommet entre Donald Trump, Xi Jinping et Vladimir Poutine : les faux-semblants d’un « nouveau Yalta »",
-            "link": "https://www.la-croix.com/international/sommet-entre-donald-trump-xi-jinping-et-vladimir-poutine-les-faux-semblants-d-un-nouveau-yalta-20261118",
-            "publishedAt": "2026-11-18T10:52:00.000Z",
+            "name": "L'Humanité",
+            "title": "En Chine, un sommet inédit entre Donald Trump, Xi Jinping et Vladimir Poutine",
+            "link": "https://www.humanite.fr/monde/asie/en-chine-un-sommet-inedit-entre-donald-trump-xi-jinping-et-vladimir-poutine",
+            "publishedAt": "2026-11-18T19:00:00.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
             "name": "BBC News",
-            "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
-            "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-18T10:53:21.000Z",
+            "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+            "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-18T16:10:44.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "APEC summit: What Trump, Xi and Putin want",
+            "link": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-18T05:39:00.000Z",
+            "lang": "en",
+            "country": "DE"
+          },
+          {
+            "name": "NPR",
+            "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
+            "link": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
+            "publishedAt": "2026-11-18T11:57:10.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "NPR",
+            "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+            "link": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
+            "publishedAt": "2026-11-18T10:32:03.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
+            "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
+            "publishedAt": "2026-11-18T20:13:01.000Z",
+            "lang": "en",
+            "country": "US"
+          }
+        ],
+        "image": {
+          "url": "https://www.lexpress.fr/resizer/v2/I3YDUARD6VAKDCS4E4CQTYLYG4.JPG?auth=12809960c54d4e80eb2cd20c9407a58bb26cf5c9794907204c0c326779c4f4ad&smart=true&width=6000&height=4000",
+          "credit": "L'Express",
+          "link": "https://www.lexpress.fr/monde/xi-trump-et-poutine-veulent-faire-de-leurope-leur-zone-dinfluence-la-mise-en-garde-de-lex-ministre-FXCLPXLNFBFNVOSXYON553ERIU/"
+        },
+        "i18n": {
+          "en": {
+            "title": "Unprecedented diplomatic summit in China between Trump, Xi, and Putin",
+            "context": "International relations are undergoing major tensions, fueled by ongoing conflicts and global economic shifts.",
+            "summary": "The American, Chinese, and Russian leaders are meeting on the sidelines of the APEC summit in Shenzhen for closely watched tripartite discussions. Donald Trump received significant protocol honors from Xi Jinping upon his arrival, while issues of international security, nuclear weapons, and the balance in Ukraine take center stage. In Europe, these high-stakes negotiations raise fears among member states that they will be sidelined from decisions concerning their future.",
+            "plain": "Donald Trump, Xi Jinping, and Vladimir Putin are meeting in China for a historic diplomatic summit. European countries are worried about seeing the major powers decide their fate in their absence.",
+            "stakes": [
+              "What impact will these direct discussions have on resolving the war in Ukraine?",
+              "Will Europe manage to make its voice heard against the bilateral or trilateral dialogue of the superpowers?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Cumbre diplomática inédita en China entre Trump, Xi y Putin",
+            "context": "Las relaciones internacionales atraviesan tensiones mayores, alimentadas por los conflictos en curso y las mutaciones económicas mundiales.",
+            "summary": "Los dirigentes estadounidense, chino y ruso se reúnen al margen de la cumbre de la APEC en Shenzhen para mantener conversaciones tripartitas muy vigiladas. Donald Trump recibió importantes atenciones protocolarias por parte de Xi Jinping desde su llegada, mientras que los expedientes de la seguridad internacional, las armas nucleares y los equilibrios en Ucrania se encuentran en el centro de las preocupaciones. En Europa, estas negociaciones de las grandes potencias hacen temer a los países miembros que se les deje al margen de las decisiones relativas a su futuro.",
+            "plain": "Donald Trump, Xi Jinping y Vladimir Putin se reúnen en China para una cumbre diplomática histórica. Los países europeos se inquietan al ver que las grandes potencias deciden su suerte en su ausencia.",
+            "stakes": [
+              "¿Qué impacto tendrán estas discusiones directas en la resolución de la guerra en Ucrania?",
+              "¿Conseguirá Europa influir frente al diálogo bilateral o trilateral de las superpotencias?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s48986625f5",
+        "topic": "justice",
+        "title": "Un policier condamné en appel à huit ans de prison pour meurtre",
+        "context": "Les affaires impliquant des violences policières et des décisions de justice font régulièrement l'objet de vifs débats en France.",
+        "summary": "La cour d'assises a rendu son verdict en appel concernant le meurtre d'Olivio Gomes survenu en 2020, condamnant un agent de la brigade anti-criminalité à huit ans de privation de liberté. Lors des débats, le mis en cause a admis des tirs qui n'étaient pas justifiés, selon les magistrats. La décision intervient dans un contexte de surveillance accrue des pratiques des forces de l'ordre et des procédures judiciaires associées.",
+        "plain": "Un policier a été condamné en appel à huit ans de prison pour le meurtre d'Olivio Gomes commis en 2020. Lors du procès, il a reconnu que ses tirs n'étaient pas justifiés.",
+        "chart": null,
+        "stakes": [
+          "Quelles conséquences cette décision aura-t-elle sur la doctrine d'emploi des armes par les forces de l'ordre ?",
+          "Comment la justice parviendra-t-elle à maintenir la confiance entre citoyens et institutions ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Un policier condamné en appel à huit ans de prison pour le meurtre d’Olivio Gomes en 2020",
+            "link": "https://www.lemonde.fr/societe/article/2026/11/18/un-policier-condamne-en-appel-a-huit-ans-de-prison-pour-le-meurtre-d-olivio-gomes-en-2020_6813196_3224.html",
+            "publishedAt": "2026-11-18T18:47:33.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "La Croix",
+            "title": "Meurtre d’Olivio Gomes : un policier condamné en appel à huit ans de prison",
+            "link": "https://www.la-croix.com/societe/meurtre-d-olivio-gomes-un-policier-condamne-en-appel-a-huit-ans-de-prison-20261118",
+            "publishedAt": "2026-11-18T19:23:34.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/18/250/0/6000/3000/644/322/60/0/c738103_upload-1-m7ylaydkk5j7-000-a4wa94x.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/societe/article/2026/11/18/un-policier-condamne-en-appel-a-huit-ans-de-prison-pour-le-meurtre-d-olivio-gomes-en-2020_6813196_3224.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Police officer sentenced on appeal to eight years in prison for murder",
+            "context": "Cases involving police violence and judicial decisions are regularly the subject of fierce debate in France.",
+            "summary": "The assize court has delivered its verdict on appeal regarding the 2020 murder of Olivio Gomes, sentencing an anti-crime brigade officer to eight years of deprivation of liberty. During the hearings, the defendant admitted to unjustified shootings, according to the magistrates. The decision comes amid heightened scrutiny of law enforcement practices and associated judicial procedures.",
+            "plain": "A police officer was sentenced on appeal to eight years in prison for the 2020 murder of Olivio Gomes. During the trial, he acknowledged that his shots were not justified.",
+            "stakes": [
+              "What consequences will this decision have on the rules of engagement for law enforcement use of weapons?",
+              "How will the judiciary manage to maintain trust between citizens and institutions?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Un policía condenado en apelación a ocho años de prisión por homicidio",
+            "context": "Los casos relacionados con la violencia policial y las decisiones judiciales son objeto regular de intensos debates en Francia.",
+            "summary": "El tribunal de lo penal dictó su veredicto en apelación sobre el homicidio de Olivio Gomes ocurrido en 2020, condenando a un agente de la brigada anticrimen a ocho años de privación de libertad. Durante los debates, el acusado admitió disparos que no estaban justificados, según los magistrados. La decisión se produce en un contexto de mayor vigilancia de las prácticas de las fuerzas del orden y de los procedimientos judiciales asociados.",
+            "plain": "Un policía fue condenado en apelación a ocho años de prisión por el homicidio de Olivio Gomes cometido en 2020. Durante el juicio, reconoció que sus disparos no estaban justificados.",
+            "stakes": [
+              "¿Qué consecuencias tendrá esta decisión sobre la doctrina de uso de armas por parte de las fuerzas del orden?",
+              "¿Cómo conseguirá la justicia mantener la confianza entre los ciudadanos y las instituciones?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s57a3573469",
+        "topic": "environnement",
+        "title": "Inondations et intempéries dans le nord de la France",
+        "context": "Plusieurs départements du nord et de l'ouest de la France subissent régulièrement des épisodes climatiques extrêmes liés aux perturbations automnales.",
+        "summary": "Les départements de la Somme, du Pas-de-Calais et de la Seine-Maritime ont été placés en vigilance orange en raison de précipitations diluviennes ayant entraîné d'importants dégâts matériels. Des communes ont vu l'eau s'infiltrer dans les habitations et les édifices religieux, tandis que des interventions de secours ont été nécessaires pour assister des habitants bloqués. Par ailleurs, des phénomènes venteux violents ont également touché la région, endommageant de nombreuses toitures.",
+        "plain": "De fortes pluies ont provoqué des inondations importantes dans le Pas-de-Calais et la Somme, submergeant des rues et des habitations. Les autorités maintiennent une vigilance renforcée face à ces intempéries.",
+        "chart": null,
+        "stakes": [
+          "Quelles mesures d'aménagement pérennes peuvent limiter l'impact de ces inondations récurrentes ?",
+          "Comment adapter les infrastructures locales face à l'accentuation des épisodes de fortes pluies ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Une tornade a-t-elle balayé un village du Pas-de-Calais ? La région est à risque, selon les spécialistes et les antécédents météo",
+            "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tornades/une-tornade-a-t-elle-balaye-un-village-du-pas-de-calais-la-region-est-a-risque-selon-les-specialistes-et-les-antecedents-meteo_8288981.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-18T21:14:50.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "franceinfo",
+            "title": "\"On a déjà eu des inondations, mais pas à ce point-là\" : plus d'un mois de pluie en 24 heures dans la Somme et le Pas-de-Calais",
+            "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/on-a-deja-eu-des-inondations-mais-pas-a-ce-point-la-plus-d-un-mois-de-pluie-en-24-heures-dans-la-somme-et-le-pas-de-calais_8288954.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-18T20:55:58.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "franceinfo",
+            "title": "Garages retournés, voitures englouties… Des communes de la Somme envahies par la boue",
+            "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/garages-retournes-voitures-englouties-des-communes-de-la-somme-envahies-par-la-boue_8288888.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-18T19:36:08.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/uXCWD1MizUXfdEUg0ohi9HmroJA/110x0:1105x560/432x243/filters:format(jpg)/2026/11/18/6afe153594a50496884771.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tornades/une-tornade-a-t-elle-balaye-un-village-du-pas-de-calais-la-region-est-a-risque-selon-les-specialistes-et-les-antecedents-meteo_8288981.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Floods and stormy weather in northern France",
+            "context": "Several departments in northern and western France regularly suffer from extreme weather events linked to autumn storms.",
+            "summary": "The departments of Somme, Pas-de-Calais, and Seine-Maritime have been placed on orange alert due to torrential rainfall that caused significant material damage. Floodwaters have seeped into homes and religious buildings in some municipalities, while emergency interventions were necessary to assist stranded residents. In addition, violent winds have also affected the region, damaging numerous roofs.",
+            "plain": "Heavy rains have caused major floods in Pas-de-Calais and Somme, submerging streets and homes. The authorities are maintaining heightened vigilance in the face of this severe weather.",
+            "stakes": [
+              "What long-term development measures can limit the impact of these recurring floods?",
+              "How can local infrastructure be adapted to the intensification of heavy rainfall episodes?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Inundaciones y temporal en el norte de Francia",
+            "context": "Varios departamentos del norte y oeste de Francia sufren regularmente episodios climáticos extremos vinculados a las perturbaciones otoñales.",
+            "summary": "Los departamentos de Somme, Paso de Calais y Sena Marítimo han sido puestos en alerta naranja debido a precipitaciones torrenciales que provocaron importantes daños materiales. El agua se ha infiltrado en viviendas y edificios religiosos de algunos municipios, mientras que han sido necesarias intervenciones de socorro para asistir a los vecinos bloqueados. Asimismo, fuertes vientos han afectado también a la región y han dañado numerosos tejados.",
+            "plain": "Fuertes lluvias provocaron inundaciones importantes en el Paso de Calais y en el Somme, sumergiendo calles y viviendas. Las autoridades mantienen una vigilancia reforzada frente a este temporal.",
+            "stakes": [
+              "¿Qué medidas de ordenación duraderas pueden limitar el impacto de estas inundaciones recurrentes?",
+              "¿Cómo adaptar las infraestructuras locales frente al aumento de los episodios de fuertes lluvias?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s0d8985d1f8",
+        "topic": "societe",
+        "title": "Trois femmes condamnées pour participation à l'organisation État islamique",
+        "context": "Le traitement judiciaire des dossiers de ressortissants français partis dans les zones de combat au Proche-Orient se poursuit devant les juridictions spécialisées.",
+        "summary": "La cour d'assises spéciale de Paris a prononcé des peines de prison ferme allant de cinq à douze ans à l'encontre de trois femmes revenues de Syrie. Celles-ci étaient poursuivies pour avoir rejoint les rangs de l'organisation État islamique, plusieurs d'entre elles étant liées à des figures notoires du djihadisme français. Les juges ont ainsi sanctionné leur implication au sein des structures terroristes.",
+        "plain": "Trois Françaises revenues de Syrie ont été condamnées par la justice à des peines de prison ferme pour avoir rejoint l'organisation État islamique.",
+        "chart": null,
+        "stakes": [
+          "Quel est le devenir sécuritaire et social des enfants mineurs accompagnant ces personnes lors de leur retour ?",
+          "Comment la justice évalue-t-elle le degré d'implication des femmes au sein de ces réseaux ?"
+        ],
+        "sources": [
+          {
+            "name": "Ouest-France",
+            "title": "Revenantes de Syrie : jusqu’à 12 ans de prison pour trois femmes parties rejoindre l’EI",
+            "link": "https://www.ouest-france.fr/terrorisme/etat-islamique/revenantes-de-syrie-jusqua-12-ans-de-prison-pour-trois-femmes-parties-rejoindre-lei-98ac5bf2-e395-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-18T21:30:31.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "Trois « revenantes » françaises condamnées à des peines de cinq à douze ans de prison pour avoir rejoint l’organisation Etat islamique",
+            "link": "https://www.lemonde.fr/societe/article/2026/11/18/trois-revenantes-francaises-condamnees-a-des-peines-de-cinq-a-douze-ans-de-prison-pour-avoir-rejoint-l-organisation-etat-islamique_6813211_3224.html",
+            "publishedAt": "2026-11-18T21:00:35.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExYTA0MDEwZmNiMzkwMGQwNzljZThlODkxM2IxNTFlMzQ?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=70d1ac666c36f2ea2e3e8e0623814a800611037c34c73d7a46b9a091372d2122",
+          "credit": "Ouest-France",
+          "link": "https://www.ouest-france.fr/terrorisme/etat-islamique/revenantes-de-syrie-jusqua-12-ans-de-prison-pour-trois-femmes-parties-rejoindre-lei-98ac5bf2-e395-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+        },
+        "i18n": {
+          "en": {
+            "title": "Three women convicted for participation in the Islamic State organization",
+            "context": "The judicial processing of cases involving French nationals who went to combat zones in the Middle East continues before specialized courts.",
+            "summary": "The special assize court in Paris handed down prison sentences ranging from five to twelve years against three women who returned from Syria. They were prosecuted for joining the ranks of the Islamic State organization, with several of them linked to prominent figures of French jihadism. The judges thus sanctioned their involvement within terrorist structures.",
+            "plain": "Three French women who returned from Syria have been sentenced by the courts to prison terms for joining the Islamic State organization.",
+            "stakes": [
+              "What is the security and social future of the minor children accompanying these individuals upon their return?",
+              "How does the judiciary assess the degree of involvement of women within these networks?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Tres mujeres condenadas por participación en la organización Estado Islámico",
+            "context": "El tratamiento judicial de los casos de ciudadanos franceses que marcharon a zonas de combate en Oriente Medio continúa ante las jurisdicciones especializadas.",
+            "summary": "El tribunal de lo penal especial de París dictó penas de prisión firme de entre cinco y doce años contra tres mujeres regresadas de Siria. Estaban procesadas por haber engrosado las filas de la organización Estado Islámico, estando varias de ellas vinculadas a figuras notorias del yihadismo francés. Los jueces sancionaron así su implicación en el seno de las estructuras terroristas.",
+            "plain": "Tres francesas regresadas de Siria han sido condenadas por la justicia a penas de prisión firme por haberse unido a la organización Estado Islámico.",
+            "stakes": [
+              "¿Cuál es el futuro de seguridad y social de los menores que acompañan a estas personas a su regreso?",
+              "¿Cómo evalúa la justicia el grado de implicación de las mujeres en el seno de estas redes?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sc8f3e12005",
+        "topic": "culture",
+        "title": "Lancement mondial très attendu du jeu vidéo GTA VI",
+        "context": "L'industrie du divertissement numérique fait face à des sorties culturelles majeures générant une attention médiatique considérable.",
+        "summary": "Le jeu vidéo Grand Theft Auto VI est officiellement disponible, marquant le retour de la franchise à succès treize ans après le précédent opus. Les critiques saluent la prouesse technique et l'immersion de ce monde ouvert, tandis que la sortie provoque des pannes sur certains réseaux en ligne en raison de l'afflux massif de joueurs. Si le public manifeste un enthousiasme prononcé, divers observateurs commentent l'impact culturel et économique de cette production hors norme.",
+        "plain": "La sortie mondiale du jeu vidéo GTA VI suscite une immense ferveur parmi les joueurs et un engouement record. Cet événement s'accompagne toutefois de perturbations sur les plateformes de jeux en ligne.",
+        "chart": null,
+        "stakes": [
+          "Quelles sont les limites de l'acceptabilité sociétale face à la violence virtuelle dans les produits culturels grand public ?",
+          "Comment les infrastructures numériques gèrent-elles des pics de connexion aussi massifs ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Figaro",
+            "title": "« Une dernière nuit à Los Santos, avant que tout ne change pour toujours » : « The Last Ride », la dernière virée des habitués du mode multijoueur de GTA 5",
+            "link": "https://www.lefigaro.fr/secteur/high-tech/une-derniere-nuit-a-los-santos-avant-que-tout-ne-change-pour-toujours-the-last-ride-la-derniere-viree-des-habitues-du-mode-multijoueur-de-gta-5-20261118",
+            "publishedAt": "2026-11-18T20:30:00.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "L'Humanité",
+            "title": "GTA 6 : sous le capot, la décadence de nos sociétés capitalistes",
+            "link": "https://www.humanite.fr/culture-et-savoir/capitalisme/gta-6-sous-le-capot-la-decadence-de-nos-societes-capitalistes",
+            "publishedAt": "2026-11-18T19:12:51.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "L'Humanité",
+            "title": "Dans GTA, tout n’est pas à prendre, mais tout à comprendre",
+            "link": "https://www.humanite.fr/en-debat/capitalisme/dans-gta-tout-nest-pas-a-prendre-mais-tout-a-comprendre",
+            "publishedAt": "2026-11-18T17:57:39.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Valeurs actuelles",
+            "title": "Braquages, fusillades, trafics et sexe : le jeu GTA 6 risque d’assécher le public de Netflix",
+            "link": "https://www.valeursactuelles.com/economie/braquages-fusillades-trafics-et-sexe-le-jeu-gta-6-risque-dassecher-le-public-de-netflix",
+            "publishedAt": "2026-11-18T18:40:54.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+            "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-18T17:34:25.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Guardian",
+            "title": "PlayStation suffers widespread network problems hours before release of GTA VI",
+            "link": "https://www.theguardian.com/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release",
+            "publishedAt": "2026-11-18T20:28:42.000Z",
             "lang": "en",
             "country": "GB"
           },
           {
             "name": "The New York Times",
-            "title": "Live Updates: In a Rare Gesture, Xi Greets Trump as He Lands in China",
-            "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-            "publishedAt": "2026-11-18T13:11:42.000Z",
+            "title": "Grand Theft Auto: An American Icon, Born in Britain",
+            "link": "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html",
+            "publishedAt": "2026-11-18T22:05:43.000Z",
             "lang": "en",
             "country": "US"
           },
           {
-            "name": "RFI",
-            "title": "Yalta 1945, Shenzhen 2026: l’analogie qui hante l’Ukraine",
-            "link": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261118-yalta-1945-shenzhen-2026-l-analogie-qui-hante-l-ukraine",
-            "publishedAt": "2026-11-18T10:08:07.000Z",
-            "lang": "fr",
-            "country": "FR"
+            "name": "Politico Europe",
+            "title": "Grand Theft Auto VI is here. The EU has 6 reasons to pay attention.",
+            "link": "https://www.politico.eu/article/eurocrats-meet-gamers-six-reasons-brussels-should-care-about-gta-vi/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-18T18:35:37.000Z",
+            "lang": "en",
+            "country": "BE"
           }
         ],
         "image": {
-          "url": "https://img.lemde.fr/2026/11/18/1197/0/7658/3829/644/322/60/0/b807fc0_ftp-1-nxnziiqedxl2-afp-d7up9kp.jpg",
-          "credit": "Le Monde (International)",
-          "link": "https://www.lemonde.fr/international/article/2026/11/18/donald-trump-est-arrive-en-chine-avant-un-sommet-tripartite-inedit-avec-xi-jinping-et-vladimir-poutine_6813120_3210.html"
+          "url": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/18/28ae0ee645a30f2e4848cd6f8ada2775a5924e04d19e7e805723d44bf8195d4e.jpg",
+          "credit": "Le Figaro",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/une-derniere-nuit-a-los-santos-avant-que-tout-ne-change-pour-toujours-the-last-ride-la-derniere-viree-des-habitues-du-mode-multijoueur-de-gta-5-20261118"
         },
         "i18n": {
           "en": {
-            "title": "Unprecedented Trilateral Summit Between Donald Trump, Vladimir Putin, and Xi Jinping in China",
-            "context": "Global geopolitical relations are experiencing a new turning point with the organization of high-level diplomatic meetings in Asia.",
-            "summary": "US President Donald Trump arrived in China, in Shenzhen, where he was personally welcomed by Xi Jinping, ahead of an unprecedented trilateral summit including Vladimir Putin [16, 32, 146]. The three leaders are meeting to discuss major international issues and their bilateral relations, a format compared by some observers to a new Yalta configuration [16, 48, 279]. Chinese and foreign official media have commented variously on the issues and stances of each leader during this meeting [30, 89].",
-            "plain": "The leaders of the United States, China, and Russia are meeting in China for an exceptional diplomatic summit focused on major global balances.",
+            "title": "Highly anticipated worldwide launch of the video game GTA VI",
+            "context": "The digital entertainment industry is facing major cultural releases that generate considerable media attention.",
+            "summary": "The video game Grand Theft Auto VI is officially available, marking the successful franchise's return thirteen years after the previous installment. Critics praise the technical prowess and immersion of this open world, while the release causes outages on certain online networks due to the massive influx of players. While the public shows pronounced enthusiasm, various observers comment on the cultural and economic impact of this extraordinary production.",
+            "plain": "The worldwide release of the video game GTA VI has sparked immense enthusiasm among players and record-breaking interest. However, this event is accompanied by disruptions on online gaming platforms.",
             "stakes": [
-              "What concrete decisions or agreements will emerge from this summit meeting?",
-              "How will European allies react to this diplomatic rapprochement?"
+              "What are the limits of societal acceptability regarding virtual violence in mainstream cultural products?",
+              "How do digital infrastructures handle such massive connection spikes?"
             ],
             "chart": null
           },
           "es": {
-            "title": "Cumbre trilateral inédita entre Donald Trump, Vladímir Putin y Xi Jinping en China",
-            "context": "Las relaciones geopolíticas mundiales experimentan un nuevo giro con la organización de encuentros diplomáticos de alto nivel en Asia.",
-            "summary": "El presidente estadounidense, Donald Trump, llegó a China, a Shenzhen, donde fue recibido personalmente por Xi Jinping, antes de la celebración de una cumbre trilateral inédita que incluyó a Vladímir Putin [16, 32, 146]. Los tres dirigentes se reúnen para abordar asuntos internacionales de gran calado y sus relaciones bilaterales, un formato comparado por algunos observadores con una nueva configuración de Yalta [16, 48, 279]. Los medios oficiales chinos y extranjeros comentan de diversas maneras los retos y las posturas de cada dirigente durante este encuentro [30, 89].",
-            "plain": "Los dirigentes de Estados Unidos, China y Rusia se reúnen en China para una cumbre diplomática excepcional centrada en los grandes equilibrios mundiales.",
+            "title": "Muy esperado lanzamiento mundial del videojuego GTA VI",
+            "context": "La industria del entretenimiento digital se enfrenta a importantes lanzamientos culturales que generan una atención mediática considerable.",
+            "summary": "El videojuego Grand Theft Auto VI ya está disponible oficialmente, lo que marca el regreso de la exitosa franquicia trece años después de la entrega anterior. La crítica elogia la proeza técnica y la inmersión de este mundo abierto, mientras que el lanzamiento provoca caídas en algunas redes en línea debido a la afluencia masiva de jugadores. Aunque el público muestra un entusiasmo pronunciado, diversos observadores comentan el impacto cultural y económico de esta producción excepcional.",
+            "plain": "El lanzamiento mundial del videojuego GTA VI suscita un fervor inmenso entre los jugadores y un entusiasmo récord. Sin embargo, este acontecimiento va acompañado de perturbaciones en las plataformas de juegos en línea.",
             "stakes": [
-              "¿Qué decisiones concretas o acuerdos se derivarán de esta reunión al más alto nivel?",
-              "¿Cómo reaccionarán los aliados europeos ante este acercamiento diplomático?"
+              "¿Cuáles son los límites de la aceptabilidad social frente a la violencia virtual en los productos culturales de gran consumo?",
+              "¿Cómo gestionan las infraestructuras digitales picos de conexión tan masivos?"
             ],
             "chart": null
           }
         }
       },
       {
-        "id": "s55134f7fb9",
-        "topic": "international",
-        "title": "Élections au Sénat américain : victoire démocrate en Alaska avec Mary Peltola",
-        "context": "Le paysage politique américain est marqué par la fin du dépouillement des élections de mi-mandat et le renouvellement du Congrès.",
-        "summary": "Le Parti démocrate a remporté le dernier siège en jeu au Sénat américain à la suite de la victoire de Mary Peltola en Alaska, un État traditionnellement ancré à droite [84, 275]. Ce succès permet aux démocrates d'obtenir leur plus large majorité au Sénat depuis seize ans, consolidant ainsi leur position au Congrès [101, 275]. Cette élection conclut un scrutin de mi-mandat favorable aux démocrates malgré les contestations de certains responsables républicains [84, 174].",
-        "plain": "Les démocrates ont remporté le dernier siège sénatorial en Alaska, renforçant leur majorité au Congrès américain après les élections de mi-mandat.",
+        "id": "s306292b493",
+        "topic": "economie",
+        "title": "L'introduction en Bourse d'Anthropic valorise l'entreprise à un niveau record",
+        "context": "Le secteur de l'intelligence artificielle connaît une croissance financière spectaculaire et attire des capitaux considérables sur les marchés boursiers mondiaux.",
+        "summary": "L'entreprise spécialisée en intelligence artificielle Anthropic a fixé le prix de ses actions pour son entrée sur les marchés financiers américains à un niveau supérieur aux prévisions initiales. Cette opération financière majeure traduit l'appétit insatiable des investisseurs pour les technologies liées à l'intelligence artificielle. Les retombées de cette introduction en Bourse génèrent des profits importants pour les premiers bailleurs de fonds de la société.",
+        "plain": "L'entreprise d'intelligence artificielle Anthropic a fait une entrée remarquée en Bourse avec une valorisation boursière très élevée. Cette opération illustre la puissance financière actuelle du secteur technologique.",
         "chart": null,
         "stakes": [
-          "Quelles seront les conséquences de cette majorité renforcée pour l'administration en place ?",
-          "Comment les républicains vont-ils réorganiser leur stratégie parlementaire ?"
+          "Quels risques pèsent sur les marchés financiers en cas de surévaluation des entreprises technologiques ?",
+          "Comment la régulation publique pourra-t-elle encadrer l'essor fulgurant de ces nouveaux géants économiques ?"
         ],
         "sources": [
           {
-            "name": "BBC News",
-            "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-            "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-18T10:23:57.000Z",
-            "lang": "en",
-            "country": "GB"
+            "name": "Le Figaro",
+            "title": "Anthropic valorisé 1 400 milliards de dollars à Wall Street : qui va toucher le jackpot ?",
+            "link": "https://www.lefigaro.fr/secteur/high-tech/anthropic-valorise-1-400-milliards-de-dollars-a-wall-street-qui-va-toucher-le-jackpot-20261118",
+            "publishedAt": "2026-11-18T21:40:55.000Z",
+            "lang": "fr",
+            "country": "FR"
           },
           {
             "name": "The Guardian",
-            "title": "Peltola’s Alaska victory secures 56th Democratic seat in Senate | First Thing",
-            "link": "https://www.theguardian.com/us-news/2026/nov/18/first-thing-peltolas-alaska-victory-secures-56th-democratic-seat-in-senate",
-            "publishedAt": "2026-11-18T12:23:41.000Z",
+            "title": "Anthropic sets share price at $83 for stock market debut, above expected range",
+            "link": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
+            "publishedAt": "2026-11-18T21:39:15.000Z",
             "lang": "en",
             "country": "GB"
           },
           {
-            "name": "Fox News",
-            "title": "Vance’s midterm blame game hits snag as Trump’s own Israel ambassador disputes key claim",
-            "link": "https://www.foxnews.com/world/vances-midterm-blame-game-hits-snag-trumps-own-israel-ambassador-disputes-key-claim",
-            "publishedAt": "2026-11-17T19:52:03.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "RFI",
-            "title": "Sénat américain: les démocrates s'imposent en Alaska et obtiennent leur plus large majorité en 16 ans",
-            "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261118-s%C3%A9nat-am%C3%A9ricain-les-d%C3%A9mocrates-s-imposent-en-alaska-et-obtiennent-leur-plus-large-majorit%C3%A9-en-16-ans",
-            "publishedAt": "2026-11-18T11:35:12.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f32/live/4c690550-e33c-11f1-99b6-a35a62fa4264.jpg",
-          "credit": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss"
-        },
-        "i18n": {
-          "en": {
-            "title": "US Senate Elections: Democratic Victory in Alaska with Mary Peltola",
-            "context": "The US political landscape is marked by the end of the midterm election tally and the renewal of Congress.",
-            "summary": "The Democratic Party won the final seat at stake in the US Senate following the victory of Mary Peltola in Alaska, a traditionally right-leaning state [84, 275]. This success allows Democrats to secure their largest majority in the Senate in sixteen years, thereby consolidating their position in Congress [101, 275]. This election concludes a midterm ballot favorable to Democrats despite challenges from some Republican officials [84, 174].",
-            "plain": "Democrats won the final Senate seat in Alaska, strengthening their majority in the US Congress following the midterm elections.",
-            "stakes": [
-              "What will be the consequences of this reinforced majority for the incumbent administration?",
-              "How will Republicans reorganize their parliamentary strategy?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Elecciones al Senado de EE. UU.: victoria demócrata en Alaska con Mary Peltola",
-            "context": "El panorama político estadounidense está marcado por el fin del escrutinio de las elecciones de mitad de mandato y la renovación del Congreso.",
-            "summary": "El Partido Demócrata ganó el último escaño en juego en el Senado estadounidense tras la victoria de Mary Peltola en Alaska, un estado tradicionalmente de tendencia conservadora [84, 275]. Este éxito permite a los demócratas obtener su mayor mayoría en el Senado en dieciséis años, consolidando así su posición en el Congreso [101, 275]. Esta elección concluye unos comicios de mitad de mandato favorables a los demócratas a pesar de las impugnaciones de algunos responsables republicanos [84, 174].",
-            "plain": "Los demócratas ganaron el último escaño senatorial en Alaska, reforzando su mayoría en el Congreso estadounidense tras las elecciones de mitad de mandato.",
-            "stakes": [
-              "¿Cuáles serán las consecuencias de esta mayoría reforzada para la administración en el poder?",
-              "¿Cómo reorganizarán los republicanos su estrategia parlamentaria?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "sd76415d7c4",
-        "topic": "international",
-        "title": "Enquête ouverte en Espagne contre le chanteur Julio Iglesias pour agressions sexuelles",
-        "context": "Le monde de la culture et du spectacle est régulièrement touché par des accusations visant des personnalités pour des faits commis dans le passé.",
-        "summary": "La justice espagnole, à travers l'Audiencia Nacional, a ouvert une enquête visant le chanteur Julio Iglesias à la suite d'une plainte déposée par deux anciennes employées [9, 31, 250]. Les plaignantes, une employée de maison et une kinésithérapeute, affirment avoir subi des agressions sexuelles, des mauvais traitements et des conditions de travail forcé lorsqu'elles travaillaient dans les propriétés de l'artiste [9, 31, 250]. Le juge en charge du dossier a convoqué les parties pour les prochaines auditions [250].",
-        "plain": "Le chanteur Julio Iglesias fait l'objet d'une enquête judiciaire en Espagne après des accusations d'agressions sexuelles et de mauvais traitements formulées par d'anciennes salariées.",
-        "chart": null,
-        "stakes": [
-          "Quels éléments l'enquête judiciaire permettra-t-elle de mettre en lumière ?",
-          "Quelles répercussions cette affaire aura-t-elle sur la carrière et l'image publique de l'artiste ?"
-        ],
-        "sources": [
-          {
-            "name": "Le Monde (International)",
-            "title": "Le chanteur espagnol Julio Iglesias visé par une enquête pour agressions sexuelles sur deux anciennes employées",
-            "link": "https://www.lemonde.fr/international/article/2026/11/18/le-chanteur-espagnol-julio-iglesias-vise-par-une-enquete-pour-agressions-sexuelles-sur-deux-anciennes-employees_6813131_3210.html",
-            "publishedAt": "2026-11-18T12:58:40.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Libération",
-            "title": "Espagne : ouverture d’une enquête sur le chanteur Julio Iglesias après des plaintes pour agressions sexuelles",
-            "link": "https://www.liberation.fr/societe/police-justice/espagne-ouverture-dune-enquete-sur-le-chanteur-julio-iglesias-apres-des-plaintes-pour-agressions-sexuelles-20261118_7ZHJRU7YU5BPNJPGMRFTSODHEQ/",
-            "publishedAt": "2026-11-18T12:00:27.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
             "name": "El País",
-            "title": "La Audiencia Nacional admite la querella contra Julio Iglesias por delitos contra la libertad sexual, lesiones y trato degradante",
-            "link": "https://elpais.com/sociedad/2026-11-18/la-audiencia-nacional-admite-la-querella-contra-julio-iglesias-por-delitos-contra-la-libertad-sexual-lesiones-y-trato-degradante.html",
-            "publishedAt": "2026-11-18T13:02:57.000Z",
+            "title": "Anthropic desbanca a SpaceX como la mayor salida a Bolsa de la historia y fija su valoración en 1,5 billones de dólares",
+            "link": "https://elpais.com/economia/2026-11-18/anthropic-desbanca-a-spacex-y-protagoniza-la-mayor-salida-a-bolsa-de-la-historia.html",
+            "publishedAt": "2026-11-18T21:41:11.000Z",
             "lang": "es",
             "country": "ES"
           }
         ],
         "image": {
-          "url": "https://img.lemde.fr/2026/11/18/473/0/2968/1484/644/322/60/0/7146fd1_upload-1-fglikd6chd8t-2015-05-09t120000z-1637732904-gf10000089084-rtrmadp-3-usa-culture.JPG",
-          "credit": "Le Monde (International)",
-          "link": "https://www.lemonde.fr/international/article/2026/11/18/le-chanteur-espagnol-julio-iglesias-vise-par-une-enquete-pour-agressions-sexuelles-sur-deux-anciennes-employees_6813131_3210.html"
+          "url": "https://i.f1g.fr/media/cms/2925x1645_crop/2026/11/18/09c8e33ce55de52d66ca27da341cd0224af415718bdd87354580192f65f3c37d.jpg",
+          "credit": "Le Figaro",
+          "link": "https://www.lefigaro.fr/secteur/high-tech/anthropic-valorise-1-400-milliards-de-dollars-a-wall-street-qui-va-toucher-le-jackpot-20261118"
         },
         "i18n": {
           "en": {
-            "title": "Investigation opened in Spain against singer Julio Iglesias for sexual assault",
-            "context": "The cultural and entertainment world is regularly affected by accusations targeting personalities for actions committed in the past.",
-            "summary": "The Spanish judiciary, through the Audiencia Nacional, has opened an investigation targeting singer Julio Iglesias following a complaint filed by two former employees [9, 31, 250]. The plaintiffs, a housekeeper and a physiotherapist, claim to have suffered sexual assault, mistreatment, and forced labor conditions while working on the artist's properties [9, 31, 250]. The judge in charge of the case has summoned the parties for upcoming hearings [250].",
-            "plain": "Singer Julio Iglesias is the subject of a judicial investigation in Spain following accusations of sexual assault and mistreatment made by former employees.",
+            "title": "Anthropic's IPO values the company at a record level",
+            "context": "The artificial intelligence sector is experiencing spectacular financial growth and attracting substantial capital on global stock markets.",
+            "summary": "Artificial intelligence specialist Anthropic has priced its shares for its entry onto the US financial markets higher than initial projections. This major financial operation reflects the insatiable investor appetite for artificial intelligence-related technologies. The fallout from this IPO generates significant profits for the company's early backers.",
+            "plain": "Artificial intelligence company Anthropic made a notable stock market debut with a very high valuation. This operation illustrates the current financial power of the technology sector.",
             "stakes": [
-              "What elements will the judicial investigation bring to light?",
-              "What repercussions will this case have on the artist's career and public image?"
+              "What risks hang over the financial markets in the event of an overvaluation of technology companies?",
+              "How will public regulation be able to supervise the meteoric rise of these new economic giants?"
             ],
             "chart": null
           },
           "es": {
-            "title": "Abren una investigación en España contra el cantante Julio Iglesias por agresiones sexuales",
-            "context": "El mundo de la cultura y del espectáculo se ve afectado regularmente por acusaciones contra personalidades por hechos cometidos en el pasado.",
-            "summary": "La justicia española, a través de la Audiencia Nacional, ha abierto una investigación contra el cantante Julio Iglesias tras una denuncia presentada por dos exempleadas [9, 31, 250]. Las demandantes, una empleada doméstica y una fisioterapeuta, afirman haber sufrido agresiones sexuales, malos tratos y condiciones de trabajo forzado cuando trabajaban en las propiedades del artista [9, 31, 250]. El juez a cargo del caso ha convocado a las partes para las próximas audiencias [250].",
-            "plain": "El cantante Julio Iglesias es objeto de una investigación judicial en España tras las acusaciones de agresión sexual y malos tratos formuladas por exempleadas.",
+            "title": "La salida a bolsa de Anthropic valora a la empresa en un nivel récord",
+            "context": "El sector de la inteligencia artificial experimenta un crecimiento financiero espectacular y atrae capitales considerables en los mercados bursátiles mundiales.",
+            "summary": "La empresa especializada en inteligencia artificial Anthropic ha fijado el precio de sus acciones para su entrada en los mercados financieros estadounidenses en un nivel superior a las previsiones iniciales. Esta importante operación financiera refleja el apetito insaciable de los inversores por las tecnologías relacionadas con la inteligencia artificial. Las repercusiones de esta salida a bolsa generan importantes beneficios para los primeros inversores de la sociedad.",
+            "plain": "La empresa de inteligencia artificial Anthropic hizo una entrada destacada en bolsa con una valoración bursátil muy elevada. Esta operación ilustra el actual poder financiero del sector tecnológico.",
             "stakes": [
-              "¿Qué elementos permitirá esclarecer la investigación judicial?",
-              "¿Qué repercusiones tendrá este caso en la carrera y la imagen pública del artista?"
+              "¿Qué riesgos pesan sobre los mercados financieros en caso de sobrevaloración de las empresas tecnológicas?",
+              "¿Cómo podrá la regulación pública supervisar el auge fulgurante de estos nuevos gigantes económicos?"
             ],
             "chart": null
           }
         }
       },
       {
-        "id": "s4170b707d6",
-        "topic": "international",
-        "title": "Perte du statut d'élimination de la rougeole aux États-Unis",
-        "context": "La situation sanitaire internationale fait face à des résurgences de maladies évitables en raison d'une baisse de la couverture vaccinale.",
-        "summary": "Les autorités sanitaires et les experts ont confirmé que les États-Unis ont perdu leur statut de pays exempt de rougeole, traversant leur pire épidémie de cette maladie en trente-cinq ans [51, 103, 114]. Cette situation est attribuée par des spécialistes à des défaillances dans la prévention et à une circulation du virus non maîtrisée pendant plus d'un an [103, 114]. Des voix s'élèvent pour dénoncer les politiques de santé publique récentes et exiger des mesures correctives [103].",
-        "plain": "Les États-Unis ne sont plus considérés comme un pays débarrassé de la rougeole à la suite d'une importante épidémie, ce qui inquiète les autorités sanitaires.",
+        "id": "s9bc884e9e2",
+        "topic": "economie",
+        "title": "Le débat sur la rémunération des grands patrons relancé par une étude",
+        "context": "La question des inégalités salariales et des revenus des dirigeants d'entreprise revient régulièrement au cœur du débat public et politique.",
+        "summary": "Une étude publiée par le cabinet Proxinvest indique que les rémunérations des dirigeants des entreprises du CAC 40 ont connu une nouvelle progression, une grande majorité d'entre eux dépassant nettement les seuils de référence salariaux habituels. Cette situation suscite des réactions contrastées parmi les parlementaires et les observateurs économiques, entre critiques sur la décote du travail ordinaire et défense de la compétitivité internationale des groupes français.",
+        "plain": "Une nouvelle étude montre que les salaires des grands patrons français continuent d'augmenter significativement. Cette hausse suscite des discussions nourries sur l'équité salariale.",
         "chart": null,
         "stakes": [
-          "Quelles mesures d'urgence seront prises pour enrayer la propagation du virus ?",
-          "Quel sera l'impact politique de cette régression sanitaire sur l'administration américaine ?"
+          "Quels outils juridiques ou fiscaux pourraient modérer les écarts de salaires au sein des grandes entreprises ?",
+          "La fixation de plafonds de rémunération risque-t-elle de pénaliser l'attractivité des groupes français pour attirer les dirigeants ?"
         ],
         "sources": [
           {
-            "name": "L'Express",
-            "title": "La rougeole est de retour aux Etats-Unis : les raisons d’un tragique bond en arrière",
-            "link": "https://www.lexpress.fr/sciences-sante/la-rougeole-est-de-retour-aux-etats-unis-les-raisons-dun-tragique-bond-en-arriere-HOFFGX4WBNAPFOZ2MIIVQP2JSU/",
-            "publishedAt": "2026-11-18T11:26:58.000Z",
+            "name": "La Croix",
+            "title": "« Personne ne vaut 300 fois plus qu’une autre » : l'explosion de la rémunération des grands patrons refait débat",
+            "link": "https://www.la-croix.com/economie/personne-ne-vaut-300-fois-plus-qu-une-autre-l-explosion-de-la-remuneration-des-grands-patrons-refait-debat-20261118",
+            "publishedAt": "2026-11-18T18:36:57.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/18/2592715-dix-patrons-d-entreprises-du-sbf-120-les-120-entre.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/economie/personne-ne-vaut-300-fois-plus-qu-une-autre-l-explosion-de-la-remuneration-des-grands-patrons-refait-debat-20261118"
+        },
+        "i18n": {
+          "en": {
+            "title": "Debate on top executive pay revived by a study",
+            "context": "The issue of wage inequalities and corporate executive incomes regularly returns to the heart of public and political debate.",
+            "summary": "A study published by the firm Proxinvest indicates that the compensation of executives in CAC 40 companies has seen a further increase, with a large majority of them clearly exceeding standard salary reference thresholds. This situation elicits mixed reactions among parliamentarians and economic observers, ranging from criticism regarding the devaluation of ordinary work to defense of the international competitiveness of French groups.",
+            "plain": "A new study shows that the salaries of top French executives continue to increase significantly. This rise sparks lively discussions on wage fairness.",
+            "stakes": [
+              "What legal or fiscal tools could moderate wage gaps within large companies?",
+              "Does setting remuneration caps risk penalizing the attractiveness of French groups in attracting executives?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "El debate sobre la remuneración de los altos directivos reavivado por un estudio",
+            "context": "La cuestión de las desigualdades salariales y de los ingresos de los directivos de empresas vuelve regularmente al centro del debate público y político.",
+            "summary": "Un estudio publicado por la firma Proxinvest indica que las remuneraciones de los directivos de las empresas del CAC 40 han experimentado un nuevo incremento, y una gran mayoría de ellos supera claramente los umbrales de referencia salariales habituales. Esta situación suscita reacciones encontradas entre los parlamentarios y los observadores económicos, entre las críticas sobre la desvalorización del trabajo ordinario y la defensa de la competitividad internacional de los grupos franceses.",
+            "plain": "Un nuevo estudio muestra que los sueldos de los altos directivos franceses siguen aumentando significativamente. Esta subida suscita nutridos debates sobre la equidad salarial.",
+            "stakes": [
+              "¿Qué herramientas jurídicas o fiscales podrían moderar las diferencias salariales dentro de las grandes empresas?",
+              "¿Corre el riesgo de penalizar la fijación de topes de remuneración el atractivo de los grupos franceses para atraer directivos?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sc237428d07",
+        "topic": "international",
+        "title": "Nouvel accord de coopération militaire entre les États-Unis et le Venezuela",
+        "context": "Les relations géopolitiques en Amérique latine connaissent des bouleversements profonds à la suite des interventions et des changements de gouvernance récents.",
+        "summary": "Le secrétaire à la Défense américain a effectué une visite non annoncée au Venezuela pour officialiser un partenariat militaire avec les autorités intérimaires de Caracas. Cet accord prévoit notamment des programmes de formation conjointe et des partages d'informations en matière de sécurité, marquant une évolution notable dans les relations bilatérales après les tensions passées entre les deux États.",
+        "plain": "Les États-Unis et le Venezuela ont signé un accord de coopération militaire prévoyant des entraînements conjoints et des échanges d'informations. Cette démarche marque un rapprochement inattendu entre les deux pays.",
+        "chart": null,
+        "stakes": [
+          "Quelles seront les répercussions régionales de ce nouveau partenariat sécuritaire en Amérique latine ?",
+          "Comment les autres gouvernements de la zone accueillent-ils ce retour de l'influence militaire américaine à Caracas ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Venezuela : à Caracas, le chef du Pentagone annonce un accord de coopération militaire",
+            "link": "https://www.la-croix.com/international/venezuela-a-caracas-le-chef-du-pentagone-annonce-un-accord-de-cooperation-militaire-20261118",
+            "publishedAt": "2026-11-18T21:30:16.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
             "name": "The Guardian",
-            "title": "‘I’m heartbroken’: experts dismayed as US loses long-held measles elimination status",
-            "link": "https://www.theguardian.com/us-news/2026/nov/18/us-measles-elimination-status-experts",
-            "publishedAt": "2026-11-18T12:00:57.000Z",
+            "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+            "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+            "publishedAt": "2026-11-18T20:24:19.000Z",
             "lang": "en",
             "country": "GB"
           },
           {
-            "name": "Sky News",
-            "title": "US loses measles-free status amid worst outbreak in 35 years",
-            "link": "https://news.sky.com/story/us-loses-measles-free-status-amid-worst-outbreak-in-35-years-13613526",
-            "publishedAt": "2026-11-18T10:42:00.000Z",
+            "name": "The Washington Post",
+            "title": "Hegseth makes surprise appearance in Venezuela, renews military partnership",
+            "link": "https://www.washingtonpost.com/world/2026/11/18/hegseth-makes-surprise-appearance-venezuela-renews-military-partnership/",
+            "publishedAt": "2026-11-18T20:33:50.000Z",
             "lang": "en",
-            "country": "GB"
-          }
-        ],
-        "image": {
-          "url": "https://www.lexpress.fr/resizer/v2/NPKMLFKYLRCFJOJUT7VW2DENQM.JPG?auth=50a5cdf3aeaf31cd5d9a3a11c2f58b3016127f12b7eac73b418c9ca62b5e6fab&smart=true&width=5500&height=3588",
-          "credit": "L'Express",
-          "link": "https://www.lexpress.fr/sciences-sante/la-rougeole-est-de-retour-aux-etats-unis-les-raisons-dun-tragique-bond-en-arriere-HOFFGX4WBNAPFOZ2MIIVQP2JSU/"
-        },
-        "i18n": {
-          "en": {
-            "title": "Loss of measles elimination status in the United States",
-            "context": "The international health situation is facing resurgences of preventable diseases due to a decline in vaccination coverage.",
-            "summary": "Health authorities and experts have confirmed that the United States has lost its status as a measles-free country, going through its worst outbreak of the disease in thirty-five years [51, 103, 114]. This situation is attributed by specialists to failures in prevention and uncontrolled circulation of the virus for over a year [103, 114]. Voices are being raised to denounce recent public health policies and demand corrective measures [103].",
-            "plain": "The United States is no longer considered a measles-free country following a major outbreak, which is worrying health authorities.",
-            "stakes": [
-              "What emergency measures will be taken to halt the spread of the virus?",
-              "What will be the political impact of this health regression on the US administration?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Pérdida del estatus de eliminación del sarampión en Estados Unidos",
-            "context": "La situación sanitaria internacional se enfrenta a resurgencias de enfermedades prevenibles debido a una disminución de la cobertura de vacunación.",
-            "summary": "Las autoridades sanitarias y los expertos han confirmado que Estados Unidos ha perdido su estatus de país libre de sarampión, atravesando su peor epidemia de esta enfermedad en treinta y cinco años [51, 103, 114]. Esta situación es atribuida por los especialistas a fallas en la prevención y a una circulación no controlada del virus durante más de un año [103, 114]. Se alzan voces para denunciar las recientes políticas de salud pública y exigir medidas correctivas [103].",
-            "plain": "Estados Unidos ya no se considera un país libre de sarampión tras un importante brote epidémico, lo que preocupa a las autoridades sanitarias.",
-            "stakes": [
-              "¿Qué medidas de emergencia se adoptarán para frenar la propagación del virus?",
-              "¿Cuál será el impacto político de este retroceso sanitario en la administración estadounidense?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "sffcbae63f9",
-        "topic": "societe",
-        "title": "Polémique et manifestations autour de la sécurité dans les établissements scolaires",
-        "context": "Les questions de sécurité et d'autorité au sein des lycées et des collèges font l'objet de vifs débats politiques et syndicaux.",
-        "summary": "À Saint-Denis, le proviseur du lycée Paul-Éluard a quitté l'établissement et demandé une protection policière après ne plus s'y sentir en sécurité, affirmant refuser de démissionner [6]. Cet épisode s'ajoute à un climat tendu dans les structures éducatives, marqué par des interventions des forces de l'ordre [6]. Par ailleurs, d'autres incidents et manifestations continuent d'affecter le quotidien de plusieurs établissements scolaires en France [25].",
-        "plain": "Le proviseur d'un lycée de Saint-Denis a dû être protégé par la police et a quitté son poste temporairement, illustrant les tensions sécuritaires dans certains établissements.",
-        "chart": null,
-        "stakes": [
-          "Quelles mesures le ministère de l'Éducation nationale prendra-t-il pour garantir la sécurité des équipes éducatives ?",
-          "Comment apaiser le climat dans les lycées touchés par ces tensions ?"
-        ],
-        "sources": [
-          {
-            "name": "franceinfo",
-            "title": "\"Je ne démissionnerai pas\", affirme le proviseur du lycée Paul-Eluard de Saint-Denis après l'intervention de policiers dans l’établissement",
-            "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/je-ne-demissionnerai-pas-affirme-le-proviseur-du-lycee-paul-eluard-de-saint-denis-apres-l-intervention-de-policiers-dans-l-etablissement_8287196.html#xtor=RSS-3-%5Bfrance%5D",
-            "publishedAt": "2026-11-17T21:25:48.000Z",
-            "lang": "fr",
-            "country": "FR"
+            "country": "US"
           },
           {
-            "name": "Libération",
-            "title": "Mouvement lycéen : 3 000 élèves sont passés en conseil de discipline depuis le mois de septembre",
-            "link": "https://www.liberation.fr/societe/education/mouvement-lyceen-3-000-eleves-sont-passes-en-conseil-de-discipline-depuis-le-mois-de-septembre-20261118_YVGV3CJWPRGNPFPFIVYZ5MUP7Q/",
-            "publishedAt": "2026-11-18T13:07:35.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://www.franceinfo.fr/pictures/4plFVI96jaXRYGNI2hw7Tcx7VCk/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/17/6afcc1e71f016581504961.jpg",
-          "credit": "franceinfo",
-          "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/je-ne-demissionnerai-pas-affirme-le-proviseur-du-lycee-paul-eluard-de-saint-denis-apres-l-intervention-de-policiers-dans-l-etablissement_8287196.html#xtor=RSS-3-%5Bfrance%5D"
-        },
-        "i18n": {
-          "en": {
-            "title": "Controversy and protests surrounding security in educational institutions",
-            "context": "Issues of security and authority within high schools and middle schools are the subject of intense political and union debates.",
-            "summary": "In Saint-Denis, the principal of the Paul-Éluard high school left the institution and requested police protection after no longer feeling safe, stating he refused to resign [6]. This episode adds to a tense climate in educational structures, marked by interventions by law enforcement [6]. Furthermore, other incidents and protests continue to affect the daily lives of several schools in France [25].",
-            "plain": "The principal of a high school in Saint-Denis had to be protected by the police and temporarily left his post, illustrating security tensions in certain institutions.",
-            "stakes": [
-              "What measures will the Ministry of National Education take to guarantee the safety of educational teams?",
-              "How can the climate be calmed in high schools affected by these tensions?"
-            ],
-            "chart": null
+            "name": "The Wall Street Journal",
+            "title": "Hegseth Cements New Military Deal in Visit to Venezuela",
+            "link": "https://www.wsj.com/world/americas/hegseth-cements-new-military-deal-in-visit-to-venezuela-621ccdcb?mod=rss_worldnews",
+            "publishedAt": "2026-11-18T19:57:00.000Z",
+            "lang": "en",
+            "country": "US"
           },
-          "es": {
-            "title": "Polémica y manifestaciones en torno a la seguridad en los centros educativos",
-            "context": "Las cuestiones de seguridad y autoridad en los institutos de secundaria son objeto de intensos debates políticos y sindicales.",
-            "summary": "En Saint-Denis, el director del instituto Paul-Éluard abandonó el centro y pidió protección policial tras dejar de sentirse seguro, afirmando que se negaba a dimitir [6]. Este episodio se suma a un clima tenso en las estructuras educativas, marcado por intervenciones de las fuerzas del orden [6]. Por otra parte, otros incidentes y manifestaciones siguen afectando el día a día de varios centros escolares en Francia [25].",
-            "plain": "El director de un instituto de Saint-Denis tuvo que ser protegido por la policía y abandonó temporalmente su puesto, ilustrando las tensiones de seguridad en determinados centros.",
-            "stakes": [
-              "¿Qué medidas tomará el Ministerio de Educación Nacional para garantizar la seguridad de los equipos educativos?",
-              "¿Cómo calmar el clima en los institutos afectados por estas tensiones?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s63b8c7933f",
-        "topic": "environnement",
-        "title": "Un rapport alarmant pointe la dégradation des coraux dans les Outre-mer",
-        "context": "La préservation des écosystèmes marins face au changement climatique et aux activités humaines constitue un défi majeur pour les territoires insulaires.",
-        "summary": "Un rapport officiel indique que les récifs coralliens français situés dans les territoires ultramarins se trouvent dans un état alarmant en raison de la pollution et du réchauffement climatique [7]. Les fonds marins de ces régions subissent des pressions écologiques croissantes qui menacent la biodiversité locale [7]. Ces constats relancent les appels à renforcer la protection de ces environnements fragiles [7].",
-        "plain": "Un rapport qualifie d'alarmant l'état des coraux dans les départements et collectivités d'Outre-mer, frappés par le réchauffement de l'eau et la pollution.",
-        "chart": null,
-        "stakes": [
-          "Quelles politiques publiques de préservation seront mises en place pour sauver ces écosystèmes ?",
-          "Quel sera l'impact de cette dégradation sur les activités économiques locales liées à la mer ?"
-        ],
-        "sources": [
           {
-            "name": "franceinfo",
-            "title": "Outre-mer, les coraux en danger",
-            "link": "https://www.franceinfo.fr/environnement/biodiversite/protection-des-oceans/outre-mer-les-coraux-en-danger_8286266.html#xtor=RSS-3-%5Bfrance%5D",
-            "publishedAt": "2026-11-17T19:00:02.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://www.franceinfo.fr/pictures/XP1NDEw9H3merlLoLwf8lbnoaqM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/17/6afc20a440db7813498926.jpg",
-          "credit": "franceinfo",
-          "link": "https://www.franceinfo.fr/environnement/biodiversite/protection-des-oceans/outre-mer-les-coraux-en-danger_8286266.html#xtor=RSS-3-%5Bfrance%5D"
-        },
-        "i18n": {
-          "en": {
-            "title": "Alarming report highlights the degradation of corals in Overseas territories",
-            "context": "The preservation of marine ecosystems facing climate change and human activities constitutes a major challenge for insular territories.",
-            "summary": "An official report indicates that French coral reefs located in overseas territories are in an alarming state due to pollution and global warming [7]. The seabeds of these regions are undergoing increasing ecological pressures that threaten local biodiversity [7]. These findings renew calls to strengthen the protection of these fragile environments [7].",
-            "plain": "A report describes the state of corals in overseas departments and collectivities, hit by warming waters and pollution, as alarming.",
-            "stakes": [
-              "What public preservation policies will be implemented to save these ecosystems?",
-              "What will be the impact of this degradation on local marine-related economic activities?"
-            ],
-            "chart": null
+            "name": "Al Jazeera",
+            "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+            "link": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+            "publishedAt": "2026-11-18T21:01:05.000Z",
+            "lang": "en",
+            "country": "QA"
           },
-          "es": {
-            "title": "Un informe alarmante señala la degradación de los corales en los territorios de Ultramar",
-            "context": "La preservación de los ecosistemas marinos frente al cambio climático y las actividades humanas constituye un reto importante para los territorios insulares.",
-            "summary": "Un informe oficial indica que los arrecifes de coral franceses situados en los territorios de ultramar se encuentran en un estado alarmante debido a la contaminación y al calentamiento global [7]. Los fondos marinos de estas regiones sufren crecientes presiones ecológicas que amenazan la biodiversidad local [7]. Estos hallazgos reavivan los llamamientos para reforzar la protección de estos frágiles entornos [7].",
-            "plain": "Un informe califica de alarmante el estado de los corales en los departamentos y colectividades de Ultramar, golpeados por el calentamiento del agua y la contaminación.",
-            "stakes": [
-              "¿Qué políticas públicas de preservación se implementarán para salvar estos ecosistemas?",
-              "¿Cuál será el impacto de esta degradación en las actividades económicas locales vinculadas al mar?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s83c079e5b8",
-        "topic": "sciences_tech",
-        "title": "La sonde Voyager 1 atteint le jalon historique d'un jour-lumière de la Terre",
-        "context": "L'exploration spatiale historique se poursuit avec des missions lointaines lancées il y a plusieurs décennies par les agences spatiales.",
-        "summary": "La sonde spatiale Voyager 1, lancée par la NASA en 1977, a franchi une distance symbolique équivalant à un jour-lumière de la Terre, soit environ 26 milliards de kilomètres [217, 287]. Cet équipement scientifique continue d'envoyer des données depuis les confins de l'espace interstellaire, près d'un demi-siècle après son départ [287]. Ce record technique illustre la longévité exceptionnelle de cette mission d'exploration [217].",
-        "plain": "La sonde spatiale Voyager 1 a atteint une distance record correspondant au trajet de la lumière en vingt-quatre heures, continuant à fonctionner aux limites du système solaire.",
-        "chart": null,
-        "stakes": [
-          "Jusqu'où la sonde pourra-t-elle transmettre des informations avant l'épuisement de ses sources d'énergie ?",
-          "Quelles découvertes scientifiques futures ces données lointaines permettront-elles de réaliser ?"
-        ],
-        "sources": [
           {
             "name": "The Hindu",
-            "title": "NASA Voyager 1 probe believed to have reached ‘light-day’ milestone",
-            "link": "https://www.thehindu.com/sci-tech/science/nasa-voyager-1-probe-believed-to-have-reached-light-day-milestone/article71715503.ece",
-            "publishedAt": "2026-11-18T11:01:49.000Z",
+            "title": "U.S., Venezuela sign deal to re-establish military ties: Hegseth",
+            "link": "https://www.thehindu.com/news/international/us-venezuela-sign-deal-to-re-establish-military-ties-hegseth/article71717506.ece",
+            "publishedAt": "2026-11-18T20:33:29.000Z",
             "lang": "en",
             "country": "IN"
           },
           {
-            "name": "Euronews",
-            "title": "Voyager 1 : un jour-lumière nous sépare désormais de notre plus lointaine aventurière",
-            "link": "https://fr.euronews.com/2026/11/18/voyager-1-un-jour-lumiere-nous-separe-desormais-de-notre-plus-lointaine-aventuriere",
-            "publishedAt": "2026-11-18T11:55:13.000Z",
-            "lang": "fr",
-            "country": "FR"
+            "name": "South China Morning Post",
+            "title": "US and Venezuela sign deal to re-establish military ties during Hegseth visit",
+            "link": "https://www.scmp.com/news/world/americas/article/3374965/us-and-venezuela-sign-deal-re-establish-military-ties-during-hegseth-visit",
+            "publishedAt": "2026-11-18T19:01:08.000Z",
+            "lang": "en",
+            "country": "HK"
           }
         ],
         "image": {
-          "url": "https://th-i.thgim.com/public/incoming/tygq8n/article71715546.ece/alternates/LANDSCAPE_1200/2026-11-14T110009Z_732948873_RC2EMOATM05A_RTRMADP_3_SPACE-VOYAGER.JPG",
-          "credit": "The Hindu",
-          "link": "https://www.thehindu.com/sci-tech/science/nasa-voyager-1-probe-believed-to-have-reached-light-day-milestone/article71715503.ece"
-        },
-        "i18n": {
-          "en": {
-            "title": "Voyager 1 probe reaches the historical milestone of one light-day from Earth",
-            "context": "Historic space exploration continues with distant missions launched several decades ago by space agencies.",
-            "summary": "The Voyager 1 space probe, launched by NASA in 1977, has crossed a symbolic distance equivalent to one light-day from Earth, or about 26 billion kilometers [217, 287]. This scientific equipment continues to send data from the far reaches of interstellar space, nearly half a century after its departure [287]. This technical record illustrates the exceptional longevity of this exploratory mission [217].",
-            "plain": "The Voyager 1 space probe has reached a record distance corresponding to twenty-four hours of light travel, continuing to operate at the edges of the solar system.",
-            "stakes": [
-              "How far will the probe be able to transmit information before its energy sources run out?",
-              "What future scientific discoveries will these distant data make possible?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "La sonda Voyager 1 alcanza el hito histórico de un día luz de la Tierra",
-            "context": "La exploración espacial histórica continúa con misiones lejanas lanzadas hace varias décadas por las agencias espaciales.",
-            "summary": "La sonda espacial Voyager 1, lanzada por la NASA en 1977, ha cruzado una distancia simbólica equivalente a un día luz de la Tierra, es decir, unos 26 000 millones de kilómetros [217, 287]. Este equipo científico sigue enviando datos desde los confines del espacio interestelar, casi medio siglo después de su partida [287]. Este récord técnico ilustra la excepcional longevidad de esta misión de exploración [217].",
-            "plain": "La sonda espacial Voyager 1 ha alcanzado una distancia récord correspondiente al viaje de la luz en veinticuatro horas, y sigue funcionando en los límites del sistema solar.",
-            "stakes": [
-              "¿Hasta dónde podrá la sonda transmitir información antes de que se agoten sus fuentes de energía?",
-              "¿Qué futuros descubrimientos científicos permitirán realizar estos datos lejanos?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s3a43ce3db9",
-        "topic": "economie",
-        "title": "La Cour des comptes publie un rapport critique sur la LGV Bordeaux-Toulouse",
-        "context": "Le financement et l'opportunité des grands projets d'infrastructure de transport font régulièrement l'objet de débats budgétaires.",
-        "summary": "La Cour des comptes a rendu un rapport public soulignant les risques financiers liés au projet de ligne à grande vitesse entre Bordeaux et Toulouse [23]. L'institution recommande de privilégier la rénovation du réseau ferroviaire existant plutôt que de lancer de nouveaux grands chantiers afin d'éviter une impasse budgétaire [23]. Ce document fournit des arguments aux opposants politiques et associatifs du projet [23].",
-        "plain": "Un rapport de la Cour des comptes met en garde contre le coût du projet de ligne à grande vitesse Bordeaux-Toulouse et conseille de moderniser les voies actuelles.",
-        "chart": null,
-        "stakes": [
-          "Le gouvernement va-t-il revoir le calendrier ou le maintien de ce projet ferroviaire ?",
-          "Quels impacts financiers ces recommandations auront-elles sur les collectivités territoriales partenaires ?"
-        ],
-        "sources": [
-          {
-            "name": "Le Figaro",
-            "title": "LGV Bordeaux-Toulouse : le rapport alarmant de la Cour des comptes donne du grain à moudre aux opposants",
-            "link": "https://www.lefigaro.fr/bordeaux/lgv-bordeaux-toulouse-le-rapport-alarmant-de-la-cour-des-comptes-donne-du-grain-a-moudre-aux-opposants-20261118",
-            "publishedAt": "2026-11-18T11:03:48.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/18/1047e2a4042db490c47762f014ba06de2358de3eb12f8abaaa4bd6ff645d6c11.jpg",
-          "credit": "Le Figaro",
-          "link": "https://www.lefigaro.fr/bordeaux/lgv-bordeaux-toulouse-le-rapport-alarmant-de-la-cour-des-comptes-donne-du-grain-a-moudre-aux-opposants-20261118"
-        },
-        "i18n": {
-          "en": {
-            "title": "Court of Auditors publishes a critical report on the Bordeaux-Toulouse high-speed rail line",
-            "context": "The financing and opportunity of major transport infrastructure projects are regularly the subject of budgetary debates.",
-            "summary": "The Court of Auditors has issued a public report highlighting the financial risks associated with the high-speed rail project between Bordeaux and Toulouse [23]. The institution recommends prioritizing the renovation of the existing rail network rather than launching new major projects to avoid a budgetary deadlock [23]. This document provides arguments for political and associative opponents of the project [23].",
-            "plain": "A report by the Court of Auditors warns against the cost of the Bordeaux-Toulouse high-speed rail project and advises modernizing current tracks.",
-            "stakes": [
-              "Will the government review the schedule or the continuation of this rail project?",
-              "What financial impacts will these recommendations have on partner local authorities?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "El Tribunal de Cuentas publica un informe crítico sobre la línea de alta velocidad Burdeos-Toulouse",
-            "context": "La financiación y la oportunidad de los grandes proyectos de infraestructuras de transporte son objeto frecuente de debates presupuestarios.",
-            "summary": "El Tribunal de Cuentas ha emitido un informe público en el que destaca los riesgos financieros relacionados con el proyecto de línea de alta velocidad entre Burdeos y Toulouse [23]. La institución recomienda dar prioridad a la renovación de la red ferroviaria existente en lugar de poner en marcha nuevos grandes proyectos para evitar un callejón sin salida presupuestario [23]. Este documento aporta argumentos a los opositores políticos y asociativos del proyecto [23].",
-            "plain": "Un informe del Tribunal de Cuentas advierte sobre el coste del proyecto de línea de alta velocidad Burdeos-Toulouse y aconseja modernizar las vías actuales.",
-            "stakes": [
-              "¿Revisará el gobierno el calendario o el mantenimiento de este proyecto ferroviario?",
-              "¿Qué repercusiones financieras tendrán estas recomendaciones en las autoridades locales asociadas?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s8bd9201cb5",
-        "topic": "culture",
-        "title": "La romancière Jessica L. Nelson lauréate du prix Interallié 2026",
-        "context": "La saison des prix littéraires d'automne récompense chaque année des romans marquants de la rentrée éditoriale française.",
-        "summary": "Le prix Interallié 2026 a été attribué à la romancière Jessica L. Nelson pour son douzième ouvrage intitulé Les Amants du Vercors, publié aux éditions Albin Michel [42]. Cette distinction vient saluer un roman ancré dans l'histoire de la Résistance pendant la Seconde Guerre mondiale [42]. L'annonce de ce prix met en lumière l'ouvrage au sein de la production littéraire actuelle [42].",
-        "plain": "Le prix littéraire Interallié a récompensé Jessica L. Nelson pour son livre Les Amants du Vercors, qui revient sur une période historique en France.",
-        "chart": null,
-        "stakes": [
-          "Quel impact commercial cette distinction aura-t-elle sur les ventes du roman primé ?",
-          "Comment cette œuvre sera-t-elle reçue par la critique littéraire à long terme ?"
-        ],
-        "sources": [
-          {
-            "name": "La Croix",
-            "title": "Prix Interallié 2026 : Jessica L. Nelson lauréate pour « Les Amants du Vercors »",
-            "link": "https://www.la-croix.com/culture/prix-interallie-2026-jessica-l-nelson-laureate-pour-les-amants-du-vercors-20261118",
-            "publishedAt": "2026-11-18T12:43:28.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://i.la-croix.com/x/2026/11/18/2592350-jessica-l-nelson-a-remporte-mercredi-18-novembre-2.jpg",
+          "url": "https://i.la-croix.com/x/2026/11/18/2592898-le-secretaire-d-etat-americain-a-la-defense-pete-h.jpg",
           "credit": "La Croix",
-          "link": "https://www.la-croix.com/culture/prix-interallie-2026-jessica-l-nelson-laureate-pour-les-amants-du-vercors-20261118"
+          "link": "https://www.la-croix.com/international/venezuela-a-caracas-le-chef-du-pentagone-annonce-un-accord-de-cooperation-militaire-20261118"
         },
         "i18n": {
           "en": {
-            "title": "Novelist Jessica L. Nelson wins the 2026 Prix Interallié",
-            "context": "The autumn literary prize season rewards standout novels from the French publishing rentrée each year.",
-            "summary": "The 2026 Prix Interallié has been awarded to novelist Jessica L. Nelson for her twelfth work entitled Les Amants du Vercors, published by Albin Michel [42]. This distinction honors a novel rooted in the history of the Resistance during the Second World War [42]. The announcement of this prize highlights the work within current literary production [42].",
-            "plain": "The Interallié literary prize has rewarded Jessica L. Nelson for her book Les Amants du Vercors, which looks back at a historical period in France.",
+            "title": "New military cooperation agreement between the United States and Venezuela",
+            "context": "Geopolitical relations in Latin America are undergoing profound upheavals following recent interventions and governance changes.",
+            "summary": "The US Secretary of Defense made an unannounced visit to Venezuela to formalize a military partnership with the interim authorities in Caracas. This agreement notably provides for joint training programs and security information sharing, marking a notable evolution in bilateral relations after past tensions between the two states.",
+            "plain": "The United States and Venezuela have signed a military cooperation agreement providing for joint training and information exchange. This move marks an unexpected rapprochement between the two countries.",
             "stakes": [
-              "What commercial impact will this distinction have on the sales of the award-winning novel?",
-              "How will this work be received by literary critics in the long term?"
+              "What will be the regional repercussions of this new security partnership in Latin America?",
+              "How do other governments in the region view this return of American military influence in Caracas?"
             ],
             "chart": null
           },
           "es": {
-            "title": "La novelista Jessica L. Nelson gana el premio Interallié 2026",
-            "context": "La temporada de premios literarios de otoño galardona cada año a las novelas más destacadas de la rentrée editorial francesa.",
-            "summary": "El premio Interallié 2026 ha sido concedido a la novelista Jessica L. Nelson por su décima segunda obra titulada Les Amants du Vercors, publicada por la editorial Albin Michel [42]. Esta distinción reconoce una novela arraigada en la historia de la Resistencia durante la Segunda Guerra Mundial [42]. El anuncio de este galardón pone de relieve la obra dentro de la producción literaria actual [42].",
-            "plain": "El premio literario Interallié ha galardonado a Jessica L. Nelson por su libro Les Amants du Vercors, que repasa un periodo histórico en Francia.",
+            "title": "Nuevo acuerdo de cooperación militar entre Estados Unidos y Venezuela",
+            "context": "Las relaciones geopolíticas en América Latina experimentan profundas transformaciones tras las intervenciones y los recientes cambios de gobernanza.",
+            "summary": "El secretario de Defensa estadounidense realizó una visita no anunciada a Venezuela para oficializar una asociación militar con las autoridades interinas de Caracas. Este acuerdo prevé en particular programas de formación conjunta y el intercambio de información en materia de seguridad, lo que marca una evolución notable en las relaciones bilaterales tras las pasadas tensiones entre ambos Estados.",
+            "plain": "Estados Unidos y Venezuela han firmado un acuerdo de cooperación militar que prevé entrenamientos conjuntos e intercambios de información. Esta medida marca un acercamiento inesperado entre ambos países.",
             "stakes": [
-              "¿Qué impacto comercial tendrá esta distinción en las ventas de la novela galardonada?",
-              "¿Cómo será recibida esta obra por la crítica literaria a largo plazo?"
+              "¿Cuáles serán las repercusiones regionales de esta nueva asociación de seguridad en América Latina?",
+              "¿Cómo acogen los demás gobiernos de la zona este regreso de la influencia militar estadounidense a Caracas?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s730b229c24",
+        "topic": "international",
+        "title": "Des projections démographiques annoncent l'islam comme première religion mondiale d'ici 2035",
+        "context": "L'évolution de la démographie religieuse mondiale fait l'objet d'études statistiques régulières menées par des instituts de recherche internationaux.",
+        "summary": "Selon les dernières données publiées par le centre de recherche Pew Research, l'islam devrait dépasser le christianisme pour devenir la religion comptant le plus d'adeptes à l'horizon 2035. Les projections indiquent également d'importants déplacements géographiques des bassins chrétiens, notamment vers le continent africain, tandis que la population sans religion progresse dans plusieurs régions occidentales.",
+        "plain": "Une étude démographique prévoit que l'islam deviendra la religion la plus pratiquée au monde d'ici 2035. Les équilibres religieux mondiaux s'apprêtent à connaître des transformations notables.",
+        "chart": null,
+        "stakes": [
+          "Quelles conséquences ces évolutions démographiques auront-elles sur les politiques publiques et culturelles à travers le monde ?",
+          "De quelle manière les institutions religieuses s'adaptent-elles à ces mutations de répartition des fidèles ?"
+        ],
+        "sources": [
+          {
+            "name": "Sky News",
+            "title": "Muslims projected to outnumber Christians by 2035 - with majority of people in UK non-religious by 2070",
+            "link": "https://news.sky.com/story/muslims-projected-to-outnumber-christians-by-2035-with-majority-in-uk-non-religious-by-2070-13613731",
+            "publishedAt": "2026-11-18T20:42:00.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "Muslims to outnumber Christians worldwide by 2035, study finds",
+            "link": "https://www.washingtonpost.com/religion/2026/11/18/muslims-outnumber-christians-worlds-largest-religion-by-2035-study-finds/",
+            "publishedAt": "2026-11-18T16:05:46.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
+            "link": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
+            "publishedAt": "2026-11-18T20:37:40.000Z",
+            "lang": "en",
+            "country": "QA"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "Muslims projected to overtake Christians as world’s largest religious group",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss",
+            "publishedAt": "2026-11-18T20:21:34.000Z",
+            "lang": "en",
+            "country": "QA"
+          },
+          {
+            "name": "South China Morning Post",
+            "title": "Islam projected to surpass Christianity as world’s largest religion by 2035",
+            "link": "https://www.scmp.com/news/world/article/3374959/islam-projected-surpass-christianity-worlds-largest-religion-2035",
+            "publishedAt": "2026-11-18T16:01:07.000Z",
+            "lang": "en",
+            "country": "HK"
+          }
+        ],
+        "image": {
+          "url": "https://e3.365dm.com/26/11/1920x1080/skynews-islam-mecca_7409895.jpg?20261118210730",
+          "credit": "Sky News",
+          "link": "https://news.sky.com/story/muslims-projected-to-outnumber-christians-by-2035-with-majority-in-uk-non-religious-by-2070-13613731"
+        },
+        "i18n": {
+          "en": {
+            "title": "Demographic projections announce Islam as the world's leading religion by 2035",
+            "context": "The evolution of global religious demographics is the subject of regular statistical studies conducted by international research institutes.",
+            "summary": "According to the latest data published by the Pew Research center, Islam is expected to surpass Christianity to become the religion with the most followers by 2035. Projections also indicate significant geographical shifts in Christian populations, notably towards the African continent, while the religiously unaffiliated population is growing in several Western regions.",
+            "plain": "A demographic study predicts that Islam will become the world's most practiced religion by 2035. Global religious balances are set to undergo notable transformations.",
+            "stakes": [
+              "What consequences will these demographic developments have on public and cultural policies around the world?",
+              "How are religious institutions adapting to these shifts in the distribution of believers?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Proyecciones demográficas anuncian el islam como primera religión mundial de aquí a 2035",
+            "context": "La evolución de la demografía religiosa mundial es objeto de estudios estadísticos regulares realizados por institutos de investigación internacionales.",
+            "summary": "Según los últimos datos publicados por el centro de investigación Pew Research, se espera que el islam supere al cristianismo para convertirse en la religión con más seguidores de aquí a 2035. Las proyecciones también indican importantes desplazamientos geográficos de las poblaciones cristianas, especialmente hacia el continente africano, mientras que la población sin religión progresa en varias regiones occidentales.",
+            "plain": "Un estudio demográfico prevé que el islam se convertirá en la religión más practicada del mundo de aquí a 2035. Los equilibrios religiosos mundiales se disponen a experimentar transformaciones notables.",
+            "stakes": [
+              "¿Qué consecuencias tendrán estas evoluciones demográficas en las políticas públicas y culturales en todo el mundo?",
+              "¿De qué manera se adaptan las instituciones religiosas a estas mutaciones en la distribución de los fieles?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s5c71b70e00",
+        "topic": "justice",
+        "title": "Une nouvelle plainte vise le joueur de tennis Alexander Zverev",
+        "context": "Les figures majeures du sport international se trouvent parfois confrontées à des procédures judiciaires concernant leur vie privée.",
+        "summary": "Les avocats du joueur de tennis Alexander Zverev ont reçu notification d'une nouvelle plainte déposée par son ancienne compagne, qui conteste les termes et l'exactitude d'un accord amiable conclu précédemment pour solder des accusations de violences. Cette action judiciaire se déroule alors que le sportif dispute des compétitions majeures de fin de saison, relançant la couverture médiatique autour de cette affaire.",
+        "plain": "Le joueur de tennis Alexander Zverev fait l'objet d'une nouvelle plainte de son ex-compagne concernant un accord amiable relatif à une procédure pour coups et blessures.",
+        "chart": null,
+        "stakes": [
+          "Quel est l'impact de ces affaires judiciaires sur la gestion de l'image des instances sportives internationales ?",
+          "Comment les circuits professionnels de tennis traitent-ils les accusations visant leurs joueurs vedettes ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Alexander Zverev visé par une nouvelle plainte de son ex-compagne",
+            "link": "https://www.liberation.fr/sports/tennis/alexander-zverev-vise-par-une-nouvelle-plainte-de-son-ex-compagne-20261118_SD4WV7QDWNFWXF7LV5NAWPFJWE/",
+            "publishedAt": "2026-11-18T21:00:29.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "Tennis. L’ex-compagne d’Alexander Zverev dépose une nouvelle plainte contre le joueur",
+            "link": "https://www.ouest-france.fr/sport/tennis/alexander-zverev/tennis-lex-compagne-dalexander-zverev-depose-une-nouvelle-plainte-contre-le-joueur-da55e7f8-e38b-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-18T20:52:33.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "ABC News (Australie)",
+            "title": "Alexander Zverev officially notified of lawsuit by ex-partner in abuse case",
+            "link": "https://www.abc.net.au/news/2026-11-19/alexander-zverev-officially-notified-of-lawsuit-by-ex-partner/107401880",
+            "publishedAt": "2026-11-18T21:28:30.000Z",
+            "lang": "en",
+            "country": "AU"
+          }
+        ],
+        "image": {
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExYmY3Y2Q0ZjQ0MjQyNGFhMDZmYjg2YWE3YzYzOTE3Nzc?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=6e28722def38c15f75bff995ec081480ed3a4b093626e2f6b01062059f590dcd",
+          "credit": "Ouest-France",
+          "link": "https://www.ouest-france.fr/sport/tennis/alexander-zverev/tennis-lex-compagne-dalexander-zverev-depose-une-nouvelle-plainte-contre-le-joueur-da55e7f8-e38b-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+        },
+        "i18n": {
+          "en": {
+            "title": "New lawsuit targets tennis player Alexander Zverev",
+            "context": "Major figures in international sports sometimes find themselves confronted with legal proceedings concerning their private lives.",
+            "summary": "Lawyers for tennis player Alexander Zverev have received notification of a new lawsuit filed by his former partner, who is challenging the terms and accuracy of a previously concluded settlement agreement to resolve rape accusations. This legal action takes place as the athlete is competing in major end-of-season tournaments, reviving media coverage surrounding the case.",
+            "plain": "Tennis player Alexander Zverev is the subject of a new lawsuit from his ex-partner concerning a settlement agreement related to a domestic violence procedure.",
+            "stakes": [
+              "What is the impact of these legal affairs on the image management of international sports bodies?",
+              "How do professional tennis circuits handle accusations targeting their star players?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Una nueva demanda apunta al tenista Alexander Zverev",
+            "context": "Las principales figuras del deporte internacional se enfrentan a veces a procedimientos judiciales relativos a su vida privada.",
+            "summary": "Los abogados del tenista Alexander Zverev han recibido la notificación de una nueva demanda interpuesta por su antigua pareja, que impugna los términos y la exactitud de un acuerdo extrajudicial concluido anteriormente para zanjar acusaciones de agresiones. Esta acción judicial se produce mientras el deportista disputa competiciones importantes de fin de temporada, lo que reactiva la cobertura mediática en torno a este caso.",
+            "plain": "El tenista Alexander Zverev es objeto de una nueva demanda de su excompañera relativa a un acuerdo extrajudicial sobre un procedimiento por agresiones.",
+            "stakes": [
+              "¿Cuál es el impacto de estos asuntos judiciales en la gestión de la imagen de las instancias deportivas internacionales?",
+              "¿Cómo tratan los circuitos profesionales de tenis las acusaciones dirigidas contra sus jugadores estrella?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sda37e79969",
+        "topic": "international",
+        "title": "L'armée israélienne mène une incursion terrestre dans le centre de la bande de Gaza",
+        "context": "La situation humanitaire et militaire au Proche-Orient reste extrêmement volatile malgré l'existence de différents accords de trêve passés.",
+        "summary": "Des troupes et des blindés israéliens ont franchi la ligne de démarcation pour mener une opération qualifiée de ciblée dans le centre de la bande de Gaza. L'état-major israélien affirme cibler des infrastructures et des tunnels appartenant au Hamas, tandis que les mouvements palestiniens dénoncent une violation flagrante du cessez-le-feu. Cette incursion provoque de nouveaux déplacements de populations civiles dans la région.",
+        "plain": "L'armée israélienne a engagé une opération militaire terrestre dans le centre de Gaza en dépit de la trêve. Les autorités militaires invoquent des raisons de sécurité, ce que conteste le Hamas.",
+        "chart": null,
+        "stakes": [
+          "Cette reprise des opérations terrestres risque-t-elle de faire échouer durablement les processus de négociation ?",
+          "Quelles solutions pour contrer la dégradation de la situation humanitaire des civils déplacés ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Israël lance une opération militaire terrestre à Gaza dans une zone contrôlée par le Hamas, en dépit du cessez-le-feu",
+            "link": "https://www.liberation.fr/international/moyen-orient/israel-lance-une-operation-militaire-terrestre-a-gaza-dans-une-zone-controlee-par-le-hamas-en-depit-du-cessez-le-feu-20261118_PAZCJLTBJNFMHJL7M4KCGEUPBU/",
+            "publishedAt": "2026-11-18T19:01:14.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+            "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-18T22:34:56.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Tagesschau",
+            "title": "Israels Armee startet Einsatz in von Hamas kontrolliertem Gebiet",
+            "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-bodenoffensive-104.html",
+            "publishedAt": "2026-11-18T21:04:52.000Z",
+            "lang": "de",
+            "country": "DE"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
+            "link": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
+            "publishedAt": "2026-11-18T20:29:31.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
+            "link": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
+            "publishedAt": "2026-11-18T20:38:06.000Z",
+            "lang": "en",
+            "country": "QA"
+          },
+          {
+            "name": "Euronews",
+            "title": "Israël lance une \"opération précise\" dans le centre de Gaza malgré le cessez-le-feu",
+            "link": "https://fr.euronews.com/2026/11/18/israel-lance-une-operation-precise-dans-le-centre-de-gaza-malgre-le-cessez-le-feu",
+            "publishedAt": "2026-11-18T18:03:15.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "The Israeli army conducts a ground incursion into the central Gaza Strip",
+            "context": "The humanitarian and military situation in the Middle East remains extremely volatile despite various past truce agreements.",
+            "summary": "Israeli troops and tanks crossed the demarcation line to carry out what is described as a targeted operation in the central Gaza Strip. The Israeli General Staff claims to be targeting infrastructure and tunnels belonging to Hamas, while Palestinian movements denounce a flagrant violation of the ceasefire. This incursion is causing new displacements of civilian populations in the region.",
+            "plain": "The Israeli army has launched a ground military operation in central Gaza despite the truce. Military authorities cite security reasons, which Hamas disputes.",
+            "stakes": [
+              "Is this resumption of ground operations likely to permanently derail the negotiation processes?",
+              "What solutions are there to counter the deterioration of the humanitarian situation of displaced civilians?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "El ejército israelí lleva a cabo una incursión terrestre en el centro de la Franja de Gaza",
+            "context": "La situación humanitaria y militar en Oriente Próximo sigue siendo extremadamente volátil a pesar de los diversos acuerdos de tregua pasados.",
+            "summary": "Tropas y blindados israelíes cruzaron la línea de demarcación para llevar a cabo una operación calificada de selectiva en el centro de la Franja de Gaza. El Estado Mayor israelí afirma que su objetivo son infraestructuras y túneles pertenecientes a Hamás, mientras que los movimientos palestinos denuncian una flagrante violación del alto el fuego. Esta incursión está provocando nuevos desplazamientos de poblaciones civiles en la región.",
+            "plain": "El ejército israelí ha emprendido una operación militar terrestre en el centro de Gaza a pesar de la tregua. Las autoridades militares invocan razones de seguridad, lo cual es impugnado por Hamás.",
+            "stakes": [
+              "¿Corre el riesgo esta reanudación de las operaciones terrestres de hacer fracasar permanentemente los procesos de negociación?",
+              "¿Qué soluciones existen para contrarrestar el empeoramiento de la situación humanitaria de los civiles desplazados?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s7e4ee98625",
+        "topic": "economie",
+        "title": "Une enquête vise Deutsche Bank après une fuite massive de données financières",
+        "context": "Les institutions bancaires internationales sont soumises à de strictes réglementations concernant la protection des données et le contrôle des transactions financières.",
+        "summary": "Un régulateur allemand de la protection des données a ouvert une investigation à l'encontre de Deutsche Bank à la suite d'une fuite de millions de dossiers. Cet incident relance les interrogations sur la sécurité informatique de l'établissement, qui fait par ailleurs l'objet de vérifications concernant ses liens historiques avec des flux financiers liés à des oligarques.",
+        "plain": "La banque allemande Deutsche Bank fait l'objet d'une enquête officielle après la fuite d'un volume considérable de données informatiques. Cette affaire fragilise la réputation de l'établissement.",
+        "chart": null,
+        "stakes": [
+          "Quels risques encourent les grandes banques en cas de défaillance avérée de leur sécurité informatique ?",
+          "Comment les autorités de régulation financière peuvent-elles garantir l'étanchéité des données bancaires confidentielles ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "La banque hongroise qui avait prêté à Marine Le Pen en 2022 mise en cause pour blanchiment d’argent russe",
+            "link": "https://www.liberation.fr/international/europe/la-banque-hongroise-qui-avait-prete-a-marine-le-pen-en-2022-mise-en-cause-pour-blanchiment-dargent-russe-20261118_56NXO6CTCFGSFGH7SXP27QPUCQ/",
+            "publishedAt": "2026-11-18T21:15:22.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "L'Express",
+            "title": "Deutsche Bank : les secrets d’une relation privilégiée avec les oligarques russes",
+            "link": "https://www.lexpress.fr/monde/europe/deutsche-bank-les-secrets-dune-relation-privilegiee-avec-les-oligarques-russes-4T3TGCFMZBB6PHAMBP56XL6ZQM/",
+            "publishedAt": "2026-11-18T16:59:28.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Der Spiegel",
+            "title": "Internal Documents: How Donald Trump Became a Toxic Client for Deutsche Bank",
+            "link": "https://www.spiegel.de/international/business/internal-documents-how-donald-trump-became-a-toxic-client-for-deutsche-bank-a-ce301689-7536-471b-b84e-6324ec4edd9f#ref=rss",
+            "publishedAt": "2026-11-18T16:07:00.000Z",
+            "lang": "en",
+            "country": "DE"
+          },
+          {
+            "name": "Der Spiegel",
+            "title": "The Bank and the Oligarchs: How Deutsche Bank Continued Expanding in Russia Despite the Warning Signs",
+            "link": "https://www.spiegel.de/international/business/the-bank-and-the-oligarchs-how-deutsche-bank-continued-expanding-in-russia-despite-the-warning-signs-a-668c08a5-0383-4d66-86b5-671b3c348774#ref=rss",
+            "publishedAt": "2026-11-18T11:34:00.000Z",
+            "lang": "en",
+            "country": "DE"
+          },
+          {
+            "name": "Euronews",
+            "title": "Fuite de 15 millions de dossiers: le régulateur des données enquête sur Deutsche Bank",
+            "link": "https://fr.euronews.com/2026/11/18/fuite-de-15-millions-de-dossiers-le-regulateur-des-donnees-enquete-sur-deutsche-bank",
+            "publishedAt": "2026-11-18T21:45:14.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.lexpress.fr/resizer/v2/UC4PIQ5I55FMTH6FJGTRIT7QTY.JPG?auth=c6e88d6ef4101de26decd0edf4b1a5b43b089955ceffc249bded607db9092362&smart=true&width=7502&height=4716",
+          "credit": "L'Express",
+          "link": "https://www.lexpress.fr/monde/europe/deutsche-bank-les-secrets-dune-relation-privilegiee-avec-les-oligarques-russes-4T3TGCFMZBB6PHAMBP56XL6ZQM/"
+        },
+        "i18n": {
+          "en": {
+            "title": "Deutsche Bank targeted by investigation following massive financial data leak",
+            "context": "International banking institutions are subject to strict regulations regarding data protection and financial transaction control.",
+            "summary": "A German data protection regulator has opened an investigation against Deutsche Bank following the leak of millions of records. This incident raises renewed questions about the institution's IT security, which is also under review regarding its historical ties to financial flows linked to oligarchs.",
+            "plain": "German bank Deutsche Bank is facing an official investigation after a massive volume of computer data leaked. This affair undermines the institution's reputation.",
+            "stakes": [
+              "What risks do major banks face in the event of proven failures in their IT security?",
+              "How can financial regulatory authorities guarantee the confidentiality of sensitive banking data?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Deutsche Bank es objeto de una investigación tras una filtración masiva de datos financieros",
+            "context": "Las instituciones bancarias internacionales están sujetas a estrictas normativas en materia de protección de datos y control de transacciones financieras.",
+            "summary": "Un regulador alemán de protección de datos ha abierto una investigación contra Deutsche Bank tras la filtración de millones de expedientes. Este incidente reaviva los interrogantes sobre la seguridad informática de la entidad, que también está siendo objeto de verificaciones en relación con sus vínculos históricos con flujos financieros vinculados a oligarcas.",
+            "plain": "El banco alemán Deutsche Bank es objeto de una investigación oficial tras la filtración de un volumen considerable de datos informáticos. Este caso debilita la reputación de la entidad.",
+            "stakes": [
+              "¿A qué riesgos se exponen los grandes bancos en caso de fallos probados en su seguridad informática?",
+              "¿Cómo pueden las autoridades de regulación financiera garantizar la confidencialidad de los datos bancarios sensibles?"
             ],
             "chart": null
           }
@@ -1253,130 +1529,166 @@
       }
     ]
   },
-  "storiesAt": "2026-11-18T18:32:23.556Z",
+  "storiesAt": "2026-11-18T22:49:37.939Z",
   "inputHash": null,
   "synthStatus": "partielle",
   "news": {
     "france": [
       {
-        "id": "a73de57a52e",
-        "title": "Le projet de budget 2027 de la Sécurité sociale adopté en première lecture au Sénat",
-        "link": "https://www.la-croix.com/economie/le-projet-de-budget-2027-de-la-securite-sociale-adopte-en-premiere-lecture-au-senat-20261118",
-        "summary": "Rétablissement de la réforme des retraites, déficit, allégements pour les entreprises… Le Sénat a adopté mercredi 18 novembre un projet de loi de financement de la Sécurité sociale pour 2027 en modifiant des mesures gouvernementales. La commission mixte paritaire s’annonce décisive.",
-        "image": "https://i.la-croix.com/x/2026/11/18/2592842-le-senat-a-adopte-mercredi-18-novembre-2026-un-pro.jpeg",
-        "publishedAt": "2026-11-18T18:16:00.000Z",
-        "source": "La Croix",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 0.5
-      },
-      {
-        "id": "ae771369427",
-        "title": "Manifestations : jugé à Angers, « Batman » devra faire un stage de citoyenneté, « inacceptable » dénonce une avocate",
-        "link": "https://www.ouest-france.fr/societe/justice/manifestations-juge-a-angers-batman-devra-faire-un-stage-de-citoyennete-inacceptable-denonce-une-avocate-50619258-e369-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-        "summary": "Deux jeunes hommes de 18 et 23 ans, dont l’un était déguisé en Batman, ont été jugés ce mercredi 18 novembre à Angers pour leur participation à la manifestation interdite du 14 novembre, qui avait rassemblé 2 500 personnes.",
-        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExOTU2YTE4OWQ4NzEwNmRjNjA3MDNlODIwYWZmYTJjNGU?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=ac368cba22945fa4293693678ea03b5b8e8a8d4aa979d18518b4a8215b03d039",
-        "publishedAt": "2026-11-18T18:12:31.000Z",
+        "id": "a30ad10b164",
+        "title": "Trains de nuit : l’État va louer 27 locomotives neuves et rénover 180 voitures Corail",
+        "link": "https://www.ouest-france.fr/economie/transports/train/trains-de-nuit-letat-va-louer-27-locomotives-neuves-et-renover-180-voitures-corail-155309a0-e39e-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Pour relancer les trains de nuit, l’État a choisi de louer 27 locomotives neuves qui entreront en service à partir de 2030 et de rénover 180 anciennes voitures Corail de la SNCF. Un choix jugé « inquiétant » par le Réseau Action Climat, qui craint qu’il ne freine le développement de nouvelles lignes",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExMWVhODBjNzE5Y2VlMmMyZGJkMGM1OTVlMTBhODJjMjg?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=4634d5520096aebedf3d6c97e30732691e50a0e8b7f89dbe467f2be789704f20",
+        "publishedAt": "2026-11-18T22:40:05.000Z",
         "source": "Ouest-France",
         "lang": "fr",
         "country": "FR",
         "lean": 0
       },
       {
-        "id": "a57816d34bf",
-        "title": "Procès de Michel Zecler : les policiers reconnaissent un « PV faux de A à Z » et des « mensonges »",
-        "link": "https://www.humanite.fr/societe/justice/proces-de-michel-zecler-les-policiers-reconnaissent-un-pv-faux-de-a-a-z-et-des-mensonges",
-        "summary": "Le procès-verbal qui accusait Michel Zecler d’avoir frappé les policiers et tenté de se saisir d’une arme de service pendant son interpellation, est « faux de A à Z », a reconnu ce mercredi 18 novembre 2026 l’un des policiers accusés.",
-        "image": "https://www.humanite.fr/wp-content/uploads/2026/11/HL_JJAULIN_3392946.jpg?w=1200",
-        "publishedAt": "2026-11-18T18:10:51.000Z",
-        "source": "L'Humanité",
+        "id": "a2124cd94fc",
+        "title": "Présidentielle 2027 : Marine Tondelier se dit «prête» à travailler à une «coalition autour de la candidature» de Jean-Luc Mélenchon",
+        "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-marine-tondelier-se-dit-prete-a-travailler-a-une-coalition-autour-de-la-candidature-de-jean-luc-melenchon-20261118",
+        "summary": "«Si les Insoumis ont la volonté d’ouvrir un travail de coalition, de travailler à une majorité présidentielle où chacun pourrait trouver sa place, alors il y a un chemin possible», a ajouté la patronne des Écologistes sur France 2.",
+        "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/18/ba16b7b0b065f40ee1c53df8048fa91154e041f8d0810c4d9f65a5061f8f506f.jpg",
+        "publishedAt": "2026-11-18T22:19:42.000Z",
+        "source": "Le Figaro",
         "lang": "fr",
         "country": "FR",
-        "lean": -2
+        "lean": 1.5
       },
       {
-        "id": "a70cb20fcba",
-        "title": "Non à la loi qui donne un «permis de tuer» aux forces de l’ordre",
-        "link": "https://www.liberation.fr/idees-et-debats/tribunes/non-a-la-loi-qui-donne-un-permis-de-tuer-aux-forces-de-lordre-20261118_LYB6775ZLNDVJMBQUDESCI7JOY/",
-        "summary": "Pour la sénatrice Mélanie Vogel et la députée Cyrielle Chatelain du groupe Ecologiste, la proposition de loi qui consiste à reconnaître une présomption de légitime défense aux policiers quand ils tirent se situe non seulement en dehors du pacte républicain, mais engendrerait inévitablement plus de m",
+        "id": "afbfa49e763",
+        "title": "Une vingtaine de degrés toute l'année, sans dépasser 26 : un nouvel immeuble à Lyon défit les saisons et permet de garder le chauffage et la climatisation éteints",
+        "link": "https://www.franceinfo.fr/environnement/une-vingtaine-de-degres-toute-l-annee-sans-depasser-26-un-nouvel-immeuble-a-lyon-defit-les-saisons-et-permet-de-garder-le-chauffage-et-la-climatisation-eteints_8289011.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Et si votre simple présence pouvait aider à chauffer votre appartement ? Reportage à Lyon (Rhône), dans un immeuble inauguré mardi. En hiver, il conserve la chaleur des habitants, des appareils électriques et du soleil. Le promoteur promet entre 20 et 26 degrés toute l’année, sans avoir à allumer le",
+        "image": "https://www.franceinfo.fr/pictures/srTS9rdv63VMPSwiaNkyLwsfOhs/146x0:1330x666/432x243/filters:format(jpg)/2026/11/18/6afe1eda6995e142438716.jpg",
+        "publishedAt": "2026-11-18T21:55:46.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "a2c80f21417",
+        "title": "Véhicules électriques : des cars d’Indre-et-Loire passent au vert",
+        "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/vehicules-electriques-des-cars-d-indre-et-loire-passent-au-vert_8289005.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Comment se passer de gazole sur nos routes ? En Indre-et-Loire, élèves et usagers circulent dans le même car qu’avant sauf que désormais, il roule à l’électricité. On a gardé la carrosserie et les sièges, remplacé le moteur diesel et installé des batteries. À l’arrivée, une facture moitié moins élev",
+        "image": "https://www.franceinfo.fr/pictures/gwu8cJa_MIraLm8eH2FaRUEsbGk/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/18/6afe1a8f54459942703496.jpg",
+        "publishedAt": "2026-11-18T21:43:10.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "a306292b493",
+        "title": "Anthropic valorisé 1 400 milliards de dollars à Wall Street : qui va toucher le jackpot ?",
+        "link": "https://www.lefigaro.fr/secteur/high-tech/anthropic-valorise-1-400-milliards-de-dollars-a-wall-street-qui-va-toucher-le-jackpot-20261118",
+        "summary": "DÉCRYPTAGE - L’introduction en Bourse de la société va générer des richesses considérables pour les investisseurs présents à son capital. Mais ce pactole n’arrivera pas directement sur le compte des actionnaires.",
+        "image": "https://i.f1g.fr/media/cms/2925x1645_crop/2026/11/18/09c8e33ce55de52d66ca27da341cd0224af415718bdd87354580192f65f3c37d.jpg",
+        "publishedAt": "2026-11-18T21:40:55.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "ac237428d07",
+        "title": "Venezuela : à Caracas, le chef du Pentagone annonce un accord de coopération militaire",
+        "link": "https://www.la-croix.com/international/venezuela-a-caracas-le-chef-du-pentagone-annonce-un-accord-de-cooperation-militaire-20261118",
+        "summary": "Le secrétaire d’Etat américain Pete Hegseth a effectué mercredi 18 novembre une visite surprise dans la capitale du Venezuela, où il a annoncé avec la présidente par intérim Delcy Rodriguez un accord de coopération militaire entre Washington et Caracas.",
+        "image": "https://i.la-croix.com/x/2026/11/18/2592898-le-secretaire-d-etat-americain-a-la-defense-pete-h.jpg",
+        "publishedAt": "2026-11-18T21:30:16.000Z",
+        "source": "La Croix",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0.5
+      },
+      {
+        "id": "a1ddbde333e",
+        "title": "«Kôgun, Histoire de l’armée japonaise, 1853-1948» de Franck Michelin : quand les militaires dictaient leur loi",
+        "link": "https://www.liberation.fr/culture/livres/kogun-histoire-de-larmee-japonaise-1853-1948-de-franck-michelin-quand-les-militaires-dictaient-leur-loi-20261118_5TPDMHE7URD7LJGI3NFVCHWOTU/",
+        "summary": "A travers un siècle d’histoire de l’armée nippone, l’historien montre combien celle-ci s’est avérée belliciste envers la Chine et l’Amérique, jusqu’à sa défaite accablante en 1945.",
         "image": null,
-        "publishedAt": "2026-11-18T18:09:57.000Z",
+        "publishedAt": "2026-11-18T21:27:00.000Z",
         "source": "Libération",
         "lang": "fr",
         "country": "FR",
         "lean": -1.5
       },
       {
-        "id": "aa32a8b9699",
-        "title": "Le rejet du statut de lanceuse d’alerte de l’ex-directrice nationale du régime de garantie des salaires annulé par la Cour de cassation",
-        "link": "https://www.lemonde.fr/politique/article/2026/11/18/le-rejet-du-statut-de-lanceuse-d-alerte-de-l-ex-directrice-nationale-du-regime-de-garantie-des-salaires-annule-par-la-cour-de-cassation_6813189_823448.html",
-        "summary": "La haute juridiction a annulé, le 10 novembre, une décision de la cour d’appel de Paris qui avait rejeté la demande de Houria Aouimeur de se voir reconnaître le statut de lanceuse d’alerte. L’affaire, qui va être rejugée, constitue un des volets du scandale des entreprises en faillite.",
-        "image": "https://img.lemde.fr/2026/11/18/1432/0/5504/2752/644/322/60/0/dfe425a_upload-1-6roqpfmojyge-abaca-855938-002.jpg",
-        "publishedAt": "2026-11-18T18:09:25.000Z",
-        "source": "Le Monde",
+        "id": "a7e4ee98625",
+        "title": "La banque hongroise qui avait prêté à Marine Le Pen en 2022 mise en cause pour blanchiment d’argent russe",
+        "link": "https://www.liberation.fr/international/europe/la-banque-hongroise-qui-avait-prete-a-marine-le-pen-en-2022-mise-en-cause-pour-blanchiment-dargent-russe-20261118_56NXO6CTCFGSFGH7SXP27QPUCQ/",
+        "summary": "D’après la fuite de données chez Deutsche Bank révélée mardi, un réseau proche d’un oligarque a fait transiter par le passé des fonds par la banque MKB. L’établissement a par la suite prêté 10 millions d’euros à la candidate du RN pour la précédente campagne présidentielle.",
+        "image": null,
+        "publishedAt": "2026-11-18T21:15:22.000Z",
+        "source": "Libération",
         "lang": "fr",
         "country": "FR",
-        "lean": -1
+        "lean": -1.5
       },
       {
-        "id": "a10e69b05de",
-        "title": "Présidentielle 2027 : « Ordre et Progrès », pour relancer sa campagne, Édouard Philippe s’essaie au positivisme",
-        "link": "https://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-ordre-et-progres-pour-relancer-sa-campagne-edouard-philippe-sessaie-au-positivisme",
-        "summary": "Que fallait-il retenir de cette conférence de presse, convoquée ce 18 novembre, à onze heures, par Édouard Philippe sous la verrière Belle Époque de l’Albert School, dans le dixième arrondissement... L’article Présidentielle 2027 : « Ordre et Progrès », pour relancer sa campagne, Édouard Philippe s’",
+        "id": "a128d381611",
+        "title": "Jean-Baptiste Nouailhac : « Chefs d’établissement, les derniers adultes dans la pièce »",
+        "link": "https://www.valeursactuelles.com/clubvaleurs/societe/jean-baptiste-nouailhac-chefs-detablissement-les-derniers-adultes-dans-la-piece",
+        "summary": "Depuis une dizaine d’années, nous nous étions habitués, à chaque manifestation, à supporter le triste décompte des policiers blessés. Désormais ce sont les membres du personnel de l’Education nationale victimes... L’article Jean-Baptiste Nouailhac : « Chefs d’établissement, les derniers adultes dans",
         "image": null,
-        "publishedAt": "2026-11-18T18:00:30.000Z",
+        "publishedAt": "2026-11-18T21:01:53.000Z",
         "source": "Valeurs actuelles",
         "lang": "fr",
         "country": "FR",
         "lean": 2
       },
       {
-        "id": "aec4c23cdb6",
-        "title": "Danemark : pour la première fois, la cheffe du gouvernement, Mette Frederiksen, parle du « grand remplacement »",
-        "link": "https://www.lemonde.fr/international/article/2026/11/18/danemark-pour-la-premiere-fois-la-cheffe-du-gouvernement-mette-frederiksen-parle-du-grand-remplacement_6813184_3210.html",
-        "summary": "Dans un podcast, mardi 17 novembre, la responsable sociale-démocrate a évoqué la théorie complotiste, se livrant à une nouvelle surenchère dans le domaine de l’immigration. Ses propos ont été salués par l’extrême droite européenne.",
-        "image": "https://img.lemde.fr/2026/11/16/405/0/4864/2432/644/322/60/0/d668e44_ftp-1-e136ik95rjen-2026-11-16t154235z-407822163-rc23poajuozr-rtrmadp-3-europe-migration-rwanda.JPG",
-        "publishedAt": "2026-11-18T18:00:06.000Z",
+        "id": "acf24781e35",
+        "title": "Cisjordanie : la colonisation israélienne enfin reconnue comme une persécution ?",
+        "link": "https://www.humanite.fr/monde/cisjordanie/cisjordanie-la-colonisation-israelienne-enfin-reconnue-comme-une-persecution",
+        "summary": "Réunie en formation solennelle, la Cour nationale du droit d’asile examine, jeudi 19 novembre matin à Montreuil, le recours d’un Palestinien de Cisjordanie. En filigrane, c’est toute la question de la colonisation et de ses conséquences qui est posée.",
+        "image": "https://www.humanite.fr/wp-content/uploads/2026/11/p15-CNDA_JEU.jpg?w=1200",
+        "publishedAt": "2026-11-18T20:45:00.000Z",
+        "source": "L'Humanité",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -2
+      },
+      {
+        "id": "a9d18dd79aa",
+        "title": "Les grands patrons entre séduction et effroi : le récit d’un dîner mémorable avec Jean-Luc Mélenchon",
+        "link": "https://www.lemonde.fr/economie/article/2026/11/18/les-grands-patrons-entre-seduction-et-effroi-le-recit-d-un-diner-memorable-avec-jean-luc-melenchon_6813208_3234.html",
+        "summary": "Le leader de La France insoumise a débattu deux heures durant, mardi 17 novembre, avec une douzaine de ténors du CAC 40. L’occasion de mettre en avant son projet d’économie collectiviste et son patriotisme.",
+        "image": "https://img.lemde.fr/2026/11/13/258/0/6000/3000/644/322/60/0/6bc80a1_upload-1-ykovpx6qoyup-cbi1356143.jpg",
+        "publishedAt": "2026-11-18T20:24:02.000Z",
         "source": "Le Monde",
         "lang": "fr",
         "country": "FR",
         "lean": -1
       },
       {
-        "id": "a755260279b",
-        "title": "Les salaires subissent-ils leur baisse la plus durable «depuis la Seconde Guerre mondiale», comme l’affirme Sophie Binet ?",
-        "link": "https://www.lefigaro.fr/social/les-salaires-subissent-ils-leur-baisse-la-plus-durable-depuis-la-seconde-guerre-mondiale-comme-l-affirme-sophie-binet-20261118",
-        "summary": "LA VÉRIF’ - Pour la numéro un de la CGT, la colère sociale actuelle est le fruit d’une baisse des rémunérations inédite en France. Le salaire moyen serait toujours inférieur à son niveau de 2021, selon la syndicaliste.",
-        "image": "https://i.f1g.fr/media/cms/3000x2005_crop/2026/11/18/8559f38b1e1e6fea6a30a62fe2f8cb970de43f03679077696d95e7460bcfcd42.jpg",
-        "publishedAt": "2026-11-18T18:00:00.000Z",
-        "source": "Le Figaro",
+        "id": "a696ac49e97",
+        "title": "Guerre en Ukraine : la Commission européenne met sur la table un nouvel emprunt européen pour financer l’aide à Kiev",
+        "link": "https://www.lemonde.fr/international/article/2026/11/18/guerre-en-ukraine-la-commission-europeenne-met-sur-la-table-un-nouvel-emprunt-europeen-pour-financer-l-aide-a-kiev_6813206_3210.html",
+        "summary": "Après avoir fait à l’Ukraine un prêt de 90 milliards d’euros pour 2026 et 2027, l’exécutif communautaire prévoit de lui consacrer une nouvelle enveloppe de 45 milliards d’euros l’an prochain.",
+        "image": "https://img.lemde.fr/2026/11/16/458/0/5500/2750/644/322/60/0/0e2c329_ftp-1-sg7c6ekpveej-2026-11-16t134931z-2145001215-rc2yooamsqwb-rtrmadp-3-eu-enlargement.JPG",
+        "publishedAt": "2026-11-18T20:12:23.000Z",
+        "source": "Le Monde",
         "lang": "fr",
         "country": "FR",
-        "lean": 1.5
+        "lean": -1
       },
       {
-        "id": "a68037a9481",
-        "title": "Vente flash : profitez de 36 % de réduction sur le fer à lisser ghd Original",
-        "link": "https://www.lefigaro.fr/bons-plans/beaute/vente-flash-profitez-de-36-de-reduction-sur-le-fer-a-lisser-ghd-original-20261118",
-        "summary": "Obtenir un coiffage digne d’un salon professionnel chez soi, sans agresser sa chevelure ? Vous en rêviez, le lisseur ghd Original l’a fait ! Conçu pour chaque type de texture, cet appareil de légende sublime vos cheveux tout en leur redonnant l’éclat qu’ils méritent.",
-        "image": "https://i.f1g.fr/media/cms/1200x800_crop/2026/11/13/a6c156811ad519e246c211231ad33e3f1192243751731a4246644cb33151ce2a.jpg",
-        "publishedAt": "2026-11-18T17:56:00.000Z",
-        "source": "Le Figaro",
+        "id": "af325276478",
+        "title": "Classement sans suite de l'enquête contre SOS Chrétiens d’Orient : «Les manœuvres de persécution de Mediapart ont échoué»",
+        "link": "https://www.lejdd.fr/Societe/non-lieu-en-faveur-de-sos-chretiens-dorient-les-manoeuvres-de-persecution-de-mediapart-ont-echoue-salue-le-president-de-lassociation-189087",
+        "summary": "Le parquet national antiterroriste a classé sans suite l'enquête préliminaire visant SOS Chrétiens d'Orient pour complicité de crimes de guerre, ouverte à la suite de la publication d'une série d'articles de Mediapart en 2020. Charles de Meyer, président de l'association, réagit auprès du JDD.",
+        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/18/17/whatsapp-image-2026-11-18-at-16.16.23.jpeg?VersionId=hjVcpHZBa3P8oG.hBhsvjrmY8MTRPEh5",
+        "publishedAt": "2026-11-18T18:24:13.000Z",
+        "source": "Le JDD",
         "lang": "fr",
         "country": "FR",
-        "lean": 1.5
-      },
-      {
-        "id": "a77ef1511c9",
-        "title": "«C’était courtois, ils se sont bien marrés et c’était intéressant» : récit du dîner entre Jean-Luc Mélenchon et les grands patrons",
-        "link": "https://www.liberation.fr/politique/cetait-courtois-ils-se-sont-bien-marres-et-cetait-interessant-recit-du-diner-entre-jean-luc-melenchon-et-les-grands-patrons-20261118_DV4MCKQXPFB3ZLNZGPC4MJ3QUU/",
-        "summary": "Initialement prévue au prestigieux restaurant Drouant, la rencontre entre le candidat insoumis et 13 hauts dirigeants comme Bernard Arnault ou Patrick Pouyanné, s’est finalement tenue mardi 17 novembre dans un lieu discret du VIIIe arrondissement de Paris.",
-        "image": null,
-        "publishedAt": "2026-11-18T17:51:48.000Z",
-        "source": "Libération",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1.5
+        "lean": 2
       },
       {
         "id": "aa777154809",
@@ -1389,80 +1701,56 @@
         "lang": "fr",
         "country": "FR",
         "lean": 1
-      },
-      {
-        "id": "ae4368aac6a",
-        "title": "Horreur lors d'un home-jacking en Belgique : un père de famille torturé, son nourrisson de cinq mois enlevé",
-        "link": "https://www.lejdd.fr/Societe/horreur-lors-dun-home-jacking-en-belgique-un-pere-de-famille-torture-son-nourrisson-de-cinq-mois-enleve-189099",
-        "summary": "Un couple de jeunes parents a été torturé à son domicile en Belgique par des hommes qui cherchaient à accéder aux cryptomonnaies du père.",
-        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/18/17/080_hl_bohier_2997732.jpg?VersionId=GY4NmCMPxNPdRvLTaXf4gppcCexu.rMu",
-        "publishedAt": "2026-11-18T16:58:32.000Z",
-        "source": "Le JDD",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 2
-      },
-      {
-        "id": "a2e741eb9ef",
-        "title": "Le meilleur fromage du monde est un comté Juraflore 24 mois : les clients qui l'ont goûté approuvent ce choix",
-        "link": "https://www.franceinfo.fr/culture/cuisine-et-gastronomie/le-meilleur-fromage-du-monde-est-un-comte-juraflore-24-mois-les-clients-qui-l-ont-goute-approuvent-ce-choix_8288546.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "Savez-vous quel est le meilleur fromage du monde ? Il s'agit du comté Juraflore, qui vient d'être élu numéro un parmi plus de 5 000 fromages d'une quarantaine de pays. C'est un comté de 24 mois maturé dans les caves d'un ancien fort militaire dans la commune des Rousses, à la frontière avec la Suiss",
-        "image": "https://www.franceinfo.fr/pictures/0rvmbI27BtC7kXN79mV_ZmgjRvk/0x69:993x628/432x243/filters:format(jpg)/2026/11/18/6afdca5f2fcff293897519.jpg",
-        "publishedAt": "2026-11-18T16:50:03.000Z",
-        "source": "franceinfo",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 0
-      },
-      {
-        "id": "ad0f3d08a68",
-        "title": "\"Cela vaut mille Légions d'honneur\" : une école prend le nom d'une rescapée du Vél' d'Hiv",
-        "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/cela-vaut-mille-legions-d-honneur-une-ecole-prend-le-nom-d-une-rescapee-du-vel-d-hiv_8288483.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "À Bergerac, en Dordogne, une rescapée de la déportation, Irène Sapir, 89 ans, s’est retrouvée malgré elle au cœur d’une polémique. Des élus RN ont en effet refusé qu’une école porte son nom car elle était militante communiste. Après délibération, l’établissement porte bien son nom.",
-        "image": "https://www.franceinfo.fr/pictures/sgjy1XPjGvcIP5dTNjRwO4oanV4/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/18/6afdc4a1da990941056541.jpg",
-        "publishedAt": "2026-11-18T16:43:37.000Z",
-        "source": "franceinfo",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 0
       }
     ],
     "monde": [
       {
-        "id": "a216c8d5b0a",
-        "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-        "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-        "summary": "Donnerstag breiten sich teilweise kräftige Regenfälle aus der Südwesthälfte in den Norden und Osten aus. Dahinter locket es auf und es folgen Schauer. Dabei ist es windig bis stürmisch. 4 bis 14 Grad.",
-        "image": "https://images.tagesschau.de/image/e7904a01-0786-494a-996d-b1dfd43b3049/AAABoe_Y3aI/AAABnSSvrFg/16x9-big/teaserbild-124.jpg?width=1920",
-        "publishedAt": "2026-11-18T18:14:51.000Z",
+        "id": "ac3261a1d08",
+        "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+        "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+        "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
+        "publishedAt": "2026-11-18T22:34:56.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      },
+      {
+        "id": "adaff9752e5",
+        "title": "tagesthemen",
+        "link": "https://www.tagesschau.de/tagesthemen/tt-12992.html",
+        "summary": "tagesthemen",
+        "image": null,
+        "publishedAt": "2026-11-18T22:16:34.000Z",
         "source": "Tagesschau",
         "lang": "de",
         "country": "DE",
         "lean": 0
       },
       {
-        "id": "a6addfade59",
-        "title": "Cheese, pet passports and youth mobility: what’s in the UK-EU ‘relationship reset’ draft?",
-        "link": "https://www.theguardian.com/politics/2026/nov/18/uk-eu-relationship-reset-draft-explainer",
-        "summary": "Leaked text of 72-paragraph second draft shows agreement has largely been reached before expected signoff on Friday The UK-EU “relationship reset” agreement, which began in earnest under Keir Starmer, is expected to be signed off by Andy Burnham in Brussels on Friday. A leaked text of the second dra",
-        "image": "https://i.guim.co.uk/img/media/25aedc768a726dfcb833778bfe46c3e276384b86/960_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=f5c40a40536329ad664a49b859e40d34",
-        "publishedAt": "2026-11-18T17:56:39.000Z",
+        "id": "a178f94915f",
+        "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+        "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+        "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries. CNN r",
+        "image": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=140&quality=85&auto=format&fit=max&s=d55919554ad283a6dea6af077192b393",
+        "publishedAt": "2026-11-18T22:11:06.000Z",
         "source": "The Guardian",
         "lang": "en",
         "country": "GB",
         "lean": -1.5
       },
       {
-        "id": "abd5806ebe2",
-        "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
-        "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-        "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg",
-        "publishedAt": "2026-11-18T17:51:47.000Z",
-        "source": "BBC News",
+        "id": "a730b229c24",
+        "title": "Muslims projected to outnumber Christians by 2035 - with majority of people in UK non-religious by 2070",
+        "link": "https://news.sky.com/story/muslims-projected-to-outnumber-christians-by-2035-with-majority-in-uk-non-religious-by-2070-13613731",
+        "summary": "Islam is expected to surpass Christianity as the world's largest religion by 2035, according to detailed projections released on Wednesday.",
+        "image": "https://e3.365dm.com/26/11/1920x1080/skynews-islam-mecca_7409895.jpg?20261118210730",
+        "publishedAt": "2026-11-18T20:42:00.000Z",
+        "source": "Sky News",
         "lang": "en",
         "country": "GB",
-        "lean": 0
+        "lean": 0.5
       },
       {
         "id": "aa4c7a879cd",
@@ -1511,18 +1799,6 @@
         "lang": "en",
         "country": "DE",
         "lean": 0
-      },
-      {
-        "id": "ae4d56a6c57",
-        "title": "US loses measles-free status amid worst outbreak in 35 years",
-        "link": "https://news.sky.com/story/us-loses-measles-free-status-amid-worst-outbreak-in-35-years-13613526",
-        "summary": "The US has lost its measles-free status after 26 years - for failing to prevent the virus spreading for more than a year.",
-        "image": "https://e3.365dm.com/26/11/1920x1080/skynews-measles-testing-texas_7409438.jpg?20261118105509",
-        "publishedAt": "2026-11-18T10:42:00.000Z",
-        "source": "Sky News",
-        "lang": "en",
-        "country": "GB",
-        "lean": 0.5
       }
     ]
   },
@@ -1627,7 +1903,7 @@
       "name": "Sky News (GB)",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 5
+      "count": 7
     },
     {
       "name": "Deutsche Welle (DE)",
@@ -1705,7 +1981,7 @@
       "name": "Daily Sabah (TR)",
       "url": "https://www.dailysabah.com/rssFeed/10",
       "ok": true,
-      "count": 5
+      "count": 4
     },
     {
       "name": "The Times of India (IN)",
