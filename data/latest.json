@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-11-18",
-  "generatedAt": "2026-11-18T13:22:36.330Z",
+  "generatedAt": "2026-11-18T18:32:25.039Z",
   "status": "partielle",
   "stories": {
     "france": [
@@ -860,23 +860,107 @@
     ],
     "monde": [
       {
-        "id": "sf9f925b05b",
+        "id": "s61c9fbbc64",
         "topic": "international",
-        "title": "Tensions accrues au Moyen-Orient : frappes et ripostes entre les États-Unis, l'Iran et les monarchies du Golfe",
-        "context": "La situation sécuritaire dans le détroit d'Ormuz et la région du Golfe reste extrêmement instable sur fond de conflits persistants impliquant l'Iran et ses alliés.",
-        "summary": "Des attaques de drones et des frappes aériennes ont touché plusieurs cibles dans la région du Golfe, notamment au Koweït et à Bahreïn, après une intervention américaine contre un site de missiles des Gardiens de la révolution iraniens. Les autorités de Téhéran revendiquent ces opérations contre des infrastructures militaires, tandis que la Maison-Blanche tente de contenir l'escalade et que les marchés subissent les répercussions des perturbations énergétiques.",
-        "plain": "Les tensions entre les États-Unis, l'Iran et plusieurs pays du Golfe se sont intensifiées avec des échanges de tirs et de drones. Cette situation fait planer des menaces sur la sécurité régionale et l'approvisionnement en énergie.",
+        "title": "Sommet de l'Apec à Shenzhen : Trump, Poutine et Xi se rencontrent",
+        "context": "Les dirigeants des États-Unis, de la Russie et de la Chine se réunissent en marge du sommet de la Coopération économique pour l'Asie-Pacifique (Apec) à Shenzhen, en Chine, pour des discussions diplomatiques de premier plan.",
+        "summary": "Le président américain Donald Trump a été accueilli à sa descente d'avion par le président chinois Xi Jinping, dans le cadre d'un geste d'accueil inédit. Les dirigeants américain, russe et chinois doivent tenir une réunion trilatérale inédite, qualifiée par certains observateurs de nouveau Yalta. Les échanges portent notamment sur les questions de sécurité, de contrôle des armements nucléaires et sur les positions divergentes concernant l'Europe et l'Ukraine. Alors que Vladimir Poutine affiche sa volonté de peser au centre du jeu diplomatique mondial, les discussions réunissent des puissances aux priorités stratégiques contrastées.",
+        "plain": "Donald Trump, Vladimir Poutine et Xi Jinping se retrouvent en Chine lors d'un sommet pour aborder les grands dossiers internationaux, dont la sécurité et le nucléaire. Cette rencontre à trois illustre les équilibres complexes entre les grandes puissances mondiales.",
         "chart": null,
         "stakes": [
-          "Comment les pays du Golfe vont-ils ajuster leur politique de sécurité face aux menaces régionales ?",
-          "Quelles seront les conséquences économiques mondiales d'une telle escalade militaire dans le détroit d'Ormuz ?"
+          "Quelles suites diplomatiques seront données à ce sommet tripartite ?",
+          "Quel impact cette entente ou ces désaccords auront-ils sur la guerre en Ukraine et le commerce mondial ?"
         ],
         "sources": [
           {
-            "name": "The Washington Post",
-            "title": "Trump is trying to put the Iran war behind him, but it’s not over",
-            "link": "https://www.washingtonpost.com/world/2026/11/18/trump-is-trying-put-iran-war-behind-him-its-not-over/",
-            "publishedAt": "2026-11-18T11:23:31.000Z",
+            "name": "franceinfo",
+            "title": "La course au nucléaire au cœur de la rencontre entre Trump, Poutine et Xi en Chine",
+            "link": "https://www.franceinfo.fr/environnement/energie/nucleaire/la-course-au-nucleaire-au-c-ur-de-la-rencontre-entre-trump-poutine-et-xi-en-chine_8288201.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-18T14:41:33.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "Vladimir Poutine savoure son retour au cœur de la diplomatie mondiale, aux côtés de Donald Trump et Xi Jinping à Shenzhen",
+            "link": "https://www.lemonde.fr/international/article/2026/11/18/vladimir-poutine-savoure-son-retour-au-c-ur-de-la-diplomatie-mondiale-aux-cotes-de-donald-trump-et-xi-jinping-a-shenzhen_6813174_3210.html",
+            "publishedAt": "2026-11-18T17:00:19.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Libération",
+            "title": "Trump-Poutine-Xi : puissance et gêne à Shenzhen",
+            "link": "https://www.liberation.fr/international/rencontre-trump-poutine-xi-faut-il-craindre-un-nouveau-yalta-20261117_FVOKUEBYYJCNRM4AKWM3MJ64SI/",
+            "publishedAt": "2026-11-18T17:31:25.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "En réunissant Donald Trump et Vladimir Poutine à Shenzhen, Xi Jinping se hisse dans le directoire mondial",
+            "link": "https://www.ouest-france.fr/monde/en-reunissant-donald-trump-et-vladimir-poutine-a-shenzhen-xi-jinping-se-hisse-dans-le-directoire-mondial-bb04266e-e339-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-18T18:00:25.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+            "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-18T16:10:44.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+            "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+            "publishedAt": "2026-11-18T17:48:24.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "APEC summit: What Trump, Xi and Putin want",
+            "link": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-18T05:39:00.000Z",
+            "lang": "en",
+            "country": "DE"
+          },
+          {
+            "name": "NPR",
+            "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
+            "link": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
+            "publishedAt": "2026-11-18T11:57:10.000Z",
+            "lang": "en",
+            "country": "US"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/9TZlbokRFxKWMbqW3L-cNocrvl4/0x47:3313x1910/432x243/filters:format(jpg)/2026/11/18/6afdb3a8b1753348825323.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/environnement/energie/nucleaire/la-course-au-nucleaire-au-c-ur-de-la-rencontre-entre-trump-poutine-et-xi-en-chine_8288201.html#xtor=RSS-3-%5Bfrance%5D"
+        }
+      },
+      {
+        "id": "saa55ca64db",
+        "topic": "international",
+        "title": "Escalade militaire au Moyen-Orient : frappes et tensions dans le Golfe",
+        "context": "Les tensions régionales s'intensifient autour de l'Iran et des monarchies du Golfe, sur fond de négociations de paix au point mort et d'opérations militaires croissantes.",
+        "summary": "L'Iran a lancé des attaques de missiles et de drones ciblant des pays de la région, notamment le Koweït et Bahreïn, après des frappes aériennes américaines sur un site de missiles des Gardiens de la révolution à Qeshm Island. Les États-Unis et les services de renseignement soulignent la hausse sensible des menaces émanant de Téhéran. Parallèlement, des manifestations et des mouvements de contestation sociale ont éclaté en Iran à la suite d'un accident de la route mortel impliquant des employés d'une raffinerie, témoignant d'un climat intérieur très tendu.",
+        "plain": "Des affrontements et des tirs de missiles impliquant l'Iran, les États-Unis et des pays voisins du Golfe font craindre une aggravation du conflit dans la région. Simultanément, des contestations sociales agitent l'intérieur du territoire iranien.",
+        "chart": null,
+        "stakes": [
+          "La situation dans le détroit d'Ormuz va-t-elle provoquer une crise énergétique mondiale ?",
+          "Comment les pays du Golfe et les puissances occidentales vont-ils réagir à ces actions militaires ?"
+        ],
+        "sources": [
+          {
+            "name": "The New York Times",
+            "title": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
+            "link": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
+            "publishedAt": "2026-11-18T15:37:11.000Z",
             "lang": "en",
             "country": "US"
           },
@@ -884,15 +968,31 @@
             "name": "The Wall Street Journal",
             "title": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
             "link": "https://www.wsj.com/world/middle-east/iran-attacks-kuwait-and-bahrain-further-escalating-fight-over-strait-08f3a436?mod=rss_worldnews",
-            "publishedAt": "2026-11-18T11:17:00.000Z",
+            "publishedAt": "2026-11-18T14:56:00.000Z",
             "lang": "en",
             "country": "US"
           },
           {
-            "name": "The Wall Street Journal",
-            "title": "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
-            "link": "https://www.wsj.com/economy/central-banking/u-k-inflation-rises-as-energy-costs-keep-pressure-on-bank-of-england-68f3edbb?mod=rss_worldnews",
-            "publishedAt": "2026-11-18T09:58:00.000Z",
+            "name": "Fox News",
+            "title": "Rare anti-government protests erupt in Iran over workers' deaths",
+            "link": "https://www.foxnews.com/world/rare-anti-government-protests-erupt-iran-workers-deaths",
+            "publishedAt": "2026-11-18T16:20:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Fox News",
+            "title": "Protesters call for regime change in Iran following deadly crash that killed 13 oil and gas workers",
+            "link": "https://www.foxnews.com/world/protesters-call-regime-change-iran-following-deadly-crash-killed-13-oil-gas-workers",
+            "publishedAt": "2026-11-18T16:17:58.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Fox News",
+            "title": "Iran targets US air base in Kuwait after US defensive strikes amid criticism from Gulf states",
+            "link": "https://www.foxnews.com/world/iran-targets-us-air-base-kuwait-us-defensive-strikes-criticism-gulf-states",
+            "publishedAt": "2026-11-18T14:39:08.000Z",
             "lang": "en",
             "country": "US"
           },
@@ -911,468 +1011,416 @@
             "publishedAt": "2026-11-17T20:32:27.000Z",
             "lang": "en",
             "country": "US"
-          }
-        ],
-        "image": {
-          "url": "https://images.wsj.net/im-89977849",
-          "credit": "The Wall Street Journal",
-          "link": "https://www.wsj.com/world/middle-east/iran-attacks-kuwait-and-bahrain-further-escalating-fight-over-strait-08f3a436?mod=rss_worldnews"
-        },
-        "i18n": {
-          "en": {
-            "title": "Heightened tensions in the Middle East: strikes and retaliations between the United States, Iran, and Gulf monarchies",
-            "context": "The security situation in the Strait of Hormuz and the Gulf region remains extremely unstable against a backdrop of persistent conflicts involving Iran and its allies.",
-            "summary": "Drone attacks and airstrikes have hit several targets in the Gulf region, notably in Kuwait and Bahrain, following an American intervention against a missile site belonging to the Iranian Revolutionary Guard. Tehran authorities claim responsibility for these operations against military infrastructure, while the White House attempts to contain the escalation and markets suffer the repercussions of energy disruptions.",
-            "plain": "Tensions between the United States, Iran, and several Gulf countries have intensified with exchanges of fire and drones. This situation poses threats to regional security and energy supplies.",
-            "stakes": [
-              "How will Gulf countries adjust their security policy in the face of regional threats?",
-              "What will be the global economic consequences of such a military escalation in the Strait of Hormuz?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Aumento de las tensiones en Oriente Medio: ataques y respuestas entre Estados Unidos, Irán y las monarquías del Golfo",
-            "context": "La situación de seguridad en el estrecho de Ormuz y la región del Golfo sigue siendo extremadamente inestable en un contexto de conflictos persistentes en los que participan Irán y sus aliados.",
-            "summary": "Ataques con drones y bombardeos aéreos han alcanzado varios objetivos en la región del Golfo, especialmente en Kuwait y Baréin, tras una intervención estadounidense contra un sitio de misiles de la Guardia Revolucionaria iraní. Las autoridades de Teherán reivindican estas operaciones contra infraestructuras militares, mientras la Casa Blanca intenta contener la escalada y los mercados sufren las repercusiones de las perturbaciones energéticas.",
-            "plain": "Las tensiones entre Estados Unidos, Irán y varios países del Golfo se han intensificado con intercambios de disparos y drones. Esta situación plantea amenazas para la seguridad regional y el suministro de energía.",
-            "stakes": [
-              "¿Cómo ajustarán los países del Golfo su política de seguridad frente a las amenazas regionales?",
-              "¿Cuáles serán las consecuencias económicas mundiales de dicha escalada militar en el estrecho de Ormuz?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s0ebc5c2433",
-        "topic": "international",
-        "title": "Nouvelles dégradations sur le pont de Kertch et escalade militaire en Ukraine",
-        "context": "Le pont de Kertch, symbole de l'occupation russe en Crimée, est régulièrement la cible des forces ukrainiennes dans le cadre du conflit en cours.",
-        "summary": "Le pont de Crimée, infrastructure stratégique reliant la Russie à la péninsule annexée, a subi d'importants dégâts à la suite d'une opération menée par l'Ukraine. Kiev revendique une attaque méthodique préparée de longue date. En réponse, la Russie poursuit ses frappes ciblées contre des infrastructures ukrainiennes, tandis que les alliés occidentaux préparent de nouveaux soutiens financiers et des sanctions renforcées contre Moscou.",
-        "plain": "Un pont très important entre la Russie et la Crimée a été lourdement endommagé par des attaques ukrainiennes. En parallèle, les combats se poursuivent et les pays occidentaux continuent d'aider financièrement Kiev.",
-        "chart": null,
-        "stakes": [
-          "Quel est l'impact logistique et militaire de la destruction partielle de cette liaison pour les forces russes ?",
-          "Comment l'aide financière internationale de l'Union européenne et du Canada influencera-t-elle la résistance ukrainienne ?"
-        ],
-        "sources": [
-          {
-            "name": "La Croix",
-            "title": "Guerre en Ukraine : le Canada veut renforcer les sanctions ; nouveau prêt de l’UE pour Kiev",
-            "link": "https://www.la-croix.com/international/ukraine-russie-jour-1729-point-conflit-ukrainien-poutine-aujourdhui-20261118",
-            "publishedAt": "2026-11-18T12:48:14.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "BBC News",
-            "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-            "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-17T21:24:35.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "BBC News",
-            "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-            "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-17T17:19:57.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "BBC News",
-            "title": "How the attack on Putin's prized Crimean Bridge unfolded",
-            "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-17T15:38:10.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "NPR",
-            "title": "Putin to meet with Trump and Xi after Ukrainian attack on Russian bridge",
-            "link": "https://www.npr.org/2026/11/18/nx-s1-6044242/putin-to-meet-with-trump-and-xi-after-ukrainian-attack-on-russian-bridge",
-            "publishedAt": "2026-11-18T09:43:28.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "Fox News",
-            "title": "Ukraine releases video showing damage to Putin's prized bridge following 'unprecedented operation' in Crimea",
-            "link": "https://www.foxnews.com/world/ukraine-releases-video-showing-damage-putins-prized-bridge-following-unprecedented-operation-crimea",
-            "publishedAt": "2026-11-17T17:15:42.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "The Hindu",
-            "title": "Why Ukraine keeps targeting the Kerch Bridge",
-            "link": "https://www.thehindu.com/news/international/why-ukraine-keeps-targeting-the-kerch-bridge/article71714957.ece",
-            "publishedAt": "2026-11-18T10:51:48.000Z",
-            "lang": "en",
-            "country": "IN"
-          },
-          {
-            "name": "RFI",
-            "title": "L'UE propose un nouveau prêt de 45 milliards d'euros à l'Ukraine pour 2027",
-            "link": "https://www.rfi.fr/fr/europe/20261118-l-ue-propose-un-nouveau-pr%C3%AAt-de-45-milliards-d-euros-%C3%A0-l-ukraine-pour-2027",
-            "publishedAt": "2026-11-18T12:10:45.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://i.la-croix.com/x/2026/11/18/2592168-un-membre-des-services-de-secours-ukrainien-tente-.jpg",
-          "credit": "La Croix",
-          "link": "https://www.la-croix.com/international/ukraine-russie-jour-1729-point-conflit-ukrainien-poutine-aujourdhui-20261118"
-        },
-        "i18n": {
-          "en": {
-            "title": "New damage to the Kerch bridge and military escalation in Ukraine",
-            "context": "The Kerch bridge, a symbol of the Russian occupation in Crimea, is regularly targeted by Ukrainian forces as part of the ongoing conflict.",
-            "summary": "The Crimean bridge, a strategic infrastructure linking Russia to the annexed peninsula, suffered significant damage following an operation carried out by Ukraine. Kyiv claims a methodical attack prepared long in advance. In response, Russia continues its targeted strikes against Ukrainian infrastructure, while Western allies prepare new financial support and reinforced sanctions against Moscow.",
-            "plain": "A very important bridge between Russia and Crimea was heavily damaged by Ukrainian attacks. At the same time, fighting continues and Western countries continue to provide financial aid to Kyiv.",
-            "stakes": [
-              "What is the logistical and military impact of the partial destruction of this link for Russian forces?",
-              "How will international financial aid from the European Union and Canada influence Ukrainian resistance?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Nuevos daños en el puente de Kerch y escalada militar en Ucrania",
-            "context": "El puente de Kerch, símbolo de la ocupación rusa en Crimea, es blanco habitual de las fuerzas ucranianas en el marco del conflicto en curso.",
-            "summary": "El puente de Crimea, infraestructura estratégica que conecta Rusia con la península anexionada, sufrió importantes daños tras una operación llevada a cifra por Ucrania. Kiev reivindica un ataque metódico preparado desde hace tiempo. Como respuesta, Rusia continúa sus ataques selectivos contra infraestructuras ucranianas, mientras los aliados occidentales preparan nuevos apoyos financieros y sanciones reforzadas contra Moscú.",
-            "plain": "Un puente muy importante entre Rusia y Crimea ha resultado gravemente dañado por ataques ucranianos. Paralelamente, los combates continúan y los países occidentales siguen ayudando financieramente a Kiev.",
-            "stakes": [
-              "¿Cuál es el impacto logístico y militar de la destrucción parcial de este enlace para las fuerzas rusas?",
-              "¿Cómo influirá la ayuda financiera internacional de la Unión Europea y de Canadá en la resistencia ucraniana?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s2b641595e5",
-        "topic": "international",
-        "title": "L'Espagne se prépare à des élections législatives anticipées sur fond de poussée de la droite",
-        "context": "Le paysage politique espagnol est marqué par une polarisation accrue et l'incertitude quant à la formation d'une future coalition gouvernementale.",
-        "summary": "L'Espagne s'apprête à renouveler son Parlement lors d'un scrutin anticipé crucial. Les conservateurs du Parti populaire abordent la fin de la campagne en position de favoris dans les sondages après plusieurs années de gouvernement socialiste. Toutefois, une éventuelle accession au pouvoir pourrait nécessiter une alliance avec la formation Vox, ce qui suscite de vifs débats politiques dans le pays.",
-        "plain": "Les électeurs espagnols doivent élire leurs représentants lors d'un scrutin où la droite traditionnelle est en tête des sondages. La composition du prochain gouvernement dépendra de possibles alliances avec l'extrême droite.",
-        "chart": null,
-        "stakes": [
-          "Le Parti populaire parviendra-t-il à obtenir une majorité stable sans dépendre de ses alliés nationalistes ou radicaux ?",
-          "Quels changements de cap politique l'Espagne peut-elle anticiper en cas d'alternance gouvernementale ?"
-        ],
-        "sources": [
-          {
-            "name": "L'Humanité",
-            "title": "Élections anticipées en Espagne : comment l’extrême droite fait la courte échelle à la droite",
-            "link": "https://www.humanite.fr/monde/elections-en-espagne/elections-anticipees-en-espagne-comment-lextreme-droite-fait-la-courte-echelle-a-la-droite",
-            "publishedAt": "2026-11-18T10:55:07.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "BBC News",
-            "title": "Who to watch in Spain's election race",
-            "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-18T11:44:25.000Z",
-            "lang": "en",
-            "country": "GB"
-          }
-        ],
-        "image": {
-          "url": "https://www.humanite.fr/wp-content/uploads/2026/11/Espagne.jpg?w=1200",
-          "credit": "L'Humanité",
-          "link": "https://www.humanite.fr/monde/elections-en-espagne/elections-anticipees-en-espagne-comment-lextreme-droite-fait-la-courte-echelle-a-la-droite"
-        },
-        "i18n": {
-          "en": {
-            "title": "Spain prepares for snap general elections amid a surge by the right",
-            "context": "The Spanish political landscape is marked by increased polarization and uncertainty regarding the formation of a future government coalition.",
-            "summary": "Spain is preparing to renew its Parliament in a crucial snap election. Conservatives of the Popular Party are approaching the end of the campaign as favorites in the polls after several years of socialist government. However, a potential accession to power might require an alliance with the Vox party, which is sparking fierce political debate in the country.",
-            "plain": "Spanish voters must elect their representatives in an election where the traditional right leads in the polls. The composition of the next government will depend on possible alliances with the far right.",
-            "stakes": [
-              "Will the Popular Party manage to secure a stable majority without depending on its nationalist or radical allies?",
-              "What political shifts can Spain anticipate in the event of a government alternation?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "España se prepara para unas elecciones generales anticipadas en un contexto de auge de la derecha",
-            "context": "El panorama político español está marcado por una mayor polarización y la incertidumbre sobre la formación de una futura coalición de gobierno.",
-            "summary": "España se dispone a renovar su Parlamento en unos comicios anticipados cruciales. Los conservadores del Partido Popular abordan el tramo final de la campaña como favoritos en los sondeos tras varios años de gobierno socialista. Sin embargo, una eventual llegada al poder podría requerir una alianza con la formación Vox, lo que suscita intensos debates políticos en el país.",
-            "plain": "Los votantes españoles deben elegir a sus representantes en unas elecciones en las que la derecha tradicional encabeza las encuestas. La composición del próximo gobierno dependerá de posibles alianzas con la extrema derecha.",
-            "stakes": [
-              "¿Conseguirá el Partido Popular una mayoría estable sin depender de sus aliados nacionalistas o radicales?",
-              "¿Qué cambios de rumbo político puede prever España en caso de una alternancia gubernamental?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s46636320fe",
-        "topic": "international",
-        "title": "Révélations et tensions en Australie autour du scandale de tricherie dans le cricket",
-        "context": "Ce scandale historique du cricket australien continue de diviser le milieu sportif, les instances cherchant à apaiser les tensions par le biais de nouveaux forums de discussion.",
-        "summary": "De nouvelles déclarations de l'ancien joueur Cameron Bancroft ont ravivé la polémique autour de l'affaire de manipulation du ballon de 2018, connue sous le nom de Sandpapergate. En affirmant que l'ensemble de l'équipe nationale était au courant de la tricherie, il contredit les versions officielles précédentes et fragilise la position de certains dirigeants et de l'actuel capitaine, provoquant de vives discussions au sein de la fédération australienne.",
-        "plain": "Une ancienne affaire de tricherie sportive refait surface en Australie après des déclarations affirmant que toute l'équipe était impliquée, mettant sous pression la direction de la sélection nationale.",
-        "chart": null,
-        "stakes": [
-          "Ces nouvelles accusations aboutiront-elles à une refonte des instances dirigeantes du cricket australien ?",
-          "Quel crédit accorder aux démarches de conciliation proposées par la fédération pour solder cette crise ?"
-        ],
-        "sources": [
-          {
-            "name": "BBC News",
-            "title": "Bancroft sandpaper claims heap pressure on Cummins",
-            "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-18T11:12:46.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "The Telegraph",
-            "title": "England rub salt into Australian wounds as sandpapergate civil war rages on",
-            "link": "https://www.telegraph.co.uk/cricket/2026/11/18/australia-vs-england-score-updates-third-odi-hobart/",
-            "publishedAt": "2026-11-18T12:37:27.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "ABC News (Australie)",
-            "title": "Bancroft says 'whole team' knew about sandpaper in explosive claims",
-            "link": "https://www.abc.net.au/news/2026-11-18/cameron-bancroft-says-australian-players-knew-about-sandpaper/107401286",
-            "publishedAt": "2026-11-18T08:35:43.000Z",
-            "lang": "en",
-            "country": "AU"
-          },
-          {
-            "name": "ABC News (Australie)",
-            "title": "Sandpapergate coach has 'nothing to hide' after forum announced",
-            "link": "https://www.abc.net.au/news/2026-11-18/sandpapergate-coach-darren-lehmann-cricket-australia-forum/107399822",
-            "publishedAt": "2026-11-18T05:00:55.000Z",
-            "lang": "en",
-            "country": "AU"
-          },
-          {
-            "name": "ABC News (Australie)",
-            "title": "Warner wants Sandpapergate 'public inquiry' as CA announces safe-space forum",
-            "link": "https://www.abc.net.au/news/2026-11-18/cricket-australia-sandpapergate-khawaja-warner-greenberg/107398200",
-            "publishedAt": "2026-11-18T01:59:03.000Z",
-            "lang": "en",
-            "country": "AU"
           },
           {
             "name": "Al Jazeera",
-            "title": "Cameron Bancroft claims entire Australian team knew about ‘Sandpapergate’",
-            "link": "https://www.aljazeera.com/sports/2026/11/18/cameron-bancroft-claims-entire-australian-team-knew-about-sandpapergate?traffic_source=rss",
-            "publishedAt": "2026-11-18T11:51:26.000Z",
+            "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+            "link": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
+            "publishedAt": "2026-11-18T16:47:26.000Z",
             "lang": "en",
             "country": "QA"
           }
         ],
         "image": {
-          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb1d/live/c5d2fbf0-e330-11f1-9c56-6ffaf0e1e706.jpg",
-          "credit": "BBC News",
-          "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss"
-        },
-        "i18n": {
-          "en": {
-            "title": "Revelations and tensions in Australia surrounding the cricket cheating scandal",
-            "context": "This historical Australian cricket scandal continues to divide the sports community, with authorities seeking to ease tensions through new discussion forums.",
-            "summary": "New statements by former player Cameron Bancroft have revived the controversy surrounding the 2018 ball-tampering affair, known as Sandpapergate. By claiming that the entire national team was aware of the cheating, he contradicts previous official versions and weakens the position of certain leaders and the current captain, sparking heated discussions within the Australian federation.",
-            "plain": "An old sports cheating scandal has resurfaced in Australia following statements asserting that the entire team was involved, putting pressure on the national team's management.",
-            "stakes": [
-              "Will these new accusations lead to an overhaul of Australian cricket's governing bodies?",
-              "What credit should be given to the conciliation efforts proposed by the federation to resolve this crisis?"
-            ],
-            "chart": null
+          "url": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gulf-attacks-mbvq/18int-gulf-attacks-mbvq-mediumSquareAt3X.jpg",
+          "credit": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html"
+        }
+      },
+      {
+        "id": "sfb00c1819f",
+        "topic": "international",
+        "title": "Ukraine : débats sur les armes autonomes, le pont de Crimée et l'aide financière",
+        "context": "Le conflit en cours en Ukraine continue de mobiliser les institutions internationales, entre sanctions, nouvelles aides financières et questions sur l'évolution des combats.",
+        "summary": "Des organisations non gouvernementales ont vivement regretté que les États-Unis et la Russie fassent obstacle à l'ouverture de négociations à l'ONU pour encadrer les armes autonomes. Parallèlement, l'Union européenne examine un projet de prêt de 45 milliards d'euros en faveur de Kiev, adossé à une dette commune et à de futurs avoirs russes. Sur le terrain, de nouvelles images ont permis de confirmer d'importants dégâts sur le pont de Crimée à la suite d'une frappe attribuée à l'Ukraine, tandis que les forces ukrainiennes mènent des combats sur de nouveaux fronts.",
+        "plain": "Les discussions se poursuivent pour financer l'effort de guerre ukrainien via l'Union européenne, alors que les combats se poursuivent avec des attaques ciblées et des débats sur les technologies militaires de pointe.",
+        "chart": null,
+        "stakes": [
+          "L'emprunt européen commun pour l'Ukraine sera-t-il validé par l'ensemble des États membres ?",
+          "Quelles seront les conséquences stratégiques des destructions sur les infrastructures russes ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde (International)",
+            "title": "EN DIRECT, guerre en Ukraine : des ONG dénoncent les positions russes et américaines au sujet des armes autonomes, qui fonctionnent sans intervention humaine",
+            "link": "https://www.lemonde.fr/international/live/2026/11/18/en-direct-guerre-en-ukraine-des-ong-denoncent-les-positions-russes-et-americaines-au-sujet-des-armes-autonomes-qui-fonctionnent-sans-intervention-humaine_6810982_3210.html",
+            "publishedAt": "2026-11-18T17:33:49.000Z",
+            "lang": "fr",
+            "country": "FR"
           },
-          "es": {
-            "title": "Revelaciones y tensiones en Australia en torno al escándalo de manipulación en el críquet",
-            "context": "Este histórico escándalo del críquet australiano sigue dividiendo al ámbito deportivo, mientras las autoridades buscan calmar las tensiones mediante nuevos foros de debate.",
-            "summary": "Nuevas declaraciones del exjugador Cameron Bancroft han reavivado la polémica en torno al caso de manipulación de la pelota de 2018, conocido como Sandpapergate. Al afirmar que todo el equipo nacional estaba al corriente de la trampa, contradice las versiones oficiales anteriores y debilita la posición de ciertos dirigentes y del actual capitán, provocando intensas discusiones en el seno de la federación australiana.",
-            "plain": "Un antiguo caso de trampa deportiva vuelve a salir a la luz en Australia tras unas declaraciones que afirman que todo el equipo estaba implicado, lo que pone bajo presión a la dirección de la selección nacional.",
-            "stakes": [
-              "¿conducirán estas nuevas acusaciones a una renovación de los órganos rectores del críquet australiano?",
-              "¿Qué crédito debe darse a las gestiones de conciliación propuestas por la federación para solucionar esta crisis?"
-            ],
-            "chart": null
+          {
+            "name": "BBC News",
+            "title": "New video shows explosions moments before part of Crimea Bridge collapses",
+            "link": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-18T17:09:43.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "BBC News",
+            "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+            "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-18T17:00:40.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "BBC News",
+            "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+            "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-18T17:00:04.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Tagesschau",
+            "title": "Neuer EU-Kredit für Ukraine: \"Wir sind entschlossener denn je\"",
+            "link": "https://www.tagesschau.de/ausland/europa/eu-ukraine-unsterstuetzung-100.html",
+            "publishedAt": "2026-11-18T18:02:26.000Z",
+            "lang": "de",
+            "country": "DE"
+          },
+          {
+            "name": "The Wall Street Journal",
+            "title": "See How Ukraine Hit Putin’s Showpiece Bridge",
+            "link": "https://www.wsj.com/world/see-how-ukraine-hit-putins-showpiece-bridge-83bbcbe6?mod=rss_worldnews",
+            "publishedAt": "2026-11-18T17:15:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "Moldova summons Russia’s envoy over multiple drone incursions",
+            "link": "https://www.politico.eu/article/moldova-summons-russia-envoy-over-drone-incursions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-18T12:57:12.000Z",
+            "lang": "en",
+            "country": "BE"
+          },
+          {
+            "name": "El País",
+            "title": "Verificación | El ataque de Ucrania destruyó más de 200 metros del sector central y más icónico del puente de Crimea",
+            "link": "https://elpais.com/internacional/2026-11-18/verificacion-el-ataque-de-ucrania-destruyo-mas-de-200-metros-del-sector-central-y-mas-iconico-del-puente-de-crimea.html",
+            "publishedAt": "2026-11-18T17:40:48.000Z",
+            "lang": "es",
+            "country": "ES"
           }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/16/349/0/5000/2500/644/322/60/0/8a74c9a_ftp-1-avlz05asljo0-afp-d7kw6wf.jpg",
+          "credit": "Le Monde (International)",
+          "link": "https://www.lemonde.fr/international/live/2026/11/18/en-direct-guerre-en-ukraine-des-ong-denoncent-les-positions-russes-et-americaines-au-sujet-des-armes-autonomes-qui-fonctionnent-sans-intervention-humaine_6810982_3210.html"
+        }
+      },
+      {
+        "id": "s3dd56333ee",
+        "topic": "international",
+        "title": "Démographie mondiale : l'islam en passe de devenir la première religion",
+        "context": "Les centres de recherche démographique publient de nouvelles projections à long terme sur l'évolution des croyances religieuses à travers la planète.",
+        "summary": "Selon une vaste étude menée par le Pew Research Center, le monothéisme devrait continuer de progresser au cours des prochaines décennies. L'islam est ainsi projeté pour dépasser le christianisme et devenir la religion majoritaire dans le monde d'ici 2035. Les données soulignent également un déplacement géographique du centre de gravité des grandes religions vers le continent africain, ainsi qu'une baisse de la part chrétienne dans certains pays occidentaux comme les États-Unis.",
+        "plain": "D'après une étude américaine, l'islam devrait devenir la religion la plus pratiquée au monde d'ici 2035, modifiant les équilibres religieux planétaires.",
+        "chart": null,
+        "stakes": [
+          "Quelles dynamiques sociales et politiques accompagneront ce basculement démographique mondial ?",
+          "De quelle manière les institutions religieuses s'adapteront-elles à ces nouveaux répartitions géographiques ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Religions du monde : derrière le monothéisme majoritaire, des évolutions importantes",
+            "link": "https://www.la-croix.com/a-vif/religions-du-monde-derriere-le-monotheisme-majoritaire-des-evolutions-importantes-20261118",
+            "publishedAt": "2026-11-18T17:20:21.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "Muslims to outnumber Christians worldwide by 2035, study finds",
+            "link": "https://www.washingtonpost.com/religion/2026/11/18/muslims-outnumber-christians-worlds-largest-religion-by-2035-study-finds/",
+            "publishedAt": "2026-11-18T16:05:46.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "South China Morning Post",
+            "title": "Islam projected to surpass Christianity as world’s largest religion by 2035",
+            "link": "https://www.scmp.com/news/world/article/3374959/islam-projected-surpass-christianity-worlds-largest-religion-2035",
+            "publishedAt": "2026-11-18T16:01:07.000Z",
+            "lang": "en",
+            "country": "HK"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/13/2588748-arnaud-alibert-est-redacteur-en-chef-a-la-croix.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/a-vif/religions-du-monde-derriere-le-monotheisme-majoritaire-des-evolutions-importantes-20261118"
+        }
+      },
+      {
+        "id": "s00ef56a703",
+        "topic": "sciences_tech",
+        "title": "La sonde spatiale Voyager 1 franchit le cap historique d'un jour-lumière",
+        "context": "L'exploration spatiale franchit une nouvelle étape avec l'un des objets les plus lointains conçus par l'humanité.",
+        "summary": "Lancée il y a près de cinquante ans, la sonde américaine Voyager 1 a atteint une distance équivalente à un jour-lumière de la Terre, soit environ 25,9 milliards de kilomètres. Cet exploit technique illustre la longévité exceptionnelle de la mission scientifique, dont les instruments continuent de transmettre des données depuis les confins du système solaire.",
+        "plain": "La sonde Voyager 1 a atteint une distance telle qu'il faut maintenant vingt-quatre heures à un signal pour l'atteindre depuis la Terre, marquant un record absolu d'éloignement pour un engin humain.",
+        "chart": null,
+        "stakes": [
+          "Jusqu'où les signaux de la sonde pourront-ils être captés par les équipes scientifiques sur Terre ?",
+          "Quelles informations inédites l'exploration des limites du milieu interstellaire peut-elle encore révéler ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Voyager 1 : l’interminable voyage de l’engin spatial le plus éloigné de la Terre",
+            "link": "https://www.la-croix.com/planete/voyager-1-l-interminable-voyage-de-lengin-spatial-le-plus-eloigne-de-la-terre-20261118",
+            "publishedAt": "2026-11-18T16:39:18.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "ANSA",
+            "title": "La sonda Voyager 1 della Nasa è a un giorno-luce dalla Terra",
+            "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/11/18/la-sonda-voyager-1-della-nasa-e-a-un-giorno-luce-dalla-terra_2914d4d0-9f4b-4db1-846e-ed2e3c49f9a6.html",
+            "publishedAt": "2026-11-18T17:43:36.000Z",
+            "lang": "it",
+            "country": "IT"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/18/25926602-la-sonde-americaine-voyager-1-a-franchi-la-distanc.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/planete/voyager-1-l-interminable-voyage-de-lengin-spatial-le-plus-eloigne-de-la-terre-20261118"
+        }
+      },
+      {
+        "id": "s52022f87de",
+        "topic": "culture",
+        "title": "Lancement mondial très attendu du jeu vidéo Grand Theft Auto VI",
+        "context": "",
+        "summary": "Treize ans après la parution du précédent opus, le jeu vidéo Grand Theft Auto VI est officiellement commercialisé à travers le monde. Salué par la critique comme une production hors normes, le titre suscite une ferveur populaire considérable auprès des joueurs, tout en relançant les discussions sur la démesure financière et culturelle de l'industrie vidéoludique moderne.",
+        "plain": "Le jeu vidéo le plus attendu de la décennie, GTA VI, est enfin disponible pour les joueurs du monde entier, provoquant un engouement massif.",
+        "chart": null,
+        "stakes": [
+          "Quels records de vente et d'audience ce nouvel opus parviendra-t-il à établir à l'échelle mondiale ?",
+          "De quelle manière l'impact culturel de cette franchise influencera-t-il les futurs projets de l'industrie du divertissement ?"
+        ],
+        "sources": [
+          {
+            "name": "L'Humanité",
+            "title": "Dans GTA, tout n’est pas à prendre, mais tout à comprendre",
+            "link": "https://www.humanite.fr/en-debat/capitalisme/dans-gta-tout-nest-pas-a-prendre-mais-tout-a-comprendre",
+            "publishedAt": "2026-11-18T17:57:39.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+            "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-18T17:34:25.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Tagesschau",
+            "title": "\"Grand Theft Auto VI: Was hinter dem weltweiten Hype um GTA steckt",
+            "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spiele-gta-sechs-neuerscheinung-100.html",
+            "publishedAt": "2026-11-18T17:55:38.000Z",
+            "lang": "de",
+            "country": "DE"
+          },
+          {
+            "name": "France 24",
+            "title": "GTA VI : le jeu vidéo sort enfin, et les fans sont prêts à tout",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261118-gta-vi-le-jeu-vid%C3%A9o-sort-enfin-et-les-fans-sont-pr%C3%AAts-%C3%A0-tout",
+            "publishedAt": "2026-11-18T16:53:29.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "RFI",
+            "title": "Lancement du jeu vidéo GTA VI: «Heureusement que je suis au chômage pour pouvoir y jouer»",
+            "link": "https://www.rfi.fr/fr/culture/20261118-lancement-du-jeu-vid%C3%A9o-gta-vi-heureusement-que-je-suis-au-ch%C3%B4mage-pour-pouvoir-y-jouer",
+            "publishedAt": "2026-11-18T17:00:58.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.humanite.fr/wp-content/uploads/2024/08/Vignette-editorial-Marion-dallard.png?w=1200",
+          "credit": "L'Humanité",
+          "link": "https://www.humanite.fr/en-debat/capitalisme/dans-gta-tout-nest-pas-a-prendre-mais-tout-a-comprendre"
         }
       }
     ]
   },
-  "storiesAt": "2026-11-18T13:22:35.153Z",
-  "inputHash": "1ba351b4ef5da3480d5032eae7e6832d8dbcdbb1",
-  "synthStatus": "ok",
+  "storiesAt": "2026-11-18T18:32:23.556Z",
+  "inputHash": null,
+  "synthStatus": "partielle",
   "news": {
     "france": [
       {
-        "id": "a82ebc29738",
-        "title": "Particules fines et CO2 : Marseille reste une très mauvaise élève en matière de qualité de l’air",
-        "link": "https://www.ouest-france.fr/environnement/pollution/particules-fines-et-co2-marseille-reste-une-tres-mauvaise-eleve-en-matiere-de-qualite-de-lair-c692e5aa-e34e-11f1-8937-e3b17ddb6abc?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-        "summary": "Un rapport de deux ONG environnementales publié mardi 17 novembre pointe une très mauvaise qualité de l’air à Marseille (Bouches-du-Rhône). La cité phocéenne est la dernière des trois villes françaises évaluées et arrive 25e sur 40 au classement européen, avec des taux de particules fines et de diox",
-        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExYjNhMDVmODcxMDMzMTg1M2FkYTZiOTBkNGNiNzNjZjQ?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=5afc20022628bfe5174b63757c446d4a384520cfdfad8813767aab8c4d8e837f",
-        "publishedAt": "2026-11-18T13:09:13.000Z",
-        "source": "Ouest-France",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 0
-      },
-      {
-        "id": "aa6064b545b",
-        "title": "Polémique Pierre Perret-LFI : Jean-Luc Mélenchon au pays des soviets",
-        "link": "https://www.lexpress.fr/idees-et-debats/polemique-pierre-perret-lfi-jean-luc-melenchon-au-pays-des-soviets-EF3PQYWIGRFZFAIVGLDJNDOZEA/",
-        "summary": "",
-        "image": "https://www.lexpress.fr/resizer/v2/KQPTIC4X4BCHLAZNANQX55HKGE.jpg?auth=255ecc924fb3cb762d279f0cdc0c6fcfa6929910a62e734523e57db7869a201d&smart=true&width=5000&height=3335",
-        "publishedAt": "2026-11-18T13:08:13.000Z",
-        "source": "L'Express",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 1
-      },
-      {
-        "id": "abe093bf5eb",
-        "title": "Mouvement lycéen : 3 000 élèves sont passés en conseil de discipline depuis le mois de septembre",
-        "link": "https://www.liberation.fr/societe/education/mouvement-lyceen-3-000-eleves-sont-passes-en-conseil-de-discipline-depuis-le-mois-de-septembre-20261118_YVGV3CJWPRGNPFPFIVYZ5MUP7Q/",
-        "summary": "D’après le ministre de l’Education nationale, ces mesures disciplinaires sont en lien avec les «violences» commises lors des mobilisations devant les établissements. A Paris, «une quinzaine» d’élèves ont été exclus définitivement.",
-        "image": null,
-        "publishedAt": "2026-11-18T13:07:35.000Z",
-        "source": "Libération",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1.5
-      },
-      {
-        "id": "acae08a595b",
-        "title": "La femme la plus riche de Russie, Tatiana Kim, « blacklistée » par l’UE : efficace ou pas ?",
-        "link": "https://www.valeursactuelles.com/economie/la-femme-la-plus-riche-de-russie-tatiana-kim-blacklistee-par-lue-efficace-ou-pas",
-        "summary": "Elle est la femme la plus riche de Russie. Sa fortune est estimée à 8,1 milliards de dollars. Chaque jour, sa société de commerce en ligne, Wildberries, traite 20 millions... L’article La femme la plus riche de Russie, Tatiana Kim, « blacklistée » par l’UE : efficace ou pas ? est apparu en premier s",
-        "image": null,
-        "publishedAt": "2026-11-18T13:01:55.000Z",
-        "source": "Valeurs actuelles",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 2
-      },
-      {
-        "id": "ad76415d7c4",
-        "title": "Le chanteur espagnol Julio Iglesias visé par une enquête pour agressions sexuelles sur deux anciennes employées",
-        "link": "https://www.lemonde.fr/international/article/2026/11/18/le-chanteur-espagnol-julio-iglesias-vise-par-une-enquete-pour-agressions-sexuelles-sur-deux-anciennes-employees_6813131_3210.html",
-        "summary": "Deux femmes, une employée de maison et une kinésithérapeute, affirment avoir subi des agressions sexuelles et des mauvais traitements quand elles travaillaient dans des propriétés de Julio Iglesias aux Bahamas et en République dominicaine en 2021.",
-        "image": "https://img.lemde.fr/2026/11/18/473/0/2968/1484/644/322/60/0/7146fd1_upload-1-fglikd6chd8t-2015-05-09t120000z-1637732904-gf10000089084-rtrmadp-3-usa-culture.JPG",
-        "publishedAt": "2026-11-18T12:58:40.000Z",
-        "source": "Le Monde",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1
-      },
-      {
-        "id": "a387d58eff9",
-        "title": "« Ce n’est pas la première fois que nous sommes la cible de l’extrême droite » : Nathalie Tehio de la LDH réplique à Marine Le Pen",
-        "link": "https://www.humanite.fr/politique/associations/ce-nest-pas-la-premiere-fois-que-nous-sommes-la-cible-de-lextreme-droite-nathalie-tehio-de-la-ldh-replique-a-marine-le-pen",
-        "summary": "Après le tacle de Marine le Pen à la Ligue des Droits de l’Homme lors d’un débat télévisé ce mardi 16 novembre, sa présidente, Nathalie Tehio a rappelé l’engagement de cette association, créée en 1898 lors de l’Affaire Dreyfus. Elle pointe le danger que représente l’extrême droite, celle qui a tué s",
-        "image": "https://www.humanite.fr/wp-content/uploads/2026/11/p5-FdJ-Tehio_JEU.jpg?w=1200",
-        "publishedAt": "2026-11-18T12:57:29.000Z",
-        "source": "L'Humanité",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -2
-      },
-      {
-        "id": "a0ebc5c2433",
-        "title": "Guerre en Ukraine : le Canada veut renforcer les sanctions ; nouveau prêt de l’UE pour Kiev",
-        "link": "https://www.la-croix.com/international/ukraine-russie-jour-1729-point-conflit-ukrainien-poutine-aujourdhui-20261118",
-        "summary": "Le premier ministre canadien menace la Russie de renforcer les sanctions « tant que la guerre se poursuivra ». La Commission européenne va proposer aux 27 d’accorder un nouveau prêt de 45 milliards d’euros à l’Ukraine en 2027. Suivez l’actualité de la guerre en Ukraine, ce mercredi 18 novembre.",
-        "image": "https://i.la-croix.com/x/2026/11/18/2592168-un-membre-des-services-de-secours-ukrainien-tente-.jpg",
-        "publishedAt": "2026-11-18T12:48:14.000Z",
+        "id": "a73de57a52e",
+        "title": "Le projet de budget 2027 de la Sécurité sociale adopté en première lecture au Sénat",
+        "link": "https://www.la-croix.com/economie/le-projet-de-budget-2027-de-la-securite-sociale-adopte-en-premiere-lecture-au-senat-20261118",
+        "summary": "Rétablissement de la réforme des retraites, déficit, allégements pour les entreprises… Le Sénat a adopté mercredi 18 novembre un projet de loi de financement de la Sécurité sociale pour 2027 en modifiant des mesures gouvernementales. La commission mixte paritaire s’annonce décisive.",
+        "image": "https://i.la-croix.com/x/2026/11/18/2592842-le-senat-a-adopte-mercredi-18-novembre-2026-un-pro.jpeg",
+        "publishedAt": "2026-11-18T18:16:00.000Z",
         "source": "La Croix",
         "lang": "fr",
         "country": "FR",
         "lean": 0.5
       },
       {
-        "id": "a10c61a712d",
-        "title": "Emmanuel Macron, cet « enfant » qui nous gouverne, raconté dans un livre-enquête de la journaliste Catherine Nay",
-        "link": "https://www.lemonde.fr/politique/article/2026/11/18/emmanuel-macron-cet-enfant-qui-nous-gouverne-raconte-dans-un-livre-enquete-de-catherine-nay_6813127_823448.html",
-        "summary": "Dans « Ce pays dont le prince est un enfant », la journaliste explore l’idée que les ressorts de l’ascension fulgurante du chef de l’Etat se trouvent dans son enfance, marquée par une relation fusionnelle avec sa grand-mère.",
-        "image": "https://img.lemde.fr/2026/11/11/0/0/8000/4000/644/322/60/0/796183d_upload-1-ufilrnejvmed-jmug261111008.jpg",
-        "publishedAt": "2026-11-18T12:30:02.000Z",
-        "source": "Le Monde",
+        "id": "ae771369427",
+        "title": "Manifestations : jugé à Angers, « Batman » devra faire un stage de citoyenneté, « inacceptable » dénonce une avocate",
+        "link": "https://www.ouest-france.fr/societe/justice/manifestations-juge-a-angers-batman-devra-faire-un-stage-de-citoyennete-inacceptable-denonce-une-avocate-50619258-e369-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Deux jeunes hommes de 18 et 23 ans, dont l’un était déguisé en Batman, ont été jugés ce mercredi 18 novembre à Angers pour leur participation à la manifestation interdite du 14 novembre, qui avait rassemblé 2 500 personnes.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExOTU2YTE4OWQ4NzEwNmRjNjA3MDNlODIwYWZmYTJjNGU?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=ac368cba22945fa4293693678ea03b5b8e8a8d4aa979d18518b4a8215b03d039",
+        "publishedAt": "2026-11-18T18:12:31.000Z",
+        "source": "Ouest-France",
         "lang": "fr",
         "country": "FR",
-        "lean": -1
+        "lean": 0
       },
       {
-        "id": "a8e97ade47f",
-        "title": "Sauvons le poète iranien Peyman Farahavar de la potence",
-        "link": "https://www.liberation.fr/idees-et-debats/tribunes/sauvons-le-poete-iranien-peyman-farahavar-de-la-potence-20261118_IUN6PS33NZAPNHG4XGRGORA66I/",
-        "summary": "Alors que les exécutions en Iran se multiplient, un collectif de plus de 350 auteurs et autrices dont Marie Darrieussecq, Virginie Despentes ou encore Sorj Chalandon ainsi que plusieurs organisations internationales demandent la libération immédiate du poète arrêté depuis 2022 pour avoir écrit des p",
+        "id": "a57816d34bf",
+        "title": "Procès de Michel Zecler : les policiers reconnaissent un « PV faux de A à Z » et des « mensonges »",
+        "link": "https://www.humanite.fr/societe/justice/proces-de-michel-zecler-les-policiers-reconnaissent-un-pv-faux-de-a-a-z-et-des-mensonges",
+        "summary": "Le procès-verbal qui accusait Michel Zecler d’avoir frappé les policiers et tenté de se saisir d’une arme de service pendant son interpellation, est « faux de A à Z », a reconnu ce mercredi 18 novembre 2026 l’un des policiers accusés.",
+        "image": "https://www.humanite.fr/wp-content/uploads/2026/11/HL_JJAULIN_3392946.jpg?w=1200",
+        "publishedAt": "2026-11-18T18:10:51.000Z",
+        "source": "L'Humanité",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -2
+      },
+      {
+        "id": "a70cb20fcba",
+        "title": "Non à la loi qui donne un «permis de tuer» aux forces de l’ordre",
+        "link": "https://www.liberation.fr/idees-et-debats/tribunes/non-a-la-loi-qui-donne-un-permis-de-tuer-aux-forces-de-lordre-20261118_LYB6775ZLNDVJMBQUDESCI7JOY/",
+        "summary": "Pour la sénatrice Mélanie Vogel et la députée Cyrielle Chatelain du groupe Ecologiste, la proposition de loi qui consiste à reconnaître une présomption de légitime défense aux policiers quand ils tirent se situe non seulement en dehors du pacte républicain, mais engendrerait inévitablement plus de m",
         "image": null,
-        "publishedAt": "2026-11-18T12:30:00.000Z",
+        "publishedAt": "2026-11-18T18:09:57.000Z",
         "source": "Libération",
         "lang": "fr",
         "country": "FR",
         "lean": -1.5
       },
       {
-        "id": "a1248213cb4",
-        "title": "« Poisson, famille et liberté » : Mary Peltola, la démocrate qui a su s’emparer d’un fauteuil de sénateur de l’Alaska",
-        "link": "https://www.lefigaro.fr/international/poisson-famille-et-liberte-mary-peltola-la-democrate-qui-a-su-s-emparer-d-un-fauteuil-de-senateur-de-l-alaska-20261118",
-        "summary": "PORTRAIT - Cette femme qui a consacré sa vie à la défense des populations autochtones est aussi connue pour son art de la manœuvre politique. En gagnant les élections dans cet État traditionnellement républicain, elle renforce le poids des démocrates au Sénat.",
-        "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/18/4741b241d5456b2b23ba8f244060c11e6adac12d35d615cac5367e2f29ad1dd3.jpg",
-        "publishedAt": "2026-11-18T12:15:00.000Z",
+        "id": "aa32a8b9699",
+        "title": "Le rejet du statut de lanceuse d’alerte de l’ex-directrice nationale du régime de garantie des salaires annulé par la Cour de cassation",
+        "link": "https://www.lemonde.fr/politique/article/2026/11/18/le-rejet-du-statut-de-lanceuse-d-alerte-de-l-ex-directrice-nationale-du-regime-de-garantie-des-salaires-annule-par-la-cour-de-cassation_6813189_823448.html",
+        "summary": "La haute juridiction a annulé, le 10 novembre, une décision de la cour d’appel de Paris qui avait rejeté la demande de Houria Aouimeur de se voir reconnaître le statut de lanceuse d’alerte. L’affaire, qui va être rejugée, constitue un des volets du scandale des entreprises en faillite.",
+        "image": "https://img.lemde.fr/2026/11/18/1432/0/5504/2752/644/322/60/0/dfe425a_upload-1-6roqpfmojyge-abaca-855938-002.jpg",
+        "publishedAt": "2026-11-18T18:09:25.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "a10e69b05de",
+        "title": "Présidentielle 2027 : « Ordre et Progrès », pour relancer sa campagne, Édouard Philippe s’essaie au positivisme",
+        "link": "https://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-ordre-et-progres-pour-relancer-sa-campagne-edouard-philippe-sessaie-au-positivisme",
+        "summary": "Que fallait-il retenir de cette conférence de presse, convoquée ce 18 novembre, à onze heures, par Édouard Philippe sous la verrière Belle Époque de l’Albert School, dans le dixième arrondissement... L’article Présidentielle 2027 : « Ordre et Progrès », pour relancer sa campagne, Édouard Philippe s’",
+        "image": null,
+        "publishedAt": "2026-11-18T18:00:30.000Z",
+        "source": "Valeurs actuelles",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
+      },
+      {
+        "id": "aec4c23cdb6",
+        "title": "Danemark : pour la première fois, la cheffe du gouvernement, Mette Frederiksen, parle du « grand remplacement »",
+        "link": "https://www.lemonde.fr/international/article/2026/11/18/danemark-pour-la-premiere-fois-la-cheffe-du-gouvernement-mette-frederiksen-parle-du-grand-remplacement_6813184_3210.html",
+        "summary": "Dans un podcast, mardi 17 novembre, la responsable sociale-démocrate a évoqué la théorie complotiste, se livrant à une nouvelle surenchère dans le domaine de l’immigration. Ses propos ont été salués par l’extrême droite européenne.",
+        "image": "https://img.lemde.fr/2026/11/16/405/0/4864/2432/644/322/60/0/d668e44_ftp-1-e136ik95rjen-2026-11-16t154235z-407822163-rc23poajuozr-rtrmadp-3-europe-migration-rwanda.JPG",
+        "publishedAt": "2026-11-18T18:00:06.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "a755260279b",
+        "title": "Les salaires subissent-ils leur baisse la plus durable «depuis la Seconde Guerre mondiale», comme l’affirme Sophie Binet ?",
+        "link": "https://www.lefigaro.fr/social/les-salaires-subissent-ils-leur-baisse-la-plus-durable-depuis-la-seconde-guerre-mondiale-comme-l-affirme-sophie-binet-20261118",
+        "summary": "LA VÉRIF’ - Pour la numéro un de la CGT, la colère sociale actuelle est le fruit d’une baisse des rémunérations inédite en France. Le salaire moyen serait toujours inférieur à son niveau de 2021, selon la syndicaliste.",
+        "image": "https://i.f1g.fr/media/cms/3000x2005_crop/2026/11/18/8559f38b1e1e6fea6a30a62fe2f8cb970de43f03679077696d95e7460bcfcd42.jpg",
+        "publishedAt": "2026-11-18T18:00:00.000Z",
         "source": "Le Figaro",
         "lang": "fr",
         "country": "FR",
         "lean": 1.5
       },
       {
-        "id": "a97589075c3",
-        "title": "Sortie de GTA VI : à quelle heure les joueurs français pourront-ils commencer leur aventure ce jeudi ?",
-        "link": "https://www.lefigaro.fr/secteur/high-tech/sortie-de-gta-vi-a-quelle-heure-les-joueurs-francais-pourront-ils-commencer-leur-aventure-ce-jeudi-20261118",
-        "summary": "Après deux reports, un des jeux vidéo les plus attendus de la décennie sort ce jeudi sur PS5 et Xbox Series X|S.",
-        "image": "https://i.f1g.fr/media/cms/orig/2026/11/18/051cd7c7dfbc215aca30161a883e9d0f34be4c2e2f77d3e0192828a023036b21.JPG",
-        "publishedAt": "2026-11-18T12:09:00.000Z",
+        "id": "a68037a9481",
+        "title": "Vente flash : profitez de 36 % de réduction sur le fer à lisser ghd Original",
+        "link": "https://www.lefigaro.fr/bons-plans/beaute/vente-flash-profitez-de-36-de-reduction-sur-le-fer-a-lisser-ghd-original-20261118",
+        "summary": "Obtenir un coiffage digne d’un salon professionnel chez soi, sans agresser sa chevelure ? Vous en rêviez, le lisseur ghd Original l’a fait ! Conçu pour chaque type de texture, cet appareil de légende sublime vos cheveux tout en leur redonnant l’éclat qu’ils méritent.",
+        "image": "https://i.f1g.fr/media/cms/1200x800_crop/2026/11/13/a6c156811ad519e246c211231ad33e3f1192243751731a4246644cb33151ce2a.jpg",
+        "publishedAt": "2026-11-18T17:56:00.000Z",
         "source": "Le Figaro",
         "lang": "fr",
         "country": "FR",
         "lean": 1.5
       },
       {
-        "id": "ad4a2f6c85d",
-        "title": "Irène Sapir, rescapée de la Shoah et passeuse de mémoire, donne son nom à une école primaire de Bergerac",
-        "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/irene-sapir-rescapee-de-la-shoah-et-passeuse-de-memoire-donne-son-nom-a-une-ecole-primaire-de-bergerac_8287697.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "Le conseil municipal de Bergerac, dans le Lot, a rebaptisé mardi une de ses écoles du nom d'Irène Sapir, militante communiste et survivante de la Rafle du Vel d'Hiv. Une décision qui n'a pas fait l'unanimité dans la commune.",
-        "image": "https://www.franceinfo.fr/pictures/-mFLlendUEcAtZwUaBogpC9EP7A/0x17:1206x695/432x243/filters:format(jpg)/2026/11/18/6afd94a1185b2546249174.png",
-        "publishedAt": "2026-11-18T12:07:51.000Z",
-        "source": "franceinfo",
+        "id": "a77ef1511c9",
+        "title": "«C’était courtois, ils se sont bien marrés et c’était intéressant» : récit du dîner entre Jean-Luc Mélenchon et les grands patrons",
+        "link": "https://www.liberation.fr/politique/cetait-courtois-ils-se-sont-bien-marres-et-cetait-interessant-recit-du-diner-entre-jean-luc-melenchon-et-les-grands-patrons-20261118_DV4MCKQXPFB3ZLNZGPC4MJ3QUU/",
+        "summary": "Initialement prévue au prestigieux restaurant Drouant, la rencontre entre le candidat insoumis et 13 hauts dirigeants comme Bernard Arnault ou Patrick Pouyanné, s’est finalement tenue mardi 17 novembre dans un lieu discret du VIIIe arrondissement de Paris.",
+        "image": null,
+        "publishedAt": "2026-11-18T17:51:48.000Z",
+        "source": "Libération",
         "lang": "fr",
         "country": "FR",
-        "lean": 0
+        "lean": -1.5
       },
       {
-        "id": "ada293eab74",
-        "title": "Colère lycéenne : LFI veut amnistier les mineurs poursuivis ou condamnés",
-        "link": "https://www.lejdd.fr/politique/colere-lyceenne-lfi-veut-amnistier-les-mineurs-poursuivis-ou-condamnes-189069",
-        "summary": "La France insoumise a présenté mardi une proposition de loi visant à amnistier les mineurs poursuivis pour des délits commis lors des mobilisations lycéennes. Le texte prévoit également l’effacement des sanctions disciplinaires prononcées dans les établissements scolaires.",
-        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/18/12/089_mei-fra-ddmi-pspsc-20261008-0261.jpg?VersionId=YonSDZqUwhk8amvK5fkKaF6_IjJKC_75",
-        "publishedAt": "2026-11-18T12:02:50.000Z",
+        "id": "aa777154809",
+        "title": "Xenia Fedorova dénoncée par le Quai d'Orsay, Jean-Luc Mélenchon contre la bombe atomique",
+        "link": "https://www.lexpress.fr/secret-defense/xenia-fedorova-denoncee-par-le-quai-dorsay-jean-luc-melenchon-contre-la-bombe-atomique-BXWJPZJD3ZHKHIZRQACS5AZE5U/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/KDLK2T4ULFDIFBKRERQ4VGCAN4.JPG?auth=f644f6edf762a6d3ed3ec8a322f9ca7f2687896e166462bdd3830aa13a9a2560&smart=true&width=2738&height=1825",
+        "publishedAt": "2026-11-18T17:17:55.000Z",
+        "source": "L'Express",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1
+      },
+      {
+        "id": "ae4368aac6a",
+        "title": "Horreur lors d'un home-jacking en Belgique : un père de famille torturé, son nourrisson de cinq mois enlevé",
+        "link": "https://www.lejdd.fr/Societe/horreur-lors-dun-home-jacking-en-belgique-un-pere-de-famille-torture-son-nourrisson-de-cinq-mois-enleve-189099",
+        "summary": "Un couple de jeunes parents a été torturé à son domicile en Belgique par des hommes qui cherchaient à accéder aux cryptomonnaies du père.",
+        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/18/17/080_hl_bohier_2997732.jpg?VersionId=GY4NmCMPxNPdRvLTaXf4gppcCexu.rMu",
+        "publishedAt": "2026-11-18T16:58:32.000Z",
         "source": "Le JDD",
         "lang": "fr",
         "country": "FR",
         "lean": 2
       },
       {
-        "id": "a1989024f1a",
-        "title": "\"Il y a eu un vacarme, comme un TGV qui rentre dans la rue\" : une tornade traverse un village du Pas-de-Calais",
-        "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tornades/il-y-a-eu-un-vacarme-comme-un-tgv-qui-rentre-dans-la-rue-une-tornade-traverse-un-village-du-pas-de-calais_8287994.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "Un événement très localisé s'est produit dans les rues de Boiry-Becquerelle, dans le Pas-de-Calais. Chute de fils électriques, toitures et portails arrachés… Le vent violent a provoqué des dégâts matériels importants.",
-        "image": "https://www.franceinfo.fr/pictures/has5z2B6x1M7EahsM00ItV7rr_c/0x0:1521x856/432x243/filters:format(jpg)/2026/11/18/6afd734b7a264414760438.jpg",
-        "publishedAt": "2026-11-18T09:45:28.000Z",
+        "id": "a2e741eb9ef",
+        "title": "Le meilleur fromage du monde est un comté Juraflore 24 mois : les clients qui l'ont goûté approuvent ce choix",
+        "link": "https://www.franceinfo.fr/culture/cuisine-et-gastronomie/le-meilleur-fromage-du-monde-est-un-comte-juraflore-24-mois-les-clients-qui-l-ont-goute-approuvent-ce-choix_8288546.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Savez-vous quel est le meilleur fromage du monde ? Il s'agit du comté Juraflore, qui vient d'être élu numéro un parmi plus de 5 000 fromages d'une quarantaine de pays. C'est un comté de 24 mois maturé dans les caves d'un ancien fort militaire dans la commune des Rousses, à la frontière avec la Suiss",
+        "image": "https://www.franceinfo.fr/pictures/0rvmbI27BtC7kXN79mV_ZmgjRvk/0x69:993x628/432x243/filters:format(jpg)/2026/11/18/6afdca5f2fcff293897519.jpg",
+        "publishedAt": "2026-11-18T16:50:03.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "ad0f3d08a68",
+        "title": "\"Cela vaut mille Légions d'honneur\" : une école prend le nom d'une rescapée du Vél' d'Hiv",
+        "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/cela-vaut-mille-legions-d-honneur-une-ecole-prend-le-nom-d-une-rescapee-du-vel-d-hiv_8288483.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "À Bergerac, en Dordogne, une rescapée de la déportation, Irène Sapir, 89 ans, s’est retrouvée malgré elle au cœur d’une polémique. Des élus RN ont en effet refusé qu’une école porte son nom car elle était militante communiste. Après délibération, l’établissement porte bien son nom.",
+        "image": "https://www.franceinfo.fr/pictures/sgjy1XPjGvcIP5dTNjRwO4oanV4/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/18/6afdc4a1da990941056541.jpg",
+        "publishedAt": "2026-11-18T16:43:37.000Z",
         "source": "franceinfo",
         "lang": "fr",
         "country": "FR",
@@ -1381,36 +1429,48 @@
     ],
     "monde": [
       {
-        "id": "a46335e0823",
-        "title": "tagesschau",
-        "link": "https://www.tagesschau.de/tagesschau/ts-82154.html",
-        "summary": "tagesschau",
-        "image": null,
-        "publishedAt": "2026-11-18T13:11:01.000Z",
+        "id": "a216c8d5b0a",
+        "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+        "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+        "summary": "Donnerstag breiten sich teilweise kräftige Regenfälle aus der Südwesthälfte in den Norden und Osten aus. Dahinter locket es auf und es folgen Schauer. Dabei ist es windig bis stürmisch. 4 bis 14 Grad.",
+        "image": "https://images.tagesschau.de/image/e7904a01-0786-494a-996d-b1dfd43b3049/AAABoe_Y3aI/AAABnSSvrFg/16x9-big/teaserbild-124.jpg?width=1920",
+        "publishedAt": "2026-11-18T18:14:51.000Z",
         "source": "Tagesschau",
         "lang": "de",
         "country": "DE",
         "lean": 0
       },
       {
-        "id": "ae54ccd81a1",
-        "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-        "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-        "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another car",
-        "image": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=140&quality=85&auto=format&fit=max&s=ea3a6c350de36a5ebefbb42b1e349a25",
-        "publishedAt": "2026-11-18T13:00:04.000Z",
+        "id": "a6addfade59",
+        "title": "Cheese, pet passports and youth mobility: what’s in the UK-EU ‘relationship reset’ draft?",
+        "link": "https://www.theguardian.com/politics/2026/nov/18/uk-eu-relationship-reset-draft-explainer",
+        "summary": "Leaked text of 72-paragraph second draft shows agreement has largely been reached before expected signoff on Friday The UK-EU “relationship reset” agreement, which began in earnest under Keir Starmer, is expected to be signed off by Andy Burnham in Brussels on Friday. A leaked text of the second dra",
+        "image": "https://i.guim.co.uk/img/media/25aedc768a726dfcb833778bfe46c3e276384b86/960_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=f5c40a40536329ad664a49b859e40d34",
+        "publishedAt": "2026-11-18T17:56:39.000Z",
         "source": "The Guardian",
         "lang": "en",
         "country": "GB",
         "lean": -1.5
       },
       {
-        "id": "aeba19e7327",
-        "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-        "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-        "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
-        "publishedAt": "2026-11-18T12:39:24.000Z",
+        "id": "abd5806ebe2",
+        "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
+        "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+        "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg",
+        "publishedAt": "2026-11-18T17:51:47.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      },
+      {
+        "id": "aa4c7a879cd",
+        "title": "New video shows explosions moments before part of Crimea Bridge collapses",
+        "link": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Verify analyses footage showing the final moments before part of the bridge fell and videos showing the scale of destruction.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442c/live/51ebbbe0-e36d-11f1-99a1-253766e7ad8b.png",
+        "publishedAt": "2026-11-18T17:09:43.000Z",
         "source": "BBC News",
         "lang": "en",
         "country": "GB",
@@ -1418,35 +1478,35 @@
       },
       {
         "id": "a7595dd8e66",
-        "title": "England rub salt into Australian wounds as sandpapergate civil war rages on",
+        "title": "England feast on Australia chaos to land early Ashes blow",
         "link": "https://www.telegraph.co.uk/cricket/2026/11/18/australia-vs-england-score-updates-third-odi-hobart/",
-        "summary": "England rub salt into Australian wounds as sandpapergate civil war rages on",
+        "summary": "England feast on Australia chaos to land early Ashes blow",
         "image": "https://www.telegraph.co.uk/content/dam/cricket/2026/11/18/TELEMMGLPICT000512103485_17950046134350_trans_NvBQzQNjv4BqM1jqde5a-OJSmCYBLBIfDf4Xpit_DMGvdp2n7FDd82k.jpeg",
-        "publishedAt": "2026-11-18T12:37:27.000Z",
+        "publishedAt": "2026-11-18T16:48:22.000Z",
         "source": "The Telegraph",
         "lang": "en",
         "country": "GB",
         "lean": 1.5
       },
       {
-        "id": "a8480cf77be",
-        "title": "Who to watch in Spain's election race",
-        "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-        "summary": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
-        "publishedAt": "2026-11-18T11:44:25.000Z",
-        "source": "BBC News",
+        "id": "a57b17d2446",
+        "title": "Theodore Zeldin obituary",
+        "link": "https://www.theguardian.com/books/2026/nov/18/theodore-zeldin-obituary",
+        "summary": "Revered historian, author and francophile with a novelistic approach to his subject On the website the Oxford Muse , which the francophile Oxford historian Theodore Zeldin set up in 2001 to bring strangers together for mutually liberating conversations, there is a little section on dancing. “Few rea",
+        "image": "https://i.guim.co.uk/img/media/68f3a3b5dba2762d60cb95cdc6879523e1238879/1078_548_4044_3235/master/4044.jpg?width=140&quality=85&auto=format&fit=max&s=ad13e730de0af15aacc7666070da82f2",
+        "publishedAt": "2026-11-18T15:42:17.000Z",
+        "source": "The Guardian",
         "lang": "en",
         "country": "GB",
-        "lean": 0
+        "lean": -1.5
       },
       {
-        "id": "a56eb16100f",
-        "title": "Axes, cutlass and blunt objects: Nigeria's campaign trail of violence",
-        "link": "https://www.dw.com/en/axes-cutlass-and-blunt-objects-nigeria-s-campaign-trail-of-violence/a-79978467?maca=en-rss-en-world-4025-rdf",
-        "summary": "As Nigeria's January 2027 polls inch closer, a spate of violence and political thuggery during campaign rallies and town hall meetings is raising concerns about the safety of citizens participating in the election.",
+        "id": "af692f498bf",
+        "title": "North Korea expanded uranium enrichment plant, says IAEA head",
+        "link": "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758?maca=en-rss-en-world-4025-rdf",
+        "summary": "IAEA chief Rafael Grossi has said the ongoing expansion of North Korea's uranium enrichment program remains \"a cause for serious concern.\"",
         "image": null,
-        "publishedAt": "2026-11-18T10:56:00.000Z",
+        "publishedAt": "2026-11-18T15:15:00.000Z",
         "source": "Deutsche Welle",
         "lang": "en",
         "country": "DE",
@@ -1463,18 +1523,6 @@
         "lang": "en",
         "country": "GB",
         "lean": 0.5
-      },
-      {
-        "id": "a77e030b958",
-        "title": "Macron banned smartphones in schools. A month later, France was ablaze. Could they be connected? | Joseph de Weck",
-        "link": "https://www.theguardian.com/commentisfree/2026/nov/18/macron-banned-smartphones-in-schools-a-month-later-france-was-ablaze-could-they-be-connected",
-        "summary": "French teachers argue that a digital detox woke students up to the decrepit state of their schools – and drove them out into the streets Remember the 1999 blockbuster The Matrix ? It may be more than a quarter of a century old, but it has become a byword and a meme for a frighteningly plausible kind",
-        "image": "https://i.guim.co.uk/img/media/fc51c1c991d7571d2759171894ef70d921347067/1227_0_6946_5557/master/6946.jpg?width=140&quality=85&auto=format&fit=max&s=8d5a638c0ed32a3c1113710a4716f9e4",
-        "publishedAt": "2026-11-18T05:00:32.000Z",
-        "source": "The Guardian",
-        "lang": "en",
-        "country": "GB",
-        "lean": -1.5
       }
     ]
   },
@@ -1579,7 +1627,7 @@
       "name": "Sky News (GB)",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 7
+      "count": 5
     },
     {
       "name": "Deutsche Welle (DE)",
@@ -1597,7 +1645,7 @@
       "name": "Der Spiegel (DE)",
       "url": "https://www.spiegel.de/international/index.rss",
       "ok": true,
-      "count": 1
+      "count": 2
     },
     {
       "name": "NPR (US)",
@@ -1657,7 +1705,7 @@
       "name": "Daily Sabah (TR)",
       "url": "https://www.dailysabah.com/rssFeed/10",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "name": "The Times of India (IN)",
