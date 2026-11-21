@@ -1,0 +1,1459 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T13:07:33.108Z",
+  "status": "partielle",
+  "stories": {
+    "france": [
+      {
+        "id": "sd2cb7b3f27",
+        "topic": "environnement",
+        "title": "Inondations majeures et évacuations de centaines d'habitants dans le Pas-de-Calais",
+        "context": "Le département du Pas-de-Calais fait face à la répétition d'épisodes de pluies intenses depuis les crues marquantes de 2023. Plusieurs cours d'eau du secteur restent sous haute surveillance.",
+        "summary": "À la suite de fortes précipitations, près de 800 personnes ont dû être évacuées dans le Pas-de-Calais. Des rues et des habitations se retrouvent submergées, entraînant la fermeture d'écoles. Bien que les pluies aient cessé, les autorités préfectorales indiquent que la décrue n'est pas encore amorcée et que des cours d'eau comme la Canche demeurent en vigilance orange. Des pompes à haute puissance ont été déployées pour dégager les zones impactées, tandis que la fatigue et la colère grandissent parmi la population locale.",
+        "plain": "EN CLAIR : De violentes inondations frappent le Pas-de-Calais, forçant près de 800 habitants à quitter leur logement. Les cours d'eau restent très hauts et la décrue se fait attendre, ce qui exaspère les riverains confrontés à ces crues récurrentes.",
+        "chart": null,
+        "stakes": [
+          "Comment adapter rapidement l'aménagement du territoire face aux inondations à répétition ?",
+          "Quelles mesures d'indemnisation et de secours déployer pour aider les sinistrés ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Intempéries dans le Pas-de-Calais : \"Nous sommes sur un plateau, la décrue n'est pas amorcée\", indique le préfet",
+            "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/intemperies-dans-le-pas-de-calais-nous-sommes-sur-un-plateau-la-decrue-n-est-pas-amorcee-indique-le-prefet_8293568.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-21T09:44:47.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "franceinfo",
+            "title": "REPORTAGE. \"Il aurait fallu réagir avant\" : dans le Pas-de-Calais, des habitants fatigués et en colère face à des crues à répétition",
+            "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/il-aurait-fallu-reagir-avant-dans-le-pas-de-calais-des-habitants-fatigues-et-en-colere-face-a-des-crues-a-repetition_8293445.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-21T08:08:46.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Monde",
+            "title": "Inondations dans le Pas-de-Calais : deux cours d’eau en vigilance orange ; près de 800 évacuations depuis jeudi, selon la préfecture",
+            "link": "https://www.lemonde.fr/planete/article/2026/11/21/inondations-dans-le-pas-de-calais-la-canche-reste-en-vigilance-orange-pres-de-800-evacuations-depuis-jeudi-selon-la-prefecture_6813953_3244.html",
+            "publishedAt": "2026-11-21T07:01:53.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Libération",
+            "title": "Inondations dans le Pas-de-Calais : 800 personnes évacuées depuis jeudi, la Canche reste en vigilance orange",
+            "link": "https://www.liberation.fr/societe/inondations-dans-le-pas-de-calais-800-personnes-evacuees-depuis-jeudi-la-canche-reste-en-vigilance-orange-20261121_UL3RUAMHAZGP5A2MBEUUDKN5MQ/",
+            "publishedAt": "2026-11-21T11:02:39.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "La Croix",
+            "title": "Pas-de-Calais : routes et maisons inondées, 800 personnes évacuées",
+            "link": "https://www.la-croix.com/pas-de-calais-routes-et-maisons-inondees-la-pluie-devrait-diminuer-20261120",
+            "publishedAt": "2026-11-21T11:25:01.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/8P1vf22o5l6DW0hIDx5dmyLG918/0x274:6036x3669/432x243/filters:format(jpg)/2026/11/21/6b01672beae36758772460.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/intemperies-dans-le-pas-de-calais-nous-sommes-sur-un-plateau-la-decrue-n-est-pas-amorcee-indique-le-prefet_8293568.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Major floods and evacuations of hundreds of residents in Pas-de-Calais",
+            "context": "The Pas-de-Calais department is facing recurring episodes of intense rainfall since the notable floods of 2023. Several rivers in the area remain under high surveillance.",
+            "summary": "Following heavy rainfall, nearly 800 people had to be evacuated in Pas-de-Calais. Streets and homes are submerged, leading to school closures. Although the rains have stopped, prefectural authorities indicate that the water levels have not yet begun to recede and that rivers like the Canche remain under orange alert. High-capacity pumps have been deployed to clear the impacted areas, while fatigue and anger are growing among the local population.",
+            "plain": "IN SHORT: Severe flooding is hitting Pas-de-Calais, forcing nearly 800 residents to leave their homes. Water levels remain very high and recession is slow, exasperating residents facing these recurring floods.",
+            "stakes": [
+              "How to quickly adapt land management in the face of repeated flooding?",
+              "What compensation and rescue measures should be deployed to help disaster victims?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Inundaciones importantes y evacuación de cientos de habitantes en el Paso de Calais",
+            "context": "El departamento del Paso de Calais se enfrenta a la repetición de episodios de lluvias intensas desde las inundaciones destacadas de 2023. Varios cursos de agua del sector siguen bajo alta vigilancia.",
+            "summary": "Tras las fuertes precipitaciones, cerca de 800 personas tuvieron que ser evacuadas en el Paso de Calais. Calles y viviendas se encuentran sumergidas, lo que provoca el cierre de escuelas. Aunque las lluvias han cesado, las autoridades prefectorales indican que el descenso del nivel del agua aún no ha comenzado y que los cursos de agua como la Canche permanecen en alerta naranja. Se han desplegado bombas de alta potencia para despejar las zonas afectadas, mientras la fatiga y la ira crecen entre la población local.",
+            "plain": "EN CLARA: Severas inundaciones golpean el Paso de Calais, obligando a casi 800 habitantes a abandonar sus hogares. Los ríos siguen muy altos y la bajada de caudal se hace esperar, lo que exaspera a los vecinos que se enfrentan a estas crecidas recurrentes.",
+            "stakes": [
+              "¿Cómo adaptar rápidamente la ordenación del territorio ante las inundaciones repetidas?",
+              "¿Qué medidas de indemnización y socorro desplegar para ayudar a los damnificados?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s7ccd8f5fc9",
+        "topic": "economie",
+        "title": "Désaccord européen sur la proposition de réduction du budget communautaire",
+        "context": "Les États membres de l'Union européenne préparent les négociations relatives au prochain cadre financier pluriannuel de l'UE à Bruxelles.",
+        "summary": "Le président du Conseil européen, António Costa, a soumis un projet de compromis incluant une réduction de 204 milliards d'euros du budget communautaire ainsi que l'instauration d'une taxe numérique sur les grands groupes technologiques. La présidence française a immédiatement qualifié cette offre de très décevante et l'a rejetée. Ce projet vise à rapprocher les positions divergentes des pays membres avant le sommet des dirigeants européens.",
+        "plain": "EN CLAIR : L'Union européenne cherche à fixer son budget pour les années à venir. La présidence du Conseil européen a proposé des coupes financières et une nouvelle taxe sur les géants du web, mais la France refuse ce texte qu'elle juge insatisfaisant.",
+        "chart": null,
+        "stakes": [
+          "La France peut-elle obtenir une révision des coupes budgétaires lors du sommet ?",
+          "Les Vingt-Sept parviendront-ils à un accord sur la taxation des géants de la technologie ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde (International)",
+            "title": "Budget de l’UE : Antonio Costa, le président du Conseil européen, propose 204 milliards d’euros d’économies et une taxe numérique",
+            "link": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
+            "publishedAt": "2026-11-21T11:01:50.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Libération",
+            "title": "Avant le sommet de l’UE consacré à son budget, la France s’oppose à la baisse de 204 milliards proposés par le Conseil européen",
+            "link": "https://www.liberation.fr/international/europe/avant-le-sommet-de-lue-consacre-a-son-budget-la-france-soppose-a-la-baisse-de-204-milliards-proposes-par-le-conseil-europeen-20261121_WO3IZVG2DZEUNIT5XYNT56C6RA/",
+            "publishedAt": "2026-11-21T11:56:25.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "L’UE présente un budget réduit de plus de 200 milliards d’euros dès 2028, Paris juge la proposition « très décevante »",
+            "link": "https://www.ouest-france.fr/europe/ue/lue-presente-un-budget-reduit-de-plus-de-200-milliards-deuros-des-2028-paris-juge-la-proposition-tres-decevante-55aa4488-e59b-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-21T12:08:02.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "The Hindu",
+            "title": "European Union proposes tax on Big Tech to boost budget",
+            "link": "https://www.thehindu.com/news/international/european-union-proposes-tax-on-big-tech-to-boost-budget/article71728111.ece",
+            "publishedAt": "2026-11-21T12:33:16.000Z",
+            "lang": "en",
+            "country": "IN"
+          },
+          {
+            "name": "The Straits Times",
+            "title": "Latest EU budget proposal is 'very disappointing', French presidency says",
+            "link": "https://www.straitstimes.com/world/europe/latest-eu-budget-proposal-is-very-disappointing-french-presidency-says",
+            "publishedAt": "2026-11-21T11:25:35.000Z",
+            "lang": "en",
+            "country": "SG"
+          },
+          {
+            "name": "South China Morning Post",
+            "title": "EU eyes tax on Big Tech to boost budget",
+            "link": "https://www.scmp.com/news/world/europe/article/3375333/eu-eyes-tax-big-tech-boost-budget",
+            "publishedAt": "2026-11-21T11:51:18.000Z",
+            "lang": "en",
+            "country": "HK"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/20/476/0/5712/2856/644/322/60/0/138f446_ftp-1-zcn4jvzlfhs4-2026-11-20t140649z-844608601-rc2oroa6b6of-rtrmadp-3-eu-britain-summit-burnham.JPG",
+          "credit": "Le Monde (International)",
+          "link": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "European disagreement over the proposed reduction of the community budget",
+            "context": "Member States of the European Union are preparing negotiations regarding the next multiannual financial framework of the EU in Brussels.",
+            "summary": "The President of the European Council, António Costa, has submitted a compromise project including a 204 billion euro reduction in the community budget as well as the introduction of a digital tax on large tech groups. The French presidency immediately described this offer as very disappointing and rejected it. This project aims to bridge the divergent positions of member countries before the European leaders' summit.",
+            "plain": "IN SHORT: The European Union is trying to set its budget for the coming years. The presidency of the European Council has proposed financial cuts and a new tax on web giants, but France refuses this text, considering it unsatisfactory.",
+            "stakes": [
+              "Can France obtain a revision of the budget cuts during the summit?",
+              "Will the Twenty-Seven reach an agreement on the taxation of technology giants?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Desacuerdo europeo sobre la propuesta de reducción del presupuesto comunitario",
+            "context": "Los Estados miembros de la Unión Europea preparan las negociaciones relativas al próximo marco financiero plurianual de la UE en Bruselas.",
+            "summary": "El presidente del Consejo Europeo, António Costa, ha presentado un proyecto de compromiso que incluye una reducción de 204.000 millones de euros en el presupuesto comunitario, así como el establecimiento de un impuesto digital sobre los grandes grupos tecnológicos. La presidencia francesa calificó inmediatamente esta oferta de muy decepcionante y la rechazó. Este proyecto pretende acercar las posiciones divergentes de los países miembros antes de la cumbre de líderes europeos.",
+            "plain": "EN CLARA: La Unión Europea busca fijar su presupuesto para los próximos años. La presidencia del Consejo Europeo ha propuesto recortes financieros y un nuevo impuesto a los gigantes de internet, pero Francia rechaza este texto por considerarlo insatisfactorio.",
+            "stakes": [
+              "¿Puede Francia obtener una revisión de los recortes presupuestarios durante la cumbre?",
+              "¿Lograrán los Veintisiete un acuerdo sobre la tributación de los gigantes tecnológicos?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sacf404f6e9",
+        "topic": "international",
+        "title": "Vives inquiétudes européennes après des incidents militaires attribués à la Russie",
+        "context": "Les relations entre les pays de l'Alliance atlantique et Moscou sont extrêmement tendues dans le contexte de la guerre en Ukraine et des manœuvres militaires en Europe.",
+        "summary": "La Pologne a dénoncé comme une provocation la chute d'un missile russe sur son territoire lors d'exercices militaires alliés. Parallèlement, le Danemark a accusé la Russie d'avoir planifié l'assassinat d'un rappeur ukrainien sur son sol et a décidé d'expulser l'attaché de défense russe. Le président français Emmanuel Macron et la présidente de la Commission européenne Ursula von der Leyen ont dénoncé l'intensification des actions agressives et des tentatives de sabotage russes sur le continent. Un cargo russe a également été ciblé par des drones en mer Baltique.",
+        "plain": "EN CLAIR : Plusieurs incidents graves, dont un missile tombé en Pologne et une tentative d'assassinat déjouée au Danemark, ravivent l'inquiétude en Europe. Les dirigeants alliés dénoncent une multiplication des provocations russes.",
+        "chart": null,
+        "stakes": [
+          "Quelle réponse collective l'OTAN et l'UE apporteront-elles face aux violations d'espace aérien ?",
+          "Jusqu'où peut s'étendre l'escalade des tensions hybrides entre la Russie et ses voisins ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-21T02:09:46.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland",
+            "link": "https://www.theguardian.com/world/2026/nov/21/ukraine-war-briefing-european-leaders-react-with-anger-and-alarm-after-russian-missiles-crash-in-poland",
+            "publishedAt": "2026-11-21T02:41:14.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Sky News",
+            "title": "Denmark says it thwarted 'Russian plot' to kill US-Ukrainian rapper",
+            "link": "https://news.sky.com/story/denmark-says-it-thwarted-russian-plot-to-kill-us-ukrainian-rapper-kyivstoner-13614604",
+            "publishedAt": "2026-11-21T05:15:00.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Wall Street Journal",
+            "title": "Denmark Accuses Russia of Trying to Kill Ukrainian Rapper",
+            "link": "https://www.wsj.com/world/europe/denmark-accuses-russia-of-trying-to-kill-ukrainian-rapper-a3a5e34c?mod=rss_worldnews",
+            "publishedAt": "2026-11-21T00:39:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "Russian threats ‘less and less hybrid,’ Von der Leyen says after assassination plot in Denmark",
+            "link": "https://www.politico.eu/article/russian-threats-less-hybrid-von-der-leyen-says-assassination-plot-ukrainian-rapper-kyivstoner-denmark/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-21T11:43:12.000Z",
+            "lang": "en",
+            "country": "BE"
+          },
+          {
+            "name": "France 24",
+            "title": "Le Danemark accuse la Russie d'avoir tenté d'assassiner un rappeur ukrainien",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261121-le-danemark-accuse-la-russie-d-avoir-tent%C3%A9-d-assassiner-un-rappeur-ukrainien",
+            "publishedAt": "2026-11-21T12:14:58.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Euronews",
+            "title": "Macron alerte sur un « nouveau niveau » d’agression russe en Europe",
+            "link": "https://fr.euronews.com/2026/11/21/macron-alerte-sur-un-nouveau-niveau-dagression-russe-en-europe",
+            "publishedAt": "2026-11-21T11:23:41.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "EN DIRECT, guerre en Ukraine : « L’Ukraine a le droit de riposter contre l’agresseur », déclare le premier ministre finlandais, à la suite de l’attaque d’un cargo russe dont l’origine n’est pas encore connue",
+            "link": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-deux-morts-et-47-blesses-dans-des-frappes-russes-sur-kryvy-rih-ville-natale-de-volodymyr-zelensky_6810982_3210.html",
+            "publishedAt": "2026-11-21T05:38:14.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Sharp European concerns following military incidents attributed to Russia",
+            "context": "Relations between Atlantic Alliance countries and Moscow are extremely tense in the context of the war in Ukraine and military maneuvers in Europe.",
+            "summary": "Poland denounced as a provocation the crash of a Russian missile on its territory during allied military exercises. Simultaneously, Denmark accused Russia of planning the assassination of a Ukrainian rapper on its soil and decided to expel the Russian defense attaché. French President Emmanuel Macron and European Commission President Ursula von der Leyen denounced the intensification of aggressive actions and Russian sabotage attempts on the continent. A Russian cargo ship was also targeted by drones in the Baltic Sea.",
+            "plain": "IN SHORT: Several serious incidents, including a missile falling in Poland and a thwarted assassination attempt in Denmark, are reigniting concern in Europe. Allied leaders denounce a multiplication of Russian provocations.",
+            "stakes": [
+              "What collective response will NATO and the EU provide in the face of airspace violations?",
+              "How far can the escalation of hybrid tensions between Russia and its neighbors extend?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Vivas preocupaciones europeas tras incidentes militares atribuidos a Rusia",
+            "context": "Las relaciones entre los países de la Alianza Atlántica y Moscú son extremadamente tensas en el contexto de la guerra en Ucrania y las maniobras militares en Europa.",
+            "summary": "Polonia denunció como una provocación la caída de un misil ruso en su territorio durante ejercicios militares aliados. Paralelamente, Dinamarca acusó a Rusia de haber planeado el asesinato de un rapero ucraniano en su suelo y decidió expulsar al agregado de defensa ruso. El presidente francés, Emmanuel Macron, y la presidenta de la Comisión Europea, Ursula von der Leyen, denunciaron la intensificación de las acciones agresivas y los intentos de sabotaje ruso en el continente. Un carguero ruso también fue blanco de drones en el mar Báltico.",
+            "plain": "EN CLARA: Varios incidentes graves, incluido un misil caído en Polonia y un intento de asesinato frustrado en Dinamarca, reavivan la preocupación en Europa. Los líderes aliados denuncian una multiplicación de las provocaciones rusas.",
+            "stakes": [
+              "¿Qué respuesta colectiva aportarán la OTAN y la UE ante las violaciones del espacio aéreo?",
+              "¿Hasta dónde puede extenderse la escalada de tensiones híbridas entre Rusia y sus vecinos?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sf926c87686",
+        "topic": "justice",
+        "title": "Trois policiers condamnés pour l'agression du producteur Michel Zecler",
+        "context": "En 2020, l'agression à Paris du producteur de musique noir Michel Zecler par des policiers avait suscité une vive émotion et relancé le débat sur le maintien de l'ordre.",
+        "summary": "La justice française a rendu son verdict en condamnant trois policiers poursuivis pour l'agression de Michel Zecler survenue en 2020. Le tribunal a retenu la circonstance aggravante de racisme. L'intervention violente des forces de l'ordre dans le studio de la victime avait été intégralement captée par des caméras de vidéo-surveillance.",
+        "plain": "EN CLAIR : Les juges ont condamné trois policiers qui avaient violenté le producteur de musique Michel Zecler en 2020 dans son studio. La justice a confirmé que l'agression comportait un caractère raciste.",
+        "chart": null,
+        "stakes": [
+          "Quel impact ce jugement aura-t-il sur l'encadrement des pratiques policières ?",
+          "Comment renforcer la confiance entre la population et les forces de l'ordre ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "French police officers sentenced for beating of music producer Michel Zecler",
+            "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-20T22:37:09.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Guardian",
+            "title": "French police officers found guilty of racist assault on black music producer",
+            "link": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+            "publishedAt": "2026-11-20T22:23:53.000Z",
+            "lang": "en",
+            "country": "GB"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Three police officers convicted for the assault on producer Michel Zecler",
+            "context": "In 2020, the assault in Paris on black music producer Michel Zecler by police officers sparked strong emotion and revived the debate on law enforcement practices.",
+            "summary": "French justice delivered its verdict by convicting three police officers prosecuted for the assault on Michel Zecler that occurred in 2020. The court retained the aggravating circumstance of racism. The violent intervention of law enforcement in the victim's studio was entirely captured by closed-circuit television cameras.",
+            "plain": "IN SHORT: Judges have convicted three police officers who assaulted music producer Michel Zecler in his studio in 2020. The court confirmed that the assault had a racist character.",
+            "stakes": [
+              "What impact will this judgment have on the oversight of police practices?",
+              "How to strengthen trust between the population and law enforcement?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Tres policías condenados por la agresión al productor Michel Zecler",
+            "context": "En 2020, la agresión en París al productor musical negro Michel Zecler por parte de policías suscitó una gran emoción y relanzó el debate sobre el mantenimiento del orden.",
+            "summary": "La justicia francesa emitió su veredicto condenando a tres policías procesados por la agresión a Michel Zecler ocurrida en 2020. El tribunal retuvo la circunstancia agravante de racismo. La violenta intervención de las fuerzas del orden en el estudio de la víctima fue íntegramente captada por cámaras de videovigilancia.",
+            "plain": "EN CLARA: Los jueces han condenado a tres policías que agredieron al productor musical Michel Zecler en su estudio en 2020. La justicia confirmó que la agresión tenía un carácter racista.",
+            "stakes": [
+              "¿Qué impacto tendrá este fallo en el control de las prácticas policiales?",
+              "¿Cómo fortalecer la confianza entre la población y las fuerzas del orden?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s7cdc0f2759",
+        "topic": "justice",
+        "title": "Enquête judiciaire visant Gérard Depardieu et Michel Houellebecq",
+        "context": "L'acteur Gérard Depardieu fait déjà l'objet de plusieurs procédures et signalements judiciaires pour des violences sexuelles.",
+        "summary": "Une nouvelle enquête judiciaire a été ouverte par les autorités françaises à la suite d'une plainte déposée l'année dernière. Celle-ci vise l'acteur Gérard Depardieu ainsi que l'écrivain Michel Houellebecq. Les deux hommes sont accusés de faits de nature sexuelle et de viol commis en réunion sur un plateau de tournage en 2018.",
+        "plain": "EN CLAIR : Une enquête policière a été lancée à l'encontre de l'acteur Gérard Depardieu et de l'écrivain Michel Houellebecq. Une femme accuse les deux personnalités de viol et d'agression sexuelle lors d'un tournage.",
+        "chart": null,
+        "stakes": [
+          "Quelles vont être les suites des investigations menées par les enquêteurs ?",
+          "Comment le secteur culturel réagit-il à ces nouvelles mises en cause ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Gérard Depardieu and French author investigated over sexual allegations",
+            "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-20T19:45:20.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Gérard Depardieu and Michel Houellebecq investigated over on-set rape and assault allegations",
+            "link": "https://www.theguardian.com/film/2026/nov/20/gerard-depardieu-michel-houellebecq-investigated-allegations",
+            "publishedAt": "2026-11-20T16:54:57.000Z",
+            "lang": "en",
+            "country": "GB"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a6/live/0355fa40-e51b-11f1-99a1-253766e7ad8b.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Judicial investigation targeting Gérard Depardieu and Michel Houellebecq",
+            "context": "Actor Gérard Depardieu is already the subject of several legal proceedings and reports for sexual violence.",
+            "summary": "A new judicial investigation has been opened by French authorities following a complaint filed last year. This targets actor Gérard Depardieu as well as writer Michel Houellebecq. Both men are accused of sexual acts and gang rape committed on a film set in 2018.",
+            "plain": "IN SHORT: A police investigation has been launched against actor Gérard Depardieu and writer Michel Houellebecq. A woman accuses both personalities of rape and sexual assault during a filming.",
+            "stakes": [
+              "What will be the follow-up to the investigations conducted by the investigators?",
+              "How is the cultural sector reacting to these new accusations?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Investigación judicial contra Gérard Depardieu y Michel Houellebecq",
+            "context": "El actor Gérard Depardieu ya es objeto de varios procedimientos y denuncias judiciales por violencia sexual.",
+            "summary": "Las autoridades francesas han abierto una nueva investigación judicial tras una denuncia presentada el año pasado. Esta se dirige contra el actor Gérard Depardieu y el escritor Michel Houellebecq. Ambos hombres son acusados de actos de naturaleza sexual y violación cometidos en grupo en un plató de rodaje en 2018.",
+            "plain": "EN CLARA: Se ha abierto una investigación policial contra el actor Gérard Depardieu y el escritor Michel Houellebecq. Una mujer acusa a ambas personalidades de violación y agresión sexual durante un rodaje.",
+            "stakes": [
+              "¿Cuáles serán las consecuencias de las investigaciones llevadas a cabo por los investigadores?",
+              "¿Cómo reacciona el sector cultural ante estas nuevas imputaciones?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sbee25ea025",
+        "topic": "international",
+        "title": "Accord post-Brexit entre Londres et Bruxelles sur le commerce et les jeunes",
+        "context": "Dix ans après le vote du Brexit, le Royaume-Uni et l'Union européenne cherchent à assouplir et à moderniser le cadre de leurs relations bilatérales.",
+        "summary": "Le premier ministre britannique Andy Burnham a rencontré les représentants de l'Union européenne lors d'un sommet bilatéral inédit. Les deux parties ont signé des accords portant sur la fluidification des échanges commerciaux et la mobilité de la jeunesse. Si certains ministres britanniques rappellent la nécessité de prendre du temps sur les questions de souveraineté, ce rapprochement marque une étape symbolique importante dans la phase d'après-Brexit.",
+        "plain": "EN CLAIR : Le Royaume-Uni et l'UE ont conclu de nouveaux accords commerciaux et éducatifs pour faciliter les échanges dix ans après le Brexit. Les deux parties affichent leur volonté de normaliser leurs relations.",
+        "chart": null,
+        "stakes": [
+          "Jusqu'où le Royaume-Uni peut-il assouplir sa position post-Brexit sans rouvrir les débats internes ?",
+          "Quels bénéfices concrets ces accords apporteront-ils aux jeunes et aux entreprises ?"
+        ],
+        "sources": [
+          {
+            "name": "L'Express",
+            "title": "Royaume-Uni-UE : un sommet pour relancer les relations, dix ans après le Brexit",
+            "link": "https://www.lexpress.fr/monde/europe/royaume-uni-ue-un-sommet-pour-relancer-les-relations-dix-ans-apres-le-brexit-JCC4E4FSX5GZJJQO2GE3L3R5KA/",
+            "publishedAt": "2026-11-21T08:29:41.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+            "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-21T09:40:55.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "BBC News",
+            "title": "What the new UK-EU deal could mean for future post-Brexit relations",
+            "link": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-20T21:43:22.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
+            "link": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
+            "publishedAt": "2026-11-21T11:33:01.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
+            "link": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-20T14:30:00.000Z",
+            "lang": "en",
+            "country": "DE"
+          },
+          {
+            "name": "NPR",
+            "title": "The U.K. and EU hold a rare summit to strengthen ties",
+            "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
+            "publishedAt": "2026-11-20T09:14:41.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "10 years on, Britain reopens the Brexit fight — this time embracing the E.U.",
+            "link": "https://www.washingtonpost.com/world/2026/11/20/10-years-britain-reopens-brexit-fight-this-time-embracing-eu/",
+            "publishedAt": "2026-11-20T13:51:41.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "The biggest winners and losers of the EU-UK summit deals",
+            "link": "https://www.politico.eu/article/the-winners-and-losers-of-the-eu-uk-summit-deals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-20T17:24:57.000Z",
+            "lang": "en",
+            "country": "BE"
+          }
+        ],
+        "image": {
+          "url": "https://www.lexpress.fr/resizer/v2/UTWEJ3QE4NCOLAQJIFW3RAOFMQ.JPG?auth=6802c180b13bafcd717cb9b667f0c8c45c5d698d7e6dddcb2dded71cf2ee0bf6&smart=true&width=5712&height=3808",
+          "credit": "L'Express",
+          "link": "https://www.lexpress.fr/monde/europe/royaume-uni-ue-un-sommet-pour-relancer-les-relations-dix-ans-apres-le-brexit-JCC4E4FSX5GZJJQO2GE3L3R5KA/"
+        },
+        "i18n": {
+          "en": {
+            "title": "Post-Brexit agreement between London and Brussels on trade and youth",
+            "context": "Ten years after the Brexit vote, the United Kingdom and the European Union are seeking to ease and modernize the framework of their bilateral relations.",
+            "summary": "British Prime Minister Andy Burnham met with European Union representatives during an unprecedented bilateral summit. Both parties signed agreements regarding the streamlining of trade and youth mobility. While some British ministers recall the need to take time on sovereignty issues, this rapprochement marks an important symbolic step in the post-Brexit phase.",
+            "plain": "IN SHORT: The United Kingdom and the EU have concluded new trade and educational agreements to facilitate exchanges ten years after Brexit. Both parties display their willingness to normalize relations.",
+            "stakes": [
+              "How far can the UK ease its post-Brexit position without reopening internal debates?",
+              "What concrete benefits will these agreements bring to young people and businesses?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Acuerdo post-Brexit entre Londres y Bruselas sobre comercio y juventud",
+            "context": "Diez años después del voto del Brexit, el Reino Unido y la Unión Europea buscan flexibilizar y modernizar el marco de sus relaciones bilaterales.",
+            "summary": "El primer ministro británico, Andy Burnham, se reunió con representantes de la Unión Europea durante una cumbre bilateral sin precedentes. Ambas partes firmaron acuerdos sobre la agilización de los intercambios comerciales y la movilidad de los jóvenes. Aunque algunos ministros británicos recuerdan la necesidad de tomarse su tiempo en cuestiones de soberanía, este acercamiento marca un paso simbólico importante en la fase posterior al Brexit.",
+            "plain": "EN CLARA: El Reino Unido y la UE han concluido nuevos acuerdos comerciales y educativos para facilitar los intercambios diez años después del Brexit. Ambas partes muestran su voluntad de normalizar sus relaciones.",
+            "stakes": [
+              "¿Hasta dónde puede el Reino Unido flexibilizar su postura post-Brexit sin reabrir los debates internos?",
+              "¿Qué beneficios concretos aportarán estos acuerdos a los jóvenes y a las empresas?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s2e4fe0793d",
+        "topic": "environnement",
+        "title": "Blocage des discussions à la COP31 sur la fin des énergies fossiles",
+        "context": "La COP est la conférence annuelle de l'ONU sur le changement climatique, réunissant près de deux cents pays pour fixer la stratégie mondiale.",
+        "summary": "Les négociations internationales de la COP31 se sont poursuivies au-delà du terme prévu sans qu'aucun texte d'accord global n'ait été validé. Les blocages principaux portent sur la formulation exacte encadrant l'abandon des énergies fossiles. Dans le même temps, des organisations internationales comme l'UNICEF demandent une prise en compte accrue de la protection et des droits des enfants face aux désordres climatiques.",
+        "plain": "EN CLAIR : La conférence climat de l'ONU patine et joue les prolongations. Les diplomates ne parviennent pas à s'entendre sur le texte final concernant l'avenir des énergies fossiles.",
+        "chart": null,
+        "stakes": [
+          "Un compromis a minima peut-il être sauvé lors des prolongations ?",
+          "Quelles conséquences ce retard aura-t-il sur les objectifs mondiaux de réduction des émissions ?"
+        ],
+        "sources": [
+          {
+            "name": "L'Humanité",
+            "title": "COP31 : Aucun accord trouvé, les négociations patinent et les parties jouent les prolongations",
+            "link": "https://www.humanite.fr/environnement/climat/cop31-aucun-accord-trouve-les-negociations-patinent-et-les-parties-jouent-les-prolongations",
+            "publishedAt": "2026-11-21T11:24:43.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+            "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-21T09:52:11.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Daily Sabah",
+            "title": "UNICEF urges COP31 to put children at heart of climate action",
+            "link": "https://www.dailysabah.com/turkiye/unicef-urges-cop31-to-put-children-at-heart-of-climate-action/news",
+            "publishedAt": "2026-11-20T10:11:00.000Z",
+            "lang": "en",
+            "country": "TR"
+          }
+        ],
+        "image": {
+          "url": "https://www.humanite.fr/wp-content/uploads/2026/11/REA12034575_pr.jpg?w=800",
+          "credit": "L'Humanité",
+          "link": "https://www.humanite.fr/environnement/climat/cop31-aucun-accord-trouve-les-negociations-patinent-et-les-parties-jouent-les-prolongations"
+        }
+      },
+      {
+        "id": "s1c40396d9a",
+        "topic": "economie",
+        "title": "Vague d'inquiétude boursière autour du secteur de l'intelligence artificielle",
+        "context": "Les entreprises développant des technologies d'intelligence artificielle font face à des besoins massifs de financement de leurs infrastructures.",
+        "summary": "Les principales Bourses mondiales ont enregistré des baisses marquées en raison de doutes croissants des investisseurs sur les retours sur investissement du secteur de l'IA. La firme Anthropic a notamment vu son titre décrocher de plus de 10 % au lendemain de son entrée en Bourse sur le Nasdaq. La quantité considérable de capitaux nécessaires au secteur commence à susciter la prudence de la finance mondiale.",
+        "plain": "EN CLAIR : Les marchés boursiers traversent une zone de turbulences. Les investisseurs doutent désormais de la rentabilité rapide des investissements colossaux réalisés dans l'intelligence artificielle.",
+        "chart": null,
+        "stakes": [
+          "Cette baisse boursière s'agit-elle d'un simple ajustement ou d'un dégonflement durable de la bulle technologique ?",
+          "Comment les entreprises du secteur adapteront-elles leurs besoins en fonds propres ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Les marchés boursiers mondiaux ébranlés par la fébrilité autour de l’IA",
+            "link": "https://www.la-croix.com/les-bourses-mondiales-emportees-par-les-doutes-sur-la-rentabilite-de-l-ia-20261120",
+            "publishedAt": "2026-11-21T10:32:20.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "The Telegraph",
+            "title": "Anthropic plunges as Wall Street suffers AI sell-off",
+            "link": "https://www.telegraph.co.uk/business/2026/11/20/ai-tech-sell-off-anthropic-claude-nasdaq-ftse-100-markets/",
+            "publishedAt": "2026-11-20T21:07:18.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Sky News",
+            "title": "Anthropic among big fallers in global stock market rout",
+            "link": "https://news.sky.com/story/anthropic-among-big-fallers-in-global-stock-market-rout-13614361",
+            "publishedAt": "2026-11-20T13:39:00.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Japan Times",
+            "title": "Anthropic’s post-debut stumble delivers reality check for AI trade",
+            "link": "https://www.japantimes.co.jp/business/2026/11/21/markets/anthropic-ai-stocks/",
+            "publishedAt": "2026-11-21T04:19:00.000Z",
+            "lang": "en",
+            "country": "JP"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/18/2592953-un-operateur-a-la-bourse-de-new-york-le-16-novembr.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/les-bourses-mondiales-emportees-par-les-doutes-sur-la-rentabilite-de-l-ia-20261120"
+        }
+      },
+      {
+        "id": "s84564c6565",
+        "topic": "economie",
+        "title": "France Télévisions fixe un objectif d'économies de 170 millions d'euros",
+        "context": "Le secteur de l'audiovisuel public français fait face à des contraintes budgétaires strictes définies dans les trajectoires de financement de l'État.",
+        "summary": "La présidente de France Télévisions, Delphine Ernotte, a communiqué les premières prévisions financières pour l'année 2027. Le groupe de télévision publique devra réaliser un effort budgétaire chiffré à 170 millions d'euros afin d'équilibrer ses comptes conformément aux orientations demandées par l'exécutif.",
+        "plain": "EN CLAIR : La direction de France Télévisions annonce qu'elle devra réduire ses dépenses de 170 millions d'euros d'ici 2027. Ces coupes budgétaires s'inscrivent dans le cadre du redressement des finances publiques.",
+        "chart": null,
+        "stakes": [
+          "Quels programmes ou structures de l'audiovisuel public seront impactés par ces coupes ?",
+          "Comment la direction compte-elle préserver l'emploi et les missions de service public ?"
+        ],
+        "sources": [
+          {
+            "name": "Ouest-France",
+            "title": "« Un effort de 170 millions pour 2027 » : Delphine Ernotte fait le point sur les économies de France Télévisions",
+            "link": "https://programmetv.ouest-france.fr/france-televisions-b1000/un-effort-de-170-millions-pour-2027-delphine-ernotte-fait-le-point-sur-les-economies-de-france-televisions-abfac0ae-e354-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-21T12:00:14.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExOWZkODdkMDcwZjc4YTVlNDgzZGFlZWNkZDNjZjJkMjc?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=cece97cc25f5702678125ab9a113504e2dd0cd64e5d9afcfc5a45ef6aac59e3e",
+          "credit": "Ouest-France",
+          "link": "https://programmetv.ouest-france.fr/france-televisions-b1000/un-effort-de-170-millions-pour-2027-delphine-ernotte-fait-le-point-sur-les-economies-de-france-televisions-abfac0ae-e354-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+        }
+      },
+      {
+        "id": "sbd1a19aa53",
+        "topic": "economie",
+        "title": "L'Union européenne et l'Indonésie scellent un accord commercial majeur",
+        "context": "L'Union européenne cherche à diversifier ses partenariats économiques mondiaux pour sécuriser ses approvisionnements et soutenir ses exportations.",
+        "summary": "Après une décennie de tractations diplomatiques et économiques, l'Union européenne et l'Indonésie ont officialisé la signature de leurs nouveaux accords d'investissement et de commerce. En 2025, les échanges de biens entre les deux zones représentaient un volume global de 28,9 milliards d'euros, comprenant 10,2 milliards d'exportations européennes et 18,7 milliards d'importations.",
+        "plain": "EN CLAIR : L'Europe et l'Indonésie ont concrétisé un vaste accord commercial négocié pendant dix ans. Ce partenariat formalise des échanges qui pèsent près de 29 milliards d'euros par an.",
+        "chart": {
+          "title": "Échanges commerciaux entre l'UE et l'Indonésie en 2025",
+          "unit": "milliards d'euros",
+          "items": [
+            {
+              "label": "Exportations de l'UE",
+              "value": 10.2
+            },
+            {
+              "label": "Importations de l'UE",
+              "value": 18.7
+            }
+          ],
+          "source": {
+            "name": "Euronews",
+            "link": "https://fr.euronews.com/2026/11/21/lue-et-lindonesie-signent-des-accords-commerciaux-et-dinvestissement-apres-dix-ans-de-nego"
+          }
+        },
+        "stakes": [
+          "Quels secteurs industriels et agricoles européens bénéficieront le plus de cet accord ?",
+          "Comment cet accord s'articule-t-il avec les engagements environnementaux des deux régions ?"
+        ],
+        "sources": [
+          {
+            "name": "Euronews",
+            "title": "L'UE et l'Indonésie signent des accords commerciaux et d'investissement après dix ans de négociations",
+            "link": "https://fr.euronews.com/2026/11/21/lue-et-lindonesie-signent-des-accords-commerciaux-et-dinvestissement-apres-dix-ans-de-nego",
+            "publishedAt": "2026-11-21T12:22:56.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://images.euronews.com/articles/stories/10/00/25/39/696x392_cmsv2_b6a51226-14f9-541e-8c88-4828b53c21fd-10002539.jpg",
+          "credit": "Euronews",
+          "link": "https://fr.euronews.com/2026/11/21/lue-et-lindonesie-signent-des-accords-commerciaux-et-dinvestissement-apres-dix-ans-de-nego"
+        }
+      },
+      {
+        "id": "s3f3ec82781",
+        "topic": "international",
+        "title": "Arrestation du chef de cartel Chapo Isidro par l'armée mexicaine",
+        "context": "Les autorités mexicaines et américaines coopèrent dans la traque des dirigeants de réseaux de narcotrafic opérant dans l'État de Sinaloa.",
+        "summary": "Une opération d'envergure menée par l'armée mexicaine a abouti à l'interpellation de Fausto Isidro Meza Flores, surnommé « Chapo Isidro ». Ce responsable majeur du narcotrafic figurait sur la liste des personnes les plus recherchées par le FBI américain, qui offrait 5 millions de dollars de récompense pour sa capture. Des affrontements armés intenses ont éclaté lors de la descente militaire.",
+        "plain": "EN CLAIR : L'armée mexicaine a capturé un dangereux chef de cartel recherché par les États-Unis. Des tirs violents ont éclaté au moment de son arrestation dans le nord du pays.",
+        "chart": null,
+        "stakes": [
+          "L'arrestation entraînera-t-elle un affaiblissement du trafic ou de nouveaux affrontements entre cartels rivaux ?",
+          "Comment évoluera la coopération sécuritaire entre Mexico et Washington ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Le Mexique arrête Fausto Isidro Meza, alias « Chapo Isidro », un puissant chef de cartel recherché par le FBI",
+            "link": "https://www.lemonde.fr/international/article/2026/11/21/le-mexique-arrete-fausto-isidro-meza-alias-chapo-isidro-un-puissant-chef-de-cartel-recherche-par-le-fbi_6814013_3210.html",
+            "publishedAt": "2026-11-21T12:49:49.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+            "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+            "publishedAt": "2026-11-21T12:33:33.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "Mexico captures FBI-wanted cartel boss in military raid",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
+            "publishedAt": "2026-11-21T11:53:56.000Z",
+            "lang": "en",
+            "country": "QA"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/18/564/0/3744/1872/644/322/60/0/1bd95a5_ftp-1-4xn6w6owxzni-afp-d7wq879.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/international/article/2026/11/21/le-mexique-arrete-fausto-isidro-meza-alias-chapo-isidro-un-puissant-chef-de-cartel-recherche-par-le-fbi_6814013_3210.html"
+        }
+      }
+    ],
+    "monde": [
+      {
+        "id": "sb8729e69c8",
+        "topic": "international",
+        "title": "Intensification des frappes militaires et tensions diplomatiques en Ukraine",
+        "context": "Le conflit entre la Russie et l'Ukraine se poursuit dans un climat d'incertitude internationale. Alors que des échanges diplomatiques s'organisent entre de grandes puissances, les combats et les attaques sur les infrastructures s'intensifient.",
+        "summary": "La Russie a mené d'importantes attaques aériennes par missiles et drones contre la capitale Kiev et plusieurs villes ukrainiennes comme Kryvyï Rih, ciblant notamment des ponts et des gares. En réplique, l'Ukraine a revendiqué des frappes contre le pont de Crimée, estimant qu'il s'agit d'une réponse légitime aux offensives russes. Sur le plan diplomatique, des discussions entre les dirigeants américain, russe et chinois suscitent l'inquiétude des alliés européens de l'Ukraine, qui redoutent d'être écartés des négociations relatives à la sécurité en Europe.",
+        "plain": "EN CLAIR : La Russie a lancé de violentes attaques contre les infrastructures de transport en Ukraine, qui a répliqué en frappant un pont stratégique. Pendant ce temps, les alliés européens craignent d'être tenus à l'écart des pourparlers de paix.",
+        "chart": null,
+        "stakes": [
+          "Comment l'armée ukrainienne va-t-elle sécuriser son réseau de transport face aux bombardements ?",
+          "Quel sera l'impact des discussions entre Washington et Moscou sur l'aide à l'Ukraine ?",
+          "La destruction des voies de ravitaillement modifiera-t-elle le contrôle militaire de la Crimée ?"
+        ],
+        "sources": [
+          {
+            "name": "L'Humanité",
+            "title": "« Une soirée et une nuit tragiques pour notre ville » : en Ukraine, Kryvyï Rih se réveille en deuil après un bombardement russe",
+            "link": "https://www.humanite.fr/monde/armee-russe/une-soiree-et-une-nuit-tragiques-pour-notre-ville-en-ukraine-kryvyi-rih-se-reveille-en-deuil-apres-un-bombardement-russe",
+            "publishedAt": "2026-11-21T11:54:54.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+            "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-21T12:20:55.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "BBC News",
+            "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+            "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-21T08:10:25.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "BBC News",
+            "title": "What we know about the latest Russian missile strikes on Ukraine",
+            "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-20T15:14:01.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "NPR",
+            "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
+            "link": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
+            "publishedAt": "2026-11-21T12:40:18.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "NPR",
+            "title": "Another day of survival for a family in Ukraine",
+            "link": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
+            "publishedAt": "2026-11-20T21:32:31.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Fox News",
+            "title": "Ukraine deals major blow to Putin’s Crimea lifeline, European intel assessment claims",
+            "link": "https://www.foxnews.com/world/ukraine-deals-major-blow-putins-crimea-lifeline-european-intel-assessment-claims",
+            "publishedAt": "2026-11-21T11:00:22.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Hindu",
+            "title": "Russia dusts off its pre-war demands as the U.S. raises discussing European security at Ukraine talks",
+            "link": "https://www.thehindu.com/news/international/russia-dusts-off-its-pre-war-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/article71727588.ece",
+            "publishedAt": "2026-11-21T09:11:27.000Z",
+            "lang": "en",
+            "country": "IN"
+          }
+        ],
+        "image": {
+          "url": "https://www.humanite.fr/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-21-at-12.47.09.jpeg?w=1200",
+          "credit": "L'Humanité",
+          "link": "https://www.humanite.fr/monde/armee-russe/une-soiree-et-une-nuit-tragiques-pour-notre-ville-en-ukraine-kryvyi-rih-se-reveille-en-deuil-apres-un-bombardement-russe"
+        }
+      },
+      {
+        "id": "s8dbe631aa2",
+        "topic": "sciences_tech",
+        "title": "Échec des pourparlers de l'ONU sur la régulation des robots autonomes",
+        "context": "Depuis plusieurs années, les Nations unies débattent du cadre juridique entourant les systèmes d'armes létales autonomes, fonctionnant grâce à l'intelligence artificielle.",
+        "summary": "Les discussions menées sous l'égide de l'ONU à Genève se sont conclues sans l'adoption d'un traité d'interdiction ou de règles contraignantes. Des puissances militaires comme les États-Unis et la Russie s'opposent à des limitations strictes sur l'usage de ces technologies sur le champ de bataille. Les États membres se sont simplement entendus pour prolonger les négociations pendant deux années supplémentaires, repoussant toute prise de décision ferme.",
+        "plain": "EN CLAIR : L'ONU comptait encadrer ou interdire les armes de guerre autonomes guidées par l'intelligence artificielle. Faute d'accord entre les grandes puissances, le projet est repoussé de deux ans.",
+        "chart": null,
+        "stakes": [
+          "L'absence de règles internationales accélérera-t-elle la course aux armements autonomes ?",
+          "Existe-t-il un risque d'utilisation incontrôlée de l'IA sur les terrains de conflit ?",
+          "Les Nations unies parviendront-elles un jour à imposer un traité contraignant ?"
+        ],
+        "sources": [
+          {
+            "name": "NPR",
+            "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+            "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+            "publishedAt": "2026-11-21T08:08:01.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Japan Times",
+            "title": "Countries open path towards ‘killer robots’ pact",
+            "link": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/killer-robots-pact/",
+            "publishedAt": "2026-11-21T07:41:00.000Z",
+            "lang": "en",
+            "country": "JP"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "A Genève, la communauté internationale échoue à interdire les robots tueurs",
+            "link": "https://www.lemonde.fr/international/article/2026/11/21/a-geneve-la-communaute-internationale-echoue-a-interdire-les-robots-tueurs_6814012_3210.html",
+            "publishedAt": "2026-11-21T12:36:53.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fdc%2Fbe428cfe43728dcf909ce499cadf%2Fgettyimages-2273123489.jpg",
+          "credit": "NPR",
+          "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in"
+        }
+      }
+    ]
+  },
+  "storiesAt": "2026-11-21T13:07:31.851Z",
+  "inputHash": "65a516568f3a1e262da08cbbb5124b19129934e4",
+  "synthStatus": "ok",
+  "news": {
+    "france": [
+      {
+        "id": "a3f3ec82781",
+        "title": "Le Mexique arrête Fausto Isidro Meza, alias « Chapo Isidro », un puissant chef de cartel recherché par le FBI",
+        "link": "https://www.lemonde.fr/international/article/2026/11/21/le-mexique-arrete-fausto-isidro-meza-alias-chapo-isidro-un-puissant-chef-de-cartel-recherche-par-le-fbi_6814013_3210.html",
+        "summary": "Le narcotrafiquant a été arrêté au Mexique, vendredi, ce qui a déclenché de violents affrontements. Il opérait dans le nord de l’Etat de Sinaloa, et les Etats-Unis offraient une récompense de 5 millions de dollars pour son arrestation.",
+        "image": "https://img.lemde.fr/2026/11/18/564/0/3744/1872/644/322/60/0/1bd95a5_ftp-1-4xn6w6owxzni-afp-d7wq879.jpg",
+        "publishedAt": "2026-11-21T12:49:49.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "a9b6ccd0efb",
+        "title": "MotoGP. Bezzecchi en pole position, Marquez en quête d’un 8e sacre : la grille de départ du Grand Prix du Portugal",
+        "link": "https://www.ouest-france.fr/sport/moto/motogp/motogp-marco-bezzecchi-decroche-la-pole-position-au-portugal-devant-marc-marquez-60d733b4-e5a2-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Marco Bezzecchi (Aprilia) a décroché samedi 21 novembre, la pole position du Grand Prix du Portugal de MotoGP après avoir réalisé le meilleur temps des qualifications devant Marc Marquez (Ducati), l’Espagnol étant tout près de son huitième titre mondial dans la discipline.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExZGM4YzY3NTI5YjhlMTA0ZDk1OTJjMzFmN2ZlNzBkNTA?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=907095cabb9098f6176157e8fa9289f432d36d6bf048ebed16b237d85eabd8c4",
+        "publishedAt": "2026-11-21T12:32:32.000Z",
+        "source": "Ouest-France",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "a807b1ab643",
+        "title": "Mouvement social, mon amour",
+        "link": "https://www.humanite.fr/social-et-economie/chronique/mouvement-social-mon-amour",
+        "summary": "Depuis la rentrée, je réponds « je suis vivante » à l’incontournable « ça va ? » qui suit le « bonjour ». Une phrase commode pour aborder mon épuisement militant sans m’en plaindre. Jeudi 12 novembre, j’ai tourné une vidéo contre la loi « permis de tuer », écrit un texte de défense des libertés asso",
+        "image": "https://www.humanite.fr/wp-content/uploads/2026/08/chronique_Youlie-Yamamoto.png?w=1200",
+        "publishedAt": "2026-11-21T12:30:00.000Z",
+        "source": "L'Humanité",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -2
+      },
+      {
+        "id": "a6bffa2eddb",
+        "title": "Un mois après l’attentat de Trappes, Samba Coulibaly, le dernier blessé en urgence absolue, est sorti du coma",
+        "link": "https://www.liberation.fr/societe/attentat-de-trappes-samba-coulibaly-victime-de-lattaque-est-sorti-du-coma-apres-plusieurs-semaines-20261119_GKOAYY7WTBH3JNXVZ3BK3XXBNE/",
+        "summary": "Les jours de l’agent d’entretien de 29 ans, entre la vie et la mort après avoir été perforé par onze balles par Kévin Tessier, ne sont plus en danger, a annoncé son avocat cette semaine. L’état de santé de Ramatou, 11 ans, elle aussi victime de l’attaque, s’améliore également.",
+        "image": null,
+        "publishedAt": "2026-11-21T12:24:19.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "a25511a7b6f",
+        "title": "Incendies, tourisme de masse, tsunami : comment la Côte d’Azur mise sur l’IA pour relever ses défis",
+        "link": "https://www.lefigaro.fr/nice/incendies-tourisme-de-masse-tsunami-comment-la-cote-d-azur-mise-sur-l-ia-pour-relever-ses-defis-20261121",
+        "summary": "ENQUÊTE - Plusieurs start-ups spécialisées dans le développement de l’IA illustrent déjà la capacité d’innovation des Alpes-Maritimes, au carrefour de nombreux enjeux.",
+        "image": "https://i.f1g.fr/media/cms/3000x2251_crop/2026/11/19/1756d12bb1fe9506b5ee62a05b1b449df1a32460a38666db429c7764d4235cc7.jpg",
+        "publishedAt": "2026-11-21T12:15:00.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "a0242ce9a5a",
+        "title": "Présidentielle 2027 : qui sont les candidats déclarés ou probables ?",
+        "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/21/presidentielle-2027-qui-sont-les-candidats-declares-ou-probables_6680905_4355771.html",
+        "summary": "Une trentaine de candidats déclarés ou potentiels sont identifiables à ce stade. Mais leur chemin reste très long jusqu’au scrutin d’avril 2027.",
+        "image": "https://img.lemde.fr/2026/11/18/125/0/1500/750/644/322/60/0/d7cedb5_upload-1-cmvixzkgtuwj-verif-candidatures2.jpg",
+        "publishedAt": "2026-11-21T12:13:25.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "a41db4e7d28",
+        "title": "Une attente «pesante» : un mois après l’attentat raciste de Trappes, la date de l’hommage national toujours inconnue",
+        "link": "https://www.liberation.fr/societe/une-attente-pesante-un-mois-apres-lattentat-raciste-de-trappes-la-date-de-lhommage-national-toujours-inconnue-20261121_W73UZDAYXZBQFFKPO34XLBKWQI/",
+        "summary": "Alors que le gouvernement avait annoncé dès le 28 octobre la tenue d’une cérémonie pour les victimes de cette attaque raciste, les familles sont toujours suspendues à l’annonce d’une date. Matignon répond être en lien avec elles.",
+        "image": null,
+        "publishedAt": "2026-11-21T12:05:13.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "a5e5d13f04e",
+        "title": "Terrorisme : une enquête américaine révèle comment les modèles d’IA deviennent une nouvelle menace pour la sécurité nationale",
+        "link": "https://www.lexpress.fr/economie/high-tech/terrorisme-une-enquete-americaine-revele-comment-les-modeles-dia-deviennent-une-nouvelle-menace-pour-GRZYLRN4SRHAPHSWL3MEXCMYLI/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/4AJABWKSCFEOTNQR6IPGQIIC3U.JPG?auth=ede70d5a2ed9e4728196421c4a5475e68399bb5057d0ef9d2d4b76fe8a70d970&smart=true&width=5654&height=3769",
+        "publishedAt": "2026-11-21T12:00:38.000Z",
+        "source": "L'Express",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1
+      },
+      {
+        "id": "a8a49476cec",
+        "title": "Exposition : quand le cirque de Montmartre inspirait les plus grands artistes",
+        "link": "https://www.valeursactuelles.com/clubvaleurs/culture/exposition-quand-le-cirque-de-montmartre-inspirait-les-plus-grands-artistes",
+        "summary": "C’était un vaste chapiteau, illuminant le soir venu l’angle de la rue Lallier et de la rue des Martyrs : dès son installation en 1873, le Cirque Fernando avait animé les... L’article Exposition : quand le cirque de Montmartre inspirait les plus grands artistes est apparu en premier sur Valeurs actue",
+        "image": null,
+        "publishedAt": "2026-11-21T12:00:09.000Z",
+        "source": "Valeurs actuelles",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
+      },
+      {
+        "id": "a8d0c8eb054",
+        "title": "La culture selon André Malraux existe-t-elle encore ?",
+        "link": "https://www.lefigaro.fr/culture/patrimoine/la-culture-selon-andre-malraux-existe-t-elle-encore-20261121",
+        "summary": "ENQUÊTE - Cinquante ans après la mort de celui qui affirmait « la culture ne s’hérite pas, elle se conquiert », historiens et spécialistes se penchent sur une décennie de décisions majeures mais difficiles à faire vivre aujourd’hui.",
+        "image": "https://i.f1g.fr/media/cms/2815x1583_crop/2026/11/20/c8a65bdba900ebce11b327f802c52356be623aeb916f0aecd95bf13f19b32888.jpg",
+        "publishedAt": "2026-11-21T12:00:00.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "a782492d76e",
+        "title": "Rouen : des antifas font taire un élu RN en plein conseil municipal, des élus de gauche applaudissent",
+        "link": "https://www.lejdd.fr/politique/rouen-des-antifas-font-taire-un-elu-rn-en-plein-conseil-municipal-des-elus-de-gauche-applaudissent-189240",
+        "summary": "Alors qu’il évoquait l’agression de jeunes catholiques survenue début novembre à Rouen, l’élu RN Grégoire Houdan a été interrompu jeudi 19 novembre par des militants antifascistes. Plusieurs élus ont applaudi les slogans, avant que trois conseillers RN quittent la séance.",
+        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/21/12/080_hl_tgrimbert_1549143.jpg?VersionId=hf8uXbAhX8_h6EvA0SyfMmJgjppDwkL4",
+        "publishedAt": "2026-11-21T11:30:48.000Z",
+        "source": "Le JDD",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
+      },
+      {
+        "id": "a81c8978ec9",
+        "title": "Quatre mois après le mégafeu au Porge, \"il y a énormément de douleur\" parmi les habitants, souligne le maire Martial Zaninetti",
+        "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/quatre-mois-apres-le-megafeu-au-porge-il-y-a-enormement-de-douleur-parmi-les-habitants-souligne-le-maire-martial-zaninetti_8293673.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Entre attentes interminables, incertitudes sur les indemnisations et difficultés à se projeter dans l'avenir, les sinistrés du Porge, en Gironde, peinent à tourner la page. Le maire de la commune, Martial Zaninetti, témoigne de la détresse grandissante des habitants : \"Ça craque un petit peu de part",
+        "image": "https://www.franceinfo.fr/pictures/q1a-1Fmiz0D9kQ-fIeJcmvr8jpU/0x0:6906x3884/432x243/filters:format(jpg)/2026/09/16/6aaa3e241fe41109239412.jpg",
+        "publishedAt": "2026-11-21T11:25:29.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "ab4fd6ba05c",
+        "title": "Pas-de-Calais : routes et maisons inondées, 800 personnes évacuées",
+        "link": "https://www.la-croix.com/pas-de-calais-routes-et-maisons-inondees-la-pluie-devrait-diminuer-20261120",
+        "summary": "Près de 800 personnes ont été évacuées depuis jeudi 19 novembre dans le Pas-de-Calais en raison d’inondations après de fortes pluies ces derniers jours.",
+        "image": "https://i.la-croix.com/x/2026/11/20/2594623-inondation-a-raye-sur-authie-dans-le-pas-de-calais.jpg",
+        "publishedAt": "2026-11-21T11:25:01.000Z",
+        "source": "La Croix",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0.5
+      },
+      {
+        "id": "a5b4d6246c8",
+        "title": "Préfet soupçonné de fuites vers le RN : \"Il doit être mis à pied\", estime la députée écologiste Sandrine Rousseau",
+        "link": "https://www.franceinfo.fr/france/centre-val-de-loire/loiret/prefet-soupconne-de-fuites-vers-le-rn-il-doit-etre-mis-a-pied-estime-la-depute-ecologiste-sandrine-rousseau_8293574.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Sandrine Rousseau appelle le ministre de l'Intérieur Laurent Nuñez à mettre à pied “immédiatement” le préfet du Loiret Hugues Moutouh, accusé d’avoir organisé des fuites depuis le ministère de l’Intérieur vers le Rassemblement national. La députée écologiste était l’invitée de franceinfo, samedi 21 ",
+        "image": "https://www.franceinfo.fr/pictures/kyBKhRSt4s2i12XMm0ycHZhei7Y/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/21/6b01697299033851356226.png",
+        "publishedAt": "2026-11-21T09:51:44.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      }
+    ],
+    "monde": [
+      {
+        "id": "ad865bd1d5d",
+        "title": "Italiens Ex-Polizeichef De Gennaro nimmt sich das Leben",
+        "link": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html",
+        "summary": "Gianni De Gennaro bekleidete lange Schlüsselpositionen im italienischen Sicherheitsapparat - sei es im Kampf gegen die Mafia, beim G8-Gipfel in Genua oder für die Geheimdienste. Kurz vor einer Gerichtsanhörung tötete er sich selbst.",
+        "image": "https://images.tagesschau.de/image/59680543-e758-4c86-b9bd-47eec3847061/AAABof4dVkI/AAABnSSvrFg/16x9-big/gennaro-100.jpg?width=1920",
+        "publishedAt": "2026-11-21T12:48:02.000Z",
+        "source": "Tagesschau",
+        "lang": "de",
+        "country": "DE",
+        "lean": 0
+      },
+      {
+        "id": "ab28eefa3bc",
+        "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
+        "link": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
+        "summary": "Thursday’s byelection in Castle Bromwich will be latest test for Nigel Farage’s party as rival eats into support Voters go to the polls in the village of Castle Bromwich in the West Midlands on Thursday in a little-noticed election that is the latest test for Reform at a time when it is particularly",
+        "image": "https://i.guim.co.uk/img/media/5bbda4f2586156f3b160d70e965e0e2422a855c8/49_0_1180_944/master/1180.jpg?width=140&quality=85&auto=format&fit=max&s=5597b4adf0622dba743b5691a82d09af",
+        "publishedAt": "2026-11-21T12:22:54.000Z",
+        "source": "The Guardian",
+        "lang": "en",
+        "country": "GB",
+        "lean": -1.5
+      },
+      {
+        "id": "a88af422b08",
+        "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+        "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+        "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f21c/live/2c923cc0-e5a2-11f1-b7d5-65d6a750eced.jpg",
+        "publishedAt": "2026-11-21T12:20:55.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      },
+      {
+        "id": "a3dcceb89a5",
+        "title": "Australia chase 188 to defeat England in thriller",
+        "link": "https://www.telegraph.co.uk/cricket/2026/11/21/australia-v-england-score-live-updates-first-t20-melbourne/",
+        "summary": "Australia chase 188 to defeat England in thriller",
+        "image": "https://www.telegraph.co.uk/content/dam/cricket/2026/11/21/TELEMMGLPICT000512481033_17952621582980_trans_NvBQzQNjv4BqD-CneZQuK89LeBDiREmPIR4y0K0bp5Ox97ErDISZdYI.jpeg",
+        "publishedAt": "2026-11-21T12:09:53.000Z",
+        "source": "The Telegraph",
+        "lang": "en",
+        "country": "GB",
+        "lean": 1.5
+      },
+      {
+        "id": "adb57003039",
+        "title": "Anthropic researcher uses AI to solve math's greatest riddle",
+        "link": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-rdf",
+        "summary": "The proposed breakthrough could reshape mathematical research, but still needs independent verification. It's the latest in a string of cases where AI has outpaced humans in solving famous maths problems.",
+        "image": null,
+        "publishedAt": "2026-11-21T10:29:00.000Z",
+        "source": "Deutsche Welle",
+        "lang": "en",
+        "country": "DE",
+        "lean": 0
+      },
+      {
+        "id": "af7dd5bf06c",
+        "title": "Denmark says it thwarted 'Russian plot' to kill US-Ukrainian rapper",
+        "link": "https://news.sky.com/story/denmark-says-it-thwarted-russian-plot-to-kill-us-ukrainian-rapper-kyivstoner-13614604",
+        "summary": "Police thwarted a Russian plot to kill a US-Ukrainian rapper who was performing in Denmark, according to authorities.",
+        "image": "https://e3.365dm.com/26/11/1920x1080/skynews-rasmus-kieffer-kristensen_7412023.jpg?20261121053937",
+        "publishedAt": "2026-11-21T05:15:00.000Z",
+        "source": "Sky News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0.5
+      },
+      {
+        "id": "a0c8c9231c9",
+        "title": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland",
+        "link": "https://www.theguardian.com/world/2026/nov/21/ukraine-war-briefing-european-leaders-react-with-anger-and-alarm-after-russian-missiles-crash-in-poland",
+        "summary": "Russian missile and drone incident during western military exercises a ‘grave violation’ of Polish airspace, says Nato’s Rutte. What we know on day 1,732 Continue reading...",
+        "image": "https://i.guim.co.uk/img/media/ee4e8d3bfa15abf02070d9f05b07ca54aee4c586/499_0_4731_3787/master/4731.jpg?width=140&quality=85&auto=format&fit=max&s=4639cbd54c3592405bcb2695cd92507c",
+        "publishedAt": "2026-11-21T02:41:14.000Z",
+        "source": "The Guardian",
+        "lang": "en",
+        "country": "GB",
+        "lean": -1.5
+      },
+      {
+        "id": "aacf404f6e9",
+        "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+        "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+        "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
+        "publishedAt": "2026-11-21T02:09:46.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "franceinfo (FR)",
+      "url": "https://www.francetvinfo.fr/france.rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Monde (FR)",
+      "url": "https://www.lemonde.fr/rss/une.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Figaro (FR)",
+      "url": "https://www.lefigaro.fr/rss/figaro_actualites-a-la-une.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Libération (FR)",
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Ouest-France (FR)",
+      "url": "https://www.ouest-france.fr/rss/une",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "La Croix (FR)",
+      "url": "https://www.la-croix.com/RSS",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "L'Express (FR)",
+      "url": "https://www.lexpress.fr/rss/alaune.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Parisien (FR)",
+      "url": "https://feeds.leparisien.fr/leparisien/rss",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "L'Humanité (FR)",
+      "url": "https://www.humanite.fr/feed",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Valeurs actuelles (FR)",
+      "url": "https://www.valeursactuelles.com/feed",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le JDD (FR)",
+      "url": "https://www.lejdd.fr/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "BBC News (GB)",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "BBC News (GB)",
+      "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Guardian (GB)",
+      "url": "https://www.theguardian.com/world/rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Guardian (GB)",
+      "url": "https://www.theguardian.com/world/france/rss",
+      "ok": true,
+      "count": 6
+    },
+    {
+      "name": "The Telegraph (GB)",
+      "url": "https://www.telegraph.co.uk/rss.xml",
+      "ok": true,
+      "count": 5
+    },
+    {
+      "name": "Sky News (GB)",
+      "url": "https://feeds.skynews.com/feeds/rss/world.xml",
+      "ok": true,
+      "count": 3
+    },
+    {
+      "name": "Deutsche Welle (DE)",
+      "url": "https://rss.dw.com/rdf/rss-en-world",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Tagesschau (DE)",
+      "url": "https://www.tagesschau.de/index~rss2.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Der Spiegel (DE)",
+      "url": "https://www.spiegel.de/international/index.rss",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "NPR (US)",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The New York Times (US)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Washington Post (US)",
+      "url": "https://feeds.washingtonpost.com/rss/world",
+      "ok": true,
+      "count": 7
+    },
+    {
+      "name": "The Wall Street Journal (US)",
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Fox News (US)",
+      "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+      "ok": true,
+      "count": 3
+    },
+    {
+      "name": "Politico Europe (BE)",
+      "url": "https://www.politico.eu/feed/",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "ABC News (Australie) (AU)",
+      "url": "https://www.abc.net.au/news/feed/2942460/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Al Jazeera (QA)",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Times of Israel (IL)",
+      "url": "https://www.timesofisrael.com/feed/",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "Daily Sabah (TR)",
+      "url": "https://www.dailysabah.com/rssFeed/10",
+      "ok": true,
+      "count": 4
+    },
+    {
+      "name": "The Times of India (IN)",
+      "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Hindu (IN)",
+      "url": "https://www.thehindu.com/news/international/feeder/default.rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Japan Times (JP)",
+      "url": "https://www.japantimes.co.jp/feed/",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Straits Times (SG)",
+      "url": "https://www.straitstimes.com/news/world/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "South China Morning Post (HK)",
+      "url": "https://www.scmp.com/rss/91/feed",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "El País (ES)",
+      "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "ANSA (IT)",
+      "url": "https://www.ansa.it/sito/ansait_rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Soir (BE)",
+      "url": "https://www.lesoir.be/rss/81853/cible_principale_gratuit",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "France 24 (FR)",
+      "url": "https://www.france24.com/fr/rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "RFI (FR)",
+      "url": "https://www.rfi.fr/fr/rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Euronews (FR)",
+      "url": "https://fr.euronews.com/rss?format=mrss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Monde (International) (FR)",
+      "url": "https://www.lemonde.fr/international/rss_full.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Africanews (FR)",
+      "url": "https://www.africanews.com/feed/rss",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "Jeune Afrique (FR)",
+      "url": "https://www.jeuneafrique.com/feed/",
+      "ok": true,
+      "count": 8
+    }
+  ],
+  "meteo": {
+    "ok": false,
+    "city": "Montaigu-Vendée",
+    "source": "Open-Meteo",
+    "sourceUrl": "https://open-meteo.com/en/docs",
+    "fetchedAt": null
+  },
+  "carburants": {
+    "ok": false,
+    "prices": [],
+    "best": {},
+    "stationsVerifiees": 0,
+    "source": "prix-carburants.gouv.fr",
+    "sourceUrl": "https://www.prix-carburants.gouv.fr/rubrique/opendata/"
+  },
+  "culture": [
+    {
+      "title": "Océanissime Nantes 2026",
+      "discipline": "Peinture, gravure, photographie et sculpture",
+      "artist": "Seize membres de l’Académie des Arts et Sciences de la Mer",
+      "city": "Nantes",
+      "venue": "Maison de la Mer, 54 quai de la Fosse",
+      "start": "2026-11-07",
+      "end": "2026-11-22",
+      "details": "Plus de cent œuvres ; entrée gratuite. Horaires détaillés sur le site de Nantes Métropole.",
+      "source": "Nantes Métropole",
+      "sourceUrl": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/45675254_exposition-oceanissime-nantes-2026",
+      "image": null
+    },
+    {
+      "title": "La figure de l’héroïne",
+      "discipline": "Peinture et histoire de l’art",
+      "artist": "Exposition consacrée aux représentations féminines du XIXe siècle",
+      "city": "La Roche-sur-Yon",
+      "venue": "Musée – Espace Malraux",
+      "start": "2026-11-03",
+      "end": "2027-02-07",
+      "details": "Exposition temporaire. Vérifier les horaires d’ouverture avant la visite.",
+      "source": "Ville de La Roche-sur-Yon",
+      "sourceUrl": "https://larochesuryon.fr/actualites/les-heroines-du-xixe-siecle-sexposent-a-la-roche/",
+      "image": {
+        "url": "https://larochesuryon.fr/app/uploads/2026/11/IMG_8828-scaled.jpg",
+        "credit": "Ville de La Roche-sur-Yon",
+        "link": "https://larochesuryon.fr/actualites/les-heroines-du-xixe-siecle-sexposent-a-la-roche/"
+      }
+    }
+  ],
+  "history": [],
+  "checks": {
+    "actualites": true,
+    "meteo": false,
+    "carburants": false
+  }
+}
