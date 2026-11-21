@@ -1,23 +1,191 @@
 {
   "schemaVersion": 2,
   "date": "2026-11-21",
-  "generatedAt": "2026-11-21T13:07:33.108Z",
+  "generatedAt": "2026-11-21T17:04:20.264Z",
   "status": "partielle",
   "stories": {
     "france": [
       {
-        "id": "sd2cb7b3f27",
-        "topic": "environnement",
-        "title": "Inondations majeures et évacuations de centaines d'habitants dans le Pas-de-Calais",
-        "context": "Le département du Pas-de-Calais fait face à la répétition d'épisodes de pluies intenses depuis les crues marquantes de 2023. Plusieurs cours d'eau du secteur restent sous haute surveillance.",
-        "summary": "À la suite de fortes précipitations, près de 800 personnes ont dû être évacuées dans le Pas-de-Calais. Des rues et des habitations se retrouvent submergées, entraînant la fermeture d'écoles. Bien que les pluies aient cessé, les autorités préfectorales indiquent que la décrue n'est pas encore amorcée et que des cours d'eau comme la Canche demeurent en vigilance orange. Des pompes à haute puissance ont été déployées pour dégager les zones impactées, tandis que la fatigue et la colère grandissent parmi la population locale.",
-        "plain": "EN CLAIR : De violentes inondations frappent le Pas-de-Calais, forçant près de 800 habitants à quitter leur logement. Les cours d'eau restent très hauts et la décrue se fait attendre, ce qui exaspère les riverains confrontés à ces crues récurrentes.",
+        "id": "s25b558f9ab",
+        "topic": "societe",
+        "title": "Nouvelle journée de manifestations en France sur fond de revendications sociales",
+        "context": "Depuis plusieurs semaines, des syndicats, des organisations de jeunesse et le mouvement des gilets jaunes se mobilisent régulièrement pour exprimer leur mécontentement face aux conditions de vie et à la hausse du coût de la vie.",
+        "summary": "Une nouvelle journée de mobilisation, la sixième consécutive, s'est déroulée en France à l'appel de syndicats, de collectifs de gilets jaunes et d'organisations de jeunesse. À Paris, les autorités ont refusé que le cortège ne se rende place de la Concorde, l'obligeant à s'associer au défilé syndical parti de la place de la République. Les manifestants ont ainsi protesté contre la vie chère, les difficultés économiques et ce qu'ils qualifient de politique à bout de souffle. Des manifestations similaires ont également été observées dans d'autres villes françaises, émaillées parfois de revendications contre les violences policières ou la militarisation de la société. Le déroulement global de ces rassemblements s'est globalement tenu dans le calme jusqu'en fin d'après-midi, selon les organisateurs et la presse.",
+        "plain": "Des milliers de manifestants sont descendus dans les rues en France pour la sixième semaine d'affilée afin de réclamer de meilleurs salaires et protester contre la vie chère. À Paris, les autorités ont encadré le parcours des cortèges pour éviter les tensions trop vives dans certains secteurs sensibles.",
         "chart": null,
         "stakes": [
-          "Comment adapter rapidement l'aménagement du territoire face aux inondations à répétition ?",
-          "Quelles mesures d'indemnisation et de secours déployer pour aider les sinistrés ?"
+          "Quelles seront les réponses concrètes du gouvernement face à la persistance de la contestation sociale ?",
+          "Quel impact ces mobilisations hebdomadaires auront-elles sur le climat politique à l'approche des échéances électorales ?"
         ],
         "sources": [
+          {
+            "name": "franceinfo",
+            "title": "REPORTAGE. \"Je vais aller brûler un cierge\" : à Lyon, les commerçants de la place Bellecour s'inquiètent du retour des cortèges en centre-ville",
+            "link": "https://www.franceinfo.fr/societe/manifestations/reportage-je-vais-aller-bruler-un-cierge-a-lyon-les-commercants-de-la-place-bellecour-s-inquietent-du-retour-des-corteges-en-centre-ville_8292824.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-21T09:51:43.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Libération",
+            "title": "EN DIRECT – Mobilisation du 21 novembre : à Paris, une défilé face à un «quinquennat à bout de souffle»",
+            "link": "https://www.liberation.fr/societe/en-direct-mobilisation-contre-la-vie-chere-coup-denvoi-du-sixieme-samedi-de-manifestations-20261121_VKY5SCSHIRDTXE7DUOQNMMRLWY/",
+            "publishedAt": "2026-11-21T16:49:45.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "France 24",
+            "title": "Manifestations en France : colère contre la vie chère et les violences policières",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261121-manifestations-en-france-col%C3%A8re-contre-la-vie-ch%C3%A8re-et-les-violences-polici%C3%A8res",
+            "publishedAt": "2026-11-21T14:52:58.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "France 24",
+            "title": "Manifestations en France : la révolution en fanfare ?",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261121-manifestations-en-france-la-r%C3%A9volution-en-fanfare",
+            "publishedAt": "2026-11-21T12:39:25.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "France 24",
+            "title": "Acte VI de la mobilisation : les manifestants se rassemblent place de la République",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261121-acte-vi-de-la-mobilisation-les-manifestants-se-rassemblent-place-de-la-r%C3%A9publique",
+            "publishedAt": "2026-11-21T12:36:55.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "RFI",
+            "title": "France: un acte VI de la mobilisation sous l'impulsion des syndicats et des «gilets jaunes»",
+            "link": "https://www.rfi.fr/fr/france/20261121-mobilisation-en-france-un-acte-vi-sous-l-impulsion-des-syndicats-et-des-gilets-jaunes-qui-f%C3%AAtent-leurs-8-ans",
+            "publishedAt": "2026-11-21T11:55:56.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/tT0i4J48ZfUsVERhtmQCbCh0bYc/0x260:5000x3072/432x243/filters:format(jpg)/2026/11/20/6b00990acda3f437639160.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/societe/manifestations/reportage-je-vais-aller-bruler-un-cierge-a-lyon-les-commercants-de-la-place-bellecour-s-inquietent-du-retour-des-corteges-en-centre-ville_8292824.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "New day of demonstrations in France against a backdrop of social demands",
+            "context": "For several weeks, trade unions, youth organizations, and the 'yellow vest' movement have been regularly mobilizing to express their dissatisfaction with living conditions and the rising cost of living.",
+            "summary": "A new day of mobilization, the sixth consecutive one, took place in France following a call by trade unions, yellow vest collectives, and youth organizations. In Paris, the authorities refused to let the procession go to the Place de la Concorde, forcing it to join the union march starting from Place de la République. Demonstrators thus protested against the high cost of living, economic difficulties, and what they describe as an exhausted policy. Similar demonstrations were also observed in other French cities, sometimes marked by demands against police violence or the militarization of society. The overall conduct of these gatherings remained generally peaceful until late afternoon, according to organizers and the press.",
+            "plain": "Thousands of demonstrators took to the streets in France for the sixth week in a row to demand better wages and protest against the high cost of living. In Paris, the authorities supervised the route of the processions to avoid severe tensions in certain sensitive areas.",
+            "stakes": [
+              "What concrete responses will the government provide in the face of persistent social unrest?",
+              "What impact will these weekly mobilizations have on the political climate as election deadlines approach?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Nueva jornada de manifestaciones en Francia en un contexto de reivindicaciones sociales",
+            "context": "Durante varias semanas, sindicatos, organizaciones juveniles y el movimiento de los chalecos amarillos se han mobilizado regularmente para expresar su descontento ante las condiciones de vida y el aumento del costo de la vida.",
+            "summary": "Una nueva jornada de movilización, la sexta consecutiva, tuvo lugar en Francia por iniciativa de sindicatos, colectivos de chalecos amarillos y organizaciones juveniles. En París, las autoridades se negaron a que la marcha se dirigiera a la plaza de la Concordia, obligándola a unirse al desfile sindical que partió de la plaza de la República. De este modo, los manifestantes protestaron contra la carestía de la vida, las dificultades económicas y lo que califican de política agotada. Se observaron manifestaciones similares en otras ciudades francesas, salpicadas a veces por reivindicaciones contra la violencia policial o la militarización de la sociedad. El desarrollo global de estas concentraciones transcurrió en calma hasta última hora de la tarde, según los organizadores y la prensa.",
+            "plain": "Miles de manifestantes salieron a las calles en Francia por sexta semana consecutiva para reclamar mejores salarios y protestar contra la carestía de la vida. En París, las autoridades supervisaron el recorrido de las marchas para evitar tensiones excesivas en ciertos sectores sensibles.",
+            "stakes": [
+              "¿Cuáles serán las respuestas concretas del gobierno ante la persistencia de la protesta social?",
+              "¿Qué impacto tendrán estas movilizaciones semanales en el clima político a medida que se acercan los plazos electorales?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sf926c87686",
+        "topic": "justice",
+        "title": "Condamnation ferme de trois policiers pour l'agression de Michel Zecler",
+        "context": "L'affaire remonte à l'année 2020, lorsqu'un producteur de musique noir avait été passé à tabac par des fonctionnaires de police, des faits filmés par des caméras de surveillance et ayant suscité une vive émotion nationale.",
+        "summary": "La justice française a rendu son verdict dans le procès relatif au passage à tabac de Michel Zecler, condamnant à des peines de prison ferme trois policiers reconnus coupables de violences. La juridiction a retenu l'existence d'une circonstance aggravante de racisme dans cette agression survenue en 2020. Ce jugement a été largement commenté, certains observateurs et acteurs associatifs y voyant l'espoir de l'établissement d'une jurisprudence sur les violences commises par des dépositaires de l'autorité publique. La couverture médiatique internationale a également souligné l'importance de cette décision pour solder une affaire qui avait profondément marqué le débat sur les brutalités policières en France.",
+        "plain": "Trois policiers ont été lourdement condamnés à de la prison ferme pour avoir roué de coups un producteur de musique en 2020. Le tribunal a reconnu le caractère raciste de ces violences, une décision saluée par ceux qui réclament davantage de sévérité contre les abus policiers.",
+        "chart": null,
+        "stakes": [
+          "Cette décision va-t-elle modifier durablement les pratiques et le contrôle au sein des forces de l'ordre ?",
+          "Comment les syndicats de police vont-ils réagir face à la reconnaissance de la circonstance aggravante de racisme ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "French police officers sentenced for beating of music producer Michel Zecler",
+            "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-20T22:37:09.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Guardian",
+            "title": "French police officers found guilty of racist assault on black music producer",
+            "link": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+            "publishedAt": "2026-11-20T22:23:53.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "France 24",
+            "title": "Verdict au procès de Michel Zecler : l'espoir d'une \"jurisprudence\"",
+            "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-en-france/20261121-verdict-au-proc%C3%A8s-de-michel-zecler-l-espoir-d-une-jurisprudence",
+            "publishedAt": "2026-11-21T15:29:45.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Firm conviction of three police officers for the assault on Michel Zecler",
+            "context": "The case dates back to 2020, when a Black music producer was beaten up by police officers, an incident filmed by surveillance cameras that sparked deep national emotion.",
+            "summary": "The French justice system delivered its verdict in the trial concerning the beating of Michel Zecler, sentencing three police officers found guilty of violence to firm prison terms. The court upheld the aggravating circumstance of racism in this assault which took place in 2020. This judgment has been widely commented on, with some observers and association actors seeing it as hope for establishing jurisprudence on violence committed by custodians of public authority. International media coverage also highlighted the importance of this decision in settling a case that had deeply marked the debate on police brutality in France.",
+            "plain": "Three police officers were heavily sentenced to prison time for beating up a music producer in 2020. The court recognized the racist nature of this violence, a decision welcomed by those demanding greater severity against police abuses.",
+            "stakes": [
+              "Will this decision permanently alter practices and oversight within law enforcement?",
+              "How will police unions react to the recognition of the aggravating circumstance of racism?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Firme condena de tres policías por la agresión a Michel Zecler",
+            "context": "El caso se remonta al año 2020, cuando un productor musical negro fue apaleado por agentes de policía, unos hechos grabados por cámaras de vigilancia que suscitaron una profunda emoción nacional.",
+            "summary": "La justicia francesa dictó su sentencia en el juicio relativo a la paliza a Michel Zecler, condenando a penas de prisión en firme a tres policías declarados culpables de violencia. El tribunal retuvo la existencia de una circunstancia agravante de racismo en esta agresión ocurrida en 2020. Este fallo ha sido ampliamente comentado, y algunos observadores y actores asociativos ven en él la esperanza de establecer jurisprudencia sobre la violencia cometida por depositarios de la autoridad pública. La cobertura mediática internacional también subrayó la importancia de esta decisión para zanjar un caso que había marcado profundamente el debate sobre la brutalidad policial en Francia.",
+            "plain": "Tres policías fueron condenados duramente a penas de prisión firme por propinar una paliza a un productor musical en 2020. El tribunal reconoció el carácter racista de dicha violencia, una decisión aplaudida por quienes exigen mayor severidad contra los abusos policiales.",
+            "stakes": [
+              "¿Modificará esta decisión de forma duradera las prácticas y el control dentro de las fuerzas del orden?",
+              "¿Cómo reaccionarán los sindicatos policiales ante el reconocimiento de la circunstancia agravante de racismo?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "se9cf183810",
+        "topic": "environnement",
+        "title": "Inondations persistantes et désolation dans les Hauts-de-France",
+        "context": "Les départements du nord de la France font face à des épisodes de intempéries à répétition depuis plusieurs années, fragilisant les sols et les infrastructures locales.",
+        "summary": "Le Pas-de-Calais et les Hauts-de-France subissent de nouvelles inondations qui laissent des centaines de foyers privés d'électricité et contraignent l'évacuation de centaines de personnes. Le niveau de la Canche et de la Lys a atteint des hauteurs importantes, plaçant les cours d'eau en vigilance orange, tandis que la décrue n'est toujours pas amorcée selon les autorités préfectorales. Sur place, les habitants expriment leur lassitude et leur colère face à la récurrence de ces catastrophes naturelles depuis 2023. Des pompes à grande puissance ont été acheminées pour tenter de désengorger les zones les plus sinistrées, alors que les populations locales s'interrogent sur les mesures d'adaptation prises à long terme.",
+        "plain": "De nouvelles crues ont submergé plusieurs communes du Pas-de-Calais, privant d'électricité de nombreux foyers et contraignant des centaines d'habitants à quitter leur domicile. Les sinistrés, fatigués d'enchaîner les inondations depuis les épisodes de 2023, réclament des solutions durables pour protéger leurs habitations.",
+        "chart": null,
+        "stakes": [
+          "Quelles solutions techniques pérennes peuvent être mises en œuvre pour protéger durablement ces territoires vulnérables aux crues ?",
+          "Comment les assurances et les pouvoirs publics vont-ils gérer l'accompagnement financier et psychologique des sinistrés à répétition ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "\"On en a ras le bol, depuis 2023\" : la détresse des habitants après de nouvelles inondations dans le Pas-de-Calais",
+            "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/ca-commence-a-bien-faire-la-detresse-des-habitants-apres-les-nouvelles-inondations-dans-le-pas-de-calais_8293751.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-21T15:21:19.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
           {
             "name": "franceinfo",
             "title": "Intempéries dans le Pas-de-Calais : \"Nous sommes sur un plateau, la décrue n'est pas amorcée\", indique le préfet",
@@ -35,178 +203,454 @@
             "country": "FR"
           },
           {
-            "name": "Le Monde",
-            "title": "Inondations dans le Pas-de-Calais : deux cours d’eau en vigilance orange ; près de 800 évacuations depuis jeudi, selon la préfecture",
-            "link": "https://www.lemonde.fr/planete/article/2026/11/21/inondations-dans-le-pas-de-calais-la-canche-reste-en-vigilance-orange-pres-de-800-evacuations-depuis-jeudi-selon-la-prefecture_6813953_3244.html",
-            "publishedAt": "2026-11-21T07:01:53.000Z",
+            "name": "Libération",
+            "title": "Inondations dans le Pas-de-Calais : 800 personnes évacuées depuis jeudi, la Canche et la Lys en vigilance orange",
+            "link": "https://www.liberation.fr/societe/inondations-dans-le-pas-de-calais-800-personnes-evacuees-depuis-jeudi-la-canche-reste-en-vigilance-orange-20261121_UL3RUAMHAZGP5A2MBEUUDKN5MQ/",
+            "publishedAt": "2026-11-21T16:17:31.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/oSXQqv8tYsWFGXdcZ-8PFtvh2j4/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/21/6b01982872b7d962641502.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/ca-commence-a-bien-faire-la-detresse-des-habitants-apres-les-nouvelles-inondations-dans-le-pas-de-calais_8293751.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Persistent flooding and devastation in the Hauts-de-France region",
+            "context": "The departments of northern France have faced repeated episodes of severe weather for several years, weakening local soils and infrastructure.",
+            "summary": "Pas-de-Calais and Hauts-de-France are suffering from new floods that leave hundreds of households without electricity and force the evacuation of hundreds of people. The level of the Canche and the Lys rivers has reached significant heights, placing waterways on orange alert, while the receding of floodwaters has still not begun according to prefectural authorities. On site, residents express their weariness and anger over the recurrence of these natural disasters since 2023. High-power pumps have been brought in to try to unblock the most severely affected areas, as local populations question the long-term adaptation measures being taken.",
+            "plain": "New floods have submerged several municipalities in the Pas-de-Calais, leaving numerous households without electricity and forcing hundreds of residents to leave their homes. The victims, tired of enduring successive floods since the 2023 episodes, are demanding lasting solutions to protect their homes.",
+            "stakes": [
+              "What lasting technical solutions can be implemented to permanently protect these flood-vulnerable regions?",
+              "How will insurance companies and public authorities manage the financial and psychological support for repeat disaster victims?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Inundaciones persistentes y desolación en la región de Alta Francia",
+            "context": "Los departamentos del norte de Francia se enfrentan a episodios repetidos de inclemencias meteorológicas desde hace varios años, lo que debilita los suelos y las infraestructuras locales.",
+            "summary": "El Paso de Calais y Alta Francia sufren nuevas inundaciones que dejan a cientos de hogares sin electricidad y obligan a evacuar a cientos de personas. El nivel de los ríos Canche y Lys ha alcanzado alturas considerables, situando a los cursos de agua en alerta naranja, mientras que la bajada de las aguas aún no ha comenzado, según las autoridades prefectorales. Sobre el terreno, los habitantes expresan su cansancio y su ira ante la recurrencia de estas catástrofes naturales desde 2023. Se han desplazado bombas de gran potencia para intentar desaguar las zonas más afectadas, mientras la población local se cuestiona sobre las medidas de adopción a largo plazo que se están tomando.",
+            "plain": "Nuevas crecidas han sumergido varios municipios del Paso de Calais, dejando sin electricidad a numerosos hogares y obligando a cientos de habitantes a abandonar sus domicilios. Los afectados, cansados de encadenar inundaciones desde los episodios de 2023, reclaman soluciones duraderas para proteger sus viviendas.",
+            "stakes": [
+              "¿Qué soluciones técnicas perennes pueden ponerse en práctica para proteger de forma duradera estos territorios vulnerables a las crecidas?",
+              "¿Cómo gestionarán los seguros y los poderes públicos el acompañamiento financiero y psicológico de los damnificados recurrentes?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sda0b617367",
+        "topic": "environnement",
+        "title": "Incertitudes et retards autour des négociations climatiques de la COP31",
+        "context": "Les conférences annuelles de l'Organisation des nations unies (ONU) sur le climat réunissent près de deux cents pays pour tenter de fixer des objectifs communs de réduction des émissions polluantes.",
+        "summary": "La 31e Conférence mondiale sur le climat (COP31), qui se tient en Turquie, traverse une zone de turbulence majeure et se prolonge en raison d'un enlisement des discussions. De nombreux pays peinent à trouver un terrain d'entente, notamment sur la question cruciale de la sortie programmée des énergies fossiles et sur les mécanismes de financement pour les pays en développement. Les organisations internationales et les défenseurs de l'environnement déplorent le manque d'ambition et les blocages persistants des négociateurs. Les autorités européennes ont souligné que l'issue de ces pourparlers débouche soit sur un accord solide, soit sur un échec total.",
+        "plain": "La conférence mondiale sur le climat s'est prolongée bien au-delà de son terme prévu en raison de profonds désaccords entre les nations. Les participants n'arrivent pas à s'entendre sur la suppression des énergies fossiles et sur l'aide financière à apporter aux pays pauvres.",
+        "chart": null,
+        "stakes": [
+          "Un accord au rabais peut-il encore répondre à l'urgence climatique soulignée par les scientifiques ?",
+          "Quels pays assumeront la responsabilité politique d'un éventuel échec de ces négociations mondiales ?"
+        ],
+        "sources": [
+          {
+            "name": "Ouest-France",
+            "title": "Cop31 : l’urgence climatique se heurte aux mauvaises volontés",
+            "link": "https://www.ouest-france.fr/environnement/cop21/cop31-lurgence-climatique-se-heurte-aux-mauvaises-volontes-0d631168-e5ba-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-21T16:21:48.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+            "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-21T14:54:24.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Tagesschau",
+            "title": "Scheitert die UN-Klimakonferenz in Antalya?",
+            "link": "https://www.tagesschau.de/wissen/klima/klimakonferenz/cop31-haengepartie-abschlusserklaerung-100.html",
+            "publishedAt": "2026-11-21T16:29:15.000Z",
+            "lang": "de",
+            "country": "DE"
+          },
+          {
+            "name": "The Straits Times",
+            "title": "COP31 climate summit risks failure as talks go deep into overtime",
+            "link": "https://www.straitstimes.com/world/europe/cop31-climate-summit-risks-failure-as-talks-go-deep-into-overtime",
+            "publishedAt": "2026-11-21T14:40:41.000Z",
+            "lang": "en",
+            "country": "SG"
+          }
+        ],
+        "image": {
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExZTJjY2I5YTJmM2U5MjY5NzlhMzFkMTI4YmU0NmZmN2U?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=96434eb6b6faa4b41e88cb37a32d602e1890e1a80fee912b238c6331dba8eb4c",
+          "credit": "Ouest-France",
+          "link": "https://www.ouest-france.fr/environnement/cop21/cop31-lurgence-climatique-se-heurte-aux-mauvaises-volontes-0d631168-e5ba-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+        },
+        "i18n": {
+          "en": {
+            "title": "Uncertainty and delays surrounding COP31 climate negotiations",
+            "context": "The annual United Nations (UN) climate conferences bring together nearly two hundred countries in an attempt to set common targets for reducing polluting emissions.",
+            "summary": "The 31st World Climate Conference (COP31), held in Turkey, is going through major turbulence and is extending beyond schedule due to stalled discussions. Many countries are struggling to find common ground, particularly on the crucial issue of the scheduled phase-out of fossil fuels and financing mechanisms for developing countries. International organizations and environmental defenders deplore the lack of ambition and the persistent roadblocks from negotiators. European authorities have stressed that the outcome of these talks will lead either to a solid agreement or a total failure.",
+            "plain": "The world climate conference extended well beyond its scheduled end date due to deep disagreements among nations. Participants cannot agree on phasing out fossil fuels and providing financial aid to poor countries.",
+            "stakes": [
+              "Can a watered-down agreement still meet the climate emergency highlighted by scientists?",
+              "Which countries will bear the political responsibility for a potential failure of these global negotiations?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Incertidumbres y retrasos en torno a las negociaciones climáticas de la COP31",
+            "context": "Las conferencias anuales de la Organización de las Naciones Unidas (ONU) sobre el clima reúnen a casi doscientos países para intentar fijar objetivos comunes de reducción de emisiones contaminantes.",
+            "summary": "La 31ª Conferencia Mundial sobre el Clima (COP31), celebrada en Turquía, atraviesa una zona de turbulencias importantes y se prolonga debido al estancamiento de las discusiones. Numerosos países tienen dificultades para encontrar un terreno de entendimiento, en particular sobre la cuestión crucial de la salida programada de los combustibles fósiles y sobre los mecanismos de financiación para los países en desarrollo. Las organizaciones internacionales y los defensores del medio ambiente deploran la falta de ambición y los persistentes bloqueos de los negociadores. Las autoridades europeas han subrayado que el desenlace de estas conversaciones desembocará en un acuerdo sólido o en un fracaso total.",
+            "plain": "La conferencia mundial sobre el clima se prolongó mucho más allá de su plazo previsto debido a profundos desacuerdos entre las naciones. Los participantes no logran ponerse de acuerdo sobre la eliminación de los combustibles fósiles ni sobre la ayuda financiera que debe proporcionarse a los países pobres.",
+            "stakes": [
+              "¿Puede un acuerdo de mínimos responder todavía a la urgencia climática señalada por los científicos?",
+              "¿Qué países asumirán la responsabilidad política de un eventual fracaso de estas negociaciones mundiales?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sc5de623d06",
+        "topic": "international",
+        "title": "Un cargo russe visé par une attaque de drones en mer Baltique",
+        "context": "La région de la mer Baltique et du golfe de Finlande connaît des tensions géopolitiques accrues en raison du conflit en Ukraine et de la militarisation des voies maritimes.",
+        "summary": "Un navire cargo battant pavillon russe a été endommagé à la suite d'une attaque de drones survenue dans les eaux internationales de l'est du golfe de Finlande. Le ministère de la Défense finlandais a détecté l'incident et indiqué avoir repéré des violations potentielles de son espace aérien, potentiellement liées aux opérations de secours. Alors que Helsinki évoque une répercussion directe de la guerre aux portes de l'Europe, les autorités ukrainiennes suggèrent une riposte face aux actions navales de Moscou. Les services de renseignement et les gouvernements riverains renforcent la surveillance de la zone pour éviter une escalade militaire.",
+        "plain": "Un cargo russe a subi des dégâts après avoir été frappé par des drones dans le golfe de Finlande, en eaux internationales. La Finlande voisine surveille la situation de très près, craignant que le conflit en Ukraine ne déborde sur ses frontières maritimes.",
+        "chart": null,
+        "stakes": [
+          "Comment les pays riverains de la mer Baltique vont-ils sécuriser leurs espaces maritimes face à ce type d'incident ?",
+          "Cet événement va-t-il accroître les tensions diplomatiques entre la Russie et les alliés de l'Ukraine ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde (International)",
+            "title": "EN DIRECT, guerre en Ukraine : la Finlande soupçonne un hélicoptère russe d’être entré dans son espace aérien, quelques heures après une attaque au drone d’un cargo russe en mer Baltique",
+            "link": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-la-finlande-soupconne-un-helicoptere-russe-d-etre-entre-dans-son-espace-aerien-quelques-heures-apres-une-attaque-de-drone-sur-un-cargo-russe-en-mer-baltique_6810982_3210.html",
+            "publishedAt": "2026-11-21T14:35:11.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
             "name": "Libération",
-            "title": "Inondations dans le Pas-de-Calais : 800 personnes évacuées depuis jeudi, la Canche reste en vigilance orange",
-            "link": "https://www.liberation.fr/societe/inondations-dans-le-pas-de-calais-800-personnes-evacuees-depuis-jeudi-la-canche-reste-en-vigilance-orange-20261121_UL3RUAMHAZGP5A2MBEUUDKN5MQ/",
-            "publishedAt": "2026-11-21T11:02:39.000Z",
+            "title": "«La guerre s’étend jusqu’à nos portes» : une attaque de drone, possiblement ukrainienne, contre un cargo russe dans le golfe de Finlande",
+            "link": "https://www.liberation.fr/international/europe/la-guerre-setend-jusqua-nos-portes-une-attaque-de-drone-detectee-contre-un-cargo-russe-dans-le-golfe-de-finlande-20261121_IBIBYATSGVC5TKHIW7MAULCT5U/",
+            "publishedAt": "2026-11-21T16:42:05.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Tagesschau",
+            "title": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
+            "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
+            "publishedAt": "2026-11-21T16:29:37.000Z",
+            "lang": "de",
+            "country": "DE"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "Russian ship damaged by drone attack in Gulf of Finland, Helsinki and Moscow say",
+            "link": "https://www.politico.eu/article/russian-ship-damaged-drone-attack-gulf-finland-helsinki-moscow-say/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-21T12:36:56.000Z",
+            "lang": "en",
+            "country": "BE"
+          },
+          {
+            "name": "The Hindu",
+            "title": "Finland detects drone attack on Russian cargo ship in Baltic",
+            "link": "https://www.thehindu.com/news/international/finland-detects-drone-attack-on-russian-cargo-ship-in-baltic/article71728516.ece",
+            "publishedAt": "2026-11-21T13:56:11.000Z",
+            "lang": "en",
+            "country": "IN"
+          },
+          {
+            "name": "Euronews",
+            "title": "Attaque de drones sur un cargo russe dans le golfe de Finlande",
+            "link": "https://fr.euronews.com/2026/11/21/attaque-de-drones-sur-un-cargo-russe-dans-le-golfe-de-finlande",
+            "publishedAt": "2026-11-21T14:49:40.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/10/28/432/0/6144/3072/644/322/60/0/2f215db_ftp-1-508sred31mq3-2026-10-28t113715z-1529411193-rc2acoada6jl-rtrmadp-3-finland-italy.JPG",
+          "credit": "Le Monde (International)",
+          "link": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-la-finlande-soupconne-un-helicoptere-russe-d-etre-entre-dans-son-espace-aerien-quelques-heures-apres-une-attaque-de-drone-sur-un-cargo-russe-en-mer-baltique_6810982_3210.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Russian cargo ship targeted by drone attack in the Baltic Sea",
+            "context": "The Baltic Sea and Gulf of Finland region is experiencing heightened geopolitical tensions due to the conflict in Ukraine and the militarization of maritime routes.",
+            "summary": "A cargo ship flying the Russian flag was damaged following a drone attack in international waters in the eastern Gulf of Finland. The Finnish Ministry of Defense detected the incident and reported spotting potential violations of its airspace, potentially linked to rescue operations. While Helsinki describes this as a direct repercussion of the war at Europe's doorstep, Ukrainian authorities suggest it was a response to Moscow's naval actions. Intelligence services and riparian governments are stepping up surveillance of the area to prevent a military escalation.",
+            "plain": "A Russian cargo ship sustained damage after being struck by drones in the Gulf of Finland, in international waters. Neighboring Finland is monitoring the situation very closely, fearing that the conflict in Ukraine might spill over into its maritime borders.",
+            "stakes": [
+              "How will the Baltic Sea riparian countries secure their maritime spaces against this type of incident?",
+              "Will this event increase diplomatic tensions between Russia and Ukraine's allies?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Un carguero ruso blanco de un ataque con drones en el mar Báltico",
+            "context": "La región del mar Báltico y del golfo de Finlandia experimenta mayores tensiones geopolíticas debido al conflicto en Ucrania y a la militarización de las rutas marítimas.",
+            "summary": "Un buque de carga con bandera rusa resultó dañado tras un ataque con drones ocurrido en aguas internacionales del este del golfo de Finlandia. El Ministerio de Defensa finlandés detectó el incidente e indicó haber localizado posibles violaciones de su espacio aéreo, potencialmente vinculadas a las operaciones de rescate. Mientras Helsinki evoca una repercusión directa de la guerra a las puertas de Europa, las autoridades ucranianas sugieren una respuesta ante las acciones navales de Moscú. Los servicios de inteligencia y los gobiernos ribereños refuerzan la vigilancia de la zona para evitar una escalada militar.",
+            "plain": "Un carguero ruso sufrió daños tras ser alcanzado por drones en el golfo de Finlandia, en aguas internacionales. La vecina Finlandia vigila la situación muy de cerca, temiendo que el conflicto en Ucrania desborde hacia sus fronteras marítimas.",
+            "stakes": [
+              "¿Cómo asegurarán los países ribereños del mar Báltico sus espacios marítimos ante este tipo de incidentes?",
+              "¿Aumentará este acontecimiento las tensiones diplomáticas entre Rusia y los aliados de Ucrania?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sa07c9d2682",
+        "topic": "international",
+        "title": "Échec des négociations à l'ONU pour interdire les « robots tueurs »",
+        "context": "Les systèmes d'armes létales autonomes, pilotés par des technologies d'intelligence artificielle, font l'objet de vifs débats au sein de la diplomatie internationale quant à leur encadrement éthique.",
+        "summary": "Réunies sous l'égide des Nations unies à Genève, 128 nations ont tenté de négocier un traité international juridiquement contraignant pour réglementer l'utilisation des armes autonomes et des drones armés par l'intelligence artificielle. Les pourparlers ont finalement échoué à établir un mandat de négociation strict, en raison de l'opposition marquée de grandes puissances militaires telles que la Russie et les États-Unis. Si un accord de principe a été trouvé pour prolonger les discussions pendant deux années supplémentaires, les organisations humanitaires et de nombreux diplomates regrettent que la régulation technologique progresse beaucoup moins vite que les innovations militaires.",
+        "plain": "Les pays membres de l'ONU n'ont pas réussi à s'entendre à Genève sur un traité interdisant les armes autonomes guidées par l'intelligence artificielle. Face à la résistance de plusieurs grandes puissances, les discussions ont simplement été prolongées sans règles contraignantes immédiates.",
+        "chart": null,
+        "stakes": [
+          "Comment la communauté internationale pourra-t-elle combler le fossé entre le développement rapide des technologies militaires autonomes et la lenteur de la diplomatie ?",
+          "Quelles seront les conséquences de l'absence de règles internationales sur l'utilisation future de ces armements dans les zones de conflit ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde (International)",
+            "title": "A Genève, la communauté internationale échoue à interdire les robots tueurs",
+            "link": "https://www.lemonde.fr/international/article/2026/11/21/a-geneve-la-communaute-internationale-echoue-a-interdire-les-robots-tueurs_6814012_3210.html",
+            "publishedAt": "2026-11-21T12:36:49.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Libération",
+            "title": "«Robots tueurs» : un accord trouvé à l’ONU, mais pas d’interdiction",
+            "link": "https://www.liberation.fr/international/robots-tueurs-un-accord-trouve-a-lonu-mais-pas-dinterdiction-20261121_5WLRNTYQY5GIZGCNZCFTCJVFZM/",
+            "publishedAt": "2026-11-21T16:18:23.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
             "name": "La Croix",
-            "title": "Pas-de-Calais : routes et maisons inondées, 800 personnes évacuées",
-            "link": "https://www.la-croix.com/pas-de-calais-routes-et-maisons-inondees-la-pluie-devrait-diminuer-20261120",
-            "publishedAt": "2026-11-21T11:25:01.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://www.franceinfo.fr/pictures/8P1vf22o5l6DW0hIDx5dmyLG918/0x274:6036x3669/432x243/filters:format(jpg)/2026/11/21/6b01672beae36758772460.jpg",
-          "credit": "franceinfo",
-          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/intemperies-dans-le-pas-de-calais-nous-sommes-sur-un-plateau-la-decrue-n-est-pas-amorcee-indique-le-prefet_8293568.html#xtor=RSS-3-%5Bfrance%5D"
-        },
-        "i18n": {
-          "en": {
-            "title": "Major floods and evacuations of hundreds of residents in Pas-de-Calais",
-            "context": "The Pas-de-Calais department is facing recurring episodes of intense rainfall since the notable floods of 2023. Several rivers in the area remain under high surveillance.",
-            "summary": "Following heavy rainfall, nearly 800 people had to be evacuated in Pas-de-Calais. Streets and homes are submerged, leading to school closures. Although the rains have stopped, prefectural authorities indicate that the water levels have not yet begun to recede and that rivers like the Canche remain under orange alert. High-capacity pumps have been deployed to clear the impacted areas, while fatigue and anger are growing among the local population.",
-            "plain": "IN SHORT: Severe flooding is hitting Pas-de-Calais, forcing nearly 800 residents to leave their homes. Water levels remain very high and recession is slow, exasperating residents facing these recurring floods.",
-            "stakes": [
-              "How to quickly adapt land management in the face of repeated flooding?",
-              "What compensation and rescue measures should be deployed to help disaster victims?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Inundaciones importantes y evacuación de cientos de habitantes en el Paso de Calais",
-            "context": "El departamento del Paso de Calais se enfrenta a la repetición de episodios de lluvias intensas desde las inundaciones destacadas de 2023. Varios cursos de agua del sector siguen bajo alta vigilancia.",
-            "summary": "Tras las fuertes precipitaciones, cerca de 800 personas tuvieron que ser evacuadas en el Paso de Calais. Calles y viviendas se encuentran sumergidas, lo que provoca el cierre de escuelas. Aunque las lluvias han cesado, las autoridades prefectorales indican que el descenso del nivel del agua aún no ha comenzado y que los cursos de agua como la Canche permanecen en alerta naranja. Se han desplegado bombas de alta potencia para despejar las zonas afectadas, mientras la fatiga y la ira crecen entre la población local.",
-            "plain": "EN CLARA: Severas inundaciones golpean el Paso de Calais, obligando a casi 800 habitantes a abandonar sus hogares. Los ríos siguen muy altos y la bajada de caudal se hace esperar, lo que exaspera a los vecinos que se enfrentan a estas crecidas recurrentes.",
-            "stakes": [
-              "¿Cómo adaptar rápidamente la ordenación del territorio ante las inundaciones repetidas?",
-              "¿Qué medidas de indemnización y socorro desplegar para ayudar a los damnificados?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s7ccd8f5fc9",
-        "topic": "economie",
-        "title": "Désaccord européen sur la proposition de réduction du budget communautaire",
-        "context": "Les États membres de l'Union européenne préparent les négociations relatives au prochain cadre financier pluriannuel de l'UE à Bruxelles.",
-        "summary": "Le président du Conseil européen, António Costa, a soumis un projet de compromis incluant une réduction de 204 milliards d'euros du budget communautaire ainsi que l'instauration d'une taxe numérique sur les grands groupes technologiques. La présidence française a immédiatement qualifié cette offre de très décevante et l'a rejetée. Ce projet vise à rapprocher les positions divergentes des pays membres avant le sommet des dirigeants européens.",
-        "plain": "EN CLAIR : L'Union européenne cherche à fixer son budget pour les années à venir. La présidence du Conseil européen a proposé des coupes financières et une nouvelle taxe sur les géants du web, mais la France refuse ce texte qu'elle juge insatisfaisant.",
-        "chart": null,
-        "stakes": [
-          "La France peut-elle obtenir une révision des coupes budgétaires lors du sommet ?",
-          "Les Vingt-Sept parviendront-ils à un accord sur la taxation des géants de la technologie ?"
-        ],
-        "sources": [
-          {
-            "name": "Le Monde (International)",
-            "title": "Budget de l’UE : Antonio Costa, le président du Conseil européen, propose 204 milliards d’euros d’économies et une taxe numérique",
-            "link": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
-            "publishedAt": "2026-11-21T11:01:50.000Z",
+            "title": "Robots tueurs, l’échec de la communauté internationale",
+            "link": "https://www.la-croix.com/international/robots-tueurs-l-echec-de-la-communaute-internationale-20261121",
+            "publishedAt": "2026-11-21T14:30:55.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "Libération",
-            "title": "Avant le sommet de l’UE consacré à son budget, la France s’oppose à la baisse de 204 milliards proposés par le Conseil européen",
-            "link": "https://www.liberation.fr/international/europe/avant-le-sommet-de-lue-consacre-a-son-budget-la-france-soppose-a-la-baisse-de-204-milliards-proposes-par-le-conseil-europeen-20261121_WO3IZVG2DZEUNIT5XYNT56C6RA/",
-            "publishedAt": "2026-11-21T11:56:25.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Ouest-France",
-            "title": "L’UE présente un budget réduit de plus de 200 milliards d’euros dès 2028, Paris juge la proposition « très décevante »",
-            "link": "https://www.ouest-france.fr/europe/ue/lue-presente-un-budget-reduit-de-plus-de-200-milliards-deuros-des-2028-paris-juge-la-proposition-tres-decevante-55aa4488-e59b-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-            "publishedAt": "2026-11-21T12:08:02.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "The Hindu",
-            "title": "European Union proposes tax on Big Tech to boost budget",
-            "link": "https://www.thehindu.com/news/international/european-union-proposes-tax-on-big-tech-to-boost-budget/article71728111.ece",
-            "publishedAt": "2026-11-21T12:33:16.000Z",
-            "lang": "en",
-            "country": "IN"
-          },
-          {
-            "name": "The Straits Times",
-            "title": "Latest EU budget proposal is 'very disappointing', French presidency says",
-            "link": "https://www.straitstimes.com/world/europe/latest-eu-budget-proposal-is-very-disappointing-french-presidency-says",
-            "publishedAt": "2026-11-21T11:25:35.000Z",
-            "lang": "en",
-            "country": "SG"
-          },
-          {
-            "name": "South China Morning Post",
-            "title": "EU eyes tax on Big Tech to boost budget",
-            "link": "https://www.scmp.com/news/world/europe/article/3375333/eu-eyes-tax-big-tech-boost-budget",
-            "publishedAt": "2026-11-21T11:51:18.000Z",
-            "lang": "en",
-            "country": "HK"
-          }
-        ],
-        "image": {
-          "url": "https://img.lemde.fr/2026/11/20/476/0/5712/2856/644/322/60/0/138f446_ftp-1-zcn4jvzlfhs4-2026-11-20t140649z-844608601-rc2oroa6b6of-rtrmadp-3-eu-britain-summit-burnham.JPG",
-          "credit": "Le Monde (International)",
-          "link": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html"
-        },
-        "i18n": {
-          "en": {
-            "title": "European disagreement over the proposed reduction of the community budget",
-            "context": "Member States of the European Union are preparing negotiations regarding the next multiannual financial framework of the EU in Brussels.",
-            "summary": "The President of the European Council, António Costa, has submitted a compromise project including a 204 billion euro reduction in the community budget as well as the introduction of a digital tax on large tech groups. The French presidency immediately described this offer as very disappointing and rejected it. This project aims to bridge the divergent positions of member countries before the European leaders' summit.",
-            "plain": "IN SHORT: The European Union is trying to set its budget for the coming years. The presidency of the European Council has proposed financial cuts and a new tax on web giants, but France refuses this text, considering it unsatisfactory.",
-            "stakes": [
-              "Can France obtain a revision of the budget cuts during the summit?",
-              "Will the Twenty-Seven reach an agreement on the taxation of technology giants?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Desacuerdo europeo sobre la propuesta de reducción del presupuesto comunitario",
-            "context": "Los Estados miembros de la Unión Europea preparan las negociaciones relativas al próximo marco financiero plurianual de la UE en Bruselas.",
-            "summary": "El presidente del Consejo Europeo, António Costa, ha presentado un proyecto de compromiso que incluye una reducción de 204.000 millones de euros en el presupuesto comunitario, así como el establecimiento de un impuesto digital sobre los grandes grupos tecnológicos. La presidencia francesa calificó inmediatamente esta oferta de muy decepcionante y la rechazó. Este proyecto pretende acercar las posiciones divergentes de los países miembros antes de la cumbre de líderes europeos.",
-            "plain": "EN CLARA: La Unión Europea busca fijar su presupuesto para los próximos años. La presidencia del Consejo Europeo ha propuesto recortes financieros y un nuevo impuesto a los gigantes de internet, pero Francia rechaza este texto por considerarlo insatisfactorio.",
-            "stakes": [
-              "¿Puede Francia obtener una revisión de los recortes presupuestarios durante la cumbre?",
-              "¿Lograrán los Veintisiete un acuerdo sobre la tributación de los gigantes tecnológicos?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "sacf404f6e9",
-        "topic": "international",
-        "title": "Vives inquiétudes européennes après des incidents militaires attribués à la Russie",
-        "context": "Les relations entre les pays de l'Alliance atlantique et Moscou sont extrêmement tendues dans le contexte de la guerre en Ukraine et des manœuvres militaires en Europe.",
-        "summary": "La Pologne a dénoncé comme une provocation la chute d'un missile russe sur son territoire lors d'exercices militaires alliés. Parallèlement, le Danemark a accusé la Russie d'avoir planifié l'assassinat d'un rappeur ukrainien sur son sol et a décidé d'expulser l'attaché de défense russe. Le président français Emmanuel Macron et la présidente de la Commission européenne Ursula von der Leyen ont dénoncé l'intensification des actions agressives et des tentatives de sabotage russes sur le continent. Un cargo russe a également été ciblé par des drones en mer Baltique.",
-        "plain": "EN CLAIR : Plusieurs incidents graves, dont un missile tombé en Pologne et une tentative d'assassinat déjouée au Danemark, ravivent l'inquiétude en Europe. Les dirigeants alliés dénoncent une multiplication des provocations russes.",
-        "chart": null,
-        "stakes": [
-          "Quelle réponse collective l'OTAN et l'UE apporteront-elles face aux violations d'espace aérien ?",
-          "Jusqu'où peut s'étendre l'escalade des tensions hybrides entre la Russie et ses voisins ?"
-        ],
-        "sources": [
-          {
-            "name": "BBC News",
-            "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-            "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-21T02:09:46.000Z",
+            "name": "The Guardian",
+            "title": "International UN talks on controlling use of autonomous weapons collapse",
+            "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+            "publishedAt": "2026-11-21T16:36:11.000Z",
             "lang": "en",
             "country": "GB"
           },
           {
-            "name": "The Guardian",
-            "title": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland",
-            "link": "https://www.theguardian.com/world/2026/nov/21/ukraine-war-briefing-european-leaders-react-with-anger-and-alarm-after-russian-missiles-crash-in-poland",
-            "publishedAt": "2026-11-21T02:41:14.000Z",
+            "name": "NPR",
+            "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+            "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+            "publishedAt": "2026-11-21T14:18:17.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "NPR",
+            "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+            "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+            "publishedAt": "2026-11-21T08:08:01.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The New York Times",
+            "title": "U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again",
+            "link": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
+            "publishedAt": "2026-11-21T13:35:19.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "Effort to regulate ‘killer robots’ delayed to 2028",
+            "link": "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-21T16:43:51.000Z",
+            "lang": "en",
+            "country": "BE"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/16/833/0/5000/2500/644/322/60/0/44263a9_ftp-1-rvj56vvtx8uc-afp-d7kw7kf.jpg",
+          "credit": "Le Monde (International)",
+          "link": "https://www.lemonde.fr/international/article/2026/11/21/a-geneve-la-communaute-internationale-echoue-a-interdire-les-robots-tueurs_6814012_3210.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Failure of UN negotiations to ban 'killer robots'",
+            "context": "Autonomous lethal weapons systems, driven by artificial intelligence technologies, are the subject of intense debate within international diplomacy regarding their ethical framework.",
+            "summary": "Gathered under the auspices of the United Nations in Geneva, 128 nations attempted to negotiate a legally binding international treaty to regulate the use of autonomous weapons and AI-armed drones. The talks ultimately failed to establish a strict negotiating mandate, due to strong opposition from major military powers such as Russia and the United States. Although an agreement in principle was reached to extend discussions for another two years, humanitarian organizations and numerous diplomats regret that technological regulation is progressing much slower than military innovations.",
+            "plain": "UN member countries failed to agree in Geneva on a treaty banning autonomous weapons guided by artificial intelligence. Faced with resistance from several major powers, discussions were simply extended without immediate binding rules.",
+            "stakes": [
+              "How will the international community bridge the gap between the rapid development of autonomous military technologies and the sluggishness of diplomacy?",
+              "What will be the consequences of the lack of international rules on the future use of these armaments in conflict zones?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Fracaso de las negociaciones en la ONU para prohibir los «robots asesinos»",
+            "context": "Los sistemas de armas letales autónomas, pilotados por tecnologías de inteligencia artificial, son objeto de intensos debates en la diplomacia internacional en cuanto a su marco ético.",
+            "summary": "Reunidas bajo los auspicios de las Naciones Unidas en Ginebra, 128 naciones intentaron negociar un tratado internacional jurídicamente vinculante para regular el uso de armas autónomas y drones armados con inteligencia artificial. Las conversaciones acabaron por no establecer un mandato de negociación estricto, debido a la marcada oposición de grandes potencias militares como Rusia y Estados Unidos. Aunque se alcanzó un acuerdo de principio para prorrogar las discusiones durante otros dos años, las organizaciones humanitarias y numerosos diplomáticos lamentan que la regulación tecnológica avance mucho más despacio que las innovaciones militares.",
+            "plain": "Los países miembros de la ONU no lograron ponerse de acuerdo en Ginebra sobre un tratado que prohíba las armas autónomas guiadas por inteligencia artificial. Ante la resistencia de varias grandes potencias, las discusiones se limitaron a prorrogarse sin normas vinculantes inmediatas.",
+            "stakes": [
+              "¿Cómo podrá la comunidad internacional salvar la brecha entre el rápido desarrollo de las tecnologías militares autónomas y la lentitud de la diplomacia?",
+              "¿Cuáles serán las consecuencias de la ausencia de normas internacionales sobre el uso futuro de estos armamentos en zonas de conflicto?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s48f549e40a",
+        "topic": "justice",
+        "title": "Arrestation d'un haut dirigeant de cartel mexicain recherché par le FBI",
+        "context": "Le Mexique fait face à des pressions internationales intenses pour démanteler les réseaux de trafic de drogue et extrader les barons criminels vers les États-Unis.",
+        "summary": "Les forces de sécurité mexicaines ont capturé Fausto Isidro Meza Flores, alias « Chapo Isidro », lors d'une opération militaire d'envergure menée dans l'État de Sinaloa. Ce dernier figurait parmi les dix fugitifs les plus recherchés par le Bureau fédéral d'enquête américain (FBI) pour des accusations de trafic de stupéfiants et de torture. Son interpellation s'est traduite par de violents affrontements armés et des scènes de tirs nourris dans la région. Cet événement est présenté comme un succès majeur pour le gouvernement mexicain dans sa politique de lutte contre le crime organisé, salué par ses partenaires étrangers.",
+        "plain": "L'un des barons de la drogue les plus recherchés par la police fédérale américaine a été arrêté par l'armée au Mexique lors d'une opération musclée. Cette arrestation, qui a provoqué des échanges de tirs, constitue un coup dur pour les cartels locaux.",
+        "chart": null,
+        "stakes": [
+          "Quelles seront les répercussions de cette arrestation sur l'équilibre des pouvoirs au sein des cartels mexicains ?",
+          "Le gouvernement mexicain parviendra-t-il à extrader rapidement le suspect vers les États-Unis malgré les risques de représailles ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+            "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-21T13:15:21.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+            "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+            "publishedAt": "2026-11-21T16:30:35.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+            "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+            "publishedAt": "2026-11-21T16:23:16.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "Mexico seizes cartel boss ‘El Chapo Isidro,’ among FBI’s most wanted",
+            "link": "https://www.washingtonpost.com/world/2026/11/21/mexico-seizes-cartel-boss-el-chapo-isidro-among-fbis-most-wanted/",
+            "publishedAt": "2026-11-21T15:57:42.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Wall Street Journal",
+            "title": "Mexico Captures Top Drug Boss in Fierce Gunfight",
+            "link": "https://www.wsj.com/world/americas/mexico-captures-top-drug-boss-in-fierce-gunfight-b16709ce?mod=rss_worldnews",
+            "publishedAt": "2026-11-21T15:29:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Fox News",
+            "title": "FBI Ten Most Wanted cartel leader 'Chapo Isidro' captured by Mexico's 'elite military forces' after US help",
+            "link": "https://www.foxnews.com/world/fbi-ten-most-wanted-cartel-leader-chapo-isidro-captured-mexicos-elite-military-forces-us-help",
+            "publishedAt": "2026-11-21T13:17:33.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+            "link": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+            "publishedAt": "2026-11-21T16:03:16.000Z",
+            "lang": "en",
+            "country": "QA"
+          },
+          {
+            "name": "The Straits Times",
+            "title": "Mexico captures top drug lord ‘El Chapo Isidro’, latest in string of captures",
+            "link": "https://www.straitstimes.com/world/mexico-captures-top-drug-lord-el-chapo-isidro-latest-in-string-of-captures",
+            "publishedAt": "2026-11-21T14:50:38.000Z",
+            "lang": "en",
+            "country": "SG"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Arrest of a high-ranking Mexican cartel leader wanted by the FBI",
+            "context": "Mexico is facing intense international pressure to dismantle drug trafficking networks and extradite criminal kingpins to the United States.",
+            "summary": "Mexican security forces have captured Fausto Isidro Meza Flores, alias \"Chapo Isidro,\" during a major military operation in the state of Sinaloa. He was among the ten fugitives most wanted by the U.S. Federal Bureau of Investigation (FBI) on drug trafficking and torture charges. His arrest resulted in violent armed clashes and heavy gunfire in the region. This event is presented as a major success for the Mexican government in its policy against organized crime, praised by its foreign partners.",
+            "plain": "One of the drug lords most wanted by the U.S. federal police was arrested by the army in Mexico during a high-stakes operation. This arrest, which sparked gunfire exchanges, is a severe blow to local cartels.",
+            "stakes": [
+              "What will be the repercussions of this arrest on the balance of power within Mexican cartels?",
+              "Will the Mexican government manage to quickly extradite the suspect to the United States despite the risks of retaliation?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Arresto de un alto líder de un cártel mexicano buscado por el FBI",
+            "context": "México se enfrenta a una intensa presión internacional para desmantelar las redes de narcotráfico y extraditar a los capos criminales a Estados Unidos.",
+            "summary": "Las fuerzas de seguridad mexicanas capturaron a Fausto Isidro Meza Flores, alias \"Chapo Isidro\", durante una importante operación militar llevada a cabo en el estado de Sinaloa. Este último figuraba entre los diez fugitivos más buscados por la Oficina Federal de Investigación (FBI) de EE. UU. por cargos de narcotráfico y tortura. Su arresto se tradujo en violentos enfrentamientos armados y tiroteos intensos en la región. Este acontecimiento se presenta como un gran éxito para el gobierno mexicano en su política de lucha contra el crimen organizado, el cual fue aplaudido por sus socios extranjeros.",
+            "plain": "Uno de los capos de la droga más buscados por la policía federal estadounidense fue detenido por el ejército en México durante una operación contundente. Esta detención, que provocó intercambios de disparos, constituye un duro golpe para los cárteles locales.",
+            "stakes": [
+              "¿Cuáles serán las repercusiones de este arresto en el equilibrio de poder dentro de los cárteles mexicanos?",
+              "¿Conseguirá el gobierno mexicano extraditar rápidamente al sospechoso a Estados Unidos a pesar de los riesgos de represalias?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s61c8a006b0",
+        "topic": "international",
+        "title": "Accusations contre la Russie après un projet d'attentat au Danemark",
+        "context": "Les services de renseignement européens signalent une recrudescence d'actions clandestines et de sabotages imputés à Moscou sur le sol du continent.",
+        "summary": "Les autorités danoises ont révélé avoir déjoué un complot d'assassinat fomenté par la Russie visant un rappeur américain d'origine ukrainienne se produisant dans le pays. En réaction à cette tentative ourdie sur le territoire national, le gouvernement de Copenhague a expulsé le attaché de défense russe. L'ambassade de Russie a formellement nié ces accusations, tandis que les responsables européens estiment que les menaces de Moscou revêtent un caractère de plus en plus hybride et direct en Europe. Cet épisode s'ajoute à une série d'incidents imputés aux services secrets russes à l'étranger.",
+        "plain": "Le Danemark affirme avoir mis en échec un projet d'assassinat commandité par la Russie contre un artiste ukrainien. En réponse, Copenhague a expulsé un diplomate russe, illustrant la nervosité croissante des pays européens face aux actions clandestines de Moscou.",
+        "chart": null,
+        "stakes": [
+          "Quelle sera la réponse collective des pays européens face à la multiplication des opérations secrètes imputées à la Russie sur leur sol ?",
+          "Comment la diplomatie russe va-t-elle réagir à l'expulsion de son représentant militaire au Danemark ?"
+        ],
+        "sources": [
+          {
+            "name": "L'Express",
+            "title": "Complot : la Russie soupçonnée d'avoir commandité l'assassinat d'un rappeur ukrainien au Danemark",
+            "link": "https://www.lexpress.fr/monde/europe/complot-la-russie-soupconnee-davoir-commandite-lassassinat-dun-rappeur-ukrainien-au-danemark-5JLULO7M7VDNLIQPQWHFAROTKM/",
+            "publishedAt": "2026-11-21T16:24:41.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+            "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-21T10:26:36.000Z",
             "lang": "en",
             "country": "GB"
           },
@@ -227,36 +671,224 @@
             "country": "US"
           },
           {
+            "name": "Fox News",
+            "title": "Denmark accuses Russia of plotting to kill Ukrainian American rapper on Danish soil",
+            "link": "https://www.foxnews.com/world/denmark-accuses-russia-plotting-kill-ukrainian-american-rapper-danish-soil",
+            "publishedAt": "2026-11-21T14:28:35.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
             "name": "Politico Europe",
             "title": "Russian threats ‘less and less hybrid,’ Von der Leyen says after assassination plot in Denmark",
             "link": "https://www.politico.eu/article/russian-threats-less-hybrid-von-der-leyen-says-assassination-plot-ukrainian-rapper-kyivstoner-denmark/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
             "publishedAt": "2026-11-21T11:43:12.000Z",
             "lang": "en",
             "country": "BE"
+          }
+        ],
+        "image": {
+          "url": "https://www.lexpress.fr/resizer/v2/EBHW56DJGZF7NGYAT6NY32C6XY.JPG?auth=e08b08b7db725c13b14bb6e80269c50b5e404649542c9048df8af00024763f77&smart=true&width=7851&height=5234",
+          "credit": "L'Express",
+          "link": "https://www.lexpress.fr/monde/europe/complot-la-russie-soupconnee-davoir-commandite-lassassinat-dun-rappeur-ukrainien-au-danemark-5JLULO7M7VDNLIQPQWHFAROTKM/"
+        },
+        "i18n": {
+          "en": {
+            "title": "Accusations against Russia following a foiled attack plot in Denmark",
+            "context": "European intelligence services are reporting a surge in covert actions and sabotage attributed to Moscow on the continent's soil.",
+            "summary": "Danish authorities have revealed they foiled an assassination plot orchestrated by Russia targeting a Ukrainian-born American rapper performing in the country. In reaction to this attempt hatched on national territory, the Copenhagen government expelled the Russian defense attaché. The Russian embassy formally denied these accusations, while European officials believe Moscow's threats are taking on an increasingly hybrid and direct character in Europe. This episode adds to a series of incidents attributed to Russian secret services abroad.",
+            "plain": "Denmark claims to have thwarted a Russian-sponsored assassination plot against a Ukrainian artist. In response, Copenhagen expelled a Russian diplomat, illustrating the growing nervousness of European countries in the face of Moscow's covert actions.",
+            "stakes": [
+              "What will be the collective response of European countries to the multiplication of secret operations attributed to Russia on their soil?",
+              "How will Russian diplomacy react to the expulsion of its military representative in Denmark?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Acusaciones contra Rusia tras un proyecto de atentado en Dinamarca",
+            "context": "Los servicios de inteligencia europeos señalan un recrudecimiento de las acciones clandestinas y de sabotaje atribuidas a Moscú en el suelo del continente.",
+            "summary": "Las autoridades danesas revelaron haber desbaratado un complot de asesinato urdido por Rusia contra un rapero estadounidense de origen ucraniano que actuaba en el país. En reacción a este intento tramado en territorio nacional, el gobierno de Copenhague expulsó al agregado de defensa ruso. La embajada de Rusia negó formalmente estas acusaciones, mientras que los responsables europeos estiman que las amenazas de Moscú revisten un carácter cada vez más híbrido y directo en Europa. Este episodio se suma a una serie de incidentes achacados a los servicios secretos rusos en el extranjero.",
+            "plain": "Dinamarca afirma haber frustrado un proyecto de asesinato patrocinado por Rusia contra un artista ucraniano. En respuesta, Copenhague expulsó a un diplomático ruso, lo que ilustra el creciente nerviosismo de los países europeos ante las acciones clandestinas de Moscú.",
+            "stakes": [
+              "¿Cuál será la respuesta colectiva de los países europeos ante la multiplicación de operaciones secretas atribuidas a Rusia en su suelo?",
+              "¿Cómo reaccionará la diplomacia rusa ante la expulsión de su representante militar en Dinamarca?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s3500af305e",
+        "topic": "sciences_tech",
+        "title": "Un chercheur d'Anthropic revendique la résolution d'une énigme mathématique grâce à l'IA",
+        "context": "Les applications de l'intelligence artificielle générative s'étendent progressivement à des domaines scientifiques complexes, soulevant des questions sur la vérification des résultats.",
+        "summary": "Un mathématicien travaillant pour l'entreprise d'intelligence artificielle Anthropic affirme avoir utilisé le modèle conversationnel Claude pour résoudre un problème historique lié aux nombres premiers, connu comme l'hypothèse de Riemann. Cette démonstration, qui aurait nécessité plusieurs semaines de travail avec l'outil numérique, suscite l'intérêt de la communauté scientifique tout en nécessitant des vérifications indépendantes approfondies. Cet événement survient dans un contexte boursier agité pour l'entreprise technologique, confrontée à des mouvements de correction sur les marchés financiers après ses débuts boursiers.",
+        "plain": "Un chercheur en intelligence artificielle annonce avoir utilisé un assistant virtuel pour venir à bout d'un célèbre problème mathématique irrésolu depuis des décennies. Si cette avancée est saluée, elle doit encore être validée rigoureusement par la communauté des experts.",
+        "chart": null,
+        "stakes": [
+          "Cette percée de l'intelligence artificielle marque-t-elle un tournant dans la recherche mathématique fondamentale ?",
+          "Comment les scientifiques s'assureront-ils de la fiabilité des démonstrations mathématiques produites par des machines ?"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+            "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+            "publishedAt": "2026-11-21T16:39:49.000Z",
+            "lang": "en",
+            "country": "GB"
           },
           {
-            "name": "France 24",
-            "title": "Le Danemark accuse la Russie d'avoir tenté d'assassiner un rappeur ukrainien",
-            "link": "https://www.france24.com/fr/vid%C3%A9o/20261121-le-danemark-accuse-la-russie-d-avoir-tent%C3%A9-d-assassiner-un-rappeur-ukrainien",
-            "publishedAt": "2026-11-21T12:14:58.000Z",
+            "name": "Deutsche Welle",
+            "title": "Anthropic researcher uses AI to solve math's greatest riddle",
+            "link": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-21T10:29:00.000Z",
+            "lang": "en",
+            "country": "DE"
+          },
+          {
+            "name": "NPR",
+            "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+            "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+            "publishedAt": "2026-11-21T12:30:16.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Japan Times",
+            "title": "Anthropic researcher says Claude solved math’s greatest riddle",
+            "link": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/ai-anthropic-claude-riemann-hypothesis/",
+            "publishedAt": "2026-11-21T07:46:00.000Z",
+            "lang": "en",
+            "country": "JP"
+          }
+        ],
+        "image": {
+          "url": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f",
+          "credit": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+        },
+        "i18n": {
+          "en": {
+            "title": "Anthropic researcher claims mathematical puzzle solved using AI",
+            "context": "Applications of generative artificial intelligence are gradually expanding into complex scientific fields, raising questions about result verification.",
+            "summary": "A mathematician working for the artificial intelligence company Anthropic claims to have used the conversational model Claude to solve a historical problem related to prime numbers, known as the Riemann hypothesis. This demonstration, which reportedly required several weeks of work with the digital tool, is sparking interest from the scientific community while requiring thorough independent verification. This event occurs in a volatile stock market context for the technology company, which is facing correction movements in financial markets after its stock market debut.",
+            "plain": "An artificial intelligence researcher claims to have used a virtual assistant to overcome a famous mathematical problem that has been unsolved for decades. While this breakthrough is welcomed, it must still be rigorously validated by the community of experts.",
+            "stakes": [
+              "Does this artificial intelligence breakthrough mark a turning point in fundamental mathematical research?",
+              "How will scientists ensure the reliability of mathematical proofs produced by machines?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Un investigador de Anthropic afirma haber resuelto un enigma matemático gracias a la IA",
+            "context": "Las aplicaciones de la inteligencia artificial generativa se extienden progresivamente a ámbitos científicos complejos, lo que plantea interrogantes sobre la verificación de los resultados.",
+            "summary": "Un matemático que trabaja para la empresa de inteligencia artificial Anthropic afirma haber utilizado el modelo conversacional Claude para resolver un problema histórico vinculado a los números primos, conocido como la hipótesis de Riemann. Esta demostración, que habría requerido varias semanas de trabajo con la herramienta digital, suscita el interés de la comunidad científica al tiempo que requiere verificaciones independientes exhaustivas. Este acontecimiento se produce en un contexto bursátil agitado para la empresa tecnológica, confrontada a movimientos de corrección en los mercados financieros tras su debut bursátil.",
+            "plain": "Un investigador en inteligencia artificial anuncia que ha utilizado un asistente virtual para superar un famoso problema matemático insuelto durante décadas. Aunque este avance es aplaudido, todavía debe ser validado rigurosamente por la comunidad de expertos.",
+            "stakes": [
+              "¿Marca este avance de la inteligencia artificial un punto de inflexión en la investigación matemática fundamental?",
+              "¿Cómo se asegurarán los científicos de la fiabilidad de las demostraciones matemáticas producidas por las máquinas?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s626a0b1c22",
+        "topic": "justice",
+        "title": "Une enquête ouverte en France sur des violences lors d'une manifestation lycéenne",
+        "context": "Les manifestations de la jeunesse et les mouvements sociaux s'accompagnent parfois de heurts avec les forces de l'ordre et de contestations juridiques sur les méthodes de maintien de l'ordre.",
+        "summary": "Le parquet a ouvert une enquête judiciaire visant des fonctionnaires de police pour des faits de violences et d'agression sexuelle. Cette procédure fait suite aux plaintes déposées par des manifestants interpellés lors de la mobilisation de la jeunesse du 31 octobre dernier. De leur côté, les jeunes gens concernés font l'objet d'accusations portant sur des violences envers les forces de l'ordre au cours de ces mêmes évènements. Cet épisode judiciaire relance le débat sur les conditions de prise en charge des interpellations lors des manifestations sur le territoire français.",
+        "plain": "La justice française s'est saisie des plaintes de manifestants dénonçant des violences et des agressions sexuelles commises par des policiers lors d'une mobilisation de la jeunesse fin octobre. En retour, les jeunes impliqués sont également poursuivis pour des actes de violence.",
+        "chart": null,
+        "stakes": [
+          "Quels seront les résultats de l'enquête pour départager les responsabilités des manifestants et des forces de l'ordre ?",
+          "Comment l'institution judiciaire traitera-t-elle ces accusations croisées dans un climat de tension sociale ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Enquête contre des policiers pour violence et agression sexuelle après la manifestation du 31 octobre",
+            "link": "https://www.la-croix.com/societe/enquete-contre-des-policiers-pour-violence-et-agression-sexuelle-apres-la-manifestation-du-31-octobre-20261121",
+            "publishedAt": "2026-11-21T15:41:16.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "Euronews",
-            "title": "Macron alerte sur un « nouveau niveau » d’agression russe en Europe",
-            "link": "https://fr.euronews.com/2026/11/21/macron-alerte-sur-un-nouveau-niveau-dagression-russe-en-europe",
-            "publishedAt": "2026-11-21T11:23:41.000Z",
+            "name": "L'Humanité",
+            "title": "Mouvement lycéen : une enquête ouverte contre des policiers pour violences et agression sexuelle lors de la manifestation du 31 octobre",
+            "link": "https://www.humanite.fr/societe/manifestation/mouvement-lyceen-une-enquete-ouverte-contre-des-policiers-pour-violences-et-agression-sexuelle-lors-de-la-manifestation-du-31-octobre",
+            "publishedAt": "2026-11-21T15:11:34.000Z",
             "lang": "fr",
             "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/21/2595380-manifestation-a-paris-debut-novembre.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/societe/enquete-contre-des-policiers-pour-violence-et-agression-sexuelle-apres-la-manifestation-du-31-octobre-20261121"
+        },
+        "i18n": {
+          "en": {
+            "title": "Investigation opened in France over violence during a high school student protest",
+            "context": "Youth demonstrations and social movements are sometimes accompanied by clashes with law enforcement and legal disputes over policing methods.",
+            "summary": "The prosecutor's office has opened a judicial investigation targeting police officers for acts of violence and sexual assault. This procedure follows complaints filed by protesters detained during the youth mobilization on October 31st. For their part, the young people concerned are the subject of accusations regarding violence against law enforcement during these same events. This judicial episode revives the debate on the conditions of handling detentions during demonstrations on French territory.",
+            "plain": "French justice has taken up complaints from protesters denouncing violence and sexual assaults committed by police officers during a youth mobilization at the end of October. In return, the youths involved are also being prosecuted for acts of violence.",
+            "stakes": [
+              "What will be the results of the investigation to apportion responsibility between protesters and law enforcement?",
+              "How will the judicial institution handle these cross-accusations in a climate of social tension?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Se abre una investigación en Francia sobre violencia durante una manifestación de estudiantes de secundaria",
+            "context": "Las manifestaciones juveniles y los movimientos sociales van acompañados a veces de enfrentamientos con las fuerzas del orden y de disputas jurídicas sobre los métodos de mantenimiento del orden.",
+            "summary": "La fiscalía abrió una investigación judicial dirigida a funcionarios de policía por hechos de violencia y agresión sexual. Este procedimiento responde a las denuncias presentadas por manifestantes detenidos durante la movilización juvenil del pasado 31 de octubre. Por su parte, los jóvenes implicados son objeto de acusaciones relativas a actos de violencia contra las fuerzas del orden durante esos mismos acontecimientos. Este episodio judicial reaviva el debate sobre las condiciones en que se gestionan las detenciones durante las manifestaciones en territorio francés.",
+            "plain": "La justicia francesa ha admitido a trámite las denuncias de manifestantes que denuncian violencia y agresiones sexuales cometidas por policías durante una movilización juvenil a finales de octubre. A cambio, los jóvenes implicados también son procesados por actos de violencia.",
+            "stakes": [
+              "¿Cuáles serán los resultados de la investigación para dilucidar las responsabilidades de los manifestantes y de las fuerzas del orden?",
+              "¿Cómo tratará la institución judicial estas acusaciones cruzadas en un clima de tensión social?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sacf404f6e9",
+        "topic": "international",
+        "title": "Accrochage diplomatique et militaire entre la Pologne et la Russie",
+        "context": "Les exercices militaires menés par les alliés occidentaux aux frontières orientales de l'OTAN se déroulent dans un climat de forte vigilance sécuritaire.",
+        "summary": "Le Premier ministre polonais, Donald Tusk, a affirmé que des missiles russes avaient pénétré et frappé le territoire national polonais lors d'une opération menée en marge d'exercices militaires alliés. Varsovie a qualifié cet acte de provocation délibérée de la part de Moscou, tandis que certains responsables américains ont minimisé l'incident en l'attribuant à une potentielle erreur. Aucun dégât matériel majeur ni victime n'ont été officiellement recensés, mais l'événement a immédiatement provoqué l'indignation et l'alarme parmi les dirigeants européens de l'OTAN (Organisation du traité de l'Atlantique Nord, l'alliance militaire occidentale), qui y voient une violation grave de l'espace aérien de l'organisation.",
+        "plain": "La Pologne accuse la Russie d'avoir violé son espace aérien avec des missiles lors d'un incident survenu pendant des manœuvres militaires. Bien qu'aucun dégât ne soit à déplorer, Varsovie dénonce une provocation inacceptable, suscitant l'inquiétude des alliés occidentaux.",
+        "chart": null,
+        "stakes": [
+          "Quelle sera la réponse officielle de l'OTAN face à cette violation présumée de son espace aérien par Moscou ?",
+          "Cet incident peut-il accroître le risque d'une confrontation directe entre la Russie et les pays occidentaux ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-21T02:09:46.000Z",
+            "lang": "en",
+            "country": "GB"
           },
           {
-            "name": "Le Monde (International)",
-            "title": "EN DIRECT, guerre en Ukraine : « L’Ukraine a le droit de riposter contre l’agresseur », déclare le premier ministre finlandais, à la suite de l’attaque d’un cargo russe dont l’origine n’est pas encore connue",
-            "link": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-deux-morts-et-47-blesses-dans-des-frappes-russes-sur-kryvy-rih-ville-natale-de-volodymyr-zelensky_6810982_3210.html",
-            "publishedAt": "2026-11-21T05:38:14.000Z",
-            "lang": "fr",
-            "country": "FR"
+            "name": "The Guardian",
+            "title": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland",
+            "link": "https://www.theguardian.com/world/2026/nov/21/ukraine-war-briefing-european-leaders-react-with-anger-and-alarm-after-russian-missiles-crash-in-poland",
+            "publishedAt": "2026-11-21T02:41:14.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "Poland says Russian missiles hit its territory; Trump calls it a ‘mistake’",
+            "link": "https://www.washingtonpost.com/world/2026/11/21/poland-says-russian-missiles-hit-its-territory-trump-calls-it-mistake/",
+            "publishedAt": "2026-11-21T15:56:44.000Z",
+            "lang": "en",
+            "country": "US"
           }
         ],
         "image": {
@@ -266,399 +898,113 @@
         },
         "i18n": {
           "en": {
-            "title": "Sharp European concerns following military incidents attributed to Russia",
-            "context": "Relations between Atlantic Alliance countries and Moscow are extremely tense in the context of the war in Ukraine and military maneuvers in Europe.",
-            "summary": "Poland denounced as a provocation the crash of a Russian missile on its territory during allied military exercises. Simultaneously, Denmark accused Russia of planning the assassination of a Ukrainian rapper on its soil and decided to expel the Russian defense attaché. French President Emmanuel Macron and European Commission President Ursula von der Leyen denounced the intensification of aggressive actions and Russian sabotage attempts on the continent. A Russian cargo ship was also targeted by drones in the Baltic Sea.",
-            "plain": "IN SHORT: Several serious incidents, including a missile falling in Poland and a thwarted assassination attempt in Denmark, are reigniting concern in Europe. Allied leaders denounce a multiplication of Russian provocations.",
+            "title": "Diplomatic and military standoff between Poland and Russia",
+            "context": "Military exercises conducted by Western allies on NATO's eastern borders are taking place in a climate of high security vigilance.",
+            "summary": "Polish Prime Minister Donald Tusk claimed that Russian missiles had penetrated and struck Polish national territory during an operation conducted on the sidelines of allied military exercises. Warsaw described this act as a deliberate provocation by Moscow, while some American officials minimized the incident by attributing it to a potential error. No major material damage or casualties have been officially recorded, but the event immediately caused outrage and alarm among European leaders of NATO (the North Atlantic Treaty Organization, the Western military alliance), who view it as a serious violation of the organization's airspace.",
+            "plain": "Poland accuses Russia of having violated its airspace with missiles during an incident that occurred during military maneuvers. Although no damage was reported, Warsaw denounces an unacceptable provocation, arousing concern among Western allies.",
             "stakes": [
-              "What collective response will NATO and the EU provide in the face of airspace violations?",
-              "How far can the escalation of hybrid tensions between Russia and its neighbors extend?"
+              "What will be NATO's official response to this alleged violation of its airspace by Moscow?",
+              "Can this incident increase the risk of a direct confrontation between Russia and Western countries?"
             ],
             "chart": null
           },
           "es": {
-            "title": "Vivas preocupaciones europeas tras incidentes militares atribuidos a Rusia",
-            "context": "Las relaciones entre los países de la Alianza Atlántica y Moscú son extremadamente tensas en el contexto de la guerra en Ucrania y las maniobras militares en Europa.",
-            "summary": "Polonia denunció como una provocación la caída de un misil ruso en su territorio durante ejercicios militares aliados. Paralelamente, Dinamarca acusó a Rusia de haber planeado el asesinato de un rapero ucraniano en su suelo y decidió expulsar al agregado de defensa ruso. El presidente francés, Emmanuel Macron, y la presidenta de la Comisión Europea, Ursula von der Leyen, denunciaron la intensificación de las acciones agresivas y los intentos de sabotaje ruso en el continente. Un carguero ruso también fue blanco de drones en el mar Báltico.",
-            "plain": "EN CLARA: Varios incidentes graves, incluido un misil caído en Polonia y un intento de asesinato frustrado en Dinamarca, reavivan la preocupación en Europa. Los líderes aliados denuncian una multiplicación de las provocaciones rusas.",
+            "title": "Enfrentamiento diplomático y militar entre Polonia y Rusia",
+            "context": "Los ejercicios militares llevados a cabo por los aliados occidentales en las fronteras orientales de la OTAN se desarrollan en un clima de gran vigilancia de seguridad.",
+            "summary": "El primer ministro polaco, Donald Tusk, afirmó que misiles rusos habían penetrado y golpeado el territorio nacional polaco durante una operación llevada a cabo al margen de ejercicios militares aliados. Varsovia calificó este acto de provocación deliberada por parte de Moscú, mientras que algunos responsables estadounidenses restaron importancia al incidente atribuyéndolo a un posible error. No se han registrado oficialmente daños materiales importantes ni víctimas, pero el acontecimiento provocó inmediatamente indignación y alarma entre los dirigentes europeos de la OTAN (la Organización del Tratado del Atlántico Norte, la alianza militar occidental), que lo ven como una grave violación del espacio aéreo de la organización.",
+            "plain": "Polonia acusa a Rusia de haber violado su espacio aéreo con misiles durante un incidente ocurrido durante unas maniobras militares. Aunque no hay que lamentar daños, Varsovia denuncia una provocación inaceptable, lo que suscita la inquietud de los aliados occidentales.",
             "stakes": [
-              "¿Qué respuesta colectiva aportarán la OTAN y la UE ante las violaciones del espacio aéreo?",
-              "¿Hasta dónde puede extenderse la escalada de tensiones híbridas entre Rusia y sus vecinos?"
+              "¿Cuál será la respuesta oficial de la OTAN ante esta supuesta violación de su espacio aéreo por parte de Moscú?",
+              "¿Puede este incidente aumentar el riesgo de una confrontación directa entre Rusia y los países occidentales?"
             ],
             "chart": null
           }
         }
       },
       {
-        "id": "sf926c87686",
-        "topic": "justice",
-        "title": "Trois policiers condamnés pour l'agression du producteur Michel Zecler",
-        "context": "En 2020, l'agression à Paris du producteur de musique noir Michel Zecler par des policiers avait suscité une vive émotion et relancé le débat sur le maintien de l'ordre.",
-        "summary": "La justice française a rendu son verdict en condamnant trois policiers poursuivis pour l'agression de Michel Zecler survenue en 2020. Le tribunal a retenu la circonstance aggravante de racisme. L'intervention violente des forces de l'ordre dans le studio de la victime avait été intégralement captée par des caméras de vidéo-surveillance.",
-        "plain": "EN CLAIR : Les juges ont condamné trois policiers qui avaient violenté le producteur de musique Michel Zecler en 2020 dans son studio. La justice a confirmé que l'agression comportait un caractère raciste.",
-        "chart": null,
-        "stakes": [
-          "Quel impact ce jugement aura-t-il sur l'encadrement des pratiques policières ?",
-          "Comment renforcer la confiance entre la population et les forces de l'ordre ?"
-        ],
-        "sources": [
-          {
-            "name": "BBC News",
-            "title": "French police officers sentenced for beating of music producer Michel Zecler",
-            "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-20T22:37:09.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "The Guardian",
-            "title": "French police officers found guilty of racist assault on black music producer",
-            "link": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
-            "publishedAt": "2026-11-20T22:23:53.000Z",
-            "lang": "en",
-            "country": "GB"
-          }
-        ],
-        "image": {
-          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
-          "credit": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
-        },
-        "i18n": {
-          "en": {
-            "title": "Three police officers convicted for the assault on producer Michel Zecler",
-            "context": "In 2020, the assault in Paris on black music producer Michel Zecler by police officers sparked strong emotion and revived the debate on law enforcement practices.",
-            "summary": "French justice delivered its verdict by convicting three police officers prosecuted for the assault on Michel Zecler that occurred in 2020. The court retained the aggravating circumstance of racism. The violent intervention of law enforcement in the victim's studio was entirely captured by closed-circuit television cameras.",
-            "plain": "IN SHORT: Judges have convicted three police officers who assaulted music producer Michel Zecler in his studio in 2020. The court confirmed that the assault had a racist character.",
-            "stakes": [
-              "What impact will this judgment have on the oversight of police practices?",
-              "How to strengthen trust between the population and law enforcement?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Tres policías condenados por la agresión al productor Michel Zecler",
-            "context": "En 2020, la agresión en París al productor musical negro Michel Zecler por parte de policías suscitó una gran emoción y relanzó el debate sobre el mantenimiento del orden.",
-            "summary": "La justicia francesa emitió su veredicto condenando a tres policías procesados por la agresión a Michel Zecler ocurrida en 2020. El tribunal retuvo la circunstancia agravante de racismo. La violenta intervención de las fuerzas del orden en el estudio de la víctima fue íntegramente captada por cámaras de videovigilancia.",
-            "plain": "EN CLARA: Los jueces han condenado a tres policías que agredieron al productor musical Michel Zecler en su estudio en 2020. La justicia confirmó que la agresión tenía un carácter racista.",
-            "stakes": [
-              "¿Qué impacto tendrá este fallo en el control de las prácticas policiales?",
-              "¿Cómo fortalecer la confianza entre la población y las fuerzas del orden?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s7cdc0f2759",
-        "topic": "justice",
-        "title": "Enquête judiciaire visant Gérard Depardieu et Michel Houellebecq",
-        "context": "L'acteur Gérard Depardieu fait déjà l'objet de plusieurs procédures et signalements judiciaires pour des violences sexuelles.",
-        "summary": "Une nouvelle enquête judiciaire a été ouverte par les autorités françaises à la suite d'une plainte déposée l'année dernière. Celle-ci vise l'acteur Gérard Depardieu ainsi que l'écrivain Michel Houellebecq. Les deux hommes sont accusés de faits de nature sexuelle et de viol commis en réunion sur un plateau de tournage en 2018.",
-        "plain": "EN CLAIR : Une enquête policière a été lancée à l'encontre de l'acteur Gérard Depardieu et de l'écrivain Michel Houellebecq. Une femme accuse les deux personnalités de viol et d'agression sexuelle lors d'un tournage.",
-        "chart": null,
-        "stakes": [
-          "Quelles vont être les suites des investigations menées par les enquêteurs ?",
-          "Comment le secteur culturel réagit-il à ces nouvelles mises en cause ?"
-        ],
-        "sources": [
-          {
-            "name": "BBC News",
-            "title": "Gérard Depardieu and French author investigated over sexual allegations",
-            "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-20T19:45:20.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "The Guardian",
-            "title": "Gérard Depardieu and Michel Houellebecq investigated over on-set rape and assault allegations",
-            "link": "https://www.theguardian.com/film/2026/nov/20/gerard-depardieu-michel-houellebecq-investigated-allegations",
-            "publishedAt": "2026-11-20T16:54:57.000Z",
-            "lang": "en",
-            "country": "GB"
-          }
-        ],
-        "image": {
-          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a6/live/0355fa40-e51b-11f1-99a1-253766e7ad8b.jpg",
-          "credit": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss"
-        },
-        "i18n": {
-          "en": {
-            "title": "Judicial investigation targeting Gérard Depardieu and Michel Houellebecq",
-            "context": "Actor Gérard Depardieu is already the subject of several legal proceedings and reports for sexual violence.",
-            "summary": "A new judicial investigation has been opened by French authorities following a complaint filed last year. This targets actor Gérard Depardieu as well as writer Michel Houellebecq. Both men are accused of sexual acts and gang rape committed on a film set in 2018.",
-            "plain": "IN SHORT: A police investigation has been launched against actor Gérard Depardieu and writer Michel Houellebecq. A woman accuses both personalities of rape and sexual assault during a filming.",
-            "stakes": [
-              "What will be the follow-up to the investigations conducted by the investigators?",
-              "How is the cultural sector reacting to these new accusations?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Investigación judicial contra Gérard Depardieu y Michel Houellebecq",
-            "context": "El actor Gérard Depardieu ya es objeto de varios procedimientos y denuncias judiciales por violencia sexual.",
-            "summary": "Las autoridades francesas han abierto una nueva investigación judicial tras una denuncia presentada el año pasado. Esta se dirige contra el actor Gérard Depardieu y el escritor Michel Houellebecq. Ambos hombres son acusados de actos de naturaleza sexual y violación cometidos en grupo en un plató de rodaje en 2018.",
-            "plain": "EN CLARA: Se ha abierto una investigación policial contra el actor Gérard Depardieu y el escritor Michel Houellebecq. Una mujer acusa a ambas personalidades de violación y agresión sexual durante un rodaje.",
-            "stakes": [
-              "¿Cuáles serán las consecuencias de las investigaciones llevadas a cabo por los investigadores?",
-              "¿Cómo reacciona el sector cultural ante estas nuevas imputaciones?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "sbee25ea025",
-        "topic": "international",
-        "title": "Accord post-Brexit entre Londres et Bruxelles sur le commerce et les jeunes",
-        "context": "Dix ans après le vote du Brexit, le Royaume-Uni et l'Union européenne cherchent à assouplir et à moderniser le cadre de leurs relations bilatérales.",
-        "summary": "Le premier ministre britannique Andy Burnham a rencontré les représentants de l'Union européenne lors d'un sommet bilatéral inédit. Les deux parties ont signé des accords portant sur la fluidification des échanges commerciaux et la mobilité de la jeunesse. Si certains ministres britanniques rappellent la nécessité de prendre du temps sur les questions de souveraineté, ce rapprochement marque une étape symbolique importante dans la phase d'après-Brexit.",
-        "plain": "EN CLAIR : Le Royaume-Uni et l'UE ont conclu de nouveaux accords commerciaux et éducatifs pour faciliter les échanges dix ans après le Brexit. Les deux parties affichent leur volonté de normaliser leurs relations.",
-        "chart": null,
-        "stakes": [
-          "Jusqu'où le Royaume-Uni peut-il assouplir sa position post-Brexit sans rouvrir les débats internes ?",
-          "Quels bénéfices concrets ces accords apporteront-ils aux jeunes et aux entreprises ?"
-        ],
-        "sources": [
-          {
-            "name": "L'Express",
-            "title": "Royaume-Uni-UE : un sommet pour relancer les relations, dix ans après le Brexit",
-            "link": "https://www.lexpress.fr/monde/europe/royaume-uni-ue-un-sommet-pour-relancer-les-relations-dix-ans-apres-le-brexit-JCC4E4FSX5GZJJQO2GE3L3R5KA/",
-            "publishedAt": "2026-11-21T08:29:41.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "BBC News",
-            "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-            "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-21T09:40:55.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "BBC News",
-            "title": "What the new UK-EU deal could mean for future post-Brexit relations",
-            "link": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-20T21:43:22.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "The Guardian",
-            "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
-            "link": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
-            "publishedAt": "2026-11-21T11:33:01.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "Deutsche Welle",
-            "title": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
-            "link": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-rdf",
-            "publishedAt": "2026-11-20T14:30:00.000Z",
-            "lang": "en",
-            "country": "DE"
-          },
-          {
-            "name": "NPR",
-            "title": "The U.K. and EU hold a rare summit to strengthen ties",
-            "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
-            "publishedAt": "2026-11-20T09:14:41.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "The Washington Post",
-            "title": "10 years on, Britain reopens the Brexit fight — this time embracing the E.U.",
-            "link": "https://www.washingtonpost.com/world/2026/11/20/10-years-britain-reopens-brexit-fight-this-time-embracing-eu/",
-            "publishedAt": "2026-11-20T13:51:41.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "Politico Europe",
-            "title": "The biggest winners and losers of the EU-UK summit deals",
-            "link": "https://www.politico.eu/article/the-winners-and-losers-of-the-eu-uk-summit-deals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-            "publishedAt": "2026-11-20T17:24:57.000Z",
-            "lang": "en",
-            "country": "BE"
-          }
-        ],
-        "image": {
-          "url": "https://www.lexpress.fr/resizer/v2/UTWEJ3QE4NCOLAQJIFW3RAOFMQ.JPG?auth=6802c180b13bafcd717cb9b667f0c8c45c5d698d7e6dddcb2dded71cf2ee0bf6&smart=true&width=5712&height=3808",
-          "credit": "L'Express",
-          "link": "https://www.lexpress.fr/monde/europe/royaume-uni-ue-un-sommet-pour-relancer-les-relations-dix-ans-apres-le-brexit-JCC4E4FSX5GZJJQO2GE3L3R5KA/"
-        },
-        "i18n": {
-          "en": {
-            "title": "Post-Brexit agreement between London and Brussels on trade and youth",
-            "context": "Ten years after the Brexit vote, the United Kingdom and the European Union are seeking to ease and modernize the framework of their bilateral relations.",
-            "summary": "British Prime Minister Andy Burnham met with European Union representatives during an unprecedented bilateral summit. Both parties signed agreements regarding the streamlining of trade and youth mobility. While some British ministers recall the need to take time on sovereignty issues, this rapprochement marks an important symbolic step in the post-Brexit phase.",
-            "plain": "IN SHORT: The United Kingdom and the EU have concluded new trade and educational agreements to facilitate exchanges ten years after Brexit. Both parties display their willingness to normalize relations.",
-            "stakes": [
-              "How far can the UK ease its post-Brexit position without reopening internal debates?",
-              "What concrete benefits will these agreements bring to young people and businesses?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Acuerdo post-Brexit entre Londres y Bruselas sobre comercio y juventud",
-            "context": "Diez años después del voto del Brexit, el Reino Unido y la Unión Europea buscan flexibilizar y modernizar el marco de sus relaciones bilaterales.",
-            "summary": "El primer ministro británico, Andy Burnham, se reunió con representantes de la Unión Europea durante una cumbre bilateral sin precedentes. Ambas partes firmaron acuerdos sobre la agilización de los intercambios comerciales y la movilidad de los jóvenes. Aunque algunos ministros británicos recuerdan la necesidad de tomarse su tiempo en cuestiones de soberanía, este acercamiento marca un paso simbólico importante en la fase posterior al Brexit.",
-            "plain": "EN CLARA: El Reino Unido y la UE han concluido nuevos acuerdos comerciales y educativos para facilitar los intercambios diez años después del Brexit. Ambas partes muestran su voluntad de normalizar sus relaciones.",
-            "stakes": [
-              "¿Hasta dónde puede el Reino Unido flexibilizar su postura post-Brexit sin reabrir los debates internos?",
-              "¿Qué beneficios concretos aportarán estos acuerdos a los jóvenes y a las empresas?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s2e4fe0793d",
+        "id": "s3a660a4213",
         "topic": "environnement",
-        "title": "Blocage des discussions à la COP31 sur la fin des énergies fossiles",
-        "context": "La COP est la conférence annuelle de l'ONU sur le changement climatique, réunissant près de deux cents pays pour fixer la stratégie mondiale.",
-        "summary": "Les négociations internationales de la COP31 se sont poursuivies au-delà du terme prévu sans qu'aucun texte d'accord global n'ait été validé. Les blocages principaux portent sur la formulation exacte encadrant l'abandon des énergies fossiles. Dans le même temps, des organisations internationales comme l'UNICEF demandent une prise en compte accrue de la protection et des droits des enfants face aux désordres climatiques.",
-        "plain": "EN CLAIR : La conférence climat de l'ONU patine et joue les prolongations. Les diplomates ne parviennent pas à s'entendre sur le texte final concernant l'avenir des énergies fossiles.",
+        "title": "Un cargo échoué dans les Landes mobilise les services de secours",
+        "context": "Le littoral atlantique français est soumis à des conditions météorologiques agitées, caractérisées par une houle importante susceptible de menacer les navires en difficulté.",
+        "summary": "Un cargo naviguant sous pavillon maltais s'est échoué sur la côte landaise, alimentant les craintes d'un ensablement accru sous l'effet des vagues. Les autorités maritimes ont indiqué que l'opération de remorquage nécessitait de réunir de nombreux prérequis techniques complexes, ce qui ne permet pas de garantir un succès immédiat ni un calendrier précis. Les équipes de sauvetage restent mobilisées pour parer à tout risque environnemental et stabiliser l'embarcation malgré l'incertitude liée aux conditions météorologiques locales.",
+        "plain": "Un navire marchand s'est échoué sur une plage des Landes et risque de s'enfoncer davantage dans le sable en raison de la mer agitée. Les secours préparent une opération de remorquage délicate dont le succès n'est pas garanti à court terme.",
         "chart": null,
         "stakes": [
-          "Un compromis a minima peut-il être sauvé lors des prolongations ?",
-          "Quelles conséquences ce retard aura-t-il sur les objectifs mondiaux de réduction des émissions ?"
+          "Quels risques écologiques pèsent sur le littoral landais en cas d'enlisement prolongé du cargo ?",
+          "Les moyens de prévention actuels sont-ils suffisants pour anticiper ces échouages sur la côte atlantique ?"
         ],
         "sources": [
           {
-            "name": "L'Humanité",
-            "title": "COP31 : Aucun accord trouvé, les négociations patinent et les parties jouent les prolongations",
-            "link": "https://www.humanite.fr/environnement/climat/cop31-aucun-accord-trouve-les-negociations-patinent-et-les-parties-jouent-les-prolongations",
-            "publishedAt": "2026-11-21T11:24:43.000Z",
+            "name": "franceinfo",
+            "title": "Cargo échoué dans les Landes : une course contre la montre pour remorquer le navire",
+            "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/cargo-echoue-dans-les-landes-course-contre-la-montre-pour-remorquer-le-navire_8293757.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-21T15:25:46.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "BBC News",
-            "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-            "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-21T09:52:11.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "Daily Sabah",
-            "title": "UNICEF urges COP31 to put children at heart of climate action",
-            "link": "https://www.dailysabah.com/turkiye/unicef-urges-cop31-to-put-children-at-heart-of-climate-action/news",
-            "publishedAt": "2026-11-20T10:11:00.000Z",
-            "lang": "en",
-            "country": "TR"
-          }
-        ],
-        "image": {
-          "url": "https://www.humanite.fr/wp-content/uploads/2026/11/REA12034575_pr.jpg?w=800",
-          "credit": "L'Humanité",
-          "link": "https://www.humanite.fr/environnement/climat/cop31-aucun-accord-trouve-les-negociations-patinent-et-les-parties-jouent-les-prolongations"
-        }
-      },
-      {
-        "id": "s1c40396d9a",
-        "topic": "economie",
-        "title": "Vague d'inquiétude boursière autour du secteur de l'intelligence artificielle",
-        "context": "Les entreprises développant des technologies d'intelligence artificielle font face à des besoins massifs de financement de leurs infrastructures.",
-        "summary": "Les principales Bourses mondiales ont enregistré des baisses marquées en raison de doutes croissants des investisseurs sur les retours sur investissement du secteur de l'IA. La firme Anthropic a notamment vu son titre décrocher de plus de 10 % au lendemain de son entrée en Bourse sur le Nasdaq. La quantité considérable de capitaux nécessaires au secteur commence à susciter la prudence de la finance mondiale.",
-        "plain": "EN CLAIR : Les marchés boursiers traversent une zone de turbulences. Les investisseurs doutent désormais de la rentabilité rapide des investissements colossaux réalisés dans l'intelligence artificielle.",
-        "chart": null,
-        "stakes": [
-          "Cette baisse boursière s'agit-elle d'un simple ajustement ou d'un dégonflement durable de la bulle technologique ?",
-          "Comment les entreprises du secteur adapteront-elles leurs besoins en fonds propres ?"
-        ],
-        "sources": [
-          {
-            "name": "La Croix",
-            "title": "Les marchés boursiers mondiaux ébranlés par la fébrilité autour de l’IA",
-            "link": "https://www.la-croix.com/les-bourses-mondiales-emportees-par-les-doutes-sur-la-rentabilite-de-l-ia-20261120",
-            "publishedAt": "2026-11-21T10:32:20.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "The Telegraph",
-            "title": "Anthropic plunges as Wall Street suffers AI sell-off",
-            "link": "https://www.telegraph.co.uk/business/2026/11/20/ai-tech-sell-off-anthropic-claude-nasdaq-ftse-100-markets/",
-            "publishedAt": "2026-11-20T21:07:18.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "Sky News",
-            "title": "Anthropic among big fallers in global stock market rout",
-            "link": "https://news.sky.com/story/anthropic-among-big-fallers-in-global-stock-market-rout-13614361",
-            "publishedAt": "2026-11-20T13:39:00.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "The Japan Times",
-            "title": "Anthropic’s post-debut stumble delivers reality check for AI trade",
-            "link": "https://www.japantimes.co.jp/business/2026/11/21/markets/anthropic-ai-stocks/",
-            "publishedAt": "2026-11-21T04:19:00.000Z",
-            "lang": "en",
-            "country": "JP"
-          }
-        ],
-        "image": {
-          "url": "https://i.la-croix.com/x/2026/11/18/2592953-un-operateur-a-la-bourse-de-new-york-le-16-novembr.jpg",
-          "credit": "La Croix",
-          "link": "https://www.la-croix.com/les-bourses-mondiales-emportees-par-les-doutes-sur-la-rentabilite-de-l-ia-20261120"
-        }
-      },
-      {
-        "id": "s84564c6565",
-        "topic": "economie",
-        "title": "France Télévisions fixe un objectif d'économies de 170 millions d'euros",
-        "context": "Le secteur de l'audiovisuel public français fait face à des contraintes budgétaires strictes définies dans les trajectoires de financement de l'État.",
-        "summary": "La présidente de France Télévisions, Delphine Ernotte, a communiqué les premières prévisions financières pour l'année 2027. Le groupe de télévision publique devra réaliser un effort budgétaire chiffré à 170 millions d'euros afin d'équilibrer ses comptes conformément aux orientations demandées par l'exécutif.",
-        "plain": "EN CLAIR : La direction de France Télévisions annonce qu'elle devra réduire ses dépenses de 170 millions d'euros d'ici 2027. Ces coupes budgétaires s'inscrivent dans le cadre du redressement des finances publiques.",
-        "chart": null,
-        "stakes": [
-          "Quels programmes ou structures de l'audiovisuel public seront impactés par ces coupes ?",
-          "Comment la direction compte-elle préserver l'emploi et les missions de service public ?"
-        ],
-        "sources": [
-          {
-            "name": "Ouest-France",
-            "title": "« Un effort de 170 millions pour 2027 » : Delphine Ernotte fait le point sur les économies de France Télévisions",
-            "link": "https://programmetv.ouest-france.fr/france-televisions-b1000/un-effort-de-170-millions-pour-2027-delphine-ernotte-fait-le-point-sur-les-economies-de-france-televisions-abfac0ae-e354-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-            "publishedAt": "2026-11-21T12:00:14.000Z",
+            "name": "Le Monde",
+            "title": "Le remorquage du cargo « Miro-G », échoué au large des Landes, pourrait durer plusieurs jours",
+            "link": "https://www.lemonde.fr/planete/article/2026/11/21/le-remorquage-du-cargo-miro-g-echoue-au-large-des-landes-pourrait-durer-plusieurs-jours_6814014_3244.html",
+            "publishedAt": "2026-11-21T12:57:06.000Z",
             "lang": "fr",
             "country": "FR"
           }
         ],
         "image": {
-          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExOWZkODdkMDcwZjc4YTVlNDgzZGFlZWNkZDNjZjJkMjc?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=cece97cc25f5702678125ab9a113504e2dd0cd64e5d9afcfc5a45ef6aac59e3e",
-          "credit": "Ouest-France",
-          "link": "https://programmetv.ouest-france.fr/france-televisions-b1000/un-effort-de-170-millions-pour-2027-delphine-ernotte-fait-le-point-sur-les-economies-de-france-televisions-abfac0ae-e354-11f1-a3b1-0c6de532ce7d?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+          "url": "https://www.franceinfo.fr/pictures/aMNoeN-TNJ6s8lQMJIVdjlsJkGA/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/21/6b019c870a54c986604571.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/cargo-echoue-dans-les-landes-course-contre-la-montre-pour-remorquer-le-navire_8293757.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Cargo ship runs aground in the Landes region, mobilizing rescue services",
+            "context": "The French Atlantic coast is subject to rough weather conditions, characterized by significant swells capable of threatening ships in distress.",
+            "summary": "A cargo ship sailing under the Maltese flag ran aground on the Landes coast, fueling fears of increased silting due to the waves. Maritime authorities indicated that the towing operation required bringing together numerous complex technical prerequisites, which does not guarantee immediate success or a precise schedule. Rescue teams remain mobilized to ward off any environmental risk and stabilize the vessel despite the uncertainty linked to local weather conditions.",
+            "plain": "A merchant vessel ran aground on a beach in the Landes region and risks sinking deeper into the sand due to the rough sea. Rescuers are preparing a delicate towing operation whose success is not guaranteed in the short term.",
+            "stakes": [
+              "What ecological risks threaten the Landes coastline in the event of the cargo ship's prolonged grounding?",
+              "Are current prevention means sufficient to anticipate these groundings on the Atlantic coast?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Un carguero encallado en las Landas moviliza a los servicios de rescate",
+            "context": "El litoral atlántico francés está sometido a condiciones meteorológicas agitadas, caracterizadas por un fuerte oleaje susceptible de amenazar a los barcos en dificultad.",
+            "summary": "Un carguero que navegaba bajo pabellón maltés encalló en la costa de las Landas, alimentando el temor a un mayor hundimiento en la arena bajo el efecto de las olas. Las autoridades marítimas indicaron que la operación de remolque requería reunir numerosos requisitos técnicos complejos, lo que no permite garantizar un éxito inmediato ni un calendario preciso. Los equipos de rescate siguen mobilizados para hacer frente a cualquier riesgo medioambiental y estabilizar la embarcación a pesar de la incertidumbre ligada a las condiciones meteorológicas locales.",
+            "plain": "Un buque mercante encalló en una playa de las Landas y corre el riesgo de hundirse aún más en la arena debido al mar agitado. Los servicios de rescate preparan una delicada operación de remolque cuyo éxito no está garantizado a corto plazo.",
+            "stakes": [
+              "¿Qué riesgos ecológicos pesan sobre el litoral de las Landas en caso de un encallamiento prolongado del carguero?",
+              "¿Son suficientes los medios de prevención actuales para anticipar estos encallamientos en la costa atlántica?"
+            ],
+            "chart": null
+          }
         }
-      },
+      }
+    ],
+    "monde": [
       {
-        "id": "sbd1a19aa53",
+        "id": "sa1b6e93c17",
         "topic": "economie",
-        "title": "L'Union européenne et l'Indonésie scellent un accord commercial majeur",
-        "context": "L'Union européenne cherche à diversifier ses partenariats économiques mondiaux pour sécuriser ses approvisionnements et soutenir ses exportations.",
-        "summary": "Après une décennie de tractations diplomatiques et économiques, l'Union européenne et l'Indonésie ont officialisé la signature de leurs nouveaux accords d'investissement et de commerce. En 2025, les échanges de biens entre les deux zones représentaient un volume global de 28,9 milliards d'euros, comprenant 10,2 milliards d'exportations européennes et 18,7 milliards d'importations.",
-        "plain": "EN CLAIR : L'Europe et l'Indonésie ont concrétisé un vaste accord commercial négocié pendant dix ans. Ce partenariat formalise des échanges qui pèsent près de 29 milliards d'euros par an.",
+        "title": "L'Union européenne et l'Indonésie signent un accord commercial majeur",
+        "context": "Après dix années de négociations, l'Union européenne cherche à diversifier ses partenariats économiques mondiaux dans un contexte de tensions commerciales internationales.",
+        "summary": "L'Union européenne et l'Indonésie ont signé à Bruxelles un accord commercial couvrant un marché de 730 millions de personnes. L'accord vise à abaisser les droits de douane et à encourager les investissements mutuels. En 2025, le commerce bilatéral représentait 28,9 milliards d'euros, avec un avantage net pour les importations européennes en provenance de l'archipel asiatique.",
+        "plain": "EN CLAIR : L'Europe et l'Indonésie ont conclu un grand accord de libre-échange après dix ans de discussions. Il réduira les taxes douanières et facilitera les affaires entre les deux régions.",
         "chart": {
-          "title": "Échanges commerciaux entre l'UE et l'Indonésie en 2025",
+          "title": "Échanges commerciaux UE-Indonésie en 2025",
           "unit": "milliards d'euros",
           "items": [
             {
-              "label": "Exportations de l'UE",
-              "value": 10.2
+              "label": "Échanges commerciaux totaux",
+              "value": 28.9
             },
             {
               "label": "Importations de l'UE",
               "value": 18.7
+            },
+            {
+              "label": "Exportations de l'UE",
+              "value": 10.2
             }
           ],
           "source": {
@@ -667,10 +1013,27 @@
           }
         },
         "stakes": [
-          "Quels secteurs industriels et agricoles européens bénéficieront le plus de cet accord ?",
-          "Comment cet accord s'articule-t-il avec les engagements environnementaux des deux régions ?"
+          "La diversification des approvisionnements de l'Europe hors de ses partenaires habituels.",
+          "L'ouverture du marché asiatique aux entreprises et investisseurs européens.",
+          "L'impact sur l'économie indonésienne et le respect des normes environnementales."
         ],
         "sources": [
+          {
+            "name": "Deutsche Welle",
+            "title": "EU and Indonesia sign trade deal",
+            "link": "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-21T15:21:00.000Z",
+            "lang": "en",
+            "country": "DE"
+          },
+          {
+            "name": "South China Morning Post",
+            "title": "Indonesia, EU sign ‘ambitious’ trade deal",
+            "link": "https://www.scmp.com/news/asia/southeast-asia/article/3375341/indonesia-eu-sign-ambitious-trade-deal",
+            "publishedAt": "2026-11-21T13:46:13.000Z",
+            "lang": "en",
+            "country": "HK"
+          },
           {
             "name": "Euronews",
             "title": "L'UE et l'Indonésie signent des accords commerciaux et d'investissement après dix ans de négociations",
@@ -681,431 +1044,388 @@
           }
         ],
         "image": {
-          "url": "https://images.euronews.com/articles/stories/10/00/25/39/696x392_cmsv2_b6a51226-14f9-541e-8c88-4828b53c21fd-10002539.jpg",
-          "credit": "Euronews",
-          "link": "https://fr.euronews.com/2026/11/21/lue-et-lindonesie-signent-des-accords-commerciaux-et-dinvestissement-apres-dix-ans-de-nego"
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/a19afd8c-8876-4faf-9e3b-4dfc160e9ae0_6a2c5432.jpg?itok=9PZLccGM&v=1795268772",
+          "credit": "South China Morning Post",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3375341/indonesia-eu-sign-ambitious-trade-deal"
+        },
+        "i18n": {
+          "en": {
+            "title": "The European Union and Indonesia sign a major trade agreement",
+            "context": "After ten years of negotiations, the European Union is seeking to diversify its global economic partnerships amidst international trade tensions.",
+            "summary": "The European Union and Indonesia signed a trade agreement in Brussels covering a market of 730 million people. The agreement aims to lower customs duties and encourage mutual investment. In 2025, bilateral trade stood at 28.9 billion euros, with a net advantage for European imports from the Asian archipelago.",
+            "plain": "IN SHORT: Europe and Indonesia have concluded a major free-trade agreement after ten years of talks. It will reduce customs taxes and facilitate business between the two regions.",
+            "stakes": [
+              "The diversification of Europe's supply sources beyond its usual partners.",
+              "The opening of the Asian market to European companies and investors.",
+              "The impact on the Indonesian economy and compliance with environmental standards."
+            ],
+            "chart": {
+              "title": "EU-Indonesia trade in 2025",
+              "unit": "billion euros",
+              "labels": [
+                "Total trade",
+                "EU imports",
+                "EU exports"
+              ]
+            }
+          },
+          "es": {
+            "title": "La Unión Europea e Indonesia firman un importante acuerdo comercial",
+            "context": "Tras diez años de negociaciones, la Unión Europea busca diversificar sus asociaciones económicas mundiales en un contexto de tensiones comerciales internacionales.",
+            "summary": "La Unión Europea e Indonesia firmaron en Bruselas un acuerdo comercial que abarca un mercado de 730 millones de personas. El acuerdo pretende reducir los aranceles aduaneros y fomentar la inversión mutua. En 2025, el comercio bilateral ascendió a 28.900 millones de euros, con un saldo neto favorable a las importaciones europeas procedentes del archipiélago asiático.",
+            "plain": "EN CLARO: Europa e Indonesia han concluido un gran acuerdo de libre comercio tras diez años de conversaciones. Reducirá los impuestos aduaneros y facilitará los negocios entre ambas regiones.",
+            "stakes": [
+              "La diversificación de los suministros de Europa fuera de sus socios habituales.",
+              "La apertura del mercado asiático a las empresas e inversores europeos.",
+              "El impacto en la economía indonesia y el respeto de las normas medioambientales."
+            ],
+            "chart": {
+              "title": "Intercambios comerciales UE-Indonesia en 2025",
+              "unit": "miles de millones de euros",
+              "labels": [
+                "Intercambios comerciales totales",
+                "Importaciones de la UE",
+                "Exportaciones de la UE"
+              ]
+            }
+          }
         }
       },
       {
-        "id": "s3f3ec82781",
-        "topic": "international",
-        "title": "Arrestation du chef de cartel Chapo Isidro par l'armée mexicaine",
-        "context": "Les autorités mexicaines et américaines coopèrent dans la traque des dirigeants de réseaux de narcotrafic opérant dans l'État de Sinaloa.",
-        "summary": "Une opération d'envergure menée par l'armée mexicaine a abouti à l'interpellation de Fausto Isidro Meza Flores, surnommé « Chapo Isidro ». Ce responsable majeur du narcotrafic figurait sur la liste des personnes les plus recherchées par le FBI américain, qui offrait 5 millions de dollars de récompense pour sa capture. Des affrontements armés intenses ont éclaté lors de la descente militaire.",
-        "plain": "EN CLAIR : L'armée mexicaine a capturé un dangereux chef de cartel recherché par les États-Unis. Des tirs violents ont éclaté au moment de son arrestation dans le nord du pays.",
+        "id": "s98c5e61ed5",
+        "topic": "economie",
+        "title": "Antonio Costa propose de réduire le budget européen et de taxer la tech",
+        "context": "Le Conseil européen prépare le cadre financier pluriannuel de l'Union européenne pour la période 2028-2034. Les contributions des États membres sont sujettes à de fortes négociations.",
+        "summary": "Le président du Conseil européen, António Costa, a présenté un projet de budget en baisse d'environ 10 %, soit plus de 200 milliards d'euros de coupes. Pour compenser la baisse des contributions nationales, M. Costa suggère d'instaurer une taxe de 3 % sur les grandes entreprises du secteur numérique. La France et l'Allemagne ont accueilli ces propositions avec réserve ou opposition.",
+        "plain": "EN CLAIR : Le dirigeant du Conseil européen veut réduire les dépenses de l'UE de 200 milliards d'euros. Il propose de créer une taxe de 3 % sur les grandes entreprises de la tech pour compenser.",
         "chart": null,
         "stakes": [
-          "L'arrestation entraînera-t-elle un affaiblissement du trafic ou de nouveaux affrontements entre cartels rivaux ?",
-          "Comment évoluera la coopération sécuritaire entre Mexico et Washington ?"
+          "Le maintien ou la baisse des fonds européens de cohésion pour les régions.",
+          "La capacité de l'UE à imposer une fiscalité propre aux géants technologiques.",
+          "Les désaccords budgétaires majeurs entre les principaux États membres et les instances européennes."
         ],
         "sources": [
           {
-            "name": "Le Monde",
-            "title": "Le Mexique arrête Fausto Isidro Meza, alias « Chapo Isidro », un puissant chef de cartel recherché par le FBI",
-            "link": "https://www.lemonde.fr/international/article/2026/11/21/le-mexique-arrete-fausto-isidro-meza-alias-chapo-isidro-un-puissant-chef-de-cartel-recherche-par-le-fbi_6814013_3210.html",
-            "publishedAt": "2026-11-21T12:49:49.000Z",
+            "name": "Deutsche Welle",
+            "title": "New EU budget proposal aims at tax gobal tech giants",
+            "link": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-21T14:58:00.000Z",
+            "lang": "en",
+            "country": "DE"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "Costa cuts proposed EU budget by €44B",
+            "link": "https://www.politico.eu/article/costa-cuts-proposed-eu-budget-by-44billion-euros/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-21T10:44:05.000Z",
+            "lang": "en",
+            "country": "BE"
+          },
+          {
+            "name": "RFI",
+            "title": "Budget UE: plus de 200 milliards d'euros d'économies proposées, Paris et Berlin font la moue",
+            "link": "https://www.rfi.fr/fr/europe/20261121-budget-ue-plus-de-200-milliards-d-euros-d-%C3%A9conomie-propos%C3%A9es-paris-et-berlin-font-la-moue",
+            "publishedAt": "2026-11-21T15:44:08.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "The New York Times",
-            "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
-            "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
-            "publishedAt": "2026-11-21T12:33:33.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "Al Jazeera",
-            "title": "Mexico captures FBI-wanted cartel boss in military raid",
-            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
-            "publishedAt": "2026-11-21T11:53:56.000Z",
-            "lang": "en",
-            "country": "QA"
-          }
-        ],
-        "image": {
-          "url": "https://img.lemde.fr/2026/11/18/564/0/3744/1872/644/322/60/0/1bd95a5_ftp-1-4xn6w6owxzni-afp-d7wq879.jpg",
-          "credit": "Le Monde",
-          "link": "https://www.lemonde.fr/international/article/2026/11/21/le-mexique-arrete-fausto-isidro-meza-alias-chapo-isidro-un-puissant-chef-de-cartel-recherche-par-le-fbi_6814013_3210.html"
-        }
-      }
-    ],
-    "monde": [
-      {
-        "id": "sb8729e69c8",
-        "topic": "international",
-        "title": "Intensification des frappes militaires et tensions diplomatiques en Ukraine",
-        "context": "Le conflit entre la Russie et l'Ukraine se poursuit dans un climat d'incertitude internationale. Alors que des échanges diplomatiques s'organisent entre de grandes puissances, les combats et les attaques sur les infrastructures s'intensifient.",
-        "summary": "La Russie a mené d'importantes attaques aériennes par missiles et drones contre la capitale Kiev et plusieurs villes ukrainiennes comme Kryvyï Rih, ciblant notamment des ponts et des gares. En réplique, l'Ukraine a revendiqué des frappes contre le pont de Crimée, estimant qu'il s'agit d'une réponse légitime aux offensives russes. Sur le plan diplomatique, des discussions entre les dirigeants américain, russe et chinois suscitent l'inquiétude des alliés européens de l'Ukraine, qui redoutent d'être écartés des négociations relatives à la sécurité en Europe.",
-        "plain": "EN CLAIR : La Russie a lancé de violentes attaques contre les infrastructures de transport en Ukraine, qui a répliqué en frappant un pont stratégique. Pendant ce temps, les alliés européens craignent d'être tenus à l'écart des pourparlers de paix.",
-        "chart": null,
-        "stakes": [
-          "Comment l'armée ukrainienne va-t-elle sécuriser son réseau de transport face aux bombardements ?",
-          "Quel sera l'impact des discussions entre Washington et Moscou sur l'aide à l'Ukraine ?",
-          "La destruction des voies de ravitaillement modifiera-t-elle le contrôle militaire de la Crimée ?"
-        ],
-        "sources": [
-          {
-            "name": "L'Humanité",
-            "title": "« Une soirée et une nuit tragiques pour notre ville » : en Ukraine, Kryvyï Rih se réveille en deuil après un bombardement russe",
-            "link": "https://www.humanite.fr/monde/armee-russe/une-soiree-et-une-nuit-tragiques-pour-notre-ville-en-ukraine-kryvyi-rih-se-reveille-en-deuil-apres-un-bombardement-russe",
-            "publishedAt": "2026-11-21T11:54:54.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "BBC News",
-            "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-            "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-21T12:20:55.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "BBC News",
-            "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-            "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-21T08:10:25.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "BBC News",
-            "title": "What we know about the latest Russian missile strikes on Ukraine",
-            "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-20T15:14:01.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "NPR",
-            "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
-            "link": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
-            "publishedAt": "2026-11-21T12:40:18.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "NPR",
-            "title": "Another day of survival for a family in Ukraine",
-            "link": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
-            "publishedAt": "2026-11-20T21:32:31.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "Fox News",
-            "title": "Ukraine deals major blow to Putin’s Crimea lifeline, European intel assessment claims",
-            "link": "https://www.foxnews.com/world/ukraine-deals-major-blow-putins-crimea-lifeline-european-intel-assessment-claims",
-            "publishedAt": "2026-11-21T11:00:22.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "The Hindu",
-            "title": "Russia dusts off its pre-war demands as the U.S. raises discussing European security at Ukraine talks",
-            "link": "https://www.thehindu.com/news/international/russia-dusts-off-its-pre-war-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/article71727588.ece",
-            "publishedAt": "2026-11-21T09:11:27.000Z",
-            "lang": "en",
-            "country": "IN"
-          }
-        ],
-        "image": {
-          "url": "https://www.humanite.fr/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-21-at-12.47.09.jpeg?w=1200",
-          "credit": "L'Humanité",
-          "link": "https://www.humanite.fr/monde/armee-russe/une-soiree-et-une-nuit-tragiques-pour-notre-ville-en-ukraine-kryvyi-rih-se-reveille-en-deuil-apres-un-bombardement-russe"
-        }
-      },
-      {
-        "id": "s8dbe631aa2",
-        "topic": "sciences_tech",
-        "title": "Échec des pourparlers de l'ONU sur la régulation des robots autonomes",
-        "context": "Depuis plusieurs années, les Nations unies débattent du cadre juridique entourant les systèmes d'armes létales autonomes, fonctionnant grâce à l'intelligence artificielle.",
-        "summary": "Les discussions menées sous l'égide de l'ONU à Genève se sont conclues sans l'adoption d'un traité d'interdiction ou de règles contraignantes. Des puissances militaires comme les États-Unis et la Russie s'opposent à des limitations strictes sur l'usage de ces technologies sur le champ de bataille. Les États membres se sont simplement entendus pour prolonger les négociations pendant deux années supplémentaires, repoussant toute prise de décision ferme.",
-        "plain": "EN CLAIR : L'ONU comptait encadrer ou interdire les armes de guerre autonomes guidées par l'intelligence artificielle. Faute d'accord entre les grandes puissances, le projet est repoussé de deux ans.",
-        "chart": null,
-        "stakes": [
-          "L'absence de règles internationales accélérera-t-elle la course aux armements autonomes ?",
-          "Existe-t-il un risque d'utilisation incontrôlée de l'IA sur les terrains de conflit ?",
-          "Les Nations unies parviendront-elles un jour à imposer un traité contraignant ?"
-        ],
-        "sources": [
-          {
-            "name": "NPR",
-            "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-            "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
-            "publishedAt": "2026-11-21T08:08:01.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "The Japan Times",
-            "title": "Countries open path towards ‘killer robots’ pact",
-            "link": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/killer-robots-pact/",
-            "publishedAt": "2026-11-21T07:41:00.000Z",
-            "lang": "en",
-            "country": "JP"
-          },
-          {
-            "name": "Le Monde (International)",
-            "title": "A Genève, la communauté internationale échoue à interdire les robots tueurs",
-            "link": "https://www.lemonde.fr/international/article/2026/11/21/a-geneve-la-communaute-internationale-echoue-a-interdire-les-robots-tueurs_6814012_3210.html",
-            "publishedAt": "2026-11-21T12:36:53.000Z",
+            "name": "Euronews",
+            "title": "Budget de l’UE : Antonio Costa propose 200 milliards de coupes et une taxe numérique",
+            "link": "https://fr.euronews.com/2026/11/21/budget-de-lue-antonio-costa-propose-200-milliards-de-coupes-et-une-taxe-numerique",
+            "publishedAt": "2026-11-21T13:21:28.000Z",
             "lang": "fr",
             "country": "FR"
           }
         ],
         "image": {
-          "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fdc%2Fbe428cfe43728dcf909ce499cadf%2Fgettyimages-2273123489.jpg",
-          "credit": "NPR",
-          "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in"
+          "url": "https://s.rfi.fr/media/display/aea6cf2e-bde2-11f1-8dbb-69fad0a7cb9f/w:1024/p:16x9/2026-09-18T010721Z-2125994934-RC2YYKASOKRW-RTRMADP-3-NEWZEALAND-EU.jpg",
+          "credit": "RFI",
+          "link": "https://www.rfi.fr/fr/europe/20261121-budget-ue-plus-de-200-milliards-d-euros-d-%C3%A9conomie-propos%C3%A9es-paris-et-berlin-font-la-moue"
+        },
+        "i18n": {
+          "en": {
+            "title": "Antonio Costa proposes cutting the European budget and taxing tech",
+            "context": "The European Council is preparing the European Union's multiannual financial framework for the period 2028-2034. Member states' contributions are subject to intense negotiations.",
+            "summary": "The President of the European Council, António Costa, presented a draft budget reduced by about 10%, representing over 200 billion euros in cuts. To offset the decline in national contributions, Mr. Costa suggests introducing a 3% tax on large digital sector companies. France and Germany have greeted these proposals with reserve or opposition.",
+            "plain": "IN SHORT: The head of the European Council wants to cut EU spending by 200 billion euros. He proposes creating a 3% tax on big tech companies to compensate.",
+            "stakes": [
+              "The maintenance or reduction of European cohesion funds for regions.",
+              "The EU's ability to impose its own taxation on technological giants.",
+              "Major budgetary disagreements between key member states and European institutions."
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "António Costa propone reducir el presupuesto europeo y gravar a las tecnológicas",
+            "context": "El Consejo Europeo está preparando el marco financiero plurianual de la Unión Europea para el periodo 2028-2034. Las contribuciones de los Estados miembros son objeto de intensas negociaciones.",
+            "summary": "El presidente del Consejo Europeo, António Costa, presentó un proyecto de presupuesto con una reducción de alrededor del 10 %, lo que supone más de 200.000 millones de euros en recortes. Para compensar la caída de las contribuciones nacionales, el Sr. Costa sugiere instaurar un impuesto del 3 % sobre las grandes empresas del sector digital. Francia y Alemania acogieron estas propuestas con reservas u oposición.",
+            "plain": "EN CLARO: El dirigente del Consejo Europeo quiere recortar el gasto de la UE en 200.000 millones de euros. Propone crear un impuesto del 3 % a las grandes empresas tecnológicas para compensarlo.",
+            "stakes": [
+              "El mantenimiento o la reducción de los fondos europeos de cohesión para las regiones.",
+              "La capacidad de la UE para imponer una fiscalidad propia a los gigantes tecnológicos.",
+              "Los principales desacuerdos presupuestarios entre los Estados miembros y las instituciones europeas."
+            ],
+            "chart": null
+          }
         }
       }
     ]
   },
-  "storiesAt": "2026-11-21T13:07:31.851Z",
-  "inputHash": "65a516568f3a1e262da08cbbb5124b19129934e4",
+  "storiesAt": "2026-11-21T17:04:18.642Z",
+  "inputHash": "e919f4bfd3a2e1204508d15e8d4903f467c57812",
   "synthStatus": "ok",
   "news": {
     "france": [
       {
-        "id": "a3f3ec82781",
-        "title": "Le Mexique arrête Fausto Isidro Meza, alias « Chapo Isidro », un puissant chef de cartel recherché par le FBI",
-        "link": "https://www.lemonde.fr/international/article/2026/11/21/le-mexique-arrete-fausto-isidro-meza-alias-chapo-isidro-un-puissant-chef-de-cartel-recherche-par-le-fbi_6814013_3210.html",
-        "summary": "Le narcotrafiquant a été arrêté au Mexique, vendredi, ce qui a déclenché de violents affrontements. Il opérait dans le nord de l’Etat de Sinaloa, et les Etats-Unis offraient une récompense de 5 millions de dollars pour son arrestation.",
-        "image": "https://img.lemde.fr/2026/11/18/564/0/3744/1872/644/322/60/0/1bd95a5_ftp-1-4xn6w6owxzni-afp-d7wq879.jpg",
-        "publishedAt": "2026-11-21T12:49:49.000Z",
-        "source": "Le Monde",
+        "id": "a6ab26270fe",
+        "title": "EN DIRECT – Mobilisation du 21 novembre : à Paris, une défilé face à un «quinquennat à bout de souffle»",
+        "link": "https://www.liberation.fr/societe/en-direct-mobilisation-contre-la-vie-chere-coup-denvoi-du-sixieme-samedi-de-manifestations-20261121_VKY5SCSHIRDTXE7DUOQNMMRLWY/",
+        "summary": "A Paris, la coordination des gilets jaunes s’est vue refuser par la préfecture de police de se rendre jusqu’à la place de la Concorde. Elle devrait donc rejoindre le cortège syndical, au départ de la place de la République.",
+        "image": null,
+        "publishedAt": "2026-11-21T16:49:45.000Z",
+        "source": "Libération",
         "lang": "fr",
         "country": "FR",
-        "lean": -1
+        "lean": -1.5
       },
       {
-        "id": "a9b6ccd0efb",
-        "title": "MotoGP. Bezzecchi en pole position, Marquez en quête d’un 8e sacre : la grille de départ du Grand Prix du Portugal",
-        "link": "https://www.ouest-france.fr/sport/moto/motogp/motogp-marco-bezzecchi-decroche-la-pole-position-au-portugal-devant-marc-marquez-60d733b4-e5a2-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-        "summary": "Marco Bezzecchi (Aprilia) a décroché samedi 21 novembre, la pole position du Grand Prix du Portugal de MotoGP après avoir réalisé le meilleur temps des qualifications devant Marc Marquez (Ducati), l’Espagnol étant tout près de son huitième titre mondial dans la discipline.",
-        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExZGM4YzY3NTI5YjhlMTA0ZDk1OTJjMzFmN2ZlNzBkNTA?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=907095cabb9098f6176157e8fa9289f432d36d6bf048ebed16b237d85eabd8c4",
-        "publishedAt": "2026-11-21T12:32:32.000Z",
+        "id": "a2eb5f10d00",
+        "title": "Bundesliga. Le Borussia Dortmund fait craquer Mönchengladbach et prend la tête du championnat",
+        "link": "https://www.ouest-france.fr/sport/football/allemagne/bundesliga-le-borussia-dortmund-fait-craquer-moenchengladbach-et-prend-la-tete-du-championnat-f296975a-e5c9-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Au lendemain du match nul du Bayern Munich face à Cologne (1-1), le Borussia Dortmund a pris la tête du championnat d’Allemagne grâce à un but tardif de Felix Nmecha, ce samedi 21 novembre sur le terrain de Mönchengladbach.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExMjc0YmQxN2IzMjk3MmYyNDEzZTgyMjY0YTM3ZmYyZGU?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=01256da152604aef009148496a6acaaf9c5b41194a3feb6d598882325239ad29",
+        "publishedAt": "2026-11-21T16:44:43.000Z",
         "source": "Ouest-France",
         "lang": "fr",
         "country": "FR",
         "lean": 0
       },
       {
-        "id": "a807b1ab643",
-        "title": "Mouvement social, mon amour",
-        "link": "https://www.humanite.fr/social-et-economie/chronique/mouvement-social-mon-amour",
-        "summary": "Depuis la rentrée, je réponds « je suis vivante » à l’incontournable « ça va ? » qui suit le « bonjour ». Une phrase commode pour aborder mon épuisement militant sans m’en plaindre. Jeudi 12 novembre, j’ai tourné une vidéo contre la loi « permis de tuer », écrit un texte de défense des libertés asso",
-        "image": "https://www.humanite.fr/wp-content/uploads/2026/08/chronique_Youlie-Yamamoto.png?w=1200",
-        "publishedAt": "2026-11-21T12:30:00.000Z",
-        "source": "L'Humanité",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -2
-      },
-      {
-        "id": "a6bffa2eddb",
-        "title": "Un mois après l’attentat de Trappes, Samba Coulibaly, le dernier blessé en urgence absolue, est sorti du coma",
-        "link": "https://www.liberation.fr/societe/attentat-de-trappes-samba-coulibaly-victime-de-lattaque-est-sorti-du-coma-apres-plusieurs-semaines-20261119_GKOAYY7WTBH3JNXVZ3BK3XXBNE/",
-        "summary": "Les jours de l’agent d’entretien de 29 ans, entre la vie et la mort après avoir été perforé par onze balles par Kévin Tessier, ne sont plus en danger, a annoncé son avocat cette semaine. L’état de santé de Ramatou, 11 ans, elle aussi victime de l’attaque, s’améliore également.",
+        "id": "af7cefbd920",
+        "title": "«La guerre s’étend jusqu’à nos portes» : une attaque de drone, possiblement ukrainienne, contre un cargo russe dans le golfe de Finlande",
+        "link": "https://www.liberation.fr/international/europe/la-guerre-setend-jusqua-nos-portes-une-attaque-de-drone-detectee-contre-un-cargo-russe-dans-le-golfe-de-finlande-20261121_IBIBYATSGVC5TKHIW7MAULCT5U/",
+        "summary": "Le ministère de la Défense finlandais a détecté l’incident ce samedi 21 novembre. Un porte-parole des forces armées finlandaises a évoqué une possible attaque ukrainienne.",
         "image": null,
-        "publishedAt": "2026-11-21T12:24:19.000Z",
+        "publishedAt": "2026-11-21T16:42:05.000Z",
         "source": "Libération",
         "lang": "fr",
         "country": "FR",
         "lean": -1.5
       },
       {
-        "id": "a25511a7b6f",
-        "title": "Incendies, tourisme de masse, tsunami : comment la Côte d’Azur mise sur l’IA pour relever ses défis",
-        "link": "https://www.lefigaro.fr/nice/incendies-tourisme-de-masse-tsunami-comment-la-cote-d-azur-mise-sur-l-ia-pour-relever-ses-defis-20261121",
-        "summary": "ENQUÊTE - Plusieurs start-ups spécialisées dans le développement de l’IA illustrent déjà la capacité d’innovation des Alpes-Maritimes, au carrefour de nombreux enjeux.",
-        "image": "https://i.f1g.fr/media/cms/3000x2251_crop/2026/11/19/1756d12bb1fe9506b5ee62a05b1b449df1a32460a38666db429c7764d4235cc7.jpg",
-        "publishedAt": "2026-11-21T12:15:00.000Z",
-        "source": "Le Figaro",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 1.5
-      },
-      {
-        "id": "a0242ce9a5a",
-        "title": "Présidentielle 2027 : qui sont les candidats déclarés ou probables ?",
-        "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/21/presidentielle-2027-qui-sont-les-candidats-declares-ou-probables_6680905_4355771.html",
-        "summary": "Une trentaine de candidats déclarés ou potentiels sont identifiables à ce stade. Mais leur chemin reste très long jusqu’au scrutin d’avril 2027.",
-        "image": "https://img.lemde.fr/2026/11/18/125/0/1500/750/644/322/60/0/d7cedb5_upload-1-cmvixzkgtuwj-verif-candidatures2.jpg",
-        "publishedAt": "2026-11-21T12:13:25.000Z",
-        "source": "Le Monde",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1
-      },
-      {
-        "id": "a41db4e7d28",
-        "title": "Une attente «pesante» : un mois après l’attentat raciste de Trappes, la date de l’hommage national toujours inconnue",
-        "link": "https://www.liberation.fr/societe/une-attente-pesante-un-mois-apres-lattentat-raciste-de-trappes-la-date-de-lhommage-national-toujours-inconnue-20261121_W73UZDAYXZBQFFKPO34XLBKWQI/",
-        "summary": "Alors que le gouvernement avait annoncé dès le 28 octobre la tenue d’une cérémonie pour les victimes de cette attaque raciste, les familles sont toujours suspendues à l’annonce d’une date. Matignon répond être en lien avec elles.",
-        "image": null,
-        "publishedAt": "2026-11-21T12:05:13.000Z",
-        "source": "Libération",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1.5
-      },
-      {
-        "id": "a5e5d13f04e",
-        "title": "Terrorisme : une enquête américaine révèle comment les modèles d’IA deviennent une nouvelle menace pour la sécurité nationale",
-        "link": "https://www.lexpress.fr/economie/high-tech/terrorisme-une-enquete-americaine-revele-comment-les-modeles-dia-deviennent-une-nouvelle-menace-pour-GRZYLRN4SRHAPHSWL3MEXCMYLI/",
+        "id": "a61c8a006b0",
+        "title": "Complot : la Russie soupçonnée d'avoir commandité l'assassinat d'un rappeur ukrainien au Danemark",
+        "link": "https://www.lexpress.fr/monde/europe/complot-la-russie-soupconnee-davoir-commandite-lassassinat-dun-rappeur-ukrainien-au-danemark-5JLULO7M7VDNLIQPQWHFAROTKM/",
         "summary": "",
-        "image": "https://www.lexpress.fr/resizer/v2/4AJABWKSCFEOTNQR6IPGQIIC3U.JPG?auth=ede70d5a2ed9e4728196421c4a5475e68399bb5057d0ef9d2d4b76fe8a70d970&smart=true&width=5654&height=3769",
-        "publishedAt": "2026-11-21T12:00:38.000Z",
+        "image": "https://www.lexpress.fr/resizer/v2/EBHW56DJGZF7NGYAT6NY32C6XY.JPG?auth=e08b08b7db725c13b14bb6e80269c50b5e404649542c9048df8af00024763f77&smart=true&width=7851&height=5234",
+        "publishedAt": "2026-11-21T16:24:41.000Z",
         "source": "L'Express",
         "lang": "fr",
         "country": "FR",
         "lean": 1
       },
       {
-        "id": "a8a49476cec",
-        "title": "Exposition : quand le cirque de Montmartre inspirait les plus grands artistes",
-        "link": "https://www.valeursactuelles.com/clubvaleurs/culture/exposition-quand-le-cirque-de-montmartre-inspirait-les-plus-grands-artistes",
-        "summary": "C’était un vaste chapiteau, illuminant le soir venu l’angle de la rue Lallier et de la rue des Martyrs : dès son installation en 1873, le Cirque Fernando avait animé les... L’article Exposition : quand le cirque de Montmartre inspirait les plus grands artistes est apparu en premier sur Valeurs actue",
-        "image": null,
-        "publishedAt": "2026-11-21T12:00:09.000Z",
-        "source": "Valeurs actuelles",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 2
-      },
-      {
-        "id": "a8d0c8eb054",
-        "title": "La culture selon André Malraux existe-t-elle encore ?",
-        "link": "https://www.lefigaro.fr/culture/patrimoine/la-culture-selon-andre-malraux-existe-t-elle-encore-20261121",
-        "summary": "ENQUÊTE - Cinquante ans après la mort de celui qui affirmait « la culture ne s’hérite pas, elle se conquiert », historiens et spécialistes se penchent sur une décennie de décisions majeures mais difficiles à faire vivre aujourd’hui.",
-        "image": "https://i.f1g.fr/media/cms/2815x1583_crop/2026/11/20/c8a65bdba900ebce11b327f802c52356be623aeb916f0aecd95bf13f19b32888.jpg",
-        "publishedAt": "2026-11-21T12:00:00.000Z",
-        "source": "Le Figaro",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 1.5
-      },
-      {
-        "id": "a782492d76e",
-        "title": "Rouen : des antifas font taire un élu RN en plein conseil municipal, des élus de gauche applaudissent",
-        "link": "https://www.lejdd.fr/politique/rouen-des-antifas-font-taire-un-elu-rn-en-plein-conseil-municipal-des-elus-de-gauche-applaudissent-189240",
-        "summary": "Alors qu’il évoquait l’agression de jeunes catholiques survenue début novembre à Rouen, l’élu RN Grégoire Houdan a été interrompu jeudi 19 novembre par des militants antifascistes. Plusieurs élus ont applaudi les slogans, avant que trois conseillers RN quittent la séance.",
-        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/21/12/080_hl_tgrimbert_1549143.jpg?VersionId=hf8uXbAhX8_h6EvA0SyfMmJgjppDwkL4",
-        "publishedAt": "2026-11-21T11:30:48.000Z",
-        "source": "Le JDD",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 2
-      },
-      {
-        "id": "a81c8978ec9",
-        "title": "Quatre mois après le mégafeu au Porge, \"il y a énormément de douleur\" parmi les habitants, souligne le maire Martial Zaninetti",
-        "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/quatre-mois-apres-le-megafeu-au-porge-il-y-a-enormement-de-douleur-parmi-les-habitants-souligne-le-maire-martial-zaninetti_8293673.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "Entre attentes interminables, incertitudes sur les indemnisations et difficultés à se projeter dans l'avenir, les sinistrés du Porge, en Gironde, peinent à tourner la page. Le maire de la commune, Martial Zaninetti, témoigne de la détresse grandissante des habitants : \"Ça craque un petit peu de part",
-        "image": "https://www.franceinfo.fr/pictures/q1a-1Fmiz0D9kQ-fIeJcmvr8jpU/0x0:6906x3884/432x243/filters:format(jpg)/2026/09/16/6aaa3e241fe41109239412.jpg",
-        "publishedAt": "2026-11-21T11:25:29.000Z",
-        "source": "franceinfo",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 0
-      },
-      {
-        "id": "ab4fd6ba05c",
-        "title": "Pas-de-Calais : routes et maisons inondées, 800 personnes évacuées",
-        "link": "https://www.la-croix.com/pas-de-calais-routes-et-maisons-inondees-la-pluie-devrait-diminuer-20261120",
-        "summary": "Près de 800 personnes ont été évacuées depuis jeudi 19 novembre dans le Pas-de-Calais en raison d’inondations après de fortes pluies ces derniers jours.",
-        "image": "https://i.la-croix.com/x/2026/11/20/2594623-inondation-a-raye-sur-authie-dans-le-pas-de-calais.jpg",
-        "publishedAt": "2026-11-21T11:25:01.000Z",
+        "id": "ab09f1b4bc7",
+        "title": "Puis-je obliger un parent âgé à arrêter de conduire ?",
+        "link": "https://www.la-croix.com/societe/puis-je-obliger-un-parent-age-a-arreter-de-conduire-20261121",
+        "summary": "Quand les réflexes d’un parent vieillissant diminuent, ses enfants peuvent être tentés de lui demander de renoncer au volant. Mais jusqu’où peuvent-ils aller pour le protéger, lui et les autres, sans porter atteinte à sa liberté ?",
+        "image": "https://i.la-croix.com/x/2026/11/20/2592273-arreter-de-conduire-peut-s-apparenter-a-la-perte-d.jpg",
+        "publishedAt": "2026-11-21T16:01:38.000Z",
         "source": "La Croix",
         "lang": "fr",
         "country": "FR",
         "lean": 0.5
       },
       {
-        "id": "a5b4d6246c8",
-        "title": "Préfet soupçonné de fuites vers le RN : \"Il doit être mis à pied\", estime la députée écologiste Sandrine Rousseau",
-        "link": "https://www.franceinfo.fr/france/centre-val-de-loire/loiret/prefet-soupconne-de-fuites-vers-le-rn-il-doit-etre-mis-a-pied-estime-la-depute-ecologiste-sandrine-rousseau_8293574.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "Sandrine Rousseau appelle le ministre de l'Intérieur Laurent Nuñez à mettre à pied “immédiatement” le préfet du Loiret Hugues Moutouh, accusé d’avoir organisé des fuites depuis le ministère de l’Intérieur vers le Rassemblement national. La députée écologiste était l’invitée de franceinfo, samedi 21 ",
-        "image": "https://www.franceinfo.fr/pictures/kyBKhRSt4s2i12XMm0ycHZhei7Y/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/21/6b01697299033851356226.png",
-        "publishedAt": "2026-11-21T09:51:44.000Z",
+        "id": "a73b677561a",
+        "title": "Olivier Maulin : « Les voleurs de feu »",
+        "link": "https://www.valeursactuelles.com/clubvaleurs/culture/olivier-maulin-les-voleurs-de-feu",
+        "summary": "La nouvelle est tombée avec les premiers frimas de novembre : l’interdiction des feux de cheminée. Elle concerne 657 communes réparties sur six départements. Dans ces communes, depuis le 1er novembre, vous... L’article Olivier Maulin : « Les voleurs de feu » est apparu en premier sur Valeurs actuell",
+        "image": null,
+        "publishedAt": "2026-11-21T16:00:18.000Z",
+        "source": "Valeurs actuelles",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
+      },
+      {
+        "id": "a26262dee7f",
+        "title": "Nicolas Baverez : « L’ultra violence, arme de destruction massive de la démocratie »",
+        "link": "https://www.lefigaro.fr/vox/societe/nicolas-baverez-l-ultra-violence-arme-de-destruction-massive-de-la-democratie-20261121",
+        "summary": "CHRONIQUE - Depuis le 17 octobre, l’ultra violence s’est installée en France comme un régime permanent et elle ne cesse de gagner du terrain. Il est de notre responsabilité de l’éradiquer maintenant, avant qu’il ne soit trop tard.",
+        "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/20/6858784aae4cd9376fd702fff6362233174bce0bdc1cb041bf8a6cca3a702e22.jpg",
+        "publishedAt": "2026-11-21T16:00:00.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "a0cf8f44a48",
+        "title": "L’Europe et les pourparlers sur l’Ukraine",
+        "link": "https://www.humanite.fr/monde/la-chronique-de-francis-wurtz/leurope-et-les-pourparlers-sur-lukraine",
+        "summary": "La nature a horreur du vide, la diplomatie aussi. À force de ne prendre aucune initiative significative en faveur de dialogues exploratoires avec la Russie sur les conditions d’un règlement du conflit et de l’établissement d’une paix durable en Ukraine, les dirigeants européens se sont condamnés à s",
+        "image": "https://www.humanite.fr/wp-content/uploads/2024/10/Vignette-chroniqueur-francis-wurtz.png?w=1200",
+        "publishedAt": "2026-11-21T15:59:00.000Z",
+        "source": "L'Humanité",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -2
+      },
+      {
+        "id": "ae17d6daee1",
+        "title": "Mort de Quentin Deranque : Mélenchon défend les antifas, dénonce un «traquenard» et accuse la police de «complicité»",
+        "link": "https://www.lejdd.fr/politique/mort-de-quentin-deranque-melenchon-defend-les-antifas-denonce-un-traquenard-et-accuse-la-police-de-complicite-189282",
+        "summary": "Lors d’une conférence à Sciences Po, Jean-Luc Mélenchon a présenté les militants antifascistes impliqués dans l’affaire Quentin Deranque comme les victimes d’un « traquenard ». Le candidat LFI a également mis en cause la « passivité » des policiers présents à Lyon le 12 février.",
+        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/21/16/068_aa_20112026_3054706.jpg?VersionId=z8quz60RRf4ey5gjf68qu8pZm0gCVh8b",
+        "publishedAt": "2026-11-21T15:54:43.000Z",
+        "source": "Le JDD",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
+      },
+      {
+        "id": "a3a660a4213",
+        "title": "Cargo échoué dans les Landes : une course contre la montre pour remorquer le navire",
+        "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/cargo-echoue-dans-les-landes-course-contre-la-montre-pour-remorquer-le-navire_8293757.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Le cargo battant pavillon maltais qui s'est échoué dans la nuit du jeudi 19 au vendredi 20 novembre sur la côte landaise pourrait s'ensabler davantage sur la plage, sous l'effet de la houle. Comment le remettre à flot quand les conditions météo restent difficiles ? Explications.",
+        "image": "https://www.franceinfo.fr/pictures/aMNoeN-TNJ6s8lQMJIVdjlsJkGA/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/21/6b019c870a54c986604571.jpg",
+        "publishedAt": "2026-11-21T15:25:46.000Z",
         "source": "franceinfo",
         "lang": "fr",
         "country": "FR",
         "lean": 0
+      },
+      {
+        "id": "ae9cf183810",
+        "title": "\"On en a ras le bol, depuis 2023\" : la détresse des habitants après de nouvelles inondations dans le Pas-de-Calais",
+        "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/ca-commence-a-bien-faire-la-detresse-des-habitants-apres-les-nouvelles-inondations-dans-le-pas-de-calais_8293751.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "De nouvelles inondations ont touché les Hauts-de-France et des centaines de foyers sont privés d’électricité, samedi 21 novembre. Dans le Pas-de-Calais, le niveau de la Canche a atteint des records après de fortes pluies, provoquant en quelques jours près de 800 évacuations, dans un territoire déjà ",
+        "image": "https://www.franceinfo.fr/pictures/oSXQqv8tYsWFGXdcZ-8PFtvh2j4/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/21/6b01982872b7d962641502.jpg",
+        "publishedAt": "2026-11-21T15:21:19.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "af9a5bfcd53",
+        "title": "«On ne pouvait pas rater ça» : à Val Thorens, la ruée des premiers skieurs",
+        "link": "https://www.lefigaro.fr/voyages/on-ne-pouvait-pas-rater-ca-a-val-thorens-la-ruee-des-premiers-skieurs-20261121",
+        "summary": "REPORTAGE- Il pleuvait encore il y a cinq jours. La plus haute station d’Europe a ouvert sa saison ce samedi avec des dizaines de centimètres de neige sous les skis et un ciel bleu. 14 000 skieurs sont attendus.",
+        "image": "https://i.f1g.fr/media/cms/1366x768_crop/2026/11/21/20f5fbda9d810806b0c458ba67a1dc3e8eb08b2d4dc85c456969f1bdfa725d14.jpg",
+        "publishedAt": "2026-11-21T15:00:20.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "a8ad50f4c4d",
+        "title": "Au Sénégal, l’avenir incertain des installations des Jeux olympiques de la jeunesse",
+        "link": "https://www.lemonde.fr/afrique/article/2026/11/21/au-senegal-l-avenir-incertain-des-installations-des-jeux-olympiques-de-la-jeunesse_6814024_3212.html",
+        "summary": "La piscine olympique et le stade Iba-Mar-Diop ont été rénovés pour la compétition, qui s’est tenue à Dakar du 31 octobre au 13 novembre. Désormais, plusieurs acteurs espèrent en récupérer la gestion.",
+        "image": "https://img.lemde.fr/2026/11/10/997/0/7373/3686/644/322/60/0/4e50827_ftp-1-5eswt4g68zxt-2026-11-10t191827z-1858314846-rc22loarj3nv-rtrmadp-3-olympics-youth.JPG",
+        "publishedAt": "2026-11-21T15:00:08.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "ac5de623d06",
+        "title": "EN DIRECT, guerre en Ukraine : la Finlande soupçonne un hélicoptère russe d’être entré dans son espace aérien, quelques heures après une attaque au drone d’un cargo russe en mer Baltique",
+        "link": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-la-finlande-soupconne-un-helicoptere-russe-d-etre-entre-dans-son-espace-aerien-quelques-heures-apres-une-attaque-de-drone-sur-un-cargo-russe-en-mer-baltique_6810982_3210.html",
+        "summary": "« Cette violation présumée de l’espace aérien pourrait être liée à des opérations de sauvetage ou de surveillance menées à la suite des dommages subis par un navire cargo dans le golfe de Finlande », a déclaré le ministre de la défense finlandais, Antti Häkkänen.",
+        "image": "https://img.lemde.fr/2026/10/28/432/0/6144/3072/644/322/60/0/2f215db_ftp-1-508sred31mq3-2026-10-28t113715z-1529411193-rc2acoada6jl-rtrmadp-3-finland-italy.JPG",
+        "publishedAt": "2026-11-21T14:35:11.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
       }
     ],
     "monde": [
       {
-        "id": "ad865bd1d5d",
-        "title": "Italiens Ex-Polizeichef De Gennaro nimmt sich das Leben",
-        "link": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html",
-        "summary": "Gianni De Gennaro bekleidete lange Schlüsselpositionen im italienischen Sicherheitsapparat - sei es im Kampf gegen die Mafia, beim G8-Gipfel in Genua oder für die Geheimdienste. Kurz vor einer Gerichtsanhörung tötete er sich selbst.",
-        "image": "https://images.tagesschau.de/image/59680543-e758-4c86-b9bd-47eec3847061/AAABof4dVkI/AAABnSSvrFg/16x9-big/gennaro-100.jpg?width=1920",
-        "publishedAt": "2026-11-21T12:48:02.000Z",
+        "id": "a9c70e54b1d",
+        "title": "Dominic Hebestreit, ARD Istanbul, zzt. in Antalya, erklärt, warum es noch keine Abschlusserklärung beim Weltklimagipfel gibt",
+        "link": "https://www.tagesschau.de/video/video-1687608.html",
+        "summary": "Dominic Hebestreit, ARD Istanbul, zzt. in Antalya, erklärt, warum es noch keine Abschlusserklärung beim Weltklimagipfel gibt",
+        "image": "https://images.tagesschau.de/image/ddfb29c6-ddfe-4630-8494-b532435da563/AAABof8BBOY/AAABnSSvrFg/16x9-big/sendungsbild-1831024.jpg?width=1920",
+        "publishedAt": "2026-11-21T16:45:16.000Z",
         "source": "Tagesschau",
         "lang": "de",
         "country": "DE",
         "lean": 0
       },
       {
-        "id": "ab28eefa3bc",
-        "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
-        "link": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
-        "summary": "Thursday’s byelection in Castle Bromwich will be latest test for Nigel Farage’s party as rival eats into support Voters go to the polls in the village of Castle Bromwich in the West Midlands on Thursday in a little-noticed election that is the latest test for Reform at a time when it is particularly",
-        "image": "https://i.guim.co.uk/img/media/5bbda4f2586156f3b160d70e965e0e2422a855c8/49_0_1180_944/master/1180.jpg?width=140&quality=85&auto=format&fit=max&s=5597b4adf0622dba743b5691a82d09af",
-        "publishedAt": "2026-11-21T12:22:54.000Z",
-        "source": "The Guardian",
-        "lang": "en",
-        "country": "GB",
-        "lean": -1.5
-      },
-      {
-        "id": "a88af422b08",
-        "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-        "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-        "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f21c/live/2c923cc0-e5a2-11f1-b7d5-65d6a750eced.jpg",
-        "publishedAt": "2026-11-21T12:20:55.000Z",
-        "source": "BBC News",
-        "lang": "en",
-        "country": "GB",
-        "lean": 0
-      },
-      {
-        "id": "a3dcceb89a5",
-        "title": "Australia chase 188 to defeat England in thriller",
-        "link": "https://www.telegraph.co.uk/cricket/2026/11/21/australia-v-england-score-live-updates-first-t20-melbourne/",
-        "summary": "Australia chase 188 to defeat England in thriller",
-        "image": "https://www.telegraph.co.uk/content/dam/cricket/2026/11/21/TELEMMGLPICT000512481033_17952621582980_trans_NvBQzQNjv4BqD-CneZQuK89LeBDiREmPIR4y0K0bp5Ox97ErDISZdYI.jpeg",
-        "publishedAt": "2026-11-21T12:09:53.000Z",
+        "id": "a269b8b53ac",
+        "title": "England obliterate All Blacks in record win",
+        "link": "https://www.telegraph.co.uk/rugby-union/2026/11/21/england-new-zealand-live-nations-championship-score-latest/",
+        "summary": "England obliterate All Blacks in record win",
+        "image": "https://www.telegraph.co.uk/content/dam/rugby-union/2026/11/21/TELEMMGLPICT000512526311_17952777003010_trans_NvBQzQNjv4Bqx5uIciokEfXiBoDhNWFT6jxvq8FgaRwqKSlyxKaw2sw.jpeg",
+        "publishedAt": "2026-11-21T16:43:58.000Z",
         "source": "The Telegraph",
         "lang": "en",
         "country": "GB",
         "lean": 1.5
       },
       {
-        "id": "adb57003039",
-        "title": "Anthropic researcher uses AI to solve math's greatest riddle",
-        "link": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-rdf",
-        "summary": "The proposed breakthrough could reshape mathematical research, but still needs independent verification. It's the latest in a string of cases where AI has outpaced humans in solving famous maths problems.",
+        "id": "a3500af305e",
+        "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+        "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+        "summary": "Levent Alpöge says it took six weeks for him using the AI tool to solve the math problem involving prime numbers A mathematician at Anthropic is contending that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in ma",
+        "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f",
+        "publishedAt": "2026-11-21T16:39:49.000Z",
+        "source": "The Guardian",
+        "lang": "en",
+        "country": "GB",
+        "lean": -1.5
+      },
+      {
+        "id": "a45201d2fd3",
+        "title": "FBI reportedly investigating apparent hack of its criminal database",
+        "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+        "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+        "publishedAt": "2026-11-21T16:35:15.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      },
+      {
+        "id": "a4498becd68",
+        "title": "Wes Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+        "link": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d960/live/d9b714f0-e5bd-11f1-a094-5fdc692f3e33.jpg",
+        "publishedAt": "2026-11-21T16:16:29.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      },
+      {
+        "id": "aa1b6e93c17",
+        "title": "EU and Indonesia sign trade deal",
+        "link": "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-world-4025-rdf",
+        "summary": "A deal covering 730 million people promises lower tariffs and new investment opportunities as the European Union seeks to diversify trade ties amid growing global economic tensions.",
         "image": null,
-        "publishedAt": "2026-11-21T10:29:00.000Z",
+        "publishedAt": "2026-11-21T15:21:00.000Z",
         "source": "Deutsche Welle",
         "lang": "en",
         "country": "DE",
         "lean": 0
       },
       {
-        "id": "af7dd5bf06c",
-        "title": "Denmark says it thwarted 'Russian plot' to kill US-Ukrainian rapper",
-        "link": "https://news.sky.com/story/denmark-says-it-thwarted-russian-plot-to-kill-us-ukrainian-rapper-kyivstoner-13614604",
-        "summary": "Police thwarted a Russian plot to kill a US-Ukrainian rapper who was performing in Denmark, according to authorities.",
-        "image": "https://e3.365dm.com/26/11/1920x1080/skynews-rasmus-kieffer-kristensen_7412023.jpg?20261121053937",
-        "publishedAt": "2026-11-21T05:15:00.000Z",
+        "id": "a67cf5de1ff",
+        "title": "Suspected cartel leader 'El Chapo Isidro' from FBI most-wanted list captured in Mexico",
+        "link": "https://news.sky.com/story/suspected-cartel-leader-el-chapo-isidro-from-fbi-most-wanted-list-captured-in-mexico-13614689",
+        "summary": "Suspected cartel leader Fausto Isidro Meza Flores, known as El Chapo Isidro, has been captured.",
+        "image": "https://e3.365dm.com/26/11/1920x1080/skynews-fausto-isidro_7412275.png?20261121142327",
+        "publishedAt": "2026-11-21T13:34:00.000Z",
         "source": "Sky News",
         "lang": "en",
         "country": "GB",
@@ -1122,18 +1442,6 @@
         "lang": "en",
         "country": "GB",
         "lean": -1.5
-      },
-      {
-        "id": "aacf404f6e9",
-        "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-        "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-        "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
-        "publishedAt": "2026-11-21T02:09:46.000Z",
-        "source": "BBC News",
-        "lang": "en",
-        "country": "GB",
-        "lean": 0
       }
     ]
   },
@@ -1232,13 +1540,13 @@
       "name": "The Telegraph (GB)",
       "url": "https://www.telegraph.co.uk/rss.xml",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "name": "Sky News (GB)",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 3
+      "count": 4
     },
     {
       "name": "Deutsche Welle (DE)",
@@ -1274,7 +1582,7 @@
       "name": "The Washington Post (US)",
       "url": "https://feeds.washingtonpost.com/rss/world",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "name": "The Wall Street Journal (US)",
@@ -1286,7 +1594,7 @@
       "name": "Fox News (US)",
       "url": "https://moxie.foxnews.com/google-publisher/world.xml",
       "ok": true,
-      "count": 3
+      "count": 6
     },
     {
       "name": "Politico Europe (BE)",
