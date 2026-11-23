@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-22T21:17:17.221Z",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T15:16:24.310Z",
   "status": "partielle",
   "stories": {
     "france": [
@@ -1188,190 +1188,262 @@
   },
   "storiesAt": "2026-11-22T21:17:16.073Z",
   "inputHash": "610ddd50afd3433b5cb70585e022868cbc473038",
-  "synthStatus": "ok",
+  "synthStatus": "absente",
   "news": {
     "france": [
       {
-        "id": "aaa8654e3c5",
-        "title": "Championnat des nations. Thomas Ramos dans le groupe des 42 pour la finale, Grandidier-Nkanang forfait 6 à 8 semaines",
-        "link": "https://www.ouest-france.fr/sport/rugby/championnat-des-nations/championnat-des-nations-thomas-ramos-dans-le-groupe-des-42-pour-la-finale-grandidier-nkanang-forfait-6-a-8-semaines-1a769692-e685-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-        "summary": "Un deuxième retour de taille pour le XV de France. Après le retour de Matthieu Jalibert la semaine dernière, Thomas Ramos, blessé depuis fin septembre, a été appelé par Fabien Galthié pour préparer la finale du Championnat des nations face à l’Afrique du Sud. Aaron Grandidier-Nkanang, blessé à la ch",
-        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExMzJjOTI5YjhjMDE4ODMyNjQyNzBlOGRhM2QyMzkxZmQ?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=5cfa8153c1f968adaa8bbdb9d8a12cda09e6ef0a65a5ade87001d3c6a4cf65de",
-        "publishedAt": "2026-11-22T21:02:26.000Z",
+        "id": "a7a28347417",
+        "title": "« Les tirs, c’était un peu trop compliqué » : quand les pensionnaires d’une résidence seniors testent GTA VI",
+        "link": "https://www.ouest-france.fr/gaming/jeux-video/les-tirs-cetait-un-peu-trop-complique-quand-les-pensionnaires-dune-residence-seniors-testent-gta-vi-22b670c4-e74e-11f1-b9ed-164c427aef07?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Vendredi 20 novembre, le lendemain de la sortie mondiale de GTA VI, une dizaine de résidents d’une résidence pour seniors à Serris (Seine-et-Marne) ont découvert le jeu vidéo lors d’un atelier proposé par l’équipe d’animation. Les joueurs seniors ont apprécié le décor ultra-réaliste.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExMTQyN2UyMGEyN2ZkMWIxY2E5MTRiZjNhNTk2ZmMzYjQ?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=ccc649bc1e8f6bc4c72ab506902450809d0010d483675b4484703750fa146b22",
+        "publishedAt": "2026-11-23T15:04:14.000Z",
         "source": "Ouest-France",
         "lang": "fr",
         "country": "FR",
         "lean": 0
       },
       {
-        "id": "a29f2525ca0",
-        "title": "« Profession dealer » : immersion dans le business de la cocaïne",
-        "link": "https://www.valeursactuelles.com/societe/profession-dealer-immersion-dans-le-business-de-la-cocaine",
-        "summary": "Pendant plus d’un an, le journaliste Alexandre Massé du Bois a partagé le quotidien d’un trafiquant de cocaïne. Dans son livre Profession dealer, publié aux éditions Tallandier, il raconte les... L’article « Profession dealer » : immersion dans le business de la cocaïne est apparu en premier sur Val",
-        "image": null,
-        "publishedAt": "2026-11-22T21:00:43.000Z",
+        "id": "a355d38aa1f",
+        "title": "« La police a le droit de nous tuer » : des militants LFI transforment l’hémicycle de l’Assemblée en studio de propagande",
+        "link": "https://www.valeursactuelles.com/politique/la-police-a-le-droit-de-nous-tuer-des-militants-lfi-transforment-lhemicycle-de-lassemblee-en-studio-de-propagande",
+        "summary": "« La police aujourd’hui a le droit de nous tuer sans conséquences. » Dans une mise en scène bien rodée, postée sur les réseaux dimanche 22 novembre, un petit groupe... L’article « La police a le droit de nous tuer » : des militants LFI transforment l’hémicycle de l&rsquo;Assemblée en studio de propa",
+        "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f534.png",
+        "publishedAt": "2026-11-23T15:02:49.000Z",
         "source": "Valeurs actuelles",
         "lang": "fr",
         "country": "FR",
         "lean": 2
       },
       {
-        "id": "af519df3233",
-        "title": "Chauffage connecté : une seconde jeunesse pour vos radiateurs",
-        "link": "https://www.lefigaro.fr/style/chauffage-connecte-une-seconde-jeunesse-pour-vos-radiateurs-20261122",
-        "summary": "DÉCRYPTAGE - Sans travaux ni remplacement de matériel, il est possible de piloter à distance de vieux convecteurs. À la clé : confort et économie d’énergie.",
-        "image": "https://i.f1g.fr/media/cms/2043x1149_crop/2026/11/22/10a648c637958a8ca2fe86bffbf2f039ccbe291dae395be24b1d97f94687d3e8.png",
-        "publishedAt": "2026-11-22T20:45:00.000Z",
-        "source": "Le Figaro",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 1.5
-      },
-      {
-        "id": "a84a07bb791",
-        "title": "Présidentielle 2027 : pour David Lisnard, une primaire sans Édouard Philippe n’aurait « aucun sens »",
-        "link": "https://www.lefigaro.fr/elections/presidentielles/primaires-droite/presidentielle-2027-pour-david-lisnard-une-primaire-sans-edouard-philippe-n-aurait-aucun-sens-20261122",
-        "summary": "Invité dimanche du « Grand Oral 2027 BFMTV-Le Figaro », le candidat Nouvelle Énergie à l’Élysée, porté par sa percée dans les sondages, pose ses conditions à une primaire.",
-        "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/22/4829ba46dcf7bef21682e028c9cedb6967c7616597b77690ac6c610d3e0592c2.jpg",
-        "publishedAt": "2026-11-22T20:34:01.000Z",
-        "source": "Le Figaro",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 1.5
-      },
-      {
-        "id": "a426f4ff692",
-        "title": "Cargo échoué dans les Landes : y a-t-il eu une faute de l’armateur ?",
-        "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/cargo-echoue-dans-les-landes-y-a-t-il-eu-une-faute-de-l-armateur_8295194.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "\"Le cargo échoué sur cette plage du littoral landais n’aurait jamais dû prendre la mer.\" C’est la déclaration de la ministre de la Mer Catherine Chabaud qui pointe du doigt l’armateur du navire, dimanche 22 novembre. La veille, 11 personnes ont été hélitreuillées avant la nuit en raison des conditio",
-        "image": "https://www.franceinfo.fr/pictures/hXErYWokOcsNi_70KwFr6ERPqRI/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/22/6b034e5b726be342054289.jpg",
-        "publishedAt": "2026-11-22T20:32:15.000Z",
-        "source": "franceinfo",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 0
-      },
-      {
-        "id": "aeeff10aea5",
-        "title": "A Istanbul, des milliers de manifestants ont dénoncé la mise sous tutelle des médias d’opposition par l’Etat",
-        "link": "https://www.lemonde.fr/international/article/2026/11/22/a-istanbul-des-milliers-de-manifestants-ont-denonce-la-mise-sous-tutelle-des-medias-d-opposition-par-l-etat_6814246_3210.html",
-        "summary": "La manifestation a été organisée à l’appel du principal parti d’opposition de Turquie, le Yeni Parti (« Nouveau Parti »), après que la chaîne d’opposition Sözcü TV a vu ses bureaux perquisitionnés, mardi, plusieurs de ses dirigeants arrêtés, et un administrateur nommé à sa tête par le gouvernement.",
-        "image": "https://img.lemde.fr/2026/11/22/595/0/7139/3569/644/322/60/0/3ecba48_ftp-1-i7iju2pvczlw-eed39ca9b2cf4a67b7f3d83491136759-0-b58c13f204ca408f84096f6af835b14f.jpg",
-        "publishedAt": "2026-11-22T19:58:35.000Z",
-        "source": "Le Monde",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1
-      },
-      {
-        "id": "aeefd945271",
-        "title": "«Une COP de l’abandon» : en Turquie, les Etats échouent à s’entendre sur un accord et à sortir des énergies fossiles",
-        "link": "https://www.liberation.fr/environnement/climat/cop31-la-france-denonce-un-projet-de-texte-qui-nous-ramenerait-en-arriere-sans-sortie-des-energies-fossiles-20261122_OLT6XUDZDFFKNBW754OHFUAAOU/",
-        "summary": "Après deux semaines de négociations, la conférence de l’ONU sur le climat s’est officiellement terminée ce dimanche, à Antalya, sans adopter un projet de décision finale qui omettait le pétrole, le gaz et le charbon. L’obstruction de l’Arabie saoudite et de la Russie sur le sujet a conduit les Europ",
-        "image": null,
-        "publishedAt": "2026-11-22T19:25:03.000Z",
-        "source": "Libération",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1.5
-      },
-      {
-        "id": "a6ba36dd35d",
-        "title": "A la COP31, la communauté internationale s’est fracturée sur la sortie des énergies fossiles et le financement de l’adaptation",
-        "link": "https://www.lemonde.fr/planete/article/2026/11/22/a-la-cop31-la-communaute-internationale-sort-dechiree-face-au-manque-d-ambition-sur-la-sortie-des-energies-fossiles-et-les-transferts-financiers_6814242_3244.html",
-        "summary": "Le sommet mondial sur le climat s’est achevé dimanche sans décision finale. La volonté de ne pas faire figurer la sortie des combustibles fossiles dans le texte et l’absence d’engagement à financer l’adaptation des pays du Sud au réchauffement sont en cause.",
-        "image": "https://img.lemde.fr/2026/11/22/58/0/2278/1139/644/322/60/0/fbea2a7_ftp-1-bdaf97jsqzbc-57411e6726b849d9b1e218144a872fde-0-ba16f37da3ba4f61a533ba75f2833014.jpg",
-        "publishedAt": "2026-11-22T19:08:00.000Z",
-        "source": "Le Monde",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1
-      },
-      {
-        "id": "a922f6bea2d",
-        "title": "Des propos sexistes, racistes et des saluts nazis tenus dans une école de police, la justice saisie",
-        "link": "https://www.liberation.fr/societe/police-justice/des-propos-sexistes-racistes-et-des-saluts-nazis-tenus-dans-une-ecole-de-police-la-justice-saisie-20261122_AMKVEJWKMBDG5OJKLCQHK5V47A/",
-        "summary": "Selon une enquête du «Parisien», des futurs officiers de la 31e promotion de l’école nationale supérieure de la police ont tenu des propos graves dans des groupes de discussion. Alertée, l’école n’a pris aucune sanction.",
-        "image": null,
-        "publishedAt": "2026-11-22T18:56:04.000Z",
-        "source": "Libération",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1.5
-      },
-      {
-        "id": "ae69b4c6627",
-        "title": "TK Accelis Plastics : après avoir échappé à un fonds vautour, les salariés se battent pour des conditions de licenciement dignes",
-        "link": "https://www.humanite.fr/social-et-economie/capital-vs-travail/tk-accelis-plastics-apres-avoir-echappe-a-un-fonds-vautour-les-salaries-se-battent-pour-des-conditions-de-licenciement-dignes",
-        "summary": "Grâce à leur mobilisation, les 77 salariés de TK Accelis Plastic, filiale de Thyssenkrupp, sont parvenus à éviter leur vente au fonds de retournement Mutares. Ils se battent désormais pour des conditions de licenciement dignes.",
-        "image": "https://www.humanite.fr/wp-content/uploads/2026/11/unnamed-file.jpg?w=1200",
-        "publishedAt": "2026-11-22T18:34:12.000Z",
+        "id": "a729056d6c4",
+        "title": "Inscription de la « règle d’or » dans la Constitution : pourquoi c’est un braquage démocratique",
+        "link": "https://www.humanite.fr/politique/budget-2027/inscription-de-la-regle-dor-dans-la-constitution-pourquoi-cest-un-braquage-democratique",
+        "summary": "À quoi bon glisser un bulletin dans l’urne si les élus n’ont plus le pouvoir de trancher un budget ? Tel serait pourtant l’effet immédiat de cette pseudo-« règle d’or » inscrite dans la Constitution. Sous couvert de sérieux gestionnaire, un verrouillage de la politique économique pour des décennies.",
+        "image": "https://www.humanite.fr/wp-content/uploads/2024/02/Vignette_2024_editorial_stephane.png?w=1200",
+        "publishedAt": "2026-11-23T15:02:16.000Z",
         "source": "L'Humanité",
         "lang": "fr",
         "country": "FR",
         "lean": -2
       },
       {
-        "id": "acd3712ccb8",
-        "title": "Les archives du JDD : Romain Gary, la plus belle supercherie du Goncourt",
-        "link": "https://www.lejdd.fr/culture/les-archives-du-jdd-romain-gary-la-plus-belle-supercherie-du-goncourt-189405",
-        "summary": "Le 22 novembre 1975, le Goncourt couronne Émile Ajar, un inconnu dont tout le monde cherche à percer l'identité. Pour échapper à sa propre notoriété, Romain Gary avait inventé son double. Dans ses archives, le JDD retrace la naissance d'un mythe.",
-        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/22/18/23-novembre-1975_master.jpg?VersionId=ikyZ7nWZyhSA2s1mWTwQ_6dpNhP9oyxG",
-        "publishedAt": "2026-11-22T17:49:01.000Z",
-        "source": "Le JDD",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 2
-      },
-      {
-        "id": "a8303d1a5cf",
-        "title": "Face aux houthistes et à la Chine, les Etats-Unis lorgnent sur une base militaire émiratie au Somaliland",
-        "link": "https://www.lexpress.fr/monde/afrique/face-aux-houthistes-et-a-la-chine-les-etats-unis-lorgnent-sur-une-base-militaire-emiratie-au-TY55NMEHFZGKTD4KIB5CI34HYE/",
-        "summary": "",
-        "image": "https://www.lexpress.fr/resizer/v2/MGXDG22ZF5FPFNPNNVNPLUJX4E.JPG?auth=0db05a207778892b421eb1498a7b1cdc49c466674f3b6583d1547ccbce96185c&smart=true&width=3000&height=2003",
-        "publishedAt": "2026-11-22T17:04:10.000Z",
-        "source": "L'Express",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 1
-      },
-      {
-        "id": "afce607b3e1",
-        "title": "Coup de tonnerre au pays des maths : l’hypothèse de Riemann aurait été résolue",
-        "link": "https://www.la-croix.com/societe/coup-de-tonnerre-au-pays-des-maths-l-hypothese-de-riemann-aurait-ete-resolue-20261122",
-        "summary": "Le « roi » des problèmes mathématiques a-t-il trouvé sa solution ? Un chercheur turco-américain a affirmé vendredi 20 novembre 2026 avoir résolu l’hypothèse de Riemann assisté de l’intelligence artificielle d’Anthropic. Une annonce spectaculaire, dont la démonstration en 250 000 pages doit encore êt",
-        "image": "https://i.la-croix.com/x/2026/11/22/2595907-guide-par-le-chercheur-levent-alpoge-pour-resoudre.jpeg",
-        "publishedAt": "2026-11-22T16:56:40.000Z",
+        "id": "a5f0f5ba513",
+        "title": "Scandale Nvidia : Jensen Huang réintégré à la tête du géant américain des puces électroniques",
+        "link": "https://www.la-croix.com/economie/scandale-nvidia-jensen-huang-reintegre-a-la-tete-du-geant-americain-des-puces-electroniques-20261123",
+        "summary": "Le feuilleton Nvidia connaît un rebondissement majeur : lundi 23 novembre, à New York, Jensen Huang a été réintégré à la direction du géant des puces, dix jours après un scandale mêlant adultère, espionnage et contrebande qui avait provoqué sa démission.",
+        "image": "https://i.la-croix.com/x/2026/11/23/2596704-dix-jours-apres-sa-demission-liee-a-un-scandale-d-.jpg",
+        "publishedAt": "2026-11-23T15:02:12.000Z",
         "source": "La Croix",
         "lang": "fr",
         "country": "FR",
         "lean": 0.5
       },
       {
-        "id": "a8bd231ef14",
-        "title": "La châtaigne, trésor de l'automne, célébrée à Cagnes-sur-Mer",
-        "link": "https://www.franceinfo.fr/culture/la-chataigne-tresor-de-l-automne-celebree-a-cagnes-sur-mer_8294948.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "Direction les Alpes-Maritimes pour une halte dans les rues de Cagnes-sur-Mer, afin de célébrer la châtaigne. Chaque année le temps d’un dimanche, les producteurs de ce fruit automnal quittent les montagnes pour gagner la côte et le faire déguster aux amateurs.",
-        "image": "https://www.franceinfo.fr/pictures/5dPUB5fN_4SEo1-q_jFROKcopU8/0x68:1790x1075/432x243/filters:format(jpg)/2026/11/22/6b03041b91e49987056854.png",
-        "publishedAt": "2026-11-22T15:03:23.000Z",
+        "id": "a66d037de32",
+        "title": "\"C'était une piscine, totalement\" : le maire d'une commune de l'Hérault touchée par les inondations envisage d'interdire les parkings souterrains",
+        "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/c-etait-une-piscine-totalement-le-maire-d-une-commune-de-l-herault-touchee-par-les-inondations-envisage-d-interdire-les-parkings-souterrains_8296178.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "À Baillargues, près de Montpellier, des parkings se retrouvent littéralement sous l'eau et pourraient menacer les fondations de plusieurs immeubles. Après les fortes pluies des derniers mois, l'eau ne parvient pas à s'évacuer malgré les opérations de pompage, ce qui pose la question de l'interdictio",
+        "image": "https://www.franceinfo.fr/pictures/6NzwCYv2kH5CgXZ0ZksC8xG85Ms/0x76:1486x911/432x243/filters:format(jpg)/2026/11/23/6b044cf77a623958513324.png",
+        "publishedAt": "2026-11-23T15:01:45.000Z",
         "source": "franceinfo",
         "lang": "fr",
         "country": "FR",
         "lean": 0
+      },
+      {
+        "id": "a36db9938a9",
+        "title": "\"Jean-Luc Mélenchon n’a pas réalisé que la Russie est un pays fasciste\" : Hugo Havard, un écologiste français sur le front ukrainien",
+        "link": "https://www.lexpress.fr/france/jean-luc-melenchon-na-pas-realise-que-la-russie-est-un-pays-fasciste-hugo-havard-un-ecologiste-WPDQ4SGNUZBAZJZ3VYOHWVNYKU/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/QBLJUJ56YJBBDBSPOE66EVSSMY.jpeg?auth=17b65647f43ee71c954e24df7335bb473be0533a514090c9671dad38eb3c0f72&smart=true&width=1200&height=1600",
+        "publishedAt": "2026-11-23T15:00:00.000Z",
+        "source": "L'Express",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1
+      },
+      {
+        "id": "ae0b568e79b",
+        "title": "TCL 189 cm à 1 390 euros pendant le Black Friday",
+        "link": "https://www.lefigaro.fr/bons-plans/high-tech/tcl-189-cm-a-1-390-euros-pendant-le-black-friday-20261123",
+        "summary": "1 390 euros au lieu de 1 799 euros chez Son-Video.com, soit 409 euros d’économie, c’est-à-dire presque 23 %. C’est le prix actuellement pratiqué sur le 75 4K, avec rétroéclairage RGB Mini LED.",
+        "image": "https://i.f1g.fr/media/cms/1600x1200_crop/2026/11/23/75b85afa398d5bc720bf2d04553ac6799cd1d7c38eae2c1e5871371c287b2075.png",
+        "publishedAt": "2026-11-23T14:54:15.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "a416271e287",
+        "title": "De l’importance de retrouver le chemin de l’école",
+        "link": "https://www.lejdd.fr/Societe/de-limportance-de-retrouver-le-chemin-de-lecole-189462",
+        "summary": "TRIBUNE. Alors que la mobilisation lycéenne se prolonge en France, l’enseignant Maxime Scotti et les élus David Perre et Marie-Carole Ciuntu rappellent le rôle fondamental de l’école républicaine, lieu d’émancipation, d’égalité et de fraternité.",
+        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/23/12/sipa_01317206_000030.jpg?VersionId=1pyLtCGAcFoCoqxSEDVwy6krw.AbvKUl",
+        "publishedAt": "2026-11-23T14:48:32.000Z",
+        "source": "Le JDD",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
+      },
+      {
+        "id": "afdfe9d3f11",
+        "title": "«Types cagoulés tirant au mortier» liés au député Louis Boyard : le ministre Jeanbrun incapable d’étayer ses accusations",
+        "link": "https://www.liberation.fr/checknews/types-cagoules-tirant-au-mortier-lies-au-depute-louis-boyard-le-ministre-jeanbrun-incapable-detayer-ses-accusations-20261123_E5U2S2BR4VGFRFRS4NRR56JB2M/",
+        "summary": "Le 22 novembre sur CNews, le ministre du Logement laissait entendre que l’élu insoumis était rattaché à «des types cagoulés [tirant] au mortier sur les forces de l’ordre». Interrogé par «CheckNews», son cabinet n’a fourni aucun élément de preuve sérieux.",
+        "image": null,
+        "publishedAt": "2026-11-23T14:39:11.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "acc72354a84",
+        "title": "Vol de plus de 200 carpes koï dans l'Oise : quatre suspects devant le tribunal ce lundi",
+        "link": "https://www.franceinfo.fr/faits-divers/vol-de-plus-de-200-carpes-koi-dans-l-oise-quatre-suspects-devant-le-tribunal-ce-lundi_8296166.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Le procès des voleurs de poissons chez un pisciculteur s'ouvre ce lundi 23 novembre. Quatre personnes sont jugées devant le tribunal correctionnel pour avoir dérobé 230 carpes koï, une espèce particulièrement chère, célèbre pour ses motifs colorés. Les suspects ont vidé les bassins en quelques heure",
+        "image": "https://www.franceinfo.fr/pictures/dIs_4Y2-27wxTUBL3Py_N42NA84/0x39:1390x820/432x243/filters:format(jpg)/2026/11/23/6b044aaab6bd0783718150.png",
+        "publishedAt": "2026-11-23T14:38:50.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "aec2a46591b",
+        "title": "Grand Paris Express : Valérie Pécresse juge « très compromise » la mise en service de la ligne 18 avant la fin de l’année",
+        "link": "https://www.lemonde.fr/economie/article/2026/11/23/grand-paris-express-valerie-pecresse-juge-tres-compromise-la-mise-en-service-de-la-ligne-18-avant-la-fin-de-l-annee_6814396_3234.html",
+        "summary": "Le lancement du premier tronçon du vaste réseau de transport francilien a été reporté à de multiples reprises. La présidente de la région Ile-de-France met en cause Alstom et son logiciel d’automatisation, alors que « les deux mois de marche à blanc » nécessaires avant le déploiement de la ligne 18 ",
+        "image": "https://img.lemde.fr/2026/11/23/624/0/7490/3745/644/322/60/0/0115d18_upload-1-zvp7y4b7viit-000-c7dr97x.jpg",
+        "publishedAt": "2026-11-23T14:35:20.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "a349f2dc0dc",
+        "title": "«Tintin au Congo» : Teddy Riner porte plainte contre Emmanuelle Mignon",
+        "link": "https://www.liberation.fr/politique/elections/tintin-au-congo-teddy-riner-porte-plainte-contre-emmanuelle-mignon-20261123_VVC77KHMFJBHPHXYX3GTIT44XA/",
+        "summary": "Selon BFM TV, le judoka et candidat à la présidentielle 2027 réplique aux propos tenus par l’ex-collaboratrice de Nicolas Sarkozy sur France Inter mi-novembre après la visite de ce dernier dans un hôpital à Saint-Denis.",
+        "image": null,
+        "publishedAt": "2026-11-23T14:32:37.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "a30c5d8cfc9",
+        "title": "Goût pour la récupération, passion pour les marionnettes et le théâtre : André Derain, une âme d’enfant joueur mis à l’honneur à Troyes",
+        "link": "https://www.lefigaro.fr/arts-expositions/gout-pour-la-recuperation-passion-pour-les-marionnettes-et-le-theatre-andre-derain-une-ame-d-enfant-joueur-mis-a-l-honneur-a-troyes-20261123",
+        "summary": "CRITIQUE - Le musée d’art moderne riche de ses œuvres données par un couple d’amis compose un portrait excédant largement celui du pionnier du fauvisme et du cubisme.",
+        "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/23/762f633adf12b1a9de423671928b60d835d59e272ad2e562c55a642e6156f58f.jpg",
+        "publishedAt": "2026-11-23T14:30:00.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "a51b693fec7",
+        "title": "Jensen Huang réintégré à la tête de Nvidia par son conseil d’administration, deux semaines après avoir démissionné à la suite de soupçons d’espionnage chinois",
+        "link": "https://www.lemonde.fr/economie/article/2026/11/23/jensen-huang-reintegre-comme-directeur-general-et-president-de-nvidia-par-le-conseil-d-administration-deux-semaines-apres-avoir-demissionne-suite-a-des-suspicions-d-espionnage-chinois_6814392_3234.html",
+        "summary": "Ce coup de théâtre intervient après des appels répétés du président américain, Donald Trump, proche de Jensen Huang, à la réintégration de cette figure emblématique de la tech au sein de l’entreprise qu’il a cofondée.",
+        "image": "https://img.lemde.fr/2026/11/23/432/0/5184/2592/644/322/60/0/4f086c0_ftp-1-gxfgh7xfmfmy-afp-d8d42ke.jpg",
+        "publishedAt": "2026-11-23T14:21:52.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
       }
     ],
     "monde": [
       {
-        "id": "a83c8a30ff3",
-        "title": "Australian politics live: Chris Bowen ‘frustrated’ by climate summit; countdown to pass key legislation begins",
-        "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-        "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It",
-        "image": "https://i.guim.co.uk/img/media/c5a3bffdba2ed8e8cb3f5d37fd5bdeea4c2d3bb4/307_0_1578_1262/master/1578.jpg?width=140&quality=85&auto=format&fit=max&s=4205697338087fb1f75c358a0c620d0b",
-        "publishedAt": "2026-11-22T20:54:26.000Z",
+        "id": "af1abf2755a",
+        "title": "Former Tory PMs ‘can’t face up to their bad Brexit deal’, says Burnham – UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+        "summary": "Rishi Sunak joins other former Tory PMs in urging Burnham not to reopen the debate on Brexit In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and reindustrialisation commissioner. She said: Giving busines",
+        "image": "https://i.guim.co.uk/img/media/c1db663bc7667222692d12878f5578031da69604/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=02b596279ec0f6f7602a8d253e5d6d4d",
+        "publishedAt": "2026-11-23T14:54:07.000Z",
         "source": "The Guardian",
         "lang": "en",
         "country": "GB",
         "lean": -1.5
+      },
+      {
+        "id": "a2cb2f93d81",
+        "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+        "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+        "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/64308a00-e73d-11f1-802a-678be58471bb.jpg",
+        "publishedAt": "2026-11-23T14:54:03.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      },
+      {
+        "id": "ad7ae748c89",
+        "title": "Nepal's new PM eyes closer ties with India amid lingering disputes",
+        "link": "https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769?maca=en-rss-en-world-4025-rdf",
+        "summary": "On his first foreign bilateral visit, rapper-turned-Prime Minister Balendra Shah sought deeper ties with Nepal's neighbor and largest trading partner, while steering clear of sticky territorial issues.",
+        "image": null,
+        "publishedAt": "2026-11-23T14:49:00.000Z",
+        "source": "Deutsche Welle",
+        "lang": "en",
+        "country": "DE",
+        "lean": 0
+      },
+      {
+        "id": "ae82e201517",
+        "title": "Nvidia setzt Jensen Huang wieder als Chef ein",
+        "link": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html",
+        "summary": "Spekulationen gab es bereits, jetzt ist es offiziell: Jensen Huang kehrt an die Spitze des US-Techkonzerns Nvidia zurück. Er war erst vor wenigen Wochen wegen eines Spionageskandals zurückgetreten.",
+        "image": "https://images.tagesschau.de/image/9227b90e-589e-4066-b1ae-05b973ede96d/AAABogjTaHc/AAABnSSvrFg/16x9-big/huang-130.jpg?width=1920",
+        "publishedAt": "2026-11-23T14:47:43.000Z",
+        "source": "Tagesschau",
+        "lang": "de",
+        "country": "DE",
+        "lean": 0
+      },
+      {
+        "id": "a1baaa97b8a",
+        "title": "Flights and train services cancelled in Belgium due to strike",
+        "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+        "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg",
+        "publishedAt": "2026-11-23T13:34:02.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      },
+      {
+        "id": "ae3cd39164b",
+        "title": "Chamonix mayor plans tourist limits for Alpine beauty spot",
+        "link": "https://www.theguardian.com/world/2026/nov/23/chamonix-mayor-tourist-limits-lac-blanc",
+        "summary": "Rising numbers around Lac Blanc are having big impact on environment and on visitors’ enjoyment, mayor says In the Alpine town of Chamonix, most tourist paths lead to the national park with spectacular views across Mont Blanc and the shrinking blue glaciers . In the summer, up to 4,000 tourists a da",
+        "image": "https://i.guim.co.uk/img/media/a63093932f37c4332a8a079dc26007340f120f5d/317_0_2439_1952/master/2439.jpg?width=140&quality=85&auto=format&fit=max&s=b35b1b5d5fa85763fd86f5e14aeffac4",
+        "publishedAt": "2026-11-23T10:52:53.000Z",
+        "source": "The Guardian",
+        "lang": "en",
+        "country": "GB",
+        "lean": -1.5
+      },
+      {
+        "id": "a3bd0ec532c",
+        "title": "Deadly fire at confectionery factory kills 24 as rescuers search for dozens still missing",
+        "link": "https://news.sky.com/story/deadly-fire-at-confectionery-factory-in-indonesia-kills-24-as-rescuers-search-for-dozens-still-missing-13615577",
+        "summary": "A deadly fire that tore through a confectionery factory in Indonesia has claimed the lives of 24 people, with about 30 others still missing.",
+        "image": "https://e3.365dm.com/26/11/1920x1080/skynews-serang-indonesia_7414286.jpg?20261123105702",
+        "publishedAt": "2026-11-23T10:52:00.000Z",
+        "source": "Sky News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0.5
       },
       {
         "id": "a65652f914a",
@@ -1379,83 +1451,11 @@
         "link": "https://www.telegraph.co.uk/football/2026/11/22/liverpool-vs-man-utd-live-score-premier-league-updates/",
         "summary": "Any regrets, Mauricio? Man Utd are deep in relegation battle after Anfield farce",
         "image": "https://www.telegraph.co.uk/content/dam/football/2026/11/22/TELEMMGLPICT000512707498_17953755857400_trans_NvBQzQNjv4BqrX9bpVqKIdt7T4Fp1k1q_BORI5E1RUFI84RFC2giFj0.jpeg",
-        "publishedAt": "2026-11-22T20:49:44.000Z",
+        "publishedAt": "2026-11-23T09:59:41.000Z",
         "source": "The Telegraph",
         "lang": "en",
         "country": "GB",
         "lean": 1.5
-      },
-      {
-        "id": "a2b24000153",
-        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-        "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-        "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
-        "publishedAt": "2026-11-22T20:28:09.000Z",
-        "source": "BBC News",
-        "lang": "en",
-        "country": "GB",
-        "lean": 0
-      },
-      {
-        "id": "a3c6dbc4485",
-        "title": "Bremen schlägt den HSV im Nordderby klar",
-        "link": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
-        "summary": "Werder Bremen bleibt die Bundesliga-Überraschung. Mit einem deutlichen 4:0-Erfolg im Nordderby gegen den Hamburger SV halten die Grün-Weißen den Anschluss an die Spitzengruppe.",
-        "image": "https://images.sportschau.de/image/b26b1239-7079-4e4d-9c1e-9100a574f05a/AAABogRwCeU/AAABnSSvrFg/16x9-big/friedl-144.jpg?width=1920",
-        "publishedAt": "2026-11-22T20:07:14.000Z",
-        "source": "Tagesschau",
-        "lang": "de",
-        "country": "DE",
-        "lean": 0
-      },
-      {
-        "id": "ab5b81b0987",
-        "title": "What's next after no deal at COP31 climate talks?",
-        "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-        "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg",
-        "publishedAt": "2026-11-22T18:57:24.000Z",
-        "source": "BBC News",
-        "lang": "en",
-        "country": "GB",
-        "lean": 0
-      },
-      {
-        "id": "a274415e370",
-        "title": "Man who was lured to remote villa and held for 15 hours rescued after being tied up and beaten",
-        "link": "https://news.sky.com/story/man-rescued-after-being-lured-to-remote-villa-in-spain-where-he-was-held-for-15-hours-tied-up-and-beaten-13615282",
-        "summary": "A man has been rescued after he was lured to an isolated villa, held for 15 hours, tied to a chair, beaten, and threatened with death, police in Spain say.",
-        "image": "https://e3.365dm.com/26/11/1920x1080/skynews-civil-guard-montserrat_7413582.jpg?20261122164357",
-        "publishedAt": "2026-11-22T15:13:00.000Z",
-        "source": "Sky News",
-        "lang": "en",
-        "country": "GB",
-        "lean": 0.5
-      },
-      {
-        "id": "a14ed6f7de5",
-        "title": "China, ASEAN countries struggle over South China Sea code of conduct",
-        "link": "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799?maca=en-rss-en-world-4025-rdf",
-        "summary": "The Philippines wanted a South China Sea code of conduct in place by 2026. But persistent disagreements between China and ASEAN countries are slowing progress toward a deal.",
-        "image": null,
-        "publishedAt": "2026-11-22T08:45:00.000Z",
-        "source": "Deutsche Welle",
-        "lang": "en",
-        "country": "DE",
-        "lean": 0
-      },
-      {
-        "id": "a96eef9501f",
-        "title": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
-        "link": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
-        "summary": "As nationalist, Eurosceptic parties surge in four of the bloc’s biggest member states, the coming year’s polls could test its resilience like never before In late 1998, Tony Blair was prime minister of Britain, Lionel Jospin was prime minister of France, and Gerhard Schröder had just been elected ch",
-        "image": "https://i.guim.co.uk/img/media/f71c17905954a1100fc2d7a17e00406b3aee9c81/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9ac2ffd67f45ed0ebd10dc3084047d39",
-        "publishedAt": "2026-11-22T06:00:18.000Z",
-        "source": "The Guardian",
-        "lang": "en",
-        "country": "GB",
-        "lean": -1.5
       }
     ]
   },
@@ -1548,25 +1548,25 @@
       "name": "The Guardian (GB)",
       "url": "https://www.theguardian.com/world/france/rss",
       "ok": true,
-      "count": 1
+      "count": 4
     },
     {
       "name": "The Telegraph (GB)",
       "url": "https://www.telegraph.co.uk/rss.xml",
       "ok": true,
-      "count": 8
+      "count": 4
     },
     {
       "name": "Sky News (GB)",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 4
+      "count": 3
     },
     {
       "name": "Deutsche Welle (DE)",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "name": "Tagesschau (DE)",
@@ -1584,7 +1584,7 @@
       "name": "NPR (US)",
       "url": "https://feeds.npr.org/1004/rss.xml",
       "ok": true,
-      "count": 8
+      "count": 6
     },
     {
       "name": "The New York Times (US)",
@@ -1608,7 +1608,7 @@
       "name": "Fox News (US)",
       "url": "https://moxie.foxnews.com/google-publisher/world.xml",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "name": "Politico Europe (BE)",
@@ -1638,7 +1638,7 @@
       "name": "Daily Sabah (TR)",
       "url": "https://www.dailysabah.com/rssFeed/10",
       "ok": true,
-      "count": 3
+      "count": 8
     },
     {
       "name": "The Times of India (IN)",
@@ -1722,7 +1722,7 @@
       "name": "Jeune Afrique (FR)",
       "url": "https://www.jeuneafrique.com/feed/",
       "ok": true,
-      "count": 5
+      "count": 8
     }
   ],
   "meteo": {
@@ -1741,19 +1741,6 @@
     "sourceUrl": "https://www.prix-carburants.gouv.fr/rubrique/opendata/"
   },
   "culture": [
-    {
-      "title": "Océanissime Nantes 2026",
-      "discipline": "Peinture, gravure, photographie et sculpture",
-      "artist": "Seize membres de l’Académie des Arts et Sciences de la Mer",
-      "city": "Nantes",
-      "venue": "Maison de la Mer, 54 quai de la Fosse",
-      "start": "2026-11-07",
-      "end": "2026-11-22",
-      "details": "Plus de cent œuvres ; entrée gratuite. Horaires détaillés sur le site de Nantes Métropole.",
-      "source": "Nantes Métropole",
-      "sourceUrl": "https://metropole.nantes.fr/que-faire-a-nantes/agenda/45675254_exposition-oceanissime-nantes-2026",
-      "image": null
-    },
     {
       "title": "La figure de l’héroïne",
       "discipline": "Peinture et histoire de l’art",

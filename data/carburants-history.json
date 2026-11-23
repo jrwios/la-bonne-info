@@ -10,9 +10,20 @@
       "e85": 0.898,
       "gpl": 1.08,
       "stations": 9831
+    },
+    {
+      "week": "2026-11-23",
+      "measuredOn": "2026-11-23",
+      "gazole": 2.128,
+      "e10": 1.962,
+      "sp95": 2.03,
+      "sp98": 2.067,
+      "e85": 0.893,
+      "gpl": 1.081,
+      "stations": 9826
     }
   ],
-  "updated": "2026-11-16T08:47:19.455Z",
+  "updated": "2026-11-23T15:16:24.309Z",
   "scope": "France entière : moyenne des stations",
   "unit": "€/L",
   "source": "prix-carburants.gouv.fr",
