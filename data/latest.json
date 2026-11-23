@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "date": "2026-11-23",
-  "generatedAt": "2026-11-23T15:16:24.310Z",
+  "generatedAt": "2026-11-23T21:47:58.807Z",
   "status": "partielle",
   "stories": {
     "france": [
@@ -608,66 +608,228 @@
     ],
     "monde": [
       {
-        "id": "s6ba36dd35d",
-        "topic": "environnement",
-        "title": "Échec des négociations climat à la COP31 d'Antalya",
-        "context": "La 31e conférence des Nations unies sur le climat se tenait à Antalya, en Turquie. L'événement rassemble près de 200 pays pour définir la réponse globale au réchauffement climatique.",
-        "summary": "Les négociations de la COP31 se sont terminées sans l'adoption d'un accord final. La rupture des discussions s'est produite après le rejet par l'Union européenne, le Panama et d'autres nations d'un texte de compromis proposé par la présidence turque. L'absence de mention explicite concernant la sortie progressive des combustibles fossiles — comme le pétrole, le gaz et le charbon — constitue le point de blocage central, sous l'impulsion de plusieurs pays producteurs.",
-        "plain": "EN CLAIR : La réunion internationale sur le climat s'est terminée sans aucun accord. De nombreux pays ont refusé de signer le texte final parce qu'il ne prévoyait pas d'abandonner le pétrole et le gaz.",
+        "id": "s44e6a4cf65",
+        "topic": "economie",
+        "title": "Jensen Huang réintégré à la tête de Nvidia",
+        "context": "Jensen Huang avait démissionné de la direction de Nvidia une dizaine de jours plus tôt à la suite de révélations sur sa vie privée et de soupçons d'espionnage. L'entreprise américaine est le leader mondial de la conception de puces électroniques destinées à l'intelligence artificielle.",
+        "summary": "Le conseil d'administration de Nvidia a réintégré Jensen Huang à la tête du groupe à la surprise générale. L'annonce de ce retour a provoqué une forte hausse de l'action de l'entreprise sur les marchés financiers. Cette décision a reçu le soutien public du président américain Donald Trump, qui est intervenu dans les discussions. Plusieurs parlementaires démocrates et républicains aux États-Unis ont toutefois exprimé leurs inquiétudes éthiques et ont réclamé une audition devant le Congrès.",
+        "plain": "EN CLAIR : Le patron de la grande entreprise technologique Nvidia a repris ses fonctions quelques jours après sa démission liée à un scandale personnel. L'action boursière du groupe s'est envolée avec l'appui du président américain Donald Trump, ce qui suscite des critiques politiques.",
         "chart": null,
         "stakes": [
-          "Quelle gouvernance mondiale pour la transition énergétique ?",
-          "Comment combler l'absence d'engagements financiers pour les pays vulnérables ?",
-          "Quelles conséquences pour les futures conférences climat de l'ONU ?"
+          "Incidence du retour du dirigeant sur la gouvernance et l'éthique de l'entreprise",
+          "Rôle du pouvoir politique américain dans les décisions des grandes entreprises technologiques",
+          "Évolution des cours boursiers du secteur des puces électroniques"
         ],
         "sources": [
           {
-            "name": "Le Monde",
-            "title": "A la COP31, la communauté internationale s’est fracturée sur la sortie des énergies fossiles et le financement de l’adaptation",
-            "link": "https://www.lemonde.fr/planete/article/2026/11/22/a-la-cop31-la-communaute-internationale-sort-dechiree-face-au-manque-d-ambition-sur-la-sortie-des-energies-fossiles-et-les-transferts-financiers_6814242_3244.html",
-            "publishedAt": "2026-11-22T19:08:00.000Z",
+            "name": "Le Monde (International)",
+            "title": "EN DIRECT, Jensen Huang réintégré chez Nvidia à la surprise générale : le dirigeant accueilli sous les applaudissements de centaines de salariés",
+            "link": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-jensen-huang-reintegre-chez-nvidia-a-la-surprise-generale-le-dirigeant-accueilli-sous-les-applaudissements-de-centaines-de-salaries_6814407_3210.html",
+            "publishedAt": "2026-11-23T19:37:41.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
             "name": "Libération",
-            "title": "«Une COP de l’abandon» : en Turquie, les Etats échouent à s’entendre sur un accord et à sortir des énergies fossiles",
-            "link": "https://www.liberation.fr/environnement/climat/cop31-la-france-denonce-un-projet-de-texte-qui-nous-ramenerait-en-arriere-sans-sortie-des-energies-fossiles-20261122_OLT6XUDZDFFKNBW754OHFUAAOU/",
-            "publishedAt": "2026-11-22T19:25:03.000Z",
+            "title": "Nvidia réintègre Jensen Huang : l’action du groupe s’envole de 31%, la fortune du dirigeant gonfle de 33 milliards de dollars",
+            "link": "https://www.liberation.fr/economie/economie-numerique/onze-jours-apres-sa-demission-nvidia-reintegre-jensen-huang-a-son-poste-de-directeur-general-20261123_OQ3UFJGVAZER5JTIPRRTKF7W7Q/",
+            "publishedAt": "2026-11-23T21:00:31.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "La Croix",
-            "title": "Échec de la COP31 : les dinosaures font de la résistance",
-            "link": "https://www.la-croix.com/a-vif/echec-de-la-cop31-les-dinosaures-font-de-la-resistance-20261122",
-            "publishedAt": "2026-11-22T16:54:03.000Z",
+            "name": "Libération",
+            "title": "«Le sexe fait vendre» : comment Donald Trump a piloté le retour de Jensen Huang à la tête de Nvidia",
+            "link": "https://www.liberation.fr/international/amerique/le-sexe-fait-vendre-comment-donald-trump-a-pilote-le-retour-de-jensen-huang-a-la-tete-de-nvidia-20261123_HSZPXB34VFEGNE6IU5GN2OEZ4Y/",
+            "publishedAt": "2026-11-23T19:55:47.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
             "name": "BBC News",
-            "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-            "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-22T18:17:59.000Z",
+            "title": "The rise and fall and rise again of Jensen Huang",
+            "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-23T15:49:52.000Z",
             "lang": "en",
             "country": "GB"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Republican senators criticize Nvidia’s decision to reinstate Jensen Huang",
+            "link": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
+            "publishedAt": "2026-11-23T21:09:10.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "Jensen Huang reinstated as Nvidia chief: How did we get here?",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-reinstated-as-nvidia-chief-how-did-we-get-here?traffic_source=rss",
+            "publishedAt": "2026-11-23T20:22:12.000Z",
+            "lang": "en",
+            "country": "QA"
+          },
+          {
+            "name": "The Hindu",
+            "title": "Nvidia reinstates Jensen Huang as CEO after U.S. government input",
+            "link": "https://www.thehindu.com/sci-tech/technology/nvidia-reinstates-jensen-huang-as-ceo-after-us-government-input/article71735341.ece",
+            "publishedAt": "2026-11-23T18:15:03.000Z",
+            "lang": "en",
+            "country": "IN"
+          },
+          {
+            "name": "ANSA",
+            "title": "Jensen Huang torna alla guida di Nvidia, Trump esulta",
+            "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/11/23/il-cda-di-nvidia-richiama-jensen-huang-alla-guida-rally-di-wall-street_74b46bf0-83fd-4c6e-8f4c-7b8b9842fa26.html",
+            "publishedAt": "2026-11-23T21:15:42.000Z",
+            "lang": "it",
+            "country": "IT"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/23/264/0/3165/1582/644/322/60/0/6102372_ftp-1-dq3bogtjjvfb-2026-11-23t170601z-1582719674-rc2ttoaqzmb6-rtrmadp-3-nvidia-ceo.JPG",
+          "credit": "Le Monde (International)",
+          "link": "https://www.lemonde.fr/international/live/2026/11/23/en-direct-jensen-huang-reintegre-chez-nvidia-a-la-surprise-generale-le-dirigeant-accueilli-sous-les-applaudissements-de-centaines-de-salaries_6814407_3210.html"
+        }
+      },
+      {
+        "id": "sc07cf53a07",
+        "topic": "international",
+        "title": "L'Ukraine frappe des navires russes stationnés en Libye",
+        "context": "Depuis l'invasion du territoire ukrainien par l'armée russe en 2022, les combats se concentrent principalement en Ukraine et en mer Noire. L'armée ukrainienne cherche à perturber les lignes de ravitaillement et la logistique militaire de la Russie hors du front principal.",
+        "summary": "Le président ukrainien Volodymyr Zelensky a revendiqué la destruction de navires de guerre russes au large du port de Benghazi, en Libye. Une corvette de la marine russe a coulé après avoir été frappée par des drones sous-marins ukrainiens à des milliers de kilomètres de la zone du conflit principal. Les autorités de l'est de la Libye ont dénoncé cette opération militaire et ont saisi l'ONU pour violation de leur souveraineté nationale. De son côté, Moscou condamne cette attaque et met en garde contre une escalade des tensions dans la région méditerranéenne.",
+        "plain": "EN CLAIR : L'Ukraine a coulé un navire de guerre russe stationné dans un port en Libye en utilisant des drones marins. Cette attaque inédite loin du front ukrainien élargit le terrain d'affrontement et suscite de vives protestations diplomatiques.",
+        "chart": null,
+        "stakes": [
+          "Extension géographique du conflit entre la Russie et l'Ukraine hors d'Europe",
+          "Conséquences diplomatiques et sécuritaires pour la Libye et la mer Méditerranée",
+          "Efficacité et portée des drones marins ukrainiens contre la flotte russe"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "L’Ukraine revendique des attaques contre deux navires russes au large de la Libye",
+            "link": "https://www.liberation.fr/international/europe/lukraine-revendique-des-attaques-contre-deux-navires-russes-au-large-de-la-libye-20261123_L22KMEK5IZDWZP35XFEVOLLN2A/",
+            "publishedAt": "2026-11-23T20:49:04.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+            "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-23T20:48:35.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "BBC News",
+            "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+            "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-23T15:41:23.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Tagesschau",
+            "title": "Ukrainisches Militär versenkt zwei russische Schiffe mit Waffenlieferungen vor Libyen",
+            "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688728.html",
+            "publishedAt": "2026-11-23T19:37:49.000Z",
+            "lang": "de",
+            "country": "DE"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "Ukraine says it sank Russian warship off coast of Libya, far from front line",
+            "link": "https://www.washingtonpost.com/world/2026/11/23/ukraine-says-it-sank-russian-warship-off-coast-libya-far-front-line/",
+            "publishedAt": "2026-11-23T17:30:38.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Fox News",
+            "title": "Russian warship sinks off Libya as suspected Ukrainian strikes take war beyond Black Sea",
+            "link": "https://www.foxnews.com/world/russian-warship-sinks-libya-suspected-ukrainian-strikes-take-war-beyond-black-sea",
+            "publishedAt": "2026-11-23T01:30:56.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Hindu",
+            "title": "Zelenskyy hails Ukraine's attack on a Russian warship in Libya",
+            "link": "https://www.thehindu.com/news/international/zelenskyy-hails-ukraines-attack-on-a-russian-warship-in-libya/article71735901.ece",
+            "publishedAt": "2026-11-23T16:57:47.000Z",
+            "lang": "en",
+            "country": "IN"
+          },
+          {
+            "name": "France 24",
+            "title": "Navires russes ciblés en Libye : l'Ukraine étend le domaine de la lutte",
+            "link": "https://www.france24.com/fr/europe/20261123-navires-russes-cibl%C3%A9s-libye-face-moscou-ukraine-%C3%A9tend-domaine-lutte",
+            "publishedAt": "2026-11-23T17:23:47.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
+        }
+      },
+      {
+        "id": "s2899c804fa",
+        "topic": "environnement",
+        "title": "Échec total des négociations climatiques à la COP31",
+        "context": "La COP est la conférence annuelle réunissant près de deux cents pays sous l'égide de l'ONU pour négocier les engagements climatiques mondiaux. La 31e édition organisée à Antalya en Turquie visait à définir les modalités d'abandon des énergies fossiles et les financements accordés aux pays vulnérables.",
+        "summary": "Les négociations de la COP31 se sont achevées sur un échec total sans qu'aucun accord final ne soit adopté par les délégations. Les discussions ont bloqué en raison du refus de l'Arabie saoudite et d'autres pays producteurs de pétrole de mentionner la sortie progressive du charbon, du pétrole et du gaz. Face à cette impasse, l'Union européenne et plusieurs États insulaires menacés par le réchauffement ont rejeté le projet de texte d'accord. Il s'agit du premier effondrement complet des négociations lors d'un sommet mondial sur le climat depuis plus de dix ans.",
+        "plain": "EN CLAIR : La grande réunion de l'ONU sur le climat en Turquie s'est terminée sans aucun accord entre les pays participants. Les discussions ont échoué en raison du refus des pays producteurs de pétrole d'inscrire la fin des énergies fossiles dans le texte final.",
+        "chart": null,
+        "stakes": [
+          "Poursuite de la diplomatie climatique mondiale sans engagements clairs",
+          "Gestion des financements accordés aux pays vulnérables face au réchauffement",
+          "Place et influence des pays producteurs de pétrole dans les négociations environnementales"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "What failure of COP31 reveals about a divided world",
+            "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-23T17:24:25.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "BBC News",
+            "title": "What's next after no deal at COP31 climate talks?",
+            "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-23T05:34:39.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "NPR",
+            "title": "Climate change talks fall apart in final hours over fossil fuels",
+            "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+            "publishedAt": "2026-11-22T16:33:22.000Z",
+            "lang": "en",
+            "country": "US"
           },
           {
             "name": "The New York Times",
             "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
             "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-            "publishedAt": "2026-11-22T18:20:39.000Z",
+            "publishedAt": "2026-11-23T19:27:13.000Z",
             "lang": "en",
             "country": "US"
           },
           {
-            "name": "Al Jazeera",
-            "title": "Why has the COP31 climate summit failed to reach agreement?",
-            "link": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss",
-            "publishedAt": "2026-11-22T20:00:00.000Z",
+            "name": "The Washington Post",
+            "title": "COP31 negotiations break down as countries fail to agree on climate deal",
+            "link": "https://www.washingtonpost.com/climate-environment/2026/11/22/cop31-negotiations-break-down-countries-fail-agree-climate-deal/",
+            "publishedAt": "2026-11-22T19:07:33.000Z",
             "lang": "en",
-            "country": "QA"
+            "country": "US"
           },
           {
             "name": "Daily Sabah",
@@ -679,783 +841,613 @@
           },
           {
             "name": "France 24",
-            "title": "La COP31 s'achève sur un échec, l'UE rejette la proposition d'accord final",
-            "link": "https://www.france24.com/fr/vid%C3%A9o/20261122-la-cop31-s-ach%C3%A8ve-sur-un-%C3%A9chec-l-ue-rejette-la-proposition-d-accord-final",
-            "publishedAt": "2026-11-22T16:41:59.000Z",
+            "title": "Échec de la COP31 : et maintenant ?",
+            "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261123-%C3%A9chec-de-la-cop31-et-maintenant",
+            "publishedAt": "2026-11-23T17:46:12.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Jeune Afrique",
+            "title": "Climat : l’échec de la COP31 suscite une vague d’indignation et des appels aux réformes",
+            "link": "https://www.jeuneafrique.com/1864025/societe/climat-lechec-de-la-cop31-suscite-une-vague-dindignation-et-des-appels-aux-reformes/",
+            "publishedAt": "2026-11-23T11:21:15.000Z",
             "lang": "fr",
             "country": "FR"
           }
         ],
         "image": {
-          "url": "https://img.lemde.fr/2026/11/22/58/0/2278/1139/644/322/60/0/fbea2a7_ftp-1-bdaf97jsqzbc-57411e6726b849d9b1e218144a872fde-0-ba16f37da3ba4f61a533ba75f2833014.jpg",
-          "credit": "Le Monde",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/22/a-la-cop31-la-communaute-internationale-sort-dechiree-face-au-manque-d-ambition-sur-la-sortie-des-energies-fossiles-et-les-transferts-financiers_6814242_3244.html"
-        }
-      },
-      {
-        "id": "s3ed909c38e",
-        "topic": "politique",
-        "title": "Victoire des démocrates aux élections législatives américaines",
-        "context": "Les élections de mi-mandat aux États-Unis renouvelaient l'ensemble de la Chambre des représentants ainsi qu'une partie du Sénat. La majorité parlementaire détermine la capacité du pouvoir exécutif à faire voter ses lois.",
-        "summary": "Le Parti démocrate a garanti sa majorité à la Chambre des représentants en obtenant au moins 258 sièges à la suite des résultats en Caroline du Nord. Selon plusieurs observateurs, il s'agit du plus grand écart de sièges en faveur du camp démocrate dans cette chambre depuis 1992. Le parti a également conservé le contrôle du Sénat. Le futur président de la Chambre, Hakeem Jeffries, s'est dit prêt à travailler sur l'accès aux soins et le pouvoir d'achat.",
-        "plain": "EN CLAIR : Les démocrates ont remporté la majorité à la Chambre des représentants américaine avec un nombre record de sièges depuis 1992. Ils auront une grande influence sur les futures lois de la nation.",
-        "chart": {
-          "title": "Répartition des sièges à la Chambre des représentants",
-          "unit": "sièges",
-          "items": [
-            {
-              "label": "Démocrates",
-              "value": 258
-            },
-            {
-              "label": "Républicains",
-              "value": 173
-            }
-          ],
-          "source": {
-            "name": "BBC News",
-            "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
-          }
-        },
-        "stakes": [
-          "Quel rapport de force entre le Congrès et l'administration américaine ?",
-          "Quelles priorités législatives seront adoptées sur la santé et le coût de la vie ?",
-          "Comment le paysage politique américain évoluera-t-il d'ici la présidentielle ?"
-        ],
-        "sources": [
-          {
-            "name": "BBC News",
-            "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-            "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-22T20:26:24.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "The Guardian",
-            "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
-            "link": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
-            "publishedAt": "2026-11-22T19:17:56.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "The Guardian",
-            "title": "Hakeem Jeffries willing to cross political aisle to work on Democrats’ agenda",
-            "link": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
-            "publishedAt": "2026-11-22T18:25:42.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "The Straits Times",
-            "title": "US Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
-            "link": "https://www.straitstimes.com/world/united-states/us-democrats-clinch-a-historic-house-majority-of-at-least-258-seats-the-largest-since-1992",
-            "publishedAt": "2026-11-22T18:49:44.000Z",
-            "lang": "en",
-            "country": "SG"
-          },
-          {
-            "name": "South China Morning Post",
-            "title": "US Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
-            "link": "https://www.scmp.com/news/world/united-states-canada/article/3375405/us-democrats-clinch-historic-house-majority-least-258-seats-largest-1992",
-            "publishedAt": "2026-11-22T20:31:01.000Z",
-            "lang": "en",
-            "country": "HK"
-          },
-          {
-            "name": "El País",
-            "title": "Los demócratas se aseguran la mayor victoria en la Cámara de Representantes desde 1992",
-            "link": "https://elpais.com/us/2026-11-22/los-democratas-se-aseguran-la-mayor-victoria-en-la-camara-de-representantes-desde-1992.html",
-            "publishedAt": "2026-11-22T19:08:03.000Z",
-            "lang": "es",
-            "country": "ES"
-          }
-        ],
-        "image": {
-          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aab/live/8ca719f0-e6b0-11f1-b45e-bf1e220bd648.jpg",
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c650/live/3a868c20-e767-11f1-99a1-253766e7ad8b.jpg",
           "credit": "BBC News",
-          "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss"
         }
       },
       {
-        "id": "s88129fd9f9",
+        "id": "s4d8cefc692",
         "topic": "international",
-        "title": "Frappes russes meurtrières sur la région de Kiev et l'Ukraine",
-        "context": "La guerre entre la Russie et l'Ukraine se poursuit avec une intensité accrue sur le réseau énergétique et les zones urbaines. Les récents événements font suite à des attaques visant des infrastructures stratégiques en Crimée.",
-        "summary": "Une vague de frappes de drones et de missiles russes a touché plusieurs localités ukrainiennes, faisant au moins six morts dans la région de Kiev, notamment après l'effondrement partiel d'un immeuble résidentiel à Dymer. Des attaques ont également visé la ville de Kryvyi Rih, où deux décès sont déplorés par les autorités locales, ainsi que la région d'Odesa. Les dégâts causés aux infrastructures d'électricité ont contraint certaines villes à passer à l'enseignement à distance.",
-        "plain": "EN CLAIR : La Russie a mené d'importantes attaques aériennes sur des villes ukrainiennes, détruisant des immeubles et des installations électriques. Plusieurs civils ont perdu la vie et des milliers d'habitants subissent des coupures.",
+        "title": "L'OTAN face à l'escalade des menaces russes",
+        "context": "L'OTAN est l'alliance militaire de défense mutuelle regroupant trente-deux pays d'Europe et d'Amérique du Nord. La guerre en Ukraine a accru les tensions sécuritaires entre l'alliance occidentale et la Fédération de Russie le long des frontières européennes.",
+        "summary": "L'OTAN a convoqué des réunions d'urgence à la suite de la retombée de missiles russes sur le territoire polonais et d'incursions dans l'espace aérien scandinave. En parallèle, les services de renseignement occidentaux préviennent que la Russie pourrait lancer à court terme un satellite armé d'une tête nucléaire dans l'espace. Le secrétaire général de l'alliance, Mark Rutte, a déclaré que l'OTAN défendrait les installations et le domaine spatial face aux menaces russes. Les gouvernements européens soulignent que la situation sécuritaire s'est fortement dégradée en dehors des zones habituelles de combat.",
+        "plain": "EN CLAIR : L'OTAN alerte sur la multiplication d'incidents imputés à la Russie, allant de missiles tombés en Pologne à la menace d'un satellite armé dans l'espace. Les pays alliés renforcent leurs réunions de crise et préparent la défense de leur espace aérien et spatial.",
         "chart": null,
         "stakes": [
-          "Comment protéger les infrastructures énergétiques ukrainiennes durant l'hiver ?",
-          "Quels seront les besoins de l'Ukraine en systèmes de défense antiaérienne ?",
-          "Quelle réponse militaire le gouvernement ukrainien apportera-t-il ?"
-        ],
-        "sources": [
-          {
-            "name": "Ouest-France",
-            "title": "Guerre en Ukraine : au moins huit morts dans des frappes russes dans la région de Kiev",
-            "link": "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-au-moins-quatre-morts-dans-des-frappes-russes-dans-la-region-de-kiev-3b4a00a6-e67c-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-            "publishedAt": "2026-11-22T20:05:22.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "BBC News",
-            "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-            "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-22T17:57:43.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "Deutsche Welle",
-            "title": "Russia strikes Zelenskyy's hometown, killing 2",
-            "link": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf",
-            "publishedAt": "2026-11-21T14:44:00.000Z",
-            "lang": "en",
-            "country": "DE"
-          },
-          {
-            "name": "The Washington Post",
-            "title": "Ukrainian city moves to remote learning as Russian strikes disrupt utilities",
-            "link": "https://www.washingtonpost.com/world/2026/11/22/ukrainian-city-moves-remote-learning-russian-strikes-disrupt-utilities/",
-            "publishedAt": "2026-11-22T16:05:40.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "Fox News",
-            "title": "Zelenskyy says Russia strikes hometown, criticizes Putin-Trump meeting",
-            "link": "https://www.foxnews.com/world/zelenskyy-says-russia-strikes-hometown-criticizes-putin-trump-meeting",
-            "publishedAt": "2026-11-21T19:25:55.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "The Hindu",
-            "title": "Russian attack near Ukraine’s capital strikes apartment building, killing two and wounding four others",
-            "link": "https://www.thehindu.com/news/international/a-russian-attack-destroyed-an-apartment-building-in-dymer-near-kyiv-killing-two-as-kaliningrad-sounded-a-rare-air-alert/article71731042.ece",
-            "publishedAt": "2026-11-22T17:30:27.000Z",
-            "lang": "en",
-            "country": "IN"
-          },
-          {
-            "name": "South China Morning Post",
-            "title": "Russian strikes kill 6 in Kyiv region, Ukraine says",
-            "link": "https://www.scmp.com/news/world/europe/article/3375401/russian-strikes-kill-6-kyiv-region-ukraine-says",
-            "publishedAt": "2026-11-22T18:32:59.000Z",
-            "lang": "en",
-            "country": "HK"
-          },
-          {
-            "name": "France 24",
-            "title": "Ukraine : au moins deux morts après une frappe de drone russe contre un immeuble résidentiel",
-            "link": "https://www.france24.com/fr/vid%C3%A9o/20261122-ukraine-au-moins-deux-morts-apr%C3%A8s-une-frappe-de-drone-russe-contre-un-immeuble-r%C3%A9sidentiel",
-            "publishedAt": "2026-11-22T16:39:36.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExNmQ1ZTBhNzZhZDYxZGZmNzFlNzMxNTU4Mjc5NTlmYjk?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=ce7bcea6d372068450d02e283dee25e17a817d70e42dfdc091e5bb4a11399f35",
-          "credit": "Ouest-France",
-          "link": "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-au-moins-quatre-morts-dans-des-frappes-russes-dans-la-region-de-kiev-3b4a00a6-e67c-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
-        }
-      },
-      {
-        "id": "s0b6411606d",
-        "topic": "international",
-        "title": "Explosion d'un navire militaire russe au port de Benghazi",
-        "context": "La ville de Benghazi, située dans l'est de la Libye, accueille des navires de commerce et militaires sous le contrôle des autorités locales de l'Est libyen.",
-        "summary": "Un incendie et une explosion se sont produits à bord d'un navire militaire russe amarré dans le port de Benghazi. Les autorités de l'Est libyen indiquent suspecter une attaque menée par des drones, affirmant que le bâtiment faisait escale pour se ravitailler avant de repartir vers la Russie. Aucune revendication officielle n'a été émise, bien que certaines sources libyennes et médias mentionnent l'hypothèse d'une opération ukrainienne.",
-        "plain": "EN CLAIR : Un bateau militaire russe a été touché par une explosion en Libye alors qu'il était au port. Les autorités suspectent une attaque de drone menée loin du front ukrainien.",
-        "chart": null,
-        "stakes": [
-          "Le conflit entre la Russie et l'Ukraine s'étend-il au bassin méditerranéen ?",
-          "Quelles conséquences sécuritaires pour la région d'Afrique du Nord ?",
-          "Quelle sera la réaction de l'armée russe face aux vulnérabilités de sa flotte ?"
-        ],
-        "sources": [
-          {
-            "name": "Le Monde (International)",
-            "title": "EN DIRECT, guerre en Ukraine : un cargo russe en feu à Benghazi, les autorités de l’est de la Libye suspectent une attaque de drones",
-            "link": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-un-cargo-russe-en-feu-a-benghazi-les-autorites-de-l-est-de-la-libye-suspectent-une-attaque-de-drones_6814183_3210.html",
-            "publishedAt": "2026-11-22T18:43:43.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "BBC News",
-            "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-            "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-22T20:28:09.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "The Guardian",
-            "title": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
-            "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-            "publishedAt": "2026-11-22T18:50:56.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "El País",
-            "title": "Una explosión hunde un barco de guerra ruso en la costa oriental de Libia",
-            "link": "https://elpais.com/internacional/2026-11-22/una-explosion-hunde-un-barco-de-guerra-ruso-en-la-costa-oriental-de-libia.html",
-            "publishedAt": "2026-11-22T19:50:38.000Z",
-            "lang": "es",
-            "country": "ES"
-          },
-          {
-            "name": "ANSA",
-            "title": "Nave militare russa colpita a Bengasi, 'sono stati gli ucraini'",
-            "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/22/nave-militare-russa-colpita-a-bengasi-sono-stati-gli-ucraini-_957fd3f3-aa7b-4ed5-b2d5-03500486cfde.html",
-            "publishedAt": "2026-11-22T20:16:14.000Z",
-            "lang": "it",
-            "country": "IT"
-          },
-          {
-            "name": "France 24",
-            "title": "Libye : deux navires attaqués par des drones maritimes, dont un bateau russe",
-            "link": "https://www.france24.com/fr/afrique/20261122-libye-drones-maritimes-attaqu%C3%A9-deux-navires-bateau-russe-guerre",
-            "publishedAt": "2026-11-22T21:05:53.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Euronews",
-            "title": "Libye : un navire russe visé par une attaque présumée de drone dans le port de Benghazi",
-            "link": "https://fr.euronews.com/2026/11/22/libye-un-navire-russe-vise-par-une-attaque-presumee-de-drone-dans-le-port-de-benghazi",
-            "publishedAt": "2026-11-22T18:01:09.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://img.lemde.fr/2026/11/22/560/0/8860/4430/644/322/60/0/938b18c_ftp-1-hjzwzpxuwplr-d7873c82d905412eb8c8b8568050f431-1-ef271e4bc28c4fc8874ba6567deb0a91.jpg",
-          "credit": "Le Monde (International)",
-          "link": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-un-cargo-russe-en-feu-a-benghazi-les-autorites-de-l-est-de-la-libye-suspectent-une-attaque-de-drones_6814183_3210.html"
-        }
-      },
-      {
-        "id": "s67cf5de1ff",
-        "topic": "justice",
-        "title": "Arrestation d'un chef du narcotrafic lors d'une opération au Mexique",
-        "context": "Fausto Isidro Meza Flores, surnommé « El Chapo Isidro », figurait parmi les fugitifs les plus recherchés par le FBI américain pour son rôle dans le trafic de drogue international.",
-        "summary": "Les forces spéciales de l'armée mexicaine ont capturé le chef présumé du cartel de Beltrán Leyva, Fausto Isidro Meza Flores, lors d'un raid dans le nord-ouest du Mexique. L'interpellation a donné lieu à des affrontements armés intenses ayant causé la mort d'au moins 11 personnes. Cette opération a été menée avec l'appui des services de renseignement des États-Unis.",
-        "plain": "EN CLAIR : Les forces armées du Mexique ont arrêté l'un des plus importants chefs de cartel de la drogue. L'intervention s'est soldée par des affrontements meurtriers dans la région.",
-        "chart": null,
-        "stakes": [
-          "Comment les forces de sécurité vont-elles contenir la réorganisation des cartels ?",
-          "Quel impact cette arrestation aura-t-elle sur la violence locale ?",
-          "Comment évoluera la coopération sécuritaire entre le Mexique et les États-Unis ?"
-        ],
-        "sources": [
-          {
-            "name": "Sky News",
-            "title": "At least 11 dead after suspected cartel leader 'El Chapo Isidro' captured in Mexico",
-            "link": "https://news.sky.com/story/suspected-cartel-leader-el-chapo-isidro-from-fbi-most-wanted-list-captured-in-mexico-13614689",
-            "publishedAt": "2026-11-21T13:34:00.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "Deutsche Welle",
-            "title": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
-            "link": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-world-4025-rdf",
-            "publishedAt": "2026-11-21T18:30:00.000Z",
-            "lang": "en",
-            "country": "DE"
-          },
-          {
-            "name": "NPR",
-            "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
-            "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
-            "publishedAt": "2026-11-21T18:08:55.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "The New York Times",
-            "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
-            "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
-            "publishedAt": "2026-11-22T10:16:39.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "Fox News",
-            "title": "FBI Ten Most Wanted cartel leader 'Chapo Isidro' captured by Mexico's 'elite military forces' after US help",
-            "link": "https://www.foxnews.com/world/fbi-ten-most-wanted-cartel-leader-chapo-isidro-captured-mexicos-elite-military-forces-us-help",
-            "publishedAt": "2026-11-21T13:17:33.000Z",
-            "lang": "en",
-            "country": "US"
-          }
-        ],
-        "image": {
-          "url": "https://e3.365dm.com/26/11/1920x1080/skynews-fausto-isidro-meza-flores_7413068.jpg?20261122010847",
-          "credit": "Sky News",
-          "link": "https://news.sky.com/story/suspected-cartel-leader-el-chapo-isidro-from-fbi-most-wanted-list-captured-in-mexico-13614689"
-        }
-      },
-      {
-        "id": "s8d9db57e9f",
-        "topic": "politique",
-        "title": "Impasse dans les négociations gouvernementales en Israël",
-        "context": "Après les élections législatives d'octobre qui n'ont pas dégagé de majorité claire, le chef du parti Yashar, Gadi Eisenkot, a été chargé de former un gouvernement d'ici le 6 décembre.",
-        "summary": "Les discussions entre la formation politique de Gadi Eisenkot et le parti Likoud du Premier ministre sortant Benyamin Nétanyahou se sont soldées par un échec à parvenir à un accord de coalition. Le Likoud réclame des conditions strictes, dont l'exclusion des partis arabes de la coalition et le rejet formel d'un État palestinien. Gadi Eisenkot cherche de son côté à composer un gouvernement d'union nationale sans céder aux exigences des partis ultra-orthodoxes ou de la droite dure.",
-        "plain": "EN CLAIR : En Israël, les chefs politiques n'arrivent pas à s'entendre pour créer un nouveau gouvernement. Les désaccords portent sur la composition de la majorité et les orientations diplomatiques.",
-        "chart": null,
-        "stakes": [
-          "Israël parviendra-t-il à éviter la tenue de nouvelles élections législatives ?",
-          "Quelle sera la composition définitive de l'exécutif israélien ?",
-          "Quelles conséquences pour les orientations stratégiques du pays ?"
-        ],
-        "sources": [
-          {
-            "name": "L'Humanité",
-            "title": "Israël : les « manœuvres » du Likoud et de Benyamin Netanyahou pour piéger Gadi Eizenkot",
-            "link": "https://www.humanite.fr/monde/benyamin-netanyahou/israel-les-manoeuvres-du-likoud-et-de-benyamin-netanyahou-pour-pieger-gadi-eizenkot",
-            "publishedAt": "2026-11-22T18:12:31.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "The Hindu",
-            "title": "Netanyahu, Eisenkot parties end talks without deal on forming Israel government",
-            "link": "https://www.thehindu.com/news/international/netanyahu-eisenkot-parties-end-talks-without-deal-on-forming-israel-government/article71732431.ece",
-            "publishedAt": "2026-11-22T20:32:14.000Z",
-            "lang": "en",
-            "country": "IN"
-          },
-          {
-            "name": "The Hindu",
-            "title": "Netanyahu, Eisenkot parties resume talks to form Israel government",
-            "link": "https://www.thehindu.com/news/international/netanyahu-eisenkot-parties-resume-talks-to-form-israel-government/article71732120.ece",
-            "publishedAt": "2026-11-22T17:28:27.000Z",
-            "lang": "en",
-            "country": "IN"
-          },
-          {
-            "name": "The Straits Times",
-            "title": "Netanyahu, Eisenkot parties end talks without deal on forming Israel government",
-            "link": "https://www.straitstimes.com/world/middle-east/netanyahu-eisenkot-parties-end-talks-without-deal-on-forming-israel-government",
-            "publishedAt": "2026-11-22T20:05:06.000Z",
-            "lang": "en",
-            "country": "SG"
-          },
-          {
-            "name": "RFI",
-            "title": "Israël: pas d'avancée entre les partis d'Eisenkot et de Netanyahu pour la formation d'un gouvernement",
-            "link": "https://www.rfi.fr/fr/moyen-orient/20261122-isra%C3%ABl-pas-d-avanc%C3%A9e-entre-les-partis-d-eisenkot-et-de-netanyahu-pour-la-formation-d-un-gouvernement",
-            "publishedAt": "2026-11-22T20:34:07.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Le Monde (International)",
-            "title": "Israël : les partis de Gadi Eisenkot et de Benyamin Nétanyahou concluent de nouvelles négociations de coalition sans accord",
-            "link": "https://www.lemonde.fr/international/article/2026/11/22/israel-les-partis-de-gadi-eisenkot-et-de-benyamin-netanyahou-concluent-de-nouvelles-negociations-de-coalition-sans-accord_6814239_3210.html",
-            "publishedAt": "2026-11-22T17:57:07.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://www.humanite.fr/wp-content/uploads/2026/11/p4-gadi_LUN.jpg?w=1200",
-          "credit": "L'Humanité",
-          "link": "https://www.humanite.fr/monde/benyamin-netanyahou/israel-les-manoeuvres-du-likoud-et-de-benyamin-netanyahou-pour-pieger-gadi-eizenkot"
-        }
-      },
-      {
-        "id": "sab09d0667c",
-        "topic": "economie",
-        "title": "Enquêtes de sécurité sur les puces de l'entreprise Nvidia",
-        "context": "Nvidia est le principal concepteur américain de puces informatiques avancées destinées à l'intelligence artificielle, soumis à de strictes restrictions d'exportation vers la Chine.",
-        "summary": "Les autorités de régulation et de renseignement américaines mènent des investigations concernant la vente et la fuite potentielle de puces de haute technologie vers la Chine. Ces enquêtes surviennent après la démission du dirigeant de l'entreprise, Jensen Huang, et des révélations sur des campagnes de renseignement visant à contourner les contrôles à l'exportation. L'entreprise fait également l'objet d'un examen de la part de la commission des opérations de bourse des États-Unis.",
-        "plain": "EN CLAIR : Les autorités américaines enquêtent sur le géant technologique Nvidia. Elles cherchent à savoir si ses composants électroniques très puissants ont été vendus ou transmis illégalement à la Chine.",
-        "chart": null,
-        "stakes": [
-          "Comment la réglementation américaine sur les puces d'IA sera-t-elle renforcée ?",
-          "Quel sera l'impact économique sur le marché mondial des semi-conducteurs ?",
-          "Comment la rivalité technologique entre Washington et Pékin va-t-elle évoluer ?"
+          "Risques de confrontation directe entre l'OTAN et la Russie",
+          "Militarisation et nucléarisation de l'espace extra-atmosphérique",
+          "Sécurité des infrastructures et des territoires des pays membres de l'OTAN"
         ],
         "sources": [
           {
             "name": "L'Express",
-            "title": "Affaire Nvidia : la campagne secrète de la Chine pour acquérir des puces semi-conductrices",
-            "link": "https://www.lexpress.fr/monde/asie/affaire-nvidia-la-campagne-secrete-de-la-chine-pour-acquerir-des-puces-semi-conductrices-23VEOYYUXFBNDIXAJAOUVXW4NA/",
-            "publishedAt": "2026-11-22T11:14:45.000Z",
+            "title": "Une arme nucléaire dans l’espace ? L’Otan s’inquiète d’un lancement russe imminent",
+            "link": "https://www.lexpress.fr/secret-defense/une-arme-nucleaire-dans-lespace-lotan-sinquiete-dun-lancement-russe-imminent-JLEM4G7DPFB7HOCLJAEDJNIYEE/",
+            "publishedAt": "2026-11-23T15:15:39.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "The Guardian",
-            "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-            "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-            "publishedAt": "2026-11-22T20:23:36.000Z",
-            "lang": "en",
-            "country": "GB"
+            "name": "Tagesschau",
+            "title": "NATO-Chef Rutte und Kanzler Merz beraten über russische Marschflugkörper in Polen",
+            "link": "https://www.tagesschau.de/tagesschau_20_uhr/video-1688726.html",
+            "publishedAt": "2026-11-23T19:20:28.000Z",
+            "lang": "de",
+            "country": "DE"
           },
           {
-            "name": "The New York Times",
-            "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
-            "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
-            "publishedAt": "2026-11-22T11:03:04.000Z",
+            "name": "NPR",
+            "title": "Ukraine war spilling into NATO territory",
+            "link": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+            "publishedAt": "2026-11-22T22:40:22.000Z",
             "lang": "en",
             "country": "US"
           },
           {
-            "name": "The Hindu",
-            "title": "Nvidia faces U.S. accounting probe amid deepening turmoil: media",
-            "link": "https://www.thehindu.com/news/international/nvidia-faces-us-accounting-probe-amid-deepening-turmoil-media/article71732128.ece",
-            "publishedAt": "2026-11-22T17:07:04.000Z",
+            "name": "The Washington Post",
+            "title": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
+            "link": "https://www.washingtonpost.com/world/2026/11/23/nato-calls-urgent-meeting-string-incidents-escalates-russia-tensions/",
+            "publishedAt": "2026-11-23T18:58:51.000Z",
             "lang": "en",
-            "country": "IN"
+            "country": "US"
+          },
+          {
+            "name": "Fox News",
+            "title": "Russia could launch nuclear-capable satellite within weeks, Western intelligence warns: report",
+            "link": "https://www.foxnews.com/world/russia-could-launch-nuclear-capable-satellite-within-weeks-western-intelligence-warns-report",
+            "publishedAt": "2026-11-23T20:05:36.000Z",
+            "lang": "en",
+            "country": "US"
           },
           {
             "name": "The Straits Times",
-            "title": "US probing alleged Chinese spy tied to former Nvidia CEO, says intelligence chief",
-            "link": "https://www.straitstimes.com/world/united-states/spy-chief-says-us-probing-alleged-spy-tied-to-former-nvidia-ceo",
-            "publishedAt": "2026-11-22T18:00:00.000Z",
+            "title": "NATO vows space defence after Russia nuclear satellite report",
+            "link": "https://www.straitstimes.com/world/europe/nato-vows-space-defence-after-russia-nuclear-satellite-report",
+            "publishedAt": "2026-11-23T19:59:56.000Z",
             "lang": "en",
             "country": "SG"
           },
           {
             "name": "South China Morning Post",
-            "title": "US seeks answers on Nvidia’s sale of chips to China, Bessent says",
-            "link": "https://www.scmp.com/news/world/united-states-canada/article/3375404/us-seeks-answers-nvidias-sale-chips-china-bessent-says",
-            "publishedAt": "2026-11-22T20:03:17.000Z",
+            "title": "Nato vows space defence after Russia nuclear satellite report",
+            "link": "https://www.scmp.com/news/world/russia-central-asia/article/3375522/nato-vows-space-defence-after-russia-nuclear-satellite-report",
+            "publishedAt": "2026-11-23T16:49:46.000Z",
             "lang": "en",
             "country": "HK"
           }
         ],
         "image": {
-          "url": "https://www.lexpress.fr/resizer/v2/XAATVQF4VVB6TBXAJ5QSU5UV7M.JPG?auth=5efd12ea83ea1aa0082d78438020a9c2f23521795beb366d085bb9cbfad46dd4&smart=true&width=4000&height=2667",
+          "url": "https://www.lexpress.fr/resizer/v2/JFG3GOOKDVCGRJEQPQ6XNVKTZU.jpg?auth=5c1e78e13c81b8888e0fbca44cda5dddd38ad6fb6aba7c542b9364629da60652&smart=true&width=4300&height=2721",
           "credit": "L'Express",
-          "link": "https://www.lexpress.fr/monde/asie/affaire-nvidia-la-campagne-secrete-de-la-chine-pour-acquerir-des-puces-semi-conductrices-23VEOYYUXFBNDIXAJAOUVXW4NA/"
+          "link": "https://www.lexpress.fr/secret-defense/une-arme-nucleaire-dans-lespace-lotan-sinquiete-dun-lancement-russe-imminent-JLEM4G7DPFB7HOCLJAEDJNIYEE/"
         }
       },
       {
-        "id": "sfce607b3e1",
-        "topic": "sciences_tech",
-        "title": "Progrès annoncé sur la résolution de l'hypothèse de Riemann",
-        "context": "L'hypothèse de Riemann, formulée au XIXe siècle et portant sur la distribution des nombres premiers, est considérée comme l'un des plus grands problèmes non résolus des mathématiques.",
-        "summary": "Un chercheur de la société Anthropic affirme être parvenu à démontrer l'hypothèse de Riemann en s'appuyant sur l'outil d'intelligence artificielle Claude après six semaines de travaux. La démarche a fait l'objet d'une première vérification par deux groupes d'experts indépendants. Les membres de la communauté scientifique soulignent toutefois que la preuve globale doit encore suivre une procédure complète de vérification rigoureuse.",
-        "plain": "EN CLAIR : Un chercheur affirme avoir résolu un célèbre problème mathématique vieux de plus d'un siècle grâce à l'intelligence artificielle. Des experts vérifient actuellement la précision de ses démonstrations.",
+        "id": "sa2ed5e2feb",
+        "topic": "justice",
+        "title": "Une chanteuse iranienne condamnée aux coups de fouet",
+        "context": "En Iran, le code pénal impose le port du voile aux femmes sous peine de lourdes sanctions judiciaires et physiques. En parallèle, le gouvernement américain impose des sanctions économiques strictes pour restreindre les ressources financières du régime de Téhéran.",
+        "summary": "La chanteuse iranienne Parastoo Ahmadi et quatre personnes de son équipe ont été condamnées à subir 74 coups de fouet après une prestation artistique réalisée sans hijab. La justice iranienne a assorti cette sentence d'une interdiction de voyager et de produire des œuvres culturelles pendant une durée de deux ans. Des gouvernements occidentaux et des ONG ont dénoncé l'application de cette peine corporelle qualifiée d'acte de torture. En parallèle, le Trésor américain a annoncé de nouvelles sanctions visant des réseaux financiers soupçonnés d'alimenter les caisses de l'État iranien à l'étranger.",
+        "plain": "EN CLAIR : Une chanteuse iranienne a été condamnée à des coups de fouet pour avoir chanté en public sans porter le voile. Les organisations de défense des droits humains dénoncent ce châtiment physique tandis que les États-Unis renforcent leurs sanctions économiques contre le pays.",
         "chart": null,
         "stakes": [
-          "L'intelligence artificielle va-t-elle transformer les méthodes de recherche en sciences fondamentales ?",
-          "La preuve proposée sera-t-elle formellement validée par la communauté mathématique ?",
-          "Quelles applications découleraient de la résolution de l'hypothèse de Riemann ?"
+          "Liberté d'expression et droits des femmes sous le régime iranien",
+          "Respect du droit international en matière de châtiments corporels",
+          "Impact des sanctions économiques internationales sur l'économie iranienne"
         ],
         "sources": [
           {
-            "name": "La Croix",
-            "title": "Coup de tonnerre au pays des maths : l’hypothèse de Riemann aurait été résolue",
-            "link": "https://www.la-croix.com/societe/coup-de-tonnerre-au-pays-des-maths-l-hypothese-de-riemann-aurait-ete-resolue-20261122",
-            "publishedAt": "2026-11-22T16:56:40.000Z",
+            "name": "Le Monde (International)",
+            "title": "Les Etats-Unis annoncent de nouvelles sanctions pour priver l’Iran de rentrées d’argent",
+            "link": "https://www.lemonde.fr/international/article/2026/11/23/les-etats-unis-annoncent-de-nouvelles-sanctions-pour-priver-l-iran-de-rentrees-d-argent_6814450_3210.html",
+            "publishedAt": "2026-11-23T20:37:04.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "The Guardian",
-            "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-            "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-            "publishedAt": "2026-11-22T17:55:27.000Z",
+            "name": "BBC News",
+            "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+            "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-23T18:04:20.000Z",
             "lang": "en",
             "country": "GB"
           },
           {
-            "name": "Deutsche Welle",
-            "title": "Anthropic researcher uses AI to solve math's greatest riddle",
-            "link": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-rdf",
-            "publishedAt": "2026-11-21T10:29:00.000Z",
+            "name": "The Guardian",
+            "title": "Iranian singer and four others receive lashes after performance without hijab",
+            "link": "https://www.theguardian.com/world/2026/nov/23/iranian-singer-lashes-performing-without-hijab",
+            "publishedAt": "2026-11-23T20:56:17.000Z",
             "lang": "en",
-            "country": "DE"
+            "country": "GB"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
+            "link": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss",
+            "publishedAt": "2026-11-23T20:41:56.000Z",
+            "lang": "en",
+            "country": "QA"
+          },
+          {
+            "name": "The Straits Times",
+            "title": "US sanctions alleged Iran ‘shadow-banking’ networks",
+            "link": "https://www.straitstimes.com/world/middle-east/us-imposes-sanctions-on-dozens-linked-to-irans-shadow-banking-networks",
+            "publishedAt": "2026-11-23T21:26:06.000Z",
+            "lang": "en",
+            "country": "SG"
           }
         ],
         "image": {
-          "url": "https://i.la-croix.com/x/2026/11/22/2595907-guide-par-le-chercheur-levent-alpoge-pour-resoudre.jpeg",
+          "url": "https://img.lemde.fr/2026/10/28/458/0/5500/2750/644/322/60/0/7293590_ftp-1-fdveboscvtds-2026-10-28t123341z-719045701-rc2mboab5pcz-rtrmadp-3-iran-crisis-economy-hardship.JPG",
+          "credit": "Le Monde (International)",
+          "link": "https://www.lemonde.fr/international/article/2026/11/23/les-etats-unis-annoncent-de-nouvelles-sanctions-pour-priver-l-iran-de-rentrees-d-argent_6814450_3210.html"
+        }
+      },
+      {
+        "id": "s840f91aa66",
+        "topic": "justice",
+        "title": "Reconnaissance internationale du génocide des Rohingyas",
+        "context": "En 2017, la minorité musulmane rohingya en Birmanie a subi des exactions massives menées par l'armée birmane, poussant des centaines de milliers de personnes à l'exil. La Cour internationale de justice est l'organe judiciaire principal des Nations unies chargé de trancher les différends entre États.",
+        "summary": "Quatorze pays, dont le Royaume-Uni, l'Espagne et le Canada, ont formellement soutenu l'arrêt de la Cour internationale de justice concluant à un génocide contre les Rohingyas. Dans la foulée de cette position, le gouvernement britannique a décidé d'imposer de nouvelles sanctions visant des responsables militaires birmans. Londres a également annoncé l'attribution d'une aide financière d'urgence destinée aux réfugiés de la communauté rohingya. Des juristes estiment que cette décision judiciaire établit un précédent important pour la qualification de génocide dans d'autres affaires internationales.",
+        "plain": "EN CLAIR : Quatorze pays ont officiellement approuvé la décision de la justice internationale qualifiant de génocide les attaques contre les Rohingyas en Birmanie. De nouvelles sanctions financières ont été prises contre des hauts dirigeants militaires du pays.",
+        "chart": null,
+        "stakes": [
+          "Portée juridique et application des arrêts de la Cour internationale de justice",
+          "Sanctions internationales contre les hauts dignitaires militaires birmans",
+          "Situation humanitaire et protection de la population rohingya"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Génocide des Rohingyas : 14 pays dont le Royaume-Uni et l’Espagne reconnaissent la décision de la CIJ",
+            "link": "https://www.la-croix.com/international/genocide-des-rohingyas-14-pays-dont-le-royaume-uni-et-l-espagne-reconnaissent-la-decision-de-la-cij-20261123",
+            "publishedAt": "2026-11-23T20:03:01.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "South China Morning Post",
+            "title": "UK sanctions Myanmar’s Min Aung Hlaing over genocide ruling; giving Rohingya aid, money",
+            "link": "https://www.scmp.com/news/world/europe/article/3375529/uk-sanctions-myanmar-president-military-figures-after-genocide-ruling",
+            "publishedAt": "2026-11-23T20:29:04.000Z",
+            "lang": "en",
+            "country": "HK"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "« Après le jugement de la Cour internationale de justice sur le Myanmar, la qualification de génocide à Gaza peut désormais s’appuyer sur sa jurisprudence »",
+            "link": "https://www.lemonde.fr/idees/article/2026/11/23/apres-le-jugement-de-la-cour-internationale-de-justice-sur-le-myanmar-la-qualification-de-genocide-a-gaza-peut-desormais-s-appuyer-sur-sa-jurisprudence_6814439_3232.html",
+            "publishedAt": "2026-11-23T18:30:12.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/23/2597046-un-garde-frontiere-du-myanmar-pres-d-une-cloture-e.jpg",
           "credit": "La Croix",
-          "link": "https://www.la-croix.com/societe/coup-de-tonnerre-au-pays-des-maths-l-hypothese-de-riemann-aurait-ete-resolue-20261122"
+          "link": "https://www.la-croix.com/international/genocide-des-rohingyas-14-pays-dont-le-royaume-uni-et-l-espagne-reconnaissent-la-decision-de-la-cij-20261123"
+        }
+      },
+      {
+        "id": "s3bd0ec532c",
+        "topic": "societe",
+        "title": "Incendie mortel dans une usine en Indonésie",
+        "context": "L'Indonésie abrite de nombreux sites industriels et usines de production employant du personnel en grand nombre. Les secours locaux sont régulièrement confrontés à des urgences majeures lors de sinistres industriels.",
+        "summary": "Un incendie violent s'est déclaré dans une usine de confiserie située en Indonésie pendant les heures de travail. Les flammes ont fait au moins 24 victimes mortelles selon le premier bilan communiqué par les autorités. Les équipes de secours poursuivent les opérations de recherche pour tenter de retrouver 34 personnes toujours portées disparues dans les ruines. Les autorités cherchent à déterminer l'origine du sinistre qui a détruit l'ensemble du complexe industriel.",
+        "plain": "EN CLAIR : Un grave incendie dans une usine de friandises en Indonésie a coûté la vie à au moins 24 personnes. Les secouristes continuent de fouiller les décombres pour retrouver 34 ouvriers portés disparus.",
+        "chart": {
+          "title": "Bilan humain de l'incendie d'usine en Indonésie",
+          "unit": "personnes",
+          "items": [
+            {
+              "label": "Personnes décédées",
+              "value": 24
+            },
+            {
+              "label": "Personnes disparues",
+              "value": 34
+            }
+          ],
+          "source": {
+            "name": "Sky News",
+            "link": "https://news.sky.com/story/deadly-fire-at-confectionery-factory-in-indonesia-kills-24-as-rescuers-search-for-dozens-still-missing-13615577"
+          }
+        },
+        "stakes": [
+          "Conditions de sécurité et de travail dans les complexes industriels",
+          "Bilan humain et organisation des secours en milieu industriel",
+          "Recherche des causes de la catastrophe"
+        ],
+        "sources": [
+          {
+            "name": "Sky News",
+            "title": "Deadly fire at confectionery factory kills 24 as rescuers search for dozens still missing",
+            "link": "https://news.sky.com/story/deadly-fire-at-confectionery-factory-in-indonesia-kills-24-as-rescuers-search-for-dozens-still-missing-13615577",
+            "publishedAt": "2026-11-23T10:52:00.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Deadly Fire Rips Through Candy Factory in Indonesia",
+            "link": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
+            "publishedAt": "2026-11-23T19:38:00.000Z",
+            "lang": "en",
+            "country": "US"
+          }
+        ],
+        "image": {
+          "url": "https://e3.365dm.com/26/11/1920x1080/skynews-serang-indonesia_7414286.jpg?20261123105702",
+          "credit": "Sky News",
+          "link": "https://news.sky.com/story/deadly-fire-at-confectionery-factory-in-indonesia-kills-24-as-rescuers-search-for-dozens-still-missing-13615577"
+        }
+      },
+      {
+        "id": "sd92c58eb47",
+        "topic": "politique",
+        "title": "Débats au Royaume-Uni sur le rapprochement avec l'UE",
+        "context": "Le Royaume-Uni a quitté l'Union européenne à la suite du vote du Brexit en 2016. Les relations économiques et réglementaires entre Londres et le bloc européen restent un sujet de débat majeur outre-Manche.",
+        "summary": "Le Premier ministre britannique Andy Burnham a défendu le nouvel accord négocié avec l'Union européenne sur le commerce, l'énergie et la jeunesse. Le chef du gouvernement affirme que ce rapprochement permettra de générer d'importants bénéfices économiques pour le Royaume-Uni. Des figures de l'opposition et d'anciens dirigeants ont accusé le Premier ministre de brader les acquis du Brexit et de transformer le pays en récepteur de normes européennes. Andy Burnham a répliqué en qualifiant ses détracteurs de personnes bloquées dans le passé tout en excluant d'organiser un nouveau référendum d'adhésion.",
+        "plain": "EN CLAIR : Le Premier ministre britannique tente de relancer le partenariat économique avec l'Union européenne. Ses opposants lui reprochent de revenir en arrière sur le Brexit, mais il affirme que ces accords sont nécessaires à la croissance du pays.",
+        "chart": null,
+        "stakes": [
+          "Équilibre commercial et économique entre le Royaume-Uni et l'Union européenne",
+          "Débats internes sur la souveraineté législative britannique",
+          "Conséquences politiques des renégociations post-Brexit"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "title": "Undoing Brexit is the right thing to attempt – but sadly, I can't see Andy Burnham pulling it off | Paul Taylor",
+            "link": "https://www.theguardian.com/commentisfree/2026/nov/23/undoing-brexit-right-thing-defeat-andy-burnham",
+            "publishedAt": "2026-11-23T05:00:47.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "Britain’s runaway Brexit debate is back",
+            "link": "https://www.politico.eu/article/britains-runaway-brexit-debate-is-back/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-23T19:50:40.000Z",
+            "lang": "en",
+            "country": "BE"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "Rejoining EU without referendum is ‘unthinkable,’ says Andy Burnham",
+            "link": "https://www.politico.eu/article/rejoining-eu-without-referendum-unthinkable-andy-burnham/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-23T17:26:34.000Z",
+            "lang": "en",
+            "country": "BE"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "Lib Dem leader claims he could negotiate EU single market access ‘within a year’",
+            "link": "https://www.politico.eu/article/lib-dem-leader-ed-davey-claims-he-could-negotiate-eu-single-market-access-within-a-year/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-23T16:35:36.000Z",
+            "lang": "en",
+            "country": "BE"
+          },
+          {
+            "name": "The Straits Times",
+            "title": "Burnham to ignore ‘stuck in the past’ ex-PMs as he hails UK’s EU reset",
+            "link": "https://www.straitstimes.com/world/europe/burnham-to-ignore-stuck-in-the-past-ex-pms-as-he-hails-uks-eu-reset",
+            "publishedAt": "2026-11-23T20:28:49.000Z",
+            "lang": "en",
+            "country": "SG"
+          },
+          {
+            "name": "South China Morning Post",
+            "title": "Burnham to ignore ‘stuck in the past’ ex-PMs as he hails UK’s EU reset",
+            "link": "https://www.scmp.com/news/world/europe/article/3375526/burnham-ignore-stuck-past-ex-pms-he-hails-uks-eu-reset",
+            "publishedAt": "2026-11-23T17:58:31.000Z",
+            "lang": "en",
+            "country": "HK"
+          },
+          {
+            "name": "El País",
+            "title": "Burnham insta al Parlamento a que deje de mirar al pasado con el Brexit",
+            "link": "https://elpais.com/internacional/2026-11-23/burnham-insta-al-parlamento-a-que-deje-de-mirar-al-pasado-con-el-brexit.html",
+            "publishedAt": "2026-11-23T21:15:32.000Z",
+            "lang": "es",
+            "country": "ES"
+          }
+        ],
+        "image": {
+          "url": "https://i.guim.co.uk/img/media/ff52cae722d726d0bc5f7c6dcba3b36df9e0d90c/291_0_4791_3833/master/4791.jpg?width=140&quality=85&auto=format&fit=max&s=eebb67dd59f53332f4ea653723176b81",
+          "credit": "The Guardian",
+          "link": "https://www.theguardian.com/commentisfree/2026/nov/23/undoing-brexit-right-thing-defeat-andy-burnham"
         }
       }
     ]
   },
-  "storiesAt": "2026-11-22T21:17:16.073Z",
-  "inputHash": "610ddd50afd3433b5cb70585e022868cbc473038",
-  "synthStatus": "absente",
+  "storiesAt": "2026-11-23T21:47:58.806Z",
+  "inputHash": null,
+  "synthStatus": "partielle",
   "news": {
     "france": [
       {
-        "id": "a7a28347417",
-        "title": "« Les tirs, c’était un peu trop compliqué » : quand les pensionnaires d’une résidence seniors testent GTA VI",
-        "link": "https://www.ouest-france.fr/gaming/jeux-video/les-tirs-cetait-un-peu-trop-complique-quand-les-pensionnaires-dune-residence-seniors-testent-gta-vi-22b670c4-e74e-11f1-b9ed-164c427aef07?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-        "summary": "Vendredi 20 novembre, le lendemain de la sortie mondiale de GTA VI, une dizaine de résidents d’une résidence pour seniors à Serris (Seine-et-Marne) ont découvert le jeu vidéo lors d’un atelier proposé par l’équipe d’animation. Les joueurs seniors ont apprécié le décor ultra-réaliste.",
-        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExMTQyN2UyMGEyN2ZkMWIxY2E5MTRiZjNhNTk2ZmMzYjQ?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=ccc649bc1e8f6bc4c72ab506902450809d0010d483675b4484703750fa146b22",
-        "publishedAt": "2026-11-23T15:04:14.000Z",
-        "source": "Ouest-France",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 0
-      },
-      {
-        "id": "a355d38aa1f",
-        "title": "« La police a le droit de nous tuer » : des militants LFI transforment l’hémicycle de l’Assemblée en studio de propagande",
-        "link": "https://www.valeursactuelles.com/politique/la-police-a-le-droit-de-nous-tuer-des-militants-lfi-transforment-lhemicycle-de-lassemblee-en-studio-de-propagande",
-        "summary": "« La police aujourd’hui a le droit de nous tuer sans conséquences. » Dans une mise en scène bien rodée, postée sur les réseaux dimanche 22 novembre, un petit groupe... L’article « La police a le droit de nous tuer » : des militants LFI transforment l’hémicycle de l&rsquo;Assemblée en studio de propa",
-        "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f534.png",
-        "publishedAt": "2026-11-23T15:02:49.000Z",
-        "source": "Valeurs actuelles",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 2
-      },
-      {
-        "id": "a729056d6c4",
-        "title": "Inscription de la « règle d’or » dans la Constitution : pourquoi c’est un braquage démocratique",
-        "link": "https://www.humanite.fr/politique/budget-2027/inscription-de-la-regle-dor-dans-la-constitution-pourquoi-cest-un-braquage-democratique",
-        "summary": "À quoi bon glisser un bulletin dans l’urne si les élus n’ont plus le pouvoir de trancher un budget ? Tel serait pourtant l’effet immédiat de cette pseudo-« règle d’or » inscrite dans la Constitution. Sous couvert de sérieux gestionnaire, un verrouillage de la politique économique pour des décennies.",
-        "image": "https://www.humanite.fr/wp-content/uploads/2024/02/Vignette_2024_editorial_stephane.png?w=1200",
-        "publishedAt": "2026-11-23T15:02:16.000Z",
-        "source": "L'Humanité",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -2
-      },
-      {
-        "id": "a5f0f5ba513",
-        "title": "Scandale Nvidia : Jensen Huang réintégré à la tête du géant américain des puces électroniques",
-        "link": "https://www.la-croix.com/economie/scandale-nvidia-jensen-huang-reintegre-a-la-tete-du-geant-americain-des-puces-electroniques-20261123",
-        "summary": "Le feuilleton Nvidia connaît un rebondissement majeur : lundi 23 novembre, à New York, Jensen Huang a été réintégré à la direction du géant des puces, dix jours après un scandale mêlant adultère, espionnage et contrebande qui avait provoqué sa démission.",
-        "image": "https://i.la-croix.com/x/2026/11/23/2596704-dix-jours-apres-sa-demission-liee-a-un-scandale-d-.jpg",
-        "publishedAt": "2026-11-23T15:02:12.000Z",
+        "id": "aa49914bbae",
+        "title": "60 millions de consommateurs : accord de reprise par Xavier Niel",
+        "link": "https://www.la-croix.com/60-millions-de-consommateurs-accord-de-reprise-par-xavier-niel-20261123",
+        "summary": "Le ministère de l’économie a annoncé lundi 23 juin l’acceptation de l’offre de Xavier Niel pour reprendre 60 millions de consommateurs, via sa holding NJJ Médias.",
+        "image": "https://i.la-croix.com/x/2026/11/23/2596988-l-offre-de-reprise-du-magazine-60-millions-de-cons.jpg",
+        "publishedAt": "2026-11-23T21:30:10.000Z",
         "source": "La Croix",
         "lang": "fr",
         "country": "FR",
         "lean": 0.5
       },
       {
-        "id": "a66d037de32",
-        "title": "\"C'était une piscine, totalement\" : le maire d'une commune de l'Hérault touchée par les inondations envisage d'interdire les parkings souterrains",
-        "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/c-etait-une-piscine-totalement-le-maire-d-une-commune-de-l-herault-touchee-par-les-inondations-envisage-d-interdire-les-parkings-souterrains_8296178.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "À Baillargues, près de Montpellier, des parkings se retrouvent littéralement sous l'eau et pourraient menacer les fondations de plusieurs immeubles. Après les fortes pluies des derniers mois, l'eau ne parvient pas à s'évacuer malgré les opérations de pompage, ce qui pose la question de l'interdictio",
-        "image": "https://www.franceinfo.fr/pictures/6NzwCYv2kH5CgXZ0ZksC8xG85Ms/0x76:1486x911/432x243/filters:format(jpg)/2026/11/23/6b044cf77a623958513324.png",
-        "publishedAt": "2026-11-23T15:01:45.000Z",
-        "source": "franceinfo",
+        "id": "a9366cef0c0",
+        "title": "Budget 2027 : Sébastien Lecornu tend la main aux parlementaires pour un compromis, sans toucher au déficit",
+        "link": "https://www.ouest-france.fr/economie/budget-collectivites-etat/budget-2027-sebastien-lecornu-tend-la-main-aux-parlementaires-pour-un-compromis-sans-toucher-au-deficit-7907f528-e781-11f1-bd4e-6f30b8f49e21?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Le Premier ministre tente de « trouver une voie de passage » pour le budget 2027, alors que la majorité lui fait défaut. Pour ce faire, le chef du gouvernement a écrit aux parlementaires pour leur proposer cinq thèmes de compromis.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExOTNkZWQ4NDI2ODBjOTE1NmQzY2ViYWIwMDNiYmMwYzM?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=6b4e811d309d54d4cc222e6f7ddee749ab233452d3f84088e464d488eaa464da",
+        "publishedAt": "2026-11-23T21:20:54.000Z",
+        "source": "Ouest-France",
         "lang": "fr",
         "country": "FR",
         "lean": 0
       },
       {
-        "id": "a36db9938a9",
-        "title": "\"Jean-Luc Mélenchon n’a pas réalisé que la Russie est un pays fasciste\" : Hugo Havard, un écologiste français sur le front ukrainien",
-        "link": "https://www.lexpress.fr/france/jean-luc-melenchon-na-pas-realise-que-la-russie-est-un-pays-fasciste-hugo-havard-un-ecologiste-WPDQ4SGNUZBAZJZ3VYOHWVNYKU/",
-        "summary": "",
-        "image": "https://www.lexpress.fr/resizer/v2/QBLJUJ56YJBBDBSPOE66EVSSMY.jpeg?auth=17b65647f43ee71c954e24df7335bb473be0533a514090c9671dad38eb3c0f72&smart=true&width=1200&height=1600",
-        "publishedAt": "2026-11-23T15:00:00.000Z",
-        "source": "L'Express",
+        "id": "a886313cb82",
+        "title": "Les écolos pro-Glucksmann fondent «Ecologistes et démocrates», un nouveau parti",
+        "link": "https://www.liberation.fr/politique/elections/les-ecolos-pro-glucksmann-fondent-ecologistes-et-democrates-un-nouveau-parti-20261123_MLJLZCW7TFETBE4P665OQHQB5Y/",
+        "summary": "Echaudés par la main tendue de Marine Tondelier aux insoumis, Yannick Jadot et quelques autres cadres de la campagne Glucksmann ont annoncé, ce lundi, la fondation de leur propre formation.",
+        "image": null,
+        "publishedAt": "2026-11-23T21:09:41.000Z",
+        "source": "Libération",
         "lang": "fr",
         "country": "FR",
-        "lean": 1
+        "lean": -1.5
       },
       {
-        "id": "ae0b568e79b",
-        "title": "TCL 189 cm à 1 390 euros pendant le Black Friday",
-        "link": "https://www.lefigaro.fr/bons-plans/high-tech/tcl-189-cm-a-1-390-euros-pendant-le-black-friday-20261123",
-        "summary": "1 390 euros au lieu de 1 799 euros chez Son-Video.com, soit 409 euros d’économie, c’est-à-dire presque 23 %. C’est le prix actuellement pratiqué sur le 75 4K, avec rétroéclairage RGB Mini LED.",
-        "image": "https://i.f1g.fr/media/cms/1600x1200_crop/2026/11/23/75b85afa398d5bc720bf2d04553ac6799cd1d7c38eae2c1e5871371c287b2075.png",
-        "publishedAt": "2026-11-23T14:54:15.000Z",
+        "id": "a8e2b7121e8",
+        "title": "Avec Robert Pattinson, James Bond va-t-il changer de montre ?",
+        "link": "https://www.valeursactuelles.com/art-de-vivre/avec-robert-pattinson-james-bond-va-t-il-changer-de-montre",
+        "summary": "Le verdict est tombé : Robert Pattinson sera le septième James Bond de l’histoire du cinéma. Nombreux étaient les fans de la saga à guetter la nouvelle, après la dernière... L’article Avec Robert Pattinson, James Bond va-t-il changer de montre ? est apparu en premier sur Valeurs actuelles .",
+        "image": null,
+        "publishedAt": "2026-11-23T21:00:33.000Z",
+        "source": "Valeurs actuelles",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
+      },
+      {
+        "id": "aeafeb4ac12",
+        "title": "Nvidia réintègre Jensen Huang : l’action du groupe s’envole de 31%, la fortune du dirigeant gonfle de 33 milliards de dollars",
+        "link": "https://www.liberation.fr/economie/economie-numerique/onze-jours-apres-sa-demission-nvidia-reintegre-jensen-huang-a-son-poste-de-directeur-general-20261123_OQ3UFJGVAZER5JTIPRRTKF7W7Q/",
+        "summary": "Le sexagénaire, dirigeant du puissant fournisseur de puces électroniques, avait été poussé à la démission le 12 novembre après un scandale lié à sa maîtresse, soupçonnée d’être une espionne au profit de la Chine.",
+        "image": null,
+        "publishedAt": "2026-11-23T21:00:31.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "afb0cc6ae3a",
+        "title": "Samuel Fitoussi : « L’IA va-t-elle tous nous tuer ? »",
+        "link": "https://www.lefigaro.fr/vox/societe/samuel-fitoussi-l-ia-va-t-elle-tous-nous-tuer-20261123",
+        "summary": "CHRONIQUE - Les progrès fulgurants de l’intelligence artificielle posent une question vertigineuse : notre capacité à évaluer et à aligner les IA progressera-t-elle aussi vite que leurs capacités à déjouer notre vigilance ?",
+        "image": "https://i.f1g.fr/media/cms/2604x1464_crop/2026/11/23/f2987d7b4f62558e39b233bf96aa6369482a990b0221ac70701222b74777e6de.jpg",
+        "publishedAt": "2026-11-23T20:59:00.000Z",
         "source": "Le Figaro",
         "lang": "fr",
         "country": "FR",
         "lean": 1.5
       },
       {
-        "id": "a416271e287",
-        "title": "De l’importance de retrouver le chemin de l’école",
-        "link": "https://www.lejdd.fr/Societe/de-limportance-de-retrouver-le-chemin-de-lecole-189462",
-        "summary": "TRIBUNE. Alors que la mobilisation lycéenne se prolonge en France, l’enseignant Maxime Scotti et les élus David Perre et Marie-Carole Ciuntu rappellent le rôle fondamental de l’école républicaine, lieu d’émancipation, d’égalité et de fraternité.",
-        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/23/12/sipa_01317206_000030.jpg?VersionId=1pyLtCGAcFoCoqxSEDVwy6krw.AbvKUl",
-        "publishedAt": "2026-11-23T14:48:32.000Z",
+        "id": "a7aa2026699",
+        "title": "Prix Goncourt des lycéens : qui succédera à Nathacha Appanah ?",
+        "link": "https://www.lefigaro.fr/culture/prix-goncourt-des-lyceens-qui-succedera-a-nathacha-appanah-20261123",
+        "summary": "La liste des cinq finalistes a été dévoilée ce lundi 23 novembre. Le lauréat sera désigné ce jeudi.",
+        "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/23/f8ef2ddef869e78efe25d4b3ed67bac58493074c8a38c58766db441f66966227.jpg",
+        "publishedAt": "2026-11-23T20:54:20.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "a89f1a71567",
+        "title": "La France va créer des stocks stratégiques de terres rares et de métaux prioritaires pour réduire sa dépendance à la Chine d’ici à 2027",
+        "link": "https://www.lemonde.fr/economie/article/2026/11/23/la-france-va-creer-des-stocks-strategiques-de-terres-rares-et-de-metaux-prioritaires-pour-reduire-sa-dependance-a-la-chine-d-ici-a-2027_6814452_3234.html",
+        "summary": "La Caisse des dépôts, qui pilotera le projet, va consulter les industriels des secteurs stratégiques utilisant ces matières premières.",
+        "image": "https://img.lemde.fr/2026/11/20/637/0/7650/3825/644/322/60/0/8245e37_ftp-1-wocq0kpsyj0x-23290ee51ae148dbaf4c1f59d5c4370f-0-6b5715eeaf8046ed9ef9a5a542d7eb89.jpg",
+        "publishedAt": "2026-11-23T20:43:40.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "ae794605962",
+        "title": "Budget 2027 : Sébastien Lecornu appelle au « compromis » dans une lettre aux parlementaires et liste les priorités du gouvernement",
+        "link": "https://www.lemonde.fr/politique/article/2026/11/23/budget-2027-sebastien-lecornu-appelle-au-compromis-dans-une-lettre-aux-parlementaires-et-liste-les-priorites-du-gouvernement_6814451_823448.html",
+        "summary": "Alors que les projets de loi de finances et de financement de la Sécurité sociale ont été rejetés à l’Assemblée nationale, le premier ministre souhaite poursuivre les discussions avec les parlementaires.",
+        "image": "https://img.lemde.fr/2026/11/19/603/0/7229/3614/644/322/60/0/b0d0bde_ftp-1-gqfi5jy6cogl-afp-d8236fd.jpg",
+        "publishedAt": "2026-11-23T20:42:50.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "ae0e27cbbc8",
+        "title": "\"J'ai une phobie de l'eau maintenant\" : les sinistrés du Pas-de-Calais épuisés par les inondations",
+        "link": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/j-ai-une-phobie-de-l-eau-maintenant-les-sinistres-du-pas-de-calais-epuises-par-les-inondations_8296695.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Le niveau de la Canche baisse ce lundi 23 novembre, mais la décrue est lente après les inondations, dans le Pas-de-Calais. À Aix-en-Issart, une habitante rencontrée par France Télévisions vit toujours à l’hôtel, épuisée par les intempéries à répétition. Comme elle, d’autres sinistrés attendent de po",
+        "image": "https://www.franceinfo.fr/pictures/8yyrxBGOJhLgY-BSW3DUex4YKX0/0x31:1614x938/432x243/filters:format(jpg)/2026/11/23/6b0495c675c6d818434865.png",
+        "publishedAt": "2026-11-23T20:14:42.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "ab5a8dd3b5f",
+        "title": "Déraillement d'un TER en Seine-Maritime : quatre personnes interpellées près de Rouen",
+        "link": "https://www.franceinfo.fr/france/normandie/seine-maritime/deraillement-d-un-ter-en-seine-maritime-quatre-personnes-interpellees-pres-de-rouen_8296737.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Quatre hommes ont été interpellés, dans la matinée du lundi 23 novembre, près de Rouen (Seine-Maritime), dans le cadre de l'enquête sur le déraillement d'un TER reliant Rouen à Caen le 11 septembre dernier. L'accident avait fait 44 blessés.",
+        "image": "https://www.franceinfo.fr/pictures/y7cfsz_Wgmxm04Cov6ZZd07Affw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/23/6b049acb9ce24433737691.jpg",
+        "publishedAt": "2026-11-23T19:58:36.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "a79b7848ec4",
+        "title": "Les députés socialistes déposent un recours contre la loi « permis de tuer »",
+        "link": "https://www.humanite.fr/politique/assemblee-nationale/les-deputes-socialistes-deposent-un-recours-contre-la-loi-permis-de-tuer",
+        "summary": "Les parlementaires socialistes ont présenté ce lundi 22&nbsp;novembre un recours devant le Conseil constitutionnel contre la loi «&nbsp;instaurant une présomption d’usage légitime des armes à feu&nbsp;» par les policiers et gendarmes.",
+        "image": "https://www.humanite.fr/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-20.30.31.jpeg?w=1200",
+        "publishedAt": "2026-11-23T19:31:50.000Z",
+        "source": "L'Humanité",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -2
+      },
+      {
+        "id": "abe026abdfd",
+        "title": "«Marine Tondelier est soumise à LFI» : Cohn-Bendit charge la patronne des Écologistes",
+        "link": "https://www.lejdd.fr/politique/marine-tondelier-est-soumise-a-lfi-cohn-bendit-charge-la-patronne-des-ecologistes-189498",
+        "summary": "L’ancien leader écologiste a vivement dénoncé le rapprochement de la secrétaire nationale des Écologistes avec La France insoumise en vue de 2027. Il met en garde contre une stratégie qui, selon lui, pourrait conduire à l’élection de Marine Le Pen.",
+        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/23/18/sipa_shutterstock41167746_000002.jpg?VersionId=pyrrRxs7cLuXcfQSZK.R3FsuX9p9j323",
+        "publishedAt": "2026-11-23T17:32:22.000Z",
         "source": "Le JDD",
         "lang": "fr",
         "country": "FR",
         "lean": 2
       },
       {
-        "id": "afdfe9d3f11",
-        "title": "«Types cagoulés tirant au mortier» liés au député Louis Boyard : le ministre Jeanbrun incapable d’étayer ses accusations",
-        "link": "https://www.liberation.fr/checknews/types-cagoules-tirant-au-mortier-lies-au-depute-louis-boyard-le-ministre-jeanbrun-incapable-detayer-ses-accusations-20261123_E5U2S2BR4VGFRFRS4NRR56JB2M/",
-        "summary": "Le 22 novembre sur CNews, le ministre du Logement laissait entendre que l’élu insoumis était rattaché à «des types cagoulés [tirant] au mortier sur les forces de l’ordre». Interrogé par «CheckNews», son cabinet n’a fourni aucun élément de preuve sérieux.",
-        "image": null,
-        "publishedAt": "2026-11-23T14:39:11.000Z",
-        "source": "Libération",
+        "id": "ae4ea35786b",
+        "title": "\"Les écoles de commerce se sont multipliées, mais la croissance ne suit plus\" : la crise française expliquée par le chercheur Nicolas Salerno",
+        "link": "https://www.lexpress.fr/idees-et-debats/les-ecoles-de-commerce-se-sont-multipliees-mais-la-croissance-ne-suit-plus-la-crise-francaise-4XT5RL5WGNFS3DHNA266BGDS64/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/VBOXL5PMMFCSVLSV64XJ42IA4Q.jpg?auth=5489058c3c2685ee8f764bd42e5e40b1b5bd6312f147070dbeefc55783fd8463&smart=true&width=6192&height=4128",
+        "publishedAt": "2026-11-23T17:00:00.000Z",
+        "source": "L'Express",
         "lang": "fr",
         "country": "FR",
-        "lean": -1.5
-      },
-      {
-        "id": "acc72354a84",
-        "title": "Vol de plus de 200 carpes koï dans l'Oise : quatre suspects devant le tribunal ce lundi",
-        "link": "https://www.franceinfo.fr/faits-divers/vol-de-plus-de-200-carpes-koi-dans-l-oise-quatre-suspects-devant-le-tribunal-ce-lundi_8296166.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "Le procès des voleurs de poissons chez un pisciculteur s'ouvre ce lundi 23 novembre. Quatre personnes sont jugées devant le tribunal correctionnel pour avoir dérobé 230 carpes koï, une espèce particulièrement chère, célèbre pour ses motifs colorés. Les suspects ont vidé les bassins en quelques heure",
-        "image": "https://www.franceinfo.fr/pictures/dIs_4Y2-27wxTUBL3Py_N42NA84/0x39:1390x820/432x243/filters:format(jpg)/2026/11/23/6b044aaab6bd0783718150.png",
-        "publishedAt": "2026-11-23T14:38:50.000Z",
-        "source": "franceinfo",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 0
-      },
-      {
-        "id": "aec2a46591b",
-        "title": "Grand Paris Express : Valérie Pécresse juge « très compromise » la mise en service de la ligne 18 avant la fin de l’année",
-        "link": "https://www.lemonde.fr/economie/article/2026/11/23/grand-paris-express-valerie-pecresse-juge-tres-compromise-la-mise-en-service-de-la-ligne-18-avant-la-fin-de-l-annee_6814396_3234.html",
-        "summary": "Le lancement du premier tronçon du vaste réseau de transport francilien a été reporté à de multiples reprises. La présidente de la région Ile-de-France met en cause Alstom et son logiciel d’automatisation, alors que « les deux mois de marche à blanc » nécessaires avant le déploiement de la ligne 18 ",
-        "image": "https://img.lemde.fr/2026/11/23/624/0/7490/3745/644/322/60/0/0115d18_upload-1-zvp7y4b7viit-000-c7dr97x.jpg",
-        "publishedAt": "2026-11-23T14:35:20.000Z",
-        "source": "Le Monde",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1
-      },
-      {
-        "id": "a349f2dc0dc",
-        "title": "«Tintin au Congo» : Teddy Riner porte plainte contre Emmanuelle Mignon",
-        "link": "https://www.liberation.fr/politique/elections/tintin-au-congo-teddy-riner-porte-plainte-contre-emmanuelle-mignon-20261123_VVC77KHMFJBHPHXYX3GTIT44XA/",
-        "summary": "Selon BFM TV, le judoka et candidat à la présidentielle 2027 réplique aux propos tenus par l’ex-collaboratrice de Nicolas Sarkozy sur France Inter mi-novembre après la visite de ce dernier dans un hôpital à Saint-Denis.",
-        "image": null,
-        "publishedAt": "2026-11-23T14:32:37.000Z",
-        "source": "Libération",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1.5
-      },
-      {
-        "id": "a30c5d8cfc9",
-        "title": "Goût pour la récupération, passion pour les marionnettes et le théâtre : André Derain, une âme d’enfant joueur mis à l’honneur à Troyes",
-        "link": "https://www.lefigaro.fr/arts-expositions/gout-pour-la-recuperation-passion-pour-les-marionnettes-et-le-theatre-andre-derain-une-ame-d-enfant-joueur-mis-a-l-honneur-a-troyes-20261123",
-        "summary": "CRITIQUE - Le musée d’art moderne riche de ses œuvres données par un couple d’amis compose un portrait excédant largement celui du pionnier du fauvisme et du cubisme.",
-        "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/23/762f633adf12b1a9de423671928b60d835d59e272ad2e562c55a642e6156f58f.jpg",
-        "publishedAt": "2026-11-23T14:30:00.000Z",
-        "source": "Le Figaro",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 1.5
-      },
-      {
-        "id": "a51b693fec7",
-        "title": "Jensen Huang réintégré à la tête de Nvidia par son conseil d’administration, deux semaines après avoir démissionné à la suite de soupçons d’espionnage chinois",
-        "link": "https://www.lemonde.fr/economie/article/2026/11/23/jensen-huang-reintegre-comme-directeur-general-et-president-de-nvidia-par-le-conseil-d-administration-deux-semaines-apres-avoir-demissionne-suite-a-des-suspicions-d-espionnage-chinois_6814392_3234.html",
-        "summary": "Ce coup de théâtre intervient après des appels répétés du président américain, Donald Trump, proche de Jensen Huang, à la réintégration de cette figure emblématique de la tech au sein de l’entreprise qu’il a cofondée.",
-        "image": "https://img.lemde.fr/2026/11/23/432/0/5184/2592/644/322/60/0/4f086c0_ftp-1-gxfgh7xfmfmy-afp-d8d42ke.jpg",
-        "publishedAt": "2026-11-23T14:21:52.000Z",
-        "source": "Le Monde",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1
+        "lean": 1
       }
     ],
     "monde": [
       {
-        "id": "af1abf2755a",
-        "title": "Former Tory PMs ‘can’t face up to their bad Brexit deal’, says Burnham – UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-        "summary": "Rishi Sunak joins other former Tory PMs in urging Burnham not to reopen the debate on Brexit In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and reindustrialisation commissioner. She said: Giving busines",
-        "image": "https://i.guim.co.uk/img/media/c1db663bc7667222692d12878f5578031da69604/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=02b596279ec0f6f7602a8d253e5d6d4d",
-        "publishedAt": "2026-11-23T14:54:07.000Z",
+        "id": "af690546e52",
+        "title": "Australian politics live: Labor to ‘save more than we spend’ in budget update, Chalmers says; rental affordability plummets to 14-year low",
+        "link": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+        "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few",
+        "image": "https://i.guim.co.uk/img/media/86612b7e576ef8d8fefee996ef99ce1a4d96d978/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3cfc00a623bc89dcb46c85bdf6218a75",
+        "publishedAt": "2026-11-23T21:24:29.000Z",
         "source": "The Guardian",
         "lang": "en",
         "country": "GB",
         "lean": -1.5
       },
       {
-        "id": "a2cb2f93d81",
-        "title": "Mexican soldiers attacked in wake of drug lord's arrest",
-        "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
-        "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/64308a00-e73d-11f1-802a-678be58471bb.jpg",
-        "publishedAt": "2026-11-23T14:54:03.000Z",
+        "id": "a7e6ee75f46",
+        "title": "Wall Street stocks soar as Jensen Huang returns to Nvidia",
+        "link": "https://www.telegraph.co.uk/business/2026/11/23/us-stocks-poised-to-rebound-after-global-tech-sell-off/",
+        "summary": "Wall Street stocks soar as Jensen Huang returns to Nvidia",
+        "image": "https://www.telegraph.co.uk/content/dam/business/2026/11/23/TELEMMGLPICT000453110518_17954239357480_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdLdu0TL-Cg_AMOUqySXmFgU.jpeg",
+        "publishedAt": "2026-11-23T21:18:07.000Z",
+        "source": "The Telegraph",
+        "lang": "en",
+        "country": "GB",
+        "lean": 1.5
+      },
+      {
+        "id": "ae8b12cc5b9",
+        "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+        "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+        "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg",
+        "publishedAt": "2026-11-23T20:48:35.000Z",
         "source": "BBC News",
         "lang": "en",
         "country": "GB",
         "lean": 0
       },
       {
-        "id": "ad7ae748c89",
-        "title": "Nepal's new PM eyes closer ties with India amid lingering disputes",
-        "link": "https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769?maca=en-rss-en-world-4025-rdf",
-        "summary": "On his first foreign bilateral visit, rapper-turned-Prime Minister Balendra Shah sought deeper ties with Nepal's neighbor and largest trading partner, while steering clear of sticky territorial issues.",
-        "image": null,
-        "publishedAt": "2026-11-23T14:49:00.000Z",
-        "source": "Deutsche Welle",
-        "lang": "en",
-        "country": "DE",
-        "lean": 0
-      },
-      {
-        "id": "ae82e201517",
-        "title": "Nvidia setzt Jensen Huang wieder als Chef ein",
-        "link": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html",
-        "summary": "Spekulationen gab es bereits, jetzt ist es offiziell: Jensen Huang kehrt an die Spitze des US-Techkonzerns Nvidia zurück. Er war erst vor wenigen Wochen wegen eines Spionageskandals zurückgetreten.",
-        "image": "https://images.tagesschau.de/image/9227b90e-589e-4066-b1ae-05b973ede96d/AAABogjTaHc/AAABnSSvrFg/16x9-big/huang-130.jpg?width=1920",
-        "publishedAt": "2026-11-23T14:47:43.000Z",
+        "id": "a0e61054630",
+        "title": "tagesschau in 100 Sekunden",
+        "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1688774.html",
+        "summary": "tagesschau in 100 Sekunden",
+        "image": "https://images.tagesschau.de/image/630eab84-c369-4adb-9f38-00772179c558/AAABogoj8dc/AAABnSSvrFg/16x9-big/sendungsbild-1832032.jpg?width=1920",
+        "publishedAt": "2026-11-23T20:41:16.000Z",
         "source": "Tagesschau",
         "lang": "de",
         "country": "DE",
         "lean": 0
       },
       {
-        "id": "a1baaa97b8a",
-        "title": "Flights and train services cancelled in Belgium due to strike",
-        "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-        "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg",
-        "publishedAt": "2026-11-23T13:34:02.000Z",
-        "source": "BBC News",
-        "lang": "en",
-        "country": "GB",
-        "lean": 0
-      },
-      {
-        "id": "ae3cd39164b",
-        "title": "Chamonix mayor plans tourist limits for Alpine beauty spot",
-        "link": "https://www.theguardian.com/world/2026/nov/23/chamonix-mayor-tourist-limits-lac-blanc",
-        "summary": "Rising numbers around Lac Blanc are having big impact on environment and on visitors’ enjoyment, mayor says In the Alpine town of Chamonix, most tourist paths lead to the national park with spectacular views across Mont Blanc and the shrinking blue glaciers . In the summer, up to 4,000 tourists a da",
-        "image": "https://i.guim.co.uk/img/media/a63093932f37c4332a8a079dc26007340f120f5d/317_0_2439_1952/master/2439.jpg?width=140&quality=85&auto=format&fit=max&s=b35b1b5d5fa85763fd86f5e14aeffac4",
-        "publishedAt": "2026-11-23T10:52:53.000Z",
+        "id": "a0774ef478c",
+        "title": "Gisèle Pelicot ‘deeply shocked’ after nude images used to promote book",
+        "link": "https://www.theguardian.com/world/2026/nov/23/gisele-pelicot-deeply-shocked-nude-images-book-france",
+        "summary": "French woman says she will pursue legal action against publisher and author over use of photos taken by convicted husband Gisèle Pelicot has said she is “deeply shocked” that nude photographs of her had been used without her consent to promote a psychoanalyst’s book that suggests she was complicit i",
+        "image": "https://i.guim.co.uk/img/media/e37fab5a02fab6041eac944574360d00dabfca4c/820_500_3296_2637/master/3296.jpg?width=140&quality=85&auto=format&fit=max&s=bbfce3c5d5370336696903b8b572a2af",
+        "publishedAt": "2026-11-23T18:12:48.000Z",
         "source": "The Guardian",
         "lang": "en",
         "country": "GB",
         "lean": -1.5
       },
       {
+        "id": "af943b78b7a",
+        "title": "After Japan's APEC snub, what's next for its China ties?",
+        "link": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-world-4025-rdf",
+        "summary": "Japan has long-running concerns over Chinese military expansionism, and Beijing has bristled at Sanae Takaichi's comments on Taiwan. The frosty ties were on full display at the APEC summit.",
+        "image": null,
+        "publishedAt": "2026-11-23T15:57:00.000Z",
+        "source": "Deutsche Welle",
+        "lang": "en",
+        "country": "DE",
+        "lean": 0
+      },
+      {
+        "id": "a2b24000153",
+        "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+        "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f684/live/02351f90-e74d-11f1-99b6-a35a62fa4264.jpg",
+        "publishedAt": "2026-11-23T15:41:23.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      },
+      {
         "id": "a3bd0ec532c",
         "title": "Deadly fire at confectionery factory kills 24 as rescuers search for dozens still missing",
         "link": "https://news.sky.com/story/deadly-fire-at-confectionery-factory-in-indonesia-kills-24-as-rescuers-search-for-dozens-still-missing-13615577",
-        "summary": "A deadly fire that tore through a confectionery factory in Indonesia has claimed the lives of 24 people, with about 30 others still missing.",
+        "summary": "A deadly fire that tore through a confectionery factory in Indonesia has claimed the lives of 24 people, with 34 others still missing.",
         "image": "https://e3.365dm.com/26/11/1920x1080/skynews-serang-indonesia_7414286.jpg?20261123105702",
         "publishedAt": "2026-11-23T10:52:00.000Z",
         "source": "Sky News",
         "lang": "en",
         "country": "GB",
         "lean": 0.5
-      },
-      {
-        "id": "a65652f914a",
-        "title": "Any regrets, Mauricio? Man Utd are deep in relegation battle after Anfield farce",
-        "link": "https://www.telegraph.co.uk/football/2026/11/22/liverpool-vs-man-utd-live-score-premier-league-updates/",
-        "summary": "Any regrets, Mauricio? Man Utd are deep in relegation battle after Anfield farce",
-        "image": "https://www.telegraph.co.uk/content/dam/football/2026/11/22/TELEMMGLPICT000512707498_17953755857400_trans_NvBQzQNjv4BqrX9bpVqKIdt7T4Fp1k1q_BORI5E1RUFI84RFC2giFj0.jpeg",
-        "publishedAt": "2026-11-23T09:59:41.000Z",
-        "source": "The Telegraph",
-        "lang": "en",
-        "country": "GB",
-        "lean": 1.5
       }
     ]
   },
@@ -1554,19 +1546,19 @@
       "name": "The Telegraph (GB)",
       "url": "https://www.telegraph.co.uk/rss.xml",
       "ok": true,
-      "count": 4
+      "count": 6
     },
     {
       "name": "Sky News (GB)",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 3
+      "count": 2
     },
     {
       "name": "Deutsche Welle (DE)",
       "url": "https://rss.dw.com/rdf/rss-en-world",
       "ok": true,
-      "count": 7
+      "count": 5
     },
     {
       "name": "Tagesschau (DE)",
@@ -1638,7 +1630,7 @@
       "name": "Daily Sabah (TR)",
       "url": "https://www.dailysabah.com/rssFeed/10",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "name": "The Times of India (IN)",
