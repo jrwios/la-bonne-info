@@ -1,0 +1,2018 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T02:36:40.219Z",
+  "status": "partielle",
+  "stories": {
+    "france": [
+      {
+        "id": "s89f1a71567",
+        "topic": "economie",
+        "title": "La France veut créer des stocks stratégiques de minerais critiques",
+        "context": "La France cherche à renforcer son indépendance industrielle face à certains pays fournisseurs, notamment la Chine. La Caisse des dépôts, une institution financière publique française, pilotera les échanges avec les industriels.",
+        "summary": "Selon l'Élysée et le ministère de l'Économie, la France prévoit de constituer des stocks stratégiques de terres rares et de métaux prioritaires d'ici à 2027. Ce projet s'inspire du modèle déjà existant pour les réserves de pétrole. La Caisse des dépôts mènera une concertation avec les entreprises des secteurs industriels clés qui dépendent de ces matières premières afin d'évaluer leurs besoins.",
+        "plain": "EN CLAIR : Le gouvernement français souhaite accumuler des réserves de métaux rares utilisés dans l'industrie pour éviter de manquer de matières premières d'ici 2027. Cette initiative vise à réduire la dépendance vis-à-vis des approvisionnements extérieurs comme la Chine.",
+        "chart": null,
+        "stakes": [
+          "Comment les industriels français vont-ils s'organiser pour constituer ces stocks ?",
+          "Ce dispositif permettra-t-il de prémunir l'économie française contre des ruptures d'approvisionnement ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "La France va créer des stocks stratégiques de terres rares et de métaux prioritaires pour réduire sa dépendance à la Chine d’ici à 2027",
+            "link": "https://www.lemonde.fr/economie/article/2026/11/23/la-france-va-creer-des-stocks-strategiques-de-terres-rares-et-de-metaux-prioritaires-pour-reduire-sa-dependance-a-la-chine-d-ici-a-2027_6814452_3234.html",
+            "publishedAt": "2026-11-23T20:43:40.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "La Croix",
+            "title": "Industrie : la France va se doter de « stocks stratégiques » de minerais critiques",
+            "link": "https://www.la-croix.com/economie/industrie-la-france-va-se-doter-de-stocks-strategiques-de-minerais-critiques-20261123",
+            "publishedAt": "2026-11-23T20:22:41.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "France 24",
+            "title": "Terres rares : Emmanuel Macron annonce que la France va se doter de \"stocks stratégiques\"",
+            "link": "https://www.france24.com/fr/france/20261123-terres-rares-macron-annonce-france-doter-stocks-strat%C3%A9giques",
+            "publishedAt": "2026-11-23T21:06:36.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "RFI",
+            "title": "Industrie: la France va se doter de «stocks stratégiques» de minerais critiques",
+            "link": "https://www.rfi.fr/fr/france/20261123-industrie-la-france-va-se-doter-de-stocks-strat%C3%A9giques-de-minerais-critiques",
+            "publishedAt": "2026-11-23T22:13:11.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/20/637/0/7650/3825/644/322/60/0/8245e37_ftp-1-wocq0kpsyj0x-23290ee51ae148dbaf4c1f59d5c4370f-0-6b5715eeaf8046ed9ef9a5a542d7eb89.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/economie/article/2026/11/23/la-france-va-creer-des-stocks-strategiques-de-terres-rares-et-de-metaux-prioritaires-pour-reduire-sa-dependance-a-la-chine-d-ici-a-2027_6814452_3234.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "France aims to create strategic stocks of critical minerals",
+            "context": "France is seeking to strengthen its industrial independence in the face of certain supplier countries, notably China. The Caisse des dépôts, a French public financial institution, will manage exchanges with industrialists.",
+            "summary": "According to the Élysée and the Ministry of Economy, France plans to build up strategic stocks of rare earths and priority metals by 2027. This project is inspired by the existing model for oil reserves. The Caisse des dépôts will lead consultations with companies in key industrial sectors that depend on these raw materials to assess their needs.",
+            "plain": "IN SHORT: The French government wants to build up reserves of rare metals used in industry to avoid shortages of raw materials by 2027. This initiative aims to reduce dependence on external supplies such as China.",
+            "stakes": [
+              "How will French industrialists organize themselves to build up these stocks?",
+              "Will this mechanism protect the French economy against supply disruptions?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Francia quiere crear reservas estratégicas de minerales críticos",
+            "context": "Francia busca reforzar su independencia industrial frente a ciertos países proveedores, en particular China. La Caisse des dépôts, una institución financiera pública francesa, pilotará los intercambios con los industriales.",
+            "summary": "Según el Elíseo y el Ministerio de Economía, Francia planea constituir reservas estratégicas de tierras raras y metales prioritarios de aquí a 2027. Este proyecto se inspira en el modelo ya existente para las reservas de petróleo. La Caisse des dépôts liderará una concertación con las empresas de los sectores industriales clave que dependen de estas materias primas para evaluar sus necesidades.",
+            "plain": "EN CLARO: El gobierno francés quiere acumular reservas de metales raros utilizados en la industria para evitar la escasez de materias primas de aquí a 2027. Esta iniciativa pretende reducir la dependencia de los suministros exteriores como China.",
+            "stakes": [
+              "¿Cómo se organizarán los industriales franceses para constituir estas reservas?",
+              "¿Permitirá este dispositivo proteger la economía francesa contra las rupturas de suministro?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s886313cb82",
+        "topic": "politique",
+        "title": "Lancement d'un nouveau parti écologiste sur fond de désaccords politiques",
+        "context": "Au sein du parti Les Écologistes, l'orientation stratégique à adopter pour les prochaines échéances électorales fait l'objet d'un débat intense entre différentes sensibilités.",
+        "summary": "En réaction au rapprochement opéré par Marine Tondelier, secrétaire nationale des Écologistes, avec La France insoumise (LFI), plusieurs figures politiques du mouvement ont décidé de faire sécession. Yannick Jadot et d'anciens membres de la campagne de Raphaël Glucksmann ont annoncé la fondation d'une nouvelle formation nommée « Écologistes et démocrates ». Certains opposants reprochent à la direction actuelle de se soumettre à LFI, ce qui précipite la division interne du mouvement écologiste.",
+        "plain": "EN CLAIR : Des responsables politiques écologistes ont créé leur propre parti après avoir refusé la stratégie de rassemblement avec La France insoumise. Cette scission met en évidence les fractures internes sur la ligne politique du mouvement pour les futures élections.",
+        "chart": null,
+        "stakes": [
+          "Quelle sera l'influence de cette nouvelle formation politique au sein de la gauche ?",
+          "La division du mouvement écologiste impactera-t-elle sa capacité d'action électorale ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Les écolos pro-Glucksmann fondent «Ecologistes et démocrates», un nouveau parti",
+            "link": "https://www.liberation.fr/politique/elections/les-ecolos-pro-glucksmann-fondent-ecologistes-et-democrates-un-nouveau-parti-20261123_MLJLZCW7TFETBE4P665OQHQB5Y/",
+            "publishedAt": "2026-11-23T21:09:41.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "L'Humanité",
+            "title": "Présidentielle 2027 : chez les Écologistes, le rapprochement avec Mélenchon précipite la rupture avec Yannick Jadot",
+            "link": "https://www.humanite.fr/politique/jean-luc-melenchon/presidentielle-2027-chez-les-ecologistes-le-rapprochement-avec-melenchon-precipite-la-rupture-avec-yannick-jadot",
+            "publishedAt": "2026-11-23T18:15:31.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le JDD",
+            "title": "«Marine Tondelier est soumise à LFI» : Cohn-Bendit charge la patronne des Écologistes",
+            "link": "https://www.lejdd.fr/politique/marine-tondelier-est-soumise-a-lfi-cohn-bendit-charge-la-patronne-des-ecologistes-189498",
+            "publishedAt": "2026-11-23T17:32:22.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "Les Écologistes en voie de dislocation",
+            "link": "https://www.politico.eu/podcast/playbook-paris-podcast/les-ecologistes-en-voie-de-dislocation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-23T15:34:34.000Z",
+            "lang": "en",
+            "country": "BE"
+          }
+        ],
+        "image": {
+          "url": "https://www.humanite.fr/wp-content/uploads/2026/11/P6-ECOLOS_MAR.jpg?w=1200",
+          "credit": "L'Humanité",
+          "link": "https://www.humanite.fr/politique/jean-luc-melenchon/presidentielle-2027-chez-les-ecologistes-le-rapprochement-avec-melenchon-precipite-la-rupture-avec-yannick-jadot"
+        },
+        "i18n": {
+          "en": {
+            "title": "Launch of a new environmentalist party amid political disagreements",
+            "context": "Within the Les Écologistes party, the strategic direction to adopt for upcoming elections is the subject of intense debate between different factions.",
+            "summary": "In reaction to the rapprochement led by Marine Tondelier, national secretary of Les Écologistes, with La France insoumise (LFI), several political figures from the movement have decided to secede. Yannick Jadot and former members of Raphaël Glucksmann's campaign announced the foundation of a new formation named 'Écologistes et démocrates'. Some opponents accuse the current leadership of submitting to LFI, which is precipitating the internal division of the environmentalist movement.",
+            "plain": "IN SHORT: Environmentalist political leaders have created their own party after refusing the strategy of joining forces with La France insoumise. This split highlights internal fractures over the movement's political line for future elections.",
+            "stakes": [
+              "What will be the influence of this new political formation within the left?",
+              "Will the division of the environmentalist movement impact its electoral action capacity?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Lanzamiento de un nuevo partido ecologista en un contexto de desacuerdos políticos",
+            "context": "Dentro del partido Les Écologistes, la orientación estratégica que se debe adoptar para las próximas citas electorales es objeto de un intenso debate entre diferentes sensibilidades.",
+            "summary": "En reacción al acercamiento llevado a cabo por Marine Tondelier, secretaria nacional de Les Écologistes, con La France insoumise (LFI), varias figuras políticas del movimiento han decidido escindirse. Yannick Jadot y antiguos miembros de la campaña de Raphaël Glucksmann anunciaron la fundación de una nueva formación llamada «Écologistes et démocrates». Algunos opositores reprochan a la dirección actual someterse a LFI, lo que precipita la división interna del movimiento ecologista.",
+            "plain": "EN CLARO: Responsables políticos ecologistas han creado su propio partido tras rechazar la estrategia de reagrupamiento con La France insoumise. Esta escisión pone en evidencia las fracturas internas sobre la línea política del movimiento para las futuras elecciones.",
+            "stakes": [
+              "¿Cuál será la influencia de esta nueva formación política en el seno de la izquierda?",
+              "¿Impactará la división del movimiento ecologista en su capacidad de acción electoral?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s1714294975",
+        "topic": "politique",
+        "title": "Projet d'inscription d'une règle d'or budgétaire dans la Constitution",
+        "context": "Le président de la République envisage des réformes institutionnelles pour encadrer la gestion des finances publiques du pays.",
+        "summary": "Le président Emmanuel Macron a indiqué qu'il étudiait la possibilité de faire inscrire une « règle d'or » budgétaire dans la Constitution française. Une réunion du Congrès, c'est-à-dire l'assemblée réunissant les députés et les sénateurs, pourrait se tenir en janvier 2027 afin de voter ce texte. Cette initiative cherche à rassurer sur la trajectoire budgétaire de la France, bien que certaines oppositions qualifient cette annonce d'affichage politique.",
+        "plain": "EN CLAIR : Le président français souhaite modifier la Constitution pour obliger l'État à limiter son déficit budgétaire. Un vote réunissant l'ensemble des parlementaires pourrait être organisé début 2027.",
+        "chart": null,
+        "stakes": [
+          "Le gouvernement parviendra-t-il à obtenir la majorité nécessaire lors du Congrès ?",
+          "Cette disposition aura-t-elle un effet concret sur la réduction du déficit public ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "« Règle d’or » budgétaire : Emmanuel Macron mise sur un Congrès pour parfaire son inventaire",
+            "link": "https://www.la-croix.com/politique/regle-d-or-budgetaire-emmanuel-macron-mise-sur-un-congres-pour-parfaire-son-inventaire-20261123",
+            "publishedAt": "2026-11-23T18:56:25.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Valeurs actuelles",
+            "title": "Règle d’or budgétaire : mode d’emploi d’un serpent de mer",
+            "link": "https://www.valeursactuelles.com/clubvaleurs/economie/regle-dor-budgetaire-mode-demploi-dun-serpent-de-mer",
+            "publishedAt": "2026-11-23T18:32:09.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Valeurs actuelles",
+            "title": "« Un acte de comédie » : au crépuscule, Emmanuel Macron agite sa règle d’or",
+            "link": "https://www.valeursactuelles.com/clubvaleurs/politique/un-acte-de-comedie-au-crepuscule-emmanuel-macron-agite-sa-regle-dor",
+            "publishedAt": "2026-11-23T18:00:53.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/23/2596941-le-president-de-la-republique-emmanuel-macron-le-2.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/politique/regle-d-or-budgetaire-emmanuel-macron-mise-sur-un-congres-pour-parfaire-son-inventaire-20261123"
+        },
+        "i18n": {
+          "en": {
+            "title": "Project to enshrine a budgetary golden rule in the Constitution",
+            "context": "The President of the Republic is considering institutional reforms to regulate the country's management of public finances.",
+            "summary": "President Emmanuel Macron indicated that he is studying the possibility of enshrining a budgetary 'golden rule' in the French Constitution. A meeting of the Congress, meaning the assembly bringing together deputies and senators, could be held in January 2027 to vote on this text. This initiative seeks to reassure regarding France's budgetary trajectory, although certain opponents dismiss this announcement as political posturing.",
+            "plain": "IN SHORT: The French president wants to amend the Constitution to force the state to limit its budget deficit. A vote gathering all parliamentarians could be organized in early 2027.",
+            "stakes": [
+              "Will the government manage to obtain the necessary majority during the Congress?",
+              "Will this provision have a concrete effect on reducing the public deficit?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Proyecto de inclusión de una regla de oro presupuestaria en la Constitución",
+            "context": "El presidente de la República contempla reformas institucionales para encuadrar la gestión de las finanzas públicas del país.",
+            "summary": "El presidente Emmanuel Macron indicó que está estudiando la posibilidad de inscribir una «regla de oro» presupuestaria en la Constitución francesa. Una reunión del Congreso, es decir, la asamblea que reúne a diputados y senadores, podría celebrarse en enero de 2027 para votar este texto. Esta iniciativa busca tranquilizar sobre la trayectoria presupuestaria de Francia, aunque algunas oposiciones califican este anuncio de mero escaparate político.",
+            "plain": "EN CLARO: El presidente francés quiere modificar la Constitución para obligar al Estado a limitar su déficit presupuestario. A principios de 2027 podría organizarse una votación que reúna a todos los parlamentarios.",
+            "stakes": [
+              "¿Conseguirá el gobierno obtener la mayoría necesaria durante el Congreso?",
+              "¿Tendrá esta disposición un efecto concreto en la reducción del déficit público?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s922f6bea2d",
+        "topic": "societe",
+        "title": "Enquête et suspension à l'école de police après des messages haineux",
+        "context": "L'École nationale supérieure de la police (ENSP) forme les futurs officiers et commissaires de la police nationale en France.",
+        "summary": "Une enquête du journal Le Parisien a révélé que des élèves de la 31e promotion de l'école de police auraient partagé des propos racistes, des illustrations discriminatoires et des saluts nazis dans des groupes de discussion. Le préfet de police de Paris, Laurent Nuñez, a condamné des agissements qualifiés d'inacceptables. À la suite de ces révélations, au moins un élève a été suspendu de l'établissement.",
+        "plain": "EN CLAIR : Des élèves se destinant à devenir officiers de police font l'objet d'une procédure interne pour avoir diffusé des messages racistes et des symboles nazis. L'administration a rapidement suspendu l'un des mis en cause.",
+        "chart": null,
+        "stakes": [
+          "Quelles suites disciplinaires et judiciaires seront données à cette affaire ?",
+          "Comment l'institution policière peut-elle prévenir les comportements haineux dans ses écoles ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Salut nazi et propos racistes dans une école de police : Laurent Nuñez condamne des «faits inacceptables»",
+            "link": "https://www.liberation.fr/societe/police-justice/des-propos-sexistes-racistes-et-des-saluts-nazis-tenus-dans-une-ecole-de-police-la-justice-saisie-20261122_AMKVEJWKMBDG5OJKLCQHK5V47A/",
+            "publishedAt": "2026-11-23T20:18:12.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "Salut nazi, propos racistes… Ce que l’on sait des soupçons qui pèsent sur des élèves officiers de l’école de police",
+            "link": "https://www.ouest-france.fr/societe/police/salut-nazi-propos-racistes-ce-que-lon-sait-des-soupcons-qui-pesent-sur-des-eleves-officiers-de-lecole-de-police-e52a0de0-e736-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-23T23:13:21.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExY2MzOTk5YmI0ZjY0Mjc4ZTk3NDRiZGEyMmQ0OGIzYmQ?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=eee687faa84d33b17643eaef351da3add625de378762767b2cb851297e6de347",
+          "credit": "Ouest-France",
+          "link": "https://www.ouest-france.fr/societe/police/salut-nazi-propos-racistes-ce-que-lon-sait-des-soupcons-qui-pesent-sur-des-eleves-officiers-de-lecole-de-police-e52a0de0-e736-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+        },
+        "i18n": {
+          "en": {
+            "title": "Investigation and suspension at police school after hateful messages",
+            "context": "The National Police Superior School (ENSP) trains future officers and commissioners of the national police in France.",
+            "summary": "An investigation by the newspaper Le Parisien revealed that students from the 31st cohort of the police school allegedly shared racist remarks, discriminatory illustrations, and Nazi salutes in discussion groups. The Prefect of Police of Paris, Laurent Nuñez, condemned actions described as unacceptable. Following these revelations, at least one student was suspended from the establishment.",
+            "plain": "IN SHORT: Students training to become police officers are subject to an internal procedure for having distributed racist messages and Nazi symbols. The administration quickly suspended one of the individuals involved.",
+            "stakes": [
+              "What disciplinary and legal follow-up will be given to this case?",
+              "How can the police institution prevent hateful behavior in its schools?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Investigación y suspensión en la escuela de policía tras mensajes de odio",
+            "context": "La Escuela Nacional Superior de Policía (ENSP) forma a los futuros oficiales y comisarios de la policía nacional en Francia.",
+            "summary": "Una investigación del periódico Le Parisien reveló que alumnos de la 31ª promoción de la escuela de policía habrían compartido comentarios racistas, ilustraciones discriminatorias y saludos nazis en grupos de discusión. El prefecto de policía de París, Laurent Nuñez, condenó unos actos calificados de inaceptables. Tras estas revelaciones, al menos un alumno ha sido suspendido del establecimiento.",
+            "plain": "EN CLARO: Alumnos que aspiran a convertirse en oficiales de policía son objeto de un procedimiento interno por haber difundido mensajes racistas y símbolos nazis. La administración suspendió rápidamente a uno de los implicados.",
+            "stakes": [
+              "¿Qué consecuencias disciplinarias y judiciales se derivarán de este asunto?",
+              "¿Cómo puede la institución policial prevenir los comportamientos de odio en sus escuelas?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sa49914bbae",
+        "topic": "economie",
+        "title": "Accord pour le rachat de 60 Millions de consommateurs par Xavier Niel",
+        "context": "Le magazine d'information des consommateurs était géré par l'Institut national de la consommation (INC), dont la liquidation a été prononcée.",
+        "summary": "Le ministère de l'Économie a annoncé l'acceptation de l'offre formulée par l'homme d'affaires Xavier Niel, à travers sa holding NJJ Médias, pour reprendre le mensuel 60 Millions de consommateurs. Certains acteurs émettent des réserves sur la préservation de la ligne éditoriale du titre sous sa forme actuelle, à la suite de la fin des activités de l'Institut national de la consommation.",
+        "plain": "EN CLAIR : Le magazine spécialisé dans l'information des consommateurs change de propriétaire et passe aux mains de la société de Xavier Niel. Cette reprise fait suite à des difficultés financières de son organisme d'origine.",
+        "chart": null,
+        "stakes": [
+          "Le magazine conservera-t-il son indépendance rédactionnelle après ce changement de propriétaire ?",
+          "Quelles seront les conséquences sur les équipes du mensuel ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "60 millions de consommateurs : accord de reprise par Xavier Niel",
+            "link": "https://www.la-croix.com/60-millions-de-consommateurs-accord-de-reprise-par-xavier-niel-20261123",
+            "publishedAt": "2026-11-23T21:30:10.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "L'Humanité",
+            "title": "« 60 millions de consommateurs » repris par Xavier Niel : « La poursuite du mensuel tel qu’on le connaît est compromise »",
+            "link": "https://www.humanite.fr/medias/consommation/60-millions-de-consommateurs-repris-par-xavier-niel-la-poursuite-du-mensuel-tel-quon-le-connait-est-compromise",
+            "publishedAt": "2026-11-23T18:53:26.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/23/2596988-l-offre-de-reprise-du-magazine-60-millions-de-cons.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/60-millions-de-consommateurs-accord-de-reprise-par-xavier-niel-20261123"
+        },
+        "i18n": {
+          "en": {
+            "title": "Agreement for the buyout of 60 Millions de consommateurs by Xavier Niel",
+            "context": "The consumer information magazine was managed by the National Consumption Institute (INC), whose liquidation was pronounced.",
+            "summary": "The Ministry of Economy announced the acceptance of the offer made by businessman Xavier Niel, through his holding company NJJ Médias, to take over the monthly magazine 60 Millions de consommateurs. Some actors express reservations about the preservation of the title's editorial line in its current form, following the end of the National Consumption Institute's activities.",
+            "plain": "IN SHORT: The magazine specialized in consumer information is changing owners and passing into the hands of Xavier Niel's company. This takeover follows financial difficulties at its original organization.",
+            "stakes": [
+              "Will the magazine maintain its editorial independence after this change of ownership?",
+              "What will the consequences be for the monthly's teams?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Acuerdo para la compra de 60 Millions de consommateurs por Xavier Niel",
+            "context": "La revista de información para consumidores era gestionada por el Instituto Nacional del Consumo (INC), cuya liquidación fue pronunciada.",
+            "summary": "El Ministerio de Economía anunció la aceptación de la oferta formulada por el empresario Xavier Niel, a través de su hólding NJJ Médias, para retomar el mensual 60 Millions de consommateurs. Algunos actores expresan reservas sobre la preservación de la línea editorial de la cabecera en su forma actual, tras el cese de las actividades del Instituto Nacional del Consumo.",
+            "plain": "EN CLARO: La revista especializada en información para los consumidores cambia de propietario y pasa a manos de la empresa de Xavier Niel. Esta adquisición se produce tras las dificultades financieras de su organismo de origen.",
+            "stakes": [
+              "¿Conservará la revista su independencia editorial tras este cambio de propietario?",
+              "¿Cuáles serán las consecuencias para los equipos del mensual?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sc6ff7dfd50",
+        "topic": "environnement",
+        "title": "Levée de la vigilance orange et début de décrue dans le Pas-de-Calais",
+        "context": "Plusieurs secteurs du Pas-de-Calais ont été touchés par d'importantes inondations provoquées par des crues répétées.",
+        "summary": "L'organisme Vigicrues a rétabli la vigilance jaune sur le cours de la Canche, confirmant le début de la décrue du fleuve côtier grâce à un retour du temps sec. Toutefois, la préfecture rappelle que les travaux de remise en état restent considérables. Sur le terrain, les habitants touchés témoignent d'un épuisement face à la lenteur de la baisse des eaux et des conséquences matérielles des intempéries.",
+        "plain": "EN CLAIR : Le niveau de l'eau commence à baisser lentement après les crues dans le nord de la France, permettant de lever l'alerte météo principale. Cependant, la remise en état des zones inondées va prendre du temps pour les sinistrés.",
+        "chart": null,
+        "stakes": [
+          "Combien de temps faudra-t-il pour nettoyer et réparer les zones sinistrées ?",
+          "Quelles mesures de prévention durable seront déployées contre les crues futures ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "La vigilance orange crues est levée dans le Pas-de-Calais, mais \"il reste beaucoup à faire\" selon la préfecture",
+            "link": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/la-vigilance-orange-crues-est-levee-dans-le-pas-de-calais-mais-il-reste-beaucoup-a-faire-selon-la-prefecture_8296836.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-23T22:36:54.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "franceinfo",
+            "title": "\"J'ai une phobie de l'eau maintenant\" : les sinistrés du Pas-de-Calais épuisés par les inondations",
+            "link": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/j-ai-une-phobie-de-l-eau-maintenant-les-sinistres-du-pas-de-calais-epuises-par-les-inondations_8296695.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-23T20:14:42.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/yPmmCej3wIi6j7GDhl5SJoPYQYM/0x0:1024x576/432x243/filters:format(jpg)/2026/11/23/6b04bfb5924c5135952772.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/la-vigilance-orange-crues-est-levee-dans-le-pas-de-calais-mais-il-reste-beaucoup-a-faire-selon-la-prefecture_8296836.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Lifting of orange vigilance and start of receding waters in Pas-de-Calais",
+            "context": "Several sectors of Pas-de-Calais have been hit by major floods caused by repeated overflowing.",
+            "summary": "The Vigicrues organization reinstated yellow vigilance on the course of the Canche, confirming the beginning of the coastal river's receding waters thanks to a return of dry weather. However, the prefecture reminds that repair work remains considerable. On the ground, affected residents testify to exhaustion over the slowness of the receding water and the material consequences of the bad weather.",
+            "plain": "IN SHORT: The water level is slowly starting to drop after floods in northern France, allowing the main weather alert to be lifted. However, the rehabilitation of flooded areas will take time for the victims.",
+            "stakes": [
+              "How long will it take to clean and repair the disaster areas?",
+              "What sustainable prevention measures will be deployed against future floods?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Levantamiento de la vigilancia naranja y principio de descenso de caudal en Pas-de-Calais",
+            "context": "Varios sectores de Pas-de-Calais se han visto afectados por importantes inundaciones provocadas por crecidas repetidas.",
+            "summary": "El organismo Vigicrues restableció la vigilancia amarilla en el curso de la Canche, confirmando el inicio de la bajada del río costero gracias al regreso del tiempo seco. Sin embargo, la prefectura recuerda que los trabajos de reparación siguen siendo considerables. sobre el terreno, los habitantes afectados testimonian un agotamiento ante la lentitud de la bajada de las aguas y las consecuencias materiales de la intemperie.",
+            "plain": "EN CLARO: El nivel del agua empieza a bajar lentamente tras las crecidas en el norte de Francia, lo que permite levantar la principal alerta meteorológica. Sin embargo, la rehabilitación de las zonas inundadas llevará tiempo para los damnificados.",
+            "stakes": [
+              "¿Cuánto tiempo se tardará en limpiar y reparar las zonas afectadas?",
+              "¿Qué medidas de prevención sostenible se desplegarán contra futuras crecidas?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s0c02587dd5",
+        "topic": "justice",
+        "title": "Ouverture d'une enquête pour meurtre après des tirs mortels à Loon-Plage",
+        "context": "Les camps informels situés sur le littoral du nord de la France accueillent de nombreux migrants et exilés cherchant à rejoindre le Royaume-Uni.",
+        "summary": "Un homme de nationalité somalienne âgé de 30 ans a été tué par balles dans le camp de migrants de Loon-Plage, près de Dunkerque. L'auteur des coups de feu a pris la fuite et fait l'objet d'une recherche active par les forces de l'ordre. Le parquet de Dunkerque a ouvert une enquête judiciaire, notamment sous la qualification de meurtre en bande organisée.",
+        "plain": "EN CLAIR : Un réfugié somalien est mort par balle dans un camp du Nord de la France. L'auteur des tirs n'a pas été arrêté et la justice cherche à déterminer les circonstances exactes du drame.",
+        "chart": null,
+        "stakes": [
+          "Les forces de l'ordre parviendront-elles à identifier et interpeller le tireur ?",
+          "Quelles sont les conditions de sécurité dans les camps d'exilés du littoral ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Un migrant somalien tué par balles au camp de Loon-Plage dans le Nord",
+            "link": "https://www.franceinfo.fr/faits-divers/un-migrant-somalien-tue-par-balles-au-camp-de-loon-plage-dans-le-nord_8296638.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-23T18:45:36.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Libération",
+            "title": "Un exilé somalien de 30 ans tué par balles dans un camp près de Dunkerque",
+            "link": "https://www.liberation.fr/societe/police-justice/un-exile-somalien-de-30-ans-tue-par-balles-dans-un-camp-pres-de-dunkerque-20261123_OMH2OOSSTVEDFFWRJSIWLXZOAU/",
+            "publishedAt": "2026-11-23T20:34:06.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/1uWnqcZ60wAbyCWZGXV88mGd_XQ/0x106:1024x682/432x243/filters:format(jpg)/2026/11/23/6b0489becf464076327736.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/faits-divers/un-migrant-somalien-tue-par-balles-au-camp-de-loon-plage-dans-le-nord_8296638.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Murder investigation opened after fatal shootings in Loon-Plage",
+            "context": "Informal camps located along the coast of northern France host numerous migrants and exiles seeking to reach the United Kingdom.",
+            "summary": "A 30-year-old Somali national was shot dead in the migrant camp in Loon-Plage, near Dunkirk. The perpetrator of the gunfire fled and is actively being sought by law enforcement. The Dunkirk prosecutor's office has opened a judicial investigation, notably under the classification of organized gang murder.",
+            "plain": "IN BRIEF: A Somali refugee was shot dead in a camp in northern France. The shooter has not been arrested and the judiciary is seeking to determine the exact circumstances of the tragedy.",
+            "stakes": [
+              "Will law enforcement succeed in identifying and apprehending the shooter?",
+              "What are the security conditions in the exile camps along the coast?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Se abre una investigación por asesinato tras disparos mortales en Loon-Plage",
+            "context": "Los campamentos informales situados en la costa del norte de Francia acogen a numerosos migrantes y exiliados que intentan llegar al Reino Unido.",
+            "summary": "Un ciudadano somalí de 30 años fue asesinado a tiros en el campamento de migrantes de Loon-Plage, cerca de Dunkerque. El autor de los disparos se dio a la fuga y es buscado activamente por las fuerzas del orden. La fiscalía de Dunkerque ha abierto una investigación judicial, en particular bajo la calificación de asesinato en banda organizada.",
+            "plain": "EN CLARO: Un refugiado somalí murió por un disparo en un campamento del norte de Francia. El autor de los disparos no ha sido detenido y la justicia busca determinar las circunstancias exactas del drama.",
+            "stakes": [
+              "¿Lograrán las fuerzas del orden identificar y detener al tirador?",
+              "¿Cuáles son las condiciones de seguridad en los campamentos de exiliados de la costa?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "saf739b779f",
+        "topic": "politique",
+        "title": "Plusieurs députés La France insoumise portent plainte pour des menaces de mort",
+        "context": "Plusieurs élus de l'Assemblée nationale déclarent faire l'objet de courriers haineux et d'intimidations ciblées.",
+        "summary": "Six députés appartenant au groupe La France insoumise (LFI) ont annoncé déposer plainte à la suite de la réception de lettres anonymes contenant des menaces de mort et des croix gammées. Les parlementaires dénoncent une insuffisance de réaction de la part des autorités face à ces envois répétus.",
+        "plain": "EN CLAIR : Des élus Insoumis ont reçu des courriers haineux accompagnés de menaces directes et de symboles nazis. Ils saisissent la justice pour dénoncer ces faits et réclament des mesures de protection.",
+        "chart": null,
+        "stakes": [
+          "L'enquête permettra-t-elle d'identifier les auteurs des courriers haineux ?",
+          "Comment assurer la protection des parlementaires visés par des intimidations ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Six députés LFI portent plainte pour des menaces de mort anonymes",
+            "link": "https://www.lemonde.fr/societe/article/2026/11/24/six-deputes-lfi-portent-plainte-pour-des-menaces-de-mort-anonymes_6814471_3224.html",
+            "publishedAt": "2026-11-24T00:09:13.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "Des députés LFI vont porter plainte pour des menaces de mort anonymes",
+            "link": "https://www.ouest-france.fr/politique/la-france-insoumise/des-deputes-lfi-vont-porter-plainte-pour-des-menaces-de-mort-anonymes-b2460742-e788-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-23T22:16:52.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/03/542/0/8000/4000/644/322/60/0/cc8f89e_upload-1-4yebgikykagh-jmug261103060.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/societe/article/2026/11/24/six-deputes-lfi-portent-plainte-pour-des-menaces-de-mort-anonymes_6814471_3224.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Several La France Insoumise MPs file complaints for death threats",
+            "context": "Several members of the National Assembly report being the target of hateful mail and targeted intimidation.",
+            "summary": "Six MPs belonging to the La France Insoumise (LFI) group announced they are filing a complaint following the receipt of anonymous letters containing death threats and swastikas. The parliamentarians denounce an insufficient reaction from the authorities regarding these repeated mailings.",
+            "plain": "IN BRIEF: Insoumis elected officials received hateful mail accompanied by direct threats and Nazi symbols. They are taking legal action to denounce these acts and are demanding protection measures.",
+            "stakes": [
+              "Will the investigation make it possible to identify the perpetrators of the hateful mail?",
+              "How can the protection of the targeted parliamentarians be ensured?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Varios diputados de La France Insoumise presentan una denuncia por amenazas de muerte",
+            "context": "Varios parlamentarios de la Asamblea Nacional declaran ser objeto de correos de odio e intimidaciones específicas.",
+            "summary": "Seis diputados pertenecientes al grupo La France Insoumise (LFI) anunciaron que presentarán una denuncia tras recibir cartas anónimas que contenían amenazas de muerte y esvásticas. Los parlamentarios denuncian una reacción insuficiente por parte de las autoridades ante estos envíos repetidos.",
+            "plain": "EN CLARO: Diputados de La France Insoumise han recibido correos de odio acompañados de amenazas directas y símbolos nazis. Acuden a la justicia para denunciar estos hechos y exigen medidas de protección.",
+            "stakes": [
+              "¿Permitirá la investigación identificar a los autores de los correos de odio?",
+              "¿Cómo garantizar la protección de los parlamentarios objeto de intimidaciones?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s1c9984881d",
+        "topic": "culture",
+        "title": "Le prix de l'Équerre d'argent récompense le Musée des arts décoratifs de Bordeaux",
+        "context": "L'Équerre d'argent est une distinction annuelle prestigieuse décernée par un jury à une œuvre d'architecture remarquable réalisée en France.",
+        "summary": "Le jury de la 44e édition du prix de l'Équerre d'argent a récompensé les architectes de l'agence Antoine Dufour pour la réhabilitation du Musée des arts décoratifs et du design de Bordeaux. Le jury a salué la précision du dessin, la finesse du travail de restructuration ainsi que la réalisation d'une galerie protégeant le portail de la cathédrale voisine.",
+        "plain": "EN CLAIR : Un grand prix d'architecture française a été décerné à l'équipe responsable de la rénovation d'un musée bordelais. Les juges ont récompensé la qualité et le soin apporté à la restauration du bâtiment.",
+        "chart": null,
+        "stakes": [
+          "Quel sera l'impact de ce prix sur la fréquentation du musée bordelais ?",
+          "Comment la préservation du patrimoine architectural intègre-t-elle les contraintes modernes ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Le prix de L’Equerre d’argent distingue la restructuration du Musée des arts décoratifs et du design de Bordeaux",
+            "link": "https://www.lemonde.fr/culture/article/2026/11/23/le-prix-de-l-equerre-d-argent-distingue-la-restructuration-du-musee-des-arts-decoratifs-et-du-design-de-bordeaux_6814448_3246.html",
+            "publishedAt": "2026-11-23T20:33:06.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Libération",
+            "title": "Equerre d’argent 2026 : les architectes Antoine et Dufour récompensés pour la restructuration du Musée des arts déco de Bordeaux",
+            "link": "https://www.liberation.fr/lifestyle/design/equerre-dargent-2026-les-architectes-antoine-et-dufour-recompenses-pour-la-restructuration-du-musee-des-arts-deco-de-bordeaux-20261123_M3AI4FJGTJDKTMDCPZHRTRU67I/",
+            "publishedAt": "2026-11-23T20:10:59.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/23/1338/0/10704/5352/644/322/60/0/02e96d5_upload-1-eo3mecsj5utv-3-restructuration-du-madd-antoine-dufour-architectes-ph-celia-uhalde.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/culture/article/2026/11/23/le-prix-de-l-equerre-d-argent-distingue-la-restructuration-du-musee-des-arts-decoratifs-et-du-design-de-bordeaux_6814448_3246.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "The Équerre d'Argent prize rewards the Museum of Decorative Arts in Bordeaux",
+            "context": "The Équerre d'Argent is a prestigious annual distinction awarded by a jury to a remarkable architectural work carried out in France.",
+            "summary": "The jury of the 44th edition of the Équerre d'Argent prize rewarded the architects of the Antoine Dufour agency for the rehabilitation of the Museum of Decorative Arts and Design in Bordeaux. The jury praised the precision of the design, the finesse of the restructuring work, and the creation of a gallery protecting the portal of the neighboring cathedral.",
+            "plain": "IN BRIEF: A major French architecture prize was awarded to the team responsible for the renovation of a Bordeaux museum. The judges rewarded the quality and care brought to the restoration of the building.",
+            "stakes": [
+              "What will be the impact of this prize on the attendance of the Bordeaux museum?",
+              "How does the preservation of architectural heritage integrate modern constraints?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "El premio Équerre d'Argent galardona al Museo de Artes Decorativas de Burdeos",
+            "context": "La Équerre d'Argent es una prestigiosa distinción anual concedida por un jurado a una obra arquitectónica notable realizada en Francia.",
+            "summary": "El jurado de la 44ª edición del premio Équerre d'Argent premió a los arquitectos de la agencia Antoine Dufour por la rehabilitación del Museo de Artes Decorativas y Diseño de Burdeos. El jurado elogió la precisión del diseño, la finura del trabajo de reestructuración y la creación de una galería que protege el portal de la catedral vecina.",
+            "plain": "EN CLARO: Un gran premio de arquitectura francesa ha sido concedido al equipo responsable de la renovación de un museo de Burdeos. Los jueces premiaron la calidad y el cuidado aportados a la restauración del edificio.",
+            "stakes": [
+              "¿Cuál será el impacto de este premio en la afluencia al museo de Burdeos?",
+              "¿Cómo integra la preservación del patrimonio arquitectónico las limitaciones modernas?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s8c06748901",
+        "topic": "environnement",
+        "title": "Fronde citoyenne en Savoie contre la construction d'un data center",
+        "context": "Les data centers, ou centres de traitement de données informatiques, nécessitent d'importantes quantités d'électricité et de ressources pour assurer le refroidissement de leurs serveurs.",
+        "summary": "Dans la vallée de la Maurienne en Savoie, un projet de construction d'un centre de données de 15 mètres de haut suscite une forte contestation de la part d'habitants. Les riverains dénoncent l'impact énergétique majeur de l'installation et remettent en cause l'opportunité d'implanter une telle infrastructure dans leur village.",
+        "plain": "EN CLAIR : Les habitants d'une commune savoyarde se mobilisent contre l'installation d'un grand bâtiment de serveurs informatiques. Ils s'inquiètent principalement de la consommation d'énergie importante du site.",
+        "chart": null,
+        "stakes": [
+          "Les autorités locales réviseront-elles le projet d'implantation face aux protestations ?",
+          "Comment concilier la demande grandissante d'infrastructures numériques et la sobriété énergétique ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "\"Nous, on n'y croit pas\" : en Savoie, les habitants donnent du fil à retordre à l'implantation d'un data center dans leur village",
+            "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/on-n-y-croit-pas-en-savoie-les-habitants-donnent-du-fil-a-retordre-a-l-implantation-d-un-data-center-dans-leur-village_8296157.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-23T15:27:35.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/qog68PEBqhWupLdmkgIlD4n2kTA/77x0:1436x764/432x243/filters:format(jpg)/2026/11/23/6b0449db468e1467163427.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/on-n-y-croit-pas-en-savoie-les-habitants-donnent-du-fil-a-retordre-a-l-implantation-d-un-data-center-dans-leur-village_8296157.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Citizen protest in Savoie against the construction of a data center",
+            "context": "Data centers, or computer data processing centers, require significant amounts of electricity and resources to cool their servers.",
+            "summary": "In the Maurienne valley in Savoie, a project to build a 15-meter-high data center is arousing strong opposition from local residents. Residents denounce the major energy impact of the installation and question the appropriateness of establishing such infrastructure in their village.",
+            "plain": "IN BRIEF: Residents of a Savoie commune are mobilizing against the installation of a large computer server building. They are mainly concerned about the site's high energy consumption.",
+            "stakes": [
+              "Will local authorities revise the establishment project in the face of protests?",
+              "How can the growing demand for digital infrastructure and energy sobriety be reconciled?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Revuelta ciudadana en Saboya contra la construcción de un centro de datos",
+            "context": "Los centros de datos, o centros de procesamiento de datos informáticos, requieren importantes cantidades de electricidad y recursos para enfriar sus servidores.",
+            "summary": "En el valle de la Maurienne, en Saboya, un proyecto de construcción de un centro de datos de 15 metros de altura suscita una fuerte oposición por parte de los habitantes. Los vecinos denuncian el gran impacto energético de la instalación y cuestionan la oportunidad de implantar dicha infraestructura en su pueblo.",
+            "plain": "EN CLARO: Los habitantes de un municipio de Saboya se mobilizan contra la instalación de un gran edificio de servidores informáticos. Les preocupa principalmente el elevado consumo de energía del lugar.",
+            "stakes": [
+              "¿Revisarán las autoridades locales el proyecto de implantación ante las protestas?",
+              "¿Cómo conciliar la creciente demanda de infraestructuras digitales y la sobriedad energética?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "se3cd39164b",
+        "topic": "environnement",
+        "title": "Le maire de Chamonix envisage d'encadrer l'accès touristique au Lac Blanc",
+        "context": "Le secteur du Lac Blanc, situé dans la réserve naturelle au-dessus de Chamonix, attire chaque année de très nombreux randonneurs et visiteurs.",
+        "summary": "Afin de protéger la biodiversité et de préserver l'expérience des randonneurs, le maire de la commune de Chamonix souhaite mettre en place des quotas d'accès sur le site naturel du Lac Blanc. L'édile explique que l'afflux continu de visiteurs détériore l'environnement fragile de la haute montagne et dégrade la qualité des parcours.",
+        "plain": "EN CLAIR : La municipalité de Chamonix veut limiter le nombre de promeneurs autorisés à se rendre au Lac Blanc. L'objectif est d'éviter que le piétinement excessif ne détruise la nature environnante.",
+        "chart": null,
+        "stakes": [
+          "Quelles modalités de réservation et de contrôle seront mises en place ?",
+          "Ce modèle de régulation s'étendra-t-il à d'autres sites naturels alpins très fréquentés ?"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "title": "Chamonix mayor plans tourist limits for Alpine beauty spot",
+            "link": "https://www.theguardian.com/world/2026/nov/23/chamonix-mayor-tourist-limits-lac-blanc",
+            "publishedAt": "2026-11-23T10:52:53.000Z",
+            "lang": "en",
+            "country": "GB"
+          }
+        ],
+        "image": {
+          "url": "https://i.guim.co.uk/img/media/a63093932f37c4332a8a079dc26007340f120f5d/317_0_2439_1952/master/2439.jpg?width=140&quality=85&auto=format&fit=max&s=b35b1b5d5fa85763fd86f5e14aeffac4",
+          "credit": "The Guardian",
+          "link": "https://www.theguardian.com/world/2026/nov/23/chamonix-mayor-tourist-limits-lac-blanc"
+        },
+        "i18n": {
+          "en": {
+            "title": "Mayor of Chamonix considers regulating tourist access to Lac Blanc",
+            "context": "The Lac Blanc sector, located in the nature reserve above Chamonix, attracts a very large number of hikers and visitors every year.",
+            "summary": "In order to protect biodiversity and preserve the experience of hikers, the mayor of the municipality of Chamonix wants to implement access quotas at the natural site of Lac Blanc. The mayor explains that the continuous influx of visitors is deteriorating the fragile high-mountain environment and degrading the quality of the trails.",
+            "plain": "IN BRIEF: The municipality of Chamonix wants to limit the number of walkers allowed to visit Lac Blanc. The goal is to prevent excessive trampling from destroying the surrounding nature.",
+            "stakes": [
+              "What reservation and control procedures will be put in place?",
+              "Will this regulation model be extended to other heavily visited alpine natural sites?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "El alcalde de Chamonix se plantea regular el acceso turístico al Lac Blanc",
+            "context": "El sector del Lac Blanc, situado en la reserva natural por encima de Chamonix, atrae cada año a un gran número de excursionistas y visitantes.",
+            "summary": "Con el fin de proteger la biodiversidad y preservar la experiencia de los excursionistas, el alcalde del municipio de Chamonix desea establecer cuotas de acceso en el paraje natural del Lac Blanc. El edil explica que la afluencia continua de visitantes deteriora el frágil entorno de alta montaña y degrada la calidad de los senderos.",
+            "plain": "EN CLARO: El ayuntamiento de Chamonix quiere limitar el número de caminantes autorizados a ir al Lac Blanc. El objetivo es evitar que el pisoteo excesivo destruya la naturaleza circundante.",
+            "stakes": [
+              "¿Qué modalidades de reserva y control se pondrán en marcha?",
+              "¿Se extenderá este modelo de regulación a otros parajes naturales alpinos muy frecuentados?"
+            ],
+            "chart": null
+          }
+        }
+      }
+    ],
+    "monde": [
+      {
+        "id": "sba8f0996db",
+        "topic": "economie",
+        "title": "Jensen Huang réintégré à la tête du géant des puces Nvidia",
+        "context": "Jensen Huang avait démissionné de la présidence du géant américain des puces informatiques Nvidia à la suite d'un scandale personnel. Les autorisations de commerce et les sanctions américaines encadrent étroitement le secteur des composants d'intelligence artificielle.",
+        "summary": "Le conseil d'administration de Nvidia a réintégré Jensen Huang à la direction générale de l'entreprise. Cette décision intervient quelques jours après sa démission liée à une affaire d'extramaritalité impliquant des soupçons d'espionnage. Dans le même temps, les États-Unis ont placé sur liste noire la firme singapourienne Megaspeed, accusée d'avoir détourné des puces vers la Chine. La réintégration de Jensen Huang a provoqué une nette hausse de l'action de l'entreprise en bourse.",
+        "plain": "EN CLAIR : Le patron du fabricant de puces informatiques Nvidia a repris son poste deux semaines après en avoir été écarté. Son retour fait grimper la valeur de l'entreprise en bourse, alors que les autorités américaines renforcent leurs contrôles contre le détournement de technologies vers la Chine.",
+        "chart": null,
+        "stakes": [
+          "Quelles seront les conséquences sur la stratégie commerciale de Nvidia ?",
+          "Comment les autorités américaines vont-elles durcir le contrôle des exportations de puces ?",
+          "L'entreprise parviendra-t-elle à stabiliser sa gouvernance après cette crise ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde (International)",
+            "title": "EN DIRECT, Jensen Huang réintégré chez Nvidia à la surprise générale : le dirigeant accueilli sous les applaudissements de centaines de salariés ; Wall Street clôture en très forte hausse",
+            "link": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-jensen-huang-reintegre-chez-nvidia-a-la-surprise-generale-le-dirigeant-accueilli-sous-les-applaudissements-de-centaines-de-salaries-wall-street-cloture-en-tres-forte-hausse_6814407_3210.html",
+            "publishedAt": "2026-11-23T23:46:27.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Figaro",
+            "title": "« J’ai hâte de me remettre au travail » : les coulisses de l’invraisemblable retour de Jensen Huang chez Nvidia",
+            "link": "https://www.lefigaro.fr/secteur/high-tech/j-ai-hate-de-me-remettre-au-travail-les-coulisses-de-l-invraisemblable-retour-de-jensen-huang-chez-nvidia-20261123",
+            "publishedAt": "2026-11-23T22:26:27.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Libération",
+            "title": "Nvidia réintègre Jensen Huang : l’action du groupe s’envole de 31%, la fortune du dirigeant gonfle de 33 milliards de dollars",
+            "link": "https://www.liberation.fr/economie/economie-numerique/onze-jours-apres-sa-demission-nvidia-reintegre-jensen-huang-a-son-poste-de-directeur-general-20261123_OQ3UFJGVAZER5JTIPRRTKF7W7Q/",
+            "publishedAt": "2026-11-23T21:00:31.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "L'Express",
+            "title": "Coup de théâtre chez Nvidia : Jensen Huang fait son retour, deux semaines après sa démission",
+            "link": "https://www.lexpress.fr/economie/high-tech/coup-de-theatre-chez-nvidia-jensen-huang-fait-son-retour-deux-semaines-apres-sa-demission-OEE2ZR32BBBJVAPTFSS3JSIVGM/",
+            "publishedAt": "2026-11-23T14:40:24.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+            "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-23T23:16:08.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Guardian",
+            "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
+            "link": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
+            "publishedAt": "2026-11-24T01:47:15.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The New York Times",
+            "title": "The Return of Jensen Huang",
+            "link": "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
+            "publishedAt": "2026-11-23T20:39:04.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Times of India",
+            "title": "'Going to be a better CEO second time around': Jensen Huang returns to Nvidia HQ amid applause and cheers; watch",
+            "link": "https://timesofindia.indiatimes.com/business/international-business/going-to-be-a-better-ceo-second-time-around-jensen-huang-returns-to-nvidia-hq-amid-applause-and-cheers-watch/articleshow/136114108.cms",
+            "publishedAt": "2026-11-23T22:12:05.000Z",
+            "lang": "en",
+            "country": "IN"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/23/264/0/3165/1582/644/322/60/0/6102372_ftp-1-dq3bogtjjvfb-2026-11-23t170601z-1582719674-rc2ttoaqzmb6-rtrmadp-3-nvidia-ceo.JPG",
+          "credit": "Le Monde (International)",
+          "link": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-jensen-huang-reintegre-chez-nvidia-a-la-surprise-generale-le-dirigeant-accueilli-sous-les-applaudissements-de-centaines-de-salaries-wall-street-cloture-en-tres-forte-hausse_6814407_3210.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Jensen Huang reinstated at the head of chip giant Nvidia",
+            "context": "Jensen Huang had resigned as CEO of American computer chip giant Nvidia following a personal scandal. Commercial authorizations and American sanctions tightly regulate the artificial intelligence component sector.",
+            "summary": "Nvidia's board of directors has reinstated Jensen Huang as the company's chief executive officer. This decision comes a few days after his resignation linked to an extramarital affair involving suspicions of espionage. At the same time, the United States has blacklisted the Singaporean firm Megaspeed, accused of having diverted chips to China. Jensen Huang's reinstatement caused a sharp rise in the company's stock price.",
+            "plain": "IN BRIEF: The boss of computer chip maker Nvidia has resumed his position two weeks after being removed. His return has driven up the company's stock value on the market, while US authorities tighten controls against the diversion of technology to China.",
+            "stakes": [
+              "What will be the consequences for Nvidia's commercial strategy?",
+              "How will US authorities tighten control over chip exports?",
+              "Will the company manage to stabilize its governance after this crisis?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Jensen Huang es restituido al frente del gigante de los chips Nvidia",
+            "context": "Jensen Huang había dimitido de la presidencia del gigante estadounidense de chips informáticos Nvidia tras un escándalo personal. Las autorizaciones comerciales y las sanciones estadounidenses regulan estrictamente el sector de los componentes de inteligencia artificial.",
+            "summary": "El consejo de administración de Nvidia ha reintegrado a Jensen Huang en la dirección general de la empresa. Esta decisión se produce pocos días después de su dimisión relacionada con un asunto extramatrimonial que implicaba sospechas de espionaje. Al mismo tiempo, Estados Unidos ha incluido en la lista negra a la empresa singapurense Megaspeed, acusada de haber desviado chips hacia China. La reincorporación de Jensen Huang provocó una clara subida de las acciones de la empresa en bolsa.",
+            "plain": "EN CLARO: El director del fabricante de chips informáticos Nvidia ha retomado su puesto dos semanas después de ser apartado. Su regreso hace subir el valor de la empresa en bolsa, mientras las autoridades estadounidenses refuerzan sus controles contra el desvío de tecnologías hacia China.",
+            "stakes": [
+              "¿Cuáles serán las consecuencias sobre la estrategia comercial de Nvidia?",
+              "¿Cómo endurecerán las autoridades estadounidenses el control de las exportaciones de chips?",
+              "¿Logrará la empresa estabilizar su gobernanza tras esta crisis?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sc07cf53a07",
+        "topic": "international",
+        "title": "L'Ukraine attaque des navires russes au large de la Libye",
+        "context": "Le conflit entre la Russie et l'Ukraine s'est principalement déroulé sur le territoire ukrainien et dans la mer Noire. La mer Méditerranée et les côtes africaines restent des zones stratégiques pour le transport maritime russe.",
+        "summary": "Le président ukrainien Volodymyr Zelensky a affirmé que des drones sous-marins de son pays avaient coulé un navire de guerre russe au large de Benghazi, en Libye. Cette opération marque une extension du conflit ukrainien très loin de ses frontières habituelles. La Russie a averti d'une escalade des tensions régionales sans commenter directement l'attaque. De leur côté, les autorités de l'est de la Libye ont dénoncé une violation de leur souveraineté auprès de l'ONU.",
+        "plain": "EN CLAIR : L'Ukraine affirme avoir attaqué et coulé des navires militaires russes basés au large de la Libye. C'est la première fois que le gouvernement ukrainien mène des opérations militaires aussi loin de son territoire national, ce qui accroît les tensions internationales.",
+        "chart": null,
+        "stakes": [
+          "Quel impact cette extension géographique aura-t-elle sur le conflit armé ?",
+          "Comment réagiront les autorités libyennes et l'ONU face à cette opération ?",
+          "La Russie va-t-elle renforcer la sécurité de sa flotte hors de mer Noire ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "L’Ukraine revendique des attaques contre deux navires russes au large de la Libye",
+            "link": "https://www.liberation.fr/international/europe/lukraine-revendique-des-attaques-contre-deux-navires-russes-au-large-de-la-libye-20261123_L22KMEK5IZDWZP35XFEVOLLN2A/",
+            "publishedAt": "2026-11-23T20:49:04.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "La Croix",
+            "title": "Guerre en Ukraine : ce qu’il faut retenir de la situation du lundi 23 novembre",
+            "link": "https://www.la-croix.com/international/ukraine-russie-jour-1734-point-conflit-ukrainien-poutine-aujourdhui-20261123",
+            "publishedAt": "2026-11-23T20:25:06.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+            "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-23T20:48:35.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "BBC News",
+            "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+            "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-23T15:41:23.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "NPR",
+            "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+            "link": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+            "publishedAt": "2026-11-23T10:16:33.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "Ukraine says it sank Russian warship off coast of Libya, far from front line",
+            "link": "https://www.washingtonpost.com/world/2026/11/23/ukraine-says-it-sank-russian-warship-off-coast-libya-far-front-line/",
+            "publishedAt": "2026-11-23T17:30:38.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "Ukraine takes the war against Russia far from its borders",
+            "link": "https://www.politico.eu/article/ukraine-takes-war-russia-far-from-borders/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-23T16:14:02.000Z",
+            "lang": "en",
+            "country": "BE"
+          },
+          {
+            "name": "RFI",
+            "title": "L'attaque ukrainienne au large de Benghazi ravive la tension entre les belligérants libyens",
+            "link": "https://www.rfi.fr/fr/afrique/20261123-l-attaque-ukrainienne-en-large-de-benghazi-ravive-la-tension-entre-les-bellig%C3%A9rants-libyens",
+            "publishedAt": "2026-11-23T21:16:48.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/23/2596142-des-secouristes-ukrainiens-interviennent-apres-une.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/international/ukraine-russie-jour-1734-point-conflit-ukrainien-poutine-aujourdhui-20261123"
+        },
+        "i18n": {
+          "en": {
+            "title": "Ukraine attacks Russian ships off the coast of Libya",
+            "context": "The conflict between Russia and Ukraine has taken place mainly on Ukrainian territory and in the Black Sea. The Mediterranean Sea and the African coasts remain strategic areas for Russian maritime transport.",
+            "summary": "Ukrainian President Volodymyr Zelensky claimed that his country's underwater drones sank a Russian warship off the coast of Benghazi, Libya. This operation marks an extension of the Ukrainian conflict far beyond its usual borders. Russia warned of an escalation of regional tensions without directly commenting on the attack. Meanwhile, authorities in eastern Libya denounced a violation of their sovereignty to the UN.",
+            "plain": "IN SHORT: Ukraine claims to have attacked and sunk Russian military ships based off the coast of Libya. This is the first time the Ukrainian government has conducted military operations so far from its national territory, increasing international tensions.",
+            "stakes": [
+              "What impact will this geographical extension have on the armed conflict?",
+              "How will the Libyan authorities and the UN react to this operation?",
+              "Will Russia reinforce the security of its fleet outside the Black Sea?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Ucrania ataca barcos rusos frente a la costa de Libia",
+            "context": "El conflicto entre Rusia y Ucrania se ha desarrollado principalmente en territorio ucraniano y en el mar Negro. El mar Mediterráneo y las costas africanas siguen siendo zonas estratégicas para el transporte marítimo ruso.",
+            "summary": "El presidente ucraniano, Volodímir Zelenski, afirmó que los drones submarinos de su país hundieron un buque de guerra ruso frente a las costas de Bengasi, en Libia. Esta operación marca una extensión del conflicto ucraniano muy lejos de sus fronteras habituales. Rusia advirtió sobre una escalada de las tensiones regionales sin comentar directamente el ataque. Por su parte, las autoridades del este de Libia denunciaron una violación de su soberanía ante la ONU.",
+            "plain": "EN CLASES: Ucrania afirma haber atacado y hundido barcos militares rusos basados frente a las costas de Libia. Es la primera vez que el gobierno ucraniano lleva a cabo operaciones militares tan lejos de su territorio nacional, lo que aumenta las tensiones internacionales.",
+            "stakes": [
+              "¿Qué impacto tendrá esta ampliación geográfica en el conflicto armado?",
+              "¿Cómo reaccionarán las autoridades libias y la ONU ante esta operación?",
+              "¿Reforzará Rusia la seguridad de su flota fuera del mar Negro?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s2899c804fa",
+        "topic": "environnement",
+        "title": "Échec des négociations mondiales sur le climat lors de la COP31",
+        "context": "La COP, la conférence annuelle de l'ONU sur le climat, réunissait près de 200 pays à Antalya, en Turquie. L'objectif principal était de trouver un accord mondial sur le financement climatique et l'avenir des énergies fossiles.",
+        "summary": "Les négociations de la COP31 se sont terminées sans accord, devenant les plus longues de l'histoire de ce sommet. Les discussions ont bloqué sur la question de la sortie progressive du charbon, du pétrole et du gaz, rejetée par l'Arabie saoudite et d'autres pays producteurs. Les nations européennes et les pays vulnérables ont refusé le texte final qui ne mentionnait pas cette étape. Cet échec suscite une vague d'indignation et des appels à réformer le fonctionnement de ces conférences.",
+        "plain": "EN CLAIR : Les pays réunis à la réunion mondiale sur le climat ne sont pas parvenus à se mettre d'accord sur un texte commun. Le blocage principal concerne le refus de plusieurs pays producteurs de pétrole de mentionner l'abandon des énergies fossiles.",
+        "chart": null,
+        "stakes": [
+          "Comment les futurs sommets sur le climat pourront-ils sortir de l'impasse ?",
+          "Quelles seront les conséquences sur la lutte contre le réchauffement climatique mondial ?",
+          "Le mode de décision par consensus de l'ONU sera-t-il remis en cause ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "What failure of COP31 reveals about a divided world",
+            "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-23T17:24:25.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "BBC News",
+            "title": "What's next after no deal at COP31 climate talks?",
+            "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-23T05:34:39.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "NPR",
+            "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+            "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+            "publishedAt": "2026-11-23T12:42:03.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "NPR",
+            "title": "Climate change talks fall apart in final hours over fossil fuels",
+            "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+            "publishedAt": "2026-11-22T16:33:22.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The New York Times",
+            "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+            "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+            "publishedAt": "2026-11-23T19:27:13.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "Collapse of U.N. summit intensifies calls for new approach to climate talks",
+            "link": "https://www.washingtonpost.com/world/2026/11/23/collapse-un-summit-intensifies-calls-new-approach-climate-talks/",
+            "publishedAt": "2026-11-23T22:21:28.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "ANSA",
+            "title": "Lo strappo dell'Ue alla Cop31, 'ostacolati dagli interessi di pochi'",
+            "link": "https://www.ansa.it/ansa2030/notizie/green_blue/2026/11/23/la-delusione-di-pechino-per-il-mancato-accordo-alla-cop31-ma-la-transizione-verde-e-irreversibile_12f4492d-7ced-4afa-adff-6a39744369bf.html",
+            "publishedAt": "2026-11-23T21:29:46.000Z",
+            "lang": "it",
+            "country": "IT"
+          },
+          {
+            "name": "Jeune Afrique",
+            "title": "Climat : l’échec de la COP31 suscite une vague d’indignation et des appels aux réformes",
+            "link": "https://www.jeuneafrique.com/1864025/societe/climat-lechec-de-la-cop31-suscite-une-vague-dindignation-et-des-appels-aux-reformes/",
+            "publishedAt": "2026-11-23T11:21:15.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c650/live/3a868c20-e767-11f1-99a1-253766e7ad8b.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Global climate negotiations fail at COP31",
+            "context": "COP, the annual UN climate conference, brought together nearly 200 countries in Antalya, Turkey. The main objective was to find a global agreement on climate financing and the future of fossil fuels.",
+            "summary": "The COP31 negotiations ended without an agreement, becoming the longest in the history of this summit. Discussions stalled over the issue of the phase-out of coal, oil and gas, which was rejected by Saudi Arabia and other producing countries. European nations and vulnerable countries rejected the final text because it did not mention this step. This failure has sparked a wave of indignation and calls to reform the functioning of these conferences.",
+            "plain": "IN SHORT: Countries gathered at the global climate meeting failed to agree on a common text. The main stumbling block concerns the refusal of several oil-producing countries to mention the abandonment of fossil fuels.",
+            "stakes": [
+              "How will future climate summits break the deadlock?",
+              "What will be the consequences for the fight against global warming?",
+              "Will the UN's consensus-based decision-making process be called into question?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Fracaso de las negociaciones mundiales sobre el clima en la COP31",
+            "context": "La COP, la conferencia anual de la ONU sobre el clima, reunió a casi 200 países en Antalya, Turquía. El objetivo principal era encontrar un acuerdo mundial sobre la financiación climática y el futuro de los combustibles fósiles.",
+            "summary": "Las negociaciones de la COP31 terminaron sin acuerdo, convirtiéndose en las más largas de la historia de esta cumbre. Las discusiones se bloquearon en torno a la cuestión de la eliminación progresiva del carbón, el petróleo y el gas, rechazada por Arabia Saudí y otros países productores. Las naciones europeas y los países vulnerables rechazaron el texto final al no mencionar esta etapa. Este fracaso suscita una ola de indignación y llamamientos a reformar el funcionamiento de estas conferencias.",
+            "plain": "EN CLAROS: Los países reunidos en la cumbre mundial sobre el clima no lograron ponerse de acuerdo sobre un texto común. El principal escollo es la negativa de varios países productores de petróleo a mencionar el abandono de los combustibles fósiles.",
+            "stakes": [
+              "¿Cómo podrán las futuras cumbres sobre el clima salir del estancamiento?",
+              "¿Cuáles serán las consecuencias en la lucha contra el calentamiento global?",
+              "¿Se cuestionará el método de decisión por consenso de la ONU?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s4d8cefc692",
+        "topic": "international",
+        "title": "Tensions militaires accrues entre l'OTAN et la Russie",
+        "context": "L'OTAN est l'alliance militaire défensive réunissant des pays européens et nord-américains. Depuis le début de la guerre en Ukraine, la sécurité du continent européen et de ses frontières orientales est au cœur des préoccupations.",
+        "summary": "Les pays membres de l'OTAN expriment une inquiétude croissante face à la multiplication des incidents et incursions russes aux frontières européennes. La Finlande a convoqué l'ambassadeur russe après une violation supposée de son espace aérien, tandis que des missiles ont touché le territoire polonais. Par ailleurs, des services de renseignement occidentaux mettent en garde contre le lancement imminent d'une arme nucléaire spatiale par la Russie. Le secrétaire général de l'OTAN a averti que l'appareil militaire russe pourrait menacer l'Europe sur le long terme.",
+        "plain": "EN CLAIR : Plusieurs pays de l'alliance militaire de l'OTAN s'inquiètent de provocations répétées de la Russie à leurs frontières. Les agences de renseignement redoutent également le déploiement d'une arme russe dans l'espace, augmentant le risque d'un conflit élargi.",
+        "chart": null,
+        "stakes": [
+          "Quelles mesures de sécurité l'OTAN va-t-elle adopter pour protéger ses frontières ?",
+          "Comment les pays occidentaux réagiront-ils face au risque d'armement dans l'espace ?",
+          "Jusqu'où cette montée de tension diplomatique et militaire peut-elle aller ?"
+        ],
+        "sources": [
+          {
+            "name": "L'Express",
+            "title": "Une arme nucléaire dans l’espace ? L’Otan s’inquiète d’un lancement russe imminent",
+            "link": "https://www.lexpress.fr/secret-defense/une-arme-nucleaire-dans-lespace-lotan-sinquiete-dun-lancement-russe-imminent-JLEM4G7DPFB7HOCLJAEDJNIYEE/",
+            "publishedAt": "2026-11-23T15:15:39.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Tagesschau",
+            "title": "Russische Atomwaffe im Weltall: Wie reagiert die NATO?",
+            "link": "https://www.tagesschau.de/tagesthemen/video-1688800.html",
+            "publishedAt": "2026-11-23T21:37:33.000Z",
+            "lang": "de",
+            "country": "DE"
+          },
+          {
+            "name": "Tagesschau",
+            "title": "Geheimdienste warnen: Russland soll Atomwaffe im Weltraum vorbereiten",
+            "link": "https://www.tagesschau.de/tagesthemen/video-1688798.html",
+            "publishedAt": "2026-11-23T21:33:35.000Z",
+            "lang": "de",
+            "country": "DE"
+          },
+          {
+            "name": "NPR",
+            "title": "Russian incursions into NATO territory are increasing",
+            "link": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
+            "publishedAt": "2026-11-23T23:08:51.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
+            "link": "https://www.washingtonpost.com/world/2026/11/23/nato-calls-urgent-meeting-string-incidents-escalates-russia-tensions/",
+            "publishedAt": "2026-11-23T18:58:51.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Fox News",
+            "title": "NATO warns Putin could strike before European army responds, points to US as military model",
+            "link": "https://www.foxnews.com/world/nato-warns-putin-could-strike-european-army-responds-points-us-military-model",
+            "publishedAt": "2026-11-23T23:37:35.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Fox News",
+            "title": "Russia could launch nuclear-capable satellite within weeks, Western intelligence warns: report",
+            "link": "https://www.foxnews.com/world/russia-could-launch-nuclear-capable-satellite-within-weeks-western-intelligence-warns-report",
+            "publishedAt": "2026-11-23T20:05:36.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "Finland summons Russian ambassador over suspected helicopter incursion",
+            "link": "https://www.politico.eu/article/finland-summons-russian-ambassador-over-suspected-helicopter-incursion/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-23T21:02:55.000Z",
+            "lang": "en",
+            "country": "BE"
+          }
+        ],
+        "image": {
+          "url": "https://www.lexpress.fr/resizer/v2/JFG3GOOKDVCGRJEQPQ6XNVKTZU.jpg?auth=5c1e78e13c81b8888e0fbca44cda5dddd38ad6fb6aba7c542b9364629da60652&smart=true&width=4300&height=2721",
+          "credit": "L'Express",
+          "link": "https://www.lexpress.fr/secret-defense/une-arme-nucleaire-dans-lespace-lotan-sinquiete-dun-lancement-russe-imminent-JLEM4G7DPFB7HOCLJAEDJNIYEE/"
+        },
+        "i18n": {
+          "en": {
+            "title": "Heightened military tensions between NATO and Russia",
+            "context": "NATO is the defensive military alliance bringing together European and North American countries. Since the beginning of the war in Ukraine, the security of the European continent and its eastern borders has been a central concern.",
+            "summary": "NATO member countries are expressing growing concern over the multiplication of Russian incidents and incursions at European borders. Finland summoned the Russian ambassador after a suspected violation of its airspace, while missiles hit Polish territory. In addition, Western intelligence services warned against the imminent launch of a space-based nuclear weapon by Russia. The NATO Secretary General warned that the Russian military apparatus could threaten Europe in the long term.",
+            "plain": "IN SHORT: Several countries in the NATO military alliance are worried about repeated Russian provocations at their borders. Intelligence agencies also fear the deployment of a Russian weapon in space, increasing the risk of a wider conflict.",
+            "stakes": [
+              "What security measures will NATO adopt to protect its borders?",
+              "How will Western countries react to the risk of space-based armaments?",
+              "How far can this rise in diplomatic and military tension go?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Aumento de las tensiones militares entre la OTAN y Rusia",
+            "context": "La OTAN es la alianza militar defensiva que agrupa a países europeos y norteamericanos. Desde el inicio de la guerra en Ucrania, la seguridad del continente europeo y de sus fronteras orientales es una preocupación central.",
+            "summary": "Los países miembros de la OTAN expresan una creciente preocupación ante la multiplicación de incidentes e incursiones rusas en las fronteras europeas. Finlandia convocó al embajador ruso tras una presunta violación de su espacio aéreo, mientras que varios misiles alcanzaron territorio polaco. Por otro lado, los servicios de inteligencia occidentales advierten sobre el lanzamiento inminente de un arma nuclear espacial por parte de Rusia. El secretario general de la OTAN advirtió que el aparato militar ruso podría amenazar a Europa a largo plazo.",
+            "plain": "EN CLARO: Varios países de la alianza militar de la OTAN están preocupados por las repetidas provocaciones de Rusia en sus fronteras. Las agencias de inteligencia también temen el despliegue de un arma rusa en el espacio, lo que aumenta el riesgo de un conflicto ampliado.",
+            "stakes": [
+              "¿Qué medidas de seguridad adoptará la OTAN para proteger sus fronteras?",
+              "¿Cómo reaccionarán los países occidentales ante el riesgo de armamento en el espacio?",
+              "¿Hasta dónde puede llegar esta escalada de tensión diplomática y militar?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sc20370835c",
+        "topic": "international",
+        "title": "L'Union européenne propose un nouveau paquet de sanctions contre la Russie",
+        "context": "L'Union européenne a déjà adopté plusieurs séries de sanctions économiques et politiques contre la Russie en réponse à l'invasion de l'Ukraine. Ces mesures visent à restreindre les capacités financières et politiques de Moscou.",
+        "summary": "La présidente de la Commission européenne, Ursula von der Leyen, a présenté un 22e paquet de sanctions visant la Russie. Ce projet prévoit de restreindre les visas pour les anciens militaires russes ainsi que de cibler des banques et des plateformes de cryptomonnaies. La Commission souhaite également interdire aux sportifs russes de participer aux compétitions organisées dans les pays membres sous leurs couleurs nationales. Les Européens se verraient aussi interdire d'occuper des postes de direction dans les instances sportives russes.",
+        "plain": "EN CLAIR : L'Union européenne veut durcir ses sanctions contre le gouvernement russe en s'attaquant au secteur financier et au sport. Si la mesure est validée, les athlètes russes ne pourront plus participer aux compétitions sportives en Europe sous leur drapeau.",
+        "chart": null,
+        "stakes": [
+          "Ces nouvelles restrictions financières auront-elles un impact direct sur l'économie russe ?",
+          "Comment le monde sportif international réagira-t-il à ces interdictions ?",
+          "Les 27 pays de l'UE adopteront-ils ces propositions à l'unanimité ?"
+        ],
+        "sources": [
+          {
+            "name": "L'Humanité",
+            "title": "La Commission européenne veut interdire aux sportifs russes de participer aux compétitions dans l’UE",
+            "link": "https://www.humanite.fr/monde/bielorussie/la-commission-europeenne-veut-interdire-aux-sportifs-russes-de-participer-aux-competitions-dans-lue",
+            "publishedAt": "2026-11-23T18:11:40.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "EU targets Russian ex-soldiers, banks and sports in new sanctions push",
+            "link": "https://www.politico.eu/article/eu-to-target-russian-ex-soldiers-banks-and-sports-in-new-sanctions-push/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-23T16:15:10.000Z",
+            "lang": "en",
+            "country": "BE"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "L’Union européenne veut « interdire l’affichage des symboles russes » dans les compétitions sportives sur son sol",
+            "link": "https://www.lemonde.fr/international/article/2026/11/23/l-union-europeenne-veut-interdire-l-affichage-des-symboles-russes-dans-les-competitions-sportives-sur-son-sol_6814445_3210.html",
+            "publishedAt": "2026-11-23T19:56:44.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.humanite.fr/wp-content/uploads/2026/11/2026-09-16T082730Z_1163837898_RC27KNA0ZS8Y_RTRMADP_3_EU-STATEOFUNION.jpg?w=1200",
+          "credit": "L'Humanité",
+          "link": "https://www.humanite.fr/monde/bielorussie/la-commission-europeenne-veut-interdire-aux-sportifs-russes-de-participer-aux-competitions-dans-lue"
+        },
+        "i18n": {
+          "en": {
+            "title": "European Union proposes a new sanctions package against Russia",
+            "context": "The European Union has already adopted several rounds of economic and political sanctions against Russia in response to the invasion of Ukraine. These measures aim to restrict Moscow's financial and political capabilities.",
+            "summary": "European Commission President Ursula von der Leyen presented a 22nd package of sanctions targeting Russia. This draft provides for restricting visas for former Russian military personnel as well as targeting banks and cryptocurrency platforms. The Commission also wants to ban Russian athletes from participating in competitions organized in member countries under their national colors. Europeans would also be barred from holding management positions in Russian sports bodies.",
+            "plain": "IN SHORT: The European Union wants to tighten its sanctions against the Russian government by targeting the financial sector and sports. If approved, Russian athletes will no longer be able to participate in sports competitions in Europe under their flag.",
+            "stakes": [
+              "Will these new financial restrictions have a direct impact on the Russian economy?",
+              "How will the international sports world react to these bans?",
+              "Will the 27 EU countries adopt these proposals unanimously?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "La Unión Europea propone un nuevo paquete de sanciones contra Rusia",
+            "context": "La Unión Europea ya ha adoptado varias rondas de sanciones económicas y políticas contra Rusia en respuesta a la invasión de Ucrania. Estas medidas pretenden restringir las capacidades financieras y políticas de Moscú.",
+            "summary": "La presidenta de la Comisión Europea, Ursula von der Leyen, presentó un 22º paquete de sanciones dirigido contra Rusia. Este proyecto prevé restringir los visados para exmilitares rusos, así como atacar a bancos y plataformas de criptomonedas. La Comisión también quiere prohibir a los atletas rusos participar en competiciones organizadas en los países miembros bajo sus colores nacionales. A los europeos también se les prohibiría ocupar puestos directivos en las instancias deportivas rusas.",
+            "plain": "EN CLARO: La Unión Europea quiere endurecer sus sanciones contra el gobierno ruso atacando al sector financiero y al deporte. Si se aprueba la medida, los atletas rusos ya no podrán participar en competiciones deportivas en Europa bajo su bandera.",
+            "stakes": [
+              "¿Tendrán estas nuevas restricciones financieras un impacto directo en la economía rusa?",
+              "¿Cómo reaccionará el mundo deportivo internacional ante estas prohibiciones?",
+              "¿Adoptarán los 27 países de la UE estas propuestas por unanimidad?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s840f91aa66",
+        "topic": "justice",
+        "title": "Soutien international à la décision de la justice sur le génocide rohingya",
+        "context": "La Cour internationale de justice (CIJ) est la plus haute instance judiciaire de l'ONU. La minorité musulmane des Rohingyas a été victime de graves exactions de la part de l'armée birmane en 2017.",
+        "summary": "Quatorze pays, parmi lesquels le Royaume-Uni, l'Espagne, le Canada et l'Australie, ont officiellement reconnu la décision rendue par la Cour internationale de justice concernant le génocide des Rohingyas. La juridiction onusienne a établi que la Birmanie avait commis un génocide à l'encontre de cette population minoritaire. Cette prise de position conjointe renforce le poids du droit international concernant cette affaire. La décision sert désormais de référence juridique pour d'autres conflits dans le monde.",
+        "plain": "EN CLAIR : Quatorze pays ont approuvé la décision de la justice internationale affirmant que la Birmanie a commis un génocide contre la minorité des Rohingyas. Cela permet de renforcer les poursuites judiciaires et d'isoler davantage le gouvernement birman.",
+        "chart": null,
+        "stakes": [
+          "Quelles sanctions internationales pourraient découler de cette reconnaissance officielle ?",
+          "Ce jugement permettra-t-il de mieux protéger les réfugiés rohingyas ?",
+          "Comment le gouvernement birman réagira-t-il à cette pression diplomatique ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Génocide des Rohingyas : 14 pays dont le Royaume-Uni et l’Espagne reconnaissent la décision de la CIJ",
+            "link": "https://www.la-croix.com/international/genocide-des-rohingyas-14-pays-dont-le-royaume-uni-et-l-espagne-reconnaissent-la-decision-de-la-cij-20261123",
+            "publishedAt": "2026-11-23T20:03:01.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "France 24",
+            "title": "Génocide des Rohingya en Birmanie : 14 pays reconnaissent la décision de la CIJ",
+            "link": "https://www.france24.com/fr/asie-pacifique/20261123-birmanie-genocide-rohingya-14-pays-reconnaissent-decision-cij",
+            "publishedAt": "2026-11-23T22:31:48.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "« Après le jugement de la Cour internationale de justice sur le Myanmar, la qualification de génocide à Gaza peut désormais s’appuyer sur sa jurisprudence »",
+            "link": "https://www.lemonde.fr/idees/article/2026/11/23/apres-le-jugement-de-la-cour-internationale-de-justice-sur-le-myanmar-la-qualification-de-genocide-a-gaza-peut-desormais-s-appuyer-sur-sa-jurisprudence_6814439_3232.html",
+            "publishedAt": "2026-11-23T18:30:12.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/23/2597046-un-garde-frontiere-du-myanmar-pres-d-une-cloture-e.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/international/genocide-des-rohingyas-14-pays-dont-le-royaume-uni-et-l-espagne-reconnaissent-la-decision-de-la-cij-20261123"
+        },
+        "i18n": {
+          "en": {
+            "title": "International support for court decision on Rohingya genocide",
+            "context": "The International Court of Justice (ICJ) is the UN's highest judicial body. The Rohingya Muslim minority was the victim of serious abuses by the Burmese army in 2017.",
+            "summary": "Fourteen countries, including the United Kingdom, Spain, Canada, and Australia, have officially recognized the decision rendered by the International Court of Justice regarding the Rohingya genocide. The UN court established that Burma committed genocide against this minority population. This joint stance reinforces the weight of international law concerning this case. The decision now serves as a legal reference for other conflicts around the world.",
+            "plain": "IN SHORT: Fourteen countries have approved the international justice decision affirming that Burma committed genocide against the Rohingya minority. This helps strengthen legal proceedings and further isolate the Burmese government.",
+            "stakes": [
+              "What international sanctions could result from this official recognition?",
+              "Will this judgment help better protect Rohingya refugees?",
+              "How will the Burmese government react to this diplomatic pressure?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Apoyo internacional a la decisión judicial sobre el genocidio rohinyá",
+            "context": "La Corte Internacional de Justicia (CIJ) es el máximo órgano judicial de la ONU. La minoría musulmana rohinyá fue víctima de graves abusos por parte del ejército birmano en 2017.",
+            "summary": "Catorce países, entre ellos el Reino Unido, España, Canadá y Australia, han reconocido oficialmente la decisión dictada por la Corte Internacional de Justicia sobre el genocidio rohinyá. El tribunal de la ONU determinó que Birmania cometió un genocidio contra esta población minoritaria. Esta postura conjunta refuerza el peso del derecho internacional en este asunto. La decisión sirve ahora como referencia jurídica para otros conflictos en el mundo.",
+            "plain": "EN CLARO: Catorce países han aprobado la decisión de la justicia internacional que afirma que Birmania ha cometido un genocidio contra la minoría rohinyá. Esto ayuda a reforzar los procedimientos judiciales y a aislar aún más al gobierno birmano.",
+            "stakes": [
+              "¿Qué sanciones internacionales podrían derivarse de este reconocimiento oficial?",
+              "¿Permitirá esta sentencia proteger mejor a los refugiados rohinyás?",
+              "¿Cómo reaccionará el gobierno birmano ante esta presión diplomática?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s3bd0ec532c",
+        "topic": "societe",
+        "title": "Un incendie mortel ravage une usine de confiserie en Indonésie",
+        "context": "Des centaines d'employés travaillaient dans un complexe industriel de confiserie en Indonésie lorsqu'un incendie s'est déclaré. La sécurité industrielle dans les usines reste un défi majeur dans plusieurs pays d'Asie du Sud-Est.",
+        "summary": "Un incendie dévastateur s'est déclaré samedi dans une usine de confiserie en Indonésie et a brûlé pendant plusieurs heures. Le bilan officiel fait état d'au moins 24 personnes tuées dans le sinistre. Les équipes de secours poursuivent leurs recherches pour retrouver 34 autres personnes portées disparues. Des centaines de travailleurs étaient présents sur le site au moment où les flammes se sont propagées.",
+        "plain": "EN CLAIR : Un grave incendie dans une usine de bonbons en Indonésie a causé la mort d'au moins 24 personnes. Les sauveteurs recherchent toujours des dizaines d'ouvriers qui manquent à l'appel.",
+        "chart": {
+          "title": "Bilan humain de l'incendie de l'usine en Indonésie",
+          "unit": "personnes",
+          "items": [
+            {
+              "label": "Personnes tuées",
+              "value": 24
+            },
+            {
+              "label": "Personnes disparues",
+              "value": 34
+            }
+          ],
+          "source": {
+            "name": "Sky News",
+            "link": "https://news.sky.com/story/deadly-fire-at-confectionery-factory-in-indonesia-kills-24-as-rescuers-search-for-dozens-still-missing-13615577"
+          }
+        },
+        "stakes": [
+          "Les équipes de secours retrouveront-elles des survivants parmi les disparus ?",
+          "Quelles étaient les conditions de sécurité à l'intérieur du bâtiment ?",
+          "Une enquête déterminera-t-elle les causes du départ de feu ?"
+        ],
+        "sources": [
+          {
+            "name": "Sky News",
+            "title": "Deadly fire at confectionery factory kills 24 as rescuers search for dozens still missing",
+            "link": "https://news.sky.com/story/deadly-fire-at-confectionery-factory-in-indonesia-kills-24-as-rescuers-search-for-dozens-still-missing-13615577",
+            "publishedAt": "2026-11-23T10:52:00.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The New York Times",
+            "title": "24 Killed After Fire Rips Through Candy Factory in Indonesia",
+            "link": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
+            "publishedAt": "2026-11-24T00:35:20.000Z",
+            "lang": "en",
+            "country": "US"
+          }
+        ],
+        "image": {
+          "url": "https://e3.365dm.com/26/11/1920x1080/skynews-serang-indonesia_7414286.jpg?20261123105702",
+          "credit": "Sky News",
+          "link": "https://news.sky.com/story/deadly-fire-at-confectionery-factory-in-indonesia-kills-24-as-rescuers-search-for-dozens-still-missing-13615577"
+        },
+        "i18n": {
+          "en": {
+            "title": "Deadly fire ravages confectionery factory in Indonesia",
+            "context": "Hundreds of employees were working in a confectionery industrial complex in Indonesia when a fire broke out. Industrial safety in factories remains a major challenge in several Southeast Asian countries.",
+            "summary": "A devastating fire broke out on Saturday at a confectionery factory in Indonesia and burned for several hours. The official death toll stands at least 24 people killed in the disaster. Rescue teams are continuing their search to find 34 other people reported missing. Hundreds of workers were present on the site when the flames spread.",
+            "plain": "IN SHORT: A serious fire at a candy factory in Indonesia caused the death of at least 24 people. Rescuers are still searching for dozens of workers who are unaccounted for.",
+            "stakes": [
+              "Will rescue teams find survivors among the missing?",
+              "What were the safety conditions inside the building?",
+              "Will an investigation determine the causes of the fire outbreak?"
+            ],
+            "chart": {
+              "title": "Human toll of the factory fire in Indonesia",
+              "unit": "people",
+              "labels": [
+                "People killed",
+                "People missing"
+              ]
+            }
+          },
+          "es": {
+            "title": "Un incendio mortal arrasa una fábrica de dulces en Indonesia",
+            "context": "Cientos de empleados trabajaban en un complejo industrial de confitería en Indonesia cuando se declaró un incendio. La seguridad industrial en las fábricas sigue siendo un reto importante en varios países del Sudeste Asiático.",
+            "summary": "Un devastador incendio se declaró el sábado en una fábrica de dulces en Indonesia y ardió durante varias horas. El balance oficial sitúa en al menos 24 el número de personas muertas en el siniestro. Los equipos de rescate continúan sus búsquedas para encontrar a otras 34 personas dadas por desaparecidas. Cientos de trabajadores estaban presentes en el lugar cuando las llamas se propagaron.",
+            "plain": "EN CLARO: Un grave incendio en una fábrica de caramelos en Indonesia causó la muerte de al menos 24 personas. Los socorristas siguen buscando a decenas de trabajadores que siguen desaparecidos.",
+            "stakes": [
+              "¿Encontrarán los equipos de rescate supervivientes entre los desaparecidos?",
+              "¿Cuáles eran las condiciones de seguridad en el interior del edificio?",
+              "¿Determinará una investigación las causas del inicio del fuego?"
+            ],
+            "chart": {
+              "title": "Balance humano del incendio de la fábrica en Indonesia",
+              "unit": "personas",
+              "labels": [
+                "Personas muertas",
+                "Personas desaparecidas"
+              ]
+            }
+          }
+        }
+      },
+      {
+        "id": "sab85d65627",
+        "topic": "sciences_tech",
+        "title": "L'ONU réclame un cadre mondial pour encadrer l'intelligence artificielle",
+        "context": "L'essor rapide des technologies d'intelligence artificielle soulève des questions d'éthique, de sécurité et d'impact économique à l'échelle globale. L'ONU tente d'harmoniser la régulation au niveau mondial.",
+        "summary": "Le secrétaire général des Nations unies, Antonio Guterres, a lancé un appel aux États membres pour concevoir un cadre de gestion des risques liés à l'intelligence artificielle. Il souhaite que ce mécanisme multilatéral de supervision soit établi d'ici un an. Antonio Guterres multiplie les prises de parole sur ce sujet à l'approche de la fin de son mandat. L'objectif est de limiter les usages dangereux tout en garantissant un encadrement éthique commun.",
+        "plain": "EN CLAIR : Le chef de l'ONU demande aux pays du monde entier de créer des règles communes pour encadrer l'intelligence artificielle d'ici un an. Il souhaite prévenir les dangers potentiels de ces nouvelles technologies.",
+        "chart": null,
+        "stakes": [
+          "Les grands pays producteurs d'IA parviendront-ils à s'entendre sur des règles communes ?",
+          "Quelles limites seront fixées pour l'utilisation des technologies d'IA ?",
+          "Comment concilier innovation technologique et sécurité des citoyens ?"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "title": "UN chief calls for world to agree on AI oversight within a year",
+            "link": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
+            "publishedAt": "2026-11-24T02:27:19.000Z",
+            "lang": "en",
+            "country": "QA"
+          },
+          {
+            "name": "France 24",
+            "title": "Le chef de l'ONU espère voir d'ici un an un mécanisme pour limiter les risques posés par l'IA",
+            "link": "https://www.france24.com/fr/%C3%A9co-tech/20261123-intelligence-artificielle-chef-onu-guterres-espere-voir-d-ici-un-an-mecanisme-pour-limiter-risques-ia",
+            "publishedAt": "2026-11-23T22:42:46.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://s.france24.com/media/display/e51a5ede-dddd-11f1-ab12-29048b396e03/w:1024/p:16x9/2026-11-11T095333Z-478881187-RC2LLOANGT8G-RTRMADP-3-CLIMATE-COP31.jpg",
+          "credit": "France 24",
+          "link": "https://www.france24.com/fr/%C3%A9co-tech/20261123-intelligence-artificielle-chef-onu-guterres-espere-voir-d-ici-un-an-mecanisme-pour-limiter-risques-ia"
+        },
+        "i18n": {
+          "en": {
+            "title": "The UN calls for a global framework to regulate artificial intelligence",
+            "context": "The rapid rise of artificial intelligence technologies raises ethical, security, and economic impact questions on a global scale. The UN is attempting to harmonize regulation worldwide.",
+            "summary": "United Nations Secretary-General Antonio Guterres has called on member states to design a risk management framework for artificial intelligence. He wants this multilateral supervision mechanism to be established within a year. Antonio Guterres has been increasingly speaking out on this subject as the end of his term approaches. The goal is to limit dangerous uses while ensuring a common ethical framework.",
+            "plain": "IN SHORT: The UN chief is asking countries around the world to create common rules to regulate artificial intelligence within a year. He wants to prevent the potential dangers of these new technologies.",
+            "stakes": [
+              "Will major AI-producing countries manage to agree on common rules?",
+              "What limits will be set for the use of AI technologies?",
+              "How can technological innovation be reconciled with citizen safety?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "La ONU reclama un marco mundial para regular la inteligencia artificial",
+            "context": "El rápido auge de las tecnologías de inteligencia artificial plantea cuestiones éticas, de seguridad y de impacto económico a escala global. La ONU intenta armonizar la regulación a nivel mundial.",
+            "summary": "El secretario general de las Naciones Unidas, António Guterres, ha hecho un llamamiento a los Estados miembros para diseñar un marco de gestión de los riesgos relacionados con la inteligencia artificial. Desea que este mecanismo multilateral de supervisión se establezca en el plazo de un año. António Guterres multiplica sus declaraciones sobre este tema a medida que se acerca el fin de su mandato. El objetivo es limitar los usos peligrosos garantizando al mismo tiempo un marco ético común.",
+            "plain": "EN CLARO: El jefe de la ONU pide a los países de todo el mundo que creen normas comunes para regular la inteligencia artificial en el plazo de un año. Desea prevenir los peligros potenciales de estas nuevas tecnologías.",
+            "stakes": [
+              "¿Lograrán los grandes países productores de IA ponerse de acuerdo sobre normas comunes?",
+              "¿Qué límites se fijarán para el uso de las tecnologías de IA?",
+              "¿Cómo conciliar la innovación tecnológica y la seguridad de los ciudadanos?"
+            ],
+            "chart": null
+          }
+        }
+      }
+    ]
+  },
+  "storiesAt": "2026-11-24T02:36:40.219Z",
+  "inputHash": "b0ce0a016444fdabe566cd0f91a8031d07abf236",
+  "synthStatus": "ok",
+  "news": {
+    "france": [
+      {
+        "id": "a42c0465eac",
+        "title": "Violences économiques : «Il faut traiter le problème dans sa globalité»",
+        "link": "https://www.liberation.fr/forums/violences-economiques-il-faut-traiter-le-probleme-dans-sa-globalite-20261124_KIVL44TWFJCUFJJWCOK32BIHNA/",
+        "summary": "Comment aider, conseiller, suivre les femmes victimes de violences économiques. Les réponses de Valérie Kipfer, membre de l’association pour la Fondation Crésus.",
+        "image": null,
+        "publishedAt": "2026-11-24T01:33:00.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "ae5af14f499",
+        "title": "Donald Trump demande au ministère de la justice de requérir la peine de mort pour les meurtriers d’enfants",
+        "link": "https://www.lemonde.fr/international/article/2026/11/24/donald-trump-demande-au-ministere-de-la-justice-de-requerir-la-peine-de-mort-pour-les-meurtriers-d-enfants_6814537_3210.html",
+        "summary": "La requête du président américain concerne également les violeurs et trafiquants d’êtres humains ayant tué leurs victimes. Il a, en outre, annoncé avoir demandé à « accélérer l’exécution des condamnations à mort fédérales ».",
+        "image": "https://img.lemde.fr/2026/11/23/147/0/5616/2808/644/322/60/0/dba73ae_ftp-1-wi0jx63gy6vo-afp-d8ef7fq.jpg",
+        "publishedAt": "2026-11-24T01:31:59.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "a51dcc4d973",
+        "title": "Des fusils de guerre français saisis au Suriname sur un site d’orpaillage",
+        "link": "https://www.ouest-france.fr/monde/ameriques/des-fusils-de-guerre-francais-saisis-au-suriname-sur-un-site-dorpaillage-e9027b20-e793-11f1-afa7-9a0bb82a33d1?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "La découverte de fusils de guerre français sur un site d’orpaillage fait débat au Suriname, où une ancienne ministre estime qu’il pourrait s’agir d’un don de Paris.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExYzFiZjYwZDUxZTY5Nzg4YmQwMTQ0YTQ3YWYwMjA5MTA?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=cdfc8e43e7407d20ab458493ec36036fc7ea4232c758c98a7bfe01598fd67cc7",
+        "publishedAt": "2026-11-24T00:10:24.000Z",
+        "source": "Ouest-France",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "aaf739b779f",
+        "title": "Six députés LFI portent plainte pour des menaces de mort anonymes",
+        "link": "https://www.lemonde.fr/societe/article/2026/11/24/six-deputes-lfi-portent-plainte-pour-des-menaces-de-mort-anonymes_6814471_3224.html",
+        "summary": "Les courriers haineux reçus par les élus « insoumis », qui dénoncent une inaction des autorités, comportaient aussi des croix gammées.",
+        "image": "https://img.lemde.fr/2026/11/03/542/0/8000/4000/644/322/60/0/cc8f89e_upload-1-4yebgikykagh-jmug261103060.jpg",
+        "publishedAt": "2026-11-24T00:09:13.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "ac6ff7dfd50",
+        "title": "La vigilance orange crues est levée dans le Pas-de-Calais, mais \"il reste beaucoup à faire\" selon la préfecture",
+        "link": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/la-vigilance-orange-crues-est-levee-dans-le-pas-de-calais-mais-il-reste-beaucoup-a-faire-selon-la-prefecture_8296836.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Dans son bulletin de 22 heures, Vigicrues a passé la Canche en vigilance jaune, assurant que \"la décrue\" du fleuve côtier \"est en cours\" et que \"le temps sec sur ce secteur depuis samedi permet une baisse progressive des niveaux\".",
+        "image": "https://www.franceinfo.fr/pictures/yPmmCej3wIi6j7GDhl5SJoPYQYM/0x0:1024x576/432x243/filters:format(jpg)/2026/11/23/6b04bfb5924c5135952772.jpg",
+        "publishedAt": "2026-11-23T22:36:54.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "aa126521e62",
+        "title": "« J’ai hâte de me remettre au travail » : les coulisses de l’invraisemblable retour de Jensen Huang chez Nvidia",
+        "link": "https://www.lefigaro.fr/secteur/high-tech/j-ai-hate-de-me-remettre-au-travail-les-coulisses-de-l-invraisemblable-retour-de-jensen-huang-chez-nvidia-20261123",
+        "summary": "RÉCIT - Le conseil d’administration a approuvé à l’unanimité le retour du fondateur du champion américain des puces IA. Une décision marquée par l’influence de Washington et dictée par des motifs économiques.",
+        "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/23/7b7408735140661a7b34b9d6f86f49356c974d7b43bd1f2399e9c0b9e741b2c1.jpg",
+        "publishedAt": "2026-11-23T22:26:27.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "add6df5e2fb",
+        "title": "Ces villages oubliés de Nouvelle-Angleterre que les Américains gardent pour eux",
+        "link": "https://www.lefigaro.fr/voyages/guides/ces-villages-oublies-de-nouvelle-angleterre-que-les-americains-gardent-pour-eux-20261123",
+        "summary": "Au nord-est des États-Unis, cette région composée de six États dévoile une Amérique paisible, entre nature et héritage colonial. Si la ville de Boston concentre tous les regards, ce vaste territoire offre une merveilleuse diversité de paysages et de villages.",
+        "image": "https://i.f1g.fr/media/cms/3000x2251_crop/2026/11/13/9e972089e01851f081891708f0f720c480fb7bc3bf78fc7f0ad23a028f70be86.jpg",
+        "publishedAt": "2026-11-23T22:00:00.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "ae5dcad7ef8",
+        "title": "Ecrits antisémites : Jordan Bardella reconnaît «une faute» de Laure Lavalette mais lui garde son «total soutien»",
+        "link": "https://www.liberation.fr/politique/ecrits-antisemites-jordan-bardella-reconnait-une-faute-de-laure-lavalette-mais-lui-garde-son-total-soutien-20261123_2UTAIIKFYNH4XM2N42RBJZFOJM/",
+        "summary": "Le président du Rassemblement national, lui-même accusé d’avoir tenu des propos antisémites, a défendu ce lundi la porte-parole de campagne de Marine Le Pen, qui a cautionné des écrits antisémites dans les années 90.",
+        "image": null,
+        "publishedAt": "2026-11-23T21:33:59.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "aa49914bbae",
+        "title": "60 millions de consommateurs : accord de reprise par Xavier Niel",
+        "link": "https://www.la-croix.com/60-millions-de-consommateurs-accord-de-reprise-par-xavier-niel-20261123",
+        "summary": "Le ministère de l’économie a annoncé lundi 23 juin l’acceptation de l’offre de Xavier Niel pour reprendre 60 millions de consommateurs, via sa holding NJJ Médias.",
+        "image": "https://i.la-croix.com/x/2026/11/23/2596988-l-offre-de-reprise-du-magazine-60-millions-de-cons.jpg",
+        "publishedAt": "2026-11-23T21:30:10.000Z",
+        "source": "La Croix",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0.5
+      },
+      {
+        "id": "a8e2b7121e8",
+        "title": "Avec Robert Pattinson, James Bond va-t-il changer de montre ?",
+        "link": "https://www.valeursactuelles.com/art-de-vivre/avec-robert-pattinson-james-bond-va-t-il-changer-de-montre",
+        "summary": "Le verdict est tombé : Robert Pattinson sera le septième James Bond de l’histoire du cinéma. Nombreux étaient les fans de la saga à guetter la nouvelle, après la dernière... L’article Avec Robert Pattinson, James Bond va-t-il changer de montre ? est apparu en premier sur Valeurs actuelles .",
+        "image": null,
+        "publishedAt": "2026-11-23T21:00:33.000Z",
+        "source": "Valeurs actuelles",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
+      },
+      {
+        "id": "ae0e27cbbc8",
+        "title": "\"J'ai une phobie de l'eau maintenant\" : les sinistrés du Pas-de-Calais épuisés par les inondations",
+        "link": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/j-ai-une-phobie-de-l-eau-maintenant-les-sinistres-du-pas-de-calais-epuises-par-les-inondations_8296695.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Le niveau de la Canche baisse ce lundi 23 novembre, mais la décrue est lente après les inondations, dans le Pas-de-Calais. À Aix-en-Issart, une habitante rencontrée par France Télévisions vit toujours à l’hôtel, épuisée par les intempéries à répétition. Comme elle, d’autres sinistrés attendent de po",
+        "image": "https://www.franceinfo.fr/pictures/8yyrxBGOJhLgY-BSW3DUex4YKX0/0x31:1614x938/432x243/filters:format(jpg)/2026/11/23/6b0495c675c6d818434865.png",
+        "publishedAt": "2026-11-23T20:14:42.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "a79b7848ec4",
+        "title": "Les députés socialistes déposent un recours contre la loi « permis de tuer »",
+        "link": "https://www.humanite.fr/politique/assemblee-nationale/les-deputes-socialistes-deposent-un-recours-contre-la-loi-permis-de-tuer",
+        "summary": "Les parlementaires socialistes ont présenté ce lundi 22&nbsp;novembre un recours devant le Conseil constitutionnel contre la loi «&nbsp;instaurant une présomption d’usage légitime des armes à feu&nbsp;» par les policiers et gendarmes.",
+        "image": "https://www.humanite.fr/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-20.30.31.jpeg?w=1200",
+        "publishedAt": "2026-11-23T19:31:50.000Z",
+        "source": "L'Humanité",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -2
+      },
+      {
+        "id": "abe026abdfd",
+        "title": "«Marine Tondelier est soumise à LFI» : Cohn-Bendit charge la patronne des Écologistes",
+        "link": "https://www.lejdd.fr/politique/marine-tondelier-est-soumise-a-lfi-cohn-bendit-charge-la-patronne-des-ecologistes-189498",
+        "summary": "L’ancien leader écologiste a vivement dénoncé le rapprochement de la secrétaire nationale des Écologistes avec La France insoumise en vue de 2027. Il met en garde contre une stratégie qui, selon lui, pourrait conduire à l’élection de Marine Le Pen.",
+        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/23/18/sipa_shutterstock41167746_000002.jpg?VersionId=pyrrRxs7cLuXcfQSZK.R3FsuX9p9j323",
+        "publishedAt": "2026-11-23T17:32:22.000Z",
+        "source": "Le JDD",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
+      },
+      {
+        "id": "ae4ea35786b",
+        "title": "\"Les écoles de commerce se sont multipliées, mais la croissance ne suit plus\" : la crise française expliquée par le chercheur Nicolas Salerno",
+        "link": "https://www.lexpress.fr/idees-et-debats/les-ecoles-de-commerce-se-sont-multipliees-mais-la-croissance-ne-suit-plus-la-crise-francaise-4XT5RL5WGNFS3DHNA266BGDS64/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/VBOXL5PMMFCSVLSV64XJ42IA4Q.jpg?auth=5489058c3c2685ee8f764bd42e5e40b1b5bd6312f147070dbeefc55783fd8463&smart=true&width=6192&height=4128",
+        "publishedAt": "2026-11-23T17:00:00.000Z",
+        "source": "L'Express",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1
+      }
+    ],
+    "monde": [
+      {
+        "id": "a5cf4131f85",
+        "title": "Federal court clears way for army to detonate bomb-making material in Iowa",
+        "link": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+        "summary": "Decision comes after Trump urged court to first sign off on what he called the safest way to resolve the situation The US army can proceed with detonating several tons of degraded bomb-making chemicals in Iowa, a federal appeals court ruled on Monday. The order came after a day of uncertainty that s",
+        "image": "https://i.guim.co.uk/img/media/76db52e4eaa3de26ff9036b7f9a8cfba66b5a653/551_0_5418_4335/master/5418.jpg?width=140&quality=85&auto=format&fit=max&s=04adc417bf537855696633595ea01f55",
+        "publishedAt": "2026-11-24T02:24:48.000Z",
+        "source": "The Guardian",
+        "lang": "en",
+        "country": "GB",
+        "lean": -1.5
+      },
+      {
+        "id": "a35132a08e4",
+        "title": "Sky News documentary wins International Emmy",
+        "link": "https://news.sky.com/story/24-hours-in-the-kill-zone-sky-news-documentary-wins-international-emmy-13615753",
+        "summary": "Sky News has won an International Emmy for 24 Hours In The Kill Zone.",
+        "image": "https://e3.365dm.com/26/11/1920x1080/skynews-sky-news-ukraine_7414962.jpg?20261124022335",
+        "publishedAt": "2026-11-24T02:06:00.000Z",
+        "source": "Sky News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0.5
+      },
+      {
+        "id": "a99caf4e919",
+        "title": "Deutschland baut künftig ukrainische Drohnen",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
+        "summary": "Bereits im April hatten Deutschland und die Ukraine vereinbart, militärisch enger zusammenzuarbeiten - etwa beim Drohnenbau. Verteidigungsminister Pistorius wurde nun konkreter. Mit Blick auf mögliche russische Angriffspläne im All mahnte er zur Ruhe.",
+        "image": "https://images.tagesschau.de/image/6b7d65a3-66be-4fc7-8ea4-766d8c14ff33/AAABogn92jg/AAABnSSvrFg/16x9-big/pistorius-chmara-100.jpg?width=1920",
+        "publishedAt": "2026-11-24T01:46:30.000Z",
+        "source": "Tagesschau",
+        "lang": "de",
+        "country": "DE",
+        "lean": 0
+      },
+      {
+        "id": "ae0893c5a54",
+        "title": "Just 1pc of research funding spent on maternal death prevention, analysis suggests",
+        "link": "https://www.telegraph.co.uk/global-health/women-and-girls/1pc-of-research-funding-spent-to-prevent-maternal-deaths/",
+        "summary": "Women at the greatest risk from the leading causes of childbirth fatalities receive the least amount of investment",
+        "image": "https://www.telegraph.co.uk/content/dam/global-health/2026/11/23/TELEMMGLPICT000512008667_17954520341870_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwSX5rhseiWKOo9p9OQ-ymek.jpeg",
+        "publishedAt": "2026-11-24T00:01:00.000Z",
+        "source": "The Telegraph",
+        "lang": "en",
+        "country": "GB",
+        "lean": 1.5
+      },
+      {
+        "id": "aa3cfe28cbe",
+        "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+        "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+        "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
+        "publishedAt": "2026-11-23T23:16:08.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      },
+      {
+        "id": "a0774ef478c",
+        "title": "Gisèle Pelicot ‘deeply shocked’ after nude images used to promote book",
+        "link": "https://www.theguardian.com/world/2026/nov/23/gisele-pelicot-deeply-shocked-nude-images-book-france",
+        "summary": "French woman says she will pursue legal action against publisher and author over use of photos taken by convicted husband Gisèle Pelicot has said she is “deeply shocked” that nude photographs of her had been used without her consent to promote a psychoanalyst’s book that suggests she was complicit i",
+        "image": "https://i.guim.co.uk/img/media/e37fab5a02fab6041eac944574360d00dabfca4c/820_500_3296_2637/master/3296.jpg?width=140&quality=85&auto=format&fit=max&s=bbfce3c5d5370336696903b8b572a2af",
+        "publishedAt": "2026-11-23T18:12:48.000Z",
+        "source": "The Guardian",
+        "lang": "en",
+        "country": "GB",
+        "lean": -1.5
+      },
+      {
+        "id": "af943b78b7a",
+        "title": "After Japan's APEC snub, what's next for its China ties?",
+        "link": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-world-4025-rdf",
+        "summary": "Japan has long-running concerns over Chinese military expansionism, and Beijing has bristled at Sanae Takaichi's comments on Taiwan. The frosty ties were on full display at the APEC summit.",
+        "image": null,
+        "publishedAt": "2026-11-23T15:57:00.000Z",
+        "source": "Deutsche Welle",
+        "lang": "en",
+        "country": "DE",
+        "lean": 0
+      },
+      {
+        "id": "a2b24000153",
+        "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+        "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f684/live/02351f90-e74d-11f1-99b6-a35a62fa4264.jpg",
+        "publishedAt": "2026-11-23T15:41:23.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "franceinfo (FR)",
+      "url": "https://www.francetvinfo.fr/france.rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Monde (FR)",
+      "url": "https://www.lemonde.fr/rss/une.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Figaro (FR)",
+      "url": "https://www.lefigaro.fr/rss/figaro_actualites-a-la-une.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Libération (FR)",
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Ouest-France (FR)",
+      "url": "https://www.ouest-france.fr/rss/une",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "La Croix (FR)",
+      "url": "https://www.la-croix.com/RSS",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "L'Express (FR)",
+      "url": "https://www.lexpress.fr/rss/alaune.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Parisien (FR)",
+      "url": "https://feeds.leparisien.fr/leparisien/rss",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "L'Humanité (FR)",
+      "url": "https://www.humanite.fr/feed",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Valeurs actuelles (FR)",
+      "url": "https://www.valeursactuelles.com/feed",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le JDD (FR)",
+      "url": "https://www.lejdd.fr/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "BBC News (GB)",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "BBC News (GB)",
+      "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "ok": true,
+      "count": 7
+    },
+    {
+      "name": "The Guardian (GB)",
+      "url": "https://www.theguardian.com/world/rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Guardian (GB)",
+      "url": "https://www.theguardian.com/world/france/rss",
+      "ok": true,
+      "count": 4
+    },
+    {
+      "name": "The Telegraph (GB)",
+      "url": "https://www.telegraph.co.uk/rss.xml",
+      "ok": true,
+      "count": 6
+    },
+    {
+      "name": "Sky News (GB)",
+      "url": "https://feeds.skynews.com/feeds/rss/world.xml",
+      "ok": true,
+      "count": 3
+    },
+    {
+      "name": "Deutsche Welle (DE)",
+      "url": "https://rss.dw.com/rdf/rss-en-world",
+      "ok": true,
+      "count": 5
+    },
+    {
+      "name": "Tagesschau (DE)",
+      "url": "https://www.tagesschau.de/index~rss2.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Der Spiegel (DE)",
+      "url": "https://www.spiegel.de/international/index.rss",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "NPR (US)",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "ok": true,
+      "count": 7
+    },
+    {
+      "name": "The New York Times (US)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Washington Post (US)",
+      "url": "https://feeds.washingtonpost.com/rss/world",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Wall Street Journal (US)",
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Fox News (US)",
+      "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Politico Europe (BE)",
+      "url": "https://www.politico.eu/feed/",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "ABC News (Australie) (AU)",
+      "url": "https://www.abc.net.au/news/feed/2942460/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Al Jazeera (QA)",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Times of Israel (IL)",
+      "url": "https://www.timesofisrael.com/feed/",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "Daily Sabah (TR)",
+      "url": "https://www.dailysabah.com/rssFeed/10",
+      "ok": true,
+      "count": 5
+    },
+    {
+      "name": "The Times of India (IN)",
+      "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Hindu (IN)",
+      "url": "https://www.thehindu.com/news/international/feeder/default.rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Japan Times (JP)",
+      "url": "https://www.japantimes.co.jp/feed/",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Straits Times (SG)",
+      "url": "https://www.straitstimes.com/news/world/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "South China Morning Post (HK)",
+      "url": "https://www.scmp.com/rss/91/feed",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "El País (ES)",
+      "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "ANSA (IT)",
+      "url": "https://www.ansa.it/sito/ansait_rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Soir (BE)",
+      "url": "https://www.lesoir.be/rss/81853/cible_principale_gratuit",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "France 24 (FR)",
+      "url": "https://www.france24.com/fr/rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "RFI (FR)",
+      "url": "https://www.rfi.fr/fr/rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Euronews (FR)",
+      "url": "https://fr.euronews.com/rss?format=mrss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Monde (International) (FR)",
+      "url": "https://www.lemonde.fr/international/rss_full.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Africanews (FR)",
+      "url": "https://www.africanews.com/feed/rss",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "Jeune Afrique (FR)",
+      "url": "https://www.jeuneafrique.com/feed/",
+      "ok": true,
+      "count": 8
+    }
+  ],
+  "meteo": {
+    "ok": false,
+    "city": "Montaigu-Vendée",
+    "source": "Open-Meteo",
+    "sourceUrl": "https://open-meteo.com/en/docs",
+    "fetchedAt": null
+  },
+  "carburants": {
+    "ok": false,
+    "prices": [],
+    "best": {},
+    "stationsVerifiees": 0,
+    "source": "prix-carburants.gouv.fr",
+    "sourceUrl": "https://www.prix-carburants.gouv.fr/rubrique/opendata/"
+  },
+  "culture": [
+    {
+      "title": "La figure de l’héroïne",
+      "discipline": "Peinture et histoire de l’art",
+      "artist": "Exposition consacrée aux représentations féminines du XIXe siècle",
+      "city": "La Roche-sur-Yon",
+      "venue": "Musée – Espace Malraux",
+      "start": "2026-11-03",
+      "end": "2027-02-07",
+      "details": "Exposition temporaire. Vérifier les horaires d’ouverture avant la visite.",
+      "source": "Ville de La Roche-sur-Yon",
+      "sourceUrl": "https://larochesuryon.fr/actualites/les-heroines-du-xixe-siecle-sexposent-a-la-roche/",
+      "image": {
+        "url": "https://larochesuryon.fr/app/uploads/2026/11/IMG_8828-scaled.jpg",
+        "credit": "Ville de La Roche-sur-Yon",
+        "link": "https://larochesuryon.fr/actualites/les-heroines-du-xixe-siecle-sexposent-a-la-roche/"
+      }
+    }
+  ],
+  "history": [],
+  "checks": {
+    "actualites": true,
+    "meteo": false,
+    "carburants": false
+  }
+}
