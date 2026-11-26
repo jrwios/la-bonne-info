@@ -1,432 +1,640 @@
 {
   "schemaVersion": 2,
   "date": "2026-11-26",
-  "generatedAt": "2026-11-26T14:15:27.135Z",
+  "generatedAt": "2026-11-26T19:19:43.948Z",
   "status": "partielle",
   "stories": {
     "france": [
       {
-        "id": "s2250a9587e",
-        "topic": "justice",
-        "title": "Gérard Depardieu renvoyé en procès pour viol par la cour d'appel de Paris",
-        "context": "L'acteur français fait l'objet de plusieurs accusations de violences sexuelles. La justice examine les différentes plaintes déposées à son encontre depuis plusieurs années.",
-        "summary": "La cour d'appel de Paris a confirmé le renvoi de l'acteur Gérard Depardieu devant une juridiction criminelle. Il sera jugé pour une partie des faits de viol et d'agression sexuelle dénoncés par la comédienne Charlotte Arnould. Les poursuites validées concernent précisément des événements qui se seraient déroulés le 7 août 2018. En revanche, un non-lieu a été prononcé concernant d'autres accusations formulées pour des faits survenus quelques jours plus tard.",
-        "plain": "Gérard Depardieu va finalement être jugé pour viol. La justice a validé les poursuites concernant une plainte visant des faits datant d'août 2018, tout en abandonnant d'autres accusations visant des dates proches.",
+        "id": "sc3df398525",
+        "topic": "politique",
+        "title": "Présidentielle 2027 : débats sur les dynamiques des candidats et les alliances",
+        "context": "À l'approche de l'élection présidentielle de 2027, les personnalités politiques multiplient les déplacements, les propositions programmatiques et les positionnements stratégiques. Les sondages d'opinion influencent les tactiques des différents partis, qu'il s'agisse de la gauche, de la droite ou du Rassemblement national.",
+        "summary": "Marine Le Pen a présenté ses propositions pour les petites entreprises lors d'un déplacement à Reims, tandis que David Lisnard dévoile son programme sur l'immigration et la sécurité tout en recevant le ralliement de plusieurs députés Les Républicains. Certains sondages placent David Lisnard en forte progression en troisième position, devançant Édouard Philippe en baisse. Par ailleurs, des figures politiques commentent les rapports de force à gauche et la viabilité d'une candidature de Jean-Luc Mélenchon face au Rassemblement national, tandis que la presse étrangère observe ces recompositions au sein de la classe politique française.",
+        "plain": "Les candidats à l'élection présidentielle de 2027 affinent leurs programmes et cherchent à s'imposer dans les sondages. Les alliances se nouent et les équilibres bougent entre les différents partis à gauche comme à droite.",
         "chart": null,
         "stakes": [
-          "Quelles seront les suites juridiques pour l'acteur ?",
-          "Comment cette décision influence-t-elle la parole des victimes dans le milieu du cinéma ?"
+          "Quelles alliances réussiront à s'imposer face aux dynamiques des extrêmes dans les sondages ?",
+          "Comment les propositions économiques et migratoires des candidats influenceront-elles l'électorat ?"
         ],
         "sources": [
           {
-            "name": "Libération",
-            "title": "Gérard Depardieu renvoyé en procès pour une partie des viols dont il est accusé par la comédienne Charlotte Arnould",
-            "link": "https://www.liberation.fr/societe/police-justice/gerard-depardieu-renvoye-devant-la-justice-pour-viols-sur-la-comedienne-charlotte-arnould-20261126_7HVNVDOGHZCM3E62PH4IS2T2FA/",
-            "publishedAt": "2026-11-26T13:16:24.000Z",
+            "name": "Le Figaro",
+            "title": "« Opération conviction » : à Reims, Marine Le Pen propose de baisser l’impôt sur les sociétés pour les petites entreprises",
+            "link": "https://www.lefigaro.fr/elections/presidentielles/operation-conviction-a-reims-marine-le-pen-propose-de-baisser-l-impot-sur-les-societes-pour-les-petites-entreprises-20261126",
+            "publishedAt": "2026-11-26T18:46:46.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "Ouest-France",
-            "title": "La Cour d’appel a confirmé le renvoi en procès de Gérard Depardieu pour une partie des viols dont il est accusé par une actrice",
-            "link": "https://www.ouest-france.fr/cinema/gerard-depardieu/la-cour-dappel-a-confirme-le-renvoi-en-proces-de-gerard-depardieu-pour-une-partie-des-viols-dont-il-est-accuse-par-une-actrice-28359b20-e9a0-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-            "publishedAt": "2026-11-26T13:57:14.000Z",
+            "name": "Valeurs actuelles",
+            "title": "Présidentielle 2027 : 100 000 titres de séjour par an, peines plancher… David Lisnard dévoile son programme sur l’immigration et la sécurité",
+            "link": "https://www.valeursactuelles.com/politique/presidentielle-2027-100-000-titres-de-sejour-par-an-peines-plancher-david-lisnard-devoile-son-programme-sur-limmigration-et-la-securite",
+            "publishedAt": "2026-11-26T18:01:49.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "Ouest-France",
-            "title": "L’acteur Gérard Depardieu renvoyé devant la justice pour une partie des viols dont l’accuse la comédienne Charlotte Arnould",
-            "link": "https://www.ouest-france.fr/cinema/gerard-depardieu/lacteur-gerard-depardieu-renvoye-devant-la-justice-pour-viols-sur-la-comedienne-charlotte-arnould-af6651ca-e987-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-            "publishedAt": "2026-11-26T13:21:13.000Z",
+            "name": "Le JDD",
+            "title": "«Un projet ambitieux» : plusieurs députés LR annoncent rallier David Lisnard",
+            "link": "https://www.lejdd.fr/politique/un-projet-ambitieux-plusieurs-deputes-lr-annoncent-rallier-david-lisnard-189780",
+            "publishedAt": "2026-11-26T17:15:39.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "La Croix",
-            "title": "Gérard Depardieu : le renvoi en procès pour viol de l’acteur confirmé en appel",
-            "link": "https://www.la-croix.com/societe/gerard-depardieu-le-renvoi-en-proces-pour-viol-de-l-acteur-confirme-en-appel-20261126",
-            "publishedAt": "2026-11-26T14:06:33.000Z",
+            "name": "Le JDD",
+            "title": "Présidentielle 2027 : Philippe en chute libre, Lisnard toujours plus haut… Les leçons d’un nouveau sondage",
+            "link": "https://www.lejdd.fr/politique/presidentielle-2027-philippe-en-chute-libre-lisnard-toujours-plus-haut-les-lecons-dun-nouveau-sondage-189777",
+            "publishedAt": "2026-11-26T16:53:58.000Z",
             "lang": "fr",
             "country": "FR"
+          },
+          {
+            "name": "Le JDD",
+            "title": "«L'arithmétique est tout à fait claire» : Hollande balaie l’idée d’une victoire de Mélenchon à la présidentielle",
+            "link": "https://www.lejdd.fr/politique/larithmetique-est-tout-a-fait-claire-hollande-balaie-lidee-dune-victoire-de-melenchon-a-la-presidentielle-189726",
+            "publishedAt": "2026-11-26T16:23:20.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+            "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-26T00:23:27.000Z",
+            "lang": "en",
+            "country": "GB"
+          }
+        ],
+        "image": {
+          "url": "https://i.f1g.fr/media/cms/1600x1066_crop/2026/11/26/6a83e03d9c8302fb459e98a36f2fd2dccc68fa794ae37ab68539d6ef1e2fe41a.jpg",
+          "credit": "Le Figaro",
+          "link": "https://www.lefigaro.fr/elections/presidentielles/operation-conviction-a-reims-marine-le-pen-propose-de-baisser-l-impot-sur-les-societes-pour-les-petites-entreprises-20261126"
+        },
+        "i18n": {
+          "en": {
+            "title": "2027 Presidential Election: Debates on Candidate Dynamics and Alliances",
+            "context": "As the 2027 presidential election approaches, political figures are increasing their travel, programmatic proposals, and strategic positioning. Opinion polls are influencing the tactics of the various parties, whether on the left, the right, or the National Rally.",
+            "summary": "Marine Le Pen presented her proposals for small businesses during a trip to Reims, while David Lisnard unveiled his program on immigration and security while receiving the endorsement of several The Republicans deputies. Some polls place David Lisnard in strong growth in third position, ahead of a declining Édouard Philippe. Meanwhile, political figures are commenting on the balance of power on the left and the viability of Jean-Luc Mélenchon's candidacy against the National Rally, while the foreign press is observing these recompositions within the French political class.",
+            "plain": "Candidates for the 2027 presidential election are refining their platforms and seeking to assert themselves in the polls. Alliances are being formed and balances are shifting between the various parties on both the left and the right.",
+            "stakes": [
+              "Which alliances will manage to prevail against the dynamics of the extremes in the polls?",
+              "How will the candidates' economic and migration proposals influence the electorate?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Elección presidencial de 2027: debates sobre las dinámicas de los candidatos y las alianzas",
+            "context": "A medida que se acercan las elecciones presidenciales de 2027, las figuras políticas multiplican sus desplazamientos, propuestas programáticas y posicionamientos estratégicos. Las encuestas de opinión influyen en las tácticas de los distintos partidos, ya sean de izquierda, de derecha o de Agrupación Nacional.",
+            "summary": "Marine Le Pen presentó sus propuestas para las pequeñas empresas durante un viaje a Reims, mientras que David Lisnard desveló su programa sobre inmigración y seguridad a la vez que recibía el apoyo de varios diputados de Los Republicanos. Algunas encuestas sitúan a David Lisnard en un fuerte crecimiento en el tercer puesto, por delante de un Édouard Philippe a la baja. Por otro lado, figuras políticas comentan las relaciones de fuerza en la izquierda y la viabilidad de una candidatura de Jean-Luc Mélenchon frente a Agrupación Nacional, mientras que la prensa extranjera observa estas recomposiciones en el seno de la clase política francesa.",
+            "plain": "Los candidatos a las elecciones presidenciales de 2027 afinan sus programas y buscan imponerse en las encuestas. Se tejen alianzas y se mueven los equilibrios entre los distintos partidos, tanto de izquierda como de derecha.",
+            "stakes": [
+              "¿Qué alianzas lograrán imponerse frente a las dinámicas de los extremos en las encuestas?",
+              "¿Cómo influirán las propuestas económicas y migratorias de los candidatos en el electorado?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s69ecaeceb0",
+        "topic": "justice",
+        "title": "Gérard Depardieu renvoyé devant la cour d'assises pour viol",
+        "context": "L'acteur français Gérard Depardieu fait l'objet d'une plainte pour des faits de viol et d'agression sexuelle remontant à l'année 2018, déposée par la comédienne Charlotte Arnould. L'affaire a donné lieu à de nombreuses procédures judiciaires et a relancé le débat sur les violences sexuelles dans le milieu du cinéma.",
+        "summary": "La cour d'appel de Paris a rejeté les recours de l'acteur et confirmé qu'il sera jugé devant la justice pour le viol de l'actrice Charlotte Arnould, survenu à son domicile parisien en 2018. Cette décision judiciaire intervient alors que l'affaire continue de susciter une forte attention médiatique en France et à l'international. Certains médias rappellent les différentes étapes de cette procédure judiciaire très suivie.",
+        "plain": "L'acteur Gérard Depardieu va être jugé pour viol après une décision de justice. Cette affaire, qui dure depuis des années, concerne des accusations formulées par une comédienne.",
+        "chart": null,
+        "stakes": [
+          "Quel sera l'impact de ce procès sur la prise en compte des accusations de violences sexuelles dans le milieu artistique ?",
+          "Comment la justice traitera-t-elle les responsabilités dans cette affaire hautement médiatisée ?"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+            "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-26T14:44:26.000Z",
+            "lang": "en",
+            "country": "GB"
           },
           {
             "name": "The Guardian",
             "title": "⁠Gérard Depardieu to face trial on charges ‌of raping ​actor Charlotte ⁠Arnould",
             "link": "https://www.theguardian.com/film/2026/nov/26/gerard-depardieu-face-trial-charges-rape-charlotte-arnould",
-            "publishedAt": "2026-11-26T13:44:49.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "El País",
-            "title": "La Justicia francesa confirma que Gérard Depardieu se sentará de nuevo en el banquillo por violación",
-            "link": "https://elpais.com/sociedad/2026-11-26/la-justicia-francesa-confirma-que-gerard-depardieu-se-sentara-de-nuevo-en-el-banquillo-por-violacion.html",
-            "publishedAt": "2026-11-26T13:57:00.000Z",
-            "lang": "es",
-            "country": "ES"
-          },
-          {
-            "name": "France 24",
-            "title": "Gérard Depardieu renvoyé en procès pour une partie des viols dont il est accusé par Charlotte Arnould",
-            "link": "https://www.france24.com/fr/france/20261126-gerard-depardieu-renvoy%C3%A9-en-appel-pour-une-partie-des-viols-dont-il-est-accuse-par-charlotte-arnould",
-            "publishedAt": "2026-11-26T13:46:59.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "RFI",
-            "title": "Le renvoi en procès de Gérard Depardieu pour une partie des viols dont il est accusé confirmé en appel",
-            "link": "https://www.rfi.fr/fr/france/20261126-le-renvoi-en-proc%C3%A8s-de-g%C3%A9rard-depardieu-pour-une-partie-des-viols-dont-il-est-accus%C3%A9-confirm%C3%A9-en-appel",
-            "publishedAt": "2026-11-26T13:36:27.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExYjI5NDcxYjRlNTMxYzNkMTExZmNlYzM3YmZjM2YyMDI?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=f7d1b6581f1103591556f1aab8daaa67be008ec571e1cdedd9e7f597fa118fd7",
-          "credit": "Ouest-France",
-          "link": "https://www.ouest-france.fr/cinema/gerard-depardieu/la-cour-dappel-a-confirme-le-renvoi-en-proces-de-gerard-depardieu-pour-une-partie-des-viols-dont-il-est-accuse-par-une-actrice-28359b20-e9a0-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
-        },
-        "i18n": {
-          "en": {
-            "title": "Gérard Depardieu sent to trial for rape by the Paris Court of Appeal",
-            "context": "The French actor is the subject of several sexual violence accusations. The justice system is examining the various complaints filed against him over several years.",
-            "summary": "The Paris Court of Appeal has confirmed the decision to send actor Gérard Depardieu before a criminal court. He will be tried for some of the acts of rape and sexual assault reported by actress Charlotte Arnould. The validated charges specifically concern events that allegedly took place on August 7, 2018. However, a dismissal was pronounced regarding other accusations formulated for events that occurred a few days later.",
-            "plain": "Gérard Depardieu will finally stand trial for rape. The justice system has validated the charges concerning a complaint targeting events dating from August 2018, while dropping other accusations targeting nearby dates.",
-            "stakes": [
-              "What will be the legal consequences for the actor?",
-              "How does this decision influence the voices of victims in the film industry?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Gérard Depardieu enviado a juicio por violación por el Tribunal de Apelación de París",
-            "context": "El actor francés es objeto de varias acusaciones de violencia sexual. La justicia examina las diferentes denuncias presentadas en su contra desde hace varios años.",
-            "summary": "El Tribunal de Apelación de París confirmó el envío del actor Gérard Depardieu ante un tribunal de lo penal. Será juzgado por una parte de los hechos de violación y agresión sexual denunciados por la actriz Charlotte Arnould. Los cargos validados se refieren concretamente a acontecimientos que habrían tenido lugar el 7 de agosto de 2018. En cambio, se dictó un sobreseimiento respecto a otras acusaciones formuladas por hechos ocurridos pocos días después.",
-            "plain": "Gérard Depardieu será finalmente juzgado por violación. La justicia ha validado los cargos relativos a una denuncia sobre hechos de agosto de 2018, al tiempo que ha retirado otras acusaciones referidas a fechas cercanas.",
-            "stakes": [
-              "¿Cuáles serán las consecuencias jurídicas para el actor?",
-              "¿Cómo influye esta decisión en la voz de las víctimas en el ámbito cinematográfico?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s056b5b76a1",
-        "topic": "politique",
-        "title": "Édouard Philippe et David Lisnard s'affrontent en vue de la présidentielle de 2027",
-        "context": "La course pour l'élection présidentielle de 2027 suscite des tensions au sein de la droite et du centre. Les différents prétendants cherchent à se positionner face à leurs rivaux.",
-        "summary": "Édouard Philippe est passé à l'offensive face à David Lisnard, qui a récemment été réélu à la tête de l'Association des maires de France. Sous pression pour organiser une primaire, le candidat Horizons dénonce désormais les ambiguïtés de son concurrent avec l'extrême droite. Selon un sondage, David Lisnard prend l'avantage sur Édouard Philippe auprès des électeurs de droite et du centre, tout en suscitant l'inquiétude dans les rangs du Rassemblement national.",
-        "plain": "La compétition s'intensifie à droite pour 2027. Édouard Philippe critique ouvertement David Lisnard, auréolé de sa réélection à la tête des maires, tandis que les sondages le placent en bonne position auprès des électeurs conservateurs.",
-        "chart": null,
-        "stakes": [
-          "Une primaire sera-t-elle organisée au sein de la droite et du centre ?",
-          "Quel poids pèseront les maires de France dans la campagne présidentielle ?"
-        ],
-        "sources": [
-          {
-            "name": "Le Monde",
-            "title": "Présidentielle 2027 : Edouard Philippe passe à l’offensive face à David Lisnard",
-            "link": "https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-edouard-philippe-passe-a-l-offensive-face-a-david-lisnard_6815527_823448.html",
-            "publishedAt": "2026-11-26T12:00:07.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Valeurs actuelles",
-            "title": "Présidentielle 2027 : « Ça peut faire très mal », pourquoi David Lisnard inquiète dans les rangs du RN",
-            "link": "https://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-ca-peut-faire-tres-mal-pourquoi-david-lisnard-inquiete-dans-les-rangs-du-rn",
-            "publishedAt": "2026-11-26T14:00:07.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Valeurs actuelles",
-            "title": "Présidentielle 2027 : David Lisnard prend l’avantage sur Édouard Philippe chez les électeurs de droite et du centre, selon un sondage",
-            "link": "https://www.valeursactuelles.com/politique/presidentielle-2027-david-lisnard-prend-lavantage-sur-edouard-philippe-chez-les-electeurs-de-droite-et-du-centre-selon-un-sondage",
-            "publishedAt": "2026-11-26T12:30:13.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://img.lemde.fr/2026/11/25/656/0/8000/4000/644/322/60/0/ac3e5cd_upload-1-vqc2qntywxtq-jmug261125072.jpg",
-          "credit": "Le Monde",
-          "link": "https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-edouard-philippe-passe-a-l-offensive-face-a-david-lisnard_6815527_823448.html"
-        },
-        "i18n": {
-          "en": {
-            "title": "Édouard Philippe and David Lisnard clash ahead of the 2027 presidential election",
-            "context": "The race for the 2027 presidential election is causing tensions within the right and the center. The various contenders are seeking to position themselves against their rivals.",
-            "summary": "Édouard Philippe went on the offensive against David Lisnard, who was recently re-elected to lead the Association of French Mayors. Under pressure to organize a primary, the Horizons candidate is now denouncing his competitor's ambiguities with the far right. According to a poll, David Lisnard is gaining the advantage over Édouard Philippe among right-wing and center voters, while causing concern within the ranks of the National Rally.",
-            "plain": "The competition is intensifying on the right for 2027. Édouard Philippe openly criticizes David Lisnard, buoyed by his re-election leading the mayors, while polls place him in a strong position among conservative voters.",
-            "stakes": [
-              "Will a primary be organized within the right and the center?",
-              "What weight will the mayors of France carry in the presidential campaign?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Édouard Philippe y David Lisnard se enfrentan de cara a las elecciones presidenciales de 2027",
-            "context": "La carrera por las elecciones presidenciales de 2027 genera tensiones en el seno de la derecha y del centro. Los distintos aspirantes buscan posicionarse frente a sus rivales.",
-            "summary": "Édouard Philippe pasó a la ofensiva frente a David Lisnard, quien fue reelegido recientemente al frente de la Asociación de Alcaldes de Francia. Bajo presión para organizar unas primarias, el candidato de Horizons denuncia ahora las ambigüedades de su competidor con la extrema derecha. Según un sondeo, David Lisnard toma ventaja sobre Édouard Philippe entre los electores de derecha y del centro, al tiempo que suscita preocupación en las filas de Agrupación Nacional.",
-            "plain": "La competencia se intensifica en la derecha para 2027. Édouard Philippe critica abiertamente a David Lisnard, coronado por su reelección al frente de los alcaldes, mientras que las encuestas lo sitúan en buena posición entre los votantes conservadores.",
-            "stakes": [
-              "¿Se organizarán unas primarias en el seno de la derecha y del centro?",
-              "¿Qué peso tendrán los alcaldes de Francia en la campaña presidencial?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "saeadbb081a",
-        "topic": "societe",
-        "title": "L'immigration nette au Royaume-Uni enregistre une baisse historique",
-        "context": "Le gouvernement britannique cherche à réduire durablement le nombre de nouvelles arrivées sur son territoire face aux pressions politiques et populaires.",
-        "summary": "L'immigration nette au Royaume-Uni a chuté de manière spectaculaire pour atteindre son plus bas niveau depuis 1997, hors période de la pandémie de Covid-19. Selon les chiffres officiels de l'Office national des statistiques, cette baisse est principalement due à une diminution des arrivées en provenance de l'extérieur de l'Union européenne. Le gouvernement en place s'est félicité d'avoir repris le contrôle de sa politique migratoire après les promesses formulées par les différents exécutifs successifs.",
-        "plain": "Le nombre de personnes s'installant durablement au Royaume-Uni a fortement chuté pour atteindre un niveau inédit depuis la fin des années 1990, traduisant les effets des restrictions mises en place.",
-        "chart": null,
-        "stakes": [
-          "Quelles sont les conséquences de cette baisse sur le marché du travail britannique ?",
-          "Cette tendance va-t-elle se maintenir à long terme ?"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
-            "link": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
-            "publishedAt": "2026-11-26T13:43:16.000Z",
+            "publishedAt": "2026-11-26T16:26:57.000Z",
             "lang": "en",
             "country": "GB"
           },
           {
             "name": "The New York Times",
-            "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
-            "link": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
-            "publishedAt": "2026-11-26T13:51:57.000Z",
+            "title": "Gérard Depardieu Is Ordered to Stand Trial Over Rape Accusation",
+            "link": "https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html",
+            "publishedAt": "2026-11-26T14:17:40.000Z",
             "lang": "en",
             "country": "US"
           },
           {
-            "name": "The Hindu",
-            "title": "U.K. net migration falls to lowest since 1997; Indians largest foreign group entering and leaving the country",
-            "link": "https://www.thehindu.com/news/international/uk-net-migration-falls-to-lowest-since-1997-indians-largest-foreign-group-entering-and-leaving-the-country/article71746576.ece",
-            "publishedAt": "2026-11-26T12:55:21.000Z",
+            "name": "Al Jazeera",
+            "title": "French actor Gerard Depardieu to stand trial for alleged 2018 rape",
+            "link": "https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss",
+            "publishedAt": "2026-11-26T17:18:24.000Z",
             "lang": "en",
-            "country": "IN"
+            "country": "QA"
           },
           {
             "name": "South China Morning Post",
-            "title": "UK net migration falls to 77,000, lowest annual level in nearly 30 years",
-            "link": "https://www.scmp.com/news/world/europe/article/3375952/uk-net-migration-falls-77000-lowest-annual-level-nearly-30-years",
-            "publishedAt": "2026-11-26T13:19:28.000Z",
+            "title": "French actor Gerard Depardieu to stand trial for rape after Paris court rejects appeal",
+            "link": "https://www.scmp.com/news/world/europe/article/3375961/french-actor-gerard-depardieu-stand-trial-rape-after-paris-court-rejects-appeal",
+            "publishedAt": "2026-11-26T14:45:59.000Z",
             "lang": "en",
             "country": "HK"
           },
           {
-            "name": "RFI",
-            "title": "Royaume-Uni: l'immigration légale nette au plus bas depuis 1997, hors période du Covid-19",
-            "link": "https://www.rfi.fr/fr/europe/20261126-royaume-uni-l-immigration-l%C3%A9gale-nette-au-plus-bas-depuis-1997-hors-p%C3%A9riode-du-covid-19",
-            "publishedAt": "2026-11-26T11:59:08.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Le Monde (International)",
-            "title": "Royaume-Uni : l’immigration nette enregistre sa plus forte baisse depuis 1997, hors période du Covid-19",
-            "link": "https://www.lemonde.fr/international/article/2026/11/26/royaume-uni-l-immigration-nette-enregistre-sa-plus-forte-baisse-depuis-1997-hors-periode-du-covid-19_6815526_3210.html",
-            "publishedAt": "2026-11-26T11:56:55.000Z",
+            "name": "Euronews",
+            "title": "Gérard Depardieu sera bien jugé pour viol sur la comédienne Charlotte Arnould",
+            "link": "https://fr.euronews.com/2026/11/26/gerard-depardieu-sera-bien-juge-pour-viol-sur-la-comedienne-charlotte-arnould",
+            "publishedAt": "2026-11-26T15:56:54.000Z",
             "lang": "fr",
             "country": "FR"
           }
         ],
         "image": {
-          "url": "https://i.guim.co.uk/img/media/5c23523ac46bb71db2d8067325e32d1261591fb5/661_0_6630_5304/master/6630.jpg?width=140&quality=85&auto=format&fit=max&s=fa0fc5a8c4d378786a2da73420d31ede",
-          "credit": "The Guardian",
-          "link": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic"
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss"
         },
         "i18n": {
           "en": {
-            "title": "Net immigration to the United Kingdom records a historic drop",
-            "context": "The British government is seeking to durably reduce the number of new arrivals on its territory in the face of political and popular pressures.",
-            "summary": "Net immigration to the United Kingdom has dropped dramatically to its lowest level since 1997, excluding the Covid-19 pandemic period. According to official figures from the Office for National Statistics, this decline is mainly due to a decrease in arrivals from outside the European Union. The current government congratulated itself on having regained control of its migration policy following promises made by successive administrations.",
-            "plain": "The number of people settling permanently in the United Kingdom has fallen sharply to an unprecedented level since the late 1990s, reflecting the effects of the restrictions put in place.",
+            "title": "Gérard Depardieu Sent to Criminal Court for Rape",
+            "context": "French actor Gérard Depardieu is the subject of a complaint for acts of rape and sexual assault dating back to 2018, filed by actress Charlotte Arnould. The case has given rise to numerous legal proceedings and reignited the debate on sexual violence in the film industry.",
+            "summary": "The Paris Court of Appeal rejected the actor's appeals and confirmed that he will stand trial before the courts for the rape of actress Charlotte Arnould, which occurred at his Paris home in 2018. This judicial decision comes as the case continues to generate strong media attention in France and internationally. Certain media outlets are recalling the various stages of this closely watched legal procedure.",
+            "plain": "Actor Gérard Depardieu is to stand trial for rape following a judicial decision. This case, which has been ongoing for years, concerns accusations made by an actress.",
             "stakes": [
-              "What are the consequences of this decline on the British labor market?",
-              "Will this trend be maintained in the long term?"
+              "What will be the impact of this trial on how accusations of sexual violence are handled in the artistic community?",
+              "How will the justice system handle responsibilities in this highly publicized case?"
             ],
             "chart": null
           },
           "es": {
-            "title": "La inmigración neta en el Reino Unido registra un descenso histórico",
-            "context": "El gobierno británico busca reducir de forma duradera el número de nuevas llegadas a su territorio ante las presiones políticas y populares.",
-            "summary": "La inmigración neta en el Reino Unido se ha desplomado de manera espectacular hasta alcanzar su nivel más bajo desde 1997, excluyendo el periodo de la pandemia de Covid-19. Según las cifras oficiales de la Oficina Nacional de Estadística, este descenso se debe principalmente a una disminución de las llegadas procedentes de fuera de la Unión Europea. El gobierno actual se congratuló de haber recuperado el control de su política migratoria tras las promesas formuladas por los sucesivos ejecutivos.",
-            "plain": "El número de personas que se establecen permanentemente en el Reino Unido ha caído fuertemente hasta alcanzar un nivel inédito desde finales de los años 90, lo que refleja los efectos de las restricciones establecidas.",
+            "title": "Gérard Depardieu, enviado ante lo penal por violación",
+            "context": "El actor francés Gérard Depardieu es objeto de una denuncia por hechos de violación y agresión sexual que se remontan a 2018, presentada por la actriz Charlotte Arnould. El caso ha dado lugar a numerosos procedimientos judiciales y ha reavivado el debate sobre la violencia sexual en el mundo del cine.",
+            "summary": "El Tribunal de Apelación de París desestimó los recursos del actor y confirmó que será juzgado ante la justicia por la violación de la actriz Charlotte Arnould, ocurrida en su domicilio parisino en 2018. Esta decisión judicial se produce en un momento en que el caso sigue suscitando una fuerte atención mediática en Francia y a nivel internacional. Varios medios recuerdan las distintas etapas de este procedimiento judicial muy seguido.",
+            "plain": "El actor Gérard Depardieu será juzgado por violación tras una decisión judicial. Este caso, que dura desde hace años, se refiere a acusaciones formuladas por una actriz.",
             "stakes": [
-              "¿Cuáles son las consecuencias de este descenso en el mercado laboral británico?",
-              "¿Se mantendrá esta tendencia a largo plazo?"
+              "¿Cuál será el impacto de este juicio en la consideración de las acusaciones de violencia sexual en el ámbito artístico?",
+              "¿Cómo tratará la justicia las responsabilidades en este caso tan mediático?"
             ],
             "chart": null
           }
         }
       },
       {
-        "id": "sdb12955361",
-        "topic": "culture",
-        "title": "Loin de l'anonymat, Lilia Hassaine remporte le Goncourt des lycéens",
-        "context": "Le prix Goncourt des lycéens est l'un des prix littéraires les plus suivis de la rentrée littéraire en France, impliquant des dizaines de classes à travers le pays.",
-        "summary": "Douze délégués représentant les lycéens ont attribué le 39e prix Goncourt des lycéens à Lilia Hassaine pour son roman « JE », publié chez Gallimard. Sélectionné parmi seize finalistes, l'ouvrage s'inspire d'un personnage mystérieux issu du roman « Jane Eyre » de Charlotte Brontë. Ce prix salue un texte qualifié de thriller intimiste et de roman victorien revisité, qui résonne particulièrement auprès des jeunes lecteurs.",
-        "plain": "Le prix Goncourt des lycéens a été décerné à Lilia Hassaine pour son roman « JE ». L'autrice y revisite un personnage d'un grand classique de la littérature britannique.",
+        "id": "sa5a563c2a3",
+        "topic": "international",
+        "title": "Attaque de drones en Koweït : deux techniciens européens tués",
+        "context": "Le Koweït et plusieurs pays de la région du Golfe abritent des installations militaires et des infrastructures stratégiques. Le contexte géopolitique y reste marqué par des tensions récurrentes et des menaces d'attaques aériennes.",
+        "summary": "Deux techniciens italiens employés par l'entreprise de défense allemande Rheinmetall ont perdu la vie dans une attaque de drone menée au Koweït. Alors que l'Italie impute la responsabilité de cette frappe à l'Iran, Téhéran conteste toute implication. Cet événement relance les inquiétudes concernant la sécurité des installations et du personnel occidental dans la région.",
+        "plain": "Deux techniciens européens travaillant pour une entreprise de défense ont été tués par un drone au Koweït. L'Italie accuse l'Iran, qui nie toute responsabilité.",
         "chart": null,
         "stakes": [
-          "Quel impact ce prix aura-t-il sur les ventes et la notoriété de l'autrice ?",
-          "Comment la lecture est-elle perçue par les jeunes générations à travers ce type de prix ?"
+          "Quelles conséquences cet incident aura-t-il sur la sécurité des expatriés et des infrastructures européennes dans le Golfe ?",
+          "Comment les diplomaties occidentales réagiront-elles face aux accusations visant l'Iran ?"
         ],
         "sources": [
           {
-            "name": "Le Monde",
-            "title": "Lilia Hassaine remporte le prix Goncourt des lycéens avec son roman « JE »",
-            "link": "https://www.lemonde.fr/livres/article/2026/11/26/lilia-hassaine-remporte-le-prix-goncourt-des-lyceens-avec-son-roman-je_6815534_3260.html",
-            "publishedAt": "2026-11-26T13:01:32.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Le Figaro",
-            "title": "Lilia Hassaine, Goncourt des lycéens : «Des jeunes filles de 15, 16 ans, viennent vous dire qu’elles se sont reconnues»",
-            "link": "https://www.lefigaro.fr/livres/lilia-hassaine-goncourt-des-lyceens-des-jeunes-filles-de-15-16-ans-viennent-vous-dire-qu-elles-se-sont-reconnues-20261126",
-            "publishedAt": "2026-11-26T13:56:24.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Libération",
-            "title": "Le Goncourt des lycéens 2026 attribué à Lilia Hassaine pour «Je»",
-            "link": "https://www.liberation.fr/culture/livres/le-goncourt-des-lyceens-2026-attribue-a-lilia-hassaine-pour-je-20261126_6RX2ZYSZ3VA4XGH2VMQ74WVSRE/",
-            "publishedAt": "2026-11-26T12:20:19.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://img.lemde.fr/2026/11/26/456/0/5472/2736/644/322/60/0/2c57ed4_ftp-1-5iy0aeqhmxlk-afp-d8pb89e.jpg",
-          "credit": "Le Monde",
-          "link": "https://www.lemonde.fr/livres/article/2026/11/26/lilia-hassaine-remporte-le-prix-goncourt-des-lyceens-avec-son-roman-je_6815534_3260.html"
-        },
-        "i18n": {
-          "en": {
-            "title": "Far from anonymity, Lilia Hassaine wins the Goncourt des lycéens",
-            "context": "The Goncourt des lycéens prize is one of the most followed literary awards of the autumn literary season in France, involving dozens of classes across the country.",
-            "summary": "Twelve delegates representing high school students awarded the 39th Goncourt des lycéens prize to Lilia Hassaine for her novel \"JE\", published by Gallimard. Selected from sixteen finalists, the work is inspired by a mysterious character from Charlotte Brontë's novel \"Jane Eyre\". This prize honors a text described as an intimate thriller and a revisited Victorian novel, which particularly resonates with young readers.",
-            "plain": "The Goncourt des lycéens prize was awarded to Lilia Hassaine for her novel \"JE\". In it, the author revisits a character from a great classic of British literature.",
-            "stakes": [
-              "What impact will this prize have on the author's sales and recognition?",
-              "How is reading perceived by younger generations through this type of prize?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Lejos del anonimato, Lilia Hassaine gana el premio Goncourt de los estudiantes de secundaria",
-            "context": "El premio Goncourt de los estudiantes de secundaria es uno de los galardones literarios más seguidos de la rentrée literaria en Francia, e implica a decenas de clases en todo el país.",
-            "summary": "Doce delegados en representación de los estudiantes de secundaria otorgaron el 39º premio Goncourt de los estudiantes de secundaria a Lilia Hassaine por su novela «JE», publicada por Gallimard. Seleccionada entre dieciséis finalistas, la obra se inspira en un personaje misterioso procedente de la novela «Jane Eyre» de Charlotte Brontë. Este premio galardona un texto calificado de thriller intimista y de novela victoriana revisitada, que resuena de manera especial entre los jóvenes lectores.",
-            "plain": "El premio Goncourt de los estudiantes de secundaria ha sido concedido a Lilia Hassaine por su novela «JE». En ella, la autora revisita un personaje de un gran clásico de la literatura británica.",
-            "stakes": [
-              "¿Qué impacto tendrá este premio en las ventas y la notoriedad de la autora?",
-              "¿Cómo perciben la lectura las jóvenes generaciones a través de este tipo de premios?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "sa6365a6d39",
-        "topic": "societe",
-        "title": "Elon Musk annonce la distribution d'actions SpaceX aux enfants aux États-Unis",
-        "context": "Le milliardaire américain multiplie les annonces spectaculaires concernant ses différentes entreprises technologiques et spatiales.",
-        "summary": "Le dirigeant d'entreprises Elon Musk s'est engagé à transférer des actions de sa société spatiale SpaceX à chaque enfant aux États-Unis. Selon ses déclarations, une première action sera cédée dès le mois prochain, complétée par une seconde action provenant directement de ses fonds personnels. Cette initiative intervient alors que ses projets de constellations de satellites et de centres de données spatiaux font l'objet de nouvelles autorisations de la part des régulateurs américains.",
-        "plain": "Elon Musk a promis de donner des parts de son entreprise SpaceX à tous les enfants américains. Cette décision accompagne le développement de ses projets spatiaux d'envergure.",
-        "chart": null,
-        "stakes": [
-          "Quelles seront les conditions juridiques et financières de cette distribution d'actions ?",
-          "Quel est l'impact de ces annonces sur la régulation des technologies spatiales ?"
-        ],
-        "sources": [
-          {
-            "name": "Le Monde (International)",
-            "title": "Elon Musk promet d’offrir deux actions de SpaceX à « chaque enfant » aux Etats-Unis",
-            "link": "https://www.lemonde.fr/international/article/2026/11/26/elon-musk-promet-d-offrir-deux-actions-de-spacex-a-chaque-enfant-aux-etats-unis_6815531_3210.html",
-            "publishedAt": "2026-11-26T12:42:46.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Sky News",
-            "title": "US authorises SpaceX to deploy one million satellites to space",
-            "link": "https://news.sky.com/story/us-authorises-elon-musks-spacex-to-deploy-one-million-satellites-to-space-13616493",
-            "publishedAt": "2026-11-25T18:03:00.000Z",
+            "name": "BBC News",
+            "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+            "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-26T17:54:22.000Z",
             "lang": "en",
             "country": "GB"
           },
           {
+            "name": "Tagesschau",
+            "title": "Rheinmetall-Arbeiter bei Angriff in Kuwait getötet",
+            "link": "https://www.tagesschau.de/ausland/asien/kuwait-tote-angriff-kuwait-100.html",
+            "publishedAt": "2026-11-26T18:08:12.000Z",
+            "lang": "de",
+            "country": "DE"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
+            "link": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html",
+            "publishedAt": "2026-11-26T19:06:39.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "Two Italians killed in Kuwait as a strained Iran ramps up attacks",
+            "link": "https://www.washingtonpost.com/world/2026/11/26/two-italians-killed-kuwait-strained-iran-ramps-up-attacks/",
+            "publishedAt": "2026-11-26T17:12:53.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Wall Street Journal",
+            "title": "Iranian Drone Attack Kills Two Italians in Kuwait",
+            "link": "https://www.wsj.com/world/middle-east/iranian-drone-attack-kills-two-italians-in-kuwait-5e360a35?mod=rss_worldnews",
+            "publishedAt": "2026-11-26T18:24:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
             "name": "ANSA",
-            "title": "Musk si è impegnato a donare a ogni bambino degli Stati Uniti due azioni di SpaceX",
-            "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/26/musk-rilancia-due-azioni-spacex-per-ogni-bambino-usa_20af847c-e0d8-4319-9080-84050c64e2e0.html",
-            "publishedAt": "2026-11-26T13:18:33.000Z",
+            "title": "Due tecnici italiani della Rheinmetall morti in un attacco in Kuwait. L'Iran nega responsabilità",
+            "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/26/due-tecnici-italiani-della-rheinmetall-morti-in-un-attacco-in-kuwait_060489c8-4e35-4f04-9c6a-ade4a80acda4.html",
+            "publishedAt": "2026-11-26T18:40:47.000Z",
             "lang": "it",
             "country": "IT"
           }
         ],
         "image": {
-          "url": "https://img.lemde.fr/2026/11/26/466/0/5596/2798/644/322/60/0/6162056_ftp-1-eskadnbjqiae-2026-11-26t045608z-901314414-rc26zna8iu40-rtrmadp-3-spacex-shares.JPG",
-          "credit": "Le Monde (International)",
-          "link": "https://www.lemonde.fr/international/article/2026/11/26/elon-musk-promet-d-offrir-deux-actions-de-spacex-a-chaque-enfant-aux-etats-unis_6815531_3210.html"
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
         },
         "i18n": {
           "en": {
-            "title": "Elon Musk announces distribution of SpaceX shares to children in the United States",
-            "context": "The American billionaire is multiplying spectacular announcements concerning his various technological and space companies.",
-            "summary": "Business leader Elon Musk has committed to transferring shares of his space company SpaceX to every child in the United States. According to his statements, a first share will be transferred as early as next month, supplemented by a second share coming directly from his personal funds. This initiative comes as his projects for satellite constellations and space data centers are receiving new approvals from American regulators.",
-            "plain": "Elon Musk has promised to give shares of his company SpaceX to all American children. This decision accompanies the development of his large-scale space projects.",
+            "title": "Drone Attack in Kuwait: Two European Technicians Killed",
+            "context": "Kuwait and several countries in the Gulf region host military installations and strategic infrastructure. The geopolitical context there remains marked by recurring tensions and threats of aerial attacks.",
+            "summary": "Two Italian technicians employed by the German defense company Rheinmetall lost their lives in a drone attack carried out in Kuwait. While Italy attributes responsibility for this strike to Iran, Tehran denies any involvement. This event revives concerns regarding the security of Western facilities and personnel in the region.",
+            "plain": "Two European technicians working for a defense company were killed by a drone in Kuwait. Italy blames Iran, which denies any responsibility.",
             "stakes": [
-              "What will be the legal and financial conditions of this share distribution?",
-              "What is the impact of these announcements on the regulation of space technologies?"
+              "What consequences will this incident have on the security of expatriates and European infrastructure in the Gulf?",
+              "How will Western diplomacies react to the accusations targeting Iran?"
             ],
             "chart": null
           },
           "es": {
-            "title": "Elon Musk anuncia el reparto de acciones de SpaceX a los niños en Estados Unidos",
-            "context": "El multimillonario estadounidense multiplica los anuncios espectaculares sobre sus diferentes empresas tecnológicas y espaciales.",
-            "summary": "El empresario Elon Musk se comprometió a transferir acciones de su compañía espacial SpaceX a todos los niños de Estados Unidos. Según sus declaraciones, la primera acción se cederá el mes que viene, complementada por una segunda acción procedente directamente de sus fondos personales. Esta iniciativa se produce en un momento en que sus proyectos de constelaciones de satélites y centros de datos espaciales obtienen nuevas autorizaciones por parte de los reguladores estadounidenses.",
-            "plain": "Elon Musk ha prometido regalar participaciones de su empresa SpaceX a todos los niños estadounidenses. Esta decisión acompaña al desarrollo de sus ambiciosos proyectos espaciales.",
+            "title": "Ataque con drones en Kuwait: dos técnicos europeos muertos",
+            "context": "Kuwait y varios países de la región del Golfo albergan instalaciones militares e infraestructuras estratégicas. El contexto geopolítico sigue estando marcado por tensiones recurrentes y amenazas de ataques aéreos.",
+            "summary": "Dos técnicos italianos empleados por la empresa de defensa alemana Rheinmetall perdieron la vida en un ataque con drones perpetrado en Kuwait. Mientras que Italia atribuye la responsabilidad de este ataque a Irán, Teherán niega cualquier implicación. Este acontecimiento reaviva la preocupación por la seguridad de las instalaciones y del personal occidental en la región.",
+            "plain": "Dos técnicos europeos que trabajaban para una empresa de defensa murieron a causa de un dron en Kuwait. Italia acusa a Irán, que niega toda responsabilidad.",
             "stakes": [
-              "¿Cuáles serán las condiciones jurídicas y financieras de esta distribución de acciones?",
-              "¿Qué impacto tienen estos anuncios en la regulación de las tecnologías espaciales?"
+              "¿Qué consecuencias tendrá este incidente en la seguridad de los expatriados y de las infraestructuras europeas en el Golfo?",
+              "¿Cómo reaccionarán las diplomacias occidentales ante las acusaciones dirigidas contra Irán?"
             ],
             "chart": null
           }
         }
       },
       {
-        "id": "s710264ddcb",
-        "topic": "environnement",
-        "title": "Clôture sans accord de la COP31 en Turquie",
-        "context": "Les conférences des Nations unies sur les changements climatiques réunissent chaque année les pays membres pour tenter de fixer des objectifs communs de réduction des émissions.",
-        "summary": "La conférence annuelle de l'ONU sur le climat, la COP31 qui se tenait à Antalya en Turquie, s'est achevée sans qu'aucun accord global n'ait pu être trouvé entre les participants. Plusieurs agences onusiennes ont publié des rapports soulignant que les risques climatiques progressent désormais beaucoup plus rapidement que les actions politiques mondiales. Des observateurs et analystes estiment que ces rendez-vous internationaux peinent à répondre aux urgences environnementales actuelles.",
-        "plain": "La conférence de l'ONU sur le climat en Turquie s'est soldée par un échec, les États n'étant pas parvenus à s'entendre sur un texte commun face à l'urgence climatique.",
+        "id": "s1ebaeaf909",
+        "topic": "politique",
+        "title": "Accusations d'antisémitisme et polémiques autour du Rassemblement national",
+        "context": "Le Rassemblement national tente de parachever sa stratégie de normalisation politique, mais fait régulièrement face à la résurgence de polémiques concernant le passé ou les écrits de ses cadres et de ses dirigeants.",
+        "summary": "De nouvelles révélations journalistiques publiées par Mediapart et Le Monde ont mis en cause des messages attribués à Jordan Bardella sur les réseaux sociaux, jugés antisémitiques et complotistes. L'entourage du dirigeant politique et ses porte-parole ont vigoureusement dénoncé une « chasse à l'homme » et un acharnement médiatique orchestré par des journalistes militants. Ces accusations relancent les débats sur la dédiabolisation du parti d'extrême droite.",
+        "plain": "Des articles de presse mettent en cause des écrits passés de dirigeants du Rassemblement national. Le parti dénonce quant à lui un acharnement médiatique et politique.",
         "chart": null,
         "stakes": [
-          "Quelles seront les répercussions de cet échec sur les négociations climatiques futures ?",
-          "Comment les pays peuvent-ils intensifier leurs actions en l'absence de consensus international ?"
+          "Quel impact ces révélations auront-elles sur l'image et la crédibilité électorale du Rassemblement national ?",
+          "Comment le parti gérera-t-il la défense de ses responsables face aux accusations récurrentes ?"
         ],
         "sources": [
           {
+            "name": "L'Express",
+            "title": "Affaire Bardella : \"Les électeurs RN considèrent à tort les histoires d’antisémitisme comme relativement marginales\"",
+            "link": "https://www.lexpress.fr/politique/affaire-bardella-les-electeurs-rn-considerent-a-tort-les-histoires-dantisemitisme-comme-relativement-OC5JRGWVGBGSRCMAQNKNXF44IQ/",
+            "publishedAt": "2026-11-26T18:58:56.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le JDD",
+            "title": "Accusations d'antisémitisme : Alloncle dénonce un «acharnement médiatique» contre Bardella",
+            "link": "https://www.lejdd.fr/politique/accusations-dantisemitisme-alloncle-denonce-un-acharnement-mediatique-contre-bardella-189765",
+            "publishedAt": "2026-11-26T16:11:03.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "France 24",
+            "title": "Bardella, Lavalette… la dédiabolisation du RN à l’épreuve des affaires d’antisémitisme",
+            "link": "https://www.france24.com/fr/france/20261126-france-jordan-bardella-laure-lavalette-dediabolisation-rassemblement-national-epreuve-affaires-antisemitisme",
+            "publishedAt": "2026-11-26T18:29:20.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "France 24",
+            "title": "Propos antisémites de Bardella : la candidat qualifie l'enquête de \"chasse à l'homme\"",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261126-propos-antis%C3%A9mites-de-bardella-la-candidat-qualifie-l-enqu%C3%AAte-de-chasse-%C3%A0-l-homme",
+            "publishedAt": "2026-11-26T16:37:54.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.lexpress.fr/resizer/v2/QIGXSVHC5NCMTBUKRJ3YRQYHBY.jpg?auth=cb661caffdfa3db9b31705f71f03adcb4a79c8cec2760883082e0ade0b37248b&smart=true&width=3000&height=2000",
+          "credit": "L'Express",
+          "link": "https://www.lexpress.fr/politique/affaire-bardella-les-electeurs-rn-considerent-a-tort-les-histoires-dantisemitisme-comme-relativement-OC5JRGWVGBGSRCMAQNKNXF44IQ/"
+        },
+        "i18n": {
+          "en": {
+            "title": "Accusations of Antisemitism and Controversies Surrounding the National Rally",
+            "context": "The National Rally is attempting to complete its strategy of political normalization, but regularly faces the resurgence of controversies concerning the past or writings of its executives and leaders.",
+            "summary": "New journalistic revelations published by Mediapart and Le Monde have questioned messages attributed to Jordan Bardella on social networks, deemed antisemitic and conspiratorial. The entourage of the political leader and his spokespersons have vigorously denounced a \"witch hunt\" and media harassment orchestrated by activist journalists. These accusations revive debates on the de-demonization of the far-right party.",
+            "plain": "Press articles question the past writings of National Rally leaders. The party, for its part, denounces media and political harassment.",
+            "stakes": [
+              "What impact will these revelations have on the image and electoral credibility of the National Rally?",
+              "How will the party manage the defense of its officials against recurring accusations?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Acusaciones de antisemitismo y polémicas en torno a Agrupación Nacional",
+            "context": "Agrupación Nacional intenta culminar su estrategia de normalización política, pero se enfrenta regularmente al resurgimiento de polémicas relativas al pasado o a los escritos de sus dirigentes y cuadros.",
+            "summary": "Nuevas revelaciones periodísticas publicadas por Mediapart y Le Monde han puesto en duda mensajes atribuidos a Jordan Bardella en las redes sociales, considerados antisemitas y conspiranoicos. El entorno del dirigente político y sus portavoces han denunciado enérgicamente una \"cacería de brujas\" y un ensañamiento mediático orquestado por periodistas militantes. Estas acusaciones reavivan los debates sobre la desdiabolización del partido de ultraderecha.",
+            "plain": "Artículos de prensa cuestionan escritos pasados de dirigentes de Agrupación Nacional. Por su parte, el partido denuncia un ensañamiento mediático y político.",
+            "stakes": [
+              "¿Qué impacto tendrán estas revelaciones en la imagen y la credibilidad electoral de Agrupación Nacional?",
+              "¿Cómo gestionará el partido la defensa de sus responsables frente a las acusaciones recurrentes?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "se24c6b8450",
+        "topic": "politique",
+        "title": "Élections législatives en Espagne : la droite en position de force",
+        "context": "L'Espagne s'apprête à organiser des élections législatives anticipées après plusieurs années de gouvernement mené par le Parti socialiste de Pedro Sánchez. La gestion de l'économie, du logement et les questions migratoires dominent la campagne.",
+        "summary": "À l'approche du scrutin, les formations de droite et d'extrême droite affichent leur dynamisme, portées par le mécontentement d'une partie des citoyens face à la hausse des prix du logement et à la situation économique. La campagne est marquée par des mobilisations citoyennes et des débats sur la sécurité et l'immigration, tandis que les socialistes tentent une dernière « remontada » politique.",
+        "plain": "L'Espagne organise des élections législatives anticipées dans un climat de forte tension politique. La droite espère battre les socialistes au pouvoir après des années de difficultés économiques et sociales.",
+        "chart": null,
+        "stakes": [
+          "Le Parti socialiste parviendra-t-il à inverser la tendance face aux formations conservatrices ?",
+          "Quelles orientations politiques l'Espagne adoptera-t-elle pour faire face à la crise du logement et aux flux migratoires ?"
+        ],
+        "sources": [
+          {
+            "name": "L'Humanité",
+            "title": "Espagne : à quelques jours des législatives, la gauche veut croire à sa « remontada »",
+            "link": "https://www.humanite.fr/monde/elections-en-espagne/espagne-a-quelques-jours-des-legislatives-la-gauche-veut-croire-a-sa-remontada",
+            "publishedAt": "2026-11-26T17:41:44.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
             "name": "Valeurs actuelles",
-            "title": "Philippe Charlez : « Antalya, le 31ᵉ flop des COP ! »",
-            "link": "https://www.valeursactuelles.com/clubvaleurs/monde/philippe-charlez-antalya-le-31%e1%b5%89-flop-des-cop",
-            "publishedAt": "2026-11-26T11:30:08.000Z",
+            "title": "Préférence nationale, immigration, fiscalité : à la veille des élections législatives, l’Espagne à droite toute",
+            "link": "https://www.valeursactuelles.com/clubvaleurs/monde/preference-nationale-immigration-fiscalite-a-la-veille-des-elections-legislatives-lespagne-a-droite-toute",
+            "publishedAt": "2026-11-26T19:00:40.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Spanish elections: What you need to know and what's at stake",
+            "link": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-26T00:23:49.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Wall Street Journal",
+            "title": "Opinion | Sánchez and Socialists Poised to Lose Power in Spain",
+            "link": "https://www.wsj.com/opinion/sanchez-and-socialists-poised-to-lose-power-in-spain-4ccd535d?mod=rss_worldnews",
+            "publishedAt": "2026-11-26T18:03:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "Législatives en Espagne : les cartes et graphiques pour comprendre comment la crise du logement est devenue un enjeu de la campagne",
+            "link": "https://www.lemonde.fr/international/visuel/2026/11/26/legislatives-en-espagne-les-cartes-et-graphiques-pour-comprendre-comment-la-crise-du-logement-est-devenue-un-enjeu-de-la-campagne_6815566_3210.html",
+            "publishedAt": "2026-11-26T16:30:10.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.humanite.fr/wp-content/uploads/2026/11/p2-3-sanchez_VEN.jpg?w=1200",
+          "credit": "L'Humanité",
+          "link": "https://www.humanite.fr/monde/elections-en-espagne/espagne-a-quelques-jours-des-legislatives-la-gauche-veut-croire-a-sa-remontada"
+        },
+        "i18n": {
+          "en": {
+            "title": "Legislative Elections in Spain: The Right in a Position of Strength",
+            "context": "Spain is preparing to hold early legislative elections after several years of government led by the Socialist Party of Pedro Sánchez. The management of the economy, housing, and migration issues dominate the campaign.",
+            "summary": "As the election approaches, right-wing and far-right formations are displaying their momentum, driven by the discontent of some citizens with rising housing prices and the economic situation. The campaign is marked by citizen mobilizations and debates on security and immigration, while the socialists attempt a final political \"remontada\".",
+            "plain": "Spain is holding early legislative elections in a climate of high political tension. The right hopes to defeat the socialists in power after years of economic and social difficulties.",
+            "stakes": [
+              "Will the Socialist Party manage to reverse the trend against conservative formations?",
+              "What political directions will Spain adopt to face the housing crisis and migratory flows?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Elecciones legislativas en España: la derecha en posición de fuerza",
+            "context": "España se dispone a celebrar elecciones legislativas anticipadas tras varios años de gobierno liderado por el Partido Socialista de Pedro Sánchez. La gestión de la economía, la vivienda y las cuestiones migratorias dominan la campaña.",
+            "summary": "A medida que se acercan los comicios, las formaciones de derechas y ultraderechas muestran su dinamismo, impulsadas por el descontento de una parte de los ciudadanos ante el aumento de los precios de la vivienda y la situación económica. La campaña está marcada por movilizaciones ciudadanas y debates sobre seguridad e inmigración, mientras los socialistas intentan una última «remontada» política.",
+            "plain": "España organiza elecciones legislativas anticipadas en un clima de fuerte tensión política. La derecha espera vencer a los socialistas en el poder tras años de dificultades económicas y sociales.",
+            "stakes": [
+              "¿Logrará el Partido Socialista invertir la tendencia frente a las formaciones conservadoras?",
+              "¿Qué orientaciones políticas adoptará España para hacer frente a la crisis de la vivienda y a los flujos migratorios?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sb883fea572",
+        "topic": "economie",
+        "title": "Nomination de Pablo Hernández de Cos à la tête de la Banque centrale européenne",
+        "context": "La Banque centrale européenne (BCE), institution chargée de la politique monétaire de la zone euro, s'apprête à renouveler sa direction à la suite du départ programmé de sa présidente, Christine Lagarde.",
+        "summary": "Les dirigeants de l'Union européenne se sont accordés sur le choix de l'Espagnol Pablo Hernández de Cos pour succéder à Christine Lagarde à la présidence de la BCE, un mandat qui débutera en février 2027. Cette désignation intervient à la suite de tractations diplomatiques en coulisses entre les principaux pays membres, permettant à Madrid d'obtenir un poste clé.",
+        "plain": "L'ancien gouverneur de la Banque d'Espagne, Pablo Hernández de Cos, va prendre la tête de la Banque centrale européenne. Il remplacera Christine Lagarde au début de l'année prochaine.",
+        "chart": null,
+        "stakes": [
+          "Quels choix de politique monétaire la BCE privilégiera-t-elle sous la direction de Pablo Hernández de Cos face aux défis économiques européens ?",
+          "Comment cette nomination influencera-t-elle l'équilibre des pouvoirs économiques au sein de l'Union européenne ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Avec l’arrivée de l’Espagnol Pablo Hernandez de Cos à sa tête, toute la direction de la BCE va changer",
+            "link": "https://www.la-croix.com/economie/avec-l-arrivee-de-lespagnol-pablo-hernandez-de-cos-a-sa-tete-toute-la-direction-de-la-bce-va-changer-20261126",
+            "publishedAt": "2026-11-26T18:12:34.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
+            "link": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
+            "publishedAt": "2026-11-26T17:50:54.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Tagesschau",
+            "title": "Spanier Hernández de Cos soll Nachfolger von EZB-Chefin Lagarde werden",
+            "link": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html",
+            "publishedAt": "2026-11-26T17:28:08.000Z",
+            "lang": "de",
+            "country": "DE"
+          },
+          {
+            "name": "The Wall Street Journal",
+            "title": "Europe Has Picked a New Central Bank Chief. He’s in for a Bumpy Ride.",
+            "link": "https://www.wsj.com/world/europe/europe-has-picked-a-new-central-bank-chief-hes-in-for-a-bumpy-ride-7d6f7fea?mod=rss_worldnews",
+            "publishedAt": "2026-11-26T18:00:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "EU leaders clear path for Spain’s Pablo Hernández de Cos to lead ECB",
+            "link": "https://www.politico.eu/article/eu-leaders-clear-path-for-spains-pablo-hernandez-de-cos-to-lead-ecb/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-26T14:57:34.000Z",
+            "lang": "en",
+            "country": "BE"
+          },
+          {
+            "name": "RFI",
+            "title": "L'Espagnol Pablo Hernandez de Cos va être nommé président de la Banque centrale européenne",
+            "link": "https://www.rfi.fr/fr/%C3%A9conomie/20261126-l-espagnol-pablo-hernandez-de-cos-va-%C3%AAtre-nomm%C3%A9-pr%C3%A9sident-de-la-banque-centrale-europ%C3%A9enne",
+            "publishedAt": "2026-11-26T15:25:59.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/26/2599794-pablo-hernandez-de-cos-a-gauche-succedera-a-christ.JPG",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/economie/avec-l-arrivee-de-lespagnol-pablo-hernandez-de-cos-a-sa-tete-toute-la-direction-de-la-bce-va-changer-20261126"
+        },
+        "i18n": {
+          "en": {
+            "title": "Appointment of Pablo Hernández de Cos to Head the European Central Bank",
+            "context": "The European Central Bank (ECB), the institution responsible for the monetary policy of the euro zone, is preparing to renew its leadership following the scheduled departure of its president, Christine Lagarde.",
+            "summary": "European Union leaders have agreed on the choice of Spaniard Pablo Hernández de Cos to succeed Christine Lagarde as president of the ECB, a term that will begin in February 2027. This designation comes following behind-the-scenes diplomatic negotiations between the main member countries, allowing Madrid to secure a key position.",
+            "plain": "The former governor of the Bank of Spain, Pablo Hernández de Cos, will take the helm of the European Central Bank. He will replace Christine Lagarde early next year.",
+            "stakes": [
+              "What monetary policy choices will the ECB prioritize under the leadership of Pablo Hernández de Cos in the face of European economic challenges?",
+              "How will this appointment influence the balance of economic powers within the European Union?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Nombramiento de Pablo Hernández de Cos al frente del Banco Central Europeo",
+            "context": "El Banco Central Europeo (BCE), institución encargada de la política monetaria de la eurozona, se dispone a renovar su cúpula tras la salida programada de su presidenta, Christine Lagarde.",
+            "summary": "Los dirigentes de la Unión Europea han acordado la elección del español Pablo Hernández de Cos para suceder a Christine Lagarde en la presidencia del BCE, un mandato que comenzará en febrero de 2027. Esta designación se produce tras negociaciones diplomáticas entre bambalinas entre los principales países miembros, lo que permite a Madrid obtener un puesto clave.",
+            "plain": "El exgobernador del Banco de España, Pablo Hernández de Cos, asumirá la dirección del Banco Central Europeo. Sustituirá a Christine Lagarde a principios del próximo año.",
+            "stakes": [
+              "¿Qué opciones de política monetaria privilegiará el BCE bajo la dirección de Pablo Hernández de Cos frente a los retos económicos europeos?",
+              "¿Cómo influirá este nombramiento en el equilibrio de poderes económicos en el seno de la Unión Europea?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s1e611b7ccc",
+        "topic": "international",
+        "title": "Tensions géopolitiques et frappes en mer Méditerranée et en mer Baltique",
+        "context": "Le conflit en Ukraine entraîne des répercussions au-delà de ses frontières immédiates, avec des actions menées contre des intérêts russes dans plusieurs zones maritimes stratégiques et des mises en garde des alliés occidentaux.",
+        "summary": "Les autorités ukrainiennes ont revendiqué des frappes ciblant des navires et des infrastructures liés à la Russie en Libye et en mer Baltique. Tandis que Moscou accuse Kiev de chercher à élargir le champ du conflit vers de nouvelles mers, les gouvernements de l'Otan observent ces développements avec préoccupation et renforcent leur vigilance face aux risques d'escalade.",
+        "plain": "L'Ukraine mène des actions militaires contre des navires russes loin de ses frontières, notamment en Méditerranée et en mer Baltique. La Russie dénonce une volonté d'élargir le conflit.",
+        "chart": null,
+        "stakes": [
+          "Quelles seront les répercussions de ces actions maritimes sur la sécurité du commerce international ?",
+          "Comment l'Otan gérera-t-elle le risque d'une extension géographique du conflit ukrainien ?"
+        ],
+        "sources": [
+          {
+            "name": "Deutsche Welle",
+            "title": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
+            "link": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-26T09:27:00.000Z",
+            "lang": "en",
+            "country": "DE"
+          },
+          {
+            "name": "Fox News",
+            "title": "Libyans pledge to retaliate after Ukraine strikes Russian warship near Benghazi, killing 2 soldiers",
+            "link": "https://www.foxnews.com/world/libyans-pledge-retaliate-ukraine-strikes-russian-warship-benghazi-killing-2-soldiers",
+            "publishedAt": "2026-11-25T16:57:41.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Hindu",
+            "title": "Kremlin accuses Ukraine of trying to widen conflict zone to Mediterranean and Baltic seas",
+            "link": "https://www.thehindu.com/news/international/kremlin-accuses-ukraine-of-trying-to-widen-conflict-zone-to-mediterranean-and-baltic-seas/article71747857.ece",
+            "publishedAt": "2026-11-26T17:24:45.000Z",
+            "lang": "en",
+            "country": "IN"
+          },
+          {
+            "name": "France 24",
+            "title": "Navires russes ciblés en Libye : les frappes ukrainiennes étaient-elles légales ?",
+            "link": "https://www.france24.com/fr/europe/20261126-navires-russes-cibl%C3%A9s-libye-les-frappes-ukrainiennes-%C3%A9taient-elles-l%C3%A9gales",
+            "publishedAt": "2026-11-26T17:56:11.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Euronews",
+            "title": "Ukraine : les alliés de Kyiv mettent en garde contre une extension du conflit",
+            "link": "https://fr.euronews.com/2026/11/26/ukraine-les-allies-de-kyiv-mettent-en-garde-contre-une-extension-du-conflit",
+            "publishedAt": "2026-11-26T18:21:41.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Libya_Russia_Ukraine.jpg?ve=1&tl=1",
+          "credit": "Fox News",
+          "link": "https://www.foxnews.com/world/libyans-pledge-retaliate-ukraine-strikes-russian-warship-benghazi-killing-2-soldiers"
+        },
+        "i18n": {
+          "en": {
+            "title": "Geopolitical tensions and strikes in the Mediterranean Sea and Baltic Sea",
+            "context": "The conflict in Ukraine is causing repercussions beyond its immediate borders, with actions carried out against Russian interests in several strategic maritime zones and warnings from Western allies.",
+            "summary": "Ukrainian authorities claimed responsibility for strikes targeting Russian-linked vessels and infrastructure in Libya and the Baltic Sea. While Moscow accuses Kyiv of seeking to expand the conflict to new seas, NATO governments are observing these developments with concern and increasing their vigilance against the risks of escalation.",
+            "plain": "Ukraine is carrying out military actions against Russian ships far from its borders, notably in the Mediterranean and the Baltic Sea. Russia denounces an attempt to widen the conflict.",
+            "stakes": [
+              "What will be the repercussions of these maritime actions on the security of international trade?",
+              "How will NATO manage the risk of a geographical extension of the Ukrainian conflict?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Tensiones geopolíticas y ataques en el mar Mediterráneo y el mar Báltico",
+            "context": "El conflicto en Ucrania genera repercusiones más allá de sus fronteras inmediatas, con acciones dirigidas contra intereses rusos en varias zonas marítimas estratégicas y advertencias de los aliados occidentales.",
+            "summary": "Las autoridades ucranianas reivindicaron ataques contra barcos e infraestructuras vinculados a Rusia en Libia y en el mar Báltico. Mientras Moscú acusa a Kiev de buscar ampliar el campo del conflicto a nuevos mares, los gobiernos de la OTAN observan estos acontecimientos con preocupación y refuerzan su vigilancia ante los riesgos de escalada.",
+            "plain": "Ucrania lleva a cabo acciones militares contra barcos rusos lejos de sus fronteras, especialmente en el Mediterráneo y el mar Báltico. Rusia denuncia una voluntad de ampliar el conflicto.",
+            "stakes": [
+              "¿Cuáles serán las repercusiones de estas acciones marítimas en la seguridad del comercio internacional?",
+              "¿Cómo gestionará la OTAN el riesgo de una extensión geográfica del conflicto ucraniano?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sc3ed91725f",
+        "topic": "environnement",
+        "title": "Climat : la COP31 s'achève sans accord sur la décision finale",
+        "context": "Les conférences internationales sur le climat, organisées sous l'égide des Nations unies, réunissent les différents pays pour tenter de fixer des objectifs communs de réduction des émissions de gaz à effet de serre et d'adaptation au réchauffement climatique.",
+        "summary": "La conférence internationale sur le climat COP31, qui s'est tenue à Antalya en Turquie, s'est conclue par un échec, les 194 parties présentes n'étant pas parvenues à s'entendre sur le texte de la décision finale. Cet échec soulève de nombreuses interrogations sur l'efficacité future de ces sommets mondiaux, alors que les rapports scientifiques soulignent que les risques climatiques progressent plus rapidement que les mesures prises par les États.",
+        "plain": "La conférence de l'ONU sur le climat en Turquie s'est terminée sans accord entre les pays participants. Cette situation interroge sur la capacité de la diplomatie climatique à agir face à l'urgence.",
+        "chart": null,
+        "stakes": [
+          "Quel avenir pour les négociations climatiques internationales après cet échec à Antalya ?",
+          "Comment les États adapteront-ils leurs politiques face à l'accélération des dérèglements climatiques ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Après l’échec de la COP31 à Antalya, la diplomatie climatique confrontée à un « chantier gigantesque »",
+            "link": "https://www.lemonde.fr/planete/article/2026/11/26/apres-l-echec-de-la-cop31-a-antalya-la-diplomatie-climatique-confrontee-a-un-chantier-gigantesque_6815571_3244.html",
+            "publishedAt": "2026-11-26T17:00:14.000Z",
             "lang": "fr",
             "country": "FR"
           },
@@ -442,156 +650,396 @@
             "name": "ANSA",
             "title": "ANSA Newsroom | Fallisce la Cop31, niente accordo sul clima",
             "link": "https://www.ansa.it/sito/notizie/speciali/ansa-newsroom/2026/11/25/ansa-newsroom-fallisce-la-cop31-il-clima-non-riscalda-gli-animi_d1956a1b-054a-4396-99af-f3f1507114d8.html",
-            "publishedAt": "2026-11-26T13:09:59.000Z",
+            "publishedAt": "2026-11-26T18:49:59.000Z",
             "lang": "it",
             "country": "IT"
           }
         ],
         "image": {
-          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/11/26/472093.jpg",
-          "credit": "Daily Sabah",
-          "link": "https://www.dailysabah.com/turkiye/cop31-reveals-how-climate-risks-outpace-global-action/news"
+          "url": "https://img.lemde.fr/2026/11/22/464/0/5568/2784/644/322/60/0/91859b4_ftp-1-hfogfx590sri-2026-11-22t124550z-1751044502-rc20toaeemgp-rtrmadp-3-climate-cop31.JPG",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/planete/article/2026/11/26/apres-l-echec-de-la-cop31-a-antalya-la-diplomatie-climatique-confrontee-a-un-chantier-gigantesque_6815571_3244.html"
         },
         "i18n": {
           "en": {
-            "title": "COP31 in Turkey closes without an agreement",
-            "context": "United Nations climate change conferences bring together member countries every year to try to set common emission reduction targets.",
-            "summary": "The annual UN climate conference, COP31 held in Antalya, Turkey, ended without any global agreement being reached among participants. Several UN agencies published reports highlighting that climate risks are now progressing much faster than global political actions. Observers and analysts believe these international meetings are struggling to respond to current environmental emergencies.",
-            "plain": "The UN climate conference in Turkey ended in failure, as states failed to agree on a common text in the face of the climate emergency.",
+            "title": "Climate: COP31 concludes without agreement on final decision",
+            "context": "International climate conferences, held under the auspices of the United Nations, bring together various countries to try to set common goals for reducing greenhouse gas emissions and adapting to global warming.",
+            "summary": "The COP31 international climate conference, held in Antalya, Turkey, ended in failure as the 194 parties present failed to reach an agreement on the text of the final decision. This failure raises numerous questions about the future effectiveness of these global summits, even as scientific reports highlight that climate risks are progressing faster than the measures taken by states.",
+            "plain": "The UN climate conference in Turkey ended without an agreement among the participating countries. This situation raises questions about the capacity of climate diplomacy to act in the face of urgency.",
             "stakes": [
-              "What will be the repercussions of this failure on future climate negotiations?",
-              "How can countries intensify their actions in the absence of international consensus?"
+              "What is the future for international climate negotiations after this failure in Antalya?",
+              "How will states adapt their policies in the face of accelerating climate disruptions?"
             ],
             "chart": null
           },
           "es": {
-            "title": "Clausura sin acuerdo de la COP31 en Turquía",
-            "context": "Las conferencias de las Naciones Unidas sobre el cambio climático reúnen cada año a los países miembros para intentar fijar objetivos comunes de reducción de emisiones.",
-            "summary": "La conferencia anual de la ONU sobre el clima, la COP31 celebrada en Antalya (Turquía), concluyó sin que se pudiera alcanzar un acuerdo global entre los participantes. Varios organismos de la ONU publicaron informes que subrayan que los riesgos climáticos avanzan ahora mucho más deprisa que las acciones políticas mundiales. Observadores y analistas estiman que estas citas internacionales tienen dificultades para responder a las urgencias medioambientales actuales.",
-            "plain": "La conferencia de la ONU sobre el clima en Turquía se saldó con un fracaso, al no haber conseguido los Estados ponerse de acuerdo sobre un texto común frente a la urgencia climática.",
+            "title": "Clima: La COP31 concluye sin acuerdo sobre la decisión final",
+            "context": "Las conferencias internacionales sobre el clima, organizadas bajo los auspicios de las Naciones Unidas, reúnen a los diferentes países para intentar fijar objetivos comunes de reducción de emisiones de gases de efecto invernadero y de adaptación al calentamiento global.",
+            "summary": "La conferencia internacional sobre el clima COP31, celebrada en Antalya, Turquía, concluyó en fracaso, ya que las 194 partes presentes no lograron ponerse de acuerdo sobre el texto de la decisión final. Este fracaso plantea numerosas dudas sobre la eficacia futura de estas cumbres mundiales, mientras los informes científicos subrayan que los riesgos climáticos avanzan más rápido que las medidas adoptadas por los Estados.",
+            "plain": "La conferencia de la ONU sobre el clima en Turquía terminó sin un acuerdo entre los países participantes. Esta situación cuestiona la capacidad de la diplomacia climática para actuar ante la urgencia.",
             "stakes": [
-              "¿Cuáles serán las repercusiones de este fracaso en las futuras negociaciones sobre el clima?",
-              "¿Cómo pueden los países intensificar sus acciones a falta de un consenso internacional?"
+              "¿Qué futuro les espera a las negociaciones climáticas internacionales tras este fracaso en Antalya?",
+              "¿Cómo adaptarán los Estados sus políticas ante la aceleración de las alteraciones climáticas?"
             ],
             "chart": null
           }
         }
       },
       {
-        "id": "s3927e49b26",
-        "topic": "sante",
-        "title": "Un tribunal allemand condamne un archidiocèse à verser un montant record pour des abus sexuels",
-        "context": "Les institutions religieuses européennes font face à des révélations répétées concernant des violences sexuelles commises par le passé par des membres du clergé.",
-        "summary": "Un tribunal de grande instance en Allemagne a ordonné à l'archidiocèse de Cologne de verser 550 000 euros de dommages et intérêts à une femme victime d'abus sexuels perpétrés durant son enfance par un prêtre ayant fait office de père adoptif. Il s'agit de la somme la plus élevée jamais accordée par une juridiction allemande dans une affaire de ce type. La justice a estimé que la hiérarchie catholique porte une responsabilité directe dans la gestion et les conséquences de ces agissements.",
-        "plain": "En Allemagne, la justice a condamné l'Église catholique à verser une indemnité record de 550 000 euros à une victime d'abus sexuels commis par un prêtre.",
+        "id": "s8f76b29b16",
+        "topic": "politique",
+        "title": "Le Royaume-Uni enregistre une baisse notable de son solde migratoire",
+        "context": "Le gouvernement britannique a mis en place ces dernières années diverses mesures législatives et réglementaires pour restreindre l'immigration, répondant aux attentes d'une partie de la population exprimée lors de scrutins successifs.",
+        "summary": "Les statistiques officielles publiées au Royaume-Uni indiquent que la migration nette a chuté pour atteindre son niveau le plus bas depuis 1997, hors période de pandémie de Covid-19. Ce recul s'explique principalement par une diminution des arrivées en provenance de pays extérieurs à l'Union européenne, conséquence directe des restrictions décidées par les autorités pour limiter les flux migratoires.",
+        "plain": "Le nombre de personnes s'installant durablement au Royaume-Uni a fortement chuté pour atteindre un niveau inédit depuis la fin des années 1990. Cette baisse fait suite aux restrictions décidées par le gouvernement.",
         "chart": null,
         "stakes": [
-          "Cette décision va-t-elle créer un précédent pour d'autres victimes en quête d'indemnisation ?",
-          "Comment l'Église catholique adapte-t-elle ses réponses financières et morales face aux scandales ?"
+          "Quels impacts cette diminution des arrivées aura-t-elle sur les secteurs économiques en manque de main-d'œuvre au Royaume-Uni ?",
+          "Comment cette évolution politique et statistique influencera-t-elle le débat public sur l'immigration ?"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "title": "Erzbistum Köln: Rekordschmerzensgeld für Missbrauchsopfer",
-            "link": "https://www.tagesschau.de/inland/gesellschaft/missbrauch-kirche-schmerzensgeld-102.html",
-            "publishedAt": "2026-11-26T13:37:34.000Z",
-            "lang": "de",
-            "country": "DE"
+            "name": "The New York Times",
+            "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
+            "link": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
+            "publishedAt": "2026-11-26T18:52:50.000Z",
+            "lang": "en",
+            "country": "US"
           },
           {
-            "name": "Tagesschau",
-            "title": "Michael Heussen, WDR, zu Rekord-Schmerzensgeld für Missbrauchsopfer am Erzbistum Köln",
-            "link": "https://www.tagesschau.de/video/video-1690338.html",
-            "publishedAt": "2026-11-26T13:12:03.000Z",
-            "lang": "de",
-            "country": "DE"
+            "name": "The Hindu",
+            "title": "U.K. net migration falls to lowest since 1997; Indians largest foreign group entering and leaving the country",
+            "link": "https://www.thehindu.com/news/international/uk-net-migration-falls-to-lowest-since-1997-indians-largest-foreign-group-entering-and-leaving-the-country/article71746576.ece",
+            "publishedAt": "2026-11-26T16:18:30.000Z",
+            "lang": "en",
+            "country": "IN"
           },
           {
             "name": "South China Morning Post",
-            "title": "Woman abused by priest foster father wins record US$600,000 from German church",
-            "link": "https://www.scmp.com/news/world/europe/article/3375958/woman-abused-priest-foster-father-wins-record-us600000-german-church",
-            "publishedAt": "2026-11-26T13:54:38.000Z",
+            "title": "UK net migration falls to 77,000, lowest annual level in nearly 30 years",
+            "link": "https://www.scmp.com/news/world/europe/article/3375952/uk-net-migration-falls-77000-lowest-annual-level-nearly-30-years",
+            "publishedAt": "2026-11-26T13:19:28.000Z",
             "lang": "en",
             "country": "HK"
           }
         ],
         "image": {
-          "url": "https://images.tagesschau.de/image/093349eb-4a34-4a8a-99fc-ac81d718763f/AAABlesvJWo/AAABnSSvrFg/16x9-big/kreuz-133.jpg?width=1920",
-          "credit": "Tagesschau",
-          "link": "https://www.tagesschau.de/inland/gesellschaft/missbrauch-kirche-schmerzensgeld-102.html"
+          "url": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-uk-immigration-tbmc/26int-uk-immigration-tbmc-mediumSquareAt3X.jpg",
+          "credit": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html"
         },
         "i18n": {
           "en": {
-            "title": "German court orders Archdiocese to pay record amount for sexual abuse",
-            "context": "European religious institutions face repeated revelations concerning past sexual violence committed by members of the clergy.",
-            "summary": "A high court in Germany has ordered the Archdiocese of Cologne to pay 550,000 euros in damages to a woman who was the victim of sexual abuse perpetrated during her childhood by a priest who acted as her adoptive father. This is the highest sum ever awarded by a German court in a case of this type. The court ruled that the Catholic hierarchy bears direct responsibility for the handling and consequences of these actions.",
-            "plain": "In Germany, the courts ordered the Catholic Church to pay a record compensation of 550,000 euros to a victim of sexual abuse committed by a priest.",
+            "title": "United Kingdom records a notable drop in net migration",
+            "context": "In recent years, the British government has implemented various legislative and regulatory measures to restrict immigration, responding to the expectations of a portion of the population expressed during successive elections.",
+            "summary": "Official statistics published in the UK indicate that net migration has plummeted to its lowest level since 1997, excluding the Covid-19 pandemic period. This decline is mainly explained by a decrease in arrivals from countries outside the European Union, a direct consequence of the restrictions decided by the authorities to limit migratory flows.",
+            "plain": "The number of people settling permanently in the United Kingdom has fallen sharply to an unprecedented level since the late 1990s. This decline follows restrictions decided by the government.",
             "stakes": [
-              "Will this decision set a precedent for other victims seeking compensation?",
-              "How is the Catholic Church adapting its financial and moral responses to the scandals?"
+              "What impacts will this decrease in arrivals have on economic sectors lacking labor in the UK?",
+              "How will this political and statistical evolution influence the public debate on immigration?"
             ],
             "chart": null
           },
           "es": {
-            "title": "Tribunal alemán condena a archidiócesis a pagar una suma récord por abusos sexuales",
-            "context": "Las instituciones religiosas europeas se enfrentan a revelaciones reiteradas sobre violencia sexual cometida en el pasado por miembros del clero.",
-            "summary": "Un tribunal superior en Alemania ha ordenado a la archidiócesis de Colonia pagar 550.000 euros en concepto de daños y perjuicios a una mujer víctima de abusos sexuales perpetrados durante su infancia por un sacerdote que actuó como padre adoptivo. Se trata de la cantidad más alta jamás concedida por un tribunal alemán en un caso de este tipo. La justicia estimó que la jerarquía católica tiene una responsabilidad directa en la gestión y las consecuencias de estos actos.",
-            "plain": "En Alemania, la justicia condenó a la Iglesia católica a pagar una indemnización récord de 550.000 euros a una víctima de abusos sexuales cometidos por un sacerdote.",
+            "title": "El Reino Unido registra una caída notable de su saldo migratorio",
+            "context": "El gobierno británico ha implementado en los últimos años diversas medidas legislativas y reglamentarias para restringir la inmigración, respondiendo a las expectativas de una parte de la población expresadas en sucesivos comicios.",
+            "summary": "Las estadísticas oficiales publicadas en el Reino Unido indican que la migración neta ha caído a su nivel más bajo desde 1997, excluyendo el periodo de la pandemia de Covid-19. Este retroceso se explica principalmente por una disminución de las llegadas procedentes de países ajenos a la Unión Europea, consecuencia directa de las restricciones decididas por las autoridades para limitar los flujos migratorios.",
+            "plain": "El número de personas que se instalan de forma permanente en el Reino Unido ha caído drásticamente hasta un nivel inédito desde finales de la década de 1990. Este descenso se produce tras las restricciones decididas por el gobierno.",
             "stakes": [
-              "¿Sentará esta decisión un precedente para otras víctimas que buscan indemnización?",
-              "¿Cómo adapta la Iglesia católica sus respuestas financieras y morales ante los escándalos?"
+              "¿Qué impactos tendrá esta disminución de llegadas en los sectores económicos con escasez de mano de obra en el Reino Unido?",
+              "¿Cómo influirá esta evolución política y estadística en el debate público sobre la inmigración?"
             ],
             "chart": null
           }
         }
       },
       {
-        "id": "scb7f1f4e9f",
-        "topic": "economie",
-        "title": "La Banque d'Angleterre met en garde contre les risques du financement massif de l'intelligence artificielle",
-        "context": "Le secteur technologique attire des investissements colossaux qui transforment les marchés financiers mondiaux et suscitent l'attention des autorités de régulation.",
-        "summary": "La Banque d'Angleterre a publié une alerte concernant l'ampleur et la rapidité des financements alloués au secteur de l'intelligence artificielle. Si ces investissements stimulent actuellement la croissance économique mondiale, l'institution financière prévient qu'ils rendent aussi le système bancaire plus vulnérable aux chocs et aux retournements de tendance. Parallèlement, les autorités examinent de près les règles d'accès aux puces électroniques avancées pour encadrer la concurrence internationale.",
-        "plain": "La Banque d'Angleterre prévient que les sommes géantes investies dans l'intelligence artificielle font courir un risque d'instabilité pour l'économie mondiale.",
+        "id": "s77a4414c9e",
+        "topic": "international",
+        "title": "La coalition de Gadi Eisenkot en Israël en quête de majorités politiques",
+        "context": "La vie politique israélienne est traversée par des recompositions fréquentes et des contestations judiciaires concernant les dirigeants en place, sur fond de conflits régionaux persistants.",
+        "summary": "En Israël, le parti Yashar mené par Gadi Eisenkot a noué un nouvel accord de coalition avec le parti de gauche Les Démocrates, après un accord similaire conclu avec une formation de droite. Cette alliance constitue une étape dans les efforts de l'opposition pour tenter de bâtir une majorité à la Knesset, le parlement israélien, et de proposer une alternative au gouvernement en place.",
+        "plain": "En Israël, l'opposition cherche à rassembler des partis de bords différents pour former une coalition majoritaire au parlement et tenter de changer de gouvernement.",
         "chart": null,
         "stakes": [
-          "Quels garde-fous financiers peuvent être mis en place face à la spéculation technologique ?",
-          "Comment l'essor de l'intelligence artificielle modifie-t-il la régulation économique ?"
+          "L'opposition parviendra-t-elle à réunir le nombre de sièges nécessaire pour renverser la majorité actuelle ?",
+          "Quelles orientations politiques émergeront de ces alliances hétérogènes ?"
         ],
         "sources": [
           {
-            "name": "The Wall Street Journal",
-            "title": "BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability",
-            "link": "https://www.wsj.com/world/uk/boe-warns-scale-and-breadth-of-ai-financing-poses-threat-to-financial-stability-005ad739?mod=rss_worldnews",
-            "publishedAt": "2026-11-26T11:37:00.000Z",
+            "name": "Le Monde (International)",
+            "title": "Israël : Gadi Eisenkot et le parti de gauche Les Démocrates nouent un accord de coalition, premier pas vers la formation d’un gouvernement",
+            "link": "https://www.lemonde.fr/international/article/2026/11/26/israel-gadi-eisenkot-et-le-parti-de-gauche-les-democrates-nouent-un-accord-de-coalition-premier-pas-vers-la-formation-d-un-gouvernement_6815576_3210.html",
+            "publishedAt": "2026-11-26T17:08:19.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "As he races to unseat Netanyahu, Eisenkot reaches deal with left-wing party",
+            "link": "https://www.washingtonpost.com/world/2026/11/26/he-races-unseat-netanyahu-eisenkot-reaches-deal-with-left-wing-party/",
+            "publishedAt": "2026-11-26T17:40:41.000Z",
             "lang": "en",
             "country": "US"
+          },
+          {
+            "name": "The Hindu",
+            "title": "Israel's Gadi Eisenkot reaches deal with left-wing parties",
+            "link": "https://www.thehindu.com/news/international/israels-gadi-eisenkot-reaches-deal-with-left-wing-parties/article71747775.ece",
+            "publishedAt": "2026-11-26T16:16:44.000Z",
+            "lang": "en",
+            "country": "IN"
           }
         ],
         "image": {
-          "url": "https://images.wsj.net/im-71576640",
-          "credit": "The Wall Street Journal",
-          "link": "https://www.wsj.com/world/uk/boe-warns-scale-and-breadth-of-ai-financing-poses-threat-to-financial-stability-005ad739?mod=rss_worldnews"
+          "url": "https://img.lemde.fr/2026/11/25/565/0/6779/3389/644/322/60/0/e4b4592_ftp-1-cvbs6g2qhppg-afp-d8l368z.jpg",
+          "credit": "Le Monde (International)",
+          "link": "https://www.lemonde.fr/international/article/2026/11/26/israel-gadi-eisenkot-et-le-parti-de-gauche-les-democrates-nouent-un-accord-de-coalition-premier-pas-vers-la-formation-d-un-gouvernement_6815576_3210.html"
         },
         "i18n": {
           "en": {
-            "title": "Bank of England warns of risks from massive financing of artificial intelligence",
-            "context": "The technology sector is attracting colossal investments that are transforming global financial markets and drawing the attention of regulatory authorities.",
-            "summary": "The Bank of England has issued a warning regarding the scale and speed of financing allocated to the artificial intelligence sector. While these investments are currently boosting global economic growth, the financial institution warns that they also make the banking system more vulnerable to shocks and reversals of trends. At the same time, authorities are closely examining the rules of access to advanced computer chips to regulate international competition.",
-            "plain": "The Bank of England warns that the giant sums invested in artificial intelligence pose a risk of instability for the global economy.",
+            "title": "Gadi Eisenkot's coalition in Israel seeks political majorities",
+            "context": "Israeli political life is marked by frequent realignments and legal challenges concerning current leaders, against a backdrop of persistent regional conflicts.",
+            "summary": "In Israel, the Yashar party led by Gadi Eisenkot has forged a new coalition agreement with the left-wing party The Democrats, following a similar agreement concluded with a right-wing formation. This alliance constitutes a step in the opposition's efforts to try to build a majority in the Knesset, the Israeli parliament, and to propose an alternative to the current government.",
+            "plain": "In Israel, the opposition is seeking to bring together parties from different sides to form a majority coalition in parliament and try to change the government.",
             "stakes": [
-              "What financial safeguards can be put in place against technological speculation?",
-              "How is the rise of artificial intelligence altering economic regulation?"
+              "Will the opposition manage to gather the number of seats necessary to overturn the current majority?",
+              "What political orientations will emerge from these heterogeneous alliances?"
             ],
             "chart": null
           },
           "es": {
-            "title": "El Banco de Inglaterra advierte sobre los riesgos de la financiación masiva de la inteligencia artificial",
-            "context": "El sector tecnológico atrae inversiones colosales que transforman los mercados financieros mundiales y suscitan la atención de las autoridades reguladoras.",
-            "summary": "El Banco de Inglaterra ha publicado una alerta sobre la magnitud y la rapidez de la financiación destinada al sector de la inteligencia artificial. Aunque estas inversiones estimulan actualmente el crecimiento económico mundial, la institución financiera advierte que también hacen que el sistema bancario sea más vulnerable a los choques y a los cambios de tendencia. Paralelamente, las autoridades examinan de cerca las normas de acceso a los chips electrónicos avanzados para regular la competencia internacional.",
-            "plain": "El Banco de Inglaterra advierte que las sumas gigantescas invertidas en inteligencia artificial generan un riesgo de inestabilidad para la economía mundial.",
+            "title": "La coalición de Gadi Eisenkot en Israel en busca de mayorías políticas",
+            "context": "La vida política israelí está atravesada por recomposiciones frecuentes y disputas judiciales relativas a los dirigentes en el poder, con un trasfondo de conflictos regionales persistentes.",
+            "summary": "En Israel, el partido Yashar liderado por Gadi Eisenkot ha alcanzado un nuevo acuerdo de coalición con el partido de izquierda Los Demócratas, tras un pacto similar concluido con una formación de derecha. Esta alianza constituye un paso en los esfuerzos de la oposición por intentar construir una mayoría en la Knéset, el parlamento israelí, y proponer una alternativa al gobierno actual.",
+            "plain": "En Israel, la oposición busca reunir a partidos de diferentes tendencias para formar una coalición mayoritaria en el parlamento e intentar cambiar de gobierno.",
             "stakes": [
-              "¿Qué salvaguardas financieras se pueden establecer frente a la especulación tecnológica?",
-              "¿Cómo modifica el auge de la inteligencia artificial la regulación económica?"
+              "¿Logrará la oposición reunir el número de escaños necesario para derrocar a la mayoría actual?",
+              "¿Qué orientaciones políticas surgirán de estas alianzas heterogéneas?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s71d6f58091",
+        "topic": "economie",
+        "title": "Restrictions sur les exportations de serveurs d'intelligence artificielle vers l'Asie du Sud-Est",
+        "context": "Les États-Unis exercent une surveillance accrue sur les flux technologiques mondiaux, notamment en matière de puces électroniques et de serveurs informatiques avancés, afin d'empêcher le contournement des sanctions visant la Chine.",
+        "summary": "Les entreprises technologiques américaines, dont Nvidia, ont reçu des consignes de Washington et de leurs partenaires pour suspendre l'expédition de serveurs informatiques sophistiqués vers certains pays d'Asie du Sud-Est, notamment la Malaisie, Singapour, la Thaïlande et l'Indonésie. Cette décision vise à combler les failles permettant à des acheteurs chinois d'accéder indirectement à des capacités de calcul avancées.",
+        "plain": "Les États-Unis renforcent leurs contrôles technologiques en interdisant l'envoi de serveurs informatiques puissants vers plusieurs pays d'Asie du Sud-Est pour éviter que la Chine n'en profite.",
+        "chart": null,
+        "stakes": [
+          "Quel sera l'impact de ces restrictions sur les marchés technologiques de la région Asie-Pacifique ?",
+          "Les entreprises chinoises trouveront-elles de nouvelles méthodes pour contourner ces barrières matérielles ?"
+        ],
+        "sources": [
+          {
+            "name": "The Wall Street Journal",
+            "title": "Nvidia Tells Partners to Pause Shipments to Southeast Asia",
+            "link": "https://www.wsj.com/tech/nvidia-tells-partners-to-pause-shipments-to-southeast-asia-5b791cb0?mod=rss_worldnews",
+            "publishedAt": "2026-11-26T17:06:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Hindu",
+            "title": "Nvidia stops shipping AI servers to four Southeast Asian nations",
+            "link": "https://www.thehindu.com/news/international/nvidia-stops-shipping-ai-servers-to-four-southeast-asian-nations/article71747898.ece",
+            "publishedAt": "2026-11-26T17:26:12.000Z",
+            "lang": "en",
+            "country": "IN"
+          }
+        ],
+        "image": {
+          "url": "https://images.wsj.net/im-68022991",
+          "credit": "The Wall Street Journal",
+          "link": "https://www.wsj.com/tech/nvidia-tells-partners-to-pause-shipments-to-southeast-asia-5b791cb0?mod=rss_worldnews"
+        },
+        "i18n": {
+          "en": {
+            "title": "Restrictions on exports of artificial intelligence servers to Southeast Asia",
+            "context": "The United States is exercising increased surveillance over global technology flows, particularly regarding electronic chips and advanced computer servers, to prevent the circumvention of sanctions targeting China.",
+            "summary": "American tech companies, including Nvidia, have received instructions from Washington and their partners to suspend the shipment of sophisticated computer servers to certain Southeast Asian countries, notably Malaysia, Singapore, Thailand, and Indonesia. This decision aims to close loopholes allowing Chinese buyers to indirectly access advanced computing capabilities.",
+            "plain": "The United States is tightening its technological controls by banning the shipment of powerful computer servers to several Southeast Asian countries to prevent China from benefiting from them.",
+            "stakes": [
+              "What will be the impact of these restrictions on technology markets in the Asia-Pacific region?",
+              "Will Chinese companies find new methods to bypass these hardware barriers?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Restricciones a las exportaciones de servidores de inteligencia artificial al Sudeste Asiático",
+            "context": "Estados Unidos ejerce una mayor vigilancia sobre los flujos tecnológicos mundiales, especialmente en lo que respecta a los microchips y servidores informáticos avanzados, para impedir la elusión de las sanciones dirigidas contra China.",
+            "summary": "Empresas tecnológicas estadounidenses, entre ellas Nvidia, han recibido instrucciones de Washington y de sus socios para suspender el envío de servidores informáticos sofisticados a ciertos países del Sudeste Asiático, en particular Malasia, Singapur, Tailandia e Indonesia. Esta decisión pretende cerrar las brechas que permiten a los compradores chinos acceder indirectamente a capacidades de cálculo avanzadas.",
+            "plain": "Estados Unidos refuerza sus controles tecnológicos prohibiendo el envío de potentes servidores informáticos a varios países del Sudeste Asiático para evitar que China se beneficie de ellos.",
+            "stakes": [
+              "¿Cuál será el impacto de estas restricciones en los mercados tecnológicos de la región de Asia-Pacífico?",
+              "¿Encontrarán las empresas chinas nuevos métodos para sortear estas barreras de hardware?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s2a5639e7ec",
+        "topic": "economie",
+        "title": "Incertitudes persistantes autour du projet de budget de la Sécurité sociale pour 2027",
+        "context": "Le vote des lois de financement de la Sécurité sociale donne traditionnellement lieu à des débats intenses et à des désaccords profonds entre l'Assemblée nationale et le Sénat en France.",
+        "summary": "La commission mixte paritaire réunissant députés et sénateurs n'est pas parvenue à un accord sur une version commune du texte concernant le budget de la « Sécu » pour l'année 2027. Le Premier ministre Sébastien Lecornu a pris acte de cette absence de compromis à ce stade, laissant planer l'incertitude sur la suite de la navette parlementaire et sur l'adoption définitive du texte budgétaire.",
+        "plain": "Les députés et les sénateurs n'ont pas réussi à se mettre d'accord sur le texte du budget de la Sécurité sociale pour 2027. Le gouvernement fait face à une impasse parlementaire sur ce sujet financier majeur.",
+        "chart": null,
+        "stakes": [
+          "Quelle procédure le gouvernement choisira-t-il pour surmonter le blocage parlementaire sur le budget social ?",
+          "Quelles conséquences l'absence de compromis aura-t-elle sur le financement des prestations de santé ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Budget de la « Sécu » pour 2027 : un compromis à ce stade introuvable",
+            "link": "https://www.lemonde.fr/politique/article/2026/11/26/budget-de-la-secu-pour-2027-un-compromis-a-ce-stade-introuvable_6815592_823448.html",
+            "publishedAt": "2026-11-26T18:49:08.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/10/20/699/0/8062/4031/644/322/60/0/a7460d9_ftp-1-fsmb5997fupf-afp-d3va8uq.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/politique/article/2026/11/26/budget-de-la-secu-pour-2027-un-compromis-a-ce-stade-introuvable_6815592_823448.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Persistent uncertainties surrounding the Social Security budget bill for 2027",
+            "context": "The voting of Social Security financing laws traditionally gives rise to intense debates and deep disagreements between the National Assembly and the Senate in France.",
+            "summary": "The joint committee bringing together deputies and senators failed to reach an agreement on a common version of the text concerning the \"Secu\" budget for the year 2027. Prime Minister Sébastien Lecornu took note of this absence of compromise at this stage, leaving uncertainty hanging over the continuation of the parliamentary shuttle and the final adoption of the budget text.",
+            "plain": "Deputies and senators failed to agree on the Social Security budget text for 2027. The government faces a parliamentary deadlock on this major financial issue.",
+            "stakes": [
+              "What procedure will the government choose to overcome the parliamentary blockage on the social budget?",
+              "What consequences will the lack of compromise have on the financing of health benefits?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Incertidumbres persistentes en torno al proyecto de presupuesto de la Seguridad Social para 2027",
+            "context": "La votación de las leyes de financiación de la Seguridad Social suele dar lugar a intensos debates y profundos desacuerdos entre la Asamblea Nacional y el Senado en Francia.",
+            "summary": "La comisión mixta paritaria que reúne a diputados y senadores no logró un acuerdo sobre una versión común del texto relativo al presupuesto de la «Secu» para el año 2027. El primer ministro Sébastien Lecornu tomó nota de esta falta de compromiso en esta etapa, dejando incertidumbre sobre la continuación del trámite parlamentario y la adopción definitiva del texto presupuestario.",
+            "plain": "Los diputados y senadores no lograron ponerse de acuerdo sobre el texto del presupuesto de la Seguridad Social para 2027. El gobierno se enfrenta a un callejón sin salida parlamentario en este importante asunto financiero.",
+            "stakes": [
+              "¿Qué procedimiento elegirá el gobierno para superar el bloqueo parlamentario sobre el presupuesto social?",
+              "¿Qué consecuencias tendrá la falta de compromiso en la financiación de las prestaciones sanitarias?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s07b3236a27",
+        "topic": "societe",
+        "title": "Mobilisations étudiantes dans plusieurs villes de France pour le supérieur",
+        "context": "Les organisations étudiantes et lycéennes appellent régulièrement à des mobilisations pour contester les conditions de vie et d'études dans les universités et les établissements d'enseignement secondaire.",
+        "summary": "Plusieurs milliers d'étudiants ont manifesté dans plusieurs villes françaises, notamment à Paris, pour réclamer de meilleures conditions matérielles dans l'enseignement supérieur, l'attribution de postes supplémentaires et des aménagements de calendrier à l'approche des examens. Si le nombre de blocages physiques d'établissements est en diminution, les syndicats étudiants annoncent de nouvelles actions.",
+        "plain": "Des étudiants ont manifesté en France pour demander plus de moyens pour l'université et de meilleures conditions de travail. D'autres mobilisations sont prévues prochainement.",
+        "chart": null,
+        "stakes": [
+          "Comment les universités concilieront-elles les revendications d'amélioration des conditions d'études avec leurs contraintes budgétaires ?",
+          "Quel sera l'impact des mouvements étudiants sur le déroulement de la session d'examens à venir ?"
+        ],
+        "sources": [
+          {
+            "name": "Ouest-France",
+            "title": "Quelques milliers d’étudiants ont manifesté ce jeudi en France, de nouvelles mobilisations annoncées pour samedi",
+            "link": "https://www.ouest-france.fr/education/etudiant/quelques-milliers-detudiants-ont-manifeste-ce-jeudi-en-france-de-nouvelles-mobilisations-annoncees-pour-samedi-cd318362-e9c0-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-26T18:36:22.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "L'Humanité",
+            "title": "À l’approche des partiels, les étudiants mobilisés à Paris cherchent à pérenniser le mouvement",
+            "link": "https://www.humanite.fr/societe/enseignement-superieur/a-lapproche-des-partiels-les-etudiants-mobilises-a-paris-cherchent-a-perenniser-le-mouvement",
+            "publishedAt": "2026-11-26T18:31:14.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExNDhhZTdhOWVhODZjOGFhMWYwMTk4OTY4NDRmMWI2ZTE?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=e2dfa1493cb71b9b0ec569bf1f25f06e003f303387ea20fd82a669cdbaf26811",
+          "credit": "Ouest-France",
+          "link": "https://www.ouest-france.fr/education/etudiant/quelques-milliers-detudiants-ont-manifeste-ce-jeudi-en-france-de-nouvelles-mobilisations-annoncees-pour-samedi-cd318362-e9c0-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+        },
+        "i18n": {
+          "en": {
+            "title": "Student protests in several French cities over higher education",
+            "context": "Student and high school organizations regularly call for protests to contest living and study conditions in universities and secondary education institutions.",
+            "summary": "Several thousand students demonstrated in several French cities, notably in Paris, to demand better material conditions in higher education, the allocation of additional positions, and schedule adjustments as exams approach. While the number of physical blockades of institutions is decreasing, student unions are announcing further actions.",
+            "plain": "Students demonstrated in France to demand more resources for university and better working conditions. Further protests are planned soon.",
+            "stakes": [
+              "How will universities reconcile demands for improved study conditions with their budgetary constraints?",
+              "What will be the impact of the student movements on the upcoming exam session?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Movilizaciones estudiantiles en varias ciudades de Francia para la educación superior",
+            "context": "Las organizaciones estudiantiles y de secundaria convocan regularmente movilizaciones para protestar contra las condiciones de vida y estudio en las universidades y los centros de enseñanza secundaria.",
+            "summary": "Varios miles de estudiantes se manifestaron en varias ciudades francesas, especialmente en París, para reclamar mejores condiciones materiales en la enseñanza superior, la asignación de plazas adicionales y adaptaciones de calendario de cara a los exámenes. Aunque el número de bloqueos físicos de los centros está disminuyendo, los sindicatos estudiantiles anuncian nuevas acciones.",
+            "plain": "Estudiantes se manifestaron en Francia para pedir más recursos para la universidad y mejores condiciones de trabajo. Se prevén nuevas movilizaciones próximamente.",
+            "stakes": [
+              "¿Cómo conciliarán las universidades las reivindicaciones de mejora de las condiciones de estudio con sus limitaciones presupuestarias?",
+              "¿Cuál será el impacto de los movimientos estudiantiles en el desarrollo de la próxima sesión de exámenes?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sf0b4016d08",
+        "topic": "economie",
+        "title": "Baisse du nombre de jeunes sans emploi ni formation au Royaume-Uni",
+        "context": "L'insertion professionnelle des jeunes et la gestion du chômage constituent des indicateurs économiques suivis de près par les gouvernements européens et les institutions économiques.",
+        "summary": "Le nombre de jeunes Britanniques ne figurant dans aucun parcours d'éducation, d'emploi ou de formation est repassé sous la barre du million. Les autorités locales et nationales saluent cette évolution positive tout en poursuivant les efforts pour endiguer la crise de l'insertion professionnelle des jeunes, qui reste proche de ses niveaux les plus élevés observés au cours de la décennie.",
+        "plain": "Le nombre de jeunes au Royaume-Uni qui ne travaillent pas, n'étudient pas et ne suivent aucune formation est repassé en dessous du million, même s'il reste à un niveau élevé.",
+        "chart": null,
+        "stakes": [
+          "Quelles politiques publiques s'avéreront les plus efficaces pour pérenniser l'insertion des jeunes sur le marché du travail ?",
+          "Comment l'évolution de la conjoncture économique influencera-t-elle l'emploi des jeunes dans les prochains mois ?"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "title": "Number of Neets in UK falls below a million as Burnham pushes to tackle crisis",
+            "link": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
+            "publishedAt": "2026-11-26T18:43:13.000Z",
+            "lang": "en",
+            "country": "GB"
+          }
+        ],
+        "image": {
+          "url": "https://i.guim.co.uk/img/media/5ed2a70981b6249eff2491c184d3503f49eccad9/1_340_3616_2893/master/3616.jpg?width=140&quality=85&auto=format&fit=max&s=a3bb2ea7ae7878a2f31ef25c20f8c9dd",
+          "credit": "The Guardian",
+          "link": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham"
+        },
+        "i18n": {
+          "en": {
+            "title": "Drop in the number of young people without employment or training in the United Kingdom",
+            "context": "Youth labor market integration and unemployment management are economic indicators closely monitored by European governments and economic institutions.",
+            "summary": "The number of young Britons not in any education, employment, or training program has fallen back below the one-million mark. Local and national authorities welcome this positive development while continuing efforts to curb the youth employment integration crisis, which remains close to its highest levels observed over the decade.",
+            "plain": "The number of young people in the United Kingdom who are not working, studying, or in any training has fallen back below one million, even though it remains at a high level.",
+            "stakes": [
+              "Which public policies will prove most effective in sustaining the integration of young people into the labor market?",
+              "How will economic trends influence youth employment in the coming months?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Descenso del número de jóvenes sin empleo ni formación en el Reino Unido",
+            "context": "La inserción laboral de los jóvenes y la gestión del desempleo constituyen indicadores económicos seguidos de cerca por los gobiernos europeos y las instituciones económicas.",
+            "summary": "El número de jóvenes británicos que no figuran en ningún programa de educación, empleo o formación ha vuelto a situarse por debajo del umbral del millón. Las autoridades locales y nacionales celebran esta evolución positiva al tiempo que continúan los esfuerzos para frenar la crisis de inserción laboral de los jóvenes, que sigue estando cerca de sus niveles más altos observados durante la década.",
+            "plain": "El número de jóvenes en el Reino Unido que no trabajan, no estudian y no siguen ninguna formación ha vuelto a bajar de un millón, aunque se mantiene en un nivel elevado.",
+            "stakes": [
+              "¿Qué políticas públicas resultarán más eficaces para consolidar la inserción de los jóvenes en el mercado laboral?",
+              "¿Cómo influirá la evolución de la coyuntura económica en el empleo juvenil en los próximos meses?"
             ],
             "chart": null
           }
@@ -600,288 +1048,60 @@
     ],
     "monde": [
       {
-        "id": "sce3f9305ad",
-        "topic": "international",
-        "title": "Guerre en Ukraine : frappes massives et bilan humain en hausse",
-        "context": "Le conflit armé entre la Russie et l'Ukraine se poursuit avec des bombardements intemporels visant les infrastructures et des estimations de pertes humaines lourdes.",
-        "summary": "La Russie a mené de nouvelles attaques massives touchant des infrastructures énergétiques et d'approvisionnement en Ukraine, tandis que des frappes ont également touché des zones occupées comme Saporischschja. Parallèlement, des données d'enquêtes indépendantes estiment à plus de 700 000 le nombre de militaires russes morts depuis le début du conflit, un chiffre rejeté par le Kremlin. D'autre part, des incidents et des tensions persistent, impliquant des mercenaires ou des équipements militaires dans plusieurs régions.",
-        "plain": "La guerre en Ukraine continue de faire de nombreuses victimes et entraîne des destructions importantes, en particulier sur les réseaux d'énergie. Les bilans sur les pertes militaires russes augmentent fortement selon des sources indépendantes, bien que Moscou conteste ces estimations.",
+        "id": "s8e894356da",
+        "topic": "sciences_tech",
+        "title": "Cyberattaque contre la FIFA et vol de données informatiques",
+        "context": "La Fédération internationale de football association (la FIFA, l'instance dirigeante du football mondial) gère des flux importants d'informations personnelles et commerciales.",
+        "summary": "La FIFA a confirmé avoir été la cible d'une cyberattaque menée par des hackers qui ont accédé à un ensemble limité de données personnelles et professionnelles. Cet incident informatique survient dans une période délicate pour l'organisation et son président Gianni Infantino, alors que l'institution fait déjà l'objet de différentes controverses et d'enquêtes sur ses projets d'organisation de compétitions.",
+        "plain": "La FIFA a subi un piratage informatique qui a permis à des pirates d'accéder à des informations personnelles et d'entreprise. Cet événement complique un peu plus la situation de l'organisation sportive.",
         "chart": null,
         "stakes": [
-          "Quelles seront les conséquences à long terme des destructions sur les réseaux énergétiques ukrainiens ?",
-          "Comment les estimations des pertes humaines influenceront-elles la mobilisation en Russie ?"
+          "Quelles failles de sécurité ont permis cette intrusion au sein des serveurs de la fédération internationale ?",
+          "Quelles mesures seront exigées pour garantir la protection future des données gérées par les instances sportives ?"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "title": "Krieg gegen die Ukraine: Angriffe auf Kiew - Tote in Saporischschja",
-            "link": "https://www.tagesschau.de/ausland/europa/tote-nach-russischen-angriffen-ukraine-100.html",
-            "publishedAt": "2026-11-26T13:20:47.000Z",
-            "lang": "de",
-            "country": "DE"
-          },
-          {
-            "name": "Fox News",
-            "title": "Putin's war death toll reportedly tops 700,000 as Russia scrambles for recruits",
-            "link": "https://www.foxnews.com/world/putins-war-death-toll-reportedly-tops-700000-russia-scrambles-recruits",
-            "publishedAt": "2026-11-25T19:34:13.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "Le Monde (International)",
-            "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky accuse la Russie de préparer de nouvelles frappes massives sur des « infrastructures énergétiques et logistiques »",
-            "link": "https://www.lemonde.fr/international/live/2026/11/26/en-direct-guerre-en-ukraine-un-mort-dans-l-oblast-de-kherson-des-foyers-prives-d-electricite-dans-sept-regions-apres-des-attaques-russes_6814183_3210.html",
-            "publishedAt": "2026-11-26T10:06:52.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://images.tagesschau.de/image/92855586-195c-44ac-9b56-dcd3e49b66fb/AAABohbPWTI/AAABnSSvrFg/16x9-big/kiew-584.jpg?width=1920",
-          "credit": "Tagesschau",
-          "link": "https://www.tagesschau.de/ausland/europa/tote-nach-russischen-angriffen-ukraine-100.html"
-        },
-        "i18n": {
-          "en": {
-            "title": "War in Ukraine: massive strikes and rising human toll",
-            "context": "The armed conflict between Russia and Ukraine continues with ongoing bombardments targeting infrastructure and heavy estimates of human casualties.",
-            "summary": "Russia has carried out new massive attacks hitting energy and supply infrastructure in Ukraine, while strikes have also hit occupied areas such as Zaporizhzhia. Meanwhile, data from independent investigations estimate that over 700,000 Russian military personnel have died since the start of the conflict, a figure rejected by the Kremlin. On the other hand, incidents and tensions persist, involving mercenaries or military equipment in several regions.",
-            "plain": "The war in Ukraine continues to cause numerous casualties and significant destruction, particularly to energy networks. Estimates of Russian military losses are rising sharply according to independent sources, although Moscow disputes these figures.",
-            "stakes": [
-              "What will be the long-term consequences of the destruction on Ukrainian energy networks?",
-              "How will estimates of human casualties influence mobilization in Russia?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Guerra en Ucrania: ataques masivos y aumento del balance humano",
-            "context": "El conflicto armado entre Rusia y Ucrania continúa con bombardeos constantes dirigidos contra infraestructuras y estimaciones de elevadas pérdidas humanas.",
-            "summary": "Rusia ha llevado a cabo nuevos ataques masivos que afectaron infraestructuras energéticas y de suministro en Ucrania, mientras que los bombardeos también alcanzaron zonas ocupadas como Zaporiyia. Paralelamente, datos de investigaciones independientes estiman en más de 700.000 los militares rusos muertos desde el inicio del conflicto, una cifra rechazada por el Kremlin. Por otra parte, persisten incidentes y tensiones que involucran a mercenarios o equipos militares en varias regiones.",
-            "plain": "La guerra en Ucrania sigue cobrándose numerosas víctimas y provoca importantes destrozos, especialmente en las redes energéticas. Los balances sobre las pérdidas militares rusas aumentan fuertemente según fuentes independientes, aunque Moscú rechaza estas estimaciones.",
-            "stakes": [
-              "¿Cuáles serán las consecuencias a largo plazo de la destrucción en las redes energéticas ucranianas?",
-              "¿Cómo influirán las estimaciones de bajas humanas en la movilización en Rusia?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s980c00c42b",
-        "topic": "international",
-        "title": "Élections législatives anticipées en Espagne sur fond de crise du logement",
-        "context": "L'Espagne s'apprête à renouveler son parlement lors d'un scrutin où les équilibres politiques entre la gauche et la droite sont incertains.",
-        "summary": "Les électeurs espagnols sont appelés aux urnes pour des élections législatives anticipées dans un contexte marqué par les difficultés d'accès au logement et les tensions économiques. Alors que le gouvernement socialiste sortant tente de se maintenir, les simulations électorales placent l'alliance des droites en position de force, bien que sa dépendance à un blocage politique reste un défi majeur.",
-        "plain": "L'Espagne organise des élections législatives anticipées où la question du logement pèse lourdement sur le choix des électeurs. La droite espère remporter le scrutin face au gouvernement socialiste en place, dans un climat politique très polarisé.",
-        "chart": null,
-        "stakes": [
-          "Quelle sera la configuration de la future majorité gouvernementale en Espagne ?",
-          "Quelles solutions seront apportées à la crise du logement par le nouveau pouvoir ?"
-        ],
-        "sources": [
-          {
-            "name": "Le JDD",
-            "title": "Après l’Italie, l’Espagne va-t-elle choisir l’union des droites contre Pedro Sánchez ?",
-            "link": "https://www.lejdd.fr/International/apres-litalie-lespagne-va-t-elle-choisir-lunion-des-droites-contre-pedro-sanchez-189753",
-            "publishedAt": "2026-11-26T13:46:27.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "BBC News",
-            "title": "Spanish elections: What you need to know and what's at stake",
-            "link": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-26T00:23:49.000Z",
+            "name": "The Guardian",
+            "title": "Fifa confirms cyber-attack exposed ‘personal and business information’",
+            "link": "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information",
+            "publishedAt": "2026-11-26T18:45:44.000Z",
             "lang": "en",
             "country": "GB"
           },
           {
-            "name": "The Washington Post",
-            "title": "In a Europe wary of migrants, Spain’s anti-Trump is on the ropes",
-            "link": "https://www.washingtonpost.com/world/2026/11/25/kilmar-abrego-garcia-arrives-spain-where-europes-anti-trump-is-ropes/",
-            "publishedAt": "2026-11-25T19:05:09.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "France 24",
-            "title": "Législatives anticipées en Espagne : le logement au cœur du scrutin",
-            "link": "https://www.france24.com/fr/%C3%A9missions/focus/20261126-l%C3%A9gislatives-anticip%C3%A9es-en-espagne-le-logement-au-c%C5%93ur-du-scrutin",
-            "publishedAt": "2026-11-26T13:30:23.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/26/14/sipa_sipahub60251538_000079.jpg?VersionId=8vi2jLjiv4QCDpY1uGTcdBVOhF1b8v5v",
-          "credit": "Le JDD",
-          "link": "https://www.lejdd.fr/International/apres-litalie-lespagne-va-t-elle-choisir-lunion-des-droites-contre-pedro-sanchez-189753"
-        },
-        "i18n": {
-          "en": {
-            "title": "Early legislative elections in Spain against the backdrop of the housing crisis",
-            "context": "Spain is preparing to renew its parliament in an election where the political balances between the left and right remain uncertain.",
-            "summary": "Spanish voters are called to the polls for early legislative elections in a context marked by difficulties in accessing housing and economic tensions. While the outgoing socialist government tries to hold onto power, electoral simulations place the right-wing alliance in a position of strength, although its dependence on a political stalemate remains a major challenge.",
-            "plain": "Spain is holding early legislative elections where the housing issue weighs heavily on voters' choices. The right hopes to win the election against the incumbent socialist government in a highly polarized political climate.",
-            "stakes": [
-              "What will be the configuration of the future government majority in Spain?",
-              "What solutions will the new power bring to the housing crisis?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Elecciones generales anticipadas en España en un contexto de crisis de la vivienda",
-            "context": "España se dispone a renovar su parlamento en unos comicios donde los equilibrios políticos entre la izquierda y la derecha son inciertos.",
-            "summary": "Los votantes españoles están llamados a las urnas para unas elecciones legislativas anticipadas en un contexto marcado por las dificultades de acceso a la vivienda y las tensiones económicas. Mientras el gobierno socialista saliente intenta mantenerse en el poder, las simulaciones electorales sitúan a la alianza de derechas en una posición de fuerza, aunque su dependencia de un bloqueo político sigue siendo un desafío importante.",
-            "plain": "España celebra elecciones legislativas anticipadas en las que la cuestión de la vivienda pesa fuertemente en la decisión de los votantes. La derecha espera ganar los comicios frente al gobierno socialista en el poder, en un clima político muy polarizado.",
-            "stakes": [
-              "¿Cuál será la configuración de la futura mayoría gubernamental en España?",
-              "¿Qué soluciones aportará el nuevo poder a la crisis de la vivienda?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s34a964b315",
-        "topic": "international",
-        "title": "Tensions économiques et mesures d'austérité en Iran",
-        "context": "L'économie iranienne subit de fortes pressions en raison des sanctions internationales et des conflits prolongés.",
-        "summary": "L'Iran a mis en place des réductions drastiques sur les subventions accordées aux produits de première nécessité, tels que le carburant et le pain. Cette politique d'austérité, dictée par la situation économique sous pression américaine, accentue le mécontentement populaire et met en lumière des divisions politiques internes.",
-        "plain": "Sous l'effet des sanctions et des difficultés économiques, l'Iran supprime des aides financières sur des denrées de base comme le pain et l'essence. Cette situation aggrave la colère de la population et fragilise le pouvoir en place.",
-        "chart": null,
-        "stakes": [
-          "Quelles conséquences sociales ces coupes budgétaires auront-elles sur les ménages iraniens ?",
-          "Ces mesures d'austérité modifieront-elles la stratégie géopolitique du pays ?"
-        ],
-        "sources": [
-          {
-            "name": "The Washington Post",
-            "title": "Iranians’ frustrations grow as Tehran, under U.S. pressure, imposes austerity",
-            "link": "https://www.washingtonpost.com/world/2026/11/26/tehran-imposes-austerity-under-us-pressure-iranians-frustrations-grow/",
-            "publishedAt": "2026-11-26T10:00:00.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "The Wall Street Journal",
-            "title": "A ‘Silent War’ Grips Iran as Its Economy Strains Under U.S. Blockade",
-            "link": "https://www.wsj.com/world/middle-east/a-silent-war-grips-iran-as-its-economy-strains-under-u-s-blockade-36bfa5d4?mod=rss_worldnews",
-            "publishedAt": "2026-11-26T03:00:00.000Z",
-            "lang": "en",
-            "country": "US"
-          }
-        ],
-        "image": {
-          "url": "https://images.wsj.net/im-75636203",
-          "credit": "The Wall Street Journal",
-          "link": "https://www.wsj.com/world/middle-east/a-silent-war-grips-iran-as-its-economy-strains-under-u-s-blockade-36bfa5d4?mod=rss_worldnews"
-        },
-        "i18n": {
-          "en": {
-            "title": "Economic tensions and austerity measures in Iran",
-            "context": "The Iranian economy is facing severe pressures due to international sanctions and prolonged conflicts.",
-            "summary": "Iran has implemented drastic cuts to subsidies granted for basic necessities, such as fuel and bread. This austerity policy, dictated by the economic situation under American pressure, is increasing popular discontent and highlighting internal political divisions.",
-            "plain": "Due to sanctions and economic difficulties, Iran is cutting financial aid on basic foodstuffs such as bread and gasoline. This situation worsens public anger and weakens the ruling power.",
-            "stakes": [
-              "What social consequences will these budget cuts have on Iranian households?",
-              "Will these austerity measures alter the country's geopolitical strategy?"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Tensiones económicas y medidas de austeridad en Irán",
-            "context": "La economía iraní sufre fuertes presiones debido a las sanciones internacionales y a los conflictos prolongados.",
-            "summary": "Irán ha implementado recortes drásticos en los subsidios concedidos a los productos de primera necesidad, como el carburante y el pan. Esta política de austeridad, dictada por la situación económica bajo presión estadounidense, acentúa el descontento popular y pone de relieve las divisiones políticas internas.",
-            "plain": "A causa de las sanciones y de las dificultades económicas, Irán suprime ayudas financieras a productos básicos como el pan y la gasolina. Esta situación agrava el descontento de la población y debilita al poder en funciones.",
-            "stakes": [
-              "¿Qué consecuencias sociales tendrán estos recortes presupuestarios en los hogares iraníes?",
-              "¿Modificarán estas medidas de austeridad la estrategia geopolítica del país?"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "sd6516dffe8",
-        "topic": "international",
-        "title": "Sanctions et tensions autour des technologies de puces et de l'intelligence artificielle",
-        "context": "Les politiques commerciales et technologiques entre les grandes puissances se durcissent pour contrôler l'accès aux composants avancés.",
-        "summary": "Les États-unis ont renforcé leurs restrictions pour empêcher les entreprises chinoises de contourner les interdictions d'accès aux puces électroniques avancées produites par Nvidia. En fermant les failles juridiques et en ciblant les capacités de calcul délocalisées en Asie du Sud-Est, Washington cherche à maintenir son avance technologique, tandis que des acteurs politiques américains expriment des inquiétudes sur la sécurité nationale.",
-        "plain": "Les États-unis ont pris de nouvelles mesures pour empêcher la Chine d'acheter ou d'utiliser des puces informatiques puissantes destinées à l'intelligence artificielle via des pays tiers. Cette politique vise à verrouiller la supériorité technologique américaine.",
-        "chart": null,
-        "stakes": [
-          "Quel sera l'impact de ces restrictions sur le développement de l'intelligence artificielle en Chine ?",
-          "Les entreprises technologiques américaines subiront-elles des pertes financières en raison de ces barrières ?"
-        ],
-        "sources": [
-          {
             "name": "Deutsche Welle",
-            "title": "How Chinese companies circumvent chips sanctions in Southeast Asia",
-            "link": "https://www.dw.com/en/how-chinese-companies-circumvent-chips-sanctions-in-southeast-asia/a-80041002?maca=en-rss-en-world-4025-rdf",
-            "publishedAt": "2026-11-26T06:11:00.000Z",
+            "title": "FIFA says a cyberattack against it targeted a 'limited set of personal and business information'",
+            "link": "https://www.dw.com/en/fifa-says-a-cyberattack-against-it-targeted-a-limited-set-of-personal-and-business-information/a-80062660?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-26T14:45:00.000Z",
             "lang": "en",
             "country": "DE"
-          },
-          {
-            "name": "NPR",
-            "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
-            "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
-            "publishedAt": "2026-11-25T11:50:05.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "The Washington Post",
-            "title": "In backing Nvidia’s Huang, Trump deals his China hawks a setback",
-            "link": "https://www.washingtonpost.com/politics/2026/11/25/backing-jensen-huang-trump-delivers-setback-china-hawks/",
-            "publishedAt": "2026-11-25T21:20:13.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "The Wall Street Journal",
-            "title": "A Game-Changing Move Just Gave America the Edge Over China in AI",
-            "link": "https://www.wsj.com/tech/a-game-changing-move-just-gave-america-the-edge-over-china-in-ai-53492e2c?mod=rss_worldnews",
-            "publishedAt": "2026-11-26T12:42:00.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "The Japan Times",
-            "title": "U.S. chip curbs and distillation crackdown to impact Chinese AI model progress",
-            "link": "https://www.japantimes.co.jp/business/2026/11/26/companies/china-ai-development-hurdles/",
-            "publishedAt": "2026-11-26T09:21:00.000Z",
-            "lang": "en",
-            "country": "JP"
           }
         ],
         "image": {
-          "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/4500x3001!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2Fe4%2F4f6d59a04c01950dd8cc6ac618a1%2Fgettyimages-1243410569.jpg",
-          "credit": "NPR",
-          "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation"
+          "url": "https://i.guim.co.uk/img/media/bab41d81f787d91a1ca38252c7fa18495020e16d/130_0_4766_3815/master/4766.jpg?width=140&quality=85&auto=format&fit=max&s=7a5174da62e44f7aba85322a929a6ca4",
+          "credit": "The Guardian",
+          "link": "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information"
         },
         "i18n": {
           "en": {
-            "title": "Sanctions and tensions surrounding chip and artificial intelligence technologies",
-            "context": "Commercial and technological policies between major powers are hardening to control access to advanced components.",
-            "summary": "The United States has reinforced its restrictions to prevent Chinese companies from bypassing bans on access to advanced computer chips produced by Nvidia. By closing legal loopholes and targeting computing capabilities relocated to Southeast Asia, Washington seeks to maintain its technological lead, while American political actors express concerns about national security.",
-            "plain": "The United States has taken new measures to prevent China from buying or using powerful computer chips intended for artificial intelligence via third countries. This policy aims to lock in American technological superiority.",
+            "title": "Cyberattack against FIFA and theft of IT data",
+            "context": "The International Federation of Association Football (FIFA, the governing body of world football) manages significant flows of personal and commercial information.",
+            "summary": "FIFA has confirmed it was the target of a cyberattack carried out by hackers who accessed a limited set of personal and professional data. This computer incident occurs during a delicate period for the organization and its president Gianni Infantino, as the institution is already the subject of various controversies and investigations regarding its tournament organization projects.",
+            "plain": "FIFA suffered a computer hack that allowed hackers to access personal and corporate information. This event further complicates the situation of the sports organization.",
             "stakes": [
-              "What will be the impact of these restrictions on the development of artificial intelligence in China?",
-              "Will American technology companies suffer financial losses due to these barriers?"
+              "What security flaws allowed this intrusion into the international federation's servers?",
+              "What measures will be required to guarantee the future protection of data managed by sports authorities?"
             ],
             "chart": null
           },
           "es": {
-            "title": "Sanciones y tensiones en torno a las tecnologías de chips e inteligencia artificial",
-            "context": "Las políticas comerciales y tecnológicas entre las grandes potencias se endurecen para controlar el acceso a los componentes avanzados.",
-            "summary": "Estados Unidos ha reforzado sus restricciones para impedir que las empresas chinas eludan las prohibiciones de acceso a los chips electrónicos avanzados producidos por Nvidia. Al cerrar vacíos legales y apuntar a las capacidades de cálculo deslocalizadas en el sudeste asiático, Washington busca mantener su ventaja tecnológica, mientras que actores políticos estadounidenses expresan preocupación por la seguridad nacional.",
-            "plain": "Estados Unidos ha adoptado nuevas medidas para evitar que China compre o utilice chips informáticos potentes destinados a la inteligencia artificial a través de terceros países. Esta política busca blindar la superioridad tecnológica estadounidense.",
+            "title": "Ciberataque contra la FIFA y robo de datos informáticos",
+            "context": "La Federación Internacional de Fútbol Asociación (la FIFA, el organismo rector del fútbol mundial) gestiona importantes flujos de información personal y comercial.",
+            "summary": "La FIFA ha confirmado que ha sido blanco de un ciberataque llevado a cabo por piratas informáticos que accedieron a un conjunto limitado de datos personales y profesionales. Este incidente informático se produce en un período delicado para la organización y su presidente Gianni Infantino, ya que la institución ya es objeto de diversas controversias e investigaciones sobre sus proyectos de organización de competiciones.",
+            "plain": "La FIFA sufrió un pirateo informático que permitió a los piratas acceder a información personal y de la empresa. Este evento complica un poco más la situación de la organización deportiva.",
             "stakes": [
-              "¿Cuál será el impacto de estas restricciones en el desarrollo de la inteligencia artificial en China?",
-              "¿sufrirán las empresas tecnológicas estadounidenses pérdidas económicas debido a estas barreras?"
+              "¿Qué fallos de seguridad permitieron esta intrusión en los servidores de la federación internacional?",
+              "¿Qué medidas se exigirán para garantizar la futura protección de los datos gestionados por las instancias deportivas?"
             ],
             "chart": null
           }
@@ -889,272 +1109,272 @@
       }
     ]
   },
-  "storiesAt": "2026-11-26T14:15:27.135Z",
-  "inputHash": "d62a3946d3bc556dfe4fd4beef3bc762aee48073",
+  "storiesAt": "2026-11-26T19:19:43.947Z",
+  "inputHash": "7023508c9387188da98dac41549c532b4d29ca36",
   "synthStatus": "ok",
   "news": {
     "france": [
       {
-        "id": "af84bcae12f",
-        "title": "Gérard Depardieu : le renvoi en procès pour viol de l’acteur confirmé en appel",
-        "link": "https://www.la-croix.com/societe/gerard-depardieu-le-renvoi-en-proces-pour-viol-de-l-acteur-confirme-en-appel-20261126",
-        "summary": "La cour d’appel de Paris a confirmé, jeudi 26 novembre, le renvoi de Gérard Depardieu en procès pour viol et agression sexuelle sur la comédienne Charlotte Arnould, pour les faits du 7 août 2018.",
-        "image": "https://i.la-croix.com/x/2026/11/26/2599711-gerard-depardieu-ici-lors-d-un-precedent-proces-en.jpg",
-        "publishedAt": "2026-11-26T14:06:33.000Z",
-        "source": "La Croix",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 0.5
-      },
-      {
-        "id": "a98fb47f440",
-        "title": "Paris, Rennes, Hendaye… : les policiers manifestent devant leurs commissariats pour demander une hausse de leur prime de risque",
-        "link": "https://www.ouest-france.fr/societe/police/paris-rennes-hendaye-les-policiers-manifestent-devant-leurs-commissariats-pour-demander-une-hausse-de-leur-prime-de-risque-c426356e-e985-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-        "summary": "La police nationale est appelée à manifester par l’intersyndicale partout en France, ce jeudi 26 novembre. Des rassemblements ont notamment eu lieu à Paris, Lyon, Rennes, ou encore à la frontière franco espagnole. Ils demandent de meilleures conditions de travail, et notamment une hausse de leur pri",
-        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExZWRmYzg4YzU2NWI3N2E2YWRlMTVlZTc5OTI2ZTM3YjA?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=c3ca1b3b770ab28ba91712bc21613c461a18733da48d13b78a5574c0a0c39e0c",
-        "publishedAt": "2026-11-26T14:05:11.000Z",
+        "id": "ae6f795812d",
+        "title": "Quiz. Êtes-vous incollable sur les desserts de nos régions ?",
+        "link": "https://www.ouest-france.fr/leditiondusoir/2026-11-26/quiz-etes-vous-incollable-sur-les-desserts-de-nos-regions-9fddc35c-5a7f-4d15-98f2-31af4f14ddb8?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "L’émission Le Meilleur Pâtissier reprend ce soir pour une nouvelle saison sur M6, l’occasion de tester vos connaissances sur les desserts de nos régions ! Où est né le canelé ? Qu’est-ce que la teurgoule ? Pourquoi le Paris-Brest a-t-il une forme de cercle ? À vous de jouer !",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExZjE3MzRhYzU2ZTYyZWU1OGZjY2M2MjEyYWJhZWQ3YjY?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=41f5c3ebf5923f248268d10ec8db4e45164d346924634e14b15dea197521d5b7",
+        "publishedAt": "2026-11-26T19:10:02.000Z",
         "source": "Ouest-France",
         "lang": "fr",
         "country": "FR",
         "lean": 0
       },
       {
-        "id": "a1f28e26a86",
-        "title": "Présidentielle 2027 : « Ça peut faire très mal », pourquoi David Lisnard inquiète dans les rangs du RN",
-        "link": "https://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-ca-peut-faire-tres-mal-pourquoi-david-lisnard-inquiete-dans-les-rangs-du-rn",
-        "summary": "Mercredi soir, sur France 2, David Lisnard devrait avoir un mot aimable pour les maires. Ils viennent de le reconduire à la tête de leur association avec 72,06 % des... L’article Présidentielle 2027 : « Ça peut faire très mal », pourquoi David Lisnard inquiète dans les rangs du RN est apparu en prem",
+        "id": "a7320615e8e",
+        "title": "En Italie, les citoyens s’élèvent contre le projet de loi «tire à tout va» : «La nature se régule d’elle-même, pas besoin de fusils pour cela»",
+        "link": "https://www.liberation.fr/environnement/animaux/en-italie-les-citoyens-selevent-contre-le-projet-de-loi-tire-a-tout-va-la-nature-se-regule-delle-meme-pas-besoin-de-fusils-pour-cela-20261126_TH2K7A3FOVBA3MDR5WXXXCTQK4/",
+        "summary": "Ce jeudi 26 novembre, plus de 70 organisations ont appelé à manifester dans le centre de Rome contre un projet de loi défendu par le parti d’extrême droite Fratelli d’Italia qui vise à autoriser très largement la chasse. Le texte est examiné par les députés à compter de vendredi.",
         "image": null,
-        "publishedAt": "2026-11-26T14:00:07.000Z",
+        "publishedAt": "2026-11-26T19:08:20.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "a1533cd204b",
+        "title": "«Notre fille nous demande tous les jours si elle va redoubler» : à Arcueil, des parents d’élèves mobilisés contre le non-remplacement d’un enseignant",
+        "link": "https://www.liberation.fr/societe/education/notre-fille-nous-demande-tous-les-jours-si-elle-va-redoubler-a-arcueil-des-parents-deleves-mobilises-contre-le-non-remplacement-dun-enseignant-20261126_BUHB7QWSTJFCLGCUFE654ST5SY/",
+        "summary": "La classe de CE2 de l’école Jules-Ferry, dans le Val-de-Marne, cumule soixante-six heures d’absence non remplacées, faute d’effectifs et de budget. Les sollicitations auprès de l’académie de Créteil restent lettre morte.",
+        "image": null,
+        "publishedAt": "2026-11-26T19:06:23.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "a4ed17ceab9",
+        "title": "Droits de douane américains : « malgré les apparences, la guerre tarifaire est en phase de stabilisation »",
+        "link": "https://www.la-croix.com/economie/droits-de-douane-americains-malgre-les-apparences-la-guerre-tarifaire-est-en-phase-de-stabilisation-20261126",
+        "summary": "Les États-Unis ont annoncé, mercredi 25 novembre, de nouveaux droits de douane à l’encontre de leurs partenaires commerciaux, y compris européens, suscitant leur indignation. Vincent Vicard, directeur du département commerce international, à l’Institut français d’économie, en décrypte les effets.",
+        "image": "https://i.la-croix.com/x/2026/11/26/2599771-le-president-americain-donald-trump-a-la-maison-bl.jpg",
+        "publishedAt": "2026-11-26T19:04:19.000Z",
+        "source": "La Croix",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0.5
+      },
+      {
+        "id": "a234545b9d3",
+        "title": "Préférence nationale, immigration, fiscalité : à la veille des élections législatives, l’Espagne à droite toute",
+        "link": "https://www.valeursactuelles.com/clubvaleurs/monde/preference-nationale-immigration-fiscalite-a-la-veille-des-elections-legislatives-lespagne-a-droite-toute",
+        "summary": "« Les Latinos sans papiers ont ouvert des bars clandestins partout. Chaque soir, des bagarres éclatent dans la rue. Ici, la population a changé et l’insécurité a explosé », se... L’article Préférence nationale, immigration, fiscalité : à la veille des élections législatives, l&rsquo;Espagne à droite",
+        "image": null,
+        "publishedAt": "2026-11-26T19:00:40.000Z",
         "source": "Valeurs actuelles",
         "lang": "fr",
         "country": "FR",
         "lean": 2
       },
       {
-        "id": "ab44b8ad625",
-        "title": "Face à la menace russe, le Royaume-Uni renforce sa réserve militaire stratégique",
-        "link": "https://www.lexpress.fr/monde/europe/face-a-la-menace-russe-le-royaume-uni-renforce-sa-reserve-militaire-strategique-IJGBN5YRKZFHFL3RWOAL56SVZM/",
+        "id": "a1ebaeaf909",
+        "title": "Affaire Bardella : \"Les électeurs RN considèrent à tort les histoires d’antisémitisme comme relativement marginales\"",
+        "link": "https://www.lexpress.fr/politique/affaire-bardella-les-electeurs-rn-considerent-a-tort-les-histoires-dantisemitisme-comme-relativement-OC5JRGWVGBGSRCMAQNKNXF44IQ/",
         "summary": "",
-        "image": "https://www.lexpress.fr/resizer/v2/VQ56KTB7IBGLVM4DZ45RO4IMQE.jpg?auth=346723b14ae5deb9a70f39514dd40259262a4a2c498d77b0d753dd138938ca8e&smart=true&width=1849&height=1229",
-        "publishedAt": "2026-11-26T13:58:35.000Z",
+        "image": "https://www.lexpress.fr/resizer/v2/QIGXSVHC5NCMTBUKRJ3YRQYHBY.jpg?auth=cb661caffdfa3db9b31705f71f03adcb4a79c8cec2760883082e0ade0b37248b&smart=true&width=3000&height=2000",
+        "publishedAt": "2026-11-26T18:58:56.000Z",
         "source": "L'Express",
         "lang": "fr",
         "country": "FR",
         "lean": 1
       },
       {
-        "id": "a2428ca5b99",
-        "title": "Dates de la présidentielle : Sophie Binet ne «comprend pas le débat» autour d’un deuxième tour au lendemain du 1er Mai",
-        "link": "https://www.liberation.fr/economie/social/dates-de-la-presidentielle-sophie-binet-ne-comprend-pas-le-debat-autour-dun-deuxieme-tour-au-lendemain-du-1er-mai-20261126_DOHEIJWHO5HJTOX3G74V5BXPVQ/",
-        "summary": "Contrairement à son homologue de la CFDT, la numéro 1 de la CGT n’estime pas que le calendrier présidentiel doive être modifié pour éviter que le second tour se tienne au lendemain d’une fête des travailleurs qui s’annonce très politisée.",
-        "image": null,
-        "publishedAt": "2026-11-26T13:58:24.000Z",
-        "source": "Libération",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1.5
-      },
-      {
-        "id": "a698a0dc017",
-        "title": "Lilia Hassaine, Goncourt des lycéens : «Des jeunes filles de 15, 16 ans, viennent vous dire qu’elles se sont reconnues»",
-        "link": "https://www.lefigaro.fr/livres/lilia-hassaine-goncourt-des-lyceens-des-jeunes-filles-de-15-16-ans-viennent-vous-dire-qu-elles-se-sont-reconnues-20261126",
-        "summary": "ENTRETIEN - Ce jeudi 26 novembre, à Rennes, les douze délégués du 39e Goncourt des lycéens ont tranché avec JE, publié chez Gallimard.",
-        "image": "https://i.f1g.fr/media/cms/574x322_crop/2026/11/26/c854ded584ee8ed2ecaed10ca337845c74200dfa886cf8cec16edb97fe85ed4c.png",
-        "publishedAt": "2026-11-26T13:56:24.000Z",
+        "id": "a4a0334f7a5",
+        "title": "Le Black Friday Amazon écrase la concurrence : meilleur prix du web pour le dernier The Legend of Zelda",
+        "link": "https://www.lefigaro.fr/bons-plans/high-tech/le-black-friday-amazon-ecrase-la-concurrence-meilleur-prix-du-web-pour-le-dernier-the-legend-of-zelda-20261126",
+        "summary": "Si GTA VI prend un peu toute la place depuis sa sortie, n’oublions pas les autres nouveautés gaming du moment. À commencer par The Legend of Zelda : Ocarina of Time, une pépite qui vient d’arriver sur Nintendo Switch 2.",
+        "image": "https://i.f1g.fr/media/cms/1200x800_crop/2026/11/24/b0c7b61d2258dfc08a4f0983aaec6dd92b2698e256abad38c5ce29f522307529.jpg",
+        "publishedAt": "2026-11-26T18:55:00.000Z",
         "source": "Le Figaro",
         "lang": "fr",
         "country": "FR",
         "lean": 1.5
       },
       {
-        "id": "a038c770564",
-        "title": "Budget européen : ne pas céder aux passions françaises pour la dépense et pour l’impôt",
-        "link": "https://www.lejdd.fr/economie/budget-europeen-ne-pas-ceder-aux-passions-francaises-pour-la-depense-et-pour-limpot-189750",
-        "summary": "TRIBUNE. Les Arvernes* alertent sur les conséquences de la dérive budgétaire française pour l’Union européenne. Le groupe de hauts responsables critique notamment le projet de taxe européenne sur le numérique et appelle à une meilleure maîtrise des finances publiques.",
-        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/26/14/sipa_sipahub60042502_000006_0.jpg?VersionId=8fdzVpAdKhrJhwU8wlsie7y.eXc3kEnk",
-        "publishedAt": "2026-11-26T13:55:24.000Z",
-        "source": "Le JDD",
+        "id": "a2a5639e7ec",
+        "title": "Budget de la « Sécu » pour 2027 : un compromis à ce stade introuvable",
+        "link": "https://www.lemonde.fr/politique/article/2026/11/26/budget-de-la-secu-pour-2027-un-compromis-a-ce-stade-introuvable_6815592_823448.html",
+        "summary": "Alors que les députés et les sénateurs, réunis en commission mixte paritaire, n’ont pas réussi à s’entendre, jeudi, sur une version commune du texte, le premier ministre, Sébastien Lecornu, a déclaré que le « travail » se poursuivait pour essayer de rapprocher les positions.",
+        "image": "https://img.lemde.fr/2026/10/20/699/0/8062/4031/644/322/60/0/a7460d9_ftp-1-fsmb5997fupf-afp-d3va8uq.jpg",
+        "publishedAt": "2026-11-26T18:49:08.000Z",
+        "source": "Le Monde",
         "lang": "fr",
         "country": "FR",
-        "lean": 2
+        "lean": -1
       },
       {
-        "id": "adc1839847e",
-        "title": "Hoor Al Qasimi, princesse de Sharjah, à la tête de la Biennale de Venise 2028",
-        "link": "https://www.lefigaro.fr/arts-expositions/hoor-al-qasimi-princesse-de-sharjah-a-la-tete-de-la-biennale-de-venise-2028-20261126",
-        "summary": "Cette annonce du président de la Biennale, Pietrangelo Buttafuoco, confirme la place croissante du Moyen-Orient dans la planète Art et le succès de son soft power.",
-        "image": "https://i.f1g.fr/media/cms/2113x1189_crop/2026/11/26/742f70b52eb7c60db788db53da67290e6374d6993147c014ba8791b33611fcdd.jpg",
-        "publishedAt": "2026-11-26T13:51:00.000Z",
-        "source": "Le Figaro",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 1.5
-      },
-      {
-        "id": "a71a58ac7ba",
-        "title": "Féminicide de Karen Baldi en 2023 : la prison à perpétuité requise pour l'ex-époux de la policière assassinée à la machette en Savoie",
-        "link": "https://www.franceinfo.fr/societe/justice/feminicide-de-karen-baldi-en-2023-la-prison-a-perpetuite-requise-pour-l-ex-epoux-de-la-policiere-assassinee-a-la-machette-en-savoie_8301414.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "Lors de son procès, l'accusé âgé de 64 ans a reconnu \"avoir commis l'acte\" qui a tué la policière de 42 ans.",
-        "image": "https://www.franceinfo.fr/pictures/eUicoL0IMPL7IqKxFIXSYByF2ys/0x0:3543x1992/432x243/filters:format(jpg)/2026/11/26/6b08344e13c9c811164793.jpg",
-        "publishedAt": "2026-11-26T13:42:05.000Z",
-        "source": "franceinfo",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 0
-      },
-      {
-        "id": "a3164e12d1a",
-        "title": "« Ce bras de fer avec l’institution nous concerne tous » : face à la censure d’une œuvre sur les violences policières par la région Île-de-France, des artistes lancent la fronde",
-        "link": "https://www.humanite.fr/culture-et-savoir/acces-a-la-culture/comment-la-region-ile-de-france-a-discretement-deprogramme-un-artiste-critique-des-violences-policieres",
-        "summary": "Un artiste a vu son œuvre en hommage à Wanys Rahou, percuté par une voiture de police en mars 2024, déprogrammée par la région Île-de-France sous prétexte d’un «&nbsp;détournement de l’objet de la bourse régionale&nbsp;». Face à ce qu’il estime être une censure, un collectif d’artistes s’est retiré ",
-        "image": "https://www.humanite.fr/wp-content/uploads/2026/11/000_34LZ7T3-2.jpg?w=1200",
-        "publishedAt": "2026-11-26T13:41:15.000Z",
+        "id": "ae0c1fa3493",
+        "title": "Mer Baltique : comment sortir d’une confrontation fatidique entre l’Otan et la Russie",
+        "link": "https://www.humanite.fr/monde/finlande/mer-baltique-comment-sortir-dune-confrontation-fatidique-entre-lotan-et-la-russie",
+        "summary": "Face aux tensions qui se multiplient en mer Baltique, la Finlande et la Norvège ont repris le dialogue avec la Russie. Une volonté de désamorcer une escalade toujours plus importante entre l’Otan et Moscou. Les récentes attaques ukrainiennes, les menaces de blocus et les ravitaillements difficiles v",
+        "image": "https://www.humanite.fr/wp-content/uploads/2026/11/BALTIQUE.jpg?w=1200",
+        "publishedAt": "2026-11-26T18:48:47.000Z",
         "source": "L'Humanité",
         "lang": "fr",
         "country": "FR",
         "lean": -2
       },
       {
-        "id": "a1a96c95dec",
-        "title": "\"Stop aux maisons moches\" : trois maisons taguées dans un village des Côtes-d'Armor laissent les habitants dubitatifs",
-        "link": "https://www.franceinfo.fr/faits-divers/stop-aux-maisons-moches-trois-maisons-taguees-dans-un-village-des-cotes-d-armor-laissent-les-habitants-dubitatifs_8301435.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "En Bretagne, après les tags anti-touristes de l'été dernier, ce sont cette fois des maisons qui ont été vandalisées, dans la commune de Plévenon (Côtes-d'Armor), 750 habitants, située en bord de mer. \"Stop aux maisons moches\" a été inscrit sur trois habitations. Des maisons qui pourtant ont été cons",
-        "image": "https://www.franceinfo.fr/pictures/QoebIX5PHKew7-yl1L28FLD6hk8/0x6:1496x848/432x243/filters:format(jpg)/2026/11/26/6b08334f401fe375851103.jpg",
-        "publishedAt": "2026-11-26T13:25:52.000Z",
+        "id": "ac3df398525",
+        "title": "« Opération conviction » : à Reims, Marine Le Pen propose de baisser l’impôt sur les sociétés pour les petites entreprises",
+        "link": "https://www.lefigaro.fr/elections/presidentielles/operation-conviction-a-reims-marine-le-pen-propose-de-baisser-l-impot-sur-les-societes-pour-les-petites-entreprises-20261126",
+        "summary": "REPORTAGE - La candidate à l’élection présidentielle, donnée favorite dans les sondages, veut convaincre qu’elle entend les préoccupations des dirigeants de petites entreprises.",
+        "image": "https://i.f1g.fr/media/cms/1600x1066_crop/2026/11/26/6a83e03d9c8302fb459e98a36f2fd2dccc68fa794ae37ab68539d6ef1e2fe41a.jpg",
+        "publishedAt": "2026-11-26T18:46:46.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "ac45c17c88a",
+        "title": "3 ados tués à Mayotte en six jours lors de rixes",
+        "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/3-ados-tues-a-mayotte-en-six-jours-lors-de-rixes_8301921.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "En l'espace de six jours, trois adolescents de 17 ans ont perdu la vie, victimes d’affrontements ou d’agressions particulièrement brutales.",
+        "image": "https://www.franceinfo.fr/pictures/CSJYv2k76pyerC5pfBWKe8JHB4A/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/26/6b0875f99ce8b887378913.png",
+        "publishedAt": "2026-11-26T18:10:29.000Z",
         "source": "franceinfo",
         "lang": "fr",
         "country": "FR",
         "lean": 0
       },
       {
-        "id": "a90b9280a3b",
-        "title": "Face aux violences économiques, les femmes laissées pour compte",
-        "link": "https://www.liberation.fr/forums/face-aux-violences-economiques-les-femmes-laissees-pour-compte-20261124_WBWFP4AF25FWLAMLCMJBIVPUQY/",
-        "summary": "Contrôle des dépenses, partage inégal des charges, refus de payer les pensions... Selon un sondage Ifop pour le Crédit mutuel, une femme sur cinq déclare avoir déjà subi des violences économiques au sein de leur couple. Tour d’horizon des initiatives qui tentent de les accompagner.",
-        "image": null,
-        "publishedAt": "2026-11-26T13:20:02.000Z",
-        "source": "Libération",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1.5
-      },
-      {
-        "id": "adb12955361",
-        "title": "Lilia Hassaine remporte le prix Goncourt des lycéens avec son roman « JE »",
-        "link": "https://www.lemonde.fr/livres/article/2026/11/26/lilia-hassaine-remporte-le-prix-goncourt-des-lyceens-avec-son-roman-je_6815534_3260.html",
-        "summary": "A mi-chemin entre roman victorien et thriller intimiste, « JE » est inspiré d’un personnage mystérieux de Jane Eyre, le roman culte de Charlotte Brontë, auquel Lilia Hassaine a choisi de donner une voix et une destinée.",
-        "image": "https://img.lemde.fr/2026/11/26/456/0/5472/2736/644/322/60/0/2c57ed4_ftp-1-5iy0aeqhmxlk-afp-d8pb89e.jpg",
-        "publishedAt": "2026-11-26T13:01:32.000Z",
+        "id": "a720804c1e3",
+        "title": "Des policiers manifestent leur colère devant les commissariats en France : « On veut que notre travail soit reconnu »",
+        "link": "https://www.lemonde.fr/societe/article/2026/11/26/des-policiers-manifestent-leur-colere-devant-les-commissariats-en-france-on-veut-que-notre-travail-soit-reconnu_6815591_3224.html",
+        "summary": "Plusieurs rassemblements de fonctionnaires de police ont eu lieu, jeudi, pour réclamer, notamment, une hausse de la prime de risque. Cette démonstration de force, soutenue par les trois principaux syndicats, intervient à la veille des élections professionnelles dans la fonction publique.",
+        "image": "https://img.lemde.fr/2026/11/26/1112/0/8078/4039/644/322/60/0/c427b55_ftp-1-izdrhwyilq34-afp-d8pl8ke.jpg",
+        "publishedAt": "2026-11-26T18:06:53.000Z",
         "source": "Le Monde",
         "lang": "fr",
         "country": "FR",
         "lean": -1
       },
       {
-        "id": "aa6365a6d39",
-        "title": "Elon Musk promet d’offrir deux actions de SpaceX à « chaque enfant » aux Etats-Unis",
-        "link": "https://www.lemonde.fr/international/article/2026/11/26/elon-musk-promet-d-offrir-deux-actions-de-spacex-a-chaque-enfant-aux-etats-unis_6815531_3210.html",
-        "summary": "Le milliardaire avait déjà promis, en octobre, une action à chaque enfant aux Etats-Unis. Selon lui, une action provenant de SpaceX sera transférée le mois prochain, tandis qu’une autre venant de lui personnellement sera transférée en juin 2027. Il n’a donné aucun détail sur le dispositif.",
-        "image": "https://img.lemde.fr/2026/11/26/466/0/5596/2798/644/322/60/0/6162056_ftp-1-eskadnbjqiae-2026-11-26t045608z-901314414-rc26zna8iu40-rtrmadp-3-spacex-shares.JPG",
-        "publishedAt": "2026-11-26T12:42:46.000Z",
-        "source": "Le Monde",
+        "id": "a590275b6ca",
+        "title": "Procès de la jihadiste Émilie König :\"Il n'y a pas de déterminisme dans l'engagement violent\", explique un universitaire",
+        "link": "https://www.franceinfo.fr/monde/terrorisme-djihadistes/proces-de-la-jihadiste-emilie-konig-il-n-y-a-pas-de-determinisme-dans-l-engagement-violent-explique-un-universitaire_8301384.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Émilie König, surnommée l'égérie du jihad, comparaît devant la cour d'assises spéciale à Paris. Mère de cinq enfants, elle encourt 30 ans de réclusion criminelle pour association de malfaiteurs terroristes. Elle assure aujourd'hui être sortie de ce qu'elle appelle \"ses années de jeune femme\".",
+        "image": "https://www.franceinfo.fr/pictures/yykuxowmw2Uv6Nt-X5WHQ2KKHk8/0x580:5469x3648/432x243/filters:format(jpg)/2022/07/05/phpQC8Vyo.jpg",
+        "publishedAt": "2026-11-26T17:33:19.000Z",
+        "source": "franceinfo",
         "lang": "fr",
         "country": "FR",
-        "lean": -1
+        "lean": 0
+      },
+      {
+        "id": "a08101b6caa",
+        "title": "«Un projet ambitieux» : plusieurs députés LR annoncent rallier David Lisnard",
+        "link": "https://www.lejdd.fr/politique/un-projet-ambitieux-plusieurs-deputes-lr-annoncent-rallier-david-lisnard-189780",
+        "summary": "Huit députés du groupe Les Républicains publient une tribune dans « Paris Match » pour annoncer leur soutien au maire de Cannes en vue de l’élection présidentielle. Ils estiment qu'il s'agit du candidat le mieux placé pour rassembler la droite en 2027.",
+        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/26/17/sipa_01318659_000017.jpg?VersionId=B7MEvMhG_Ydv02jJZHs6AemtzV5LO9L9",
+        "publishedAt": "2026-11-26T17:15:39.000Z",
+        "source": "Le JDD",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
       }
     ],
     "monde": [
       {
-        "id": "a73460e6271",
-        "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-        "summary": "A number of leaders hope to agree to a budget before consequential elections around the continent The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not going to work. “The budget is too large",
-        "image": "https://i.guim.co.uk/img/media/97af9c3749d929490d31c0c42c1effc6430fc97c/1139_0_4298_3440/master/4298.jpg?width=140&quality=85&auto=format&fit=max&s=29e3575672907c6db95917746beb52fa",
-        "publishedAt": "2026-11-26T14:04:48.000Z",
+        "id": "a953dab5abe",
+        "title": "Oxford museum displays seized belongings of Naga freedom fighter Gaidinliu for first time",
+        "link": "https://www.theguardian.com/culture/2026/nov/26/oxford-pitt-rivers-museum-naga-gaidinliu",
+        "summary": "Notebooks, clothes and ritual objects taken by British forces in the 1930s go on show at the Pitt Rivers Museum In 1932, British forces in north-east India imprisoned a 17-year-old girl called Gaidinliu for leading an uprising against colonial rule. While pursuing the freedom fighter through hills a",
+        "image": "https://i.guim.co.uk/img/media/4bb99ac14cf7c4cb4c9947722bc939fa6192be22/0_143_1612_1289/master/1612.jpg?width=140&quality=85&auto=format&fit=max&s=346765bd7c17fef72f9b85a2b4271b1b",
+        "publishedAt": "2026-11-26T19:03:47.000Z",
         "source": "The Guardian",
         "lang": "en",
         "country": "GB",
         "lean": -1.5
       },
       {
-        "id": "af12611ab34",
-        "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
-        "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-        "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg",
-        "publishedAt": "2026-11-26T14:00:42.000Z",
-        "source": "BBC News",
-        "lang": "en",
-        "country": "GB",
-        "lean": 0
-      },
-      {
-        "id": "a7ae9edd48c",
-        "title": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gekentert",
-        "link": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html",
-        "summary": "Wegen möglicher Umweltgefahren aktivierten die spanischen Behörden einen Notfallplan: Vor der Küste Ibizas ist ein Tanker mit 7.000 Tonnen Diesel gekentert. Bei dem Unglück kam ein Seemann ums Leben.",
-        "image": "https://images.tagesschau.de/image/c695290b-e5fc-4415-bf4b-538f1af53f76/AAABohdMOSg/AAABnSSvrFg/16x9-big/tanker-med-emre-100.jpg?width=1920",
-        "publishedAt": "2026-11-26T13:51:28.000Z",
+        "id": "a89ef6a2ba4",
+        "title": "tagesschau in 100 Sekunden",
+        "link": "https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1690516.html",
+        "summary": "tagesschau in 100 Sekunden",
+        "image": "https://images.tagesschau.de/image/03ee7b64-fbba-4569-b334-71856064dc8c/AAABohkbR5Y/AAABnSSvrFg/16x9-big/sendungsbild-1833600.jpg?width=1920",
+        "publishedAt": "2026-11-26T18:25:59.000Z",
         "source": "Tagesschau",
         "lang": "de",
         "country": "DE",
         "lean": 0
       },
       {
-        "id": "ab472a9ac7a",
-        "title": "⁠Gérard Depardieu to face trial on charges ‌of raping ​actor Charlotte ⁠Arnould",
-        "link": "https://www.theguardian.com/film/2026/nov/26/gerard-depardieu-face-trial-charges-rape-charlotte-arnould",
-        "summary": "Arnould first accused Depardieu ⁠in 2018, saying assaults occurred at his Paris home on two separate occasions when ⁠she was in her early 20s The French film ⁠star ⁠Gérard Depardieu will face trial on charges ‌of raping the ​actor Charlotte ⁠Arnould ​in 2018, his lawyer has said. Depardieu, 77, had ",
-        "image": "https://i.guim.co.uk/img/media/65f2f2d19cda6cd014f0810ff0db0089d90825e9/581_0_2859_2288/master/2859.jpg?width=140&quality=85&auto=format&fit=max&s=d6960ce2ed4d2090a205f3e2df85cc77",
-        "publishedAt": "2026-11-26T13:44:49.000Z",
-        "source": "The Guardian",
+        "id": "aa5a563c2a3",
+        "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+        "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+        "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
+        "publishedAt": "2026-11-26T17:54:22.000Z",
+        "source": "BBC News",
         "lang": "en",
         "country": "GB",
-        "lean": -1.5
+        "lean": 0
       },
       {
-        "id": "a35fcd8d302",
-        "title": "EU-Indonesia trade deal opens new markets, but challenges remain",
-        "link": "https://www.dw.com/en/eu-indonesia-trade-deal-opens-new-markets-but-challenges-remain/a-80059568?maca=en-rss-en-world-4025-rdf",
-        "summary": "The agreement eyes new export and investment opportunities for Jakarta and Brussels. But can Indonesia turn Europe's growing interest in its markets and critical minerals into sustainable gains at home?",
+        "id": "a938e5a6f80",
+        "title": "Saudi pop music is thriving — but for the right reasons?",
+        "link": "https://www.dw.com/en/saudi-pop-music-is-thriving-but-for-the-right-reasons/a-80036013?maca=en-rss-en-world-4025-rdf",
+        "summary": "As part of Vision 2030, Saudi Arabia's music scene has evolved hugely thanks to state funding and support. Local musicians and DJs are optimistic. But are they actually just helping prop up an authoritarian state?",
         "image": null,
-        "publishedAt": "2026-11-26T13:41:00.000Z",
+        "publishedAt": "2026-11-26T17:37:00.000Z",
         "source": "Deutsche Welle",
         "lang": "en",
         "country": "DE",
         "lean": 0
       },
       {
-        "id": "a37a9b6e4ad",
-        "title": "Milk of human kindness: How Brazil’s donor breastfeeding programme is being exported worldwide",
-        "link": "https://www.telegraph.co.uk/global-health/women-and-girls/brazils-donor-milk-bank-model-is-being-exported-worldwide/",
-        "summary": "A project first developed to tackle infant malnutrition now banks more breast milk than any other country in the world",
-        "image": "https://www.telegraph.co.uk/content/dam/global-health/2026/11/26/TELEMMGLPICT000512987798_17956961888270_trans_NvBQzQNjv4BqeAPFwKU_Y4rN1J4QNz2LAv4Xpit_DMGvdp2n7FDd82k.jpeg",
-        "publishedAt": "2026-11-26T13:30:00.000Z",
-        "source": "The Telegraph",
-        "lang": "en",
-        "country": "GB",
-        "lean": 1.5
-      },
-      {
-        "id": "ad322835d86",
-        "title": "Myanmar says it will not comply with 'inappropriate' ICJ genocide orders",
-        "link": "https://news.sky.com/story/myanmar-says-it-will-not-comply-with-inappropriate-icj-genocide-orders-13616762",
-        "summary": "Myanmar's leader has said his government will not ‌comply with all measures ordered by a top international court after it was found guilty of committing genocide against the Rohingya minority.",
-        "image": "https://e3.365dm.com/26/11/1920x1080/skynews-min-aung-hlaing-myanmar_7411273.jpg?20261120103547",
-        "publishedAt": "2026-11-26T10:48:00.000Z",
+        "id": "a219a798298",
+        "title": "Witnesses contacted as US probe into World Cup sell-off plan intensifies",
+        "link": "https://news.sky.com/story/witnesses-contacted-as-us-probe-into-world-cup-sell-off-plan-intensifies-13616919",
+        "summary": "A planned US congressional investigation into FIFA and Gianni Infantino's World Cup sell-off plans is intensifying with requests to speak to current and former FIFA staff, Sky News understands.",
+        "image": "https://e3.365dm.com/26/08/1920x1080/skynews-infantino-rob-harris_7333190.jpg?20260827222142",
+        "publishedAt": "2026-11-26T17:16:00.000Z",
         "source": "Sky News",
         "lang": "en",
         "country": "GB",
         "lean": 0.5
       },
       {
+        "id": "ae3bfd33ddb",
+        "title": "Colombia earthquake triggers surge in malaria cases",
+        "link": "https://www.telegraph.co.uk/global-health/science-and-disease/colombia-earthquake-triggers-surge-in-malaria-cases/",
+        "summary": "Influx of mosquitoes – breeding in stagnant water collected among the ruins of collapsed buildings – leads to swell of infections",
+        "image": "https://www.telegraph.co.uk/content/dam/global-health/2026/11/26/TELEMMGLPICT000497984256_17957111133560_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+        "publishedAt": "2026-11-26T16:59:12.000Z",
+        "source": "The Telegraph",
+        "lang": "en",
+        "country": "GB",
+        "lean": 1.5
+      },
+      {
+        "id": "ab472a9ac7a",
+        "title": "⁠Gérard Depardieu to face trial on charges ‌of raping ​actor Charlotte ⁠Arnould",
+        "link": "https://www.theguardian.com/film/2026/nov/26/gerard-depardieu-face-trial-charges-rape-charlotte-arnould",
+        "summary": "Arnould first accused Depardieu ⁠in 2018, saying assaults occurred at his Paris home on two separate occasions when ⁠she was in her early 20s Gérard Depardieu has been ordered to stand trial on a charge of raping a female actor at his Paris home in 2018, after an appeals ⁠court rejected his attempt ",
+        "image": "https://i.guim.co.uk/img/media/77c1290946fbdd15e68d25b6743cbc9fc073d064/518_182_2849_2280/master/2849.jpg?width=140&quality=85&auto=format&fit=max&s=c741817dbb83834a43fd33c10ca19cfc",
+        "publishedAt": "2026-11-26T16:26:57.000Z",
+        "source": "The Guardian",
+        "lang": "en",
+        "country": "GB",
+        "lean": -1.5
+      },
+      {
         "id": "ab69c72f7a3",
         "title": "New UK-EU treaty has 10-year termination clause",
         "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-        "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+        "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
-        "publishedAt": "2026-11-26T09:59:14.000Z",
+        "publishedAt": "2026-11-26T15:23:17.000Z",
         "source": "BBC News",
         "lang": "en",
         "country": "GB",
@@ -1251,13 +1471,13 @@
       "name": "The Guardian (GB)",
       "url": "https://www.theguardian.com/world/france/rss",
       "ok": true,
-      "count": 2
+      "count": 1
     },
     {
       "name": "The Telegraph (GB)",
       "url": "https://www.telegraph.co.uk/rss.xml",
       "ok": true,
-      "count": 5
+      "count": 7
     },
     {
       "name": "Sky News (GB)",
@@ -1311,7 +1531,7 @@
       "name": "Fox News (US)",
       "url": "https://moxie.foxnews.com/google-publisher/world.xml",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "name": "Politico Europe (BE)",
