@@ -1,0 +1,1959 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T00:02:27.648Z",
+  "status": "partielle",
+  "stories": {
+    "france": [
+      {
+        "id": "s46339c5d50",
+        "topic": "politique",
+        "title": "Propos de Teddy Riner sur l'Ukraine : vifs débats en France",
+        "context": "À l'approche de l'élection présidentielle, la question du soutien militaire et financier de la France à l'Ukraine divise la classe politique et publique.",
+        "summary": "Le judoka et candidat à l'élection présidentielle Teddy Riner a déclaré lors du Salon des maires que la France devait cesser de financer l'Ukraine et de déployer des troupes pour des missions non combattantes, estimant qu'il ne s'agit « pas de notre guerre ». Ses propos ont suscité de vives réactions et un important débat au sein de la classe politique et dans les médias, certains fustigeant son positionnement tandis que d'autres y voient l'expression d'un rejet croissant de l'engagement français.",
+        "plain": "Le sportif et candidat à la présidentielle Teddy Riner a provoqué une polémique en affirmant qu'il fallait arrêter d'aider financièrement et militairement l'Ukraine. Ses déclarations relancent le débat sur la place de la France dans ce conflit international.",
+        "chart": null,
+        "stakes": [
+          "Quel est l'impact des prises de position de personnalités hors de la politique politicienne sur les scrutins ?",
+          "La politique extérieure française doit-elle être recentrée sur les priorités budgétaires nationales ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "«Ce n’est pas notre guerre» : Teddy Riner veut stopper l’aide à l’Ukraine",
+            "link": "https://www.liberation.fr/sports/lukraine-nest-pas-notre-guerre-teddy-riner-se-prend-les-pieds-dans-le-tatami-avant-de-retropedaler-20261125_7JEBWXSMBRH3VHKPFGQKYILKCM/",
+            "publishedAt": "2026-11-25T19:37:07.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le JDD",
+            "title": "«Ce n’est pas notre guerre» : Teddy Riner prend position sur l'Ukraine et appelle à des élections anticipées",
+            "link": "https://www.lejdd.fr/politique/ce-nest-pas-notre-guerre-teddy-riner-prend-position-sur-lukraine-et-appelle-a-des-elections-anticipees-189684",
+            "publishedAt": "2026-11-25T16:00:17.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "French presidential hopeful Teddy Riner says Ukraine is ‘not our war’",
+            "link": "https://www.politico.eu/article/french-presidential-hopeful-teddy-riner-says-ukraine-is-not-our-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-25T16:51:22.000Z",
+            "lang": "en",
+            "country": "BE"
+          },
+          {
+            "name": "France 24",
+            "title": "\"Ce n'est pas notre guerre\" : Teddy Riner exhorte à arrêter de donner de l'argent à l'Ukraine",
+            "link": "https://www.france24.com/fr/france/20261125-notre-guerre-teddy-riner-exhorte-arr%C3%AAter-donner-argent-ukraine-%C3%A9lection-fran%C3%A7aise-pr%C3%A9sidentielle",
+            "publishedAt": "2026-11-25T21:26:17.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Euronews",
+            "title": "Soldats français en Ukraine : \"Pas notre guerre\", juge Teddy Riner",
+            "link": "https://fr.euronews.com/2026/11/25/pas-notre-guerre-teddy-riner-critique-lenvoi-de-soldats-en-ukraine-pour-des-missions-non-c",
+            "publishedAt": "2026-11-25T19:22:01.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "Teddy Riner affirme, à propos de la guerre en Ukraine, que la France doit « arrêter de donner de l’argent » qu’elle n’a pas",
+            "link": "https://www.lemonde.fr/politique/article/2026/11/25/teddy-riner-affirme-a-propos-de-la-guerre-en-ukraine-que-la-france-doit-arreter-de-donner-de-l-argent-que-nous-n-avons-pas_6815137_823449.html",
+            "publishedAt": "2026-11-25T18:57:23.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/25/16/000_d8l367q.jpg?VersionId=BqJ9vbimqxZMr2KkXNGZPO4gRm12bw1n",
+          "credit": "Le JDD",
+          "link": "https://www.lejdd.fr/politique/ce-nest-pas-notre-guerre-teddy-riner-prend-position-sur-lukraine-et-appelle-a-des-elections-anticipees-189684"
+        }
+      },
+      {
+        "id": "s96a0b9c370",
+        "topic": "politique",
+        "title": "Marseille : le maire accuse la police d'avoir relâché des pilleurs",
+        "context": "Une commission d'enquête parlementaire examine les violences et les incidents survenus le 17 octobre dernier à Marseille.",
+        "summary": "Auditionné par la commission d'enquête de l'Assemblée nationale, le maire de Marseille, Benoît Payan, a affirmé que des instructions avaient été données pour relâcher des pilleurs interpellés le 17 octobre dans la cité phocéenne. Appuyant ses dires sur l'examen des enregistrements de vidéosurveillance, l'édile a dénoncé une situation d'impunité, tandis que les médias rapportent largement ses déclarations et le contexte tendu de ces interpellations.",
+        "plain": "Le maire de Marseille assure que des casseurs arrêtés lors d'incidents récents ont reçu l'ordre d'être libérés par les autorités. Une affaire qui met en lumière des tensions sur la gestion des interpellations.",
+        "chart": null,
+        "stakes": [
+          "Quelles suites judiciaires seront données aux accusations portées par le maire de Marseille ?",
+          "Le fonctionnement des forces de l'ordre locales sera-t-il réévalué par le Parlement ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Benoît Payan affirme que des ordres ont été donnés pour \"relâcher\" des pilleurs le 17 octobre à Marseille",
+            "link": "https://www.franceinfo.fr/marseille/benoit-payan-affirme-que-des-ordres-ont-ete-donnes-pour-relacher-des-casseurs-le-17-octobre-a-marseille_8300364.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-25T21:44:42.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Monde",
+            "title": "Violences du 17 octobre à Marseille : des ordres ont été donnés pour relâcher des casseurs, selon Benoît Payan",
+            "link": "https://www.lemonde.fr/societe/article/2026/11/25/violences-du-17-octobre-a-marseille-des-ordres-ont-ete-donnes-pour-relacher-des-casseurs-selon-benoit-payan_6815175_3224.html",
+            "publishedAt": "2026-11-25T21:24:09.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Figaro",
+            "title": "Manifestation du 17 octobre à Marseille : «Il a été demandé à la police municipale de relâcher» plusieurs pilleurs, affirme Benoît Payan",
+            "link": "https://www.lefigaro.fr/marseille/manifestation-du-17-octobre-on-a-demande-a-la-police-municipale-de-relacher-plusieurs-pilleurs-a-marseille-affirme-benoit-payan-20261125",
+            "publishedAt": "2026-11-25T21:03:53.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "France 24",
+            "title": "Violences du 17 octobre à Marseille : des ordres donnés pour \"relâcher\" des casseurs, selon le maire",
+            "link": "https://www.france24.com/fr/france/20261125-france-violences-17-octobre-marseille-ordres-donnes-relacher-casseurs-maire-benoit-payan",
+            "publishedAt": "2026-11-25T22:36:14.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/HHsqASwkogxjODDw68WeAV0qJ9Y/0x25:1024x601/432x243/filters:format(jpg)/2026/11/25/6b0754bcb7e08088514778.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/marseille/benoit-payan-affirme-que-des-ordres-ont-ete-donnes-pour-relacher-des-casseurs-le-17-octobre-a-marseille_8300364.html#xtor=RSS-3-%5Bfrance%5D"
+        }
+      },
+      {
+        "id": "s3c6fcb568b",
+        "topic": "societe",
+        "title": "Mouvement lycéen : plus de 400 exclusions définitives recensées",
+        "context": "Les mobilisations lycéennes de l'automne ont été marquées par des tensions et des incidents dans plusieurs établissements scolaires.",
+        "summary": "Le ministère de l'Éducation nationale a indiqué que plus de 400 élèves ont été définitivement exclus de leur établissement dans le cadre de 3 000 procédures disciplinaires engagées depuis la rentrée. Alors que le ministre appelle à relativiser ces chiffres face à la masse des élèves non impliqués, des syndicats et des associations dénoncent parallèlement une gestion autoritaire de la crise, mentionnant des projets de décrets et des dispositifs locaux contestés en justice.",
+        "plain": "Suite à des tensions et des blocages dans les lycées, des centaines d'élèves ont été exclus définitivement. Cette sévérité administrative suscite de fortes oppositions de la part de syndicats et d'associations.",
+        "chart": null,
+        "stakes": [
+          "La réponse disciplinaire actuelle est-elle de nature à apaiser les lycées ?",
+          "Quel équilibre trouver entre maintien de l'ordre scolaire et droit de contestation ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Mouvement lycéen : plus de 400 élèves exclus définitivement de leur établissement, sur les 3 000 procédures disciplinaires engagées",
+            "link": "https://www.lemonde.fr/societe/article/2026/11/25/mouvement-lyceen-plus-de-400-eleves-exclus-definitivement-de-leur-etablissement_6815162_3224.html",
+            "publishedAt": "2026-11-25T18:17:25.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Libération",
+            "title": "Plus de 400 lycéens définitivement exclus de leur établissement depuis le début de la mobilisation",
+            "link": "https://www.liberation.fr/societe/education/plus-de-400-lyceens-definitivement-exclus-de-leur-etablissement-depuis-le-debut-de-la-mobilisation-20261125_AVZFGSRE7RAFBEAIX7Z3EJNGHA/",
+            "publishedAt": "2026-11-25T20:35:11.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "La Croix",
+            "title": "Mouvement lycéen : plus de 400 élèves exclus définitivement de leur établissement",
+            "link": "https://www.la-croix.com/societe/mouvement-lyceen-plus-de-400-eleves-exclus-definitivement-de-leur-etablissement-20261125",
+            "publishedAt": "2026-11-25T18:34:58.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "La Croix",
+            "title": "Blocus des lycées : des proviseurs dénoncent l’influence « d’organisations politiques »",
+            "link": "https://www.la-croix.com/politique/blocus-des-lycees-des-proviseurs-denoncent-l-influence-dorganisations-politiques-20261125",
+            "publishedAt": "2026-11-25T18:33:32.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "L'Humanité",
+            "title": "Conseils de discipline : un projet de décret promet une reprise en main autoritaire de l’institution scolaire",
+            "link": "https://www.humanite.fr/societe/directeurs-decole/conseils-de-discipline-un-projet-de-decret-promet-une-reprise-en-main-autoritaire-de-linstitution-scolaire",
+            "publishedAt": "2026-11-25T18:39:15.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "L'Humanité",
+            "title": "La LDH saisit la justice contre le dispositif « casseur-payeur » de Valérie Pécresse visant les lycéens d’Île-de-France",
+            "link": "https://www.humanite.fr/politique/ile-de-france/la-ldh-saisit-la-justice-contre-le-dispositif-casseur-payeur-de-valerie-pecresse-visant-les-lyceens-dile-de-france",
+            "publishedAt": "2026-11-25T17:36:55.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Valeurs actuelles",
+            "title": "LFI, enseignants, parents d’élèves : un rapport de l’Éducation Nationale démontre l’implication de nombreux adultes dans les blocages des lycées",
+            "link": "https://www.valeursactuelles.com/societe/lfi-enseignants-parents-deleves-un-rapport-de-leducation-nationale-demontre-limplication-de-nombreux-adultes-dans-les-blocages-des-lycees",
+            "publishedAt": "2026-11-25T16:01:59.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/17/964/0/4500/2250/644/322/60/0/f684113_upload-1-xrzsdxyj2isp-mfache-17112026-le-monde-manifestation-du-17-novembre-toulouse-004.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/societe/article/2026/11/25/mouvement-lyceen-plus-de-400-eleves-exclus-definitivement-de-leur-etablissement_6815162_3224.html"
+        }
+      },
+      {
+        "id": "s4e0d1499f8",
+        "topic": "politique",
+        "title": "Affaire Hugues Moutouh : un préfet démis après des soupçons de fuites",
+        "context": "Les relations entre des membres de l'appareil sécuritaire de l'État et des partis politiques font l'objet d'une surveillance accrue et de polémiques récurrentes.",
+        "summary": "Le préfet du Loiret et ancien secrétaire général du ministère de l'Intérieur, Hugues Moutouh, a été démis de ses fonctions lors du Conseil des ministres en raison de soupçons de fuites d'informations vers le Rassemblement national. L'intéressé conteste fermement ces accusations, les qualifiant de manœuvre, tandis que la classe politique réagit vivement à cette affaire qui met en cause le sommet de l'administration.",
+        "plain": "Le préfet du Loiret a été limogé suite à des allégations de fuites d'informations policières vers un parti politique. Cette affaire secoue l'appareil d'État et suscrit de nombreuses réactions politiques.",
+        "chart": null,
+        "stakes": [
+          "Quelles conséquences aura cette affaire sur la neutralité de l'administration ?",
+          "Comment s'exerce le contrôle des flux d'informations entre les cabinets ministériels et les partis ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Hugues Moutouh, préfet du Loiret, démis de ses fonctions après la révélation de soupçons de fuites émanant du ministère de l’intérieur vers le RN",
+            "link": "https://www.lemonde.fr/societe/article/2026/11/25/le-prefet-du-loiret-hugues-moutouh-demis-de-ses-fonctions-apres-la-revelation-de-soupcons-de-fuites-emanant-du-ministere-de-l-interieur-vers-le-rn_6815167_3224.html",
+            "publishedAt": "2026-11-25T19:11:02.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Valeurs actuelles",
+            "title": "Barnier veut recoller le « socle commun », David Lisnard a de la suite dans les idées, le RN s’agace de l’affaire Moutouh… Les coulisses politiques de la semaine",
+            "link": "https://www.valeursactuelles.com/clubvaleurs/politique/barnier-veut-recoller-le-socle-commun-david-lisnard-a-de-la-suite-dans-les-idees-le-rn-sagace-de-laffaire-moutouh-les-coulisses-politiques-de-la-semaine",
+            "publishedAt": "2026-11-25T17:00:10.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/25/358/0/4500/2250/644/322/60/0/f184162_ftp-1-ndwlpuu7oqln-afp-d8kl4g3.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/societe/article/2026/11/25/le-prefet-du-loiret-hugues-moutouh-demis-de-ses-fonctions-apres-la-revelation-de-soupcons-de-fuites-emanant-du-ministere-de-l-interieur-vers-le-rn_6815167_3224.html"
+        }
+      },
+      {
+        "id": "s0890ef7412",
+        "topic": "politique",
+        "title": "Campagne 2027 : la droite explore l'idée d'un débat face aux primaires",
+        "context": "L'opposition de droite et du centre cherche la meilleure stratégie pour désigner un candidat unique en vue de l'élection présidentielle de 2027.",
+        "summary": "Alors que le principe d'une primaire classique de la droite et du centre patine et suscite des résistances, de nouvelles pistes émergent. Édouard Philippe a ainsi proposé d'organiser un débat télévisé en face-à-face avec d'autres figures comme David Lisnard, contournant le format traditionnel des primaires et écartant pour l'instant certains cadres comme Bruno Retailleau.",
+        "plain": "Pour préparer l'élection présidentielle de 2027, les responsables de droite peinent à s'entendre sur une primaire et envisagent désormais des débats télévisés directs entre candidats potentiels.",
+        "chart": null,
+        "stakes": [
+          "Les primaires traditionnelles sont-elles définitivement obsolètes pour départager les candidats ?",
+          "Cette stratégie de débats en tête-à-tête permettra-t-elle de départager les prétendants ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Comment le candidat David Lisnard séduit les déçus d’une partie de la droite : « Avec Retailleau et Philippe, on continue sans rien changer »",
+            "link": "https://www.lemonde.fr/politique/article/2026/11/25/comment-le-candidat-david-lisnard-seduit-les-decus-d-une-partie-de-la-droite-avec-retailleau-et-philippe-on-continue-sans-rien-changer_6815170_823448.html",
+            "publishedAt": "2026-11-25T19:25:00.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Figaro",
+            "title": "Présidentielle 2027 : un débat plutôt qu’une primaire, la nouvelle piste à droite et au centre",
+            "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-un-debat-plutot-qu-une-primaire-la-nouvelle-piste-a-droite-et-au-centre-20261125",
+            "publishedAt": "2026-11-25T21:50:12.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "Les centristes en quête d’un candidat",
+            "link": "https://www.politico.eu/podcast/playbook-paris-podcast/les-centristes-en-quete-dun-candidat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-25T16:45:00.000Z",
+            "lang": "en",
+            "country": "BE"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/24/1609/0/4000/2000/644/322/60/0/271cf97_upload-1-zrxpowtvrz5f-cbi1358037.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/politique/article/2026/11/25/comment-le-candidat-david-lisnard-seduit-les-decus-d-une-partie-de-la-droite-avec-retailleau-et-philippe-on-continue-sans-rien-changer_6815170_823448.html"
+        }
+      },
+      {
+        "id": "s876b27bc55",
+        "topic": "justice",
+        "title": "Enquête sur un magistrat présent lors d'une perquisition au RN",
+        "context": "Les services d'inspection de la justice mènent des investigations pour clarifier le positionnement de membres de l'institution judiciaire.",
+        "summary": "L'Inspection générale de la justice a ouvert une enquête visant un procureur adjoint de Paris qui se trouvait au siège du Rassemblement national lors d'une perquisition. Cette procédure vise officiellement à lever toute ambiguïté sur sa présence, dans un contexte où les liens entre la magistrature et la classe politique sont scrutés de près.",
+        "plain": "Un haut magistrat parisien fait l'objet d'une enquête interne pour comprendre les raisons de sa présence au siège d'un parti politique lors d'une perquisition judiciaire.",
+        "chart": null,
+        "stakes": [
+          "La neutralité de l'institution judiciaire est-elle mise en cause par cet événement ?",
+          "Quelles sanctions pourraient être prises si un manquement déontologique était avéré ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Liens avec RN, enquête ouverte sur un magistrat",
+            "link": "https://www.franceinfo.fr/politique/front-national/liens-avec-rn-enquete-ouverte-sur-un-magistrat_8300337.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-25T21:00:02.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Valeurs actuelles",
+            "title": "« Écart abyssal entre les attentes des citoyens et les juges » : dans la magistrature, le monopole des syndicats de gauche résiste",
+            "link": "https://www.valeursactuelles.com/societe/ecart-abyssal-entre-les-attentes-des-citoyens-et-les-juges-dans-la-magistrature-le-monopole-des-syndicats-de-gauche-resiste",
+            "publishedAt": "2026-11-25T20:01:56.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/hiKynu7_4nHl4huo8aCq6Dx8Ju4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/25/6b0747e03d1a4733964716.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/politique/front-national/liens-avec-rn-enquete-ouverte-sur-un-magistrat_8300337.html#xtor=RSS-3-%5Bfrance%5D"
+        }
+      },
+      {
+        "id": "se071f43b60",
+        "topic": "environnement",
+        "title": "Violents orages et inondations soudaines dans le sud-est de la France",
+        "context": "Le littoral méditerranéen et ses environs subissent régulièrement des épisodes cévenols ou méditerranéens d'une grande intensité.",
+        "summary": "De violents orages ont frappé le Var et les Bouches-du-Rhône, déversant l'équivalent d'un mois de pluie en l'espace de six heures. Cette montée subite des eaux a nécessité la fermeture de axes routiers et l'évacuation temporaire de riverains. Dans le Var, des habitants d'une résidence récente ont exprimé leur incompréhension face à la vulnérabilité de leur logement bâti à proximité de deux cours d'eau.",
+        "plain": "Une tempête d'une rare violence a provoqué des inondations éclair dans le Var et les Bouches-du-Rhône, posant la question de l'urbanisation en zone inondable.",
+        "chart": null,
+        "stakes": [
+          "Les normes de construction actuelles prennent-elles suffisamment en compte le risque climatique ?",
+          "Quels aménagements peuvent protéger durablement les habitations riveraines de cours d'eau ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "\"L'eau est montée de partout dans le lotissement\" : un mois de pluie en six heures dans le sud-est de la France",
+            "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-eau-est-montee-de-partout-dans-le-lotissement-un-mois-de-pluie-en-six-heures-dans-le-sud-est-de-la-france_8300235.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-25T22:24:01.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "franceinfo",
+            "title": "Dans le Var, les habitants doivent emprunter une barque pour se rendre dans leur logement datant de 2024",
+            "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/dans-le-var-les-habitants-doivent-emprunter-une-barque-pour-se-rendre-dans-leur-logement-datant-de-2024_8300232.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-25T20:20:23.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/8WLNWl8_X_cvviDnxE5_piVyl-Y/0x12:1404x801/432x243/filters:format(jpg)/2026/11/25/6b0734477c025401271307.png",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-eau-est-montee-de-partout-dans-le-lotissement-un-mois-de-pluie-en-six-heures-dans-le-sud-est-de-la-france_8300235.html#xtor=RSS-3-%5Bfrance%5D"
+        }
+      },
+      {
+        "id": "sa057b2ad12",
+        "topic": "sante",
+        "title": "Alerte sanitaire sur l'utilisation médicale de l'intelligence artificielle",
+        "context": "L'essor des outils conversationnels et numériques pose la question de leur fiabilité dans le domaine sensible de la santé.",
+        "summary": "L'Agence nationale de sécurité du médicament (ANSM) a mis en garde le public contre l'utilisation de l'intelligence artificielle pour obtenir des conseils médicaux et des prescriptions. L'agence fait état de huit cas d'effets indésirables graves, dont une hospitalisation, principalement liés à des erreurs de dosage dans des traitements courants suggérés par des IA, rappelant les risques inhérents à ces pratiques non encadrées.",
+        "plain": "L'Agence du médicament alerte sur les dangers des conseils de santé donnés par des intelligences artificielle, après avoir recensé des erreurs de dosage ayant entraîné des hospitalisations.",
+        "chart": null,
+        "stakes": [
+          "Comment réguler l'accès aux conseils médicaux générés par des intelligences artificielles ?",
+          "Les professionnels de santé doivent-ils mieux informer sur les risques de l'automédication assistée par le numérique ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Conseils médicaux de l’IA : l’Agence du médicament rapporte huit cas d’effets indésirables, dont une hospitalisation",
+            "link": "https://www.liberation.fr/societe/sante/conseils-medicaux-de-lia-lagence-du-medicament-rapporte-huit-cas-deffets-indesirables-dont-une-hospitalisation-20261125_7OC3UPH5PBBG3ECEKECUKTTMN4/",
+            "publishedAt": "2026-11-25T21:00:00.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "L’agence de sécurité du médicament appelle à la prudence face aux conseils délivrés par l’IA",
+            "link": "https://sante.ouest-france.fr/medicament/lagence-de-securite-du-medicament-appelle-a-la-prudence-face-aux-conseils-delivres-par-lia-761c143e-e916-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-25T22:09:50.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExMTZhYTMyZjM4YzljMjg1Y2E5YTY0M2VmYWQ1NTE4NDM?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=9029488815cf72c496d2747bf58d2229c38d057aa770ff1f24aa7270749ab538",
+          "credit": "Ouest-France",
+          "link": "https://sante.ouest-france.fr/medicament/lagence-de-securite-du-medicament-appelle-a-la-prudence-face-aux-conseils-delivres-par-lia-761c143e-e916-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+        }
+      },
+      {
+        "id": "sc6c65f160a",
+        "topic": "economie",
+        "title": "Fermeture d'une verrerie historique en Gironde sur fond de crise viticole",
+        "context": "Le secteur de la viticulture française traverse des difficultés économiques qui se répercutent sur l'ensemble de sa chaîne de sous-traitance.",
+        "summary": "La verrerie de Vayres, en Gironde, qui produisait des millions de bouteilles par an, a annoncé la fermeture de ses portes. Cette décision met en lumière la crise profonde que traverse la filière viticole française, confrontée à une baisse de la consommation et à des difficultés de compétitivité qui impactent directement les fabricants d'emballages.",
+        "plain": "En raison des difficultés économiques de la filière viticole, une importante usine de fabrication de bouteilles en verre en Gironde doit cesser définitivement son activité.",
+        "chart": null,
+        "stakes": [
+          "Quelles aides peuvent être apportées aux sous-traitants touchés par la crise viticole ?",
+          "La baisse de la demande de vin est-elle une tendance structurelle durable en France ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Crise viticole : une verrerie historique ferme ses portes en Gironde",
+            "link": "https://www.franceinfo.fr/economie/entreprises/crise-viticole-une-verrerie-historique-ferme-ses-portes-en-gironde_8299812.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-25T16:05:38.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/fKTJnbI6R6AQAoj06dHzpo-SLmQ/0x91:1494x932/432x243/filters:format(jpg)/2026/11/25/6b06f0c4228aa280495805.png",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/economie/entreprises/crise-viticole-une-verrerie-historique-ferme-ses-portes-en-gironde_8299812.html#xtor=RSS-3-%5Bfrance%5D"
+        }
+      },
+      {
+        "id": "sc65ce16953",
+        "topic": "societe",
+        "title": "Échouement d'un cargo au large des Landes et ouverture d'une enquête",
+        "context": "La sécurité de la navigation maritime le long des côtes atlantiques françaises nécessite des opérations de secours complexes.",
+        "summary": "La préfecture maritime de l'Atlantique a annoncé l'ouverture d'une enquête judiciaire pour déterminer les causes de l'échouement du cargo « Miro G » dans les Landes. Le navire a pu être remis à flot au terme d'une opération technique particulièrement difficile, tandis que les riverains et les autorités locales s'interrogent sur les nuisances et les risques environnementaux liés au trafic de transit.",
+        "plain": "Un cargo s'est échoué sur les côtes des Landes avant d'être dégagé lors d'une délicate opération de sauvetage. Une enquête a été ouverte pour comprendre les raisons de cet incident.",
+        "chart": null,
+        "stakes": [
+          "Les routes maritimes proches des côtes françaises sont-elles suffisamment surveillées ?",
+          "Quelles sanctions ou responsabilités seront retenues en cas de défaillance humaine ou technique ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "\"On ne s'habitue pas à ce son de camion qui passe\" : les poids lourds, le cauchemar d’un village des Landes",
+            "link": "https://www.franceinfo.fr/france/nouvelle-aquitaine/landes/on-ne-s-habitue-pas-a-ce-son-de-camion-qui-passe-les-poids-lourds-le-cauchemar-d-un-village-des-landes_8299779.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-25T15:26:30.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Libération",
+            "title": "Cargo échoué dans les Landes : une enquête judiciaire ouverte",
+            "link": "https://www.liberation.fr/societe/police-justice/cargo-echoue-dans-les-landes-une-enquete-judiciaire-ouverte-20261125_IAI4ZXZTMZFMLBKG2ZE53SY3MM/",
+            "publishedAt": "2026-11-25T21:26:47.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/IAjFGF04yFynFtRF-b8YVM0lkvM/0x97:1408x889/432x243/filters:format(jpg)/2026/11/25/6b06ea822f8f8733350979.png",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/france/nouvelle-aquitaine/landes/on-ne-s-habitue-pas-a-ce-son-de-camion-qui-passe-les-poids-lourds-le-cauchemar-d-un-village-des-landes_8299779.html#xtor=RSS-3-%5Bfrance%5D"
+        }
+      },
+      {
+        "id": "s0c2c3b2644",
+        "topic": "sport",
+        "title": "Ligue des champions : exploit de Lille face au Bayern et nul du PSG",
+        "context": "La phase de groupes de la Ligue européenne de football réserve des fortunes diverses aux clubs français engagés.",
+        "summary": "Le LOSC a réalisé une performance remarquée en s'imposant à domicile face au Bayern Munich, tandis que le Paris Saint-Germain a concédé un match nul face à l'AS Roma. Ces résultats modifient la position des clubs français dans le classement général de la compétition européenne, illustrant l'écart de dynamiques entre une équipe lilloise souveraine et un club parisien freiné malgré les absences.",
+        "plain": "En Ligue des champions, Lille a battu le Bayern Munich lors d'un match mémorable, tandis que le Paris Saint-Germain a été accroché sur sa pelouse par l'AS Roma.",
+        "chart": null,
+        "stakes": [
+          "Les clubs français parviendront-ils à maintenir leur position lors des prochaines journées européennes ?",
+          "L'effectif du Paris Saint-Germain est-il suffisamment armé pour faire face aux blessures ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Ligue des champions : le résumé de l’exploit des Lillois face au Bayern Munich et du match nul du PSG face à l’AS Roma",
+            "link": "https://www.lemonde.fr/sport/article/2026/11/25/ligue-des-champions-le-resume-de-l-exploit-des-lillois-face-au-bayern-munich-et-du-match-nul-du-psg-face-a-l-as-roma_6815176_3242.html",
+            "publishedAt": "2026-11-25T22:32:09.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "Ligue des champions. Le classement après la 5e journée : le PSG perd la tête, Lille peut y croire, Lens en danger",
+            "link": "https://www.ouest-france.fr/sport/football/ligue-des-champions/ligue-des-champions-le-classement-apres-la-5e-journee-le-psg-perd-la-tete-lille-peut-y-croire-lens-en-danger-abb4e69a-e90a-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-25T22:53:49.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "VIDÉO. Le but gag contre son camp de Pavlovic face à Lille en Ligue des champions",
+            "link": "https://www.ouest-france.fr/sport/football/lille-osc/video-le-but-gag-contre-son-camp-de-pavlovic-face-a-lille-en-ligue-des-champions-9d3facd8-e916-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-25T21:45:41.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "El País",
+            "title": "El PSG encalla en casa contra la Roma y el Bayern se lleva un revolcón en Lille",
+            "link": "https://elpais.com/deportes/futbol/2026-11-25/el-psg-encalla-en-casa-contra-la-roma-y-el-bayern-se-lleva-un-revolcon-en-lille.html",
+            "publishedAt": "2026-11-25T22:30:21.000Z",
+            "lang": "es",
+            "country": "ES"
+          },
+          {
+            "name": "France 24",
+            "title": "Ligue des champions : première difficulté pour le PSG, Lille signe un exploit face au Bayern",
+            "link": "https://www.france24.com/fr/sports/20261125-ligue-des-champions-premi%C3%A8re-difficult%C3%A9-pour-le-psg-lille-signe-un-exploit-face-au-bayern",
+            "publishedAt": "2026-11-25T22:35:25.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "RFI",
+            "title": "Ligue des champions: le PSG accroché par la Roma, Lille s’offre le Bayern",
+            "link": "https://www.rfi.fr/fr/sports/20261125-ligue-des-champions-le-psg-accroch%C3%A9-par-la-roma-lille-s-offre-le-bayern",
+            "publishedAt": "2026-11-25T22:00:10.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/25/276/0/2275/1137/644/322/60/0/8b62922_ftp-1-5zi0gv4rxbyx-afp-d8mp886.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/sport/article/2026/11/25/ligue-des-champions-le-resume-de-l-exploit-des-lillois-face-au-bayern-munich-et-du-match-nul-du-psg-face-a-l-as-roma_6815176_3242.html"
+        }
+      },
+      {
+        "id": "sb7980e96db",
+        "topic": "culture",
+        "title": "Disparition du guitariste Andy Taylor, figure du groupe Duran Duran",
+        "context": "La scène musicale pop-rock internationale des années 1980 perd l'un de ses instrumentistes emblématiques.",
+        "summary": "Le musicien britannique Andy Taylor, guitariste du groupe de new wave Duran Duran, est décédé à l'âge de 65 ans des suites d'un cancer de la prostate diagnostiqué plusieurs années auparavant. Sa disparition a suscité de nombreux hommages de la part de ses anciens partenaires de scène et de fans à travers le monde, saluant son empreinte musicale sur la décennie 1980.",
+        "plain": "Le guitariste du célèbre groupe pop des années 1980 Duran Duran est mort à l'âge de 65 ans après un long combat contre la maladie, salué par de nombreux hommages internationaux.",
+        "chart": null,
+        "stakes": [
+          "Quelle postérité musicale laisse le groupe Duran Duran pour la nouvelle génération d'artistes ?",
+          "La sensibilisation au cancer de la prostate est-elle renforcée par le témoignage de personnalités publiques ?"
+        ],
+        "sources": [
+          {
+            "name": "Ouest-France",
+            "title": "Décès à 65 ans d’Andy Taylor, ex-guitariste du groupe britannique Duran Duran",
+            "link": "https://www.ouest-france.fr/culture/musiques/deces-a-65-ans-dandy-taylor-ex-guitariste-du-groupe-britannique-duran-duran-2940280e-e91a-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-25T22:23:23.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
+            "link": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
+            "publishedAt": "2026-11-25T21:41:34.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Hindu",
+            "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+            "link": "https://www.thehindu.com/entertainment/music/andy-taylor-guitarist-of-new-wave-icons-duran-duran-dies-at-65/article71744266.ece",
+            "publishedAt": "2026-11-25T22:46:30.000Z",
+            "lang": "en",
+            "country": "IN"
+          },
+          {
+            "name": "The Straits Times",
+            "title": "Duran Duran guitarist and songwriter Andy Taylor dies at 65",
+            "link": "https://www.straitstimes.com/world/duran-duran-guitarist-and-songwriter-andy-taylor-dies-at-65",
+            "publishedAt": "2026-11-25T23:16:43.000Z",
+            "lang": "en",
+            "country": "SG"
+          },
+          {
+            "name": "South China Morning Post",
+            "title": "Duran Duran guitarist Andy Taylor, sound of the 1980s, dies at 65",
+            "link": "https://www.scmp.com/news/world/europe/article/3375817/duran-duran-guitarist-andy-taylor-sound-1980s-dies-65",
+            "publishedAt": "2026-11-25T23:20:50.000Z",
+            "lang": "en",
+            "country": "HK"
+          },
+          {
+            "name": "ANSA",
+            "title": "Morto Andy Taylor, ex chitarrista dei Duran Duran",
+            "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/25/morto-andy-taylor-ex-chitarrista-dei-duran-duran-_af6007f1-1f71-4392-84ac-08b6060d3c63.html",
+            "publishedAt": "2026-11-25T23:03:24.000Z",
+            "lang": "it",
+            "country": "IT"
+          },
+          {
+            "name": "RFI",
+            "title": "Décès à 65 ans d'Andy Taylor, ex-guitariste du groupe britannique Duran Duran",
+            "link": "https://www.rfi.fr/fr/musique/20261125-d%C3%A9c%C3%A8s-%C3%A0-65-ans-d-andy-taylor-ex-guitariste-du-groupe-britannique-duran-duran",
+            "publishedAt": "2026-11-25T22:43:56.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExNDhiYzhlOWUzYzI5Y2ViZmE4NDNmNmUzN2U3YmQ4Mjg?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=459f757d0c8306a422aea11866787a29a453c2bfd5d82db1c0fa9f20b9c14d7f",
+          "credit": "Ouest-France",
+          "link": "https://www.ouest-france.fr/culture/musiques/deces-a-65-ans-dandy-taylor-ex-guitariste-du-groupe-britannique-duran-duran-2940280e-e91a-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+        }
+      }
+    ],
+    "monde": [
+      {
+        "id": "s44b9eb597d",
+        "topic": "justice",
+        "title": "Huawei reconnu coupable de vol de secrets industriels aux États-Unis",
+        "context": "Le géant chinois des télécommunications Huawei faisait l'objet de poursuites judiciaires aux États-Unis depuis plusieurs années. Les autorités américaines l'accusaient notamment d'espionnage industriel et d'avoir cherché à s'approprier des technologies américaines.",
+        "summary": "Un jury fédéral américain a déclaré l'entreprise chinoise Huawei coupable de vol de secrets commerciaux et de fraude bancaire à l'issue d'un procès à New York. La justice lui reproche d'avoir cherché à obtenir des informations technologiques en tentant de recruter des salariés de sociétés américaines. L'entreprise a en revanche été acquittée de l'accusation d'association de malfaiteurs et de racket. Huawei a réagi en affirmant que cet acquittement partiel démontre le manque de fondement de certaines allégations portées contre elle.",
+        "plain": "EN CLAIR : La justice américaine a jugé la société chinoise Huawei coupable d'avoir volé des secrets industriels à des entreprises des États-Unis. Elle a toutefois innocenté le groupe des accusations les plus graves de crime organisé. Cela met fin à un long procès débuté il y a plusieurs années.",
+        "chart": null,
+        "stakes": [
+          "Évolution des relations commerciales et technologiques entre les États-Unis et la Chine",
+          "Renforcement de la protection de la propriété intellectuelle dans le secteur de la tech",
+          "Impact sur la présence internationale de l'équipementier chinois"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde (International)",
+            "title": "Le géant chinois Huawei reconnu coupable de vol de secrets industriels aux Etats-Unis, après huit ans de procédure",
+            "link": "https://www.lemonde.fr/international/article/2026/11/25/le-geant-chinois-huawei-reconnu-coupable-de-vol-de-secrets-industriels-aux-etats-unis-apres-huit-ans-de-procedure_6814902_3210.html",
+            "publishedAt": "2026-11-24T23:49:03.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+            "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-24T22:24:23.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Sky News",
+            "title": "Huawei guilty of plotting to steal trade secrets and bank fraud",
+            "link": "https://news.sky.com/story/chinese-tech-giant-guilty-of-plotting-to-steal-trade-secrets-and-bank-fraud-13616130",
+            "publishedAt": "2026-11-24T21:05:00.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Wall Street Journal",
+            "title": "China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
+            "link": "https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=rss_worldnews",
+            "publishedAt": "2026-11-24T22:41:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
+            "link": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
+            "publishedAt": "2026-11-24T21:43:34.000Z",
+            "lang": "en",
+            "country": "QA"
+          },
+          {
+            "name": "The Hindu",
+            "title": "Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets, U.S. jury finds",
+            "link": "https://www.thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece",
+            "publishedAt": "2026-11-24T22:55:50.000Z",
+            "lang": "en",
+            "country": "IN"
+          },
+          {
+            "name": "ANSA",
+            "title": "Huawei giudicata colpevole negli Usa di aver rubato segreti industriali",
+            "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/24/huawei-colpevole-di-aver-rubato-segreti-industriali-e-frode-bancaria-negli-stati_041d7ec5-fc47-4e54-a632-55a769f737fe.html",
+            "publishedAt": "2026-11-24T21:38:19.000Z",
+            "lang": "it",
+            "country": "IT"
+          },
+          {
+            "name": "France 24",
+            "title": "Le groupe chinois Huawei reconnu coupable de vol de secret industriel aux États-Unis",
+            "link": "https://www.france24.com/fr/%C3%A9co-tech/20261124-le-groupe-chinois-huawei-reconnu-coupable-de-vol-de-secret-industriel-aux-%C3%A9tats-unis",
+            "publishedAt": "2026-11-24T23:01:24.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2020/06/03/421/0/3500/1747/644/322/60/0/20b32a4_FW1_HUAWEI-IRAN-PROBE_0603_1C.JPG",
+          "credit": "Le Monde (International)",
+          "link": "https://www.lemonde.fr/international/article/2026/11/25/le-geant-chinois-huawei-reconnu-coupable-de-vol-de-secrets-industriels-aux-etats-unis-apres-huit-ans-de-procedure_6814902_3210.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Huawei found guilty of trade secret theft in the United States",
+            "context": "Chinese telecommunications giant Huawei had been facing legal proceedings in the United States for several years. US authorities accused the company in particular of industrial espionage and of attempting to misappropriate American technologies.",
+            "summary": "A US federal jury found Chinese company Huawei guilty of trade secret theft and bank fraud following a trial in New York. The court found that the company sought to obtain technological information by attempting to recruit employees from American firms. However, the company was acquitted of conspiracy and racketeering charges. Huawei reacted by stating that this partial acquittal demonstrates the baselessness of certain allegations made against it.",
+            "plain": "IN SHORT: The US judiciary found the Chinese company Huawei guilty of stealing industrial secrets from US companies. However, the group was cleared of the most serious organized crime charges. This brings to an end a lengthy trial that began several years ago.",
+            "stakes": [
+              "Evolution of trade and technological relations between the United States and China",
+              "Strengthening of intellectual property protection in the tech sector",
+              "Impact on the international presence of the Chinese equipment manufacturer"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Huawei declarado culpable de robo de secretos industriales en Estados Unidos",
+            "context": "El gigante chino de las telecomunicaciones Huawei llevaba varios años enfrentándose a procesos judiciales en Estados Unidos. Las autoridades estadounidenses lo acusaban en particular de espionaje industrial y de haber intentado apropiarse de tecnologías estadounidenses.",
+            "summary": "Un jurado federal estadounidense declaró a la empresa china Huawei culpable de robo de secretos comerciales y fraude bancario tras un juicio en Nueva York. La justicia le reprocha haber intentado obtener información tecnológica al intentar reclutar a empleados de empresas estadounidenses. Sin embargo, la empresa fue absuelta de los cargos de conspiración y crimen organizado. Huawei reaccionó afirmando que esta absolución parcial demuestra la falta de fundamento de algunas de las acusaciones vertidas en su contra.",
+            "plain": "EN CLARO: La justicia estadounidense consideró a la empresa china Huawei culpable de haber robado secretos industriales a empresas de Estados Unidos. Sin embargo, el grupo fue exonerado de las acusaciones más graves de crimen organizado. Esto pone fin a un largo juicio iniciado hace varios años.",
+            "stakes": [
+              "Evolución de las relaciones comerciales y tecnológicas entre Estados Unidos y China",
+              "Refuerzo de la protección de la propiedad intelectual en el sector tecnológico",
+              "Impacto en la presencia internacional del fabricante chino de equipos"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "se7a9afdf27",
+        "topic": "international",
+        "title": "Vigilance renforcée de l'OTAN après des attaques et incursions russes",
+        "context": "Les tensions entre la Russie et l'Alliance atlantique augmentent en marge de la guerre en Ukraine. Plusieurs incidents impliquant des missiles ou des drones russes ont été constatés près des frontières des pays membres de l'OTAN.",
+        "summary": "Des missiles de croisière russes ont frappé le territoire polonais, tandis que des bombardements nocturnes à Zaporijjia ont fait deux morts et 48 blessés. Le secrétaire général de l'OTAN, Mark Rutte, a cherché à rassurer les pays membres situés à l'Est face à la hausse des violations d'espace aérien. La Pologne a réclamé un déploiement permanent de troupes américaines sur son sol à la suite du survol de son territoire par un drone russe. De leur côté, les services de renseignement britanniques préviennent les entreprises soutenant l'Ukraine contre des risques accrus de sabotage attribués à des agents russes.",
+        "plain": "EN CLAIR : Des missiles et des drones russes ont pénétré dans l'espace aérien polonais, provoquant une vive alerte chez les membres de l'OTAN. Les pays d'Europe de l'Est demandent un renforcement des défenses militaires face à ces incidents répétés. Dans le même temps, le Royaume-Uni met en garde contre des actes de sabotage visant des entreprises.",
+        "chart": null,
+        "stakes": [
+          "Risque d'escalade directe entre la Russie et les membres de l'OTAN",
+          "Renforcement permanent des moyens militaires sur le flanc oriental européen",
+          "Sécurisation des entreprises et infrastructures européennes d'approvisionnement"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Guerre en Ukraine : ce qu’il faut retenir de la situation du mardi 24 novembre",
+            "link": "https://www.la-croix.com/international/ukraine-russie-jour-1735-point-conflit-ukrainien-poutine-aujourdhui-20261124",
+            "publishedAt": "2026-11-24T20:29:58.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
+            "link": "https://www.bbc.co.uk/news/articles/ckpdw4d0z2dwo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-24T17:39:32.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "NPR",
+            "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
+            "link": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
+            "publishedAt": "2026-11-24T09:52:03.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "NPR",
+            "title": "Russian incursions into NATO territory are increasing",
+            "link": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
+            "publishedAt": "2026-11-23T23:08:51.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
+            "link": "https://www.washingtonpost.com/world/2026/11/23/nato-calls-urgent-meeting-string-incidents-escalates-russia-tensions/",
+            "publishedAt": "2026-11-23T18:58:51.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Fox News",
+            "title": "NATO fighter jet cleared to shoot down Russian missile over Poland as Warsaw pushes for US troops",
+            "link": "https://www.foxnews.com/world/nato-jet-cleared-shoot-russian-missile-poland-warsaw-pushes-us-troops",
+            "publishedAt": "2026-11-24T20:56:51.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Hindu",
+            "title": "A Russian strike on Ukraine kills two, wounds 48 as Kyiv explains its attack in Libya",
+            "link": "https://www.thehindu.com/news/international/russian-attack-kills-two-people-wounds-22-in-ukraines-zaporizhzhia-official-says/article71737237.ece",
+            "publishedAt": "2026-11-24T17:14:46.000Z",
+            "lang": "en",
+            "country": "IN"
+          },
+          {
+            "name": "The Japan Times",
+            "title": "U.K. warns of Russian sabotage threat to companies that supply Ukraine",
+            "link": "https://www.japantimes.co.jp/business/2026/11/25/companies/uk-russia-sabotage-companies-ukraine/",
+            "publishedAt": "2026-11-24T23:31:00.000Z",
+            "lang": "en",
+            "country": "JP"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/24/2597351-des-policiers-ukrainiens-inspectent-les-lieux-d-un.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/international/ukraine-russie-jour-1735-point-conflit-ukrainien-poutine-aujourdhui-20261124"
+        },
+        "i18n": {
+          "en": {
+            "title": "Enhanced NATO vigilance following Russian attacks and incursions",
+            "context": "Tensions between Russia and the Atlantic Alliance are escalating on the sidelines of the war in Ukraine. Several incidents involving Russian missiles or drones have been reported near the borders of NATO member countries.",
+            "summary": "Russian cruise missiles struck Polish territory, while nighttime bombardments in Zaporizhzhia left two people dead and 48 injured. NATO Secretary General Mark Rutte sought to reassure eastern member countries in the face of rising airspace violations. Poland has called for the permanent deployment of US troops on its soil following the flight of a Russian drone over its territory. Meanwhile, British intelligence services are warning companies supporting Ukraine against increased risks of sabotage attributed to Russian agents.",
+            "plain": "IN SHORT: Russian missiles and drones entered Polish airspace, causing high alert among NATO members. Eastern European countries are demanding reinforced military defenses in response to these repeated incidents. At the same time, the United Kingdom issued a warning regarding acts of sabotage targeting businesses.",
+            "stakes": [
+              "Risk of direct escalation between Russia and NATO members",
+              "Permanent reinforcement of military assets on Europe's eastern flank",
+              "Securing European supply companies and infrastructure"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Vigilancia reforzada de la OTAN tras ataques e incursiones rusas",
+            "context": "Las tensiones entre Rusia y la Alianza Atlántica aumentan al margen de la guerra en Ucrania. Se han constatado varios incidentes relacionados con misiles o drones rusos cerca de las fronteras de los países miembros de la OTAN.",
+            "summary": "Misiles de crucero rusos impactaron en territorio polaco, mientras que los bombardeos nocturnos en Zaporiyia causaron dos muertos y 48 heridos. El secretario general de la OTAN, Mark Rutte, intentó tranquilizar a los países miembros situados en el este frente al aumento de las violaciones del espacio aéreo. Polonia exigió el despliegue permanente de tropas estadounidenses en su suelo tras el vuelo de un dron ruso sobre su territorio. Por su parte, los servicios de inteligencia británicos advierten a las empresas que apoyan a Ucrania sobre un mayor riesgo de sabotaje atribuido a agentes rusos.",
+            "plain": "EN CLARO: Misiles y drones rusos penetraron en el espacio aéreo polaco, provocando una viva alerta entre los miembros de la OTAN. Los países de Europa del Este exigen un refuerzo de las defensas militares ante estos repetidos incidentes. Al mismo tiempo, el Reino Unido advierte sobre actos de sabotaje dirigidos contra empresas.",
+            "stakes": [
+              "Riesgo de una escalada directa entre Rusia y los miembros de la OTAN",
+              "Refuerzo permanente de los medios militares en el flanco oriental europeo",
+              "Protección de las empresas e infraestructuras de suministro europeas"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "seafeb4ac12",
+        "topic": "economie",
+        "title": "Retour polémique de Jensen Huang à la tête du géant Nvidia",
+        "context": "Le patron du premier fabricant mondial de puces électroniques Nvidia avait quitté ses fonctions à la suite de révélations sur sa vie privée et de soupçons d'espionnage. L'entreprise est au cœur de l'industrie mondiale de l'intelligence artificielle.",
+        "summary": "Jensen Huang a réintégré son poste de PDG de Nvidia après des démarches de l'administration de Donald Trump auprès du conseil d'administration. Lors d'une réunion avec ses équipes, le dirigeant a présenté ses excuses et indiqué suivre une thérapie. Cette réintégration suscite d'importantes contestations politiques à Washington, des parlementaires demandant des clarifications au gouvernement américain sur d'éventuels conflits d'intérêts. Sur les marchés financiers, le titre de l'entreprise a connu une forte volatilité, reflétant l'incertitude des investisseurs.",
+        "plain": "EN CLAIR : Le patron du fabricant de puces électroniques Nvidia a repris son poste avec l'appui du président américain Donald Trump après avoir été écarté. Ce retour provoque des critiques politiques à Washington et fait s'agiter les marchés financiers. L'affaire montre l'importance capitale de cette entreprise pour l'économie des États-Unis.",
+        "chart": null,
+        "stakes": [
+          "Implication politique directe dans la gouvernance des grandes entreprises stratégiques",
+          "Stabilité des cours boursiers des entreprises leaders de l'intelligence artificielle",
+          "Pression des autorités réglementaires sur l'utilisation des modèles d'IA"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Retour de Jensen Huang à Nvidia : «J’ai commis de terribles erreurs», s’excuse le PDG",
+            "link": "https://www.liberation.fr/economie/economie-numerique/onze-jours-apres-sa-demission-nvidia-reintegre-jensen-huang-a-son-poste-de-directeur-general-20261123_OQ3UFJGVAZER5JTIPRRTKF7W7Q/",
+            "publishedAt": "2026-11-24T20:37:49.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "L'Express",
+            "title": "\"Une insulte envers les Américains\" : le retour de Jensen Huang chez Nvidia vu par la presse anglo-saxonne",
+            "link": "https://www.lexpress.fr/monde/amerique/une-insulte-envers-les-americains-le-retour-de-jensen-huang-chez-nvidia-vu-par-la-presse-anglo-ATCUB44KBNDERDIQ5LVOE6VBLU/",
+            "publishedAt": "2026-11-24T13:44:26.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "US attorney general dodges questions about Nvidia investigation",
+            "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-24T21:19:42.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
+            "link": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+            "publishedAt": "2026-11-24T23:53:45.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Deutsche Welle",
+            "title": "How cautious investors are struggling to avoid the AI bubble",
+            "link": "https://www.dw.com/en/how-cautious-investors-are-struggling-to-avoid-the-ai-bubble/a-80016412?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-24T10:59:00.000Z",
+            "lang": "en",
+            "country": "DE"
+          },
+          {
+            "name": "NPR",
+            "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+            "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+            "publishedAt": "2026-11-24T12:12:25.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The New York Times",
+            "title": "National Security vs. the Stock Market",
+            "link": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
+            "publishedAt": "2026-11-24T20:56:04.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Wall Street Journal",
+            "title": "Huang Tells Staff He Is in Therapy, Apologizes in Nvidia Town Hall",
+            "link": "https://www.wsj.com/tech/huang-tells-staff-he-is-in-therapy-apologizes-in-nvidia-town-hall-b79647f0?mod=rss_worldnews",
+            "publishedAt": "2026-11-24T20:09:00.000Z",
+            "lang": "en",
+            "country": "US"
+          }
+        ],
+        "image": {
+          "url": "https://www.lexpress.fr/resizer/v2/MKHPWHTQ2VHPZO3ILCDXTLKBM4.jpg?auth=8066ab26b8c5c79f99bb8c3de7e6f6744bb782bdbb4f162a9f662e80ab867574&smart=true&width=4000&height=2666",
+          "credit": "L'Express",
+          "link": "https://www.lexpress.fr/monde/amerique/une-insulte-envers-les-americains-le-retour-de-jensen-huang-chez-nvidia-vu-par-la-presse-anglo-ATCUB44KBNDERDIQ5LVOE6VBLU/"
+        },
+        "i18n": {
+          "en": {
+            "title": "Controversial return of Jensen Huang to lead tech giant Nvidia",
+            "context": "The head of the world's leading microchip manufacturer Nvidia had stepped down following revelations regarding his private life and suspicions of espionage. The company is at the heart of the global artificial intelligence industry.",
+            "summary": "Jensen Huang returned to his post as CEO of Nvidia following interventions by Donald Trump's administration with the board of directors. During a meeting with his teams, the executive apologized and indicated he is undergoing therapy. This reintegration has sparked significant political controversy in Washington, with lawmakers demanding clarifications from the US government regarding potential conflicts of interest. On the financial markets, the company's stock experienced high volatility, reflecting investor uncertainty.",
+            "plain": "IN SHORT: The head of microchip maker Nvidia has resumed his position with the backing of US President Donald Trump after being sidelined. This return has provoked political criticism in Washington and caused agitation on the financial markets. The affair demonstrates the critical importance of this company to the US economy.",
+            "stakes": [
+              "Direct political involvement in the governance of major strategic companies",
+              "Stability of stock prices for leading artificial intelligence companies",
+              "Pressure from regulatory authorities on the use of AI models"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Regreso polémico de Jensen Huang al frente del gigante Nvidia",
+            "context": "El director del principal fabricante mundial de microchips Nvidia había dejado su puesto tras revelaciones sobre su vida privada y sospechas de espionaje. La empresa se encuentra en el centro de la industria mundial de la inteligencia artificial.",
+            "summary": "Jensen Huang retomó su puesto como consejero delegado de Nvidia tras gestiones de la administración de Donald Trump ante el consejo de administración. Durante una reunión con sus equipos, el dirigente pidió disculpas y señaló que está siguiendo una terapia. Esta reincorporación suscita importantes protestas políticas en Washington, y varios parlamentarios exigen aclaraciones al gobierno estadounidense sobre posibles conflictos de intereses. En los mercados financieros, las acciones de la empresa experimentaron una fuerte volatilidad, reflejando la incertidumbre de los inversores.",
+            "plain": "EN CLARO: El director del fabricante de microchips Nvidia recuperó su puesto con el apoyo del presidente estadounidense Donald Trump tras haber sido apartado. Este regreso provoca críticas políticas en Washington y agita los mercados financieros. El asunto demuestra la importancia capital de esta empresa para la economía de Estados Unidos.",
+            "stakes": [
+              "Implicación política directa en la gobernanza de las grandes empresas estratégicas",
+              "Estabilidad de las cotizaciones bursátiles de las empresas líderes en inteligencia artificial",
+              "Presión de las autoridades reguladoras sobre el uso de modelos de IA"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s78d096bff3",
+        "topic": "sport",
+        "title": "Le Sénégal déclaré champion d'Afrique 2025 par la justice sportive",
+        "context": "La finale de la Coupe d'Afrique des nations opposant le Sénégal au Maroc s'était déroulée dans un climat tendu. L'instance continentale avait dans un premier temps retiré le titre aux Sénégalais au profit de l'équipe marocaine.",
+        "summary": "Le Tribunal arbitral du sport (TAS), instance basée en Suisse qui tranche les litiges sportifs internationaux, a annulé les décisions précédentes et restitué le titre de champion d'Afrique au Sénégal. Les juges ont statué à l'unanimité dix mois après la tenue de la finale. La décision met fin à une longue procédure juridique entre les fédérations des deux pays. Si la décision provoque la satisfaction des supporters sénégalais, les autorités sportives marocaines ont accueilli le verdict avec fatalisme.",
+        "plain": "EN CLAIR : Dix mois après la finale contestée de la Coupe d'Afrique des nations, la justice sportive a tranché définitivement. Le Sénégal récupère officiel son titre de champion face au Maroc. Cela met un terme à une longue querelle juridique entre les deux pays.",
+        "chart": null,
+        "stakes": [
+          "Autorité et jurisprudence du Tribunal arbitral du sport sur les instances africaines",
+          "Apaisement des relations sportives entre les fédérations sénégalaise et marocaine",
+          "Crédibilité de l'organisation des grandes compétitions continentales"
+        ],
+        "sources": [
+          {
+            "name": "L'Humanité",
+            "title": "Le Sénégal a bien remporté la CAN 2026 face au Maroc selon le Tribunal arbitral du sport",
+            "link": "https://www.humanite.fr/sports/coupe-dafrique-des-nations/le-senegal-a-bien-remporte-la-can-2026-face-au-maroc-selon-le-tribunal-arbitral-du-sport",
+            "publishedAt": "2026-11-24T18:47:10.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Sky News",
+            "title": "Morocco 'astonished' at decision to restore Senegal as Africa Cup of Nations champions",
+            "link": "https://news.sky.com/story/senegal-awarded-africa-cup-of-nations-after-winning-appeal-over-title-being-stripped-13615900",
+            "publishedAt": "2026-11-24T08:06:00.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "ABC News (Australie)",
+            "title": "Senegal reinstated as African champions after appeal",
+            "link": "https://www.abc.net.au/news/2026-11-25/senegal-reinstated-as-african-champions-morocco-afcon/107423820",
+            "publishedAt": "2026-11-24T21:31:33.000Z",
+            "lang": "en",
+            "country": "AU"
+          },
+          {
+            "name": "France 24",
+            "title": "Edition spéciale : CAN-2025, le Sénégal récupère son titre de champion d'Afrique",
+            "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261124-edition-sp%C3%A9ciale-can-2025-le-s%C3%A9n%C3%A9gal-r%C3%A9cup%C3%A8re-son-titre-de-champion-d-afrique",
+            "publishedAt": "2026-11-24T21:58:13.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "RFI",
+            "title": "CAN 2025: le Sénégal en joie après sa victoire réattribuée par le TAS, le Maroc fataliste",
+            "link": "https://www.rfi.fr/fr/afrique-foot/20261124-can-2025-le-s%C3%A9n%C3%A9gal-en-joie-apr%C3%A8s-sa-victoire-r%C3%A9attribu%C3%A9e-par-le-tas-le-maroc-fataliste",
+            "publishedAt": "2026-11-24T21:09:23.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "VIDEO CAN 2025 : le Sénégal champion d’Afrique plus de 300 jours après la finale",
+            "link": "https://www.lemonde.fr/international/video/2026/11/24/can-2025-le-senegal-champion-d-afrique-de-football-voici-la-decision-du-tribunal-arbitral-du-sport_6814845_3210.html",
+            "publishedAt": "2026-11-24T19:08:17.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Jeune Afrique",
+            "title": "CAN 2025 : le Sénégal récupère son titre, le Maroc déchu",
+            "link": "https://www.jeuneafrique.com/1864770/politique/can-2025-le-senegal-recupere-son-titre-le-maroc-dechu/",
+            "publishedAt": "2026-11-24T15:34:51.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.humanite.fr/wp-content/uploads/2026/11/senegal.jpg?w=1200",
+          "credit": "L'Humanité",
+          "link": "https://www.humanite.fr/sports/coupe-dafrique-des-nations/le-senegal-a-bien-remporte-la-can-2026-face-au-maroc-selon-le-tribunal-arbitral-du-sport"
+        },
+        "i18n": {
+          "en": {
+            "title": "Senegal declared 2025 African champion by sports court",
+            "context": "The Africa Cup of Nations final between Senegal and Morocco took place in a tense atmosphere. The continental governing body had initially stripped the Senegalese of the title in favor of the Moroccan team.",
+            "summary": "The Court of Arbitration for Sport (CAS), a Switzerland-based body that resolves international sports disputes, annulled previous decisions and restored the African champion title to Senegal. The judges ruled unanimously ten months after the final was held. The decision brings to an end a lengthy legal procedure between the federations of the two countries. While the decision has brought satisfaction to Senegalese supporters, Moroccan sports authorities received the verdict with fatalism.",
+            "plain": "IN SHORT: Ten months after the disputed Africa Cup of Nations final, sports justice has made a definitive ruling. Senegal officially recovers its champion title against Morocco. This brings an end to a long legal dispute between the two countries.",
+            "stakes": [
+              "Authority and jurisprudence of the Court of Arbitration for Sport over African governing bodies",
+              "Easing of sporting relations between the Senegalese and Moroccan federations",
+              "Credibility of the organization of major continental competitions"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Senegal declarado campeón de África 2025 por la justicia deportiva",
+            "context": "La final de la Copa Africana de Naciones entre Senegal y Marruecos se desarrolló en un clima tenso. La instancia continental había retirado inicialmente el título a los senegaleses en favor de la selección marroquí.",
+            "summary": "El Tribunal de Arbitraje Deportivo (TAS), organismo con sede en Suiza que resuelve litigios deportivos internacionales, anuló las decisiones anteriores y devolvió el título de campeón de África a Senegal. Los jueces dictaminaron por unanimidad diez meses después de la celebración de la final. La decisión pone fin a un largo procedimiento judicial entre las federaciones de ambos países. Aunque la decisión provoca la satisfacción de los aficionados senegaleses, las autoridades deportivas marroquíes acogieron el veredicto con fatalismo.",
+            "plain": "EN CLARO: Diez meses después de la disputada final de la Copa Africana de Naciones, la justicia deportiva ha tomado una decisión definitiva. Senegal recupera oficialmente su título de campeón frente a Marruecos. Esto pone fin a una larga disputa jurídica entre ambos países.",
+            "stakes": [
+              "Autoridad y jurisprudencia del Tribunal de Arbitraje Deportivo sobre las instancias africanas",
+              "Apaciguamiento de las relaciones deportivas entre las federaciones senegalesa y marroquí",
+              "Credibilidad de la organización de las grandes competiciones continentales"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s97e4769547",
+        "topic": "environnement",
+        "title": "Clôture de la COP31 sans accord sur les énergies fossiles",
+        "context": "La 31e conférence des Nations unies sur le climat se déroulait à Antalya, en Turquie. Les représentants de près de 200 pays négociaient des engagements mondiaux pour lutter contre le réchauffement de la planète.",
+        "summary": "Les discussions de la COP31 se sont achevées avec deux jours de retard sans qu'un texte final ne puisse être adopté. Les négociateurs ne sont pas parvenus à un consensus sur la formulation concernant l'abandon progressif des combustibles fossiles. Alors que la présidence turque met en avant certains progrès ciblés, des responsables britanniques et européens ont critiqué l'échec de la réunion. Plusieurs délégations demandent désormais une révision du système de négociation pour éviter que le principe d'unanimité ne bloque les décisions.",
+        "plain": "EN CLAIR : Le grand sommet mondial sur le climat s'est fini sans accord général entre les pays participants. Les discussions ont bloqué sur la promesse d'abandonner le pétrole, le gaz et le charbon. De nombreux pays réclament de changer la façon dont ces réunions de l'ONU sont menées.",
+        "chart": null,
+        "stakes": [
+          "Remise en cause du fonctionnement par consensus des sommets internationaux sur le climat",
+          "Retard dans la définition d'objectifs mondiaux de réduction d'énergies fossiles",
+          "Capacité de la diplomatie climatique à répondre aux urgences environnementales"
+        ],
+        "sources": [
+          {
+            "name": "NPR",
+            "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+            "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+            "publishedAt": "2026-11-23T12:42:03.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "Collapse of U.N. summit intensifies calls for new approach to climate talks",
+            "link": "https://www.washingtonpost.com/world/2026/11/23/collapse-un-summit-intensifies-calls-new-approach-climate-talks/",
+            "publishedAt": "2026-11-23T22:21:28.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "COP must change after Antalya failure, UK climate chief warns",
+            "link": "https://www.politico.eu/article/rachel-kyte-cop-change-antalya-failure/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-24T15:17:01.000Z",
+            "lang": "en",
+            "country": "BE"
+          },
+          {
+            "name": "Daily Sabah",
+            "title": "Türkiye cites COP31 gains as EU dispute blocks final deal",
+            "link": "https://www.dailysabah.com/turkiye/turkiye-cites-cop31-gains-as-eu-dispute-blocks-final-deal/news",
+            "publishedAt": "2026-11-24T09:40:00.000Z",
+            "lang": "en",
+            "country": "TR"
+          }
+        ],
+        "image": {
+          "url": "https://www.politico.eu/wp-content/uploads/2026/11/16/GettyImages-2304247443-1024x683.jpg",
+          "credit": "Politico Europe",
+          "link": "https://www.politico.eu/article/rachel-kyte-cop-change-antalya-failure/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        "i18n": {
+          "en": {
+            "title": "COP31 concludes without agreement on fossil fuels",
+            "context": "The 31st United Nations Climate Change Conference took place in Antalya, Turkey. Representatives from nearly 200 countries were negotiating global commitments to combat global warming.",
+            "summary": "The COP31 discussions concluded two days late without a final text being adopted. Negotiators failed to reach a consensus on the wording regarding the phased-out use of fossil fuels. While the Turkish presidency highlighted certain targeted progress, British and European officials criticized the failure of the meeting. Several delegations are now calling for an overhaul of the negotiation system to prevent the unanimity principle from blocking decisions.",
+            "plain": "IN SHORT: The major global climate summit ended without a general agreement among participating countries. Discussions stalled over the promise to abandon oil, gas, and coal. Numerous countries are demanding a change in how these UN meetings are conducted.",
+            "stakes": [
+              "Questioning of the consensus-based functioning of international climate summits",
+              "Delay in defining global reduction targets for fossil fuels",
+              "Capacity of climate diplomacy to respond to environmental emergencies"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Clausura de la COP31 sin acuerdo sobre los combustibles fósiles",
+            "context": "La 31ª conferencia de las Naciones Unidas sobre el clima se celebró en Antalya, Turquía. Representantes de cerca de 200 países negociaban compromisos mundiales para luchar contra el calentamiento global.",
+            "summary": "Las discusiones de la COP31 concluyeron con dos días de retraso sin que se pudiera adoptar un texto final. Los negociadores no lograron un consenso sobre la formulación relativa al abandono progresivo de los combustibles fósiles. Mientras que la presidencia turca destaca algunos avances específicos, responsables británicos y europeos criticaron el fracaso de la reunión. Varias delegaciones reclaman ahora una revisión del sistema de negociación para evitar que el principio de unanimidad bloquee las decisiones.",
+            "plain": "EN CLARO: La gran cumbre mundial sobre el clima terminó sin un acuerdo general entre los países participantes. Las discusiones se bloquearon en torno a la promesa de abandonar el petróleo, el gas y el carbón. Numerosos países exigen cambiar la forma en que se llevan a cabo estas reuniones de la ONU.",
+            "stakes": [
+              "Puesta en entredicho del funcionamiento por consenso de las cumbres internacionales sobre el clima",
+              "Retraso en la definición de objetivos mundiales de reducción de energías fósiles",
+              "Capacidad de la diplomacia climática para responder a las urgencias medioambientales"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s8750d1be1f",
+        "topic": "societe",
+        "title": "La CEDH valide le refoulement de migrants en cas d'instrumentalisation",
+        "context": "Plusieurs pays situés à la frontière orientale de l'Europe font face à des traversées de demandeurs d'asile encouragées par des États voisins, notamment la Biélorussie.",
+        "summary": "La Cour européenne des droits de l'homme (CEDH), juridiction internationale veillant au respect des libertés fondamentales, a statué que les États membres peuvent repousser des migrants à leurs frontières. Les juges ont estimé que les garanties habituelles contre les refoulements peuvent être limitées lorsqu'un État tiers organise sciemment ces passages pour exercer une pression politique. Cette décision découle de l'examen de plusieurs recours déposés concernant la situation aux frontières de l'Est européen.",
+        "plain": "EN CLAIR : La Cour européenne des droits de l'homme a décidé que les pays européens ont le droit de refouler des migrants si un pays voisin tente de les utiliser pour créer une crise. Cette décision assouplit les règles habituelles de protection des demandeurs d'asile dans ces situations spécifiques.",
+        "chart": null,
+        "stakes": [
+          "Équilibre entre souveraineté nationale des frontières et protection du droit d'asile",
+          "Adaptation du droit européen face à l'utilisation politique de la migration",
+          "Conséquences juridiques pour la gestion des frontières extérieures de l'Europe"
+        ],
+        "sources": [
+          {
+            "name": "RFI",
+            "title": "La justice européenne autorise le refoulement de migrants si leurs déplacements ont été «instrumentalisés»",
+            "link": "https://www.rfi.fr/fr/europe/20261124-la-justice-europ%C3%A9enne-autorise-le-refoulement-de-migrants-si-leurs-d%C3%A9placements-ont-%C3%A9t%C3%A9-instrumentalis%C3%A9s",
+            "publishedAt": "2026-11-24T21:20:50.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "La Cour européenne des droits de l’homme juge que les Etats peuvent refouler les migrants en cas d’instrumentalisation par un Etat tiers",
+            "link": "https://www.lemonde.fr/international/article/2026/11/24/la-cour-europeenne-des-droits-de-l-homme-juge-que-les-etats-peuvent-refouler-les-migrants-en-cas-d-instrumentalisation-par-un-etat-tiers_6814838_3210.html",
+            "publishedAt": "2026-11-24T18:26:48.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://s.rfi.fr/media/display/c08f85b4-56cb-11ed-a828-005056a97e36/w:1024/p:16x9/AP22180426301954.jpg",
+          "credit": "RFI",
+          "link": "https://www.rfi.fr/fr/europe/20261124-la-justice-europ%C3%A9enne-autorise-le-refoulement-de-migrants-si-leurs-d%C3%A9placements-ont-%C3%A9t%C3%A9-instrumentalis%C3%A9s"
+        },
+        "i18n": {
+          "en": {
+            "title": "ECHR upholds migrant pushbacks in cases of instrumentalization",
+            "context": "Several countries situated on Europe's eastern border are facing crossings by asylum seekers encouraged by neighboring states, notably Belarus.",
+            "summary": "The European Court of Human Rights (ECHR), an international jurisdiction ensuring compliance with fundamental freedoms, ruled that member states can push back migrants at their borders. The judges considered that standard safeguards against pushbacks can be limited when a third state deliberately orchestrates these crossings to exert political pressure. This decision stems from the review of several appeals filed concerning the situation on Europe's eastern borders.",
+            "plain": "IN SHORT: The European Court of Human Rights decided that European countries have the right to turn away migrants if a neighboring country attempts to use them to create a crisis. This ruling relaxes the usual rules protecting asylum seekers in these specific situations.",
+            "stakes": [
+              "Balance between national border sovereignty and the protection of the right of asylum",
+              "Adaptation of European law in the face of the political use of migration",
+              "Legal consequences for the management of Europe's external borders"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "El TEDH valida la devolución en caliente de migrantes en caso de instrumentalización",
+            "context": "Varios países situados en la frontera oriental de Europa se enfrentan a cruces de solicitantes de asilo alentados por estados vecinos, en particular Bielorrusia.",
+            "summary": "El Tribunal Europeo de Derechos Humanos (TEDH), jurisdicción internacional que vela por el respeto de las libertades fundamentales, dictaminó que los Estados miembros pueden rechazar a migrantes en sus fronteras. Los jueces estimaron que las garantías habituales contra las devoluciones pueden limitarse cuando un tercer Estado organiza deliberadamente estos pasos para ejercer presión política. Esta decisión se deriva del examen de varios recursos presentados sobre la situación en las fronteras del este de Europa.",
+            "plain": "EN CLARO: El Tribunal Europeo de Derechos Humanos decidió que los países europeos tienen derecho a rechazar a migrantes si un país vecino intenta utilizarlos para crear una crisis. Esta decisión flexibiliza las normas habituales de protección de los solicitantes de asilo en estas situaciones específicas.",
+            "stakes": [
+              "Equilibrio entre la soberanía nacional de las fronteras y la protección del derecho de asilo",
+              "Adaptación del derecho europeo frente al uso político de la migración",
+              "Consecuencias jurídicas para la gestión de las fronteras exteriores de Europa"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sa7dfb64f15",
+        "topic": "international",
+        "title": "Attaques de drones navals ukrainiens contre des navires russes en Libye",
+        "context": "La guerre opposant la Russie à l'Ukraine s'est jusqu'à présent déroulée sur le territoire ukrainien et en mer Noire. Les forces de Kiev cherchent désormais à viser les équipements militaires russes déployés à l'étranger.",
+        "summary": "L'armée ukrainienne a mené une opération à l'aide de drones maritimes contre deux bâtiments de la marine russe stationnés dans le port de Benghazi, dans l'est de la Libye. La destruction de ces navires étend la zone géographique du conflit hors du théâtre européen. Le gouvernement de Tripoli a fermement condamné cette intervention armée sur le sol libyen et réclamé des explications officielles à Kiev. De leur côté, les autorités contrôlant la région de Benghazi demandent une enquête internationale.",
+        "plain": "EN CLAIR : Des drones ukrainiens ont attaqué deux navires de guerre russes amarrés dans un port en Libye. C'est la première fois que le conflit entre ces deux pays déborde directement sur le continent africain. Les autorités libyennes ont dénoncé cette action militaire sur leur territoire.",
+        "chart": null,
+        "stakes": [
+          "Élargissement géographique des affrontements entre la Russie et l'Ukraine",
+          "Sécurité de la navigation et des infrastructures maritimes en Méditerranée",
+          "Positionnement diplomatique et sécuritaire des différentes factions libyennes"
+        ],
+        "sources": [
+          {
+            "name": "NPR",
+            "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
+            "link": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
+            "publishedAt": "2026-11-24T09:52:03.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Fox News",
+            "title": "Ukraine’s drone strike on Russian warship in Libya risks ‘serious escalation,’ former official warns",
+            "link": "https://www.foxnews.com/world/ukraines-drone-strike-russian-warship-libya-risks-serious-escalation-former-official-warns",
+            "publishedAt": "2026-11-24T00:42:28.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "France 24",
+            "title": "Ukraine : une guerre sans frontières ?",
+            "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261124-ukraine-une-guerre-sans-fronti%C3%A8res",
+            "publishedAt": "2026-11-24T19:56:30.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "EN DIRECT, guerre en Ukraine : Kiev répond aux menaces de Poutine sur les raffineries : « Mettez fin à la guerre »",
+            "link": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-guerre-en-ukraine-kiev-repond-aux-menaces-de-poutine-sur-les-raffineries-mettez-fin-a-la-guerre_6814183_3210.html",
+            "publishedAt": "2026-11-24T19:32:44.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Jeune Afrique",
+            "title": "Tripoli réclame des explications à Kiev après les attaques contre des navires russes près de Benghazi",
+            "link": "https://www.jeuneafrique.com/1864500/politique/tripoli-reclame-des-explications-a-kiev-apres-les-attaques-contre-des-navires-russes-pres-de-benghazi/",
+            "publishedAt": "2026-11-24T10:13:31.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6051564",
+          "credit": "NPR",
+          "link": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns"
+        },
+        "i18n": {
+          "en": {
+            "title": "Ukrainian naval drone attacks against Russian vessels in Libya",
+            "context": "The war between Russia and Ukraine has so far taken place on Ukrainian territory and in the Black Sea. Kiev's forces are now seeking to target Russian military equipment deployed abroad.",
+            "summary": "The Ukrainian army carried out an operation using maritime drones against two Russian navy vessels stationed in the port of Benghazi, in eastern Libya. The destruction of these ships extends the geographical area of the conflict outside the European theater. The Tripoli government strongly condemned this armed intervention on Libyan soil and demanded official explanations from Kiev. Meanwhile, the authorities controlling the Benghazi region are calling for an international investigation.",
+            "plain": "IN SHORT: Ukrainian drones attacked two Russian warships docked in a port in Libya. This is the first time the conflict between these two countries has directly spilled over onto the African continent. Libyan authorities condemned this military action on their territory.",
+            "stakes": [
+              "Geographical expansion of clashes between Russia and Ukraine",
+              "Security of navigation and maritime infrastructure in the Mediterranean",
+              "Diplomatic and security positioning of the various Libyan factions"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Ataques de drones navales ucranianos contra buques rusos en Libia",
+            "context": "La guerra entre Rusia y Ucrania se ha librado hasta ahora en territorio ucraniano y en el mar Negro. Las fuerzas de Kiev buscan ahora atacar el equipo militar ruso desplegado en el extranjero.",
+            "summary": "El ejército ucraniano llevó a cabo una operación con drones marítimos contra dos buques de la armada rusa estacionados en el puerto de Bengasi, en el este de Libia. La destrucción de estos barcos amplía la zona geográfica del conflicto fuera del teatro europeo. El gobierno de Trípoli condenó enérgicamente esta intervención armada en suelo libio y exigió explicaciones oficiales a Kiev. Por su parte, las autoridades que controlan la región de Bengasi piden una investigación internacional.",
+            "plain": "EN CLASE: Drones ucranianos atacaron dos buques de guerra rusos atracados en un puerto de Libia. Es la primera vez que el conflicto entre estos dos países se extiende directamente al continente africano. Las autoridades libias denunciaron esta acción militar en su territorio.",
+            "stakes": [
+              "Ampliciación geográfica de los enfrentamientos entre Rusia y Ucrania",
+              "Seguridad de la navegación y de las infraestructuras marítimas en el Mediterráneo",
+              "Posicionamiento diplomático y de seguridad de las diferentes facciones libias"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s722c04e194",
+        "topic": "international",
+        "title": "L'Iran reconstitue son arsenal face aux avertissements israéliens",
+        "context": "Les tensions au Moyen-Orient demeurent vives entre l'Iran, ses alliés régionaux, Israël et les États-Unis, sur fond d'affrontements militaires et de rivalités stratégiques.",
+        "summary": "L'Iran réorganise ses capacités militaires en augmentant sa production de missiles et en adoptant une posture défensive plus stricte, tout en refusant de négocier avec Washington sous conditions. Dans le même temps, des frappes israéliennes se poursuivent dans la bande de Gaza et des tir d'armes yéménites ont touché des infrastructures à Riyad. Face à des informations portant sur d'éventuels programmes chimiques iraniens, les autorités israéliennes n'excluent pas la possibilité d'interventions préventives avec l'appui des États-Unis.",
+        "plain": "EN CLAIR : L'Iran fabrique à nouveau des missiles et durcit sa position militaire face aux États-Unis. Dans le même temps, Israël prévient qu'il pourrait lancer des frappes préventives pour contrer les menaces iraniennes. Les tensions restent très élevées dans l'ensemble de la région.",
+        "chart": null,
+        "stakes": [
+          "Risque d'extension régionale des affrontements militaires directs",
+          "Surveillance internationale des programmes d'armement au Moyen-Orient",
+          "Stabilité des infrastructures stratégiques et urbaines dans la région"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Guerre au Moyen-Orient : la plus haute tour de Riyad de nouveau frappée... Le bilan du mardi 24 octobre",
+            "link": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-270-moyen-orient-bilan-resume-aujourdhui-20261124",
+            "publishedAt": "2026-11-24T20:30:46.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "La Croix",
+            "title": "Une doctrine « plus offensive » : l’Iran remplit ses arsenaux et se prépare à faire face à une nouvelle guerre",
+            "link": "https://www.la-croix.com/international/une-doctrine-plus-offensive-l-iran-remplit-ses-arsenaux-et-se-prepare-a-faire-face-a-une-nouvelle-guerre-20261124",
+            "publishedAt": "2026-11-24T18:22:55.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+            "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-24T15:35:53.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+            "link": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
+            "publishedAt": "2026-11-24T19:18:15.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Washington Post",
+            "title": "Israel kills Hamas internal security chief in Gaza",
+            "link": "https://www.washingtonpost.com/world/2026/11/24/israel-kills-hamas-internal-security-chief-gaza/",
+            "publishedAt": "2026-11-24T19:31:57.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "Fox News",
+            "title": "Israel raises prospect of preemptive strike over emerging Iranian chemical weapons threat",
+            "link": "https://www.foxnews.com/world/israel-raises-prospect-preemptive-strike-emerging-iranian-chemical-weapons-threat",
+            "publishedAt": "2026-11-24T22:01:25.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Hindu",
+            "title": "Iran rules out talks with U.S. until its seven conditions are met",
+            "link": "https://www.thehindu.com/news/international/iran-rules-out-talks-with-us-until-its-seven-conditions-are-met/article71739875.ece",
+            "publishedAt": "2026-11-24T17:36:11.000Z",
+            "lang": "en",
+            "country": "IN"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "Relancer ou non la guerre : l’alliance israélo-américaine au défi du réarmement iranien",
+            "link": "https://www.lemonde.fr/international/article/2026/11/24/relancer-ou-non-la-guerre-l-alliance-israelo-americaine-au-defi-du-rearmement-iranien_6814843_3210.html",
+            "publishedAt": "2026-11-24T19:00:01.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/24/2597389-des-palestiniens-rassembles-autour-d-un-vehicule-t.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-270-moyen-orient-bilan-resume-aujourdhui-20261124"
+        },
+        "i18n": {
+          "en": {
+            "title": "Iran rebuilds its arsenal in the face of Israeli warnings",
+            "context": "Tensions in the Middle East remain high between Iran, its regional allies, Israel and the United States, against the backdrop of military clashes and strategic rivalries.",
+            "summary": "Iran is reorganizing its military capabilities by increasing its missile production and adopting a stricter defensive posture, while refusing to negotiate with Washington under conditions. At the same time, Israeli strikes continue in the Gaza Strip and Yemeni weapon fire has hit infrastructure in Riyadh. Faced with reports regarding potential Iranian chemical programs, the Israeli authorities do not rule out the possibility of preventive interventions with US support.",
+            "plain": "IN SHORT: Iran is manufacturing missiles again and hardening its military posture against the United States. At the same time, Israel warns that it could launch preventive strikes to counter Iranian threats. Tensions remain very high across the region.",
+            "stakes": [
+              "Risk of regional extension of direct military clashes",
+              "International monitoring of armaments programs in the Middle East",
+              "Stability of strategic and urban infrastructure in the region"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Irán reconstituye su arsenal ante las advertencias israelíes",
+            "context": "Las tensiones en Oriente Medio siguen siendo altas entre Irán, sus aliados regionales, Israel y Estados Unidos, en un contexto de enfrentamientos militares y rivalidades estratégicas.",
+            "summary": "Irán está reorganizando sus capacidades militares aumentando su producción de misiles y adoptando una postura defensiva más estricta, al tiempo que se niega a negociar con Washington bajo condiciones. Al mismo tiempo, continúan los ataques israelíes en la Franja de Gaza y disparos de armas yemeníes han golpeado infraestructuras en Riad. Ante las informaciones sobre posibles programas químicos iraníes, las autoridades israelíes no descartan la posibilidad de intervenciones preventivas con el apoyo de Estados Unidos.",
+            "plain": "EN CLARO: Irán vuelve a fabricar misiles y endurece su postura militar frente a Estados Unidos. Al mismo tiempo, Israel advierte que podría lanzar ataques preventivos para contrarrestar las amenazas iraníes. Las tensiones siguen siendo muy altas en toda la región.",
+            "stakes": [
+              "Riesgo de extensión regional de los enfrentamientos militares directos",
+              "Vigilancia internacional de los programas de armamento en Oriente Medio",
+              "Estabilidad de las infraestructuras estratégicas y urbanas en la región"
+            ],
+            "chart": null
+          }
+        }
+      }
+    ]
+  },
+  "storiesAt": "2026-11-26T00:02:27.646Z",
+  "inputHash": null,
+  "synthStatus": "partielle",
+  "news": {
+    "france": [
+      {
+        "id": "a493ec2ec96",
+        "title": "Budget 2027 : le Sénat approuve l’effort de 5 milliards demandé aux grandes entreprises",
+        "link": "https://www.ouest-france.fr/economie/budget-collectivites-etat/budget-2027-le-senat-approuve-leffort-de-5-milliards-demande-aux-grandes-entreprises-38950894-e91d-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Le projet de budget pour 2027 entend s’appuyer sur un effort plus important des grandes entreprises, afin d’accélérer le rétablissement des finances publiques.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExMWUyYzVlMGEwZWNhZDA4OTJhYTIxZGYwYjcyNGZjZDk?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=a285cc5aa59840b6d57c0f7880918aef5c54602c12885b4bd7269ec60b044410",
+        "publishedAt": "2026-11-25T23:10:27.000Z",
+        "source": "Ouest-France",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "af7df6dbabd",
+        "title": "« C’est de la folie ! » : les surprenantes découvertes d’une sonde européenne sur l’astéroïde dévié par Dart, la « fléchette » de la Nasa",
+        "link": "https://www.lefigaro.fr/sciences/c-est-de-la-folie-les-surprenantes-decouvertes-d-une-sonde-europeenne-sur-l-asteroide-devie-par-dart-la-flechette-de-la-nasa-20261125",
+        "summary": "RÉCIT - Quatre ans après l’impact à 20 000 km/h de la sonde américaine, la mission de l’ESA étudie de près les conséquences de cette déviation réussie.",
+        "image": "https://i.f1g.fr/media/cms/1822x1026_crop/2026/11/25/b823465700cc8a62c7366db7ad18bf5b81d8b6efe529bf7dc50c28787060e895.jpg",
+        "publishedAt": "2026-11-25T22:55:46.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "a409f99fd1a",
+        "title": "«Ça fait crier les fachos» : au théâtre de la Concorde, la mairie de Paris lance son MascuRadar dans une ambiance festive et annonce un appel à projets de 100.000 euros",
+        "link": "https://www.lefigaro.fr/actualite-france/ca-fait-crier-les-fachos-au-theatre-de-la-concorde-la-mairie-de-paris-lance-son-mascuradar-dans-une-ambiance-festive-et-annonce-un-appel-a-projets-de-100-000-euros-20261125",
+        "summary": "NOUS Y ÉTIONS - Ce mercredi, la mairie de Paris a organisé un colloque spectacle pour le lancement de son outil anti-masculinisme. Elle a aussi répliqué aux critiques de «l’extrême droite et de la droite extrême» contre sa campagne d’affichage.",
+        "image": "https://i.f1g.fr/media/cms/2048x1536_crop/2026/11/25/06e6d1ddd7da93d908c5a434fc4cd0ad3323a0256f65df31dc54ebcd83ea1537.jpg",
+        "publishedAt": "2026-11-25T22:35:41.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "a0c2c3b2644",
+        "title": "Ligue des champions : le résumé de l’exploit des Lillois face au Bayern Munich et du match nul du PSG face à l’AS Roma",
+        "link": "https://www.lemonde.fr/sport/article/2026/11/25/ligue-des-champions-le-resume-de-l-exploit-des-lillois-face-au-bayern-munich-et-du-match-nul-du-psg-face-a-l-as-roma_6815176_3242.html",
+        "summary": "Les Lillois ont remporté leur premier match de Ligue des champions, mercredi, en faisant tomber à la surprise générale le Bayern Munich (2-1). Les Parisiens, eux, ont été tenus en échec sur leur pelouse (2-2) par l’AS Roma.",
+        "image": "https://img.lemde.fr/2026/11/25/276/0/2275/1137/644/322/60/0/8b62922_ftp-1-5zi0gv4rxbyx-afp-d8mp886.jpg",
+        "publishedAt": "2026-11-25T22:32:09.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "ae071f43b60",
+        "title": "\"L'eau est montée de partout dans le lotissement\" : un mois de pluie en six heures dans le sud-est de la France",
+        "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-eau-est-montee-de-partout-dans-le-lotissement-un-mois-de-pluie-en-six-heures-dans-le-sud-est-de-la-france_8300235.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "De violents orages ont frappé le Var et les Bouches-du-Rhône, mercredi 25 novembre. Sur plusieurs routes, l’eau est rapidement montée, au point qu’il a fallu fermer la circulation et mettre des dizaines d’automobilistes à l’abri.",
+        "image": "https://www.franceinfo.fr/pictures/8WLNWl8_X_cvviDnxE5_piVyl-Y/0x12:1404x801/432x243/filters:format(jpg)/2026/11/25/6b0734477c025401271307.png",
+        "publishedAt": "2026-11-25T22:24:01.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "a96a0b9c370",
+        "title": "Benoît Payan affirme que des ordres ont été donnés pour \"relâcher\" des pilleurs le 17 octobre à Marseille",
+        "link": "https://www.franceinfo.fr/marseille/benoit-payan-affirme-que-des-ordres-ont-ete-donnes-pour-relacher-des-casseurs-le-17-octobre-a-marseille_8300364.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Le maire de la deuxième ville de France s'est exprimé mercredi devant la commission d'enquête de l'Assemblée nationale sur les violences du 17 octobre.",
+        "image": "https://www.franceinfo.fr/pictures/HHsqASwkogxjODDw68WeAV0qJ9Y/0x25:1024x601/432x243/filters:format(jpg)/2026/11/25/6b0754bcb7e08088514778.jpg",
+        "publishedAt": "2026-11-25T21:44:42.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "a691389caf2",
+        "title": "La mère des deux enfants retrouvés dans une cave des Yvelines a été placée en détention provisoire",
+        "link": "https://www.liberation.fr/societe/police-justice/la-mere-des-deux-enfants-en-bas-age-retrouves-dans-une-cave-des-yvelines-a-ete-placee-en-detention-provisoire-20261125_J5QSHG642JC5NBJDZYNG6MAVNQ/",
+        "summary": "Une enquête avait été ouverte pour «délaissement de mineurs» après la découverte d’un garçon et d’une fillette dans une ancienne maison à Meulan-en-Yvelines, lundi 23 novembre.",
+        "image": null,
+        "publishedAt": "2026-11-25T21:30:43.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "a8ebb1ef9ea",
+        "title": "PMA : le Conseil d’État confirme l’illégalité d’un essai clinique autorisé par l’ANSM",
+        "link": "https://www.la-croix.com/societe/pma-le-conseil-d-etat-confirme-lillegalite-dun-essai-clinique-autorise-par-lansm-20261125",
+        "summary": "Le Conseil d’État a confirmé, mercredi 25 novembre, l’illégalité d’un essai clinique sur le diagnostic préimplantatoire en PMA, autorisé par l’ANSM en 2021. L’État et l’AP-HP sont condamnés à verser 1 500 € chacun à la fondation Jérôme Lejeune.",
+        "image": "https://i.la-croix.com/x/2026/11/25/2598988-le-conseil-d-etat-a-confirme-mercredi-25-novembre-.jpg",
+        "publishedAt": "2026-11-25T21:30:00.000Z",
+        "source": "La Croix",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0.5
+      },
+      {
+        "id": "a28ad3041a1",
+        "title": "Cargo échoué dans les Landes : une enquête judiciaire ouverte",
+        "link": "https://www.liberation.fr/societe/police-justice/cargo-echoue-dans-les-landes-une-enquete-judiciaire-ouverte-20261125_IAI4ZXZTMZFMLBKG2ZE53SY3MM/",
+        "summary": "La préfecture maritime de l’Atlantique entend déterminer les causes de l’échouement du «Miro G», finalement remis à flot mardi après-midi au terme d’une opération particulièrement complexe.",
+        "image": null,
+        "publishedAt": "2026-11-25T21:26:47.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "a631d519c1f",
+        "title": "Violences du 17 octobre à Marseille : des ordres ont été donnés pour relâcher des casseurs, selon Benoît Payan",
+        "link": "https://www.lemonde.fr/societe/article/2026/11/25/violences-du-17-octobre-a-marseille-des-ordres-ont-ete-donnes-pour-relacher-des-casseurs-selon-benoit-payan_6815175_3224.html",
+        "summary": "Le maire divers gauche de la ville affirme l’avoir constaté à plusieurs reprises en visionnant les enregistrements des caméras de surveillance, dont il dit avoir remis 7 000 heures au procureur de la République de Marseille.",
+        "image": "https://img.lemde.fr/2026/10/17/170/0/1024/512/644/322/60/0/058015a_ftp-1-jsfvk474di1q-afp-d3kb47n-1024.jpg",
+        "publishedAt": "2026-11-25T21:24:09.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "a197ed28f2b",
+        "title": "Politique familiale : de la natalité à la lutte contre la pauvreté, un virage assumé par la Cour des comptes",
+        "link": "https://www.valeursactuelles.com/societe/politique-familiale-de-la-natalite-a-la-lutte-contre-la-pauvrete-un-virage-assume-par-la-cour-des-comptes",
+        "summary": "La Cour des comptes ne cache pas l’orientation de la politique familiale des dernières années : « initialement fondée sur la volonté de soutenir la natalité et les familles nombreuses, [elle] s’est... L’article Politique familiale : de la natalité à la lutte contre la pauvreté, un virage assumé par ",
+        "image": null,
+        "publishedAt": "2026-11-25T21:00:44.000Z",
+        "source": "Valeurs actuelles",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
+      },
+      {
+        "id": "a5a4fdd8bb5",
+        "title": "Soirée de lancement de Combat n°2 : contre le RN, « rien n’est joué »",
+        "link": "https://www.humanite.fr/medias/blast/soiree-de-lancement-de-combat-n2-contre-le-rn-rien-nest-joue",
+        "summary": "Ce mercredi 25&nbsp;novembre, notre journal a accueilli dans ses locaux, la soirée de lancement du numéro&nbsp;2 du hors-série de Combat. Avec quatre autres médias, Blast, les Inrocks, Streetpress et Nova, le collectif vient de publier «&nbsp;Le vrai visage du RN&nbsp;», en kiosque depuis mardi 24&n",
+        "image": "https://www.humanite.fr/wp-content/uploads/2026/11/U6A9877.jpg?w=1200",
+        "publishedAt": "2026-11-25T20:29:00.000Z",
+        "source": "L'Humanité",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -2
+      },
+      {
+        "id": "ae403b2dea7",
+        "title": "Affaire Nvidia : comment la guerre des patriotes de l'IA a déchiré Washington",
+        "link": "https://www.lexpress.fr/economie/high-tech/affaire-nvidia-comment-la-guerre-des-patriotes-de-lia-a-dechire-washington-ALUBB4XHLRHP7LNHEIQ2VMDXN4/",
+        "summary": "",
+        "image": "https://www.lexpress.fr/resizer/v2/FDUHT6AM6ZFJRNZD72ULUCPD24.JPG?auth=43a03f75b5daab23e4df664552bbbf4204c82267ad2fa44283204624c77f4d39&smart=true&width=5803&height=3870",
+        "publishedAt": "2026-11-25T17:49:31.000Z",
+        "source": "L'Express",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1
+      },
+      {
+        "id": "a7c50124153",
+        "title": "Défense : la grande peur du réarmement allemand",
+        "link": "https://www.lejdd.fr/International/defense-la-grande-peur-du-rearmement-allemand-189702",
+        "summary": "Une armée allemande puissante semblait relever des livres d’histoire. La question s’invite pourtant dans le débat français, et avec elle des interrogations. Faut-il laisser faire Berlin ?",
+        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/25/18/sipa_sipahub60147598_000001-c-markus-schreiber_dpa_sipa_master.jpg?VersionId=JA.R8Pw3VgTCHwhS3m_R4Rqa0ZilhhDt",
+        "publishedAt": "2026-11-25T17:19:28.000Z",
+        "source": "Le JDD",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
+      }
+    ],
+    "monde": [
+      {
+        "id": "a362f8d805a",
+        "title": "tagesthemen",
+        "link": "https://www.tagesschau.de/tagesthemen/tt-13000.html",
+        "summary": "tagesthemen",
+        "image": null,
+        "publishedAt": "2026-11-25T23:42:32.000Z",
+        "source": "Tagesschau",
+        "lang": "de",
+        "country": "DE",
+        "lean": 0
+      },
+      {
+        "id": "ac5c4622c9b",
+        "title": "Australian politics live: Watt says ‘terrible day’ for Taylor and Liberals; spoof parliamentary tool spreads cheer",
+        "link": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+        "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth wil",
+        "image": "https://i.guim.co.uk/img/media/560a335ff3f0c7d924f33ddc0730024e57e0fdea/598_0_5977_4782/master/5977.jpg?width=140&quality=85&auto=format&fit=max&s=c5f7ea11da406f69db5d30f3ac26dd98",
+        "publishedAt": "2026-11-25T23:19:46.000Z",
+        "source": "The Guardian",
+        "lang": "en",
+        "country": "GB",
+        "lean": -1.5
+      },
+      {
+        "id": "a6e5a9c962b",
+        "title": "One person had a worse night than United’s keeper – the abysmal referee",
+        "link": "https://www.telegraph.co.uk/football/2026/11/25/sporting-vs-man-utd-live-score-latest-champions-league/",
+        "summary": "One person had a worse night than United’s keeper – the abysmal referee",
+        "image": "https://www.telegraph.co.uk/content/dam/football/2026/11/25/TELEMMGLPICT000513010883_17956455167430_trans_NvBQzQNjv4BqH8SigKU_VeU0bP0BbEQoy-I6JnNeBUbxxLy1WBfSGnw.jpeg",
+        "publishedAt": "2026-11-25T23:03:02.000Z",
+        "source": "The Telegraph",
+        "lang": "en",
+        "country": "GB",
+        "lean": 1.5
+      },
+      {
+        "id": "af1f30c98b1",
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+        "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg",
+        "publishedAt": "2026-11-25T22:18:06.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      },
+      {
+        "id": "a2fe3a3e64d",
+        "title": "Peter Magyar meets Volodymyr Zelenskyy: Hungary and Ukraine make a fresh start after the icy relations of the Viktor Orban era",
+        "link": "https://www.dw.com/en/peter-magyar-meets-volodymyr-zelenskyy-hungary-and-ukraine-make-a-fresh-start-after-the-icy-relations-of-the-viktor-orban-era/a-80054175?maca=en-rss-en-world-4025-rdf",
+        "summary": "After years of frosty and hostile relations under Hungary's Kremlin-friendly former PM Viktor Orban, his successor, Peter Magyar, and Ukrainian President Volodymyr Zelenskyy seek to reset their countries' ties.",
+        "image": null,
+        "publishedAt": "2026-11-25T18:52:00.000Z",
+        "source": "Deutsche Welle",
+        "lang": "en",
+        "country": "DE",
+        "lean": 0
+      },
+      {
+        "id": "aca7810f54b",
+        "title": "US authorises SpaceX to deploy one million satellites to space",
+        "link": "https://news.sky.com/story/us-authorises-elon-musks-spacex-to-deploy-one-million-satellites-to-space-13616493",
+        "summary": "The US' Federal Communications Commission is authorising SpaceX to send a million satellites for data centres in space, the agency said.",
+        "image": "https://e3.365dm.com/26/06/1920x1080/skynews-elon-musk-ceo-spacex_7265141.jpg?20260604104503",
+        "publishedAt": "2026-11-25T18:03:00.000Z",
+        "source": "Sky News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0.5
+      },
+      {
+        "id": "a2ade0562e2",
+        "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+        "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg",
+        "publishedAt": "2026-11-25T14:46:41.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      },
+      {
+        "id": "a9df6a7e0d7",
+        "title": "In charts: how power could shift in Europe’s big year of elections",
+        "link": "https://www.theguardian.com/world/2026/nov/25/charts-europe-big-year-of-elections-eu-far-right",
+        "summary": "More than half of EU voters will go to the polls in the next 12 months, with the far right targeting significant gains. We set out the political landscape and trends Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations Over the coming 12 months, mo",
+        "image": "https://i.guim.co.uk/img/media/3fb443520d5ae15fd4e46dca873678b8da5e63ea/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=6c8d875c651e2501485fc0d31e2f52d2",
+        "publishedAt": "2026-11-25T05:00:06.000Z",
+        "source": "The Guardian",
+        "lang": "en",
+        "country": "GB",
+        "lean": -1.5
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "franceinfo (FR)",
+      "url": "https://www.francetvinfo.fr/france.rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Monde (FR)",
+      "url": "https://www.lemonde.fr/rss/une.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Figaro (FR)",
+      "url": "https://www.lefigaro.fr/rss/figaro_actualites-a-la-une.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Libération (FR)",
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Ouest-France (FR)",
+      "url": "https://www.ouest-france.fr/rss/une",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "La Croix (FR)",
+      "url": "https://www.la-croix.com/RSS",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "L'Express (FR)",
+      "url": "https://www.lexpress.fr/rss/alaune.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Parisien (FR)",
+      "url": "https://feeds.leparisien.fr/leparisien/rss",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "L'Humanité (FR)",
+      "url": "https://www.humanite.fr/feed",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Valeurs actuelles (FR)",
+      "url": "https://www.valeursactuelles.com/feed",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le JDD (FR)",
+      "url": "https://www.lejdd.fr/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "BBC News (GB)",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "BBC News (GB)",
+      "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Guardian (GB)",
+      "url": "https://www.theguardian.com/world/rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Guardian (GB)",
+      "url": "https://www.theguardian.com/world/france/rss",
+      "ok": true,
+      "count": 2
+    },
+    {
+      "name": "The Telegraph (GB)",
+      "url": "https://www.telegraph.co.uk/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Sky News (GB)",
+      "url": "https://feeds.skynews.com/feeds/rss/world.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Deutsche Welle (DE)",
+      "url": "https://rss.dw.com/rdf/rss-en-world",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Tagesschau (DE)",
+      "url": "https://www.tagesschau.de/index~rss2.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Der Spiegel (DE)",
+      "url": "https://www.spiegel.de/international/index.rss",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "NPR (US)",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The New York Times (US)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Washington Post (US)",
+      "url": "https://feeds.washingtonpost.com/rss/world",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Wall Street Journal (US)",
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Fox News (US)",
+      "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Politico Europe (BE)",
+      "url": "https://www.politico.eu/feed/",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "ABC News (Australie) (AU)",
+      "url": "https://www.abc.net.au/news/feed/2942460/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Al Jazeera (QA)",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Times of Israel (IL)",
+      "url": "https://www.timesofisrael.com/feed/",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "Daily Sabah (TR)",
+      "url": "https://www.dailysabah.com/rssFeed/10",
+      "ok": true,
+      "count": 5
+    },
+    {
+      "name": "The Times of India (IN)",
+      "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Hindu (IN)",
+      "url": "https://www.thehindu.com/news/international/feeder/default.rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Japan Times (JP)",
+      "url": "https://www.japantimes.co.jp/feed/",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Straits Times (SG)",
+      "url": "https://www.straitstimes.com/news/world/rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "South China Morning Post (HK)",
+      "url": "https://www.scmp.com/rss/91/feed",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "El País (ES)",
+      "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "ANSA (IT)",
+      "url": "https://www.ansa.it/sito/ansait_rss.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Soir (BE)",
+      "url": "https://www.lesoir.be/rss/81853/cible_principale_gratuit",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "France 24 (FR)",
+      "url": "https://www.france24.com/fr/rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "RFI (FR)",
+      "url": "https://www.rfi.fr/fr/rss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Euronews (FR)",
+      "url": "https://fr.euronews.com/rss?format=mrss",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Le Monde (International) (FR)",
+      "url": "https://www.lemonde.fr/international/rss_full.xml",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Africanews (FR)",
+      "url": "https://www.africanews.com/feed/rss",
+      "ok": false,
+      "count": 0
+    },
+    {
+      "name": "Jeune Afrique (FR)",
+      "url": "https://www.jeuneafrique.com/feed/",
+      "ok": true,
+      "count": 8
+    }
+  ],
+  "meteo": {
+    "ok": false,
+    "city": "Montaigu-Vendée",
+    "source": "Open-Meteo",
+    "sourceUrl": "https://open-meteo.com/en/docs",
+    "fetchedAt": null
+  },
+  "carburants": {
+    "ok": false,
+    "prices": [],
+    "best": {},
+    "stationsVerifiees": 0,
+    "source": "prix-carburants.gouv.fr",
+    "sourceUrl": "https://www.prix-carburants.gouv.fr/rubrique/opendata/"
+  },
+  "culture": [
+    {
+      "title": "La figure de l’héroïne",
+      "discipline": "Peinture et histoire de l’art",
+      "artist": "Exposition consacrée aux représentations féminines du XIXe siècle",
+      "city": "La Roche-sur-Yon",
+      "venue": "Musée – Espace Malraux",
+      "start": "2026-11-03",
+      "end": "2027-02-07",
+      "details": "Exposition temporaire. Vérifier les horaires d’ouverture avant la visite.",
+      "source": "Ville de La Roche-sur-Yon",
+      "sourceUrl": "https://larochesuryon.fr/actualites/les-heroines-du-xixe-siecle-sexposent-a-la-roche/",
+      "image": {
+        "url": "https://larochesuryon.fr/app/uploads/2026/11/IMG_8828-scaled.jpg",
+        "credit": "Ville de La Roche-sur-Yon",
+        "link": "https://larochesuryon.fr/actualites/les-heroines-du-xixe-siecle-sexposent-a-la-roche/"
+      }
+    }
+  ],
+  "history": [],
+  "checks": {
+    "actualites": true,
+    "meteo": false,
+    "carburants": false
+  }
+}

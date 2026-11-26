@@ -1,816 +1,600 @@
 {
   "schemaVersion": 2,
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T19:38:25.672Z",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T00:02:27.648Z",
   "status": "partielle",
   "stories": {
     "france": [
       {
-        "id": "s3d427ada41",
+        "id": "s46339c5d50",
         "topic": "politique",
-        "title": "Ouverture du Congrès des maires de France sur fond de tensions",
-        "context": "Le 108e Congrès de l'Association des maires de France s'est ouvert à la Porte de Versailles à Paris. L'événement rassemble des élus locaux ainsi que de nombreuses personnalités politiques nationales à l'approche des prochaines échéances électorales.",
-        "summary": "Les élus expriment une inquiétude grandissante face aux contraintes budgétaires imposées par l'État et au sentiment de détresse sociale ressenti sur le terrain. Les maires dénoncent les réductions de dotations prévues pour 2027, estimant qu'elles risquent d'aggraver la situation économique du pays. L'événement est perçu par la presse comme une étape stratégique pour les candidats déclarés ou potentiels à l'élection présidentielle de 2027, qui y cherchent du soutien. Les organisateurs et certains élus appellent néanmoins à ne pas instrumentaliser ce rassemblement à des fins électorales personnelles.",
-        "plain": "EN CLAIR : Les maires de France se réunissent à Paris pour leur congrès annuel dans un climat de forte inquiétude financière. Ils dénoncent les coupes dans leurs budgets et avertissent sur la colère des habitants. Ce rassemblement attire aussi les figures politiques en vue de la présidentielle.",
+        "title": "Propos de Teddy Riner sur l'Ukraine : vifs débats en France",
+        "context": "À l'approche de l'élection présidentielle, la question du soutien militaire et financier de la France à l'Ukraine divise la classe politique et publique.",
+        "summary": "Le judoka et candidat à l'élection présidentielle Teddy Riner a déclaré lors du Salon des maires que la France devait cesser de financer l'Ukraine et de déployer des troupes pour des missions non combattantes, estimant qu'il ne s'agit « pas de notre guerre ». Ses propos ont suscité de vives réactions et un important débat au sein de la classe politique et dans les médias, certains fustigeant son positionnement tandis que d'autres y voient l'expression d'un rejet croissant de l'engagement français.",
+        "plain": "Le sportif et candidat à la présidentielle Teddy Riner a provoqué une polémique en affirmant qu'il fallait arrêter d'aider financièrement et militairement l'Ukraine. Ses déclarations relancent le débat sur la place de la France dans ce conflit international.",
         "chart": null,
         "stakes": [
-          "Gestion de la dette publique et financement des collectivités locales",
-          "Relations de confiance entre le gouvernement central et les élus locaux",
-          "Préparation des campagnes politiques pour l'élection présidentielle de 2027"
+          "Quel est l'impact des prises de position de personnalités hors de la politique politicienne sur les scrutins ?",
+          "La politique extérieure française doit-elle être recentrée sur les priorités budgétaires nationales ?"
         ],
         "sources": [
           {
-            "name": "Le Monde",
-            "title": "Présidentielle 2027 : les maires s’inquiètent du « ras-le-bol général » des électeurs",
-            "link": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-les-maires-s-inquietent-du-ras-le-bol-general-des-electeurs_6814869_823448.html",
-            "publishedAt": "2026-11-24T22:36:41.000Z",
+            "name": "Libération",
+            "title": "«Ce n’est pas notre guerre» : Teddy Riner veut stopper l’aide à l’Ukraine",
+            "link": "https://www.liberation.fr/sports/lukraine-nest-pas-notre-guerre-teddy-riner-se-prend-les-pieds-dans-le-tatami-avant-de-retropedaler-20261125_7JEBWXSMBRH3VHKPFGQKYILKCM/",
+            "publishedAt": "2026-11-25T19:37:07.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "L'Humanité",
-            "title": "« Contre-productif », voire « imbécile »… Le budget 2027 de Lecornu vu depuis le Congrès des maires",
-            "link": "https://www.humanite.fr/politique/amf/contre-productif-voire-imbecile-le-budget-2027-de-lecornu-vu-depuis-le-congres-des-maires",
-            "publishedAt": "2026-11-24T18:38:34.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Valeurs actuelles",
-            "title": "« Le président TikTok, on l’a depuis dix ans » : devant les maires, Bruno Retailleau déroule son plan pour l’Élysée",
-            "link": "https://www.valeursactuelles.com/clubvaleurs/politique/le-president-tiktok-on-la-depuis-dix-ans-devant-les-maires-bruno-retailleau-deroule-son-plan-pour-lelysee",
-            "publishedAt": "2026-11-24T17:35:07.000Z",
+            "name": "Le JDD",
+            "title": "«Ce n’est pas notre guerre» : Teddy Riner prend position sur l'Ukraine et appelle à des élections anticipées",
+            "link": "https://www.lejdd.fr/politique/ce-nest-pas-notre-guerre-teddy-riner-prend-position-sur-lukraine-et-appelle-a-des-elections-anticipees-189684",
+            "publishedAt": "2026-11-25T16:00:17.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
             "name": "Politico Europe",
-            "title": "Le congrès des maires, passage obligé des candidats",
-            "link": "https://www.politico.eu/podcast/playbook-paris-podcast/le-congres-des-maires-passage-oblige-des-candidats/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-            "publishedAt": "2026-11-24T17:04:50.000Z",
+            "title": "French presidential hopeful Teddy Riner says Ukraine is ‘not our war’",
+            "link": "https://www.politico.eu/article/french-presidential-hopeful-teddy-riner-says-ukraine-is-not-our-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-25T16:51:22.000Z",
             "lang": "en",
             "country": "BE"
           },
           {
             "name": "France 24",
-            "title": "Louis Giscard d'Estaing (UDI) : \"Il ne faut pas associer l'AMF à un projet politique personnel\"",
-            "link": "https://www.france24.com/fr/%C3%A9missions/mardi-politique/20261124-louis-giscard-estaing-udi-faut-pas-associer-amf-projet-politique-personnel",
-            "publishedAt": "2026-11-24T21:55:10.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "RFI",
-            "title": "Présidentielle 2027: le Congrès des maires de France, marché aux parrainages des candidats",
-            "link": "https://www.rfi.fr/fr/france/20261124-pr%C3%A9sidentielle-2027-le-congr%C3%A8s-des-maires-de-france-march%C3%A9-aux-parrainages-des-candidats",
-            "publishedAt": "2026-11-24T14:53:36.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://img.lemde.fr/2022/04/28/175/0/2100/1050/644/322/60/0/a33f840_1651162219235-marianne-1.jpg",
-          "credit": "Le Monde",
-          "link": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-les-maires-s-inquietent-du-ras-le-bol-general-des-electeurs_6814869_823448.html"
-        },
-        "i18n": {
-          "en": {
-            "title": "Opening of the Congress of Mayors of France amidst tensions",
-            "context": "The 108th Congress of the Association of Mayors of France opened at Porte de Versailles in Paris. The event brings together local elected officials and numerous national political figures ahead of upcoming electoral deadlines.",
-            "summary": "Elected officials are expressing growing concern over budgetary constraints imposed by the State and the feeling of social distress experienced on the ground. Mayors denounce the planned budget cuts for 2027, estimating that they risk worsening the country's economic situation. The event is perceived by the press as a strategic step for declared or potential candidates for the 2027 presidential election, who are looking for support there. Nevertheless, organizers and certain elected officials are calling not to instrumentalize this gathering for personal electoral purposes.",
-            "plain": "IN CLEAR: The mayors of France are meeting in Paris for their annual congress in a climate of strong financial concern. They denounce cuts to their budgets and warn about the anger of residents. This gathering also attracts political figures in view of the presidential election.",
-            "stakes": [
-              "Public debt management and financing of local authorities",
-              "Relations of trust between the central government and local elected officials",
-              "Preparation of political campaigns for the 2027 presidential election"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Apertura del Congreso de alcaldes de Francia en un clima de tensiones",
-            "context": "El 108.º Congreso de la Asociación de Alcaldes de Francia se inauguró en la Puerta de Versalles en París. El evento reúne a cargos electos locales y a numerosas personalidades políticas nacionales de cara a las próximas citas electorales.",
-            "summary": "Los cargos electos expresan una preocupación creciente ante las restricciones presupuestarias impuestas por el Estado y el sentimiento de angustia social percibido sobre el terreno. Los alcaldes denuncian las reducciones de asignaciones previstas para 2027, al considerar que corren el riesgo de empeorar la situación económica del país. El evento es percibido por la prensa como una etapa estratégica para los candidatos declarados o potenciales a las elecciones presidenciales de 2027, que buscan apoyo en él. Sin embargo, los organizadores y ciertos cargos electos piden que no se instrumentalice esta concentración con fines electorales personales.",
-            "plain": "EN CLARO: Los alcaldes de Francia se reúnen en París para su congreso anual en un clima de gran preocupación financiera. Denuncian los recortes en sus presupuestos y advierten sobre la ira de los habitantes. Este encuentro también atrae a figuras políticas de cara a las elecciones presidenciales.",
-            "stakes": [
-              "Gestión de la deuda pública y financiación de las entidades locales",
-              "Relaciones de confianza entre el gobierno central y los cargos electos locales",
-              "Preparación de las campañas políticas para las elecciones presidenciales de 2027"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s2bb99846ee",
-        "topic": "justice",
-        "title": "Ouverture d'une nouvelle enquête visant la communauté urbaine du Havre",
-        "context": "La procureure de la République du Havre a transmis au commissariat local une enquête suite à un signalement pour détournement de fonds publics. Ce signalement émane initialement du Parquet national financier.",
-        "summary": "Les investigations visent la gestion de la communauté urbaine du Havre, présidée par l'ancien Premier ministre Édouard Philippe. Ce dernier a fermement réagi à cette nouvelle procédure, la qualifiant de vengeance judiciaire à son encontre. Le responsable politique et candidat à la présidentielle affirme n'avoir commis aucun manquement. Les autorités poursuivent leurs vérifications pour établir la réalité des faits dénoncés.",
-        "plain": "EN CLAIR : La justice a ouvert une nouvelle enquête sur la gestion de l'agglomération du Havre, dirigée par Édouard Philippe. L'ancien Premier ministre conteste les accusations et dénonce des poursuites abusives. L'enquête doit déterminer si des irrégularités financières ont eu lieu.",
-        "chart": null,
-        "stakes": [
-          "Transparence dans la gestion des deniers publics locaux",
-          "Impact politique sur la candidature d'Édouard Philippe à la présidentielle",
-          "Indépendance et déroulement des procédures judiciaires"
-        ],
-        "sources": [
-          {
-            "name": "franceinfo",
-            "title": "Une enquête ouverte après un signalement pour détournement de fonds publics à l'agglomération du Havre présidée par Edouard Philippe",
-            "link": "https://www.franceinfo.fr/politique/edouard-philippe/une-enquete-ouverte-apres-un-signalement-pour-detournement-de-fonds-publics-a-l-agglomeration-du-havre-presidee-par-edouard-philippe_8297676.html#xtor=RSS-3-%5Bfrance%5D",
-            "publishedAt": "2026-11-24T15:32:51.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Le JDD",
-            "title": "Enquête ouverte au Havre : Édouard Philippe dénonce une «vendetta judiciaire»",
-            "link": "https://www.lejdd.fr/politique/enquete-ouverte-au-havre-edouard-philippe-denonce-une-vendetta-judiciaire-189585",
-            "publishedAt": "2026-11-24T17:25:10.000Z",
+            "title": "\"Ce n'est pas notre guerre\" : Teddy Riner exhorte à arrêter de donner de l'argent à l'Ukraine",
+            "link": "https://www.france24.com/fr/france/20261125-notre-guerre-teddy-riner-exhorte-arr%C3%AAter-donner-argent-ukraine-%C3%A9lection-fran%C3%A7aise-pr%C3%A9sidentielle",
+            "publishedAt": "2026-11-25T21:26:17.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
             "name": "Euronews",
-            "title": "France : Édouard Philippe visé par de nouveaux soupçons de détournement de fonds de publics",
-            "link": "https://fr.euronews.com/2026/11/24/france-edouard-philippe-vise-par-de-nouveaux-soupcons-de-detournement-de-fonds-de-publics",
-            "publishedAt": "2026-11-24T19:48:12.000Z",
+            "title": "Soldats français en Ukraine : \"Pas notre guerre\", juge Teddy Riner",
+            "link": "https://fr.euronews.com/2026/11/25/pas-notre-guerre-teddy-riner-critique-lenvoi-de-soldats-en-ukraine-pour-des-missions-non-c",
+            "publishedAt": "2026-11-25T19:22:01.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "Teddy Riner affirme, à propos de la guerre en Ukraine, que la France doit « arrêter de donner de l’argent » qu’elle n’a pas",
+            "link": "https://www.lemonde.fr/politique/article/2026/11/25/teddy-riner-affirme-a-propos-de-la-guerre-en-ukraine-que-la-france-doit-arreter-de-donner-de-l-argent-que-nous-n-avons-pas_6815137_823449.html",
+            "publishedAt": "2026-11-25T18:57:23.000Z",
             "lang": "fr",
             "country": "FR"
           }
         ],
         "image": {
-          "url": "https://www.franceinfo.fr/pictures/DW77LrJ3I1Kjltf8r8DgNygwtTU/0x66:1024x642/432x243/filters:format(jpg)/2026/11/24/6b05847c7b697551898979.jpg",
-          "credit": "franceinfo",
-          "link": "https://www.franceinfo.fr/politique/edouard-philippe/une-enquete-ouverte-apres-un-signalement-pour-detournement-de-fonds-publics-a-l-agglomeration-du-havre-presidee-par-edouard-philippe_8297676.html#xtor=RSS-3-%5Bfrance%5D"
-        },
-        "i18n": {
-          "en": {
-            "title": "Opening of a new investigation targeting the urban community of Le Havre",
-            "context": "The public prosecutor of Le Havre forwarded an investigation to the local police station following a report of embezzlement of public funds. This report initially originated from the National Financial Prosecutor's Office.",
-            "summary": "The investigations target the management of the urban community of Le Havre, chaired by former Prime Minister Édouard Philippe. The latter reacted firmly to this new procedure, describing it as a judicial vendetta against him. The political leader and presidential candidate asserts that he has committed no wrongdoing. The authorities are continuing their verifications to establish the reality of the reported facts.",
-            "plain": "IN CLEAR: The judiciary has opened a new investigation into the management of the Le Havre agglomeration, led by Édouard Philippe. The former Prime Minister disputes the accusations and denounces abusive proceedings. The investigation must determine if financial irregularities occurred.",
-            "stakes": [
-              "Transparency in the management of local public funds",
-              "Political impact on Édouard Philippe's presidential candidacy",
-              "Independence and conduct of judicial procedures"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Apertura de una nueva investigación dirigida contra la comunidad urbana de Le Havre",
-            "context": "La fiscal de la República de Le Havre transmitió a la comisaría local una investigación tras una denuncia por malversación de fondos públicos. Dicha denuncia procedía inicialmente de la Fiscalía Nacional Financiera.",
-            "summary": "Las investigaciones se centran en la gestión de la comunidad urbana de Le Havre, presidida por el ex primer ministro Édouard Philippe. Este último reaccionó con firmeza ante este nuevo procedimiento, calificándolo de venganza judicial en su contra. El dirigente político y candidato a la presidencia afirma no haber cometido ninguna falta. Las autoridades continúan sus comprobaciones para establecer la veracidad de los hechos denunciados.",
-            "plain": "EN CLARO: La justicia ha abierto una nueva investigación sobre la gestión de la aglomeración de Le Havre, dirigida por Édouard Philippe. El ex primer ministro niega las acusaciones y denuncia un proceso abusivo. La investigación debe determinar si se produjeron irregularidades financieras.",
-            "stakes": [
-              "Transparencia en la gestión de los fondos públicos locales",
-              "Impacto político en la candidatura presidencial de Édouard Philippe",
-              "Independencia y desarrollo de los procedimientos judiciales"
-            ],
-            "chart": null
-          }
+          "url": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/25/16/000_d8l367q.jpg?VersionId=BqJ9vbimqxZMr2KkXNGZPO4gRm12bw1n",
+          "credit": "Le JDD",
+          "link": "https://www.lejdd.fr/politique/ce-nest-pas-notre-guerre-teddy-riner-prend-position-sur-lukraine-et-appelle-a-des-elections-anticipees-189684"
         }
       },
       {
-        "id": "sbf875e6f8b",
-        "topic": "economie",
-        "title": "Implantation du constructeur automobile chinois BYD en Moselle",
-        "context": "Les constructeurs automobiles chinois cherchent à installer des capacités de production directement sur le continent européen. Cette stratégie vise à contourner les barrières douanières imposées par l'Union européenne sur les véhicules importés.",
-        "summary": "Le groupe chinois BYD a annoncé son projet de racheter une usine située à Hambach, en Moselle. L'entreprise prospectait depuis un an pour trouver un site industriel en Europe. Cette acquisition doit lui permettre d'assembler ses véhicules électriques sur le sol français. L'opération marque une étape clé pour la réindustrialisation du site mosellan.",
-        "plain": "EN CLAIR : Le fabricant chinois de voitures électriques BYD veut acheter une usine à Hambach en Moselle. Cela lui permettra de fabriquer ses véhicules directement en France et d'éviter les taxes d'importation de l'Union européenne.",
+        "id": "s96a0b9c370",
+        "topic": "politique",
+        "title": "Marseille : le maire accuse la police d'avoir relâché des pilleurs",
+        "context": "Une commission d'enquête parlementaire examine les violences et les incidents survenus le 17 octobre dernier à Marseille.",
+        "summary": "Auditionné par la commission d'enquête de l'Assemblée nationale, le maire de Marseille, Benoît Payan, a affirmé que des instructions avaient été données pour relâcher des pilleurs interpellés le 17 octobre dans la cité phocéenne. Appuyant ses dires sur l'examen des enregistrements de vidéosurveillance, l'édile a dénoncé une situation d'impunité, tandis que les médias rapportent largement ses déclarations et le contexte tendu de ces interpellations.",
+        "plain": "Le maire de Marseille assure que des casseurs arrêtés lors d'incidents récents ont reçu l'ordre d'être libérés par les autorités. Une affaire qui met en lumière des tensions sur la gestion des interpellations.",
         "chart": null,
         "stakes": [
-          "Maintien et création d'emplois industriels dans la région Moselle",
-          "Concurrence sur le marché européen du véhicule électrique",
-          "Stratégies d'évitement des droits de douane par les groupes chinois"
+          "Quelles suites judiciaires seront données aux accusations portées par le maire de Marseille ?",
+          "Le fonctionnement des forces de l'ordre locales sera-t-il réévalué par le Parlement ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Benoît Payan affirme que des ordres ont été donnés pour \"relâcher\" des pilleurs le 17 octobre à Marseille",
+            "link": "https://www.franceinfo.fr/marseille/benoit-payan-affirme-que-des-ordres-ont-ete-donnes-pour-relacher-des-casseurs-le-17-octobre-a-marseille_8300364.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-25T21:44:42.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Monde",
+            "title": "Violences du 17 octobre à Marseille : des ordres ont été donnés pour relâcher des casseurs, selon Benoît Payan",
+            "link": "https://www.lemonde.fr/societe/article/2026/11/25/violences-du-17-octobre-a-marseille-des-ordres-ont-ete-donnes-pour-relacher-des-casseurs-selon-benoit-payan_6815175_3224.html",
+            "publishedAt": "2026-11-25T21:24:09.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Figaro",
+            "title": "Manifestation du 17 octobre à Marseille : «Il a été demandé à la police municipale de relâcher» plusieurs pilleurs, affirme Benoît Payan",
+            "link": "https://www.lefigaro.fr/marseille/manifestation-du-17-octobre-on-a-demande-a-la-police-municipale-de-relacher-plusieurs-pilleurs-a-marseille-affirme-benoit-payan-20261125",
+            "publishedAt": "2026-11-25T21:03:53.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "France 24",
+            "title": "Violences du 17 octobre à Marseille : des ordres donnés pour \"relâcher\" des casseurs, selon le maire",
+            "link": "https://www.france24.com/fr/france/20261125-france-violences-17-octobre-marseille-ordres-donnes-relacher-casseurs-maire-benoit-payan",
+            "publishedAt": "2026-11-25T22:36:14.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/HHsqASwkogxjODDw68WeAV0qJ9Y/0x25:1024x601/432x243/filters:format(jpg)/2026/11/25/6b0754bcb7e08088514778.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/marseille/benoit-payan-affirme-que-des-ordres-ont-ete-donnes-pour-relacher-des-casseurs-le-17-octobre-a-marseille_8300364.html#xtor=RSS-3-%5Bfrance%5D"
+        }
+      },
+      {
+        "id": "s3c6fcb568b",
+        "topic": "societe",
+        "title": "Mouvement lycéen : plus de 400 exclusions définitives recensées",
+        "context": "Les mobilisations lycéennes de l'automne ont été marquées par des tensions et des incidents dans plusieurs établissements scolaires.",
+        "summary": "Le ministère de l'Éducation nationale a indiqué que plus de 400 élèves ont été définitivement exclus de leur établissement dans le cadre de 3 000 procédures disciplinaires engagées depuis la rentrée. Alors que le ministre appelle à relativiser ces chiffres face à la masse des élèves non impliqués, des syndicats et des associations dénoncent parallèlement une gestion autoritaire de la crise, mentionnant des projets de décrets et des dispositifs locaux contestés en justice.",
+        "plain": "Suite à des tensions et des blocages dans les lycées, des centaines d'élèves ont été exclus définitivement. Cette sévérité administrative suscite de fortes oppositions de la part de syndicats et d'associations.",
+        "chart": null,
+        "stakes": [
+          "La réponse disciplinaire actuelle est-elle de nature à apaiser les lycées ?",
+          "Quel équilibre trouver entre maintien de l'ordre scolaire et droit de contestation ?"
         ],
         "sources": [
           {
             "name": "Le Monde",
-            "title": "Le constructeur automobile chinois BYD va s’implanter en France",
-            "link": "https://www.lemonde.fr/economie/article/2026/11/24/le-constructeur-automobile-chinois-byd-va-s-implanter-en-france_6814850_3234.html",
-            "publishedAt": "2026-11-24T20:35:09.000Z",
+            "title": "Mouvement lycéen : plus de 400 élèves exclus définitivement de leur établissement, sur les 3 000 procédures disciplinaires engagées",
+            "link": "https://www.lemonde.fr/societe/article/2026/11/25/mouvement-lyceen-plus-de-400-eleves-exclus-definitivement-de-leur-etablissement_6815162_3224.html",
+            "publishedAt": "2026-11-25T18:17:25.000Z",
             "lang": "fr",
             "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://img.lemde.fr/2026/11/24/654/0/5477/2738/644/322/60/0/4d9a6f5_ftp-1-5bj71zitnq0t-2026-11-24t161537z-1581296804-rc2m1oag4iu0-rtrmadp-3-autofile.JPG",
-          "credit": "Le Monde",
-          "link": "https://www.lemonde.fr/economie/article/2026/11/24/le-constructeur-automobile-chinois-byd-va-s-implanter-en-france_6814850_3234.html"
-        },
-        "i18n": {
-          "en": {
-            "title": "Establishment of Chinese car manufacturer BYD in Moselle",
-            "context": "Chinese car manufacturers are seeking to set up production capacities directly on the European continent. This strategy aims to circumvent customs barriers imposed by the European Union on imported vehicles.",
-            "summary": "The Chinese group BYD has announced its plan to buy a factory located in Hambach, in Moselle. The company had been scouting for an industrial site in Europe for a year. This acquisition should allow it to assemble its electric vehicles on French soil. The operation marks a key step for the reindustrialization of the Moselle site.",
-            "plain": "IN CLEAR: Chinese electric car manufacturer BYD wants to buy a factory in Hambach in Moselle. This will allow it to manufacture its vehicles directly in France and avoid European Union import taxes.",
-            "stakes": [
-              "Maintenance and creation of industrial jobs in the Moselle region",
-              "Competition in the European electric vehicle market",
-              "Strategies to avoid customs duties by Chinese groups"
-            ],
-            "chart": null
           },
-          "es": {
-            "title": "Implantación del fabricante de automóviles chino BYD en Mosela",
-            "context": "Los fabricantes de automóviles chinos buscan instalar capacidades de producción directamente en el continente europeo. Esta estrategia tiene como objetivo sortear las barreras aduaneras impuestas por la Unión Europea a los vehículos importados.",
-            "summary": "El grupo chino BYD ha anunciado su proyecto de comprar una fábrica situada en Hambach, en Mosela. La empresa llevaba un año buscando un emplazamiento industrial en Europa. Esta adquisición debe permitirle ensamblar sus vehículos eléctricos en suelo francés. La operación marca una etapa clave para la reindustrialización del emplazamiento de Mosela.",
-            "plain": "EN CLARO: El fabricante chino de coches eléctricos BYD quiere comprar una fábrica en Hambach, en Mosela. Esto le permitirá fabricar sus vehículos directamente en Francia y evitar los impuestos de importación de la Unión Europea.",
-            "stakes": [
-              "Mantenimiento y creación de empleo industrial en la región de Mosela",
-              "Competencia en el mercado europeo del vehículo eléctrico",
-              "Estrategias de elusión de aranceles por parte de los grupos chinos"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s6e782eba23",
-        "topic": "economie",
-        "title": "Arrêt de la production de nuit et suppressions d'emplois chez Stellantis",
-        "context": "L'industrie automobile européenne fait face à des incertitudes économiques et à une baisse du carnet de commandes sur plusieurs modèles.",
-        "summary": "La direction de Stellantis a officialisé en comité social et économique la fin de l'équipe de nuit sur le site de Sochaux. Cette décision entraîne le départ de 1 000 ouvriers, majoritairement des intérimaires. Le groupe explique cette mesure par une chute brutale de la production et une conjoncture défavorable. Les syndicats dénoncent un impact social lourd pour le bassin d'emploi local.",
-        "plain": "EN CLAIR : Stellantis supprime son équipe de nuit à l'usine de Sochaux en raison d'une baisse des commandes. Environ 1 000 salariés perdent leur travail. C'est un coup dur pour les ouvriers et la région.",
-        "chart": null,
-        "stakes": [
-          "Impact économique et social sur la région de Sochaux",
-          "Santé financière et carnets de commandes des constructeurs automobiles",
-          "Précarité de l'emploi des personnels intérimaires"
-        ],
-        "sources": [
           {
-            "name": "L'Humanité",
-            "title": "Stellantis arrête sa production de nuit à Sochaux : 1 000 ouvriers licenciés",
-            "link": "https://www.humanite.fr/social-et-economie/automobile/stellantis-arrete-sa-production-de-nuit-a-sochaux-1-000-ouvriers-licencies",
-            "publishedAt": "2026-11-24T19:06:29.000Z",
+            "name": "Libération",
+            "title": "Plus de 400 lycéens définitivement exclus de leur établissement depuis le début de la mobilisation",
+            "link": "https://www.liberation.fr/societe/education/plus-de-400-lyceens-definitivement-exclus-de-leur-etablissement-depuis-le-debut-de-la-mobilisation-20261125_AVZFGSRE7RAFBEAIX7Z3EJNGHA/",
+            "publishedAt": "2026-11-25T20:35:11.000Z",
             "lang": "fr",
             "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://www.humanite.fr/wp-content/uploads/2026/11/stellantis-sochaux.jpg?w=1200",
-          "credit": "L'Humanité",
-          "link": "https://www.humanite.fr/social-et-economie/automobile/stellantis-arrete-sa-production-de-nuit-a-sochaux-1-000-ouvriers-licencies"
-        },
-        "i18n": {
-          "en": {
-            "title": "Cessation of night production and job cuts at Stellantis",
-            "context": "The European automotive industry is facing economic uncertainties and a decline in order books for several models.",
-            "summary": "Stellantis management formalized during a social and economic committee meeting the end of the night shift at the Sochaux site. This decision leads to the departure of 1,000 workers, mostly temporary staff. The group explains this measure by a sharp drop in production and an unfavorable economic environment. Trade unions denounce a heavy social impact for the local employment basin.",
-            "plain": "IN CLEAR: Stellantis is eliminating its night shift at the Sochaux plant due to a drop in orders. About 1,000 employees are losing their jobs. This is a heavy blow for workers and the region.",
-            "stakes": [
-              "Economic and social impact on the Sochaux region",
-              "Financial health and order books of automotive manufacturers",
-              "Job insecurity of temporary personnel"
-            ],
-            "chart": null
           },
-          "es": {
-            "title": "Cese de la producción nocturna y supresión de empleos en Stellantis",
-            "context": "La industria automovilística europea se enfrenta a incertidumbres económicas y a una disminución de la cartera de pedidos en varios modelos.",
-            "summary": "La dirección de Stellantis oficializó en el comité social y económico el fin del turno de noche en la planta de Sochaux. Esta decisión conlleva la salida de 1.000 trabajadores, en su mayoría eventuales. El grupo explica esta medida por una caída brutal de la producción y una coyuntura desfavorable. Los sindicatos denuncian un fuerte impacto social para la cuenca de empleo local.",
-            "plain": "EN CLARO: Stellantis suprime su equipo de noche en la fábrica de Sochaux debido a una bajada de los pedidos. Cerca de 1.000 empleados pierden su trabajo. Es un duro golpe para los trabajadores y la región.",
-            "stakes": [
-              "Impacto económico y social en la región de Sochaux",
-              "Salud financiera y carteras de pedidos de los fabricantes de automóviles",
-              "Precariedad laboral del personal temporal"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s83e7b2dad3",
-        "topic": "economie",
-        "title": "Propositions de réformes budgétaires sur les retraites au Sénat",
-        "context": "Dans le cadre de l'examen du projet de loi de finances pour 2027, le gouvernement et le Parlement cherchent des recettes fiscales supplémentaires pour réduire le déficit public.",
-        "summary": "Le Sénat a rejeté la suppression totale de l'abattement fiscal de 10 % appliqué aux pensions de retraite, optant plutôt pour son plafonnement à 1 000 euros. Cette mesure s'inscrit dans les débats tendus autour des choix budgétaires de l'État. En parallèle, le Premier ministre Sébastien Lecornu a annoncé des rencontres individuelles avec les chefs de groupes parlementaires pour négocier le budget. La question des retraites et de leur fiscalité suscite des prises de position divergentes parmi les prétendants à l'élection présidentielle.",
-        "plain": "EN CLAIR : Le Sénat a décidé de limiter l'avantage fiscal des retraités à 1 000 euros par an plutôt que de le supprimer complètement. Le Premier ministre tente de trouver un accord avec les partis politiques sur le budget de l'État.",
-        "chart": null,
-        "stakes": [
-          "Pouvoir d'achat des retraités face aux mesures d'économie",
-          "Recherche de compromis parlementaires sur le budget national",
-          "Positionnement des partis politiques sur l'effort fiscal demandé"
-        ],
-        "sources": [
           {
             "name": "La Croix",
-            "title": "Budget : Lecornu recevra la semaine prochaine les présidents des groupes parlementaires",
-            "link": "https://www.la-croix.com/economie/budget-lecornu-recevra-la-semaine-prochaine-les-presidents-des-groupes-parlementaires-20261124",
-            "publishedAt": "2026-11-24T19:40:49.000Z",
+            "title": "Mouvement lycéen : plus de 400 élèves exclus définitivement de leur établissement",
+            "link": "https://www.la-croix.com/societe/mouvement-lyceen-plus-de-400-eleves-exclus-definitivement-de-leur-etablissement-20261125",
+            "publishedAt": "2026-11-25T18:34:58.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "Le JDD",
-            "title": "Abattement fiscal des retraités : que proposent les candidats à la présidentielle ?",
-            "link": "https://www.lejdd.fr/politique/abattement-fiscal-des-retraites-que-proposent-les-candidats-a-la-presidentielle-189576",
-            "publishedAt": "2026-11-24T17:16:31.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Le JDD",
-            "title": "Budget 2027 : le Sénat renonce à supprimer l’abattement fiscal des retraités, mais le plafonne à 1 000 euros",
-            "link": "https://www.lejdd.fr/politique/budget-2027-le-senat-renonce-a-supprimer-labattement-fiscal-des-retraites-mais-le-plafonne-a-1-000-euros-189588",
-            "publishedAt": "2026-11-24T17:00:12.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://i.la-croix.com/x/2026/11/24/2598025-le-premier-ministre-sebastien-lecornu-a-annonce-ma.jpg",
-          "credit": "La Croix",
-          "link": "https://www.la-croix.com/economie/budget-lecornu-recevra-la-semaine-prochaine-les-presidents-des-groupes-parlementaires-20261124"
-        },
-        "i18n": {
-          "en": {
-            "title": "Proposals for budgetary reforms on pensions in the Senate",
-            "context": "As part of the review of the finance bill for 2027, the government and Parliament are looking for additional tax revenues to reduce the public deficit.",
-            "summary": "The Senate rejected the total abolition of the 10% tax allowance applied to retirement pensions, opting instead to cap it at 1,000 euros. This measure is part of the tense debates surrounding the State's budgetary choices. In parallel, Prime Minister Sébastien Lecornu announced individual meetings with parliamentary group leaders to negotiate the budget. The issue of pensions and their taxation sparks divergent stances among contenders for the presidential election.",
-            "plain": "IN CLEAR: The Senate decided to limit the tax advantage for retirees to 1,000 euros per year rather than completely abolishing it. The Prime Minister is trying to find an agreement with political parties on the state budget.",
-            "stakes": [
-              "Purchasing power of retirees in the face of austerity measures",
-              "Search for parliamentary compromises on the national budget",
-              "Positioning of political parties regarding the requested tax effort"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Propuestas de reformas presupuestarias sobre las pensiones en el Senado",
-            "context": "En el marco del examen del proyecto de ley de finanzas para 2027, el gobierno y el Parlamento buscan ingresos fiscales adicionales para reducir el déficit público.",
-            "summary": "El Senado rechazó la supresión total de la desgravación fiscal del 10% aplicada a las pensiones de jubilación, optando en su lugar por limitarla a 1.000 euros. Esta medida se enmarca en los debates tensos en torno a las opciones presupuestarias del Estado. De forma paralela, el primer ministro Sébastien Lecornu anunció reuniones individuales con los jefes de los grupos parlamentarios para negociar el presupuesto. La cuestión de las pensiones y su fiscalidad suscita posturas divergentes entre los aspirantes a las elecciones presidenciales.",
-            "plain": "EN CLARO: El Senado ha decidido limitar la ventaja fiscal de los jubilados a 1.000 euros al año en lugar de suprimirla por completo. El primer ministro intenta alcanzar un acuerdo con los partidos políticos sobre el presupuesto del Estado.",
-            "stakes": [
-              "Poder adquisitivo de los jubilados frente a las medidas de ahorro",
-              "Búsqueda de compromisos parlamentarios sobre el presupuesto nacional",
-              "Posicionamiento de los partidos políticos sobre el esfuerzo fiscal solicitado"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s0774ef478c",
-        "topic": "justice",
-        "title": "Plaintes et poursuites judiciaires engagées par Gisèle Pelicot",
-        "context": "Gisèle Pelicot est devenue une figure publique au cours d'un procès retentissant sur des faits de soumission chimique et de violences sexuelles subis au sein de son couple.",
-        "summary": "Gisèle Pelicot a exprimé une vive indignation après la découverte de photos dénudées d'elle utilisées pour la promotion d'un livre sur le contrôle coercitif. Les clichés intimes avaient été pris à son insu par son ex-mari reconnu coupable lors du procès. Face à cette diffusion non consentie transmise à des médias, la victime a annoncé qu'elle engageait des poursuites judiciaires contre l'auteur et l'éditeur de l'ouvrage. Elle dénonce une atteinte grave et une humiliation supplémentaire.",
-        "plain": "EN CLAIR : Gisèle Pelicot porte plainte après avoir appris que des photos intimes d'elle, prises par son ex-mari, ont été diffusées sans son accord pour faire la promotion d'un livre. Elle se dit choquée et humiliée.",
-        "chart": null,
-        "stakes": [
-          "Protection du droit à l'image et de la vie privée des victimes",
-          "Encadrement éthique des publications éditoriales et médiatiques",
-          "Prévention des violences et ré-victimisation dans l'espace public"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "title": "Gisèle Pelicot ‘deeply shocked’ after nude images used to promote book",
-            "link": "https://www.theguardian.com/world/2026/nov/23/gisele-pelicot-deeply-shocked-nude-images-book-france",
-            "publishedAt": "2026-11-23T18:12:48.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "Sky News",
-            "title": "Gisele Pelicot 'deeply shocked' as nude photos of her sent to media",
-            "link": "https://news.sky.com/story/gisele-pelicot-deeply-shocked-after-nude-photos-used-to-promote-book-13615849",
-            "publishedAt": "2026-11-24T02:54:00.000Z",
-            "lang": "en",
-            "country": "GB"
-          }
-        ],
-        "image": {
-          "url": "https://i.guim.co.uk/img/media/e37fab5a02fab6041eac944574360d00dabfca4c/820_500_3296_2637/master/3296.jpg?width=140&quality=85&auto=format&fit=max&s=bbfce3c5d5370336696903b8b572a2af",
-          "credit": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/23/gisele-pelicot-deeply-shocked-nude-images-book-france"
-        },
-        "i18n": {
-          "en": {
-            "title": "Complaints and legal proceedings initiated by Gisèle Pelicot",
-            "context": "Gisèle Pelicot became a public figure during a landmark trial regarding acts of chemical submission and sexual violence suffered within her marriage.",
-            "summary": "Gisèle Pelicot expressed deep indignation after discovering nude photos of her used to promote a book on coercive control. The intimate pictures had been taken without her knowledge by her ex-husband, who was convicted during the trial. Faced with this non-consensual dissemination sent to the media, the victim announced that she was initiating legal proceedings against the author and the publisher of the work. She denounces a serious violation and additional humiliation.",
-            "plain": "IN CLEAR: Gisèle Pelicot is filing a complaint after learning that intimate photos of her, taken by her ex-husband, were distributed without her consent to promote a book. She says she is shocked and humiliated.",
-            "stakes": [
-              "Protection of victims' right to image and privacy",
-              "Ethical regulation of editorial and media publications",
-              "Prevention of violence and re-victimization in the public space"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Denuncias y procedimientos judiciales emprendidos por Gisèle Pelicot",
-            "context": "Gisèle Pelicot se convirtió en una figura pública durante un juicio muy sonado sobre hechos de sumisión química y violencia sexual sufridos en el seno de su matrimonio.",
-            "summary": "Gisèle Pelicot expresó una profunda indignación tras descubrir fotos suyas desnudas utilizadas para la promoción de un libro sobre el control coercitivo. Las imágenes íntimas habían sido tomadas sin su conocimiento por su exmarido, condenado durante el juicio. Ante esta difusión no consentida transmitida a los medios de comunicación, la víctima anunció que emprendía acciones legales contra el autor y el editor de la obra. Denuncia una grave vulneración y una humillación suplementaria.",
-            "plain": "EN CLARO: Gisèle Pelicot presenta una denuncia tras enterarse de que se difundieron fotos íntimas suyas, tomadas por su exmarido, sin su consentimiento para promocionar un libro. Se declara indignada y humillada.",
-            "stakes": [
-              "Protección del derecho a la propia imagen y de la intimidad de las víctimas",
-              "Regulación ética de las publicaciones editoriales y mediáticas",
-              "Prevención de la violencia y revictimización en el espacio público"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s85b408346f",
-        "topic": "environnement",
-        "title": "Succès de l'opération de remorquage d'un cargo échoué dans les Landes",
-        "context": "Un cargo s'était échoué sur une plage de la côte landaise en raison de mauvaises conditions météorologiques, faisant craindre un risque environnemental.",
-        "summary": "Après quatre jours d'échouement, le navire marchand a été remis à flot à la suite d'une importante intervention de remorquage. Les équipes spécialisées ont profité d'une accalmie en mer pour tirer le cargo vers le large. Selon la préfecture des Landes, l'opération s'est déroulée sans que le navire ne provoque de pollution maritime. L'embarcation a pu reprendre sa route sous contrôle.",
-        "plain": "EN CLAIR : Le navire coincé depuis quatre jours sur une plage des Landes a pu être tiré vers la mer. L'opération de remorquage s'est bien déroulée et aucune pollution n'a été constatée sur la côte.",
-        "chart": null,
-        "stakes": [
-          "Protection des zones côtières et prévention des marées noires",
-          "Gestion des urgences maritimes par les services de l'État",
-          "Sécurité de la navigation le long du littoral atlantique"
-        ],
-        "sources": [
-          {
-            "name": "franceinfo",
-            "title": "Cargo échoué dans les Landes : le remorquage spectaculaire a eu lieu dans l'après-midi, aucune pollution selon le préfet des Landes",
-            "link": "https://www.franceinfo.fr/france/nouvelle-aquitaine/landes/cargo-echoue-dans-les-landes-le-remorquage-spectaculaire-a-eu-lieu-dans-l-apres-midi-aucune-pollution-selon-le-prefet-des-landes_8298306.html#xtor=RSS-3-%5Bfrance%5D",
-            "publishedAt": "2026-11-24T22:17:59.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "franceinfo",
-            "title": "Le cargo échoué sur la côte landaise a été remis à flot",
-            "link": "https://www.franceinfo.fr/france/nouvelle-aquitaine/landes/le-cargo-echoue-sur-la-cote-landaise-a-ete-remis-a-flot_8298282.html#xtor=RSS-3-%5Bfrance%5D",
-            "publishedAt": "2026-11-24T18:51:41.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://www.franceinfo.fr/pictures/H0w4zsg1IMe20mRT3pjbKhad9lE/0x95:1328x842/432x243/filters:format(jpg)/2026/11/24/6b05e19dbdc20623781077.png",
-          "credit": "franceinfo",
-          "link": "https://www.franceinfo.fr/france/nouvelle-aquitaine/landes/cargo-echoue-dans-les-landes-le-remorquage-spectaculaire-a-eu-lieu-dans-l-apres-midi-aucune-pollution-selon-le-prefet-des-landes_8298306.html#xtor=RSS-3-%5Bfrance%5D"
-        },
-        "i18n": {
-          "en": {
-            "title": "Successful towing operation of a grounded cargo ship in the Landes region",
-            "context": "A cargo ship had run aground on a beach on the Landes coast due to poor weather conditions, raising environmental concerns.",
-            "summary": "After running aground for four days, the merchant vessel was refloated following a major towing operation. Specialized teams took advantage of a lull at sea to pull the cargo ship out to sea. According to the Landes prefecture, the operation took place without the ship causing any marine pollution. The vessel was able to resume its journey under control.",
-            "plain": "IN SHORT: The vessel stuck for four days on a beach in the Landes region has been pulled out to sea. The towing operation went smoothly and no pollution was detected on the coast.",
-            "stakes": [
-              "Protection of coastal areas and prevention of oil spills",
-              "Management of maritime emergencies by state services",
-              "Navigation safety along the Atlantic coastline"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Éxito en la operación de remolque de un carguero encallado en las Landas",
-            "context": "Un carguero había encallado en una playa de la costa de las Landas debido a las malas condiciones meteorológicas, lo que hacía temer un riesgo medioambiental.",
-            "summary": "Tras cuatro días encallado, el buque mercante fue reflotado como resultado de una importante operación de remolque. Los equipos especializados aprovecharon una tregua en el mar para arrastrar el carguero mar adentro. Según la prefectura de las Landas, la operación se desarrolló sin que el barco provocara contaminación marina. La embarcación pudo reanudar su ruta bajo control.",
-            "plain": "EN CLARO: El barco atrapado durante cuatro días en una playa de las Landas pudo ser arrastrado hacia el mar. La operación de remolque transcurrió bien y no se constató ninguna contaminación en la costa.",
-            "stakes": [
-              "Protección de las zonas costeras y prevención de mareas negras",
-              "Gestión de emergencias marítimas por parte de los servicios estatales",
-              "Seguridad de la navegación a lo largo del litoral atlántico"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s14d4c7b03b",
-        "topic": "societe",
-        "title": "Rapport et mobilisations sur l'impact financier des violences conjugales",
-        "context": "À l'occasion de la Journée internationale pour l'élimination de la violence à l'égard des femmes, des données récentes rappellent la persistance de ce phénomène de société.",
-        "summary": "La Fondation des Femmes a publié une étude évaluant à 16 800 euros le coût moyen supporté par une femme pour quitter un conjoint violent, dénonçant le manque d'aides financières organisées. Sur le terrain judiciaire et criminel, un nouveau drame est survenu en Guadeloupe où un homme a tué son épouse avant de se suicider. À l'échelle mondiale, l'ONU rappelle qu'une femme meurt sous les coups d'un proche toutes les 11 minutes. Diverses voix s'élèvent pour réclamer une meilleure prise en charge économique et éducative des victimes.",
-        "plain": "EN CLAIR : À l'occasion d'une journée mondiale de sensibilisation, un rapport montre qu'il coûte près de 17 000 euros à une femme pour quitter un conjoint violent. Un nouveau drame familial en Guadeloupe illustre la gravité continue de ces violences.",
-        "chart": null,
-        "stakes": [
-          "Prise en charge financière et accompagnement des victimes de violences",
-          "Efficacité des mesures de protection et d'urgence sociale",
-          "Sensibilisation et prévention de la récidive violente"
-        ],
-        "sources": [
-          {
-            "name": "franceinfo",
-            "title": "En Guadeloupe, une femme tuée par son mari, qui s'est ensuite suicidé",
-            "link": "https://www.franceinfo.fr/france/guadeloupe/en-guadeloupe-une-femme-tuee-par-son-mari-qui-s-est-ensuite-suicide_8298480.html#xtor=RSS-3-%5Bfrance%5D",
-            "publishedAt": "2026-11-24T23:03:55.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Ouest-France",
-            "title": "Un homme tue son épouse en Guadeloupe et met ensuite fin à ses jours",
-            "link": "https://www.ouest-france.fr/region-guadeloupe/un-homme-tue-son-epouse-en-guadeloupe-et-met-ensuite-fin-a-ses-jours-e2a2478a-e859-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-            "publishedAt": "2026-11-24T23:08:01.000Z",
+            "name": "La Croix",
+            "title": "Blocus des lycées : des proviseurs dénoncent l’influence « d’organisations politiques »",
+            "link": "https://www.la-croix.com/politique/blocus-des-lycees-des-proviseurs-denoncent-l-influence-dorganisations-politiques-20261125",
+            "publishedAt": "2026-11-25T18:33:32.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
             "name": "L'Humanité",
-            "title": "16 800 euros : ce qu’une femme doit débourser pour quitter son conjoint violent selon la Fondation des Femmes",
-            "link": "https://www.humanite.fr/feminisme/anne-cecile-mailfert/16-800-euros-ce-quune-femme-doit-debourser-pour-quitter-son-conjoint-violent-selon-la-fondation-des-femmes",
-            "publishedAt": "2026-11-24T18:55:22.000Z",
+            "title": "Conseils de discipline : un projet de décret promet une reprise en main autoritaire de l’institution scolaire",
+            "link": "https://www.humanite.fr/societe/directeurs-decole/conseils-de-discipline-un-projet-de-decret-promet-une-reprise-en-main-autoritaire-de-linstitution-scolaire",
+            "publishedAt": "2026-11-25T18:39:15.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "France 24",
-            "title": "1 femme est tuée par un proche toutes les 11 minutes",
-            "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261124-1-femme-est-tu%C3%A9e-par-un-proche-toutes-les-11-minutes",
-            "publishedAt": "2026-11-24T23:31:50.000Z",
+            "name": "L'Humanité",
+            "title": "La LDH saisit la justice contre le dispositif « casseur-payeur » de Valérie Pécresse visant les lycéens d’Île-de-France",
+            "link": "https://www.humanite.fr/politique/ile-de-france/la-ldh-saisit-la-justice-contre-le-dispositif-casseur-payeur-de-valerie-pecresse-visant-les-lyceens-dile-de-france",
+            "publishedAt": "2026-11-25T17:36:55.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Valeurs actuelles",
+            "title": "LFI, enseignants, parents d’élèves : un rapport de l’Éducation Nationale démontre l’implication de nombreux adultes dans les blocages des lycées",
+            "link": "https://www.valeursactuelles.com/societe/lfi-enseignants-parents-deleves-un-rapport-de-leducation-nationale-demontre-limplication-de-nombreux-adultes-dans-les-blocages-des-lycees",
+            "publishedAt": "2026-11-25T16:01:59.000Z",
             "lang": "fr",
             "country": "FR"
           }
         ],
         "image": {
-          "url": "https://www.franceinfo.fr/pictures/ZVozaI7070lZQgpoVXei1CeC8RM/0x0:8640x4860/432x243/filters:format(jpg)/2026/11/25/6b0617c5e2559550312892.jpg",
-          "credit": "franceinfo",
-          "link": "https://www.franceinfo.fr/france/guadeloupe/en-guadeloupe-une-femme-tuee-par-son-mari-qui-s-est-ensuite-suicide_8298480.html#xtor=RSS-3-%5Bfrance%5D"
-        },
-        "i18n": {
-          "en": {
-            "title": "Report and mobilizations on the financial impact of domestic violence",
-            "context": "On the occasion of the International Day for the Elimination of Violence against Women, recent data highlights the persistence of this societal phenomenon.",
-            "summary": "The Fondation des Femmes published a study estimating the average cost borne by a woman to leave an abusive partner at 16,800 euros, denouncing the lack of organized financial aid. On the judicial and criminal front, a new tragedy occurred in Guadeloupe where a man killed his wife before committing suicide. Globally, the UN recalls that a woman dies from the blows of an intimate partner every 11 minutes. Various voices are raising to demand better economic and educational support for victims.",
-            "plain": "IN SHORT: On the occasion of a global awareness day, a report shows that it costs nearly 17,000 euros for a woman to leave an abusive partner. A new family tragedy in Guadeloupe illustrates the continuing severity of this violence.",
-            "stakes": [
-              "Financial support and assistance for victims of violence",
-              "Effectiveness of protection and social emergency measures",
-              "Awareness and prevention of violent recidivism"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Informe y movilizaciones sobre el impacto financiero de la violencia doméstica",
-            "context": "Con motivo del Día Internacional de la Eliminación de la Violencia contra la Mujer, datos recientes recuerdan la persistencia de este fenómeno social.",
-            "summary": "La Fundación de Mujeres publicó un estudio que evalúa en 16.800 euros el coste medio que soporta una mujer para dejar a un cónyuge maltratador, denunciando la falta de ayudas financieras organizadas. En el ámbito judicial y penal, se produjo un nuevo drama en Guadalupe, donde un hombre mató a su esposa antes de suicidarse. A escala mundial, la ONU recuerda que una mujer muere a manos de un allegado cada 11 minutos. Varias voces se alzan para reclamar una mejor atención económica y educativa a las víctimas.",
-            "plain": "EN CLARO: Con motivo de una jornada mundial de sensibilización, un informe muestra que cuesta casi 17.000 euros a una mujer dejar a un cónyuge maltratador. Un nuevo drama familiar en Guadalupe ilustra la gravedad continua de estas violencias.",
-            "stakes": [
-              "Atención financiera y acompañamiento a las víctimas de violencia",
-              "Eficacia de las medidas de protección y de urgencia social",
-              "Sensibilización y prevención de la reincidencia violenta"
-            ],
-            "chart": null
-          }
+          "url": "https://img.lemde.fr/2026/11/17/964/0/4500/2250/644/322/60/0/f684113_upload-1-xrzsdxyj2isp-mfache-17112026-le-monde-manifestation-du-17-novembre-toulouse-004.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/societe/article/2026/11/25/mouvement-lyceen-plus-de-400-eleves-exclus-definitivement-de-leur-etablissement_6815162_3224.html"
         }
       },
       {
-        "id": "se3f3e4de6b",
-        "topic": "justice",
-        "title": "Enquêtes ouvertes après des blessures par arme lors de manifestations",
-        "context": "Des rassemblements récents ont donné lieu à des débordements et des incidents physiques en marge de cortèges organisés à Paris et en province.",
-        "summary": "Deux procédures judiciaires distinctes sont menées pour faire la lumière sur des blessures graves subies par des manifestants. À Montpellier, un jeune homme de 21 ans témoigne des séquelles subies au bras droit après un tir de mortier pyrotechnique. À Paris, la justice a opened une enquête pour tentative de meurtre après qu'un adolescent de 15 ans a été atteint par une balle de plomb Place de la Nation. Les enquêteurs s'emploient à identifier les auteurs de ces tirs.",
-        "plain": "EN CLAIR : Des enquêtes sont en cours à Paris et Montpellier après que des jeunes ont été gravement blessés lors de manifestations. L'un a été touché par un projectile pyrotechnique, l'autre par une balle de plomb.",
+        "id": "s4e0d1499f8",
+        "topic": "politique",
+        "title": "Affaire Hugues Moutouh : un préfet démis après des soupçons de fuites",
+        "context": "Les relations entre des membres de l'appareil sécuritaire de l'État et des partis politiques font l'objet d'une surveillance accrue et de polémiques récurrentes.",
+        "summary": "Le préfet du Loiret et ancien secrétaire général du ministère de l'Intérieur, Hugues Moutouh, a été démis de ses fonctions lors du Conseil des ministres en raison de soupçons de fuites d'informations vers le Rassemblement national. L'intéressé conteste fermement ces accusations, les qualifiant de manœuvre, tandis que la classe politique réagit vivement à cette affaire qui met en cause le sommet de l'administration.",
+        "plain": "Le préfet du Loiret a été limogé suite à des allégations de fuites d'informations policières vers un parti politique. Cette affaire secoue l'appareil d'État et suscrit de nombreuses réactions politiques.",
         "chart": null,
         "stakes": [
-          "Sécurisation des manifestations sur la voie publique",
-          "Responsabilité pénale des auteurs de violences en marge des cortèges",
-          "Prévention des blessures graves provoquées par des armes détournées"
-        ],
-        "sources": [
-          {
-            "name": "franceinfo",
-            "title": "\"Je me voyais amputé\" : le témoignage de Killian, mutilé par un tir de mortier en marge d'une manifestation à Montpellier",
-            "link": "https://www.franceinfo.fr/faits-divers/je-me-voyais-ampute-le-temoignage-de-killian-mutile-par-un-tir-de-mortier-en-marge-d-une-manifestation-a-montpellier_8298348.html#xtor=RSS-3-%5Bfrance%5D",
-            "publishedAt": "2026-11-24T22:29:33.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Libération",
-            "title": "Manifestation du 17 octobre : enquête ouverte pour tentative de meurtre sur un adolescent à Paris",
-            "link": "https://www.liberation.fr/societe/police-justice/manifestation-du-17-octobre-enquete-ouverte-pour-tentative-de-meurtre-sur-un-adolescent-a-paris-20261124_6Q73CJPK2RAHNH3DH36MDQJUFM/",
-            "publishedAt": "2026-11-24T21:10:23.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://www.franceinfo.fr/pictures/AY5dGQEwGryZh4z5dUaqxkl9cS0/0x101:1320x844/432x243/filters:format(jpg)/2026/11/24/6b05e7c9f28fb955264502.png",
-          "credit": "franceinfo",
-          "link": "https://www.franceinfo.fr/faits-divers/je-me-voyais-ampute-le-temoignage-de-killian-mutile-par-un-tir-de-mortier-en-marge-d-une-manifestation-a-montpellier_8298348.html#xtor=RSS-3-%5Bfrance%5D"
-        },
-        "i18n": {
-          "en": {
-            "title": "Investigations opened after weapon injuries during protests",
-            "context": "Recent gatherings led to unrest and physical incidents on the sidelines of processions organized in Paris and other regions.",
-            "summary": "Two separate judicial procedures are being conducted to shed light on serious injuries suffered by protesters. In Montpellier, a 21-year-old young man testifies to the aftereffects suffered on his right arm following a pyrotechnic mortar fire. In Paris, the justice system opened an investigation for attempted murder after a 15-year-old adolescent was hit by a lead pellet at Place de la Nation. Investigators are working to identify the perpetrators of these shots.",
-            "plain": "IN SHORT: Investigations are underway in Paris and Montpellier after young people were seriously injured during protests. One was hit by a pyrotechnic projectile, the other by a lead pellet.",
-            "stakes": [
-              "Securing public demonstrations",
-              "Criminal responsibility of the perpetrators of violence on the sidelines of protests",
-              "Prevention of serious injuries caused by misused weapons"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Investigaciones abiertas tras heridas por arma durante manifestaciones",
-            "context": "Concentraciones recientes dieron lugar a desbordamientos e incidentes físicos al margen de las marchas organizadas en París y en provincias.",
-            "summary": "Se llevan a cabo dos procedimientos judiciales distintos para esclarecer las graves lesiones sufridas por manifestantes. En Montpellier, un joven de 21 años testifica sobre las secuelas sufridas en el brazo derecho tras el disparo de un mortero pirotécnico. En París, la justicia abrió una investigación por tentativa de homicidio después de que un adolescente de 15 años fuera alcanzado por una bala de plomo en la Plaza de la Nación. Los investigadores se esfuerzan por identificar a los autores de estos disparos.",
-            "plain": "EN CLARO: Hay investigaciones en curso en París y Montpellier después de que jóvenes resultaran gravemente heridos durante manifestaciones. Uno fue alcanzado por un proyectil pirotécnico y el otro por una bala de plomo.",
-            "stakes": [
-              "Garantizar la seguridad en las manifestaciones en la vía pública",
-              "Responsabilidad penal de los autores de violencia al margen de las marchas",
-              "Prevención de lesiones graves provocadas por armas desviadas de su uso"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s79bece5c82",
-        "topic": "economie",
-        "title": "Plan de 300 millions d'euros pour la rénovation des TGV Atlantique",
-        "context": "La SNCF prépare l'ouverture progressive à la concurrence des lignes ferroviaires de grande vitesse dans l'ouest et le sud-ouest de la France à compter de 2028.",
-        "summary": "La compagnie ferroviaire nationale a annoncé un investissement de 300 millions d'euros destiné au réseau TGV Atlantique. Ce montant permettra notamment de remplacer 28 des 105 rames qui desservent la façade ouest. L'objectif est de moderniser le matériel roulant et d'améliorer le confort des voyageurs. La SNCF souhaite ainsi consolider sa position face à la future arrivée de transporteurs concurrents.",
-        "plain": "EN CLAIR : La SNCF va dépenser 300 millions d'euros pour rénover et remplacer des rames de TGV sur l'axe Atlantique. L'entreprise souhaite améliorer le service avant l'arrivée de concurrents prévus en 2028.",
-        "chart": null,
-        "stakes": [
-          "Amélioration de la qualité de service et de la ponctualité des trains",
-          "Préparation à l'ouverture à la concurrence du marché ferroviaire français",
-          "Financement de la modernisation des infrastructures de transport"
-        ],
-        "sources": [
-          {
-            "name": "Libération",
-            "title": "TGV Atlantique : la SNCF dégaine 300 millions d’euros pour rénover le réseau",
-            "link": "https://www.liberation.fr/economie/transports/tgv-atlantique-la-sncf-degaine-300-millions-deuros-pour-renover-le-reseau-20261124_ISIUCJ3TVVDCLJYBUF6YALO6OM/",
-            "publishedAt": "2026-11-24T20:55:55.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": null,
-        "i18n": {
-          "en": {
-            "title": "300 million euro plan for the renovation of TGV Atlantique trains",
-            "context": "SNCF is preparing the gradual opening to competition of high-speed rail lines in western and southwestern France starting in 2028.",
-            "summary": "The national railway company announced a 300 million euro investment intended for the TGV Atlantique network. This amount will notably allow the replacement of 28 of the 105 trainsets serving the western facade. The objective is to modernize the rolling stock and improve passenger comfort. SNCF thus wishes to consolidate its position against the future arrival of competing carriers.",
-            "plain": "IN SHORT: SNCF will spend 300 million euros to renovate and replace TGV trainsets on the Atlantic axis. The company wants to improve service before the arrival of competitors scheduled for 2028.",
-            "stakes": [
-              "Improvement of service quality and train punctuality",
-              "Preparation for the opening to competition of the French rail market",
-              "Financing the modernization of transport infrastructure"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Plan de 300 millones de euros para la renovación de los TGV Atlántico",
-            "context": "La SNCF prepara la apertura progresiva a la competencia de las líneas ferroviarias de alta velocidad en el oeste y suroeste de Francia a partir de 2028.",
-            "summary": "La compañía ferroviaria nacional anunció una inversión de 300 millones de euros destinada a la red TGV Atlántico. Esta cantidad permitirá en particular sustituir 28 de los 105 trenes que prestan servicio en la fachada oeste. El objetivo es modernizar el material rodante y mejorar el confort de los viajeros. De este modo, la SNCF desea consolidar su posición frente a la futura llegada de operadores competidores.",
-            "plain": "EN CLARO: La SNCF gastará 300 millones de euros en renovar y sustituir trenes TGV en el eje Atlántico. La empresa quiere mejorar el servicio antes de la llegada de competidores prevista para 2028.",
-            "stakes": [
-              "Mejora de la calidad del servicio y de la puntualidad de los trenes",
-              "Preparación para la apertura a la competencia del mercado ferroviario francés",
-              "Financiación de la modernización de las infraestructuras de transporte"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "sb47f8efb92",
-        "topic": "sport",
-        "title": "Nouvelle défaite du RC Lens face au RB Leipzig en Ligue des champions",
-        "context": "La phase de ligue de la Ligue des champions européenne réunit les meilleurs clubs du continent dans un format de poule unique.",
-        "summary": "Le RC Lens s'est incliné sur la pelouse du RB Leipzig sur le score de 3 buts à 1 lors de la cinquième journée. Les Sang et Or avaient pourtant ouvert la marque avant de subir le retour du club allemand. Cette deuxième défaite consécutive fragilise la position de l'équipe française au classement général. Les chances de qualification directe ou de passage par les barrages s'amenuisent pour le club nordiste.",
-        "plain": "EN CLAIR : Lens a perdu 3-1 contre l'équipe allemande de Leipzig en Ligue des champions. Après avoir mené au score, l'équipe française n'a pas résisté et s'éloigne des places qualificatives pour le tour suivant.",
-        "chart": null,
-        "stakes": [
-          "Avenir européen du RC Lens dans la compétition continentale",
-          "Performance et niveau de jeu du football français en Coupe d'Europe",
-          "Conséquences financières liées à la qualification pour la suite de la compétition"
+          "Quelles conséquences aura cette affaire sur la neutralité de l'administration ?",
+          "Comment s'exerce le contrôle des flux d'informations entre les cabinets ministériels et les partis ?"
         ],
         "sources": [
           {
             "name": "Le Monde",
-            "title": "Leipzig-Lens : les Sang et Or une nouvelle fois défaits en Ligue des champions",
-            "link": "https://www.lemonde.fr/sport/article/2026/11/24/leipzig-lens-les-sang-et-or-une-nouvelle-fois-defaits-en-ligue-des-champions_6814868_3242.html",
-            "publishedAt": "2026-11-24T22:31:21.000Z",
+            "title": "Hugues Moutouh, préfet du Loiret, démis de ses fonctions après la révélation de soupçons de fuites émanant du ministère de l’intérieur vers le RN",
+            "link": "https://www.lemonde.fr/societe/article/2026/11/25/le-prefet-du-loiret-hugues-moutouh-demis-de-ses-fonctions-apres-la-revelation-de-soupcons-de-fuites-emanant-du-ministere-de-l-interieur-vers-le-rn_6815167_3224.html",
+            "publishedAt": "2026-11-25T19:11:02.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Valeurs actuelles",
+            "title": "Barnier veut recoller le « socle commun », David Lisnard a de la suite dans les idées, le RN s’agace de l’affaire Moutouh… Les coulisses politiques de la semaine",
+            "link": "https://www.valeursactuelles.com/clubvaleurs/politique/barnier-veut-recoller-le-socle-commun-david-lisnard-a-de-la-suite-dans-les-idees-le-rn-sagace-de-laffaire-moutouh-les-coulisses-politiques-de-la-semaine",
+            "publishedAt": "2026-11-25T17:00:10.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/25/358/0/4500/2250/644/322/60/0/f184162_ftp-1-ndwlpuu7oqln-afp-d8kl4g3.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/societe/article/2026/11/25/le-prefet-du-loiret-hugues-moutouh-demis-de-ses-fonctions-apres-la-revelation-de-soupcons-de-fuites-emanant-du-ministere-de-l-interieur-vers-le-rn_6815167_3224.html"
+        }
+      },
+      {
+        "id": "s0890ef7412",
+        "topic": "politique",
+        "title": "Campagne 2027 : la droite explore l'idée d'un débat face aux primaires",
+        "context": "L'opposition de droite et du centre cherche la meilleure stratégie pour désigner un candidat unique en vue de l'élection présidentielle de 2027.",
+        "summary": "Alors que le principe d'une primaire classique de la droite et du centre patine et suscite des résistances, de nouvelles pistes émergent. Édouard Philippe a ainsi proposé d'organiser un débat télévisé en face-à-face avec d'autres figures comme David Lisnard, contournant le format traditionnel des primaires et écartant pour l'instant certains cadres comme Bruno Retailleau.",
+        "plain": "Pour préparer l'élection présidentielle de 2027, les responsables de droite peinent à s'entendre sur une primaire et envisagent désormais des débats télévisés directs entre candidats potentiels.",
+        "chart": null,
+        "stakes": [
+          "Les primaires traditionnelles sont-elles définitivement obsolètes pour départager les candidats ?",
+          "Cette stratégie de débats en tête-à-tête permettra-t-elle de départager les prétendants ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Comment le candidat David Lisnard séduit les déçus d’une partie de la droite : « Avec Retailleau et Philippe, on continue sans rien changer »",
+            "link": "https://www.lemonde.fr/politique/article/2026/11/25/comment-le-candidat-david-lisnard-seduit-les-decus-d-une-partie-de-la-droite-avec-retailleau-et-philippe-on-continue-sans-rien-changer_6815170_823448.html",
+            "publishedAt": "2026-11-25T19:25:00.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Le Figaro",
+            "title": "Présidentielle 2027 : un débat plutôt qu’une primaire, la nouvelle piste à droite et au centre",
+            "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-un-debat-plutot-qu-une-primaire-la-nouvelle-piste-a-droite-et-au-centre-20261125",
+            "publishedAt": "2026-11-25T21:50:12.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Politico Europe",
+            "title": "Les centristes en quête d’un candidat",
+            "link": "https://www.politico.eu/podcast/playbook-paris-podcast/les-centristes-en-quete-dun-candidat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-25T16:45:00.000Z",
+            "lang": "en",
+            "country": "BE"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/24/1609/0/4000/2000/644/322/60/0/271cf97_upload-1-zrxpowtvrz5f-cbi1358037.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/politique/article/2026/11/25/comment-le-candidat-david-lisnard-seduit-les-decus-d-une-partie-de-la-droite-avec-retailleau-et-philippe-on-continue-sans-rien-changer_6815170_823448.html"
+        }
+      },
+      {
+        "id": "s876b27bc55",
+        "topic": "justice",
+        "title": "Enquête sur un magistrat présent lors d'une perquisition au RN",
+        "context": "Les services d'inspection de la justice mènent des investigations pour clarifier le positionnement de membres de l'institution judiciaire.",
+        "summary": "L'Inspection générale de la justice a ouvert une enquête visant un procureur adjoint de Paris qui se trouvait au siège du Rassemblement national lors d'une perquisition. Cette procédure vise officiellement à lever toute ambiguïté sur sa présence, dans un contexte où les liens entre la magistrature et la classe politique sont scrutés de près.",
+        "plain": "Un haut magistrat parisien fait l'objet d'une enquête interne pour comprendre les raisons de sa présence au siège d'un parti politique lors d'une perquisition judiciaire.",
+        "chart": null,
+        "stakes": [
+          "La neutralité de l'institution judiciaire est-elle mise en cause par cet événement ?",
+          "Quelles sanctions pourraient être prises si un manquement déontologique était avéré ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Liens avec RN, enquête ouverte sur un magistrat",
+            "link": "https://www.franceinfo.fr/politique/front-national/liens-avec-rn-enquete-ouverte-sur-un-magistrat_8300337.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-25T21:00:02.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Valeurs actuelles",
+            "title": "« Écart abyssal entre les attentes des citoyens et les juges » : dans la magistrature, le monopole des syndicats de gauche résiste",
+            "link": "https://www.valeursactuelles.com/societe/ecart-abyssal-entre-les-attentes-des-citoyens-et-les-juges-dans-la-magistrature-le-monopole-des-syndicats-de-gauche-resiste",
+            "publishedAt": "2026-11-25T20:01:56.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/hiKynu7_4nHl4huo8aCq6Dx8Ju4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/25/6b0747e03d1a4733964716.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/politique/front-national/liens-avec-rn-enquete-ouverte-sur-un-magistrat_8300337.html#xtor=RSS-3-%5Bfrance%5D"
+        }
+      },
+      {
+        "id": "se071f43b60",
+        "topic": "environnement",
+        "title": "Violents orages et inondations soudaines dans le sud-est de la France",
+        "context": "Le littoral méditerranéen et ses environs subissent régulièrement des épisodes cévenols ou méditerranéens d'une grande intensité.",
+        "summary": "De violents orages ont frappé le Var et les Bouches-du-Rhône, déversant l'équivalent d'un mois de pluie en l'espace de six heures. Cette montée subite des eaux a nécessité la fermeture de axes routiers et l'évacuation temporaire de riverains. Dans le Var, des habitants d'une résidence récente ont exprimé leur incompréhension face à la vulnérabilité de leur logement bâti à proximité de deux cours d'eau.",
+        "plain": "Une tempête d'une rare violence a provoqué des inondations éclair dans le Var et les Bouches-du-Rhône, posant la question de l'urbanisation en zone inondable.",
+        "chart": null,
+        "stakes": [
+          "Les normes de construction actuelles prennent-elles suffisamment en compte le risque climatique ?",
+          "Quels aménagements peuvent protéger durablement les habitations riveraines de cours d'eau ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "\"L'eau est montée de partout dans le lotissement\" : un mois de pluie en six heures dans le sud-est de la France",
+            "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-eau-est-montee-de-partout-dans-le-lotissement-un-mois-de-pluie-en-six-heures-dans-le-sud-est-de-la-france_8300235.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-25T22:24:01.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "franceinfo",
+            "title": "Dans le Var, les habitants doivent emprunter une barque pour se rendre dans leur logement datant de 2024",
+            "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/dans-le-var-les-habitants-doivent-emprunter-une-barque-pour-se-rendre-dans-leur-logement-datant-de-2024_8300232.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-25T20:20:23.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/8WLNWl8_X_cvviDnxE5_piVyl-Y/0x12:1404x801/432x243/filters:format(jpg)/2026/11/25/6b0734477c025401271307.png",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-eau-est-montee-de-partout-dans-le-lotissement-un-mois-de-pluie-en-six-heures-dans-le-sud-est-de-la-france_8300235.html#xtor=RSS-3-%5Bfrance%5D"
+        }
+      },
+      {
+        "id": "sa057b2ad12",
+        "topic": "sante",
+        "title": "Alerte sanitaire sur l'utilisation médicale de l'intelligence artificielle",
+        "context": "L'essor des outils conversationnels et numériques pose la question de leur fiabilité dans le domaine sensible de la santé.",
+        "summary": "L'Agence nationale de sécurité du médicament (ANSM) a mis en garde le public contre l'utilisation de l'intelligence artificielle pour obtenir des conseils médicaux et des prescriptions. L'agence fait état de huit cas d'effets indésirables graves, dont une hospitalisation, principalement liés à des erreurs de dosage dans des traitements courants suggérés par des IA, rappelant les risques inhérents à ces pratiques non encadrées.",
+        "plain": "L'Agence du médicament alerte sur les dangers des conseils de santé donnés par des intelligences artificielle, après avoir recensé des erreurs de dosage ayant entraîné des hospitalisations.",
+        "chart": null,
+        "stakes": [
+          "Comment réguler l'accès aux conseils médicaux générés par des intelligences artificielles ?",
+          "Les professionnels de santé doivent-ils mieux informer sur les risques de l'automédication assistée par le numérique ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Conseils médicaux de l’IA : l’Agence du médicament rapporte huit cas d’effets indésirables, dont une hospitalisation",
+            "link": "https://www.liberation.fr/societe/sante/conseils-medicaux-de-lia-lagence-du-medicament-rapporte-huit-cas-deffets-indesirables-dont-une-hospitalisation-20261125_7OC3UPH5PBBG3ECEKECUKTTMN4/",
+            "publishedAt": "2026-11-25T21:00:00.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
             "name": "Ouest-France",
-            "title": "Ligue des champions. Mbappé et le Real régalent, Cherki sauve City… Que retenir de la soirée du mardi 24 novembre",
-            "link": "https://www.ouest-france.fr/sport/football/ligue-des-champions/ligue-des-champions-mbappe-et-le-real-regalent-cherki-sauve-city-que-retenir-de-la-soiree-du-mardi-24-novembre-1d88d2e2-e846-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-            "publishedAt": "2026-11-24T22:12:14.000Z",
+            "title": "L’agence de sécurité du médicament appelle à la prudence face aux conseils délivrés par l’IA",
+            "link": "https://sante.ouest-france.fr/medicament/lagence-de-securite-du-medicament-appelle-a-la-prudence-face-aux-conseils-delivres-par-lia-761c143e-e916-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-25T22:09:50.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExMTZhYTMyZjM4YzljMjg1Y2E5YTY0M2VmYWQ1NTE4NDM?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=9029488815cf72c496d2747bf58d2229c38d057aa770ff1f24aa7270749ab538",
+          "credit": "Ouest-France",
+          "link": "https://sante.ouest-france.fr/medicament/lagence-de-securite-du-medicament-appelle-a-la-prudence-face-aux-conseils-delivres-par-lia-761c143e-e916-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+        }
+      },
+      {
+        "id": "sc6c65f160a",
+        "topic": "economie",
+        "title": "Fermeture d'une verrerie historique en Gironde sur fond de crise viticole",
+        "context": "Le secteur de la viticulture française traverse des difficultés économiques qui se répercutent sur l'ensemble de sa chaîne de sous-traitance.",
+        "summary": "La verrerie de Vayres, en Gironde, qui produisait des millions de bouteilles par an, a annoncé la fermeture de ses portes. Cette décision met en lumière la crise profonde que traverse la filière viticole française, confrontée à une baisse de la consommation et à des difficultés de compétitivité qui impactent directement les fabricants d'emballages.",
+        "plain": "En raison des difficultés économiques de la filière viticole, une importante usine de fabrication de bouteilles en verre en Gironde doit cesser définitivement son activité.",
+        "chart": null,
+        "stakes": [
+          "Quelles aides peuvent être apportées aux sous-traitants touchés par la crise viticole ?",
+          "La baisse de la demande de vin est-elle une tendance structurelle durable en France ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Crise viticole : une verrerie historique ferme ses portes en Gironde",
+            "link": "https://www.franceinfo.fr/economie/entreprises/crise-viticole-une-verrerie-historique-ferme-ses-portes-en-gironde_8299812.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-25T16:05:38.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/fKTJnbI6R6AQAoj06dHzpo-SLmQ/0x91:1494x932/432x243/filters:format(jpg)/2026/11/25/6b06f0c4228aa280495805.png",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/economie/entreprises/crise-viticole-une-verrerie-historique-ferme-ses-portes-en-gironde_8299812.html#xtor=RSS-3-%5Bfrance%5D"
+        }
+      },
+      {
+        "id": "sc65ce16953",
+        "topic": "societe",
+        "title": "Échouement d'un cargo au large des Landes et ouverture d'une enquête",
+        "context": "La sécurité de la navigation maritime le long des côtes atlantiques françaises nécessite des opérations de secours complexes.",
+        "summary": "La préfecture maritime de l'Atlantique a annoncé l'ouverture d'une enquête judiciaire pour déterminer les causes de l'échouement du cargo « Miro G » dans les Landes. Le navire a pu être remis à flot au terme d'une opération technique particulièrement difficile, tandis que les riverains et les autorités locales s'interrogent sur les nuisances et les risques environnementaux liés au trafic de transit.",
+        "plain": "Un cargo s'est échoué sur les côtes des Landes avant d'être dégagé lors d'une délicate opération de sauvetage. Une enquête a été ouverte pour comprendre les raisons de cet incident.",
+        "chart": null,
+        "stakes": [
+          "Les routes maritimes proches des côtes françaises sont-elles suffisamment surveillées ?",
+          "Quelles sanctions ou responsabilités seront retenues en cas de défaillance humaine ou technique ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "\"On ne s'habitue pas à ce son de camion qui passe\" : les poids lourds, le cauchemar d’un village des Landes",
+            "link": "https://www.franceinfo.fr/france/nouvelle-aquitaine/landes/on-ne-s-habitue-pas-a-ce-son-de-camion-qui-passe-les-poids-lourds-le-cauchemar-d-un-village-des-landes_8299779.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-25T15:26:30.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "Tagesschau",
-            "title": "RB Leipzig hält dem Druck gegen RC Lens stand",
-            "link": "https://www.sportschau.de/fussball/championsleague/rb-leipzig-haelt-dem-druck-gegen-rc-lens-stand,spielbericht-leipzig-lens-100.html",
-            "publishedAt": "2026-11-24T22:48:33.000Z",
-            "lang": "de",
-            "country": "DE"
+            "name": "Libération",
+            "title": "Cargo échoué dans les Landes : une enquête judiciaire ouverte",
+            "link": "https://www.liberation.fr/societe/police-justice/cargo-echoue-dans-les-landes-une-enquete-judiciaire-ouverte-20261125_IAI4ZXZTMZFMLBKG2ZE53SY3MM/",
+            "publishedAt": "2026-11-25T21:26:47.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/IAjFGF04yFynFtRF-b8YVM0lkvM/0x97:1408x889/432x243/filters:format(jpg)/2026/11/25/6b06ea822f8f8733350979.png",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/france/nouvelle-aquitaine/landes/on-ne-s-habitue-pas-a-ce-son-de-camion-qui-passe-les-poids-lourds-le-cauchemar-d-un-village-des-landes_8299779.html#xtor=RSS-3-%5Bfrance%5D"
+        }
+      },
+      {
+        "id": "s0c2c3b2644",
+        "topic": "sport",
+        "title": "Ligue des champions : exploit de Lille face au Bayern et nul du PSG",
+        "context": "La phase de groupes de la Ligue européenne de football réserve des fortunes diverses aux clubs français engagés.",
+        "summary": "Le LOSC a réalisé une performance remarquée en s'imposant à domicile face au Bayern Munich, tandis que le Paris Saint-Germain a concédé un match nul face à l'AS Roma. Ces résultats modifient la position des clubs français dans le classement général de la compétition européenne, illustrant l'écart de dynamiques entre une équipe lilloise souveraine et un club parisien freiné malgré les absences.",
+        "plain": "En Ligue des champions, Lille a battu le Bayern Munich lors d'un match mémorable, tandis que le Paris Saint-Germain a été accroché sur sa pelouse par l'AS Roma.",
+        "chart": null,
+        "stakes": [
+          "Les clubs français parviendront-ils à maintenir leur position lors des prochaines journées européennes ?",
+          "L'effectif du Paris Saint-Germain est-il suffisamment armé pour faire face aux blessures ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "Ligue des champions : le résumé de l’exploit des Lillois face au Bayern Munich et du match nul du PSG face à l’AS Roma",
+            "link": "https://www.lemonde.fr/sport/article/2026/11/25/ligue-des-champions-le-resume-de-l-exploit-des-lillois-face-au-bayern-munich-et-du-match-nul-du-psg-face-a-l-as-roma_6815176_3242.html",
+            "publishedAt": "2026-11-25T22:32:09.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "Ligue des champions. Le classement après la 5e journée : le PSG perd la tête, Lille peut y croire, Lens en danger",
+            "link": "https://www.ouest-france.fr/sport/football/ligue-des-champions/ligue-des-champions-le-classement-apres-la-5e-journee-le-psg-perd-la-tete-lille-peut-y-croire-lens-en-danger-abb4e69a-e90a-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-25T22:53:49.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "VIDÉO. Le but gag contre son camp de Pavlovic face à Lille en Ligue des champions",
+            "link": "https://www.ouest-france.fr/sport/football/lille-osc/video-le-but-gag-contre-son-camp-de-pavlovic-face-a-lille-en-ligue-des-champions-9d3facd8-e916-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-25T21:45:41.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "El País",
+            "title": "El PSG encalla en casa contra la Roma y el Bayern se lleva un revolcón en Lille",
+            "link": "https://elpais.com/deportes/futbol/2026-11-25/el-psg-encalla-en-casa-contra-la-roma-y-el-bayern-se-lleva-un-revolcon-en-lille.html",
+            "publishedAt": "2026-11-25T22:30:21.000Z",
+            "lang": "es",
+            "country": "ES"
           },
           {
             "name": "France 24",
-            "title": "Ligue des champions : le Real Madrid impérial, Lens perd mais sauve l'honneur",
-            "link": "https://www.france24.com/fr/sports/20261124-football-ligue-des-champions-real-madrid-fait-le-show-rc-lens-sauve-l-honneur",
-            "publishedAt": "2026-11-24T22:29:40.000Z",
+            "title": "Ligue des champions : première difficulté pour le PSG, Lille signe un exploit face au Bayern",
+            "link": "https://www.france24.com/fr/sports/20261125-ligue-des-champions-premi%C3%A8re-difficult%C3%A9-pour-le-psg-lille-signe-un-exploit-face-au-bayern",
+            "publishedAt": "2026-11-25T22:35:25.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
             "name": "RFI",
-            "title": "Ligue des champions: le Real renversant, Lens encore à terre",
-            "link": "https://www.rfi.fr/fr/sports/20261124-ligue-des-champions-le-real-renversant-lens-encore-%C3%A0-terre",
-            "publishedAt": "2026-11-24T22:04:55.000Z",
+            "title": "Ligue des champions: le PSG accroché par la Roma, Lille s’offre le Bayern",
+            "link": "https://www.rfi.fr/fr/sports/20261125-ligue-des-champions-le-psg-accroch%C3%A9-par-la-roma-lille-s-offre-le-bayern",
+            "publishedAt": "2026-11-25T22:00:10.000Z",
             "lang": "fr",
             "country": "FR"
           }
         ],
         "image": {
-          "url": "https://img.lemde.fr/2026/11/24/140/0/4517/2258/644/322/60/0/ac26941_ftp-1-yqicuuzmfz7x-6e47323f04e34ab3854fc6ba6f397365-0-a2903d485d3b483c8e4539797323b281.jpg",
+          "url": "https://img.lemde.fr/2026/11/25/276/0/2275/1137/644/322/60/0/8b62922_ftp-1-5zi0gv4rxbyx-afp-d8mp886.jpg",
           "credit": "Le Monde",
-          "link": "https://www.lemonde.fr/sport/article/2026/11/24/leipzig-lens-les-sang-et-or-une-nouvelle-fois-defaits-en-ligue-des-champions_6814868_3242.html"
-        },
-        "i18n": {
-          "en": {
-            "title": "New defeat for RC Lens against RB Leipzig in the Champions League",
-            "context": "The league phase of the European Champions League brings together the continent's best clubs in a single pool format.",
-            "summary": "RC Lens lost on the pitch of RB Leipzig with a score of 3 goals to 1 during the fifth matchday. The Blood and Gold had nevertheless opened the scoring before suffering the comeback of the German club. This second consecutive defeat weakens the French team's position in the general standings. The chances of direct qualification or going through the playoffs are diminishing for the northern club.",
-            "plain": "IN SHORT: Lens lost 3-1 against the German team Leipzig in the Champions League. After taking the lead, the French team could not hold on and is moving further away from the qualifying places for the next round.",
-            "stakes": [
-              "RC Lens' European future in the continental competition",
-              "Performance and level of play of French football in the European Cup",
-              "Financial consequences related to qualification for the rest of the competition"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Nueva derrota del RC Lens frente al RB Leipzig en la Liga de Campeones",
-            "context": "La fase de liga de la Liga de Campeones europea reúne a los mejores clubes del continente en un formato de grupo único.",
-            "summary": "El RC Lens cayó derrotado en el campo del RB Leipzig por un marcador de 3 goles a 1 durante la quinta jornada. Los 'Sang et Or' habían abierto el marcador antes de sufrir la remontada del club alemán. Esta segunda derrota consecutiva debilita la posición del equipo francés en la clasificación general. Las opciones de clasificación directa o de pasar por la repesca disminuyen para el club norteño.",
-            "plain": "EN CLARO: Lens perdió 3-1 contra el equipo alemán Leipzig en la Liga de Campeones. Tras adelantarse en el marcador, el equipo francés no resistió y se aleja de los puestos de clasificación para la siguiente ronda.",
-            "stakes": [
-              "El futuro europeo del RC Lens en la competición continental",
-              "Rendimiento y nivel de juego del fútbol francés en la Copa de Europa",
-              "Consecuencias financieras relacionadas con la clasificación para el resto de la competición"
-            ],
-            "chart": null
-          }
+          "link": "https://www.lemonde.fr/sport/article/2026/11/25/ligue-des-champions-le-resume-de-l-exploit-des-lillois-face-au-bayern-munich-et-du-match-nul-du-psg-face-a-l-as-roma_6815176_3242.html"
         }
       },
       {
-        "id": "s4426f1ab5f",
-        "topic": "environnement",
-        "title": "Vigilance orange pour pluie-inondation dans le Var et les Alpes-Maritimes",
-        "context": "Les épisodes méditerranéens d'automne provoquent fréquemment des précipitations intenses susceptibles de saturer rapidement les bassins versants.",
-        "summary": "Météo-France a placé les départements du Var et des Alpes-Maritimes en vigilance orange pour des risques de pluie et d'inondation. Les prévisionnistes annoncent d'importants cumuls d'eau sur des zones où les sols sont déjà fortement détrempés. Les préfectures ont invité les habitants à la plus grande prudence et à limiter leurs déplacements. Les services de secours ont renforcé leurs dispositifs d'intervention préventifs.",
-        "plain": "EN CLAIR : Le Var et les Alpes-Maritimes ont été placés en alerte orange en raison de fortes pluies attendues. Les sols étant déjà gorgés d'eau, des risques d'inondations sont à craindre.",
+        "id": "sb7980e96db",
+        "topic": "culture",
+        "title": "Disparition du guitariste Andy Taylor, figure du groupe Duran Duran",
+        "context": "La scène musicale pop-rock internationale des années 1980 perd l'un de ses instrumentistes emblématiques.",
+        "summary": "Le musicien britannique Andy Taylor, guitariste du groupe de new wave Duran Duran, est décédé à l'âge de 65 ans des suites d'un cancer de la prostate diagnostiqué plusieurs années auparavant. Sa disparition a suscité de nombreux hommages de la part de ses anciens partenaires de scène et de fans à travers le monde, saluant son empreinte musicale sur la décennie 1980.",
+        "plain": "Le guitariste du célèbre groupe pop des années 1980 Duran Duran est mort à l'âge de 65 ans après un long combat contre la maladie, salué par de nombreux hommages internationaux.",
         "chart": null,
         "stakes": [
-          "Prévention des risques naturels et protection des populations",
-          "Capacité de résistance des infrastructures face aux pluies intenses",
-          "Coordination des secours lors des événements météorologiques majeurs"
+          "Quelle postérité musicale laisse le groupe Duran Duran pour la nouvelle génération d'artistes ?",
+          "La sensibilisation au cancer de la prostate est-elle renforcée par le témoignage de personnalités publiques ?"
         ],
         "sources": [
           {
-            "name": "franceinfo",
-            "title": "Le Var et les Alpes-Maritimes placés en vigilance orange mercredi pour \"pluie-inondation\"",
-            "link": "https://www.franceinfo.fr/environnement/meteo/le-var-et-les-alpes-maritimes-places-en-vigilance-orange-mercredi-pour-pluie-inondation_8297946.html#xtor=RSS-3-%5Bfrance%5D",
-            "publishedAt": "2026-11-24T15:47:53.000Z",
+            "name": "Ouest-France",
+            "title": "Décès à 65 ans d’Andy Taylor, ex-guitariste du groupe britannique Duran Duran",
+            "link": "https://www.ouest-france.fr/culture/musiques/deces-a-65-ans-dandy-taylor-ex-guitariste-du-groupe-britannique-duran-duran-2940280e-e91a-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-25T22:23:23.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
+            "link": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
+            "publishedAt": "2026-11-25T21:41:34.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Hindu",
+            "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+            "link": "https://www.thehindu.com/entertainment/music/andy-taylor-guitarist-of-new-wave-icons-duran-duran-dies-at-65/article71744266.ece",
+            "publishedAt": "2026-11-25T22:46:30.000Z",
+            "lang": "en",
+            "country": "IN"
+          },
+          {
+            "name": "The Straits Times",
+            "title": "Duran Duran guitarist and songwriter Andy Taylor dies at 65",
+            "link": "https://www.straitstimes.com/world/duran-duran-guitarist-and-songwriter-andy-taylor-dies-at-65",
+            "publishedAt": "2026-11-25T23:16:43.000Z",
+            "lang": "en",
+            "country": "SG"
+          },
+          {
+            "name": "South China Morning Post",
+            "title": "Duran Duran guitarist Andy Taylor, sound of the 1980s, dies at 65",
+            "link": "https://www.scmp.com/news/world/europe/article/3375817/duran-duran-guitarist-andy-taylor-sound-1980s-dies-65",
+            "publishedAt": "2026-11-25T23:20:50.000Z",
+            "lang": "en",
+            "country": "HK"
+          },
+          {
+            "name": "ANSA",
+            "title": "Morto Andy Taylor, ex chitarrista dei Duran Duran",
+            "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/25/morto-andy-taylor-ex-chitarrista-dei-duran-duran-_af6007f1-1f71-4392-84ac-08b6060d3c63.html",
+            "publishedAt": "2026-11-25T23:03:24.000Z",
+            "lang": "it",
+            "country": "IT"
+          },
+          {
+            "name": "RFI",
+            "title": "Décès à 65 ans d'Andy Taylor, ex-guitariste du groupe britannique Duran Duran",
+            "link": "https://www.rfi.fr/fr/musique/20261125-d%C3%A9c%C3%A8s-%C3%A0-65-ans-d-andy-taylor-ex-guitariste-du-groupe-britannique-duran-duran",
+            "publishedAt": "2026-11-25T22:43:56.000Z",
             "lang": "fr",
             "country": "FR"
           }
         ],
         "image": {
-          "url": "https://www.franceinfo.fr/pictures/Ye9vLLJ-xt50XP0pMAhRMacuHTU/0x4:1024x580/432x243/filters:format(jpg)/2026/11/24/6b05abb1a2e25199517633.jpg",
-          "credit": "franceinfo",
-          "link": "https://www.franceinfo.fr/environnement/meteo/le-var-et-les-alpes-maritimes-places-en-vigilance-orange-mercredi-pour-pluie-inondation_8297946.html#xtor=RSS-3-%5Bfrance%5D"
-        },
-        "i18n": {
-          "en": {
-            "title": "Orange alert for rain and flooding in Var and Alpes-Maritimes",
-            "context": "Autumn Mediterranean episodes frequently cause intense precipitation likely to quickly saturate watersheds.",
-            "summary": "Météo-France placed the Var and Alpes-Maritimes departments on orange alert for rain and flood risks. Forecasters announce significant water accumulations in areas where the soils are already heavily waterlogged. The prefectures invited residents to exercise the utmost caution and limit their travel. Emergency services have reinforced their preventive intervention mechanisms.",
-            "plain": "IN SHORT: Var and Alpes-Maritimes have been placed on orange alert due to heavy expected rainfall. With soils already saturated with water, flood risks are to be feared.",
-            "stakes": [
-              "Prevention of natural risks and protection of populations",
-              "Infrastructure resilience capacity against intense rainfall",
-              "Coordination of emergency services during major meteorological events"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Alerta naranja por lluvia e inundaciones en Var y Alpes Marítimos",
-            "context": "Los episodios mediterráneos de otoño provocan frecuentemente precipitaciones intensas susceptibles de saturar rápidamente las cuencas hidrográficas.",
-            "summary": "Météo-France situó a los departamentos de Var y Alpes Marítimos en alerta naranja por riesgos de lluvia e inundación. Los meteorólogos anuncian importantes acumulaciones de agua en zonas donde los suelos ya están muy empapados. Las prefecturas invitaron a los habitantes a extremar la prudencia y limitar sus desplazamientos. Los servicios de emergencia reforzaron sus dispositivos de intervención preventiva.",
-            "plain": "EN CLARO: Var y Alpes Marítimos fueron puestos en alerta naranja debido a las fuertes lluvias previstas. Como los suelos ya están empapados de agua, hay que temer riesgos de inundaciones.",
-            "stakes": [
-              "Prevención de riesgos naturales y protección de las poblaciones",
-              "Capacidad de resistencia de las infraestructuras frente a las lluvias intensas",
-              "Coordinación de los servicios de emergencia durante los grandes eventos meteorológicos"
-            ],
-            "chart": null
-          }
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExNDhiYzhlOWUzYzI5Y2ViZmE4NDNmNmUzN2U3YmQ4Mjg?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=459f757d0c8306a422aea11866787a29a453c2bfd5d82db1c0fa9f20b9c14d7f",
+          "credit": "Ouest-France",
+          "link": "https://www.ouest-france.fr/culture/musiques/deces-a-65-ans-dandy-taylor-ex-guitariste-du-groupe-britannique-duran-duran-2940280e-e91a-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
         }
       }
     ],
@@ -1593,138 +1377,150 @@
       }
     ]
   },
-  "storiesAt": "2026-11-25T00:05:33.469Z",
-  "inputHash": "9771e5540454f0c52e3262df91a5cc030c1c3dd5",
-  "synthStatus": "absente",
+  "storiesAt": "2026-11-26T00:02:27.646Z",
+  "inputHash": null,
+  "synthStatus": "partielle",
   "news": {
     "france": [
       {
-        "id": "aeaa86b8bed",
-        "title": "Cyclisme. Paul Seixas, un déménagement en Andorre se profile-t-il ?",
-        "link": "https://www.ouest-france.fr/sport/cyclisme/paul-seixas/cyclisme-paul-seixas-un-demenagement-en-andorre-se-profile-t-il-ed9fd1aa-e8f6-11f1-9b33-2f81462d3339?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-        "summary": "À 20 ans, Paul Seixas ne néglige rien. Le prodige français multiplie les contrats personnels et pourrait bientôt quitter la Côte d’Azur pour s’installer en Andorre, selon Domestique. Le média spécialisé dans le cyclisme évoque un choix sportif, mais pas seulement…",
-        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExZGNmODI4Mzc2MzNkOGZlZjQ4ODVjYzA4MTRiODg1OTc?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=9092d4eecf709f2822ce754909e536a160e35f540386a9ef2d32c180439fb7cc",
-        "publishedAt": "2026-11-25T19:26:45.000Z",
+        "id": "a493ec2ec96",
+        "title": "Budget 2027 : le Sénat approuve l’effort de 5 milliards demandé aux grandes entreprises",
+        "link": "https://www.ouest-france.fr/economie/budget-collectivites-etat/budget-2027-le-senat-approuve-leffort-de-5-milliards-demande-aux-grandes-entreprises-38950894-e91d-11f1-86c1-70195b4d2e52?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Le projet de budget pour 2027 entend s’appuyer sur un effort plus important des grandes entreprises, afin d’accélérer le rétablissement des finances publiques.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExMWUyYzVlMGEwZWNhZDA4OTJhYTIxZGYwYjcyNGZjZDk?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=a285cc5aa59840b6d57c0f7880918aef5c54602c12885b4bd7269ec60b044410",
+        "publishedAt": "2026-11-25T23:10:27.000Z",
         "source": "Ouest-France",
         "lang": "fr",
         "country": "FR",
         "lean": 0
       },
       {
-        "id": "a0890ef7412",
-        "title": "Comment le candidat David Lisnard séduit les déçus d’une partie de la droite : « Avec Retailleau et Philippe, on continue sans rien changer »",
-        "link": "https://www.lemonde.fr/politique/article/2026/11/25/comment-le-candidat-david-lisnard-seduit-les-decus-d-une-partie-de-la-droite-avec-retailleau-et-philippe-on-continue-sans-rien-changer_6815170_823448.html",
-        "summary": "Dans les Yvelines, les Hauts-de-Seine et le Rhône, de nombreux électeurs mécontents des figures de leur camp rejoignent le parti Nouvelle énergie. Ils plébiscitent le discours anti-norme et le profil d’entrepreneur du maire de Cannes.",
-        "image": "https://img.lemde.fr/2026/11/24/1609/0/4000/2000/644/322/60/0/271cf97_upload-1-zrxpowtvrz5f-cbi1358037.jpg",
-        "publishedAt": "2026-11-25T19:25:00.000Z",
+        "id": "af7df6dbabd",
+        "title": "« C’est de la folie ! » : les surprenantes découvertes d’une sonde européenne sur l’astéroïde dévié par Dart, la « fléchette » de la Nasa",
+        "link": "https://www.lefigaro.fr/sciences/c-est-de-la-folie-les-surprenantes-decouvertes-d-une-sonde-europeenne-sur-l-asteroide-devie-par-dart-la-flechette-de-la-nasa-20261125",
+        "summary": "RÉCIT - Quatre ans après l’impact à 20 000 km/h de la sonde américaine, la mission de l’ESA étudie de près les conséquences de cette déviation réussie.",
+        "image": "https://i.f1g.fr/media/cms/1822x1026_crop/2026/11/25/b823465700cc8a62c7366db7ad18bf5b81d8b6efe529bf7dc50c28787060e895.jpg",
+        "publishedAt": "2026-11-25T22:55:46.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "a409f99fd1a",
+        "title": "«Ça fait crier les fachos» : au théâtre de la Concorde, la mairie de Paris lance son MascuRadar dans une ambiance festive et annonce un appel à projets de 100.000 euros",
+        "link": "https://www.lefigaro.fr/actualite-france/ca-fait-crier-les-fachos-au-theatre-de-la-concorde-la-mairie-de-paris-lance-son-mascuradar-dans-une-ambiance-festive-et-annonce-un-appel-a-projets-de-100-000-euros-20261125",
+        "summary": "NOUS Y ÉTIONS - Ce mercredi, la mairie de Paris a organisé un colloque spectacle pour le lancement de son outil anti-masculinisme. Elle a aussi répliqué aux critiques de «l’extrême droite et de la droite extrême» contre sa campagne d’affichage.",
+        "image": "https://i.f1g.fr/media/cms/2048x1536_crop/2026/11/25/06e6d1ddd7da93d908c5a434fc4cd0ad3323a0256f65df31dc54ebcd83ea1537.jpg",
+        "publishedAt": "2026-11-25T22:35:41.000Z",
+        "source": "Le Figaro",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 1.5
+      },
+      {
+        "id": "a0c2c3b2644",
+        "title": "Ligue des champions : le résumé de l’exploit des Lillois face au Bayern Munich et du match nul du PSG face à l’AS Roma",
+        "link": "https://www.lemonde.fr/sport/article/2026/11/25/ligue-des-champions-le-resume-de-l-exploit-des-lillois-face-au-bayern-munich-et-du-match-nul-du-psg-face-a-l-as-roma_6815176_3242.html",
+        "summary": "Les Lillois ont remporté leur premier match de Ligue des champions, mercredi, en faisant tomber à la surprise générale le Bayern Munich (2-1). Les Parisiens, eux, ont été tenus en échec sur leur pelouse (2-2) par l’AS Roma.",
+        "image": "https://img.lemde.fr/2026/11/25/276/0/2275/1137/644/322/60/0/8b62922_ftp-1-5zi0gv4rxbyx-afp-d8mp886.jpg",
+        "publishedAt": "2026-11-25T22:32:09.000Z",
         "source": "Le Monde",
         "lang": "fr",
         "country": "FR",
         "lean": -1
       },
       {
-        "id": "a19b9a5ff42",
-        "title": "Au moins 30 morts dans un quartier densément peuplé du Caire ravagé par un incendie",
-        "link": "https://www.liberation.fr/international/afrique/au-moins-30-morts-dans-un-quartier-densement-peuple-du-caire-ravage-par-un-incendie-20261125_BIUTUS5IPJGKDCP7EFIWZVRBZQ/",
-        "summary": "Le sinistre aurait été déclenché par le renversement d’un véhicule de transport de produits pétroliers, dans l’agglomération de la capitale égyptienne.",
-        "image": null,
-        "publishedAt": "2026-11-25T19:22:48.000Z",
-        "source": "Libération",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1.5
-      },
-      {
-        "id": "af1b1019c0a",
-        "title": "A Téhéran, la peur au coin de la rue",
-        "link": "https://www.liberation.fr/idees-et-debats/editorial/a-teheran-la-peur-au-coin-de-la-rue-20261125_TFPSZYSFSFGYXICJUJB2QTENCQ/",
-        "summary": "Si pendant longtemps, les Iraniens excellaient dans l’art de la débrouille et étaient passés maîtres dans celui de contourner les interdits, aujourd’hui, beaucoup d’entre eux se sentent prisonniers d’un régime moyenâgeux qui reprend petit à petit le contrôle de l’espace public.",
-        "image": null,
-        "publishedAt": "2026-11-25T19:19:13.000Z",
-        "source": "Libération",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1.5
-      },
-      {
-        "id": "a639f94ac3a",
-        "title": "Des sachets d’emmental râpé rappelés dans toute la France en raison de la présence de morceaux de verre",
-        "link": "https://www.lefigaro.fr/conso/des-sachets-d-emmental-rape-rappeles-dans-toute-la-france-en-raison-de-la-presence-de-morceaux-de-verre-20261125",
-        "summary": "Commercialisés dans toute la France, les sachets vendus dans les magasins Intermarché ont été rappelés après la détection d’un «risque de corps étranger de type verre», susceptible d’entraîner des «risques de blessures».",
-        "image": "https://i.f1g.fr/media/cms/orig/2026/11/25/ea3b40d07cf45c676e8b3eb6692f70d8e8f8ceca9174dd689907ea52ff65156b.JPG",
-        "publishedAt": "2026-11-25T19:17:16.000Z",
-        "source": "Le Figaro",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 1.5
-      },
-      {
-        "id": "adf227eb2f8",
-        "title": "L’éditorial de Philippe Gélie : « La France, le parent pauvre de l’UE »",
-        "link": "https://www.lefigaro.fr/vox/monde/l-editorial-de-philippe-gelie-la-france-le-parent-pauvre-de-l-ue-20261125",
-        "summary": "Pour la France, incapable de maîtriser son propre déficit et sa dette, et appelée à voir sa facture auprès de Bruxelles augmenter de l’ordre de 45 %, l’épreuve de la négociation budgétaire européenne s’annonce redoutable.",
-        "image": "https://i.f1g.fr/media/cms/1914x1077_crop/2026/11/25/bd80d4285415c540246c5c798590bc8544aa9895e387da22cc4021a8dbfaf90f.jpg",
-        "publishedAt": "2026-11-25T19:16:52.000Z",
-        "source": "Le Figaro",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 1.5
-      },
-      {
-        "id": "a12ba514433",
-        "title": "Guerre au Moyen-Orient : risque de « crimes atroces » d’Israël dit l’ONU ; ports saoudiens attaqués",
-        "link": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-271-moyen-orient-bilan-resume-aujourdhui-20261125",
-        "summary": "Le haut-commissaire aux droits de l’homme de l’ONU appelle à empêcher de nouveaux « crimes atroces » d’Israël contre les Palestiniens. Les houthistes accusent l’Arabie saoudite de mener une attaque contre le port de Hodeïda. Suivez l’actualité de la guerre au Moyen-Orient ce mercredi 25 novembre.",
-        "image": "https://i.la-croix.com/x/2026/11/25/2598216-des-habitants-palestiniens-observent-a-travers-la-.jpg",
-        "publishedAt": "2026-11-25T19:06:57.000Z",
-        "source": "La Croix",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 0.5
-      },
-      {
-        "id": "a4b08fa8179",
-        "title": "Mohammed VI, Macron, fisc… « Je n’ai rien à cacher » : la réponse de Teddy Riner à ses détracteurs",
-        "link": "https://www.valeursactuelles.com/politique/mohammed-vi-macron-fisc-je-nai-rien-a-cacher-la-reponse-de-teddy-riner-a-ses-detracteurs",
-        "summary": "Teddy Riner le sait mieux que quiconque : au judo, pour gagner, il faut se servir de la force de l’adversaire. Est-ce pour cela que dans un entretien accordé au... L’article Mohammed VI, Macron, fisc… « Je n&rsquo;ai rien à cacher » : la réponse de Teddy Riner à ses détracteurs est apparu en premier",
-        "image": null,
-        "publishedAt": "2026-11-25T19:01:52.000Z",
-        "source": "Valeurs actuelles",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 2
-      },
-      {
-        "id": "aa11b5bc658",
-        "title": "Saluts nazis, propos racistes... Les révélations de Mediapart sur la brigade des douanes de Chaumont",
-        "link": "https://www.franceinfo.fr/france/grand-est/haute-marne/saluts-nazis-propos-racistes-les-revelations-de-mediapart-sur-la-brigade-des-douanes-de-chaumont_8300223.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "Mediapart a révélé mardi 24 novembre les dérives racistes et pro-nazies de la bridage des douanes de Chaumont (Haute-Marne). Maël Galisson, l’auteur de l’enquête, explique qu’il ne s’agit pas “d’un acte isolé”.",
-        "image": "https://www.franceinfo.fr/pictures/XK_AiUpSxm0CrPfEHKUzfNDXAJc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/25/6b072e4de1acf569531933.jpg",
-        "publishedAt": "2026-11-25T18:58:54.000Z",
+        "id": "ae071f43b60",
+        "title": "\"L'eau est montée de partout dans le lotissement\" : un mois de pluie en six heures dans le sud-est de la France",
+        "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-eau-est-montee-de-partout-dans-le-lotissement-un-mois-de-pluie-en-six-heures-dans-le-sud-est-de-la-france_8300235.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "De violents orages ont frappé le Var et les Bouches-du-Rhône, mercredi 25 novembre. Sur plusieurs routes, l’eau est rapidement montée, au point qu’il a fallu fermer la circulation et mettre des dizaines d’automobilistes à l’abri.",
+        "image": "https://www.franceinfo.fr/pictures/8WLNWl8_X_cvviDnxE5_piVyl-Y/0x12:1404x801/432x243/filters:format(jpg)/2026/11/25/6b0734477c025401271307.png",
+        "publishedAt": "2026-11-25T22:24:01.000Z",
         "source": "franceinfo",
         "lang": "fr",
         "country": "FR",
         "lean": 0
       },
       {
-        "id": "ab6badd9058",
-        "title": "« Le sauvetage de Nvidia est bien plus dangereux que celui des banques après la crise de 2008 »",
-        "link": "https://www.lemonde.fr/idees/article/2026/11/25/le-sauvetage-de-nvidia-est-bien-plus-dangereux-que-celui-des-banques-apres-la-crise-de-2008_6815165_3232.html",
-        "summary": "Que Donald Trump soit venu au secours de Jensen Huang pour éviter un krach constitue une forme très risquée d’interventionnisme, selon l’historien Harold James, qui rappelle, dans une tribune au « Monde », des précédents édifiants, comme la catastrophe causée par John Law au XVIIIᵉ siècle.",
-        "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/adda32d_upload-1-yykrjfigxx26-frame-1383.jpg",
-        "publishedAt": "2026-11-25T18:58:15.000Z",
+        "id": "a96a0b9c370",
+        "title": "Benoît Payan affirme que des ordres ont été donnés pour \"relâcher\" des pilleurs le 17 octobre à Marseille",
+        "link": "https://www.franceinfo.fr/marseille/benoit-payan-affirme-que-des-ordres-ont-ete-donnes-pour-relacher-des-casseurs-le-17-octobre-a-marseille_8300364.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Le maire de la deuxième ville de France s'est exprimé mercredi devant la commission d'enquête de l'Assemblée nationale sur les violences du 17 octobre.",
+        "image": "https://www.franceinfo.fr/pictures/HHsqASwkogxjODDw68WeAV0qJ9Y/0x25:1024x601/432x243/filters:format(jpg)/2026/11/25/6b0754bcb7e08088514778.jpg",
+        "publishedAt": "2026-11-25T21:44:42.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "a691389caf2",
+        "title": "La mère des deux enfants retrouvés dans une cave des Yvelines a été placée en détention provisoire",
+        "link": "https://www.liberation.fr/societe/police-justice/la-mere-des-deux-enfants-en-bas-age-retrouves-dans-une-cave-des-yvelines-a-ete-placee-en-detention-provisoire-20261125_J5QSHG642JC5NBJDZYNG6MAVNQ/",
+        "summary": "Une enquête avait été ouverte pour «délaissement de mineurs» après la découverte d’un garçon et d’une fillette dans une ancienne maison à Meulan-en-Yvelines, lundi 23 novembre.",
+        "image": null,
+        "publishedAt": "2026-11-25T21:30:43.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "a8ebb1ef9ea",
+        "title": "PMA : le Conseil d’État confirme l’illégalité d’un essai clinique autorisé par l’ANSM",
+        "link": "https://www.la-croix.com/societe/pma-le-conseil-d-etat-confirme-lillegalite-dun-essai-clinique-autorise-par-lansm-20261125",
+        "summary": "Le Conseil d’État a confirmé, mercredi 25 novembre, l’illégalité d’un essai clinique sur le diagnostic préimplantatoire en PMA, autorisé par l’ANSM en 2021. L’État et l’AP-HP sont condamnés à verser 1 500 € chacun à la fondation Jérôme Lejeune.",
+        "image": "https://i.la-croix.com/x/2026/11/25/2598988-le-conseil-d-etat-a-confirme-mercredi-25-novembre-.jpg",
+        "publishedAt": "2026-11-25T21:30:00.000Z",
+        "source": "La Croix",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0.5
+      },
+      {
+        "id": "a28ad3041a1",
+        "title": "Cargo échoué dans les Landes : une enquête judiciaire ouverte",
+        "link": "https://www.liberation.fr/societe/police-justice/cargo-echoue-dans-les-landes-une-enquete-judiciaire-ouverte-20261125_IAI4ZXZTMZFMLBKG2ZE53SY3MM/",
+        "summary": "La préfecture maritime de l’Atlantique entend déterminer les causes de l’échouement du «Miro G», finalement remis à flot mardi après-midi au terme d’une opération particulièrement complexe.",
+        "image": null,
+        "publishedAt": "2026-11-25T21:26:47.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "a631d519c1f",
+        "title": "Violences du 17 octobre à Marseille : des ordres ont été donnés pour relâcher des casseurs, selon Benoît Payan",
+        "link": "https://www.lemonde.fr/societe/article/2026/11/25/violences-du-17-octobre-a-marseille-des-ordres-ont-ete-donnes-pour-relacher-des-casseurs-selon-benoit-payan_6815175_3224.html",
+        "summary": "Le maire divers gauche de la ville affirme l’avoir constaté à plusieurs reprises en visionnant les enregistrements des caméras de surveillance, dont il dit avoir remis 7 000 heures au procureur de la République de Marseille.",
+        "image": "https://img.lemde.fr/2026/10/17/170/0/1024/512/644/322/60/0/058015a_ftp-1-jsfvk474di1q-afp-d3kb47n-1024.jpg",
+        "publishedAt": "2026-11-25T21:24:09.000Z",
         "source": "Le Monde",
         "lang": "fr",
         "country": "FR",
         "lean": -1
       },
       {
-        "id": "a93f0233d36",
-        "title": "« L’objectif est de museler les contre-pouvoirs » : derrière les menaces aux associations, le projet autoritaire de Marine Le Pen",
-        "link": "https://www.humanite.fr/politique/associations/lobjectif-est-de-museler-les-contre-pouvoirs-derriere-les-menaces-aux-associations-le-projet-autoritaire-de-marine-le-pen",
-        "summary": "En menaçant les associations de supprimer leurs subventions publiques arbitrairement, au prétexte flou d’une «&nbsp;politisation&nbsp;», la candidate du Rassemblement national assume sa volonté de mettre au pas les contre-pouvoirs pour basculer dans une démocratie illibérale. Syndicats, agences, col",
-        "image": "https://www.humanite.fr/wp-content/uploads/2026/11/p3-assos_JEU-2.jpg?w=1200",
-        "publishedAt": "2026-11-25T18:53:22.000Z",
+        "id": "a197ed28f2b",
+        "title": "Politique familiale : de la natalité à la lutte contre la pauvreté, un virage assumé par la Cour des comptes",
+        "link": "https://www.valeursactuelles.com/societe/politique-familiale-de-la-natalite-a-la-lutte-contre-la-pauvrete-un-virage-assume-par-la-cour-des-comptes",
+        "summary": "La Cour des comptes ne cache pas l’orientation de la politique familiale des dernières années : « initialement fondée sur la volonté de soutenir la natalité et les familles nombreuses, [elle] s’est... L’article Politique familiale : de la natalité à la lutte contre la pauvreté, un virage assumé par ",
+        "image": null,
+        "publishedAt": "2026-11-25T21:00:44.000Z",
+        "source": "Valeurs actuelles",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
+      },
+      {
+        "id": "a5a4fdd8bb5",
+        "title": "Soirée de lancement de Combat n°2 : contre le RN, « rien n’est joué »",
+        "link": "https://www.humanite.fr/medias/blast/soiree-de-lancement-de-combat-n2-contre-le-rn-rien-nest-joue",
+        "summary": "Ce mercredi 25&nbsp;novembre, notre journal a accueilli dans ses locaux, la soirée de lancement du numéro&nbsp;2 du hors-série de Combat. Avec quatre autres médias, Blast, les Inrocks, Streetpress et Nova, le collectif vient de publier «&nbsp;Le vrai visage du RN&nbsp;», en kiosque depuis mardi 24&n",
+        "image": "https://www.humanite.fr/wp-content/uploads/2026/11/U6A9877.jpg?w=1200",
+        "publishedAt": "2026-11-25T20:29:00.000Z",
         "source": "L'Humanité",
         "lang": "fr",
         "country": "FR",
@@ -1753,56 +1549,56 @@
         "lang": "fr",
         "country": "FR",
         "lean": 2
-      },
-      {
-        "id": "ac6c65f160a",
-        "title": "Crise viticole : une verrerie historique ferme ses portes en Gironde",
-        "link": "https://www.franceinfo.fr/economie/entreprises/crise-viticole-une-verrerie-historique-ferme-ses-portes-en-gironde_8299812.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "L'annonce illustre la crise du secteur viticole en France : la célèbre verrerie de la commune de Vayres, en Gironde, va fermer ses portes. Elle produisait jusqu'à 400 millions de bouteilles par an pour les vignobles de Bordeaux. Plus de 160 salariés vont perdre leur emploi.",
-        "image": "https://www.franceinfo.fr/pictures/fKTJnbI6R6AQAoj06dHzpo-SLmQ/0x91:1494x932/432x243/filters:format(jpg)/2026/11/25/6b06f0c4228aa280495805.png",
-        "publishedAt": "2026-11-25T16:05:38.000Z",
-        "source": "franceinfo",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 0
       }
     ],
     "monde": [
       {
-        "id": "aaa2ce48c7b",
-        "title": "tagesschau",
-        "link": "https://www.tagesschau.de/tagesschau_20_uhr/ts-82238.html",
-        "summary": "tagesschau",
+        "id": "a362f8d805a",
+        "title": "tagesthemen",
+        "link": "https://www.tagesschau.de/tagesthemen/tt-13000.html",
+        "summary": "tagesthemen",
         "image": null,
-        "publishedAt": "2026-11-25T19:28:32.000Z",
+        "publishedAt": "2026-11-25T23:42:32.000Z",
         "source": "Tagesschau",
         "lang": "de",
         "country": "DE",
         "lean": 0
       },
       {
-        "id": "a941e745e6d",
-        "title": "Two children among six dead after plane crash off Mississippi coast",
-        "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
-        "summary": "Divers found the bodies of three adult, one teenager aged 16, and two boys, aged 12 and 10, in the wreckage.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23e1/live/16967230-e906-11f1-b9b5-17bef7133655.jpg",
-        "publishedAt": "2026-11-25T19:26:44.000Z",
-        "source": "BBC News",
-        "lang": "en",
-        "country": "GB",
-        "lean": 0
-      },
-      {
-        "id": "a1c6ddf2dce",
-        "title": "Treasury raises spending concerns in proposed support for youth unemployment",
-        "link": "https://www.theguardian.com/society/2026/nov/25/treasury-spending-concerns-proposed-support-youth-unemployment-milburn-review",
-        "summary": "Chancellor wants system laid out in Alan Milburn’s review to break even at an earlier date, sources say The Treasury has raised concerns about the level of spending on support proposed in Alan Milburn’s review into youth unemployment, amid pressure for the welfare bill to start reducing more quickly",
-        "image": "https://i.guim.co.uk/img/media/2aa106300d02c340cd05196f75f7587d5a4a4ef3/331_5_1555_1244/master/1555.jpg?width=140&quality=85&auto=format&fit=max&s=8dcf65eac9404de724de3643bf926103",
-        "publishedAt": "2026-11-25T19:15:00.000Z",
+        "id": "ac5c4622c9b",
+        "title": "Australian politics live: Watt says ‘terrible day’ for Taylor and Liberals; spoof parliamentary tool spreads cheer",
+        "link": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+        "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth wil",
+        "image": "https://i.guim.co.uk/img/media/560a335ff3f0c7d924f33ddc0730024e57e0fdea/598_0_5977_4782/master/5977.jpg?width=140&quality=85&auto=format&fit=max&s=c5f7ea11da406f69db5d30f3ac26dd98",
+        "publishedAt": "2026-11-25T23:19:46.000Z",
         "source": "The Guardian",
         "lang": "en",
         "country": "GB",
         "lean": -1.5
+      },
+      {
+        "id": "a6e5a9c962b",
+        "title": "One person had a worse night than United’s keeper – the abysmal referee",
+        "link": "https://www.telegraph.co.uk/football/2026/11/25/sporting-vs-man-utd-live-score-latest-champions-league/",
+        "summary": "One person had a worse night than United’s keeper – the abysmal referee",
+        "image": "https://www.telegraph.co.uk/content/dam/football/2026/11/25/TELEMMGLPICT000513010883_17956455167430_trans_NvBQzQNjv4BqH8SigKU_VeU0bP0BbEQoy-I6JnNeBUbxxLy1WBfSGnw.jpeg",
+        "publishedAt": "2026-11-25T23:03:02.000Z",
+        "source": "The Telegraph",
+        "lang": "en",
+        "country": "GB",
+        "lean": 1.5
+      },
+      {
+        "id": "af1f30c98b1",
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+        "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg",
+        "publishedAt": "2026-11-25T22:18:06.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
       },
       {
         "id": "a2fe3a3e64d",
@@ -1817,6 +1613,18 @@
         "lean": 0
       },
       {
+        "id": "aca7810f54b",
+        "title": "US authorises SpaceX to deploy one million satellites to space",
+        "link": "https://news.sky.com/story/us-authorises-elon-musks-spacex-to-deploy-one-million-satellites-to-space-13616493",
+        "summary": "The US' Federal Communications Commission is authorising SpaceX to send a million satellites for data centres in space, the agency said.",
+        "image": "https://e3.365dm.com/26/06/1920x1080/skynews-elon-musk-ceo-spacex_7265141.jpg?20260604104503",
+        "publishedAt": "2026-11-25T18:03:00.000Z",
+        "source": "Sky News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0.5
+      },
+      {
         "id": "a2ade0562e2",
         "title": "Five Russian military jets hit in airfield strike, says Ukraine",
         "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
@@ -1827,30 +1635,6 @@
         "lang": "en",
         "country": "GB",
         "lean": 0
-      },
-      {
-        "id": "a2ce145ec39",
-        "title": "Mick Harford: ‘My prostate cancer diagnosis was a shock. As a footballer, I’d felt bulletproof’",
-        "link": "https://www.telegraph.co.uk/health-fitness/conditions/cancer/mick-harford-prostate-cancer-interview/",
-        "summary": "The former Premier League striker shares how the disease continues to impact his life and the steps he takes to stay positive",
-        "image": "https://www.telegraph.co.uk/content/dam/health-fitness/2026/11/18/TELEMMGLPICT000512037942_17950056750220_trans_NvBQzQNjv4Bqa_nDwl5fTX4x2rPsQsKLeUkH1Rd-QOBN50y1fNjzp2k.jpeg",
-        "publishedAt": "2026-11-25T12:00:00.000Z",
-        "source": "The Telegraph",
-        "lang": "en",
-        "country": "GB",
-        "lean": 1.5
-      },
-      {
-        "id": "a6779411f54",
-        "title": "Eurostar trains cancelled and delayed over 'unannounced strike action'",
-        "link": "https://news.sky.com/story/eurostar-trains-cancelled-and-delayed-over-unannounced-strike-action-13616317",
-        "summary": "Several Eurostar trains have been cancelled or delayed due to \"unannounced strike action\", the company said.",
-        "image": "https://e3.365dm.com/26/11/1920x1080/skynews-eurostar-train_7416011.jpg?20261125095944",
-        "publishedAt": "2026-11-25T09:47:00.000Z",
-        "source": "Sky News",
-        "lang": "en",
-        "country": "GB",
-        "lean": 0.5
       },
       {
         "id": "a9df6a7e0d7",
@@ -2045,7 +1829,7 @@
       "name": "Daily Sabah (TR)",
       "url": "https://www.dailysabah.com/rssFeed/10",
       "ok": true,
-      "count": 7
+      "count": 5
     },
     {
       "name": "The Times of India (IN)",
