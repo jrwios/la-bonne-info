@@ -1,29 +1,37 @@
 {
   "schemaVersion": 2,
-  "date": "2026-11-27",
-  "generatedAt": "2026-11-27T19:10:15.065Z",
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-27T23:51:16.550Z",
   "status": "partielle",
   "stories": {
     "france": [
       {
-        "id": "sc3e222bc61",
+        "id": "s8560479404",
         "topic": "economie",
-        "title": "Entrée de la France en récession technique au troisième trimestre",
-        "context": "L'Institut national de la statistique et des études économiques publie régulièrement les chiffres de l'activité économique française. Une récession technique se définit par au moins deux trimestres consécutifs de recul du produit intérieur brut.",
-        "summary": "Selon l'Insee et plusieurs analyses économiques, le produit intérieur brut français a reculé de 0,2 % au troisième trimestre. Ce repli confirme l'entrée de l'économie tricolore en récession technique après plusieurs trimestres de stagnation. La presse d'opposition et certains médias attribuent cette détérioration aux choix budgétaires et aux incertitudes politiques. D'autres observateurs et la presse étrangère pointent également l'effet de facteurs conjoncturels, tels que la baisse des exportations et le coût de l'énergie.",
-        "plain": "EN CLAIR : L'économie française a légèrement rétréci pendant plusieurs mois d'affilée, ce que les économistes appellent une récession technique. Cela s'explique par la baisse de la consommation et des ventes à l'étranger, ainsi que par les doutes politiques du moment.",
+        "title": "L'agence S&P abaisse la perspective de la dette française",
+        "context": "L'économie française subit des tensions budgétaires croissantes et une incertitude politique. Le produit intérieur brut de la France s'est contracté au troisième trimestre.",
+        "summary": "L'agence de notation S&P a révisé la perspective de la dette souveraine française de « stable » à « négative », tout en maintenant la note actuelle à A+. Cette décision s'explique par les inquiétudes autour du déficit budgétaire et de l'instabilité politique. En parallèle, le produit intérieur brut a reculé de 0,2 % au troisième trimestre, marquant l'entrée du pays en récession technique. Les oppositions attribuent ces difficultés financières aux choix économiques appliqués depuis plusieurs années. Une dégradation effective de la note de la France pourrait intervenir si la trajectoire budgétaire ne se redresse pas.",
+        "plain": "EN CLAIR : L'agence de notation S&P prévient qu'elle pourrait baisser la note financière de la France car le déficit de l'État s'aggrave. En parallèle, l'économie française s'est contractée de 0,2 % au dernier trimestre, ce qui marque une entrée en récession.",
         "chart": null,
         "stakes": [
-          "L'impact sur l'emploi et le pouvoir d'achat des ménages",
-          "Les contraintes sur le budget de l'État et la dette publique",
-          "La capacité du gouvernement à soutenir l'activité économique"
+          "Quelles seront les conséquences sur le coût des emprunts de l'État ?",
+          "Le gouvernement parviendra-t-il à réduire le déficit public ?",
+          "Quels arbitrages financiers seront faits dans le projet de budget ?"
         ],
         "sources": [
           {
-            "name": "Le Figaro",
-            "title": "Tombée en « récession technique », la France continue de payer le prix de la dissolution et de son imprévoyance",
-            "link": "https://www.lefigaro.fr/conjoncture/tombee-en-recession-technique-la-france-continue-de-payer-le-prix-de-la-dissolution-et-de-son-imprevoyance-20261127",
-            "publishedAt": "2026-11-27T18:05:00.000Z",
+            "name": "Le Monde",
+            "title": "L’agence S&P menace de dégrader encore la note de la France, entrée en récession",
+            "link": "https://www.lemonde.fr/politique/article/2026/11/27/l-agence-s-p-menace-de-degrader-encore-la-note-de-la-france-entree-en-recession_6815934_823448.html",
+            "publishedAt": "2026-11-27T21:18:33.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Libération",
+            "title": "Dette : S&P dégrade la perspective française de stable à négative, mais maintient sa note à A+",
+            "link": "https://www.liberation.fr/economie/dette-sp-degrade-la-perspective-francaise-de-stable-a-negative-mais-maintient-sa-note-a-a-20261127_Z5M25BQXERGLXLJDRM5MDHTN5Q/",
+            "publishedAt": "2026-11-27T21:28:50.000Z",
             "lang": "fr",
             "country": "FR"
           },
@@ -45,65 +53,31 @@
           },
           {
             "name": "The Wall Street Journal",
-            "title": "France Slips Into Recession as Exports Sag",
-            "link": "https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5?mod=rss_worldnews",
-            "publishedAt": "2026-11-27T13:39:00.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "The Wall Street Journal",
-            "title": "Inflation Slides in France, Spain on Declining Fuel Prices",
-            "link": "https://www.wsj.com/world/europe/french-inflation-slides-on-drop-in-fuel-prices-2bd7e78e?mod=rss_worldnews",
-            "publishedAt": "2026-11-27T11:16:00.000Z",
+            "title": "S&P Revises Outlook on France’s Credit Rating to Negative From Stable",
+            "link": "https://www.wsj.com/world/europe/s-p-revises-outlook-on-french-credit-rating-to-negative-from-stable-eab7384f?mod=rss_worldnews",
+            "publishedAt": "2026-11-27T22:08:00.000Z",
             "lang": "en",
             "country": "US"
           }
         ],
         "image": {
-          "url": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/27/89bb6929bebf915cd210807387f847c114e03d449fae2f8596ed86f8a367daaf.jpg",
-          "credit": "Le Figaro",
-          "link": "https://www.lefigaro.fr/conjoncture/tombee-en-recession-technique-la-france-continue-de-payer-le-prix-de-la-dissolution-et-de-son-imprevoyance-20261127"
-        },
-        "i18n": {
-          "en": {
-            "title": "France enters technical recession in the third quarter",
-            "context": "The National Institute of Statistics and Economic Studies regularly publishes figures on French economic activity. A technical recession is defined by at least two consecutive quarters of decline in gross domestic product.",
-            "summary": "According to Insee and several economic analyses, French gross domestic product fell by 0.2% in the third quarter. This contraction confirms that the French economy has entered a technical recession following several quarters of stagnation. The opposition press and certain media outlets attribute this deterioration to budgetary choices and political uncertainties. Other observers and the foreign press also point to the effect of cyclical factors, such as declining exports and the cost of energy.",
-            "plain": "IN CLEAR: The French economy shrank slightly for several months in a row, which economists call a technical recession. This is explained by a drop in consumption and foreign sales, as well as current political doubts.",
-            "stakes": [
-              "The impact on employment and household purchasing power",
-              "Constraints on the state budget and public debt",
-              "The government's ability to support economic activity"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Entrada de Francia en recesión técnica en el tercer trimestre",
-            "context": "El Instituto Nacional de Estadística y de Estudios Económicos publica regularmente las cifras de la actividad económica francesa. Una recesión técnica se define por al menos dos trimestres consecutivos de caída del producto interior bruto.",
-            "summary": "Según el Insee y varios análisis económicos, el producto interior bruto francés cayó un 0,2 % en el tercer trimestre. Esta contracción confirma la entrada de la economía francesa en una recesión técnica tras varios trimestres de estancamiento. La prensa de oposición y ciertos medios atribuyen este deterioro a las opciones presupuestarias y a las incertidumbres políticas. Otros observadores y la prensa extranjera señalan también el efecto de factores coyunturales, como la caída de las exportaciones y el coste de la energía.",
-            "plain": "EN CLARO: La economía francesa se contrajo ligeramente durante varios meses seguidos, lo que los economistas llaman una recesión técnica. Esto se explica por la bajada del consumo y de las ventas en el extranjero, así como por las dudas políticas del momento.",
-            "stakes": [
-              "El impacto sobre el empleo y el poder adquisitivo de los hogares",
-              "Las restricciones sobre el presupuesto del Estado y la deuda pública",
-              "La capacidad del gobierno para apoyar la actividad económica"
-            ],
-            "chart": null
-          }
+          "url": "https://img.lemde.fr/2026/11/03/785/0/8000/4000/644/322/60/0/c6582aa_upload-1-v9n52f7i3umq-jmug261103004.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/politique/article/2026/11/27/l-agence-s-p-menace-de-degrader-encore-la-note-de-la-france-entree-en-recession_6815934_823448.html"
         }
       },
       {
         "id": "sb472a9ac7a",
         "topic": "justice",
-        "title": "Procès ordonné contre Gérard Depardieu pour viols et agressions sexuelles",
-        "context": "L'actrice Charlotte Arnould a déposé plainte en 2018 contre l'acteur Gérard Depardieu, l'accusant de viols commis à son domicile parisien.",
-        "summary": "La justice a ordonné le renvoi de l'acteur Gérard Depardieu devant la cour d'assises pour des accusations de viol et d'agressions sexuelles. Les juges d'instruction ont estimé que les éléments recueillis au cours de l'enquête justifiaient la tenue d'un procès. L'accusé conteste l'ensemble des faits qui lui sont reprochés. La presse internationale souligne que cette affaire constitue un symbole important de la prise en compte des violences sexuelles dans le milieu culturel français.",
-        "plain": "EN CLAIR : L'acteur Gérard Depardieu va être jugé par un tribunal pour des accusations de viols portées par une comédienne. Il nie les faits, mais la justice estime qu'il y a assez d'éléments pour organiser un procès public.",
+        "title": "Gérard Depardieu renvoyé en procès pour viols et agressions sexuelles",
+        "context": "L'acteur Gérard Depardieu fait l'objet de plusieurs accusations de violences sexuelles. La comédienne Charlotte Arnould a déposé plainte contre lui pour des faits remontant à 2018.",
+        "summary": "La justice a ordonné le renvoi de l'acteur Gérard Depardieu devant un tribunal correctionnel pour y répondre d'accusations de viols et d'agressions sexuelles. Les poursuites découlent des dénonciations formulées par l'actrice Charlotte Arnould concernant deux événements survenus à Paris en 2018. Cette décision constitue une étape symbolique importante dans la prise en compte du mouvement MeToo au sein de l'industrie cinématographique française. L'acteur rejette l'ensemble des accusations formulées à son encontre.",
+        "plain": "EN CLAIR : L'acteur Gérard Depardieu va être jugé devant un tribunal après la plainte pour viol déposée par la comédienne Charlotte Arnould. L'ancien géant du cinéma français nie les faits qui lui sont reprochés.",
         "chart": null,
         "stakes": [
-          "Le déroulement du procès et l'établissement des faits",
-          "La prise en compte des plaintes pour violences sexuelles dans le monde du spectacle",
-          "L'impact sur la jurisprudence des affaires de violences sexuelles"
+          "Comment le tribunal évaluera-t-il les témoignages apportés à l'audience ?",
+          "Quel impact ce procès aura-t-il sur l'industrie du cinéma tricolore ?",
+          "Quelle sera la stratégie de défense déployée par l'acteur ?"
         ],
         "sources": [
           {
@@ -127,559 +101,288 @@
           "url": "https://i.guim.co.uk/img/media/77c1290946fbdd15e68d25b6743cbc9fc073d064/518_182_2849_2280/master/2849.jpg?width=140&quality=85&auto=format&fit=max&s=c741817dbb83834a43fd33c10ca19cfc",
           "credit": "The Guardian",
           "link": "https://www.theguardian.com/film/2026/nov/26/gerard-depardieu-face-trial-charges-rape-charlotte-arnould"
-        },
-        "i18n": {
-          "en": {
-            "title": "Trial ordered against Gérard Depardieu for rape and sexual assault",
-            "context": "Actress Charlotte Arnould filed a complaint in 2018 against actor Gérard Depardieu, accusing him of rapes committed at her Paris home.",
-            "summary": "The judiciary has ordered actor Gérard Depardieu to stand trial before the criminal court on charges of rape and sexual assault. Investigating judges considered that the evidence gathered during the investigation justified holding a trial. The accused contests all the facts alleged against him. The international press emphasizes that this case constitutes an important symbol of how sexual violence is addressed in the French cultural milieu.",
-            "plain": "IN CLEAR: Actor Gérard Depardieu is to be tried by a court over rape accusations brought by an actress. He denies the facts, but the judiciary considers there is enough evidence to hold a public trial.",
-            "stakes": [
-              "The conduct of the trial and the establishment of facts",
-              "The consideration of complaints regarding sexual violence in the entertainment world",
-              "The impact on case law regarding sexual violence cases"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Juicio ordenado contra Gérard Depardieu por violaciones y agresiones sexuales",
-            "context": "La actriz Charlotte Arnould presentó una denuncia en 2018 contra el actor Gérard Depardieu, acusándole de violaciones cometidas en su domicilio parisino.",
-            "summary": "La justicia ha ordenado la derivación del actor Gérard Depardieu ante el tribunal de lo criminal por acusaciones de violación y agresiones sexuales. Los jueces de instrucción consideraron que los elementos recabados durante la investigación justificaban la celebración de un juicio. El acusado niega todos los hechos que se le reprochan. La prensa internacional subraya que este caso constituye un símbolo importante de la consideración de la violencia sexual en el ámbito cultural francés.",
-            "plain": "EN CLARO: El actor Gérard Depardieu va a ser juzgado por un tribunal por acusaciones de violación presentadas por una actriz. Él niega los hechos, pero la justicia considera que hay suficientes elementos para organizar un juicio público.",
-            "stakes": [
-              "El desarrollo del juicio y el establecimiento de los hechos",
-              "La consideración de las denuncias por violencia sexual en el mundo del espectáculo",
-              "El impacto sobre la jurisprudencia de los casos de violencia sexual"
-            ],
-            "chart": null
-          }
         }
       },
       {
-        "id": "s6ae9e749f7",
-        "topic": "societe",
-        "title": "Un hommage national aux Invalides pour les victimes de l'attentat de Trappes",
-        "context": "Une attaque survenue le 23 octobre à Trappes et La Verrière a causé la mort de Pengo Bossio Wangi et fait sept blessés graves. Cet acte est qualifié d'attentat raciste par les autorités et la justice.",
-        "summary": "Le gouvernement a annoncé l'organisation d'une cérémonie d'hommage national le 4 décembre dans la cour des Invalides à Paris. Présidée par le Premier ministre Sébastien Lecornu, cette cérémonie vise à honorer la mémoire de la personne tuée et à soutenir les blessés. Les proches des victimes ont été informés de cette décision après plusieurs semaines d'incertitude quant à la date retenue. Les médias soulignent le caractère solennel de ce rassemblement face à cet acte criminel.",
-        "plain": "EN CLAIR : Une cérémonie officielle aura lieu le 4 décembre à Paris pour rendre hommage aux personnes touchées par l'attaque de Trappes. Le gouvernement et la nation entière salueront la mémoire du défunt et des blessés.",
-        "chart": null,
-        "stakes": [
-          "Le soutien institutionnel apporté aux victimes et à leurs familles",
-          "La lutte contre les violences et discours à caractère raciste",
-          "La cohésion nationale lors de rassemblements solennels"
-        ],
-        "sources": [
-          {
-            "name": "Libération",
-            "title": "Attentat de Trappes : l’hommage national a été fixé au 4 décembre et aura lieu aux Invalides",
-            "link": "https://www.liberation.fr/societe/attentat-de-trappes-lhommage-national-fixe-au-4-decembre-aux-invalides-20261127_LRUA6LXQIZHPJHYXJNP3LX3H3E/",
-            "publishedAt": "2026-11-27T17:08:06.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "La Croix",
-            "title": "Attentat de Trappes et La Verrière : l’hommage national aux victimes aura lieu le 4 décembre",
-            "link": "https://www.la-croix.com/societe/attentat-de-trappes-et-la-verriere-l-hommage-national-aux-victimes-aura-lieu-le-4-decembre-20261127",
-            "publishedAt": "2026-11-27T17:22:17.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "L'Humanité",
-            "title": "Victimes de l’attentat raciste à Trappes : un hommage national aura lieu le 4 décembre",
-            "link": "https://www.humanite.fr/societe-2/attentat-raciste-de-trappes/victimes-de-lattentat-raciste-a-trappes-un-hommage-national-aura-lieu-le-4-decembre",
-            "publishedAt": "2026-11-27T17:58:07.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://i.la-croix.com/x/2026/11/27/2600731-le-premier-ministre-presidera-le-4-decembre-un-hom.jpg",
-          "credit": "La Croix",
-          "link": "https://www.la-croix.com/societe/attentat-de-trappes-et-la-verriere-l-hommage-national-aux-victimes-aura-lieu-le-4-decembre-20261127"
-        },
-        "i18n": {
-          "en": {
-            "title": "National tribute at Les Invalides for the victims of the Trappes attack",
-            "context": "An attack on October 23 in Trappes and La Verrière caused the death of Pengo Bossio Wangi and left seven people seriously injured. This act has been classified as a racist attack by authorities and the judiciary.",
-            "summary": "The government has announced the organization of a national tribute ceremony on December 4 in the courtyard of Les Invalides in Paris. Presided over by Prime Minister Sébastien Lecornu, this ceremony aims to honor the memory of the person killed and support the injured. The victims' relatives were informed of this decision after several weeks of uncertainty regarding the chosen date. The media emphasize the solemn nature of this gathering in the face of this criminal act.",
-            "plain": "IN CLEAR: An official ceremony will take place on December 4 in Paris to pay tribute to those affected by the Trappes attack. The government and the entire nation will salute the memory of the deceased and the injured.",
-            "stakes": [
-              "Institutional support provided to victims and their families",
-              "The fight against racist violence and speech",
-              "National cohesion during solemn gatherings"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Homenaje nacional en Los Inválidos para las víctimas del atentado de Trappes",
-            "context": "Un atentado ocurrido el 23 de octubre en Trappes y La Verrière causó la muerte de Pengo Bossio Wangi y dejó siete heridos graves. Este acto ha sido calificado de atentado racista por las autoridades y la justicia.",
-            "summary": "El gobierno ha anunciado la organización de una ceremonia de homenaje nacional el 4 de diciembre en el patio de Los Inválidos en París. Presidida por el primer ministro Sébastien Lecornu, esta ceremonia tiene como objetivo honrar la memoria de la persona asesinada y apoyar a los heridos. Los allegados de las víctimas fueron informados de esta decisión tras varias semanas de incertidumbre sobre la fecha elegida. Los medios subrayan el carácter solemne de esta concentración ante este acto criminal.",
-            "plain": "EN CLARO: Una ceremonia oficial tendrá lugar el 4 de diciembre en París para rendir homenaje a las personas afectadas por el ataque de Trappes. El gobierno y la nación entera saludarán la memoria del difunto y de los heridos.",
-            "stakes": [
-              "El apoyo institucional aportado a las víctimas y a sus familias",
-              "La lucha contra la violencia y los discursos de carácter racista",
-              "La cohesión nacional durante las concentraciones solemnes"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s0b80df0c5b",
+        "id": "sab9dbe7d9d",
         "topic": "politique",
-        "title": "Vives réactions après les critiques de Marine Le Pen envers la presse",
-        "context": "Des enquêtes de presse et des procédures judiciaires visent plusieurs cadres du Rassemblement national, dont le responsable du programme Ambroise de Rancourt, soupçonné d'avoir reçu des documents confidentiels.",
-        "summary": "Marine Le Pen a proposé d'alourdir les sanctions pénales pour les médias publiant des informations issues du secret de l'enquête. Cette prise de position intervient à la suite de révélations presse concernant son parti et d'une perquisition de la police judiciaire. Des associations de journalistes et des opposants politiques dénoncent une tentative d'intimidation contre la liberté d'informer. La dirigeante politique soutient au contraire vouloir protéger les procédures judiciaires et lutter contre les fuites illégales.",
-        "plain": "EN CLAIR : Marine Le Pen souhaite punir plus sévèrement les journalistes qui révèlent des éléments d'enquêtes judiciaires en cours. Ses opposants affirment qu'elle veut freiner les révélations de la presse sur son propre parti.",
+        "title": "Teddy Riner visite la prison de Béziers pour présenter ses propositions",
+        "context": "Le judoka Teddy Riner s'est engagé dans la campagne pour l'élection présidentielle. Il effectue des déplacements ciblés sur le territoire français pour exposer ses orientations politiques.",
+        "summary": "Teddy Riner s'est rendu à Béziers aux côtés du maire Robert Ménard pour effectuer la visite du centre pénitentiaire du Gasquinoy. Lors de cette étape, le candidat à la présidentielle a partagé sa vision sur le système judiciaire, défendant la construction de nouvelles places de prison et le changement des conditions de détention. Son déplacement dans cette ville du Sud a suscité des réactions contrastées parmi les observateurs politiques. Certains dénoncent un manque de propositions concrètes, tandis que d'autres examinent la portée de son positionnement régalien.",
+        "plain": "EN CLAIR : En déplacement à Béziers, le candidat à la présidentielle Teddy Riner a visité un centre pénitentiaire et s'est exprimé sur la justice. Il propose d'augmenter le nombre de places de prison en France.",
         "chart": null,
         "stakes": [
-          "L'équilibre entre secret de l'enquête et liberté de la presse",
-          "L'impact des révélations judiciaires sur la politique nationale",
-          "La réglementation du travail d'investigation journalistique"
+          "Comment le candidat construira-t-il la suite de son programme politique ?",
+          "Quel accueil les électeurs accorderont-ils à son positionnement sur les sujets régaliens ?",
+          "Quelles alliances locales ou nationales Teddy Riner cherchera-t-il à conclure ?"
         ],
         "sources": [
           {
-            "name": "Le Monde",
-            "title": "Le responsable du programme présidentiel de Marine Le Pen, Ambroise de Rancourt, soupçonné d’être le principal destinataire de la fuite de documents de Beauvau vers le RN",
-            "link": "https://www.lemonde.fr/societe/article/2026/11/27/ambroise-de-rancourt-le-responsable-du-programme-presidentiel-de-marine-le-pen-soupconne-d-etre-le-principal-destinataire-de-la-fuite-de-documents-de-beauvau-vers-le-rn_6815924_3224.html",
-            "publishedAt": "2026-11-27T18:35:49.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
             "name": "Libération",
-            "title": "«Une nouvelle tentative d’intimidation des journalistes et de leurs sources» : Marine Le Pen attaque la presse et suscite un tollé",
-            "link": "https://www.liberation.fr/politique/elections/une-nouvelle-tentative-dintimidation-des-journalistes-et-de-leurs-sources-marine-le-pen-attaque-la-presse-et-suscite-un-tolle-20261127_UORSBR67GFCKFHVJSUH4O2XH6Q/",
-            "publishedAt": "2026-11-27T18:00:37.000Z",
+            "title": "A Béziers, Teddy Riner, toujours en panne d’idées, fait du lèche-vitrine",
+            "link": "https://www.liberation.fr/politique/elections/a-beziers-teddy-riner-toujours-en-panne-didees-fait-du-leche-vitrine-20261127_3UT4HCLVPFDLPPTZL24OKI4XMU/",
+            "publishedAt": "2026-11-27T20:14:04.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
             "name": "Le JDD",
-            "title": "Chant négationniste : Valérie Trierweiler relaie une fake news visant un proche de Jordan Bardella",
-            "link": "https://www.lejdd.fr/Societe/chant-negationniste-valerie-trierweiler-relaie-une-fake-news-visant-un-proche-de-jordan-bardella-189819",
-            "publishedAt": "2026-11-27T15:11:42.000Z",
+            "title": "Présidentielle 2027 : nouvelles prisons, conditions de détention… Ce que Teddy Riner propose pour la justice",
+            "link": "https://www.lejdd.fr/politique/presidentielle-2027-nouvelles-prisons-conditions-de-detention-ce-que-teddy-riner-propose-pour-la-justice-189837",
+            "publishedAt": "2026-11-27T16:33:19.000Z",
             "lang": "fr",
             "country": "FR"
           }
         ],
         "image": {
-          "url": "https://img.lemde.fr/2026/11/27/397/0/7552/3776/644/322/60/0/a785bb9_upload-1-ptamscm4pcb0-ag4903020.jpg",
-          "credit": "Le Monde",
-          "link": "https://www.lemonde.fr/societe/article/2026/11/27/ambroise-de-rancourt-le-responsable-du-programme-presidentiel-de-marine-le-pen-soupconne-d-etre-le-principal-destinataire-de-la-fuite-de-documents-de-beauvau-vers-le-rn_6815924_3224.html"
-        },
-        "i18n": {
-          "en": {
-            "title": "Sharp reactions following Marine Le Pen's criticism of the press",
-            "context": "Press investigations and legal proceedings target several National Rally executives, including program manager Ambroise de Rancourt, suspected of receiving confidential documents.",
-            "summary": "Marine Le Pen has proposed increasing criminal penalties for media outlets publishing information derived from the secrecy of investigations. This stance follows press revelations concerning her party and a raid by the judicial police. Journalists' associations and political opponents denounce an attempt at intimidation against the freedom to inform. The political leader argues, conversely, that she wants to protect judicial procedures and combat illegal leaks.",
-            "plain": "IN CLEAR: Marine Le Pen wants to punish more severely journalists who reveal elements of ongoing judicial investigations. Her opponents claim she wants to curb press revelations about her own party.",
-            "stakes": [
-              "The balance between the secrecy of investigations and freedom of the press",
-              "The impact of judicial revelations on national politics",
-              "The regulation of journalistic investigative work"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Reacciones vivas tras las críticas de Marine Le Pen a la prensa",
-            "context": "Investigaciones de prensa y procedimientos judiciales apuntan a varios dirigentes de Agrupación Nacional, incluido el responsable del programa Ambroise de Rancourt, sospechoso de haber recibido documentos confidenciales.",
-            "summary": "Marine Le Pen ha propuesto endurecer las sanciones penales para los medios que publiquen informaciones procedentes del secreto de sumario. Esta toma de postura se produce tras las revelaciones de la prensa sobre su partido y un registro de la policía judicial. Asociaciones de periodistas y opositores políticos denuncian un intento de intimidación contra la libertad de informar. La dirigente política sostiene, por el contrario, que quiere proteger los procedimientos judiciales y luchar contra las filtraciones ilegales.",
-            "plain": "EN CLARO: Marine Le Pen desea castigar con mayor severidad a los periodistas que revelen elementos de investigaciones judiciales en curso. Sus opositores afirman que quiere frenar las revelaciones de la prensa sobre su propio partido.",
-            "stakes": [
-              "El equilibrio entre el secreto de sumario y la libertad de prensa",
-              "El impacto de las revelaciones judiciales en la política nacional",
-              "La regulación del trabajo de investigación periodística"
-            ],
-            "chart": null
-          }
+          "url": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/27/17/abaca_1029457_024.jpg?VersionId=4ylRz7HhGPjM5CnQokPK4GRir6LgDIz6",
+          "credit": "Le JDD",
+          "link": "https://www.lejdd.fr/politique/presidentielle-2027-nouvelles-prisons-conditions-de-detention-ce-que-teddy-riner-propose-pour-la-justice-189837"
         }
       },
       {
-        "id": "sc9b25b1299",
-        "topic": "sport",
-        "title": "Enquêtes ouvertes après les affrontements en marge du match Marseille-Sofia",
-        "context": "Le Stade Vélodrome de Marseille accueillait le match de Ligue Europa entre l'Olympique de Marseille et le club bulgare du Levski Sofia.",
-        "summary": "Des bagarres violentes ont éclaté aux abords du stade entre des supporters bulgares et marseillais, entraînant plusieurs blessés. Des témoins et observateurs ont signalé des provocations et des gestes extrémistes, notamment des saluts nazis. Le président de la République Emmanuel Macron a fermement condamné ces actes de violence. Deux enquêtes judiciaires ont été ouvertes pour identifier les auteurs des affrontements et déterminer les responsabilités exactes des fauteurs de troubles.",
-        "plain": "EN CLAIR : Des bagarres et des comportements racistes ont eu lieu autour du match entre Marseille et Sofia. Le président a condamné ces violences et la justice a lancé des enquêtes.",
+        "id": "s7c9ec71838",
+        "topic": "sante",
+        "title": "Des rassemblements et des gaz lacrymogènes soulèvent des questions de santé",
+        "context": "Plusieurs rassemblements de protestation en France ont donné lieu à l'utilisation répétée de produits chimiques de maintien de l'ordre par les forces de sécurité.",
+        "summary": "Près de 10 000 femmes et jeunes filles ayant participé à des manifestations en octobre ont fait part de perturbations de leur santé gynécologique. Ces témoignages font état d'interruptions ou de saignements anormaux qu'elles attribuent à l'exposition aux gaz lacrymogènes employés par la police. Certaines manifestantes indiquent subir ces dysfonctionnements sur de très longues périodes. Ces déclarations ravivent la controverse autour de l'impact sanitaire et environnemental des outils de maintien de l'ordre.",
+        "plain": "EN CLAIR : De nombreuses femmes manifestantes affirment avoir subi des perturbations menstruelles après avoir respiré des gaz lacrymogènes durant les cortèges. Ces témoignages relancent le débat sur les effets de ces produits.",
         "chart": null,
         "stakes": [
-          "La sécurité autour des rencontres sportives européennes",
-          "La prévention de l'extrémisme dans les stades",
-          "La coopération entre forces de l'ordre internationales"
+          "Des études scientifiques indépendantes évalueront-elles la nocivité de ces produits ?",
+          "Les pratiques de maintien de l'ordre seront-elles modifiées ?",
+          "Comment les institutions médicales prendront-elles en charge les signalements ?"
         ],
         "sources": [
           {
-            "name": "franceinfo",
-            "title": "Bagarres, saluts nazis... Les images des affrontements en marge du match OM-Levski Sofia",
-            "link": "https://www.franceinfo.fr/sports/foot/ligue-europa/bagarres-saluts-nazis-les-images-des-affrontements-en-marge-du-match-om-levski-sofia_8303469.html#xtor=RSS-3-%5Bfrance%5D",
-            "publishedAt": "2026-11-27T16:12:18.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "BBC News",
-            "title": "Clashes mar European games as Macron condemns violence",
-            "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-27T10:24:24.000Z",
+            "name": "The Guardian",
+            "title": "Thousands of girls and women report bleeding and miscarriages after French police use of teargas",
+            "link": "https://www.theguardian.com/global-development/2026/nov/27/thousands-of-girls-and-women-report-bleeding-and-miscarriages-after-french-police-use-of-teargas",
+            "publishedAt": "2026-11-27T05:00:54.000Z",
             "lang": "en",
             "country": "GB"
           }
         ],
         "image": {
-          "url": "https://www.franceinfo.fr/pictures/vqtP8vaODo8OGJ5dr1kJFzpx_1w/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/27/6b09abb626892067180056.jpg",
-          "credit": "franceinfo",
-          "link": "https://www.franceinfo.fr/sports/foot/ligue-europa/bagarres-saluts-nazis-les-images-des-affrontements-en-marge-du-match-om-levski-sofia_8303469.html#xtor=RSS-3-%5Bfrance%5D"
-        },
-        "i18n": {
-          "en": {
-            "title": "Investigations opened following clashes on the sidelines of the Marseille-Sofia match",
-            "context": "The Stade Vélodrome in Marseille hosted the Europa League match between Olympique de Marseille and Bulgarian club Levski Sofia.",
-            "summary": "Violent fights broke out near the stadium between Bulgarian and Marseille supporters, resulting in several injuries. Witnesses and observers reported provocations and extremist gestures, notably Nazi salutes. President of the Republic Emmanuel Macron strongly condemned these acts of violence. Two judicial investigations have been opened to identify the perpetrators of the clashes and determine the exact responsibilities of the troublemakers.",
-            "plain": "IN CLEAR: Fights and racist behavior occurred around the match between Marseille and Sofia. The president condemned this violence and the judiciary has launched investigations.",
-            "stakes": [
-              "Security around European sporting encounters",
-              "The prevention of extremism in stadiums",
-              "Cooperation between international law enforcement forces"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Investigaciones abiertas tras los enfrentamientos al margen del partido Marsella-Sofía",
-            "context": "El Estadio Velódromo de Marsella acogía el partido de la Europa League entre el Olympique de Marsella y el club búlgaro Levski Sofia.",
-            "summary": "Violentas peleas estallaron en los alrededores del estadio entre seguidores búlgaros y marselleses, provocando varios heridos. Testigos y observadores señalaron provocaciones y gestos extremistas, en particular saludos nazis. El presidente de la República, Emmanuel Macron, condenó firmemente estos actos de violencia. Se han abierto dos investigaciones judiciales para identificar a los autores de los enfrentamientos y determinar las responsabilidades exactas de los alborotadores.",
-            "plain": "EN CLARO: Se produjeron peleas y comportamientos racistas en torno al partido entre Marsella y Sofía. El presidente condenó esta violencia y la justicia ha abierto investigaciones.",
-            "stakes": [
-              "La seguridad en torno a los encuentros deportivos europeos",
-              "La prevención del extremismo en los estadios",
-              "La cooperación entre fuerzas del orden internacionales"
-            ],
-            "chart": null
-          }
+          "url": "https://i.guim.co.uk/img/media/63a3e1342ed8af11ddc3d2c24aff85ab2c60cfbe/649_17_1271_1017/master/1271.jpg?width=140&quality=85&auto=format&fit=max&s=63d67a596b9f9bc334e6e46af5fb33fa",
+          "credit": "The Guardian",
+          "link": "https://www.theguardian.com/global-development/2026/nov/27/thousands-of-girls-and-women-report-bleeding-and-miscarriages-after-french-police-use-of-teargas"
         }
       },
       {
-        "id": "s2df6e54775",
+        "id": "s4c5c77e193",
         "topic": "economie",
-        "title": "Chômage partiel pour des salariés du groupe Stellantis à Rennes et Mulhouse",
-        "context": "Le secteur automobile européen subit des variations de demande et des difficultés de production liées à la baisse globale des commandes de véhicules.",
-        "summary": "Le constructeur automobile Stellantis a décidé de suspendre temporairement la production sur plusieurs sites français, dont ceux de Rennes et Mulhouse. Les salariés concernés sont placés en chômage partiel face au ralentissement des commandes. Les représentations syndicales expriment leur vive inquiétude pour la pérennité industrielle des usines et l'emploi local. La direction invoque la nécessité d'adapter le rythme industriel à la réalité du marché automobile actuel.",
-        "plain": "EN CLAIR : Faute de commandes suffisantes, le groupe automobile Stellantis met ses usines de Rennes et Mulhouse à l'arrêt temporaire. Les ouvriers s'inquiètent pour leur emploi.",
+        "title": "Les librairies françaises confrontées à une crise économique importante",
+        "context": "La France possède un réseau étendu de librairies indépendantes soutenu par une loi encadrant le prix unique du livre.",
+        "summary": "Les librairies indépendantes françaises connaissent des fermetures d'établissements à un niveau record. Cette situation résulte de la hausse globale des coûts de fonctionnement, des charges fixes et des contraintes spécifiques au marché du livre. Ce recul fragilise la diversité culturelle et restreint la présence des œuvres de nouveaux auteurs dans les rayons. Les professionnels du secteur demandent une intervention des pouvoirs publics pour préserver l'accès à la lecture partout sur le territoire.",
+        "plain": "EN CLAIR : Les librairies indépendantes ferment à un rythme très élevé à cause de la hausse des coûts et des difficultés économiques. Cela menace la diversité des livres et la place réservée aux nouveaux auteurs.",
         "chart": null,
         "stakes": [
-          "L'avenir de l'emploi industriel automobile en France",
-          "La gestion des périodes de ralentissement économique",
-          "La compétitivité des sites de production français"
+          "Quelles aides publiques pourraient être déployées pour soutenir la filière ?",
+          "Comment les acteurs du secteur adapteront-ils leur modèle économique ?",
+          "Quelle sera la visibilité de la création littéraire émergente dans les prochaines années ?"
         ],
         "sources": [
           {
-            "name": "franceinfo",
-            "title": "\"On est inquiets pour l'avenir du site\" : des salariés de Stellantis mis en chômage partiel à Rennes et Mulhouse face aux difficultés du groupe",
-            "link": "https://www.franceinfo.fr/economie/industrie/on-est-quand-meme-inquiets-pour-l-avenir-du-site-des-salaries-de-stellantis-mis-en-chomage-partiel-a-rennes-et-mulhouse-face-aux-difficultes-du-groupe_8303127.html#xtor=RSS-3-%5Bfrance%5D",
-            "publishedAt": "2026-11-27T15:43:45.000Z",
-            "lang": "fr",
-            "country": "FR"
+            "name": "The New York Times",
+            "title": "France’s Bookstores, Beloved Curators of Literature, Are in a Deep Crisis",
+            "link": "https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html",
+            "publishedAt": "2026-11-27T23:11:37.000Z",
+            "lang": "en",
+            "country": "US"
           }
         ],
         "image": {
-          "url": "https://www.franceinfo.fr/pictures/lTZnRKgqkqFsUXhGet5d3GuN9yk/136x0:1450x739/432x243/filters:format(jpg)/2026/11/27/6b0985866060e549266480.jpg",
-          "credit": "franceinfo",
-          "link": "https://www.franceinfo.fr/economie/industrie/on-est-quand-meme-inquiets-pour-l-avenir-du-site-des-salaries-de-stellantis-mis-en-chomage-partiel-a-rennes-et-mulhouse-face-aux-difficultes-du-groupe_8303127.html#xtor=RSS-3-%5Bfrance%5D"
-        },
-        "i18n": {
-          "en": {
-            "title": "Partial unemployment for employees of the Stellantis group in Rennes and Mulhouse",
-            "context": "The European automotive sector is experiencing demand variations and production difficulties linked to the overall decline in vehicle orders.",
-            "summary": "Automotive manufacturer Stellantis has decided to temporarily suspend production at several French sites, including those in Rennes and Mulhouse. Affected employees are placed on partial unemployment in the face of slowing orders. Union representatives express deep concern for the industrial sustainability of the plants and local employment. Management cites the need to adapt the industrial pace to the reality of the current automotive market.",
-            "plain": "IN CLEAR: Lacking sufficient orders, automotive group Stellantis is putting its Rennes and Mulhouse plants on temporary shutdown. Workers are worried about their jobs.",
-            "stakes": [
-              "The future of automotive industrial employment in France",
-              "The management of economic slowdown periods",
-              "The competitiveness of French production sites"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Desempleo parcial para los empleados del grupo Stellantis en Rennes y Mulhouse",
-            "context": "El sector del automóvil europeo sufre variaciones de la demanda y dificultades de producción vinculadas a la caída global de los pedidos de vehículos.",
-            "summary": "El fabricante de automóviles Stellantis ha decidido suspender temporalmente la producción en varios centros franceses, entre ellos los de Rennes y Mulhouse. Los asalariados afectados se encuentran en situación de desempleo parcial ante la ralentización de los pedidos. Las representaciones sindicales expresan su profunda preocupación por la sostenibilidad industrial de las fábricas y el empleo local. La dirección invoca la necesidad de adaptar el ritmo industrial a la realidad del mercado automovilístico actual.",
-            "plain": "EN CLARO: A falta de pedidos suficientes, el grupo automovilístico Stellantis suspende temporalmente sus fábricas de Rennes y Mulhouse. Los obreros se preocupan por su empleo.",
-            "stakes": [
-              "El futuro del empleo industrial del automóvil en Francia",
-              "La gestión de los periodos de ralentización económica",
-              "La competitividad de los centros de producción franceses"
-            ],
-            "chart": null
-          }
+          "url": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-france-bookshops-gmfk/27int-france-bookshops-gmfk-mediumSquareAt3X.jpg",
+          "credit": "The New York Times",
+          "link": "https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html"
         }
       },
       {
-        "id": "se52ac4cb90",
-        "topic": "culture",
-        "title": "Disparition de Jean-Claude Vannier, figure majeure de la chanson française",
-        "context": "Jean-Claude Vannier est reconnu comme un arrangeur et compositeur d'exception ayant marqué plusieurs décennies de création musicale.",
-        "summary": "Le monde de la musique rend hommage à Jean-Claude Vannier, décédé à un âge avancé. Il était particulièrement célèbre pour son travail d'arrangement orchestral sur l'album Histoire de Melody Nelson de Serge Gainsbourg. Tout au long de sa carrière, il a mis son talent au service de très nombreux artistes de la chanson tricolore. Musiciens et critiques saluent un créateur prolifique, capable de mêler grande exigence symphonique et audace populaire.",
-        "plain": "EN CLAIR : Le grand musicien et arrangeur Jean-Claude Vannier est mort. Il avait notamment composé les arrangements mythiques des chansons de Serge Gainsbourg.",
+        "id": "s2633c70c4b",
+        "topic": "justice",
+        "title": "Des décisions de justice rendues pour agressions sexuelles et violences",
+        "context": "Les juridictions pénales examinent régulièrement des affaires de violences physiques et sexuelles majeures impliquant des personnalités publiques ou religieuses.",
+        "summary": "À Reims, la cour criminelle de la Marne a rendu un jugement condamnant un pasteur de 53 ans à 12 années de réclusion criminelle pour trois viols et une tentative commis sur des fidèles de sa communauté. Parallèlement, la justice a tranché l'affaire des violences commises contre le producteur Michel Zecler en condamnant les policiers mis en cause. Ces décisions marquent une sévérité réaffirmée de l'institution judiciaire face aux faits de violences physiques et d'atteintes sexuelles.",
+        "plain": "EN CLAIR : La justice a condamné un pasteur à 12 ans de prison pour des viols commis à Reims. Dans une autre affaire, les policiers impliqués dans les violences contre Michel Zecler ont également été condamnés.",
         "chart": null,
         "stakes": [
-          "La préservation de la mémoire du patrimoine musical français",
-          "L'héritage artistique des grands arrangeurs du XXe siècle",
-          "La reconnaissance du travail d'artisan en coulisses de la chanson"
+          "Comment les institutions luttent-elles contre les abus de pouvoir en leur sein ?",
+          "Quelles leçons l'institution policière tire-t-elle de la condamnation de ses agents ?",
+          "Quelle est l'évolution des peines retenues pour les violences physiques et sexuelles ?"
         ],
         "sources": [
           {
-            "name": "Libération",
-            "title": "Mort de l’arrangeur Jean-Claude Vannier, artisan invisible du sublime comme de l’ordinaire",
-            "link": "https://www.liberation.fr/culture/musique/mort-de-jean-claude-vannier-arrangeur-historique-de-serge-gainsbourg-20261127_XCWLPFFNIRHQZINVDIFL23IP6I/",
-            "publishedAt": "2026-11-27T18:20:24.000Z",
+            "name": "La Croix",
+            "title": "Un pasteur évangéliste condamné à 12 ans de prison pour trois viols et une tentative parmi ses fidèles",
+            "link": "https://www.la-croix.com/religion/un-pasteur-evangeliste-condamne-a-12-ans-de-prison-pour-trois-viols-et-une-tentative-parmi-ses-fideles-20261127",
+            "publishedAt": "2026-11-27T17:31:51.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
             "name": "L'Humanité",
-            "title": "Mort de Jean-Claude Vannier, prince des arrangeurs français",
-            "link": "https://www.humanite.fr/culture-et-savoir/musique/mort-de-jean-claude-vannier-prince-des-arrangeurs-francais",
-            "publishedAt": "2026-11-27T16:54:40.000Z",
+            "title": "Affaire Zecler : la carte de l’ami noir n’a pas sauvé les 3 petits cochons | BANGER 💥 (Yérim Sar)",
+            "link": "https://www.humanite.fr/societe/extreme-droite/affaire-zecler-la-carte-de-lami-noir-na-pas-sauve-les-3-petits-cochons-banger-%f0%9f%92%a5-yerim-sar",
+            "publishedAt": "2026-11-27T15:01:00.000Z",
             "lang": "fr",
             "country": "FR"
           }
         ],
         "image": {
-          "url": "https://www.humanite.fr/wp-content/uploads/2026/11/vannier.jpg?w=1200",
-          "credit": "L'Humanité",
-          "link": "https://www.humanite.fr/culture-et-savoir/musique/mort-de-jean-claude-vannier-prince-des-arrangeurs-francais"
-        },
-        "i18n": {
-          "en": {
-            "title": "Passing of Jean-Claude Vannier, a major figure in French chanson",
-            "context": "Jean-Claude Vannier is recognized as an exceptional arranger and composer who left his mark on several decades of musical creation.",
-            "summary": "The music world is paying tribute to Jean-Claude Vannier, who has passed away at an advanced age. He was particularly famous for his orchestral arrangement work on Serge Gainsbourg's album Histoire de Melody Nelson. Throughout his career, he put his talent at the service of numerous French-speaking artists. Musicians and critics praise a prolific creator, capable of blending high symphonic standards with popular audacity.",
-            "plain": "IN CLEAR: The renowned musician and arranger Jean-Claude Vannier has died. He notably composed the mythical arrangements for Serge Gainsbourg's songs.",
-            "stakes": [
-              "The preservation of the memory of French musical heritage",
-              "The artistic legacy of major 20th-century arrangers",
-              "The recognition of the work of behind-the-scenes artisans in popular song"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Fallecimiento de Jean-Claude Vannier, figura clave de la canción francesa",
-            "context": "Jean-Claude Vannier es reconocido como un arreglista y compositor excepcional que dejó su impronta en varias décadas de creación musical.",
-            "summary": "El mundo de la música rinde homenaje a Jean-Claude Vannier, fallecido a una edad avanzada. Era especialmente famoso por su trabajo de arreglo orquestal en el álbum Histoire de Melody Nelson de Serge Gainsbourg. A lo largo de su carrera, puso su talento al servicio de numerosos artistas de la canción francófona. Músicos y críticos elogian a un creador prolífico, capaz de combinar una gran exigencia sinfónica con la audacia popular.",
-            "plain": "EN CLARO: El gran músico y arreglista Jean-Claude Vannier ha muerto. En particular, compuso los arreglos míticos de las canciones de Serge Gainsbourg.",
-            "stakes": [
-              "La preservación de la memoria del patrimonio musical francés",
-              "El legado artístico de los grandes arreglistas del siglo XX",
-              "El reconocimiento del trabajo artesanal entre bastidores de la canción"
-            ],
-            "chart": null
-          }
+          "url": "https://i.la-croix.com/x/2026/11/27/2600786-un-pasteur-evangeliste-a-ete-condamne-mercredi-25-.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/religion/un-pasteur-evangeliste-condamne-a-12-ans-de-prison-pour-trois-viols-et-une-tentative-parmi-ses-fideles-20261127"
         }
       },
       {
-        "id": "s2493953d0b",
-        "topic": "economie",
-        "title": "Attaque en justice des distributeurs indépendants contre l'opérateur SFR",
-        "context": "Le réseau de distribution de SFR s'appuie en partie sur des magasins gérés par des commerçants indépendants répartis sur le territoire national.",
-        "summary": "Environ 250 boutiques indépendantes partenaires de SFR ont décidé d'assigner l'opérateur de télécommunications devant les tribunaux. Ces commerçants dénoncent l'absence de perspectives claires pour leur activité et la dégradation continue de leurs conditions contractuelles. Représentant près de 1 500 emplois, ils craignent pour la survie de leurs entreprises dans le cadre du rachat et de la réorganisation du groupe. La direction de SFR n'a pas apporté de commentaires détaillés sur cette procédure en cours.",
-        "plain": "EN CLAIR : Des gérants de magasins indépendants vendant des abonnements SFR attaquent l'opérateur en justice. Ils s'inquiètent pour la survie de leurs boutiques et de leurs 1 500 salariés.",
+        "id": "sc3ec32a4e2",
+        "topic": "environnement",
+        "title": "Les sinistrés des inondations du Pas-de-Calais expriment leur exaspération",
+        "context": "Le département du Pas-de-Calais subit à nouveau des épisodes de débordement de cours d'eau touchant un grand nombre de communes et d'habitations.",
+        "summary": "Plus de 200 communes du Pas-de-Calais subissent les effets de la crue de la Canche. Bien que le niveau de l'eau commence à amorcer une décrue, la colère et l'épuisement prédominent parmi les habitants touchés par les inondations. De nombreux sinistrés réclament des travaux d'infrastructure d'urgence pour ne plus revivre ces dégâts chaque hiver. Les acteurs locaux et les services publics sont appelés à fournir des explications sur la gestion des cours d'eau et des ouvrages de protection.",
+        "plain": "EN CLAIR : Plus de 200 communes du Pas-de-Calais ont encore été touchées par des montées d'eau. Les habitants épuisés demandent des travaux pour empêcher ces inondations de se répéter tous les ans.",
         "chart": null,
         "stakes": [
-          "La préservation de l'emploi dans la distribution télécom",
-          "Les relations contractuelles entre grandes entreprises et indépendants",
-          "La restructuration des réseaux physiques de commerces"
+          "Quels aménagements seront mis en œuvre pour sécuriser les cours d'eau ?",
+          "Comment les indemnisations d'assurance seront-elles versées aux sinistrés ?",
+          "Quelles solutions à long terme seront proposées aux foyers touchés à répétition ?"
         ],
         "sources": [
           {
             "name": "Le Monde",
-            "title": "Les distributeurs indépendants de SFR, qui craignent de ne pas survivre au rachat de l’opérateur, l’attaquent en justice",
-            "link": "https://www.lemonde.fr/economie/article/2026/11/27/les-distributeurs-independants-de-sfr-qui-craignent-de-ne-pas-survivre-au-rachat-de-l-operateur-l-attaquent-en-justice_6815915_3234.html",
-            "publishedAt": "2026-11-27T17:39:21.000Z",
+            "title": "Dans le Pas-de-Calais inondé, la colère des sinistrés : « Ce n’est plus possible. Je ne vais pas attendre tous les hivers le moment où l’eau monte chez moi »",
+            "link": "https://www.lemonde.fr/planete/article/2026/11/27/dans-le-pas-de-calais-inonde-le-ras-le-bol-des-sinistres-faut-imaginer-ce-que-c-est-l-eau-boueuse-qui-monte-chez-vous_6815928_3244.html",
+            "publishedAt": "2026-11-27T19:15:54.000Z",
             "lang": "fr",
             "country": "FR"
           }
         ],
         "image": {
-          "url": "https://img.lemde.fr/2026/11/27/265/0/4600/2300/644/322/60/0/9d21e0c_upload-1-a4vskmhmp6v1-2025-10-15t134958z-1724534039-rc2dchau9ehm-rtrmadp-3-bouygues-m-a-altice.JPG",
+          "url": "https://img.lemde.fr/2026/11/21/493/0/5852/2926/644/322/60/0/a24314a_ftp-1-e79vnsqxbcei-afp-d8996nr.jpg",
           "credit": "Le Monde",
-          "link": "https://www.lemonde.fr/economie/article/2026/11/27/les-distributeurs-independants-de-sfr-qui-craignent-de-ne-pas-survivre-au-rachat-de-l-operateur-l-attaquent-en-justice_6815915_3234.html"
-        },
-        "i18n": {
-          "en": {
-            "title": "Legal action by independent distributors against the operator SFR",
-            "context": "SFR's distribution network relies in part on stores managed by independent merchants spread across the national territory.",
-            "summary": "Around 250 independent stores partnering with SFR have decided to take the telecommunications operator to court. These merchants denounce the lack of clear prospects for their business and the continuous deterioration of their contractual conditions. Representing nearly 1,500 jobs, they fear for the survival of their companies within the framework of the group's buyout and reorganization. SFR's management has not provided detailed comments on this ongoing procedure.",
-            "plain": "IN CLEAR: Independent store managers selling SFR subscriptions are suing the operator. They are worried about the survival of their shops and their 1,500 employees.",
-            "stakes": [
-              "The preservation of employment in telecom distribution",
-              "Contractual relations between large companies and independents",
-              "The restructuring of physical retail networks"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Demanda judicial de los distribuidores independientes contra el operador SFR",
-            "context": "La red de distribución de SFR se apoya en parte en tiendas gestionadas por comerciantes independientes repartidos por el territorio nacional.",
-            "summary": "Alrededor de 250 tiendas independientes asociadas a SFR han decidido demandar al operador de telecomunicaciones ante los tribunales. Estos comerciantes denuncian la falta de perspectivas claras para su actividad y el empeoramiento continuo de sus condiciones contractuales. Representando cerca de 1.500 empleos, temen por la supervivencia de sus empresas en el marco de la compra y reorganización del grupo. La dirección de SFR no ha hecho comentarios detallados sobre este procedimiento en curso.",
-            "plain": "EN CLARO: Gestores de tiendas independientes que venden suscripciones de SFR demandan al operador. Les preocupa la supervivencia de sus tiendas y de sus 1.500 empleados.",
-            "stakes": [
-              "La preservación del empleo en la distribución de telecomunicaciones",
-              "Las relaciones contractuales entre grandes empresas e independientes",
-              "La reestructuración de las redes físicas de comercios"
-            ],
-            "chart": null
-          }
+          "link": "https://www.lemonde.fr/planete/article/2026/11/27/dans-le-pas-de-calais-inonde-le-ras-le-bol-des-sinistres-faut-imaginer-ce-que-c-est-l-eau-boueuse-qui-monte-chez-vous_6815928_3244.html"
         }
       },
       {
-        "id": "sc8dbf4a1bb",
-        "topic": "culture",
-        "title": "Débat sur l'état de conservation de la tapisserie de Bayeux à Londres",
-        "context": "La tapisserie de Bayeux est un chef-d'œuvre de la broderie médiévale relatant la conquête de l'Angleterre au XIe siècle.",
-        "summary": "Un rapport d'expertise pointe des inquiétudes concernant l'état physique de la tapisserie de Bayeux durant son prêt à l'étranger. Des spécialistes affirment que le déplacement et la présentation de l'œuvre au British Museum ont pu occasionner des altérations légères mais regrettables. Des personnalités du patrimoine avaient exprimé des réserves dès l'annonce du projet de prêt à long terme. Les responsables des musées soutiennent que toutes les garanties scientifiques et conservatoires ont été appliquées.",
-        "plain": "EN CLAIR : Un rapport s'inquiète de l'état de la tapisserie de Bayeux, prêtée à un musée de Londres. Certains spécialistes estiment qu'elle a subi de légers dégâts lors de son déplacement.",
+        "id": "sdbeea9e0ce",
+        "topic": "societe",
+        "title": "La place de la tradition et des symboles religieux suscite des contestations locales",
+        "context": "L'application des règles de laïcité et la gestion des éléments du patrimoine rural font l'objet de différends réguliers dans les territoires français.",
+        "summary": "À Nomexy, dans les Vosges, la Ligue des droits de l'Homme a engagé un recours devant le tribunal administratif pour faire retirer une crèche de Noël installée dans l'enceinte de la mairie. Dans une autre affaire locale liée aux traditions, la municipalité de La Garnache fait face à une contestation des riverains concernant le son des cloches de l'église durant la nuit. Ces querelles traduisent la difficulté de concilier la laïcité institutionnelle, le patrimoine culturel et la tranquillité publique dans les communes.",
+        "plain": "EN CLAIR : Une crèche de Noël installée dans une mairie des Vosges est attaquée en justice par une association. En Vendée, les habitants se déchirent sur les sonneries de cloches la nuit.",
         "chart": null,
         "stakes": [
-          "La préservation du patrimoine historique d'exception",
-          "La politique de prêt international des œuvres nationales",
-          "La gestion des risques lors du transport d'objets d'art anciens"
+          "Quelle décision la justice administrative rendra-t-elle sur la crèche dans la mairie ?",
+          "Comment les maires peuvent-ils préserver le patrimoine rural face aux plaintes de voisinage ?",
+          "Comment évolue la jurisprudence sur les symboles religieux dans l'espace public ?"
         ],
         "sources": [
           {
-            "name": "Valeurs actuelles",
-            "title": "La tapisserie de Bayeux endommagée à Londres, selon un rapport",
-            "link": "https://www.valeursactuelles.com/culture/la-tapisserie-de-bayeux-endommagee-a-londres-selon-un-rapport",
-            "publishedAt": "2026-11-27T16:31:29.000Z",
+            "name": "Le JDD",
+            "title": "Crèche de Noël en mairie : la Ligue des droits de l’Homme saisit la justice dans les Vosges",
+            "link": "https://www.lejdd.fr/Societe/creche-de-noel-en-mairie-la-ligue-des-droits-de-lhomme-saisit-la-justice-dans-les-vosges-189813",
+            "publishedAt": "2026-11-27T14:02:55.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "The Guardian",
+            "title": "French town divided over church bells ringing every 15 minutes at night",
+            "link": "https://www.theguardian.com/world/2026/nov/27/for-whom-the-bells-troll-french-town-divided-over-churchs-night-time-chimes",
+            "publishedAt": "2026-11-27T10:46:57.000Z",
+            "lang": "en",
+            "country": "GB"
+          }
+        ],
+        "image": {
+          "url": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/27/14/capture-decran-2026-11-27-a-14.47.57.jpg?VersionId=Rqr14olnnGlDRXwwIi5jiaS4EJ6pt885",
+          "credit": "Le JDD",
+          "link": "https://www.lejdd.fr/Societe/creche-de-noel-en-mairie-la-ligue-des-droits-de-lhomme-saisit-la-justice-dans-les-vosges-189813"
+        }
+      },
+      {
+        "id": "s884e9981d1",
+        "topic": "sport",
+        "title": "Le Stade rennais se sépare de son entraîneur Franck Haise",
+        "context": "Les résultats sportifs et le classement en Ligue 1 dictent souvent les décisions de la direction des clubs professionnels de football.",
+        "summary": "La direction du Stade rennais a pris la décision de suspendre Franck Haise de ses fonctions d'entraîneur principal de l'équipe professionnelle. Recruté en début d'année pour remplacer Habib Beye, il avait guidé le club breton vers une qualification pour les compétitions européennes. Cependant, une série décevante de cinq rencontres consécutives sans victoire a conduit à sa mise à pied. Les dirigeants du club travaillent au recrutement d'un nouvel entraîneur pour relancer les performances de l'équipe.",
+        "plain": "EN CLAIR : Le club de football de Rennes a mis à pied son entraîneur Franck Haise. Cette séparation intervient après une mauvaise passe de cinq matchs sans la moindre victoire.",
+        "chart": null,
+        "stakes": [
+          "Qui sera désigné pour reprendre la conduite de l'équipe professionnelle de Rennes ?",
+          "Le Stade rennais réussira-t-il à remonter au classement du championnat ?",
+          "Comment les joueurs réagiront-ils à ce changement de technicien en cours de saison ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "Franck Haise, l'entraîneur de l'équipe de football du Stade rennais, est mis à pied",
+            "link": "https://www.franceinfo.fr/sports/foot/l-entraineur-de-l-equipe-de-football-du-stade-rennais-franck-haise-est-mis-a-pied_8303727.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-27T19:27:21.000Z",
             "lang": "fr",
             "country": "FR"
           }
         ],
         "image": {
-          "url": "https://www.valeursactuelles.com/assets/uploads/2026/11/SIPA_01303020_000038-1.jpg",
-          "credit": "Valeurs actuelles",
-          "link": "https://www.valeursactuelles.com/culture/la-tapisserie-de-bayeux-endommagee-a-londres-selon-un-rapport"
-        },
-        "i18n": {
-          "en": {
-            "title": "Debate over the state of preservation of the Bayeux Tapestry in London",
-            "context": "The Bayeux Tapestry is a masterpiece of medieval embroidery depicting the conquest of England in the 11th century.",
-            "summary": "An expert report points to concerns regarding the physical condition of the Bayeux Tapestry during its loan abroad. Specialists claim that the movement and presentation of the artwork at the British Museum may have caused slight but regrettable alterations. Heritage figures had expressed reservations as soon as the long-term loan project was announced. Museum officials maintain that all scientific and conservation guarantees were applied.",
-            "plain": "IN CLEAR: A report raises concerns about the condition of the Bayeux Tapestry, which was lent to a London museum. Some specialists believe it suffered slight damage during its transport.",
-            "stakes": [
-              "The preservation of exceptional historical heritage",
-              "The international lending policy for national artworks",
-              "Risk management during the transport of ancient art objects"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Debate sobre el estado de conservación del Tapiz de Bayeux en Londres",
-            "context": "El Tapiz de Bayeux es una obra maestra de la bordadura medieval que relata la conquista de Inglaterra en el siglo XI.",
-            "summary": "Un informe pericial señala inquietudes sobre el estado físico del Tapiz de Bayeux durante su préstamo al extranjero. Especialistas afirman que el traslado y la presentación de la obra en el Museo Británico pudieron causar alteraciones leves pero lamentables. Personalidades del patrimonio habían expresado reservas desde el anuncio del proyecto de préstamo a largo plazo. Los responsables de los museos sostienen que se aplicaron todas las garantías científicas y de conservación.",
-            "plain": "EN CLARO: Un informe se preocupa por el estado del Tapiz de Bayeux, prestado a un museo de Londres. Algunos especialistas estiman que sufrió ligeros daños durante su traslado.",
-            "stakes": [
-              "La preservación del patrimonio histórico de excepción",
-              "La política de préstamo internacional de las obras nacionales",
-              "La gestión de riesgos durante el transporte de objetos de arte antiguos"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "sa79ccd2b16",
-        "topic": "sciences_tech",
-        "title": "Enquête sur la dépendance des services publics français aux géants américains du numérique",
-        "context": "La question de la souveraineté numérique européenne et de l'utilisation de logiciels étrangers par les administrations fait débat en Europe.",
-        "summary": "Une analyse comparative révèle la part prise par les entreprises technologiques américaines dans les infrastructures des services publics en Europe. Selon ces données, la France se situe dans une position intermédiaire, avec un taux d'utilisation de technologies américaines nettement inférieur à celui d'autres pays européens comme Malte, mais supérieur à l'Allemagne. Les défenseurs de la souveraineté numérique préconisent le développement de solutions logicielles nationales et européennes. D'autres acteurs privilégient la simplicité d'usage et le coût immédiat des outils déjà existants sur le marché.",
-        "plain": "EN CLAIR : Une étude compare la dépendance des pays européens envers les logiciels et serveurs des grandes entreprises américaines. La France utilise moins ces outils que d'autres pays, mais le débat sur la souveraineté reste vif.",
-        "chart": null,
-        "stakes": [
-          "La protection des données de santé et des administrations",
-          "Le développement d'alternatives technologiques européennes",
-          "Les coûts de transition vers des souverainetés numériques"
-        ],
-        "sources": [
-          {
-            "name": "Politico Europe",
-            "title": "Dépendance aux Big Tech américaines : où en est la France par rapport à ses voisins européens ?",
-            "link": "https://www.politico.eu/article/ue-tech-americaine-dependance-souverainete-ia-cloud/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-            "publishedAt": "2026-11-27T09:41:42.000Z",
-            "lang": "en",
-            "country": "BE"
-          }
-        ],
-        "image": {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/26/GettyImages-1258377934-scaled.jpg",
-          "credit": "Politico Europe",
-          "link": "https://www.politico.eu/article/ue-tech-americaine-dependance-souverainete-ia-cloud/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-        },
-        "i18n": {
-          "en": {
-            "title": "Investigation into the dependence of French public services on American tech giants",
-            "context": "The issue of European digital sovereignty and the use of foreign software by administrations is a subject of debate in Europe.",
-            "summary": "A comparative analysis reveals the share taken by American technology companies in public service infrastructures in Europe. According to these data, France is in an intermediate position, with an American technology usage rate significantly lower than that of other European countries such as Malta, but higher than Germany. Defenders of digital sovereignty advocate the development of national and European software solutions. Other actors favor the ease of use and immediate cost of tools already existing on the market.",
-            "plain": "IN CLEAR: A study compares the dependence of European countries on software and servers from major American companies. France uses these tools less than other countries, but the debate on sovereignty remains lively.",
-            "stakes": [
-              "The protection of health data and government administrations",
-              "The development of European technological alternatives",
-              "The costs of transition toward digital sovereignties"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Investigación sobre la dependencia de los servicios públicos franceses de los gigantes tecnológicos estadounidenses",
-            "context": "La cuestión de la soberanía digital europea y el uso de programas informáticos extranjeros por parte de las administraciones es objeto de debate en Europa.",
-            "summary": "Un análisis comparativo revela la cuota que ocupan las empresas tecnológicas estadounidenses en las infraestructuras de los servicios públicos en Europa. Según estos datos, Francia se sitúa en una posición intermedia, con una tasa de uso de tecnologías estadounidenses notablemente inferior a la de otros países europeos como Malta, pero superior a la de Alemania. Los defensores de la soberanía digital propugnan el desarrollo de soluciones de software nacionales y europeas. Otros actores prefieren la facilidad de uso y el coste inmediato de las herramientas ya existentes en el mercado.",
-            "plain": "EN CLARO: Un estudio compara la dependencia de los países europeos respecto al software y los servidores de las grandes empresas estadounidenses. Francia utiliza estas herramientas menos que otros países, pero el debate sobre la soberanía sigue vivo.",
-            "stakes": [
-              "La protección de los datos de salud y de las administraciones",
-              "El desarrollo de alternativas tecnológicas europeas",
-              "Los costes de transición hacia las soberanías digitales"
-            ],
-            "chart": null
-          }
+          "url": "https://www.franceinfo.fr/pictures/WFCyJYTFC2alGaHMHSbauoolhtI/0x0:6000x3375/432x243/filters:format(jpg)/2026/11/27/6b09d9809f0b8712802980.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/sports/foot/l-entraineur-de-l-equipe-de-football-du-stade-rennais-franck-haise-est-mis-a-pied_8303727.html#xtor=RSS-3-%5Bfrance%5D"
         }
       }
     ],
     "monde": [
       {
-        "id": "s63b8ed2d28",
+        "id": "s6f1213150e",
         "topic": "politique",
-        "title": "Élections législatives en Espagne : incertitude et opposition de modèles",
-        "context": "L'Espagne organise des élections législatives anticipées convoquées sur fond de tensions politiques et de débats sur le logement. Le président du gouvernement sortant, le socialiste Pedro Sánchez, remet son mandat en jeu face à l'opposition conservatrice.",
-        "summary": "Le Premier ministre socialiste Pedro Sánchez apparaît distancé dans les sondages à la suite de scandales de corruption touchant son entourage, selon plusieurs médias européens comme Le Figaro et la BBC. Le Parti populaire et la formation d'extrême droite Vox ambitionnent de former une coalition pour accéder au pouvoir, un scénario souligné par The Guardian et The New York Times. De son côté, Pedro Sánchez rejette le cadrage de l'opposition visant à transformer le scrutin en plébiscite personnel et se dit confiant dans une mobilisation de l'électorat de gauche. Pour obtenir la majorité absolue au Parlement espagnol, un bloc doit rassembler au moins 176 sièges.",
-        "plain": "EN CLAIR : Les citoyens espagnols votent pour choisir leurs députés. Le Premier ministre de gauche sortant essaie de se maintenir face aux conservateurs et à l'extrême droite qui espèrent s'allier pour diriger le pays.",
+        "title": "Élections législatives très disputées en Espagne",
+        "context": "L'Espagne organise des élections législatives anticipées après plusieurs années de gouvernement mené par les socialistes. Les sondages indiquent une forte poussée de l'opposition conservatrice et de l'extrême droite.",
+        "summary": "Le Premier ministre socialiste sortant Pedro Sánchez tente de remobiliser l'électorat de gauche malgré une campagne perçue comme difficile par ses partisans. De son côté, le chef du Parti populaire conservateur, Alberto Núñez Feijóo, appelle à un vote de rassemblement pour mettre fin à huit ans de pouvoir socialiste. Les formations d'extrême droite, notamment le parti Vox mené par Santiago Abascal, cherchent à obtenir un rôle clé dans la formation d'une future coalition. Les débats de fin de campagne ont porté sur des sujets majeurs comme la crise du logement et l'orientation de la politique étrangère vis-à-vis du Maroc et de l'Algérie.",
+        "plain": "EN CLAIR : Les Espagnols votent pour élire leurs députés et leur futur gouvernement. Les conservateurs et l'extrême droite espèrent faire basculer la majorité, tandis que la gauche tente un rattrapage de dernière minute.",
         "chart": null,
         "stakes": [
-          "L'éventuelle entrée d'un parti d'extrême droite dans le gouvernement espagnol",
-          "L'évolution des politiques publiques sur le logement et l'économie",
-          "L'équilibre politique global au sein des institutions de l'Union européenne"
+          "L'extrême droite fera-t-elle son entrée au gouvernement en Espagne ?",
+          "Quel impact ce résultat aura-t-il sur les équilibres politiques en Europe ?",
+          "Comment la future majorité répondra-t-elle aux attentes sur le logement et l'économie ?"
         ],
         "sources": [
           {
-            "name": "Le Figaro",
-            "title": "Législatives en Espagne : Pedro Sanchez en mauvaise posture face à l’alliance entre le Parti populaire et l’extrême droite",
-            "link": "https://www.lefigaro.fr/international/legislatives-en-espagne-pedro-sanchez-en-mauvaise-posture-face-a-l-alliance-entre-le-parti-populaire-et-l-extreme-droite-20261127",
-            "publishedAt": "2026-11-27T18:30:00.000Z",
+            "name": "Libération",
+            "title": "Législatives en Espagne : à la veille du vote, la gauche veut encore y croire",
+            "link": "https://www.liberation.fr/international/europe/legislatives-en-espagne-a-la-veille-du-vote-la-gauche-veut-encore-y-croire-20261127_X6PG2EN5X5BLVHJVDYKJAC6GQE/",
+            "publishedAt": "2026-11-27T19:58:38.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "Libération",
-            "title": "En Espagne, comment fonctionnent les élections législatives ?",
-            "link": "https://www.liberation.fr/international/europe/en-espagne-comment-fonctionnent-les-elections-legislatives-20261127_WAEAXIN4ZBHY5KZVBQ7DL62G64/",
-            "publishedAt": "2026-11-27T17:06:00.000Z",
+            "name": "L'Humanité",
+            "title": "Législatives anticipées en Espagne : l’extrême droite va-t-elle arriver au pouvoir ?",
+            "link": "https://www.humanite.fr/monde/elections-en-espagne/legislatives-anticipees-en-espagne-lextreme-droite-va-t-elle-arriver-au-pouvoir",
+            "publishedAt": "2026-11-27T17:00:00.000Z",
             "lang": "fr",
             "country": "FR"
+          },
+          {
+            "name": "BBC News",
+            "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+            "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-27T21:55:53.000Z",
+            "lang": "en",
+            "country": "GB"
           },
           {
             "name": "BBC News",
             "title": "Spanish election: What you need to know and what's at stake",
             "link": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
             "publishedAt": "2026-11-27T13:11:03.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "BBC News",
+            "title": "Who to watch in Spain's election race",
+            "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-27T12:48:32.000Z",
             "lang": "en",
             "country": "GB"
           },
@@ -692,28 +395,12 @@
             "country": "GB"
           },
           {
-            "name": "The New York Times",
-            "title": "Spain’s Far-Right Era Ended in 1975. Will This Man Change That?",
-            "link": "https://www.nytimes.com/2026/11/27/world/europe/santiago-abascal-vox-spain-far-right.html",
-            "publishedAt": "2026-11-27T14:45:20.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "Al Jazeera",
-            "title": "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls",
-            "link": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
-            "publishedAt": "2026-11-27T17:15:35.000Z",
-            "lang": "en",
-            "country": "QA"
-          },
-          {
-            "name": "El País",
-            "title": "Cierre de campaña de las elecciones generales del 29-N, en directo | Sánchez carga contra el PP y Vox por intentar deshumanizarle y convertir las elecciones en un referéndum contra él",
-            "link": "https://elpais.com/espana/elecciones-generales/2026-11-27/cierre-de-campana-de-las-elecciones-generales-del-29-n-en-directo.html",
-            "publishedAt": "2026-11-27T19:05:03.000Z",
-            "lang": "es",
-            "country": "ES"
+            "name": "Tagesschau",
+            "title": "Spanien vor der Parlamentswahlen: Sánchez gegen Feijóo",
+            "link": "https://www.tagesschau.de/tagesthemen/video-1691336.html",
+            "publishedAt": "2026-11-27T21:12:33.000Z",
+            "lang": "de",
+            "country": "DE"
           },
           {
             "name": "Euronews",
@@ -725,49 +412,92 @@
           }
         ],
         "image": {
-          "url": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/27/c807c8bc0a2d12611ab1baa4efe51653a19c661eca10e3bc6fd34398cf85a13c.jpg",
-          "credit": "Le Figaro",
-          "link": "https://www.lefigaro.fr/international/legislatives-en-espagne-pedro-sanchez-en-mauvaise-posture-face-a-l-alliance-entre-le-parti-populaire-et-l-extreme-droite-20261127"
-        },
-        "i18n": {
-          "en": {
-            "title": "Legislative elections in Spain: uncertainty and opposing models",
-            "context": "Spain is holding early general elections called against a backdrop of political tensions and debates on housing. Outgoing Prime Minister, socialist Pedro Sánchez, is putting his mandate on the line against the conservative opposition.",
-            "summary": "Socialist Prime Minister Pedro Sánchez appears to be trailing in the polls following corruption scandals affecting his entourage, according to several European media outlets such as Le Figaro and the BBC. The Popular Party and the far-right formation Vox aim to form a coalition to come to power, a scenario highlighted by The Guardian and The New York Times. For his part, Pedro Sánchez rejects the opposition's framing of the election as a personal plebiscite and says he is confident in the mobilization of the leftist electorate. To obtain an absolute majority in the Spanish Parliament, a bloc must gather at least 176 seats.",
-            "plain": "IN CLEAR: Spanish citizens are voting to choose their deputies. The outgoing left-wing Prime Minister is trying to hold on against conservatives and the far-right, who hope to ally to govern the country.",
-            "stakes": [
-              "The potential entry of a far-right party into the Spanish government",
-              "The evolution of public policies on housing and the economy",
-              "The overall political balance within European Union institutions"
-            ],
-            "chart": null
+          "url": "https://www.humanite.fr/wp-content/uploads/2026/11/x480.jpeg?w=853",
+          "credit": "L'Humanité",
+          "link": "https://www.humanite.fr/monde/elections-en-espagne/legislatives-anticipees-en-espagne-lextreme-droite-va-t-elle-arriver-au-pouvoir"
+        }
+      },
+      {
+        "id": "s03da83fad8",
+        "topic": "justice",
+        "title": "La Cour suprême du Canada valide la loi québécoise sur la laïcité",
+        "context": "Adoptée en 2019 au Québec, la loi 21 interdit le port de signes religieux aux fonctionnaires en position d'autorité, tels que les enseignants ou les policiers. Le texte faisait l'objet d'une contestation judiciaire soutenue depuis son vote.",
+        "summary": "La Cour suprême du Canada a confirmé la validité de la quasi-totalité de la loi sur la laïcité promulguée par le Québec. La décision s'appuie sur la reconnaissance de la clause dérogatoire utilisée par le Parlement québécois pour protéger son texte. Les défenseurs de la loi saluent la réaffirmation du modèle québécois de laïcité, distinct du multiculturalisme en vigueur dans le reste du pays. À l'inverse, plusieurs organisations de défense des droits civiques déplorent une décision qui fragilise selon elles les libertés fondamentales et pénalise les minorités religieuses.",
+        "plain": "EN CLAIR : La plus haute juridiction canadienne a jugé légale la loi québécoise interdisant aux agents publics de porter des symboles religieux au travail. Ce jugement met fin à des années d'incertitude juridique mais ravive les débats.",
+        "chart": null,
+        "stakes": [
+          "Comment la province conciliera-t-elle l'application de la loi et la protection des droits individuels ?",
+          "Quelles conséquences ce jugement aura-t-il sur les relations entre le Québec et l'État fédéral ?",
+          "Cette décision inspirera-t-elle d'autres initiatives législatives régionales ?"
+        ],
+        "sources": [
+          {
+            "name": "La Croix",
+            "title": "Canada : la Cour suprême consacre la laïcité au Québec dans une décision historique",
+            "link": "https://www.la-croix.com/international/canada-la-cour-supreme-consacre-la-laicite-au-quebec-dans-une-decision-historique-20261127",
+            "publishedAt": "2026-11-27T20:21:42.000Z",
+            "lang": "fr",
+            "country": "FR"
           },
-          "es": {
-            "title": "Elecciones legislativas en España: incertidumbre y oposición de modelos",
-            "context": "España celebra elecciones generales anticipadas convocadas en un contexto de tensiones políticas y debates sobre la vivienda. El presidente del Gobierno saliente, el socialista Pedro Sánchez, se juega su mandato frente a la oposición conservadora.",
-            "summary": "El presidente del Gobierno socialista, Pedro Sánchez, aparece rezagado en los sondeos a raíz de escándalos de corrupción que afectan a su entorno, según varios medios europeos como Le Figaro y la BBC. El Partido Popular y la formación de ultraderecha Vox aspiran a formar una coalición para llegar al poder, un escenario destacado por The Guardian y The New York Times. Por su parte, Pedro Sánchez rechaza el enfoque de la oposición que busca transformar los comicios en un plebiscito personal y se muestra confiado en la movilización del electorado de izquierdas. Para obtener la mayoría absoluta en el Parlamento español, un bloque debe reunir al menos 176 escaños.",
-            "plain": "EN CLARO: Los ciudadanos españoles votan para elegir a sus diputados. El presidente del Gobierno saliente de izquierdas intenta mantenerse frente a los conservadores y la ultraderecha, que esperan aliarse para dirigir el país.",
-            "stakes": [
-              "La posible entrada de un partido de ultraderecha en el gobierno español",
-              "La evolución de las políticas públicas sobre vivienda y economía",
-              "El equilibrio político global en el seno de las instituciones de la Unión Europea"
-            ],
-            "chart": null
+          {
+            "name": "Deutsche Welle",
+            "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
+            "link": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-27T20:43:00.000Z",
+            "lang": "en",
+            "country": "DE"
+          },
+          {
+            "name": "The New York Times",
+            "title": "Quebec Can Keep Its Ban on Religious Symbols, Canada’s Top Court Rules",
+            "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
+            "publishedAt": "2026-11-27T21:17:11.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "The Wall Street Journal",
+            "title": "Canada’s Supreme Court Upholds Quebec’s Religious-Symbols Ban",
+            "link": "https://www.wsj.com/world/americas/canadas-supreme-court-upholds-quebecs-religious-symbols-ban-c1d8371a?mod=rss_worldnews",
+            "publishedAt": "2026-11-27T19:51:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
+          {
+            "name": "South China Morning Post",
+            "title": "Canada’s top court upholds Quebec ban on religious symbols for public servants",
+            "link": "https://www.scmp.com/news/world/united-states-canada/article/3376103/canadas-top-court-upholds-quebec-ban-religious-symbols-public-servants",
+            "publishedAt": "2026-11-27T20:25:58.000Z",
+            "lang": "en",
+            "country": "HK"
+          },
+          {
+            "name": "Le Monde (International)",
+            "title": "La Cour suprême canadienne consacre la laïcité au Québec dans une décision historique",
+            "link": "https://www.lemonde.fr/international/article/2026/11/27/la-cour-supreme-canadienne-consacre-la-laicite-au-quebec-dans-une-decision-historique_6815937_3210.html",
+            "publishedAt": "2026-11-27T22:06:52.000Z",
+            "lang": "fr",
+            "country": "FR"
           }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/27/2600792-maxppp-tagid-ibpremiumfive352963jpgphoto-via-maxpp.jpg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/international/canada-la-cour-supreme-consacre-la-laicite-au-quebec-dans-une-decision-historique-20261127"
         }
       },
       {
         "id": "sfdffa19645",
         "topic": "international",
-        "title": "Guerre en Ukraine : frappes ciblées et réflexions sur les négociations",
-        "context": "Le conflit armé entre la Russie et l'Ukraine se poursuit sur le front tout en suscitant de vifs débats diplomatiques internationaux. Les infrastructures énergétiques et industrielles restent des cibles privilégiées des deux camps.",
-        "summary": "L'armée ukrainienne affirme avoir bombardé des sites industriels stratégiques en territoire russe, notamment une usine de caoutchouc synthétique et des réservoirs de raffinerie. Sur le plan diplomatique, le président Volodymyr Zelensky juge ambiguë la relation entre Donald Trump et Vladimir Poutine, tout en suggérant un arrêt des attaques en mer Noire pour préserver le commerce des céréales. En réponse, Donald Trump défend sa position en exprimant le souhait d'aboutir à un accord de paix et attribue le blocage aux animosités personnelles des dirigeants. Parallèlement, la Crimée connaît d'importantes coupures de courant et l'Ukraine se prépare aux difficultés d'un nouvel hiver.",
-        "plain": "EN CLAIR : Alors que les frappes militaires continuent de toucher des cibles industrielles, des désaccords s'expriment entre Kiev et Washington sur la stratégie et les relations avec la Russie pour sortir du conflit.",
+        "title": "Combats intenses et vifs échanges diplomatiques sur la guerre en Ukraine",
+        "context": "Les affrontements entre l'armée ukrainienne et les forces russes se poursuivent alors que l'approche de l'hiver fait craindre de nouvelles destructions d'infrastructures énergétiques.",
+        "summary": "Sur le terrain militaire, Kiev affirme avoir utilisé pour la première fois un système d'arme laser pour abattre un drone russe, tout en revendiquant des frappes contre une usine et des réservoirs de raffinerie en territoire russe. En parallèle, des pannes d'électricité massives ont frappé la péninsule de Crimée à la suite d'incidents techniques et de frappes. Sur le plan diplomatique, le président Volodymyr Zelensky a vivement rejeté les propos de Donald Trump décrivant sa relation avec Vladimir Poutine comme une « amitié ». De son côté, le président américain maintient son intention de négocier la fin du conflit, attribuant les blocages à l'hostilité entre les deux belligérants.",
+        "plain": "EN CLAIR : Alors que les affrontements militaires s'intensifient sur le terrain avec de nouvelles technologies, les dirigeants politiques s'écharpent sur la diplomatie à mener et sur les conditions d'éventuelles négociations de paix.",
         "chart": null,
         "stakes": [
-          "La préservation des voies maritimes d'exportation des céréales",
-          "La résistance des réseaux énergétiques face aux rigueurs de l'hiver",
-          "La définition des paramètres de futures négociations de paix"
+          "L'Ukraine pourra-t-elle préserver son réseau énergétique face aux attaques hivernales ?",
+          "Quelle sera la stratégie américaine en matière d'aide et de négociation de paix ?",
+          "L'introduction d'armes de haute technologie modifiera-t-elle l'équilibre du conflit ?"
         ],
         "sources": [
           {
@@ -775,6 +505,14 @@
             "title": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne revendique le bombardement d’une « usine stratégique » et la destruction de réservoirs dans une raffinerie en Russie",
             "link": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-l-armee-ukrainienne-revendique-le-bombardement-d-une-usine-strategique-et-la-destruction-de-reservoirs-dans-une-raffinerie-en-russie_6814183_3210.html",
             "publishedAt": "2026-11-27T18:56:38.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "La Croix",
+            "title": "Guerre en Ukraine : ce qu’il faut retenir de la situation du vendredi 27 novembre",
+            "link": "https://www.la-croix.com/international/ukraine-russie-jour-1738-point-conflit-ukrainien-poutine-aujourdhui-20261127",
+            "publishedAt": "2026-11-27T20:21:15.000Z",
             "lang": "fr",
             "country": "FR"
           },
@@ -811,68 +549,50 @@
             "country": "US"
           },
           {
-            "name": "Al Jazeera",
-            "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
-            "link": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
-            "publishedAt": "2026-11-27T17:44:33.000Z",
+            "name": "South China Morning Post",
+            "title": "Ukraine says it used laser weapon to shoot down Russian drone for first time",
+            "link": "https://www.scmp.com/news/world/russia-central-asia/article/3376104/ukraine-says-it-used-laser-weapon-shoot-down-russian-drone-first-time",
+            "publishedAt": "2026-11-27T21:08:33.000Z",
             "lang": "en",
-            "country": "QA"
+            "country": "HK"
           },
           {
-            "name": "Al Jazeera",
-            "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
-            "link": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
-            "publishedAt": "2026-11-27T17:13:46.000Z",
-            "lang": "en",
-            "country": "QA"
+            "name": "France 24",
+            "title": "Trump se considère l'\"ami\" de Poutine ? Pour Zelensky, cela revient à se dire ami d'Hitler",
+            "link": "https://www.france24.com/fr/europe/20261127-trump-se-consid%C3%A8re-ami-poutine-pour-zelensky-cela-revient-se-dire-ami-hitler",
+            "publishedAt": "2026-11-27T20:52:06.000Z",
+            "lang": "fr",
+            "country": "FR"
           }
         ],
         "image": {
           "url": "https://img.lemde.fr/2026/11/27/669/0/4000/2000/644/322/60/0/f96082b_upload-1-qgplu7ay902k-incendie-drone-kharkiv-4.jpg",
           "credit": "Le Monde (International)",
           "link": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-l-armee-ukrainienne-revendique-le-bombardement-d-une-usine-strategique-et-la-destruction-de-reservoirs-dans-une-raffinerie-en-russie_6814183_3210.html"
-        },
-        "i18n": {
-          "en": {
-            "title": "War in Ukraine: targeted strikes and reflections on negotiations",
-            "context": "The armed conflict between Russia and Ukraine continues on the front lines while sparking intense international diplomatic debates. Energy and industrial infrastructures remain prime targets for both sides.",
-            "summary": "The Ukrainian army claims to have bombed strategic industrial sites on Russian territory, notably a synthetic rubber plant and refinery storage tanks. On the diplomatic front, President Volodymyr Zelensky considers the relationship between Donald Trump and Vladimir Putin to be ambiguous, while suggesting a halt to Black Sea attacks to preserve the grain trade. In response, Donald Trump defends his position by expressing the desire to reach a peace agreement and attributes the deadlock to the personal animosities of the leaders. At the same time, Crimea is experiencing major power outages and Ukraine is preparing for the difficulties of a new winter.",
-            "plain": "IN CLEAR: While military strikes continue to hit industrial targets, disagreements have arisen between Kyiv and Washington over strategy and relations with Russia to end the conflict.",
-            "stakes": [
-              "The preservation of maritime grain export routes",
-              "The resilience of energy networks in the face of harsh winter conditions",
-              "The definition of parameters for future peace negotiations"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Guerra en Ucrania: ataques selectivos y reflexiones sobre las negociaciones",
-            "context": "El conflicto armado entre Rusia y Ucrania continúa en el frente al tiempo que suscita intensos debates diplomáticos internacionales. Las infraestructuras energéticas e industriales siguen siendo objetivos prioritarios para ambos bandos.",
-            "summary": "El ejército ucraniano afirma haber bombardeado instalaciones industriales estratégicas en territorio ruso, en particular una planta de caucho sintético y depósitos de una refinería. En el plano diplomático, el presidente Volodímir Zelenski considera ambigua la relación entre Donald Trump y Vladímir Putin, al tiempo que sugiere un alto los ataques en el mar Negro para preservar el comercio de grano. En respuesta, Donald Trump defiende su postura expresando el deseo de alcanzar un acuerdo de paz y atribuye el bloqueo a las animadversiones personales de los dirigentes. Paralelamente, Crimea sufre importantes apagones eléctricos y Ucrania se prepara para las dificultades de un nuevo invierno.",
-            "plain": "EN CLARO: Mientras los ataques militares siguen afectando a objetivos industriales, se manifiestan desacuerdos entre Kiev y Washington sobre la estrategia y las relaciones con Rusia para salir del conflicto.",
-            "stakes": [
-              "La preservación de las rutas marítimas de exportación de cereales",
-              "La resistencia de las redes energéticas ante las rigurosidades del invierno",
-              "La definición de los parámetros para futuras negociaciones de paz"
-            ],
-            "chart": null
-          }
         }
       },
       {
-        "id": "s5a1335743e",
+        "id": "s1c0a8c8bae",
         "topic": "international",
-        "title": "L'armée américaine neutralise un navire marchand dans le Golfe d'Oman",
-        "context": "Les États-Unis ont mis en place un blocus naval ciblant les navires marchands entrant ou sortant des ports iraniens. Cette mesure s'inscrit dans un contexte de vive détérioration des relations dans le Moyen-Orient.",
-        "summary": "Des aéronefs des forces armées américaines ont utilisé des munitions de précision pour frapper la poupe du navire M/V Pacific Archer, sous pavillon des Palaos. D'après le commandement américain et plusieurs médias, le bâtiment venait d'appareiller du port iranien de Bandar Abbas et cherchait à contourner le dispositif de blocus. De son côté, l'Iran dénonce l'illégalité de cette action maritime et promet d'y faire face. Cet épisode constitue une nouvelle étape dans l'escalade des tensions militaires dans la zone.",
-        "plain": "EN CLAIR : L'armée américaine a tiré sur un navire commercial qui essayait de franchir le blocus qu'elle impose aux ports de l'Iran. Cela augmente le risque d'affrontement direct dans la région.",
+        "title": "Opération militaire américaine au large de l'Iran et blocus maritime",
+        "context": "Les États-Unis ont mis en place un dispositif de contrôle maritime strict dans le golfe d'Oman pour restreindre les échanges commerciaux et pétroliers liés à l'Iran.",
+        "summary": "Les forces armées américaines ont annoncé avoir neutralisé un navire marchand battant pavillon des Palaos qui tentait de franchir le blocus naval au large de l'Iran. Des frappes ciblées ont endommagé le système de propulsion du bâtiment sans faire de blessés parmi les membres d'équipage, selon le commandement américain. En réaction, des responsables iraniens ont affirmé que Téhéran ne laisserait pas le blocus s'installer durablement et ont menacé de bloquer le détroit d'Ormuz. L'incident marque un durcissement des tensions dans une zone stratégique pour le commerce maritime mondial.",
+        "plain": "EN CLAIR : L'armée américaine a stoppé un navire cargo qui tentait de contourner l'embargo maritime imposé à l'Iran. Téhéran dénonce cette action et menace de répliquer dans le détroit d'Ormuz.",
         "chart": null,
         "stakes": [
-          "Le risque d'escalade militaire directe entre Washington et Téhéran",
-          "La sécurité du commerce et du transport maritime dans le Golfe",
-          "Les répercussions sur les prix des matières premières énergétiques"
+          "Le blocus maritime provoquera-t-il des incidents militaires directs entre l'Iran et les États-Unis ?",
+          "Quelles seront les conséquences de ces tensions sur le transport pétrolier international ?",
+          "Une voie de négociation diplomatique est-elle encore envisageable à court terme ?"
         ],
         "sources": [
+          {
+            "name": "The Wall Street Journal",
+            "title": "U.S. Strikes Vessel Attempting Blockade Run Near Iran",
+            "link": "https://www.wsj.com/world/middle-east/u-s-strikes-vessel-attempting-blockade-run-near-iran-338439e4?mod=rss_worldnews",
+            "publishedAt": "2026-11-27T19:07:00.000Z",
+            "lang": "en",
+            "country": "US"
+          },
           {
             "name": "Fox News",
             "title": "US military disables tanker ship attempting to slip through Iran blockade on Thanksgiving Day",
@@ -882,10 +602,18 @@
             "country": "US"
           },
           {
+            "name": "Al Jazeera",
+            "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+            "link": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+            "publishedAt": "2026-11-27T22:22:02.000Z",
+            "lang": "en",
+            "country": "QA"
+          },
+          {
             "name": "The Hindu",
-            "title": "U.S. military says it disabled commercial ship trying to run Iran blockade",
+            "title": "U.S. disables ship trying to leave Iran, as Tehran vows to confront blockade",
             "link": "https://www.thehindu.com/news/international/us-military-says-it-disabled-commercial-ship-trying-to-run-iran-blockade/article71752214.ece",
-            "publishedAt": "2026-11-27T18:21:56.000Z",
+            "publishedAt": "2026-11-27T19:35:02.000Z",
             "lang": "en",
             "country": "IN"
           },
@@ -899,49 +627,113 @@
           }
         ],
         "image": {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/hormuz_ship.jpg?ve=1&tl=1",
-          "credit": "Fox News",
-          "link": "https://www.foxnews.com/world/us-military-disables-tanker-ship-attempting-slip-through-iran-blockade-thanksgiving-day"
-        },
-        "i18n": {
-          "en": {
-            "title": "US military neutralizes merchant vessel in the Gulf of Oman",
-            "context": "The United States has implemented a naval blockade targeting merchant ships entering or leaving Iranian ports. This measure comes against a backdrop of sharply deteriorating relations in the Middle East.",
-            "summary": "US armed forces aircraft used precision munitions to strike the stern of the Palauan-flagged merchant vessel M/V Pacific Archer. According to the US command and several media outlets, the ship had just departed the Iranian port of Bandar Abbas and was attempting to bypass the blockade. Meanwhile, Iran denounced the action as an illegal maritime move and vowed to respond. This episode marks a new step in the escalation of military tensions in the area.",
-            "plain": "IN SHORT: The US military fired on a commercial ship that was trying to break the blockade it has imposed on Iran's ports. This increases the risk of a direct clash in the region.",
-            "stakes": [
-              "The risk of a direct military escalation between Washington and Tehran",
-              "The security of trade and maritime transport in the Gulf",
-              "The repercussions on energy commodity prices"
-            ],
-            "chart": null
+          "url": "https://images.wsj.net/im-15730861",
+          "credit": "The Wall Street Journal",
+          "link": "https://www.wsj.com/world/middle-east/u-s-strikes-vessel-attempting-blockade-run-near-iran-338439e4?mod=rss_worldnews"
+        }
+      },
+      {
+        "id": "s6360121acb",
+        "topic": "sante",
+        "title": "L'OMS alerte sur la résurgence mondiale des cas de rougeole",
+        "context": "La rougeole est une maladie infectieuse très contagieuse qui peut entraîner des complications graves, mais qui est évitable grâce à deux doses de vaccin.",
+        "summary": "L'Organisation mondiale de la santé (OMS) a exprimé ses vives inquiétudes face au ralentissement des progrès observés dans la lutte contre la rougeole au niveau mondial. Selon l'institution, le problème n'est pas lié à un manque d'efficacité des vaccins existants, mais aux lacunes de la couverture vaccinale chez les enfants éligibles. L'organisation souligne également le rôle de la désinformation sur la vaccination, qui freine l'accès aux soins de prévention et favorise le retour d'épidémies dans plusieurs pays.",
+        "plain": "EN CLAIR : L'OMS avertit que la rougeole gagne à nouveau du terrain dans le monde. La cause principale n'est pas un défaut du vaccin, mais le fait que trop d'enfants ne se font plus vacciner.",
+        "chart": null,
+        "stakes": [
+          "Comment les institutions de santé parviendront-elles à restaurer la confiance envers les vaccins ?",
+          "Quelles politiques publiques seront déployées pour remonter le taux de couverture vaccinale ?",
+          "Quels risques de flambées épidémiques pèsent sur les zones les moins immunisées ?"
+        ],
+        "sources": [
+          {
+            "name": "The Telegraph",
+            "title": "Vaccine gaps fuelling global measles resurgence, WHO warns",
+            "link": "https://www.telegraph.co.uk/global-health/science-and-disease/vaccine-gaps-fuelling-global-measles-resurgence-who-warns/",
+            "publishedAt": "2026-11-27T17:00:00.000Z",
+            "lang": "en",
+            "country": "GB"
           },
-          "es": {
-            "title": "El ejército estadounidense neutraliza un buque mercante en el golfo de Omán",
-            "context": "Estados Unidos ha establecido un bloqueo naval dirigido a los buques mercantes que entran o salen de los puertos iraníes. Esta medida se enmarca en un contexto de grave deterioro de las relaciones en Oriente Medio.",
-            "summary": "Aeronaves de las fuerzas armadas estadounidenses utilizaron municiones de precisión para golpear la popa del buque mercante M/V Pacific Archer, con bandera de Palaos. Según el mando estadounidense y varios medios de comunicación, la embarcación acababa de zarpar del puerto iraní de Bandar Abbas e intentaba sortear el dispositivo de bloqueo. Por su parte, Irán denunció la ilegalidad de esta acción marítima y prometió hacerle frente. Este episodio constituye un nuevo paso en la escalada de tensiones militares en la zona.",
-            "plain": "EN CLARO: El ejército estadounidense disparó contra un barco comercial que intentaba romper el bloqueo que impone a los puertos de Irán. Esto aumenta el riesgo de un enfrentamiento directo en la región.",
-            "stakes": [
-              "El riesgo de una escalada militar directa entre Washington y Teherán",
-              "La seguridad del comercio y del transporte marítimo en el Golfo",
-              "Las repercusiones en los precios de las materias primas energéticas"
-            ],
-            "chart": null
+          {
+            "name": "The Straits Times",
+            "title": "WHO sounds alarm as measles fight falters",
+            "link": "https://www.straitstimes.com/world/europe/who-sounds-alarm-as-measles-fight-falters",
+            "publishedAt": "2026-11-27T18:17:25.000Z",
+            "lang": "en",
+            "country": "SG"
+          },
+          {
+            "name": "South China Morning Post",
+            "title": "WHO sounds alarm as measles fight falters: ‘it is back’",
+            "link": "https://www.scmp.com/news/world/article/3376102/who-sounds-alarm-measles-fight-falters-it-back",
+            "publishedAt": "2026-11-27T20:12:12.000Z",
+            "lang": "en",
+            "country": "HK"
           }
+        ],
+        "image": {
+          "url": "https://www.telegraph.co.uk/content/dam/global-health/2026/11/27/TELEMMGLPICT000484378360_17957950565120_trans_NvBQzQNjv4BqDPfUJJJzp2bObtoYsJdDTv4Xpit_DMGvdp2n7FDd82k.jpeg",
+          "credit": "The Telegraph",
+          "link": "https://www.telegraph.co.uk/global-health/science-and-disease/vaccine-gaps-fuelling-global-measles-resurgence-who-warns/"
+        }
+      },
+      {
+        "id": "scbc33bf5ff",
+        "topic": "sciences_tech",
+        "title": "Escalade judiciaire entre OpenAI et Apple sur la propriété intellectuelle",
+        "context": "La course au développement de l'intelligence artificielle suscite une vive concurrence entre les créateurs de modèles d'IA et les constructeurs d'équipements technologiques.",
+        "summary": "La société d'intelligence artificielle OpenAI a engagé des poursuites judiciaires contre Apple, l'accusant de vol de secrets commerciaux. OpenAI affirme également que le géant de la technologie exercerait des pressions sur des équipementiers pour entraver la conception de futurs appareils concurrents. Cette action en justice répond à une initiative antérieure d'Apple reprochant à OpenAI d'avoir débauché plusieurs de ses ingénieurs. Ce litige illustre le durcissement des rapports entre acteurs de la Silicon Valley pour le contrôle des technologies de rupture.",
+        "plain": "EN CLAIR : OpenAI attaque Apple en justice pour vol de secrets industriels. Cette bataille montre à quel point les grands acteurs technologiques s'affrontent pour dominer le secteur de l'intelligence artificielle.",
+        "chart": null,
+        "stakes": [
+          "Quelles conséquences ce litige aura-t-il sur les partenariats industriels dans la tech ?",
+          "Les règles régissant le secret des affaires et le recrutement dans l'IA seront-elles clarifiées ?",
+          "Ce conflit judiciaire ralentira-t-il l'intégration de l'IA dans les appareils grand public ?"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
+            "link": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+            "publishedAt": "2026-11-27T23:28:50.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Al Jazeera",
+            "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
+            "link": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
+            "publishedAt": "2026-11-27T20:40:51.000Z",
+            "lang": "en",
+            "country": "QA"
+          },
+          {
+            "name": "The Straits Times",
+            "title": "OpenAI countersues Apple for stealing trade secrets",
+            "link": "https://www.straitstimes.com/world/united-states/openai-countersues-apple-for-stealing-trade-secrets",
+            "publishedAt": "2026-11-27T21:22:50.000Z",
+            "lang": "en",
+            "country": "SG"
+          }
+        ],
+        "image": {
+          "url": "https://i.guim.co.uk/img/media/548f2774750f067b58b8293df2904e3bc1888919/417_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=11e4123b18f8e0f22ef83cf2926f9a16",
+          "credit": "The Guardian",
+          "link": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets"
         }
       },
       {
         "id": "s023e31874b",
         "topic": "economie",
-        "title": "Désaccords entre dirigeants européens sur le budget de l'Union européenne",
-        "context": "Les chefs d'État et de gouvernement des pays membres de l'Union européenne se sont réunis lors d'un sommet à Bruxelles pour négocier le budget pluriannuel de l'organisation.",
-        "summary": "Les discussions budgétaires se sont achevées sans accord global en raison de divergences profondes entre plusieurs pays leaders, notamment la France et l'Allemagne. Selon la presse européenne, la Première ministre italienne Giorgia Meloni s'oppose notamment au principe de versements financiers automatiques à l'Ukraine. Le projet de budget intègre par ailleurs l'instauration d'une taxe de 3 % sur les activités des entreprises technologiques américaines. Malgré ces blocages entre pays contributeurs et bénéficiaires, le président du Conseil européen António Costa vise la signature d'un compromis d'ici la mi-décembre.",
-        "plain": "EN CLAIR : Les pays européens n'arrivent pas à se mettre d'accord sur le grand budget de l'Europe. Les discussions bloquent sur le montant de l'aide à donner à l'Ukraine et sur les impôts à créer.",
+        "title": "Blocage des négociations sur le budget pluriannuel de l'Union européenne",
+        "context": "Les 27 États membres de l'Union européenne doivent s'entendre sur le cadre financier qui fixera les dépenses et les recettes de l'UE pour les sept prochaines années.",
+        "summary": "Le sommet réunissant les dirigeants européens s'est conclu sans accord sur le futur budget communautaire. Les discussions ont achoppé sur la hauteur de l'aide financière à accorder à l'Ukraine ainsi que sur la création de nouvelles ressources propres, comme une taxe de 3 % sur les entreprises du secteur numérique américain. Plusieurs pays réclament une rigueur stricte dans la dépense publique, tandis que d'autres insistent sur la nécessité de maintenir les fonds de cohésion et le soutien international.",
+        "plain": "EN CLAIR : Les dirigeants des 27 pays européens n'ont pas réussi à se mettre d'accord sur le budget de l'UE. Les blocages portent sur l'argent à envoyer à l'Ukraine et sur les taxes à créer.",
         "chart": null,
         "stakes": [
-          "La garantie du soutien financier européen à destination de Kiev",
-          "La mise en place d'une taxation ciblée sur les géants du numérique",
-          "La préservation de la cohésion politique au sein des vingt-sept États membres"
+          "Les États membres parviendront-ils à trouver un compromis avant la date limite ?",
+          "Comment le soutien financier à l'Ukraine sera-t-il garanti en l'absence d'accord rapide ?",
+          "La taxe proposée sur les géants du numérique sera-t-elle maintenue dans le texte final ?"
         ],
         "sources": [
           {
@@ -951,14 +743,6 @@
             "publishedAt": "2026-11-27T16:51:00.000Z",
             "lang": "en",
             "country": "DE"
-          },
-          {
-            "name": "El País",
-            "title": "La tensión entre Francia y Alemania dificulta el acuerdo presupuestario en la UE",
-            "link": "https://elpais.com/internacional/2026-11-27/la-tension-entre-francia-y-alemania-dificulta-el-acuerdo-presupuestario-en-la-ue.html",
-            "publishedAt": "2026-11-27T18:30:53.000Z",
-            "lang": "es",
-            "country": "ES"
           },
           {
             "name": "ANSA",
@@ -978,395 +762,149 @@
           }
         ],
         "image": {
-          "url": "https://imagenes.elpais.com/resizer/v2/OLKMGBABTNJLJG5LYZQE2FQOM4.jpg?auth=e74e02159a3f03de583b937b335dba9b243d5936590ed516a14e757c8716c3f3",
-          "credit": "El País",
-          "link": "https://elpais.com/internacional/2026-11-27/la-tension-entre-francia-y-alemania-dificulta-el-acuerdo-presupuestario-en-la-ue.html"
-        },
-        "i18n": {
-          "en": {
-            "title": "Disagreements among European leaders over the European Union budget",
-            "context": "The heads of state and government of EU member countries met at a summit in Brussels to negotiate the organization's multiannual budget.",
-            "summary": "Budget discussions ended without a global agreement due to deep divergences between several leading countries, notably France and Germany. According to the European press, Italian Prime Minister Giorgia Meloni is notably opposed to the principle of automatic financial transfers to Ukraine. The budget draft also includes the introduction of a 3% tax on the activities of US tech companies. Despite these blockages between contributing and beneficiary countries, European Council President António Costa aims to secure a compromise by mid-December.",
-            "plain": "IN SHORT: European countries cannot agree on Europe's major budget. Discussions are stalled over the amount of aid to give to Ukraine and taxes to be created.",
-            "stakes": [
-              "Guaranteeing European financial support for Kyiv",
-              "Establishing targeted taxation on digital giants",
-              "Preserving political cohesion within the twenty-seven member states"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Desacuerdos entre los dirigentes europeos sobre el presupuesto de la Unión Europea",
-            "context": "Los jefes de Estado y de gobierno de los países miembros de la Unión Europea se reunieron en una cumbre en Bruselas para negociar el presupuesto plurianual de la organización.",
-            "summary": "Las discusiones presupuestarias terminaron sin un acuerdo global debido a profundas divergencias entre varios países líderes, especialmente Francia y Alemania. Según la prensa europea, la primera ministra italiana, Giorgia Meloni, se opone en particular al principio de pagos financieros automáticos a Ucrania. El proyecto de presupuesto incluye además la instauración de un impuesto del 3 % sobre las actividades de las empresas tecnológicas estadounidenses. A pesar de estos bloqueos entre países contribuyentes y beneficiarios, el presidente del Consejo Europeo, António Costa, aspira a firmar un compromiso de aquí a mediados de diciembre.",
-            "plain": "EN CLARO: Los países europeos no logran ponerse de acuerdo sobre el gran presupuesto de Europa. Las discusiones se bloquean en torno al monto de la ayuda para Ucrania y los impuestos por crear.",
-            "stakes": [
-              "La garantía del apoyo financiero europeo destinado a Kiev",
-              "La implantación de una fiscalidad dirigida a los gigantes del sector digital",
-              "La preservación de la cohesión política en el seno de los veintisiete Estados miembros"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s03da83fad8",
-        "topic": "justice",
-        "title": "La Cour suprême du Canada confirme la loi québécoise sur la laïcité",
-        "context": "En 2019, la province canadienne du Québec a voté une loi interdisant le port de symboles religieux aux agents de la fonction publique en position d'autorité, incluant les policiers et les enseignants.",
-        "summary": "La plus haute juridiction canadienne a validé la très grande majorité du texte législatif du Québec, mettant fin à un long parcours judiciaire. La décision rejette les recours déposés par plusieurs associations et des citoyens de confessions musulmane, catholique ou sikhe qui estimaient la loi discriminatoire. La Cour suprême a maintenu la possibilité pour la province d'imposer la neutralité religieuse à ses agents dans l'exercice de leurs fonctions, n'invalidant qu'une disposition marginale du texte initial.",
-        "plain": "EN CLAIR : Les juges canadiens ont confirmé qu'au Québec, les enseignants et les policiers n'ont pas le droit de porter de signes religieux au travail. Les recours contre cette règle ont été rejetés.",
-        "chart": null,
-        "stakes": [
-          "L'équilibre entre la neutralité des services publics et les libertés individuelles",
-          "La souveraineté juridique des provinces canadiennes face au pouvoir fédéral",
-          "L'accès et le maintien dans l'emploi public pour les membres des minorités religieuses"
-        ],
-        "sources": [
-          {
-            "name": "La Croix",
-            "title": "Canada : la Cour suprême consacre la laïcité au Québec dans une décision historique",
-            "link": "https://www.la-croix.com/international/canada-la-cour-supreme-consacre-la-laicite-au-quebec-dans-une-decision-historique-20261127",
-            "publishedAt": "2026-11-27T17:39:56.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "BBC News",
-            "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-            "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-27T16:53:46.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "The New York Times",
-            "title": "Canada’s Top Court Lets Quebec Use Controversial Measure for Secularism Law",
-            "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
-            "publishedAt": "2026-11-27T17:37:15.000Z",
-            "lang": "en",
-            "country": "US"
-          }
-        ],
-        "image": {
-          "url": "https://i.la-croix.com/x/2026/11/27/2600792-maxppp-tagid-ibpremiumfive352963jpgphoto-via-maxpp.jpg",
-          "credit": "La Croix",
-          "link": "https://www.la-croix.com/international/canada-la-cour-supreme-consacre-la-laicite-au-quebec-dans-une-decision-historique-20261127"
-        },
-        "i18n": {
-          "en": {
-            "title": "Canadian Supreme Court upholds Quebec's secularism law",
-            "context": "In 2019, the Canadian province of Quebec passed a law banning the wearing of religious symbols by public sector employees in positions of authority, including police officers and teachers.",
-            "summary": "Canada's highest court upheld the vast majority of Quebec's legislative text, bringing a long legal battle to an end. The decision rejects appeals filed by several associations and Muslim, Catholic, and Sikh citizens who considered the law discriminatory. The Supreme Court maintained the province's right to impose religious neutrality on its employees in the exercise of their duties, invalidating only a marginal provision of the initial text.",
-            "plain": "IN SHORT: Canadian judges confirmed that in Quebec, teachers and police officers do not have the right to wear religious signs at work. Appeals against this rule were rejected.",
-            "stakes": [
-              "The balance between public service neutrality and individual freedoms",
-              "The legal sovereignty of Canadian provinces against federal power",
-              "Access to and retention in public employment for members of religious minorities"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "El Tribunal Supremo de Canadá confirma la ley quebequense sobre la laicidad",
-            "context": "En 2019, la provincia canadiense de Quebec aprobó una ley que prohíbe el uso de símbolos religiosos a los funcionarios públicos en puestos de autoridad, incluidos policías y profesores.",
-            "summary": "La más alta jurisdicción canadiense validó la gran mayoría del texto legislativo de Quebec, poniendo fin a un largo proceso judicial. La decisión rechaza los recursos presentados por varias asociaciones y ciudadanos de confesión musulmana, católica o sij que consideraban la ley discriminatoria. El Tribunal Supremo mantuvo la posibilidad de que la provincia imponga la neutralidad religiosa a sus agentes en el ejercicio de sus funciones, invalidando únicamente una disposición marginal del texto inicial.",
-            "plain": "EN CLARO: Los jueces canadienses confirmaron que en Quebec los profesores y los policías no tienen derecho a llevar signos religiosos en el trabajo. Se rechazaron los recursos contra esta norma.",
-            "stakes": [
-              "El equilibrio entre la neutralidad de los servicios públicos y las libertades individuales",
-              "La soberanía jurídica de las provincias canadienses frente al poder federal",
-              "El acceso y la permanencia en el empleo público para los miembros de minorías religiosas"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s06259a338f",
-        "topic": "politique",
-        "title": "Législatives en Nouvelle-Zélande : la coalition sortante privée de majorité",
-        "context": "La Nouvelle-Zélande a organisé des élections législatives pour renouveler la composition de son Assemblée représentative.",
-        "summary": "À l'issue du décompte définitif portant sur 2,8 millions de suffrages exprimés, le gouvernement conservateur sortant a manqué la majorité absolue au Parlement à un siège près. Le scrutin a été marqué par une progression des votes en faveur de petites formations situées aux extrémités politiques. Cette situation d'inconnue institutionnelle place le parti centriste Opportunity au centre des négociations pour former le prochain gouvernement.",
-        "plain": "EN CLAIR : Les conservateurs au pouvoir en Nouvelle-Zélande n'ont pas obtenu la majorité absolue lors des élections. Des négociations avec de petits partis sont désormais nécessaires pour diriger le pays.",
-        "chart": null,
-        "stakes": [
-          "La composition et la stabilité de la future coalition gouvernementale",
-          "L'influence croissante des petits partis dans les décisions politiques néo-zélandaises",
-          "L'orientation des futures politiques économiques du pays"
-        ],
-        "sources": [
-          {
-            "name": "The Washington Post",
-            "title": "Political novice turns kingmaker after New Zealand’s deadlocked election",
-            "link": "https://www.washingtonpost.com/world/2026/11/27/opportunity-qiulae-wong-turns-kingmaker-after-new-zealand-election/",
-            "publishedAt": "2026-11-27T18:15:00.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "RFI",
-            "title": "Élections en Nouvelle-Zélande: la coalition au pouvoir perd de peu la majorité au Parlement",
-            "link": "https://www.rfi.fr/fr/asie-pacifique/20261127-%C3%A9lections-en-nouvelle-z%C3%A9lande-la-coalition-au-pouvoir-perd-de-peu-la-majorit%C3%A9-au-parlement",
-            "publishedAt": "2026-11-27T14:39:50.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Euronews",
-            "title": "Législatives en Nouvelle-Zélande : le parti centriste Opportunity faiseur de roi",
-            "link": "https://fr.euronews.com/2026/11/27/legislatives-en-nouvelle-zelande-le-parti-centriste-opportunity-faiseur-de-roi",
-            "publishedAt": "2026-11-27T18:48:32.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://s.rfi.fr/media/display/4f935cf0-ea6a-11f1-8a30-81bc2b1dcd65/w:1024/p:16x9/2026-11-27T032401Z-831668121-RC22WOAN8LR8-RTRMADP-3-NEW-ZEALAND-POLITICS.jpg",
-          "credit": "RFI",
-          "link": "https://www.rfi.fr/fr/asie-pacifique/20261127-%C3%A9lections-en-nouvelle-z%C3%A9lande-la-coalition-au-pouvoir-perd-de-peu-la-majorit%C3%A9-au-parlement"
-        },
-        "i18n": {
-          "en": {
-            "title": "New Zealand legislative elections: outgoing coalition deprived of majority",
-            "context": "New Zealand held legislative elections to renew the composition of its House of Representatives.",
-            "summary": "Following the final count of 2.8 million cast ballots, the outgoing conservative government fell short of an absolute majority in Parliament by a single seat. The election was marked by a surge in votes for smaller parties at the political extremes. This institutional uncertainty places the centrist Opportunity party at the center of negotiations to form the next government.",
-            "plain": "IN SHORT: The ruling conservatives in New Zealand failed to win an absolute majority in the elections. Negotiations with small parties are now necessary to run the country.",
-            "stakes": [
-              "The composition and stability of the future governing coalition",
-              "The growing influence of small parties in New Zealand political decisions",
-              "The direction of the country's future economic policies"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Elecciones legislativas en Nueva Zelanda: la coalición saliente se queda sin mayoría",
-            "context": "Nueva Zelanda celebró elecciones legislativas para renovar la composición de su Asamblea Representativa.",
-            "summary": "Tras el recuento definitivo de 2,8 millones de sufragios emitidos, el gobierno conservador saliente se quedó a un solo escaño de la mayoría absoluta en el Parlamento. Los comicios estuvieron marcados por un avance de los votos a favor de formaciones minoritarias situadas en los extremos políticos. Esta situación de incertidumbre institucional sitúa al partido centrista Opportunity en el centro de las negociaciones para formar el próximo gobierno.",
-            "plain": "EN CLARO: Los conservadores en el poder en Nueva Zelanda no obtuvieron la mayoría absoluta en las elecciones. Ahora son necesarias negociaciones con pequeños partidos para dirigir el país.",
-            "stakes": [
-              "La composición y la estabilidad de la futura coalición gubernamental",
-              "La creciente influencia de los partidos pequeños en las decisiones políticas neozelandesas",
-              "La orientación de las futuras políticas económicas del país"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "s4d8882957c",
-        "topic": "economie",
-        "title": "La compagnie aérienne Norse Atlantic suspend ses vols et risque la faillite",
-        "context": "La compagnie à bas coûts Norse Atlantic Airways est un transporteur norvégien spécialisé dans les vols internationaux long-courriers.",
-        "summary": "L'entreprise aérienne a annoncé l'interruption complète de ses vols civils et la préparation d'une procédure de dépôt de bilan. Norse Atlantic explique ses difficultés par l'impact direct du conflit en Iran sur l'envolée des cours du carburant d'aviation. Faute d'injection urgente de nouveaux capitaux, la compagnie à bas coûts se dirige vers la faillite définitive.",
-        "plain": "EN CLAIR : La compagnie aérienne Norse Atlantic arrête tous ses vols et s'apprête à déposer le bilan. La forte hausse du prix du carburant a ruiné la rentabilité de ses vols.",
-        "chart": null,
-        "stakes": [
-          "L'indemnisation et le réacheminement des passagers impactés par les annulations",
-          "La fragilité des modèles économiques aériens à bas coûts face au prix de l'énergie",
-          "Les tensions sur l'offre de transports aériens internationaux"
-        ],
-        "sources": [
-          {
-            "name": "Sky News",
-            "title": "Airline suspends all flights - as carrier faces bankruptcy",
-            "link": "https://news.sky.com/story/norse-atlantic-airways-suspends-all-flights-as-carrier-faces-bankruptcy-13616901",
-            "publishedAt": "2026-11-26T16:36:00.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "Deutsche Welle",
-            "title": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs",
-            "link": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-world-4025-rdf",
-            "publishedAt": "2026-11-27T14:20:00.000Z",
-            "lang": "en",
-            "country": "DE"
-          }
-        ],
-        "image": {
-          "url": "https://e3.365dm.com/26/11/1920x1080/skynews-norse-norse-atlantic-airways_7417261.jpg?20261126170942",
-          "credit": "Sky News",
-          "link": "https://news.sky.com/story/norse-atlantic-airways-suspends-all-flights-as-carrier-faces-bankruptcy-13616901"
-        },
-        "i18n": {
-          "en": {
-            "title": "Norse Atlantic airline suspends flights and faces bankruptcy",
-            "context": "Low-cost airline Norse Atlantic Airways is a Norwegian carrier specializing in long-haul international flights.",
-            "summary": "The airline announced the complete suspension of its civil flights and preparations for bankruptcy proceedings. Norse Atlantic attributes its difficulties to the direct impact of the conflict in Iran on soaring aviation fuel prices. Lacking an urgent injection of new capital, the low-cost carrier is heading toward definitive bankruptcy.",
-            "plain": "IN SHORT: The airline Norse Atlantic is stopping all its flights and preparing to file for bankruptcy. The sharp rise in fuel prices has ruined the profitability of its flights.",
-            "stakes": [
-              "Compensation and rerouting for passengers affected by cancellations",
-              "The fragility of low-cost airline business models in the face of energy prices",
-              "Tensions in the international air transport supply"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "La aerolínea Norse Atlantic suspende sus vuelos y se arriesga a la quiebra",
-            "context": "La aerolínea de bajo coste Norse Atlantic Airways es una compañía noruega especializada en vuelos internacionales de larga distancia.",
-            "summary": "La empresa aérea anunció la interrupción completa de sus vuelos civiles y la preparación de un procedimiento de suspensión de pagos. Norse Atlantic atribuye sus dificultades al impacto directo del conflicto en Irán sobre la subida desbocada de los precios del combustible de aviación. A falta de una inyección urgente de nuevo capital, la aerolínea de bajo coste se encamina hacia la quiebra definitiva.",
-            "plain": "EN CLARO: La compañía aérea Norse Atlantic suspende todos sus vuelos y se prepara para la suspensión de pagos. La fuerte subida del precio del combustible arruinó la rentabilidad de sus vuelos.",
-            "stakes": [
-              "La indemnización y reubicación de los pasajeros afectados por las cancelaciones",
-              "La fragilidad de los modelos de negocio aéreos de bajo coste frente al precio de la energía",
-              "Las tensiones en la oferta de transporte aéreo internacional"
-            ],
-            "chart": null
-          }
-        }
-      },
-      {
-        "id": "sdd9cc9909f",
-        "topic": "sciences_tech",
-        "title": "La Belgique ordonne la suspension d'un chantier de centre de données Google",
-        "context": "La société américaine Google a entrepris la construction d'un vaste centre de données dans le sud de la Belgique pour répondre aux besoins de ses infrastructures informatiques.",
-        "summary": "Les autorités régionales belges ont enjoint à l'entreprise de suspendre immédiatement les travaux de terrassement et de construction. L'arrêté fait suite à un recours administratif contestant la validité du permis d'urbanisme, une procédure n'ayant pas encore abouti. Une enquête de l'ONG Greenpeace avait documenté que les opérations de construction se poursuivaient sur le site malgré la situation juridique litigieuse.",
-        "plain": "EN CLAIR : La Belgique interdit à Google de poursuivre la construction d'un grand centre de données. L'entreprise continuait les travaux alors que ses autorisations administratives faisaient l'objet d'un recours.",
-        "chart": null,
-        "stakes": [
-          "Le respect des règles administratives et d'urbanisme par les géants du numérique",
-          "L'impact environnemental et énergétique des installations dédiées à l'intelligence artificielle",
-          "Les litiges juridiques entre associations écologistes et entreprises technologiques"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "title": "Google told to halt Belgium datacentre construction over lack of planning permit",
-            "link": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
-            "publishedAt": "2026-11-27T17:21:18.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "South China Morning Post",
-            "title": "Belgium orders Google to stop work on data centre lacking proper permits",
-            "link": "https://www.scmp.com/news/world/europe/article/3376094/belgium-orders-google-stop-work-data-centre-lacking-proper-permits",
-            "publishedAt": "2026-11-27T13:27:36.000Z",
-            "lang": "en",
-            "country": "HK"
-          }
-        ],
-        "image": {
-          "url": "https://i.guim.co.uk/img/media/53fa79a19abbefe201798e60613aa1864cc000e7/0_0_3360_2688/master/3360.jpg?width=140&quality=85&auto=format&fit=max&s=a7db4ce91794fea20a5cd3b0263dedc4",
-          "credit": "The Guardian",
-          "link": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits"
-        },
-        "i18n": {
-          "en": {
-            "title": "Belgium orders suspension of Google data center construction",
-            "context": "American company Google has undertaken the construction of a vast data center in southern Belgium to meet the needs of its IT infrastructure.",
-            "summary": "Belgian regional authorities ordered the company to immediately suspend excavation and construction work. The decree follows an administrative appeal challenging the validity of the planning permit, a procedure that has not yet concluded. An investigation by the NGO Greenpeace documented that construction operations were continuing on the site despite the disputed legal situation.",
-            "plain": "IN SHORT: Belgium is banning Google from continuing the construction of a large data center. The company continued work while its administrative permits were being challenged.",
-            "stakes": [
-              "Compliance with administrative and zoning rules by digital giants",
-              "The environmental and energy impact of facilities dedicated to artificial intelligence",
-              "Legal disputes between environmental NGOs and tech companies"
-            ],
-            "chart": null
-          },
-          "es": {
-            "title": "Bélgica ordena la suspensión de las obras de un centro de datos de Google",
-            "context": "La empresa estadounidense Google emprendió la construcción de un vasto centro de datos en el sur de Bélgica para satisfacer las necesidades de sus infraestructuras informáticas.",
-            "summary": "Las autoridades regionales belgas ordenaron a la empresa suspender inmediatamente los trabajos de excavación y construcción. El decreto responde a un recurso administrativo que impugna la validez del permiso de urbanismo, un procedimiento que aún no ha concluido. Una investigación de la ONG Greenpeace documentó que las operaciones de construcción continuaban en el sitio a pesar de la situación jurídica litigiosa.",
-            "plain": "EN CLARO: Bélgica prohíbe a Google continuar la construcción de un gran centro de datos. La empresa seguía con las obras mientras sus autorizaciones administrativas eran objeto de recurso.",
-            "stakes": [
-              "El respeto de las normas administrativas y urbanísticas por parte de los gigantes tecnológicos",
-              "El impacto medioambiental y energético de las instalaciones dedicadas a la inteligencia artificial",
-              "Los litigios jurídicos entre asociaciones ecologistas y empresas tecnológicas"
-            ],
-            "chart": null
-          }
+          "url": "https://static.dw.com/image/80080980_6.jpg",
+          "credit": "Deutsche Welle",
+          "link": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-world-4025-rdf"
         }
       }
     ]
   },
-  "storiesAt": "2026-11-27T19:10:15.064Z",
-  "inputHash": "23a5a0dd4de6c5f69ceb9dca1842462b3453191e",
+  "storiesAt": "2026-11-27T23:51:16.549Z",
+  "inputHash": "f61182c7ea322eda7218c7349ead91dfd42605fa",
   "synthStatus": "ok",
   "news": {
     "france": [
       {
-        "id": "aae2599ce7f",
-        "title": "Au Mexique, Nestlé accusé d’exploiter ses caféiculteurs : la colère enfle",
-        "link": "https://www.ouest-france.fr/monde/mexique/au-mexique-nestle-accuse-dexploiter-ses-cafeiculteurs-la-colere-enfle-247d49ae-ea74-11f1-bb2d-c71dc7920c2a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-        "summary": "Depuis le 23 novembre, des producteurs de café dans le sud du Mexique manifestent contre la baisse imposée par Nestlé du prix d’achat de leur grain.",
-        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExNDNkZDIxZTZjNWViMjViZmRiMTg0YTliNWY3NmQ4NjI?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=eac5fe60e618ff2f8102e5374ad825e4f2f8b3dfdbab6afc526abefef5dff380",
-        "publishedAt": "2026-11-27T19:06:18.000Z",
+        "id": "a749ad8d0e0",
+        "title": "Stade Brestois. « Je suis fier d’être leur coach » : Julien Lachuer admiratif après la victoire contre le Paris FC",
+        "link": "https://www.ouest-france.fr/sport/football/stade-brestois/stade-brestois-je-suis-fier-detre-leur-coach-julien-lachuer-admiratif-apres-la-victoire-contre-le-paris-fc-9b1dbd5c-eab8-11f1-bb2d-c71dc7920c2a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Le Stade Brestois a signé une quatrième victoire de rang, toujours sans prendre de but, en faisant tomber le Paris FC (1-0), ce vendredi 27 novembre. Le club finistérien est provisoirement sur le podium de la Ligue 1.",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExOTgxZTFhNDkwNDRlOGExMGEyODMyYTM3Njg2MTc4YWU?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=2ee8cb6a5df09bbecaa81d9a31c798b3cfc905a57eb6a75012e3b3c940485c99",
+        "publishedAt": "2026-11-27T23:29:06.000Z",
         "source": "Ouest-France",
         "lang": "fr",
         "country": "FR",
         "lean": 0
       },
       {
-        "id": "a37de25a285",
-        "title": "Présidentielle 2027 : Marine Le Pen veut soulager la fiscalité des TPE et PME",
-        "link": "https://www.valeursactuelles.com/economie/presidentielle-2027-marine-le-pen-veut-soulager-la-fiscalite-des-tpe-et-pme",
-        "summary": "Depuis plusieurs mois, Marine Le Pen tente de rassurer les milieux économiques sur les ambitions socialistes que lui prêtent ses concurrents de droite. Cette fois, ce sont les petits patrons... L’article Présidentielle 2027 : Marine Le Pen veut soulager la fiscalité des TPE et PME est apparu en prem",
+        "id": "a8afe30a617",
+        "title": "Marguerite Thiam, le saut dans l’avenir",
+        "link": "https://www.liberation.fr/culture/musique/marguerite-thiam-le-saut-dans-lavenir-20261127_TKBNRB4PWVG5VECLAN2B2FFB4Y/",
+        "summary": "La chanteuse, actrice et réalisatrice, donne de nouvelles tonalités à son rap mélancolique et règle ses comptes avec une adolescence douloureuse.",
         "image": null,
-        "publishedAt": "2026-11-27T19:00:26.000Z",
-        "source": "Valeurs actuelles",
+        "publishedAt": "2026-11-27T21:59:00.000Z",
+        "source": "Libération",
         "lang": "fr",
         "country": "FR",
-        "lean": 2
+        "lean": -1.5
       },
       {
-        "id": "adbed852394",
-        "title": "IA, bourse, épargne-retraite… Nvidia, le géant dont les États-Unis ne peuvent plus se passer",
-        "link": "https://www.la-croix.com/economie/ia-bourse-epargne-retraite-nvidia-le-geant-dont-les-etats-unis-ne-peuvent-plus-se-passer-20261127",
-        "summary": "Onze jours après avoir démissionné pour une liaison avec une possible espionne chinoise, Jensen Huang a été rappelé à la tête de Nvidia sous la pression de Donald Trump. Un retournement spectaculaire qui révèle la dépendance de l’économie américaine à l’égard du géant de l’intelligence artificielle.",
-        "image": "https://i.la-croix.com/x/2026/11/27/2600714-le-depart-de-jensen-huang-le-12-novembre-avait-fai.jpg",
-        "publishedAt": "2026-11-27T18:59:57.000Z",
-        "source": "La Croix",
+        "id": "a6f5c082807",
+        "title": "Dans les Aravis, le VTT électrique prend la pente",
+        "link": "https://www.liberation.fr/forums/dans-les-aravis-le-vtt-electrique-prend-la-pente-20261127_NRCCXLLRVFEKLBXHNGVZJ3SIFM/",
+        "summary": "Au Grand-Bornand, un couple de passionnés proposent des balades en VTT à assistance électrique sur les chemins skiables.",
+        "image": null,
+        "publishedAt": "2026-11-27T21:46:00.000Z",
+        "source": "Libération",
         "lang": "fr",
         "country": "FR",
-        "lean": 0.5
+        "lean": -1.5
       },
       {
-        "id": "afdffa19645",
-        "title": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne revendique le bombardement d’une « usine stratégique » et la destruction de réservoirs dans une raffinerie en Russie",
-        "link": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-l-armee-ukrainienne-revendique-le-bombardement-d-une-usine-strategique-et-la-destruction-de-reservoirs-dans-une-raffinerie-en-russie_6814183_3210.html",
-        "summary": "Kiev affirme avoir touché l’usine de caoutchouc synthétique d’Iefremov, dans l’oblast de Toula, et la raffinerie de Novochakhtinsk, dans la région de Rostov.",
-        "image": "https://img.lemde.fr/2026/11/27/669/0/4000/2000/644/322/60/0/f96082b_upload-1-qgplu7ay902k-incendie-drone-kharkiv-4.jpg",
-        "publishedAt": "2026-11-27T18:56:38.000Z",
-        "source": "Le Monde",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1
-      },
-      {
-        "id": "a15592069a7",
-        "title": "Des lettres de menaces de mort ont été adressées à deux membres du personnel du lycée Emile-Dubois, à Paris, des plaintes ont été déposées (rectorat)",
-        "link": "https://www.franceinfo.fr/faits-divers/des-lettres-de-menaces-de-mort-ont-ete-adressees-a-deux-membres-du-personnel-du-lycee-emile-dubois-a-paris-des-plaintes-ont-ete-deposees-rectorat_8303700.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "Des plaintes ont été déposées par un établissement du 14e arrondissement de Paris, marqué depuis plusieurs semaines par des tensions et des incidents, après des menaces de mort.",
-        "image": "https://www.franceinfo.fr/pictures/13l0TNT2BKabh6poBvhUERoh330/0x118:787x562/432x243/filters:format(jpg)/2016/10/19/phpDE7yiP_1.jpg",
-        "publishedAt": "2026-11-27T18:48:16.000Z",
+        "id": "a500e99d066",
+        "title": "Coup d'envoi du marché de Noël de Strasbourg qui accueille plus de trois millions de visiteurs chaque année",
+        "link": "https://www.franceinfo.fr/decouverte/noel/coup-d-envoi-du-marche-de-noel-de-strasbourg-qui-accueille-plus-de-trois-millions-de-visiteurs-chaque-annee_8303811.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Le plus grand marché de Noël de France, à Strasbourg, dans le Bas-Rhin, a ouvert ses portes vendredi 27 novembre. Cette année, des portiques pour détecter les métaux ont été installés.",
+        "image": "https://www.franceinfo.fr/pictures/-E-PyujbLZGk-5YlcPnl1E7rxU0/0x0:1484x835/432x243/filters:format(jpg)/2026/11/27/6b09f438d9049563516647.jpg",
+        "publishedAt": "2026-11-27T21:26:18.000Z",
         "source": "franceinfo",
         "lang": "fr",
         "country": "FR",
         "lean": 0
       },
       {
-        "id": "a655ba1cc7a",
-        "title": "Amazon liquide ses stocks LEGO : moins de 12 € pour ce set numéro 1 des ventes du Black Friday",
-        "link": "https://www.lefigaro.fr/bons-plans/black-friday/amazon-liquide-ses-stocks-lego-moins-de-12-pour-ce-set-numero-1-des-ventes-du-black-friday-20261127",
-        "summary": "Vous cherchez une idée cadeau originale qui fait sourire dès l’ouverture de la boîte ? Les fleurs LEGO Botanicals Petites plantes dansantes transforment un moment de construction créative en une décoration pleine de bonne humeur. Saisissez cette remise de 40 % pour habiller un bureau ou une chambre.",
-        "image": "https://i.f1g.fr/media/cms/1200x800_crop/2026/11/25/27b7ada6261d07a476096de24d62ba5a546e095805f5dae2921fa3f6326774be.jpg",
-        "publishedAt": "2026-11-27T18:45:00.000Z",
+        "id": "a8560479404",
+        "title": "L’agence S&P menace de dégrader encore la note de la France, entrée en récession",
+        "link": "https://www.lemonde.fr/politique/article/2026/11/27/l-agence-s-p-menace-de-degrader-encore-la-note-de-la-france-entree-en-recession_6815934_823448.html",
+        "summary": "Vendredi, l’agence américaine a assorti d’une perspective négative la note actuelle de la dette française. Cela ouvre la voie à une possible dégradation à moyen terme. Le dérapage du déficit inquiète les investisseurs.",
+        "image": "https://img.lemde.fr/2026/11/03/785/0/8000/4000/644/322/60/0/c6582aa_upload-1-v9n52f7i3umq-jmug261103004.jpg",
+        "publishedAt": "2026-11-27T21:18:33.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "ac5ef974ecd",
+        "title": "Souveraineté, défense commune, préférence européenne… Emmanuel Macron voit son bilan européen lui échapper",
+        "link": "https://www.lefigaro.fr/international/souverainete-defense-commune-preference-europeenne-emmanuel-macron-voit-son-bilan-europeen-lui-echapper-20261127",
+        "summary": "ANALYSE - Face au front des pays « frugaux », le président français peine à imposer sa vision de l’avenir européen. Il se heurte à des résistances croissantes, jusque chez ses partenaires les plus proches.",
+        "image": "https://i.f1g.fr/media/cms/3000x2074_crop/2026/11/27/c09c2cd9b367064b143960f27c4516cd46d5e7445e746e38e1f46e2b0c33ed2f.jpg",
+        "publishedAt": "2026-11-27T21:17:55.000Z",
         "source": "Le Figaro",
         "lang": "fr",
         "country": "FR",
         "lean": 1.5
       },
       {
-        "id": "aca2bdd5e12",
-        "title": "Sécher son linge sans sèche-linge en hiver : la technique miracle que j’ai piquée à mes amis",
-        "link": "https://www.lefigaro.fr/bons-plans/maison/secher-son-linge-sans-seche-linge-en-hiver-la-technique-miracle-que-j-ai-piquee-a-mes-amis-20261127",
-        "summary": "Du linge encore humide après trois jours, une odeur de renfermé et de la buée sur les vitres : chaque hiver, c’était la galère. Jusqu’à ce que je voie comment faisaient mes amis.",
-        "image": "https://i.f1g.fr/media/cms/1200x800_crop/2026/11/26/35646fe2bc6587feb4e8db38dc252625c783109a3837cc2d2db6a3d2b77136ae.jpg",
-        "publishedAt": "2026-11-27T18:45:00.000Z",
+        "id": "a411abf4416",
+        "title": "À 83 ans, elle part seule pour un tour de la Méditerranée en moto",
+        "link": "https://www.lefigaro.fr/automobile/a-83-ans-elle-part-seule-pour-un-tour-de-la-mediterranee-en-moto-20261127",
+        "summary": "PORTRAIT - Doris Lacombe, octogénaire, enfourchera ce samedi 28 novembre une Yamaha 125 cc pour un périple de plusieurs mois. Ses aventures inspirent la communauté des motards et au-delà.",
+        "image": "https://i.f1g.fr/media/cms/1479x832_crop/2026/11/27/4bb81a4a41bd80f9c0817535425c2bb96ea8b2a58da37eff3442bc8b43f6ed4b.jpg",
+        "publishedAt": "2026-11-27T21:02:27.000Z",
         "source": "Le Figaro",
         "lang": "fr",
         "country": "FR",
         "lean": 1.5
+      },
+      {
+        "id": "a2a2b1f418c",
+        "title": "Olivier Maulin : Geneviève Dormann, la Hussarde",
+        "link": "https://www.valeursactuelles.com/clubvaleurs/culture/olivier-maulin-genevieve-dormann-la-hussarde",
+        "summary": "Un peu plus de dix ans après sa mort, une belle évocation de Geneviève Dormann (1933-2015) est sortie en librairie ces jours-ci, que l’on doit à Frédéric Andrau (Geneviève Dormann,... L’article Olivier Maulin : Geneviève Dormann, la Hussarde est apparu en premier sur Valeurs actuelles .",
+        "image": null,
+        "publishedAt": "2026-11-27T21:00:10.000Z",
+        "source": "Valeurs actuelles",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
+      },
+      {
+        "id": "a3f7f5d6311",
+        "title": "Un sapin dans un chalet, une facture salée et une crèche XXL… L'actualité du vendredi 27 novembre résumée en images",
+        "link": "https://www.franceinfo.fr/france/auvergne-rhone-alpes/haute-savoie/un-sapin-dans-un-chalet-une-facture-salee-et-une-creche-xxl-l-actualite-du-vendredi-27-novembre-resumee-en-images_8303793.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Le JT de France 2 du vendredi 27 novembre revient sur trois faits d'actualité marquants du jour en photos. Au programme, un chalet détruit par un arbre, des dégâts considérables dans une université toulousaine et une statue de Jésus de trois mètres de haut.",
+        "image": "https://www.franceinfo.fr/pictures/VRoPfUqH9U8JQaxpt2nBlxO-uKw/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/27/6b09ecd36f4af392367486.jpg",
+        "publishedAt": "2026-11-27T20:52:28.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "ab7706b064e",
+        "title": "Mathilde Panot et trois autres députés « insoumis » visés par des menaces de mort provenant d’une adresse e-mail reprenant le nom de l’auteur de l’attentat raciste de Trappes",
+        "link": "https://www.lemonde.fr/societe/article/2026/11/27/mathilde-panot-et-trois-autres-deputes-insoumis-vises-par-des-menaces-de-mort-provenant-d-une-adresse-e-mail-reprenant-le-nom-de-l-auteur-de-l-attentat-raciste-de-trappes_6815932_3224.html",
+        "summary": "Dans son courrier envoyé à Laure Beccuau, la procureure de Paris, Mathilde Panot évoque des e-mails provenant de l’adresse « kevintessierleheros@outlook.fr » et également envoyés aux députés Danièle Obono, Manuel Bompard et Aly Diouara.",
+        "image": "https://img.lemde.fr/2026/11/08/488/0/4724/2362/644/322/60/0/4fb6957_upload-1-f0yobxmak7pb-mmagnin-meeting-melenchon-21.jpg",
+        "publishedAt": "2026-11-27T20:40:43.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "a03da83fad8",
+        "title": "Canada : la Cour suprême consacre la laïcité au Québec dans une décision historique",
+        "link": "https://www.la-croix.com/international/canada-la-cour-supreme-consacre-la-laicite-au-quebec-dans-une-decision-historique-20261127",
+        "summary": "La Cour suprême du Canada a validé vendredi 27 novembre la quasi-totalité de la loi sur la laïcité du Québec, adoptée en 2019 et contestée depuis lors devant les tribunaux. Une seule disposition a été écartée.",
+        "image": "https://i.la-croix.com/x/2026/11/27/2600792-maxppp-tagid-ibpremiumfive352963jpgphoto-via-maxpp.jpg",
+        "publishedAt": "2026-11-27T20:21:42.000Z",
+        "source": "La Croix",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0.5
       },
       {
         "id": "a9fd0b6210f",
@@ -1379,54 +917,6 @@
         "lang": "fr",
         "country": "FR",
         "lean": -2
-      },
-      {
-        "id": "a0b80df0c5b",
-        "title": "Le responsable du programme présidentiel de Marine Le Pen, Ambroise de Rancourt, soupçonné d’être le principal destinataire de la fuite de documents de Beauvau vers le RN",
-        "link": "https://www.lemonde.fr/societe/article/2026/11/27/ambroise-de-rancourt-le-responsable-du-programme-presidentiel-de-marine-le-pen-soupconne-d-etre-le-principal-destinataire-de-la-fuite-de-documents-de-beauvau-vers-le-rn_6815924_3224.html",
-        "summary": "Selon les informations du « Monde », l’énarque de 39 ans est celui qui a été visé par la perquisition de l’IGPN au siège du parti d’extrême droite, le 9 novembre.",
-        "image": "https://img.lemde.fr/2026/11/27/397/0/7552/3776/644/322/60/0/a785bb9_upload-1-ptamscm4pcb0-ag4903020.jpg",
-        "publishedAt": "2026-11-27T18:35:49.000Z",
-        "source": "Le Monde",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1
-      },
-      {
-        "id": "af0479359c7",
-        "title": "A Chamonix, un menuisier fait ski de tout bois",
-        "link": "https://www.liberation.fr/forums/a-chamonix-un-menuisier-fait-ski-de-tout-bois-20261127_6UDQREDY7VD3HGXCQV7WRTBYQA/",
-        "summary": "Peter Steltzner vend chaque année une soixantaine de skis en frêne, ne retenant que des arbres sélectionnés drastiquement.",
-        "image": null,
-        "publishedAt": "2026-11-27T18:22:00.000Z",
-        "source": "Libération",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1.5
-      },
-      {
-        "id": "ae52ac4cb90",
-        "title": "Mort de l’arrangeur Jean-Claude Vannier, artisan invisible du sublime comme de l’ordinaire",
-        "link": "https://www.liberation.fr/culture/musique/mort-de-jean-claude-vannier-arrangeur-historique-de-serge-gainsbourg-20261127_XCWLPFFNIRHQZINVDIFL23IP6I/",
-        "summary": "Trop souvent réduit à sa collaboration avec Serge Gainsbourg sur le culte «l’Histoire de Melody Nelson», le musicien qui a mis son éventail de talents au service des grands noms de la chanson française laisse derrière lui un corpus faramineux. Il est mort jeudi 26 novembre à 83 ans.",
-        "image": null,
-        "publishedAt": "2026-11-27T18:20:24.000Z",
-        "source": "Libération",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1.5
-      },
-      {
-        "id": "aa76dfa3d00",
-        "title": "Marine Le Pen promet une \"grande loi-programme\" pour l'outre-mer",
-        "link": "https://www.franceinfo.fr/france/outremer/marine-le-pen-promet-une-grande-loi-programme-pour-l-outre-mer_8303604.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "Cette présentation des grandes lignes de son programme pour les outre-mer intervient alors que Jordan Bardella se rendra lundi en Martinique et en Guadeloupe.",
-        "image": "https://www.franceinfo.fr/pictures/LhSsGCeE8slY9wOPV1R1Iu-rC9k/0x300:5760x3540/432x243/filters:format(jpg)/2026/11/27/6b09c28a111fa133812101.jpg",
-        "publishedAt": "2026-11-27T17:49:35.000Z",
-        "source": "franceinfo",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 0
       },
       {
         "id": "a7b7c66abde",
@@ -1455,72 +945,72 @@
     ],
     "monde": [
       {
-        "id": "a154d3b09c0",
-        "title": "Italy edge out Fiji in Nations Championship at sparse Twickenham",
-        "link": "https://www.telegraph.co.uk/rugby-union/2026/11/27/italy-v-fiji-live-score-latest-nations-championship-finals/",
-        "summary": "Italy edge out Fiji in Nations Championship at sparse Twickenham",
-        "image": "https://www.telegraph.co.uk/content/dam/rugby-union/2026/11/27/TELEMMGLPICT000513175073_17957981376700_trans_NvBQzQNjv4BqPkPWLXP_iG_X2Wo3V95CStEgVipCcYG_lNXo9zZTqHc.jpeg",
-        "publishedAt": "2026-11-27T19:00:29.000Z",
-        "source": "The Telegraph",
-        "lang": "en",
-        "country": "GB",
-        "lean": 1.5
-      },
-      {
-        "id": "a4d345bd13c",
-        "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-        "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-        "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg",
-        "publishedAt": "2026-11-27T18:52:33.000Z",
-        "source": "BBC News",
-        "lang": "en",
-        "country": "GB",
-        "lean": 0
-      },
-      {
-        "id": "a5e6bff0510",
-        "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-        "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-        "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg",
-        "publishedAt": "2026-11-27T18:42:50.000Z",
-        "source": "BBC News",
-        "lang": "en",
-        "country": "GB",
-        "lean": 0
-      },
-      {
-        "id": "a094da32d37",
-        "title": "Police suspect criminals robbed fans at Manchester gig disrupted by ‘unknown substance’",
-        "link": "https://www.theguardian.com/uk-news/2026/nov/27/police-believe-criminals-carried-out-robberies-during-don-toliver-manchester-gig-unknown-substance",
-        "summary": "Police are working with agencies across Europe after similar incidents occurred at two other Don Toliver concerts A group of organised criminals are believed to have carried out robberies during Don Toliver’s Manchester concert, where an “unknown substance” was released , police have said, with simi",
-        "image": "https://i.guim.co.uk/img/media/239301b7758332abf6acf18eeafb853fd3473da6/490_0_4875_3902/master/4875.jpg?width=140&quality=85&auto=format&fit=max&s=2908b82543ac6d1b0357a87450249f14",
-        "publishedAt": "2026-11-27T18:35:45.000Z",
-        "source": "The Guardian",
-        "lang": "en",
-        "country": "GB",
-        "lean": -1.5
-      },
-      {
-        "id": "a216c8d5b0a",
-        "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-        "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-        "summary": "Am Samstag ist es teils sonnig, teils hochnebelartig bewölkt oder neblig. Im Tagesverlauf nehmen die Sonnenanteile zu. Es bleibt trocken bei -3 bis +4 Grad.",
-        "image": "https://images.tagesschau.de/image/e7904a01-0786-494a-996d-b1dfd43b3049/AAABoh5Atxw/AAABnSSvrFg/16x9-big/teaserbild-124.jpg?width=1920",
-        "publishedAt": "2026-11-27T18:24:47.000Z",
+        "id": "a4f1d7bf044",
+        "title": "Entwurf für Spritpreisdeckel liegt vor - Kabinett beschließt am Mittwoch",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
+        "summary": "Ein werktags berechneter Höchstpreis, Bußgeld bei Nichteinhaltung und Ausnahmen an Autobahnen: Der Spritpreisdeckel soll ab Januar gelten. Ein Entwurf ist nun in der Abstimmung. Das Kabinett könnte darüber am Mittwoch entscheiden.",
+        "image": "https://images.tagesschau.de/image/cf5a8317-6f6d-4d52-8005-d01621cc19e2/AAABoZwyatQ/AAABnSSvrFg/16x9-big/tankstelle-394.jpg?width=1920",
+        "publishedAt": "2026-11-27T23:35:35.000Z",
         "source": "Tagesschau",
         "lang": "de",
         "country": "DE",
         "lean": 0
       },
       {
-        "id": "a023e31874b",
-        "title": "Divisions deepen between EU member states after tense budget summit",
-        "link": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-world-4025-rdf",
-        "summary": "An EU leaders summit on the bloc's seven-year budget fell apart amid divisions over how to fund Ukraine. The budget proposal also includes a 3% tax on US tech companies, in a bid for the EU to generate additional funds.",
+        "id": "a3f56a86150",
+        "title": "Schools in England must set aside time for pupils to read for pleasure",
+        "link": "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
+        "summary": "Education secretary expected to announce measures as part of proposed reforms to national curriculum Schools in England will have to allocate time for children to read for pleasure as part of Labour’s proposed major reforms of the national curriculum. The education secretary, Lucy Powell, is expecte",
+        "image": "https://i.guim.co.uk/img/media/6e4183abedc6c8a85e09398416b87c9824ecbfc8/238_298_4221_3378/master/4221.jpg?width=140&quality=85&auto=format&fit=max&s=4659c40391e4a2d7ff307e837a3c3944",
+        "publishedAt": "2026-11-27T23:34:55.000Z",
+        "source": "The Guardian",
+        "lang": "en",
+        "country": "GB",
+        "lean": -1.5
+      },
+      {
+        "id": "a32c892e666",
+        "title": "Alonso crisis deepens as chaotic Chelsea lose and fans taunt own player",
+        "link": "https://www.telegraph.co.uk/football/2026/11/27/nottingham-forest-chelsea-team-news-build-up-premier-league/",
+        "summary": "Alonso crisis deepens as chaotic Chelsea lose and fans taunt own player",
+        "image": "https://www.telegraph.co.uk/content/dam/football/2026/11/27/TELEMMGLPICT000513203850_17958172786120_trans_NvBQzQNjv4BqIB5PoSxONWcMU7PgqLBwN2ThLPborZ72qmqSj1IdpLs.jpeg",
+        "publishedAt": "2026-11-27T23:13:10.000Z",
+        "source": "The Telegraph",
+        "lang": "en",
+        "country": "GB",
+        "lean": 1.5
+      },
+      {
+        "id": "a60b47dd99c",
+        "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+        "link": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+        "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c091/live/9ead0190-ea44-11f1-9fc4-ef897a334b75.jpg",
+        "publishedAt": "2026-11-27T23:02:35.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      },
+      {
+        "id": "a4571de9aa2",
+        "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+        "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg",
+        "publishedAt": "2026-11-27T21:55:53.000Z",
+        "source": "BBC News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0
+      },
+      {
+        "id": "acff6cea7a4",
+        "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
+        "link": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-world-4025-rdf",
+        "summary": "Quebec's government passed Bill 21 to ban religious symbols for public servants, arguing it was necessary to protect its secularist society. Critics argue the bill weakens legal protections for fundamental rights.",
         "image": null,
-        "publishedAt": "2026-11-27T16:51:00.000Z",
+        "publishedAt": "2026-11-27T20:43:00.000Z",
         "source": "Deutsche Welle",
         "lang": "en",
         "country": "DE",
@@ -1539,12 +1029,12 @@
         "lean": -1.5
       },
       {
-        "id": "a9eeaf3dc67",
-        "title": "Kenyan cult leader in jail for 191 murders convicted over another 123 deaths",
-        "link": "https://news.sky.com/story/kenyan-cult-leader-in-jail-for-191-murders-convicted-over-another-123-deaths-13617227",
-        "summary": "A Kenyan cult leader has been convicted of manslaughter over the deaths of 123 of his followers, having already been found guilty of murdering 191 others.",
-        "image": "https://e3.365dm.com/26/11/1920x1080/skynews-paul-mackenzie-good-news-international_7398786.jpg?20261127144057",
-        "publishedAt": "2026-11-27T14:30:00.000Z",
+        "id": "a941ef3033d",
+        "title": "Amazon staff to strike and rally on busiest weekend of the year",
+        "link": "https://news.sky.com/story/amazon-staff-to-strike-and-rally-on-busiest-weekend-of-the-year-13617042",
+        "summary": "Amazon employees around the world are set to stage protests on Black Friday amid claims of unfair pay and oppressive working conditions.",
+        "image": "https://e3.365dm.com/26/11/1920x1080/skynews-amazon-germany_7417550.jpg?20261127015645",
+        "publishedAt": "2026-11-27T03:03:00.000Z",
         "source": "Sky News",
         "lang": "en",
         "country": "GB",
@@ -1647,13 +1137,13 @@
       "name": "The Telegraph (GB)",
       "url": "https://www.telegraph.co.uk/rss.xml",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "name": "Sky News (GB)",
       "url": "https://feeds.skynews.com/feeds/rss/world.xml",
       "ok": true,
-      "count": 6
+      "count": 4
     },
     {
       "name": "Deutsche Welle (DE)",
@@ -1731,7 +1221,7 @@
       "name": "Daily Sabah (TR)",
       "url": "https://www.dailysabah.com/rssFeed/10",
       "ok": true,
-      "count": 7
+      "count": 5
     },
     {
       "name": "The Times of India (IN)",
