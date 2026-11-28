@@ -1,53 +1,28 @@
 {
   "schemaVersion": 2,
   "date": "2026-11-28",
-  "generatedAt": "2026-11-27T23:51:16.550Z",
+  "generatedAt": "2026-11-28T13:28:20.164Z",
   "status": "partielle",
   "stories": {
     "france": [
       {
-        "id": "s8560479404",
+        "id": "s701855566d",
         "topic": "economie",
-        "title": "L'agence S&P abaisse la perspective de la dette française",
-        "context": "L'économie française subit des tensions budgétaires croissantes et une incertitude politique. Le produit intérieur brut de la France s'est contracté au troisième trimestre.",
-        "summary": "L'agence de notation S&P a révisé la perspective de la dette souveraine française de « stable » à « négative », tout en maintenant la note actuelle à A+. Cette décision s'explique par les inquiétudes autour du déficit budgétaire et de l'instabilité politique. En parallèle, le produit intérieur brut a reculé de 0,2 % au troisième trimestre, marquant l'entrée du pays en récession technique. Les oppositions attribuent ces difficultés financières aux choix économiques appliqués depuis plusieurs années. Une dégradation effective de la note de la France pourrait intervenir si la trajectoire budgétaire ne se redresse pas.",
-        "plain": "EN CLAIR : L'agence de notation S&P prévient qu'elle pourrait baisser la note financière de la France car le déficit de l'État s'aggrave. En parallèle, l'économie française s'est contractée de 0,2 % au dernier trimestre, ce qui marque une entrée en récession.",
+        "title": "L'agence S&P Global abaisse la perspective de la dette française à négative",
+        "context": "La France fait face à une augmentation de sa dette publique et à des incertitudes politiques qui pèsent sur ses finances publiques, ce qui pousse les agences de notation à examiner de près sa solidité financière.",
+        "summary": "L'agence de notation financière S&P Global a décidé de maintenir la note souveraine de la France à A+, mais a abaissé sa perspective, la faisant passer de stable à négative. Cette décision, qui ouvre la voie à une éventuelle dégradation future de la note du pays, intervient alors que l'économie française est entrée en récession technique. Le ministre de l'Économie a qualifié cet avis d'avertissement pour les finances publiques. D'après les observateurs, cette situation reflète la vulnérabilité persistante du pays face à l'accumulation de sa dette et aux difficultés politiques.",
+        "plain": "L'agence S&P Global a prévenu qu'elle pourrait bientôt baisser la note financière de la France, estimant que la situation économique et la dette publique se détériorent. Le gouvernement prend cet avertissement très au sérieux alors que le pays traverse une période de ralentissement économique.",
         "chart": null,
         "stakes": [
-          "Quelles seront les conséquences sur le coût des emprunts de l'État ?",
-          "Le gouvernement parviendra-t-il à réduire le déficit public ?",
-          "Quels arbitrages financiers seront faits dans le projet de budget ?"
+          "Quelles seront les mesures budgétaires adoptées par le gouvernement pour rassurer les marchés financiers ?",
+          "Cette menace de dégradation aura-t-elle un impact direct sur le coût d'emprunt de l'État français ?"
         ],
         "sources": [
           {
-            "name": "Le Monde",
-            "title": "L’agence S&P menace de dégrader encore la note de la France, entrée en récession",
-            "link": "https://www.lemonde.fr/politique/article/2026/11/27/l-agence-s-p-menace-de-degrader-encore-la-note-de-la-france-entree-en-recession_6815934_823448.html",
-            "publishedAt": "2026-11-27T21:18:33.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Libération",
-            "title": "Dette : S&P dégrade la perspective française de stable à négative, mais maintient sa note à A+",
-            "link": "https://www.liberation.fr/economie/dette-sp-degrade-la-perspective-francaise-de-stable-a-negative-mais-maintient-sa-note-a-a-20261127_Z5M25BQXERGLXLJDRM5MDHTN5Q/",
-            "publishedAt": "2026-11-27T21:28:50.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "L'Humanité",
-            "title": "Après dix ans de macronisme, la France entre en récession",
-            "link": "https://www.humanite.fr/politique/croissance/apres-dix-ans-de-macronisme-la-france-entre-en-recession",
-            "publishedAt": "2026-11-27T16:59:14.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "Valeurs actuelles",
-            "title": "Après dix ans de Macron, la France en récession et en queue de peloton de la zone euro",
-            "link": "https://www.valeursactuelles.com/economie/apres-dix-ans-de-macron-la-france-en-recession-et-en-queue-de-peloton-de-la-zone-euro",
-            "publishedAt": "2026-11-27T17:30:24.000Z",
+            "name": "L'Express",
+            "title": "Dette : l'agence S&P Global menace de dégrader encore la note de la France, entrée en récession technique",
+            "link": "https://www.lexpress.fr/economie/politique-economique/dette-lagence-sp-global-menace-de-degrader-encore-la-note-de-la-france-entree-en-recession-technique-7XWZZOELLFGKVLJSYI4NRPSP7I/",
+            "publishedAt": "2026-11-28T08:24:09.000Z",
             "lang": "fr",
             "country": "FR"
           },
@@ -55,310 +30,445 @@
             "name": "The Wall Street Journal",
             "title": "S&P Revises Outlook on France’s Credit Rating to Negative From Stable",
             "link": "https://www.wsj.com/world/europe/s-p-revises-outlook-on-french-credit-rating-to-negative-from-stable-eab7384f?mod=rss_worldnews",
-            "publishedAt": "2026-11-27T22:08:00.000Z",
+            "publishedAt": "2026-11-28T10:19:00.000Z",
             "lang": "en",
             "country": "US"
-          }
-        ],
-        "image": {
-          "url": "https://img.lemde.fr/2026/11/03/785/0/8000/4000/644/322/60/0/c6582aa_upload-1-v9n52f7i3umq-jmug261103004.jpg",
-          "credit": "Le Monde",
-          "link": "https://www.lemonde.fr/politique/article/2026/11/27/l-agence-s-p-menace-de-degrader-encore-la-note-de-la-france-entree-en-recession_6815934_823448.html"
-        }
-      },
-      {
-        "id": "sb472a9ac7a",
-        "topic": "justice",
-        "title": "Gérard Depardieu renvoyé en procès pour viols et agressions sexuelles",
-        "context": "L'acteur Gérard Depardieu fait l'objet de plusieurs accusations de violences sexuelles. La comédienne Charlotte Arnould a déposé plainte contre lui pour des faits remontant à 2018.",
-        "summary": "La justice a ordonné le renvoi de l'acteur Gérard Depardieu devant un tribunal correctionnel pour y répondre d'accusations de viols et d'agressions sexuelles. Les poursuites découlent des dénonciations formulées par l'actrice Charlotte Arnould concernant deux événements survenus à Paris en 2018. Cette décision constitue une étape symbolique importante dans la prise en compte du mouvement MeToo au sein de l'industrie cinématographique française. L'acteur rejette l'ensemble des accusations formulées à son encontre.",
-        "plain": "EN CLAIR : L'acteur Gérard Depardieu va être jugé devant un tribunal après la plainte pour viol déposée par la comédienne Charlotte Arnould. L'ancien géant du cinéma français nie les faits qui lui sont reprochés.",
-        "chart": null,
-        "stakes": [
-          "Comment le tribunal évaluera-t-il les témoignages apportés à l'audience ?",
-          "Quel impact ce procès aura-t-il sur l'industrie du cinéma tricolore ?",
-          "Quelle sera la stratégie de défense déployée par l'acteur ?"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "title": "⁠Gérard Depardieu to face trial on charges ‌of raping ​actor Charlotte ⁠Arnould",
-            "link": "https://www.theguardian.com/film/2026/nov/26/gerard-depardieu-face-trial-charges-rape-charlotte-arnould",
-            "publishedAt": "2026-11-26T16:26:57.000Z",
-            "lang": "en",
-            "country": "GB"
           },
           {
-            "name": "NPR",
-            "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
-            "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
-            "publishedAt": "2026-11-27T11:49:50.000Z",
-            "lang": "en",
-            "country": "US"
+            "name": "Euronews",
+            "title": "S&P abaisse la perspective de la France : un « avertissement » selon le ministre de l’Économie",
+            "link": "https://fr.euronews.com/2026/11/28/sp-abaisse-la-perspective-de-la-france-un-avertissement-selon-le-ministre-de-leconomie",
+            "publishedAt": "2026-11-28T13:21:43.000Z",
+            "lang": "fr",
+            "country": "FR"
           }
         ],
         "image": {
-          "url": "https://i.guim.co.uk/img/media/77c1290946fbdd15e68d25b6743cbc9fc073d064/518_182_2849_2280/master/2849.jpg?width=140&quality=85&auto=format&fit=max&s=c741817dbb83834a43fd33c10ca19cfc",
-          "credit": "The Guardian",
-          "link": "https://www.theguardian.com/film/2026/nov/26/gerard-depardieu-face-trial-charges-rape-charlotte-arnould"
-        }
-      },
-      {
-        "id": "sab9dbe7d9d",
-        "topic": "politique",
-        "title": "Teddy Riner visite la prison de Béziers pour présenter ses propositions",
-        "context": "Le judoka Teddy Riner s'est engagé dans la campagne pour l'élection présidentielle. Il effectue des déplacements ciblés sur le territoire français pour exposer ses orientations politiques.",
-        "summary": "Teddy Riner s'est rendu à Béziers aux côtés du maire Robert Ménard pour effectuer la visite du centre pénitentiaire du Gasquinoy. Lors de cette étape, le candidat à la présidentielle a partagé sa vision sur le système judiciaire, défendant la construction de nouvelles places de prison et le changement des conditions de détention. Son déplacement dans cette ville du Sud a suscité des réactions contrastées parmi les observateurs politiques. Certains dénoncent un manque de propositions concrètes, tandis que d'autres examinent la portée de son positionnement régalien.",
-        "plain": "EN CLAIR : En déplacement à Béziers, le candidat à la présidentielle Teddy Riner a visité un centre pénitentiaire et s'est exprimé sur la justice. Il propose d'augmenter le nombre de places de prison en France.",
-        "chart": null,
-        "stakes": [
-          "Comment le candidat construira-t-il la suite de son programme politique ?",
-          "Quel accueil les électeurs accorderont-ils à son positionnement sur les sujets régaliens ?",
-          "Quelles alliances locales ou nationales Teddy Riner cherchera-t-il à conclure ?"
-        ],
-        "sources": [
-          {
-            "name": "Libération",
-            "title": "A Béziers, Teddy Riner, toujours en panne d’idées, fait du lèche-vitrine",
-            "link": "https://www.liberation.fr/politique/elections/a-beziers-teddy-riner-toujours-en-panne-didees-fait-du-leche-vitrine-20261127_3UT4HCLVPFDLPPTZL24OKI4XMU/",
-            "publishedAt": "2026-11-27T20:14:04.000Z",
-            "lang": "fr",
-            "country": "FR"
+          "url": "https://www.lexpress.fr/resizer/v2/AVJC7M5KVVDBXCYDIOLZNORUZ4.JPG?auth=8af5327a33041b2a36c7e27f47c8a558d23cabb2d6072aa76d154cf632d42fdd&smart=true&width=7809&height=5206",
+          "credit": "L'Express",
+          "link": "https://www.lexpress.fr/economie/politique-economique/dette-lagence-sp-global-menace-de-degrader-encore-la-note-de-la-france-entree-en-recession-technique-7XWZZOELLFGKVLJSYI4NRPSP7I/"
+        },
+        "i18n": {
+          "en": {
+            "title": "S&P Global lowers outlook on French debt to negative",
+            "context": "France faces rising public debt and political uncertainties weighing on its public finances, prompting rating agencies to closely examine its financial strength.",
+            "summary": "Financial rating agency S&P Global has decided to maintain France's sovereign rating at A+, but lowered its outlook from stable to negative. This decision, which paves the way for a potential future downgrade of the country's rating, comes as the French economy has entered a technical recession. The Minister of Economy described this assessment as a warning for public finances. According to observers, this situation reflects the country's persistent vulnerability to accumulated debt and political difficulties.",
+            "plain": "S&P Global has warned that it might soon lower France's financial rating, considering that the economic situation and public debt are deteriorating. The government is taking this warning very seriously as the country goes through a period of economic slowdown.",
+            "stakes": [
+              "What budgetary measures will the government adopt to reassure the financial markets?",
+              "Will this downgrade threat have a direct impact on the French state's borrowing costs?"
+            ],
+            "chart": null
           },
-          {
-            "name": "Le JDD",
-            "title": "Présidentielle 2027 : nouvelles prisons, conditions de détention… Ce que Teddy Riner propose pour la justice",
-            "link": "https://www.lejdd.fr/politique/presidentielle-2027-nouvelles-prisons-conditions-de-detention-ce-que-teddy-riner-propose-pour-la-justice-189837",
-            "publishedAt": "2026-11-27T16:33:19.000Z",
-            "lang": "fr",
-            "country": "FR"
+          "es": {
+            "title": "La agencia S&P Global rebaja a negativa la perspectiva de la deuda francesa",
+            "context": "Francia se enfrenta a un aumento de su deuda pública y a incertidumbres políticas que pesan sobre sus finanzas públicas, lo que empuja a las agencias de calificación a examinar de cerca su solidez financiera.",
+            "summary": "La agencia de calificación financiera S&P Global decidió mantener la calificación soberana de Francia en A+, pero rebajó su perspectiva, pasándola de estable a negativa. Esta decisión, que abre la puerta a una eventual degradación futura de la calificación del país, se produce cuando la economía francesa ha entrado en recesión técnica. El ministro de Economía calificó este dictamen como una advertencia para las finanzas públicas. Según los observadores, esta situación refleja la vulnerabilidad persistente del país frente a la acumulación de su deuda y las dificultades políticas.",
+            "plain": "La agencia S&P Global advirtió que pronto podría bajar la calificación financiera de Francia, al estimar que la situación económica y la deuda pública se están deteriorando. El gobierno toma muy en serio esta advertencia mientras el país atraviesa un periodo de desaceleración económica.",
+            "stakes": [
+              "¿Qué medidas presupuestarias adoptará el gobierno para tranquilizar a los mercados financieros?",
+              "¿Tendrá esta amenaza de degradación un impacto directo en el costo de endeudamiento del Estado francés?"
+            ],
+            "chart": null
           }
-        ],
-        "image": {
-          "url": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/27/17/abaca_1029457_024.jpg?VersionId=4ylRz7HhGPjM5CnQokPK4GRir6LgDIz6",
-          "credit": "Le JDD",
-          "link": "https://www.lejdd.fr/politique/presidentielle-2027-nouvelles-prisons-conditions-de-detention-ce-que-teddy-riner-propose-pour-la-justice-189837"
         }
       },
       {
-        "id": "s7c9ec71838",
-        "topic": "sante",
-        "title": "Des rassemblements et des gaz lacrymogènes soulèvent des questions de santé",
-        "context": "Plusieurs rassemblements de protestation en France ont donné lieu à l'utilisation répétée de produits chimiques de maintien de l'ordre par les forces de sécurité.",
-        "summary": "Près de 10 000 femmes et jeunes filles ayant participé à des manifestations en octobre ont fait part de perturbations de leur santé gynécologique. Ces témoignages font état d'interruptions ou de saignements anormaux qu'elles attribuent à l'exposition aux gaz lacrymogènes employés par la police. Certaines manifestantes indiquent subir ces dysfonctionnements sur de très longues périodes. Ces déclarations ravivent la controverse autour de l'impact sanitaire et environnemental des outils de maintien de l'ordre.",
-        "plain": "EN CLAIR : De nombreuses femmes manifestantes affirment avoir subi des perturbations menstruelles après avoir respiré des gaz lacrymogènes durant les cortèges. Ces témoignages relancent le débat sur les effets de ces produits.",
-        "chart": null,
-        "stakes": [
-          "Des études scientifiques indépendantes évalueront-elles la nocivité de ces produits ?",
-          "Les pratiques de maintien de l'ordre seront-elles modifiées ?",
-          "Comment les institutions médicales prendront-elles en charge les signalements ?"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "title": "Thousands of girls and women report bleeding and miscarriages after French police use of teargas",
-            "link": "https://www.theguardian.com/global-development/2026/nov/27/thousands-of-girls-and-women-report-bleeding-and-miscarriages-after-french-police-use-of-teargas",
-            "publishedAt": "2026-11-27T05:00:54.000Z",
-            "lang": "en",
-            "country": "GB"
-          }
-        ],
-        "image": {
-          "url": "https://i.guim.co.uk/img/media/63a3e1342ed8af11ddc3d2c24aff85ab2c60cfbe/649_17_1271_1017/master/1271.jpg?width=140&quality=85&auto=format&fit=max&s=63d67a596b9f9bc334e6e46af5fb33fa",
-          "credit": "The Guardian",
-          "link": "https://www.theguardian.com/global-development/2026/nov/27/thousands-of-girls-and-women-report-bleeding-and-miscarriages-after-french-police-use-of-teargas"
-        }
-      },
-      {
-        "id": "s4c5c77e193",
-        "topic": "economie",
-        "title": "Les librairies françaises confrontées à une crise économique importante",
-        "context": "La France possède un réseau étendu de librairies indépendantes soutenu par une loi encadrant le prix unique du livre.",
-        "summary": "Les librairies indépendantes françaises connaissent des fermetures d'établissements à un niveau record. Cette situation résulte de la hausse globale des coûts de fonctionnement, des charges fixes et des contraintes spécifiques au marché du livre. Ce recul fragilise la diversité culturelle et restreint la présence des œuvres de nouveaux auteurs dans les rayons. Les professionnels du secteur demandent une intervention des pouvoirs publics pour préserver l'accès à la lecture partout sur le territoire.",
-        "plain": "EN CLAIR : Les librairies indépendantes ferment à un rythme très élevé à cause de la hausse des coûts et des difficultés économiques. Cela menace la diversité des livres et la place réservée aux nouveaux auteurs.",
-        "chart": null,
-        "stakes": [
-          "Quelles aides publiques pourraient être déployées pour soutenir la filière ?",
-          "Comment les acteurs du secteur adapteront-ils leur modèle économique ?",
-          "Quelle sera la visibilité de la création littéraire émergente dans les prochaines années ?"
-        ],
-        "sources": [
-          {
-            "name": "The New York Times",
-            "title": "France’s Bookstores, Beloved Curators of Literature, Are in a Deep Crisis",
-            "link": "https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html",
-            "publishedAt": "2026-11-27T23:11:37.000Z",
-            "lang": "en",
-            "country": "US"
-          }
-        ],
-        "image": {
-          "url": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-france-bookshops-gmfk/27int-france-bookshops-gmfk-mediumSquareAt3X.jpg",
-          "credit": "The New York Times",
-          "link": "https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html"
-        }
-      },
-      {
-        "id": "s2633c70c4b",
-        "topic": "justice",
-        "title": "Des décisions de justice rendues pour agressions sexuelles et violences",
-        "context": "Les juridictions pénales examinent régulièrement des affaires de violences physiques et sexuelles majeures impliquant des personnalités publiques ou religieuses.",
-        "summary": "À Reims, la cour criminelle de la Marne a rendu un jugement condamnant un pasteur de 53 ans à 12 années de réclusion criminelle pour trois viols et une tentative commis sur des fidèles de sa communauté. Parallèlement, la justice a tranché l'affaire des violences commises contre le producteur Michel Zecler en condamnant les policiers mis en cause. Ces décisions marquent une sévérité réaffirmée de l'institution judiciaire face aux faits de violences physiques et d'atteintes sexuelles.",
-        "plain": "EN CLAIR : La justice a condamné un pasteur à 12 ans de prison pour des viols commis à Reims. Dans une autre affaire, les policiers impliqués dans les violences contre Michel Zecler ont également été condamnés.",
-        "chart": null,
-        "stakes": [
-          "Comment les institutions luttent-elles contre les abus de pouvoir en leur sein ?",
-          "Quelles leçons l'institution policière tire-t-elle de la condamnation de ses agents ?",
-          "Quelle est l'évolution des peines retenues pour les violences physiques et sexuelles ?"
-        ],
-        "sources": [
-          {
-            "name": "La Croix",
-            "title": "Un pasteur évangéliste condamné à 12 ans de prison pour trois viols et une tentative parmi ses fidèles",
-            "link": "https://www.la-croix.com/religion/un-pasteur-evangeliste-condamne-a-12-ans-de-prison-pour-trois-viols-et-une-tentative-parmi-ses-fideles-20261127",
-            "publishedAt": "2026-11-27T17:31:51.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "L'Humanité",
-            "title": "Affaire Zecler : la carte de l’ami noir n’a pas sauvé les 3 petits cochons | BANGER 💥 (Yérim Sar)",
-            "link": "https://www.humanite.fr/societe/extreme-droite/affaire-zecler-la-carte-de-lami-noir-na-pas-sauve-les-3-petits-cochons-banger-%f0%9f%92%a5-yerim-sar",
-            "publishedAt": "2026-11-27T15:01:00.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://i.la-croix.com/x/2026/11/27/2600786-un-pasteur-evangeliste-a-ete-condamne-mercredi-25-.jpg",
-          "credit": "La Croix",
-          "link": "https://www.la-croix.com/religion/un-pasteur-evangeliste-condamne-a-12-ans-de-prison-pour-trois-viols-et-une-tentative-parmi-ses-fideles-20261127"
-        }
-      },
-      {
-        "id": "sc3ec32a4e2",
+        "id": "sb77eaf224e",
         "topic": "environnement",
-        "title": "Les sinistrés des inondations du Pas-de-Calais expriment leur exaspération",
-        "context": "Le département du Pas-de-Calais subit à nouveau des épisodes de débordement de cours d'eau touchant un grand nombre de communes et d'habitations.",
-        "summary": "Plus de 200 communes du Pas-de-Calais subissent les effets de la crue de la Canche. Bien que le niveau de l'eau commence à amorcer une décrue, la colère et l'épuisement prédominent parmi les habitants touchés par les inondations. De nombreux sinistrés réclament des travaux d'infrastructure d'urgence pour ne plus revivre ces dégâts chaque hiver. Les acteurs locaux et les services publics sont appelés à fournir des explications sur la gestion des cours d'eau et des ouvrages de protection.",
-        "plain": "EN CLAIR : Plus de 200 communes du Pas-de-Calais ont encore été touchées par des montées d'eau. Les habitants épuisés demandent des travaux pour empêcher ces inondations de se répéter tous les ans.",
+        "title": "Reconnaissance de l'état de catastrophe naturelle pour le Pas-de-Calais",
+        "context": "Les habitants des zones régulièrement touchées par des intempéries peuvent bénéficier de procédures d'indemnisation accélérées grâce à l'intervention des services de l'État.",
+        "summary": "L'état de catastrophe naturelle a été officiellement reconnu pour 227 communes situées dans le Pas-de-Calais à la suite des graves intempéries survenues au mois de novembre. Les personnes sinistrées disposent d'un délai de 30 jours, fixé jusqu'au 28 décembre, pour déclarer l'ensemble des dommages subis auprès de leurs compagnies d'assurance respectives. Cette décision administrative vise à faciliter les démarches de remboursement pour les habitants affectés par les inondations et les dégâts matériels.",
+        "plain": "Après les inondations de novembre, 227 communes du Pas-de-Calais ont obtenu le classement en catastrophe naturelle. Les habitants ont désormais un mois pour contacter leurs assurances et se faire rembourser les dégâts.",
         "chart": null,
         "stakes": [
-          "Quels aménagements seront mis en œuvre pour sécuriser les cours d'eau ?",
-          "Comment les indemnisations d'assurance seront-elles versées aux sinistrés ?",
-          "Quelles solutions à long terme seront proposées aux foyers touchés à répétition ?"
-        ],
-        "sources": [
-          {
-            "name": "Le Monde",
-            "title": "Dans le Pas-de-Calais inondé, la colère des sinistrés : « Ce n’est plus possible. Je ne vais pas attendre tous les hivers le moment où l’eau monte chez moi »",
-            "link": "https://www.lemonde.fr/planete/article/2026/11/27/dans-le-pas-de-calais-inonde-le-ras-le-bol-des-sinistres-faut-imaginer-ce-que-c-est-l-eau-boueuse-qui-monte-chez-vous_6815928_3244.html",
-            "publishedAt": "2026-11-27T19:15:54.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://img.lemde.fr/2026/11/21/493/0/5852/2926/644/322/60/0/a24314a_ftp-1-e79vnsqxbcei-afp-d8996nr.jpg",
-          "credit": "Le Monde",
-          "link": "https://www.lemonde.fr/planete/article/2026/11/27/dans-le-pas-de-calais-inonde-le-ras-le-bol-des-sinistres-faut-imaginer-ce-que-c-est-l-eau-boueuse-qui-monte-chez-vous_6815928_3244.html"
-        }
-      },
-      {
-        "id": "sdbeea9e0ce",
-        "topic": "societe",
-        "title": "La place de la tradition et des symboles religieux suscite des contestations locales",
-        "context": "L'application des règles de laïcité et la gestion des éléments du patrimoine rural font l'objet de différends réguliers dans les territoires français.",
-        "summary": "À Nomexy, dans les Vosges, la Ligue des droits de l'Homme a engagé un recours devant le tribunal administratif pour faire retirer une crèche de Noël installée dans l'enceinte de la mairie. Dans une autre affaire locale liée aux traditions, la municipalité de La Garnache fait face à une contestation des riverains concernant le son des cloches de l'église durant la nuit. Ces querelles traduisent la difficulté de concilier la laïcité institutionnelle, le patrimoine culturel et la tranquillité publique dans les communes.",
-        "plain": "EN CLAIR : Une crèche de Noël installée dans une mairie des Vosges est attaquée en justice par une association. En Vendée, les habitants se déchirent sur les sonneries de cloches la nuit.",
-        "chart": null,
-        "stakes": [
-          "Quelle décision la justice administrative rendra-t-elle sur la crèche dans la mairie ?",
-          "Comment les maires peuvent-ils préserver le patrimoine rural face aux plaintes de voisinage ?",
-          "Comment évolue la jurisprudence sur les symboles religieux dans l'espace public ?"
-        ],
-        "sources": [
-          {
-            "name": "Le JDD",
-            "title": "Crèche de Noël en mairie : la Ligue des droits de l’Homme saisit la justice dans les Vosges",
-            "link": "https://www.lejdd.fr/Societe/creche-de-noel-en-mairie-la-ligue-des-droits-de-lhomme-saisit-la-justice-dans-les-vosges-189813",
-            "publishedAt": "2026-11-27T14:02:55.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "The Guardian",
-            "title": "French town divided over church bells ringing every 15 minutes at night",
-            "link": "https://www.theguardian.com/world/2026/nov/27/for-whom-the-bells-troll-french-town-divided-over-churchs-night-time-chimes",
-            "publishedAt": "2026-11-27T10:46:57.000Z",
-            "lang": "en",
-            "country": "GB"
-          }
-        ],
-        "image": {
-          "url": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/27/14/capture-decran-2026-11-27-a-14.47.57.jpg?VersionId=Rqr14olnnGlDRXwwIi5jiaS4EJ6pt885",
-          "credit": "Le JDD",
-          "link": "https://www.lejdd.fr/Societe/creche-de-noel-en-mairie-la-ligue-des-droits-de-lhomme-saisit-la-justice-dans-les-vosges-189813"
-        }
-      },
-      {
-        "id": "s884e9981d1",
-        "topic": "sport",
-        "title": "Le Stade rennais se sépare de son entraîneur Franck Haise",
-        "context": "Les résultats sportifs et le classement en Ligue 1 dictent souvent les décisions de la direction des clubs professionnels de football.",
-        "summary": "La direction du Stade rennais a pris la décision de suspendre Franck Haise de ses fonctions d'entraîneur principal de l'équipe professionnelle. Recruté en début d'année pour remplacer Habib Beye, il avait guidé le club breton vers une qualification pour les compétitions européennes. Cependant, une série décevante de cinq rencontres consécutives sans victoire a conduit à sa mise à pied. Les dirigeants du club travaillent au recrutement d'un nouvel entraîneur pour relancer les performances de l'équipe.",
-        "plain": "EN CLAIR : Le club de football de Rennes a mis à pied son entraîneur Franck Haise. Cette séparation intervient après une mauvaise passe de cinq matchs sans la moindre victoire.",
-        "chart": null,
-        "stakes": [
-          "Qui sera désigné pour reprendre la conduite de l'équipe professionnelle de Rennes ?",
-          "Le Stade rennais réussira-t-il à remonter au classement du championnat ?",
-          "Comment les joueurs réagiront-ils à ce changement de technicien en cours de saison ?"
+          "Les délais accordés seront-ils suffisants pour que tous les sinistrés effectuent leurs déclarations ?",
+          "Les compagnies d'assurance indemniseront-elles rapidement l'ensemble des dossiers déposés ?"
         ],
         "sources": [
           {
             "name": "franceinfo",
-            "title": "Franck Haise, l'entraîneur de l'équipe de football du Stade rennais, est mis à pied",
-            "link": "https://www.franceinfo.fr/sports/foot/l-entraineur-de-l-equipe-de-football-du-stade-rennais-franck-haise-est-mis-a-pied_8303727.html#xtor=RSS-3-%5Bfrance%5D",
-            "publishedAt": "2026-11-27T19:27:21.000Z",
+            "title": "L'état de catastrophe naturelle reconnu pour 227 communes du Pas-de-Calais après les intempéries du mois de novembre",
+            "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-etat-de-catastrophe-naturelle-reconnu-pour-227-communes-du-pas-de-calais-apres-les-intemperies-du-mois-de-novembre_8304426.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-28T10:50:41.000Z",
             "lang": "fr",
             "country": "FR"
           }
         ],
         "image": {
-          "url": "https://www.franceinfo.fr/pictures/WFCyJYTFC2alGaHMHSbauoolhtI/0x0:6000x3375/432x243/filters:format(jpg)/2026/11/27/6b09d9809f0b8712802980.jpg",
+          "url": "https://www.franceinfo.fr/pictures/wqHERrltK82f19JLyBGPZcxpvSY/0x0:8064x4536/432x243/filters:format(jpg)/2026/11/28/6b0aa0a7457c6501536425.jpg",
           "credit": "franceinfo",
-          "link": "https://www.franceinfo.fr/sports/foot/l-entraineur-de-l-equipe-de-football-du-stade-rennais-franck-haise-est-mis-a-pied_8303727.html#xtor=RSS-3-%5Bfrance%5D"
+          "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-etat-de-catastrophe-naturelle-reconnu-pour-227-communes-du-pas-de-calais-apres-les-intemperies-du-mois-de-novembre_8304426.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "Recognition of the state of natural disaster for the Pas-de-Calais",
+            "context": "Residents of areas regularly affected by bad weather can benefit from accelerated compensation procedures through state intervention.",
+            "summary": "The state of natural disaster has been officially recognized for 227 municipalities located in the Pas-de-Calais following severe bad weather in November. Affected individuals have a 30-day period, set until December 28, to declare all damages suffered to their respective insurance companies. This administrative decision aims to facilitate reimbursement procedures for residents affected by floods and material damage.",
+            "plain": "Following the November floods, 227 municipalities in Pas-de-Calais have been classified as natural disasters. Residents now have one month to contact their insurance companies and get reimbursed for the damage.",
+            "stakes": [
+              "Will the granted deadlines be sufficient for all disaster victims to make their declarations?",
+              "Will insurance companies quickly compensate all submitted claims?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Reconocimiento del estado de catástrofe natural para el Paso de Calais",
+            "context": "Los habitantes de zonas regularmente afectadas por las inclemencias meteorológicas pueden beneficiarse de procedimientos de indemnización acelerados gracias a la intervención de los servicios del Estado.",
+            "summary": "El estado de catástrofe natural fue reconocido oficialmente para 227 municipios situados en el Paso de Calais tras las graves inclemencias meteorológicas ocurridas en el mes de noviembre. Las personas afectadas disponen de un plazo de 30 días, fijado hasta el 28 de diciembre, para declarar todos los daños sufridos ante sus respectivas compañías de seguros. Esta decisión administrativa tiene como objetivo facilitar los trámites de reembolso para los habitantes afectados por las inundaciones y los daños materiales.",
+            "plain": "Tras las inundaciones de noviembre, 227 municipios del Paso de Calais obtuvieron la clasificación de catástrofe natural. Los habitantes tienen ahora un mes para ponerse en contacto con sus seguros y conseguir el reembolso de los daños.",
+            "stakes": [
+              "¿Serán suficientes los plazos concedidos para que todos los afectados realicen sus declaraciones?",
+              "¿Indemnizarán rápidamente las compañías de seguros todos los expedientes presentados?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "s50d82ef234",
+        "topic": "sport",
+        "title": "Le Stade brestois s'impose face au Paris FC et monte sur le podium de Ligue 1",
+        "context": "Le championnat de France de football masculin met aux prises les meilleures équipes professionnelles de l'Hexagone au cours d'une saison régulière.",
+        "summary": "Le Stade brestois a réalisé une belle opération sportive en s'imposant face au Paris FC sur le score d'un but à zéro. Grâce à cette victoire acquise grâce à une réalisation du défenseur Luck Zogbé, l'équipe bretonne grimpe sur le podium provisoire de la Ligue 1. De son côté, le Paris FC conserve sa place de dauphin derrière le Paris Saint-Germain, complétant ainsi un classement inattendu pour les premières places du championnat.",
+        "plain": "Brest a battu le Paris FC sur la plus petite des marges grâce à un but de Luck Zogbé. Cette victoire permet aux Brestois de s'emparer de la troisième place du classement de Ligue 1.",
+        "chart": null,
+        "stakes": [
+          "Le Stade brestois parviendra-t-il à maintenir sa position sur le podium face aux cadors du championnat ?",
+          "Comment le Paris FC va-t-il réagir après ce coup d'arrêt en haut de tableau ?"
+        ],
+        "sources": [
+          {
+            "name": "Ouest-France",
+            "title": "Stade Brestois. Luck Zogbé héros surprise contre le Paris FC : un choix gagnant, symbole d’une concurrence grandissante",
+            "link": "https://www.ouest-france.fr/sport/football/stade-brestois/stade-brestois-luck-zogbe-heros-surprise-contre-le-paris-fc-un-choix-gagnant-symbole-dune-concurrence-grandissante-b7f7cff4-eb16-11f1-8e4e-f44a9b15a834?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-28T12:59:02.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "France 24",
+            "title": "Ligue 1 : Brest bat le Paris FC et grimpe sur le podium",
+            "link": "https://www.france24.com/fr/%C3%A9missions/sports/20261128-ligue-1-brest-bat-le-paris-fc-et-grimpe-sur-le-podium",
+            "publishedAt": "2026-11-28T12:30:24.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExNTZmYmIzMDcyZmIyM2MyMmU2ODlmZGQyOWVkMDk1MDA?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=7d13261e0cab41a195d6e1f7a52158868c4eac57e3579ef284a4f6284097d62b",
+          "credit": "Ouest-France",
+          "link": "https://www.ouest-france.fr/sport/football/stade-brestois/stade-brestois-luck-zogbe-heros-surprise-contre-le-paris-fc-un-choix-gagnant-symbole-dune-concurrence-grandissante-b7f7cff4-eb16-11f1-8e4e-f44a9b15a834?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+        },
+        "i18n": {
+          "en": {
+            "title": "Stade Brestois wins against Paris FC and climbs to the Ligue 1 podium",
+            "context": "The French men's football championship pits the country's best professional teams against each other during a regular season.",
+            "summary": "Stade Brestois achieved a strong sporting performance by defeating Paris FC with a score of one goal to nil. Thanks to this victory secured by a goal from defender Luck Zogbé, the Breton team climbs to the provisional Ligue 1 podium. Meanwhile, Paris FC maintains its second place behind Paris Saint-Germain, thus completing an unexpected ranking for the top spots in the championship.",
+            "plain": "Brest beat Paris FC by the narrowest of margins thanks to a goal by Luck Zogbé. This victory allows Brest to take third place in the Ligue 1 standings.",
+            "stakes": [
+              "Will Stade Brestois manage to maintain its position on the podium against the championship's top teams?",
+              "How will Paris FC react after this setback at the top of the table?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "El Stade Brestois se impone ante el París FC y sube al podio de la Ligue 1",
+            "context": "El campeonato de fútbol masculino de Francia enfrenta a los mejores equipos profesionales del Hexágono durante una temporada regular.",
+            "summary": "El Stade Brestois logró una gran operación deportiva al imponerse al París FC por el marcador de un gol a cero. Gracias a esta victoria conseguida mediante un tanto del defensa Luck Zogbé, el equipo bretón sube al podio provisional de la Ligue 1. Por su parte, el París FC conserva su puesto de escolta por detrás del París Saint-Germain, completando así una clasificación inesperada para los primeros puestos del campeonato.",
+            "plain": "Brest venció al París FC por la mínima gracias a un gol de Luck Zogbé. Esta victoria permite al Brest hacerse con la tercera plaza de la clasificación de la Ligue 1.",
+            "stakes": [
+              "¿Conseguirá el Stade Brestois mantener su posición en el podio frente a los grandes del campeonato?",
+              "¿Cómo reaccionará el París FC tras este freno en la parte alta de la tabla?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sac502c594a",
+        "topic": "economie",
+        "title": "Risque de perturbations dans les aéroports français pour les vacances de Noël",
+        "context": "Les mouvements sociaux dans les secteurs stratégiques du transport aérien coïncident fréquemment avec les périodes de grands départs en vacance.",
+        "summary": "Deux syndicats du groupe aéroportuaire gérant les plateformes de Roissy et d'Orly ont déposé un préavis de grève pour la période du 17 au 20 décembre. Porté notamment par la CGT et FO, ce mouvement social vise à soutenir des revendications portant sur l'emploi et les salaires des agents. Si les négociations n'aboutissent pas, cette grève pourrait perturber significativement le trafic aérien au tout début des vacances scolaires de Noël.",
+        "plain": "Des syndicats de salariés des aéroports de Roissy et Orly menacent de faire grève du 17 au 20 décembre pour réclamer de meilleurs salaires. Le trafic aérien risque d'être perturbé pendant le début des vacances de Noël.",
+        "chart": null,
+        "stakes": [
+          "Le gouvernement ou la direction parviendront-ils à négocier un accord avant le début des vacances ?",
+          "Quelles solutions alternatives seront proposées aux voyageurs en cas de forte annulation de vols ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Aéroports de Paris : un préavis de grève déposé au début des vacances de Noël",
+            "link": "https://www.liberation.fr/economie/social/aeroports-de-paris-un-preavis-de-greve-depose-au-debut-des-vacances-de-noel-20261128_Y7IDDYNOXZB25KYUPB2CPNZ6MM/",
+            "publishedAt": "2026-11-28T12:45:42.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "Ouest-France",
+            "title": "Vacances de Noël : un préavis de grève déposé par deux syndicats d’Aéroports de Paris pourrait perturber les vols du 17 au 20 décembre",
+            "link": "https://www.ouest-france.fr/economie/greve/vacances-de-noel-un-preavis-de-greve-depose-par-deux-syndicats-daeroports-de-paris-pourrait-perturber-les-vols-du-17-au-20-decembre-86cfe224-eb28-11f1-8e4e-f44a9b15a834?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+            "publishedAt": "2026-11-28T13:07:46.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://media.ouest-france.fr/v1/pictures/MjAyNjExZjI4YWViODJlNmI5ZDFhMTc0ZDEzOTdlNWJiNzBlYTk?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=a832e1f74b7b3f6053121a5431a5422369d942202126275c93c32e26e9fb6e19",
+          "credit": "Ouest-France",
+          "link": "https://www.ouest-france.fr/economie/greve/vacances-de-noel-un-preavis-de-greve-depose-par-deux-syndicats-daeroports-de-paris-pourrait-perturber-les-vols-du-17-au-20-decembre-86cfe224-eb28-11f1-8e4e-f44a9b15a834?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu"
+        },
+        "i18n": {
+          "en": {
+            "title": "Risk of disruptions in French airports for the Christmas holidays",
+            "context": "Social movements in strategic air transport sectors frequently coincide with major holiday departure periods.",
+            "summary": "Two trade unions representing the airport group managing the Roissy and Orly platforms have filed strike notices for the period from December 17 to 20. Driven notably by the CGT and FO, this social movement aims to support demands concerning employee jobs and wages. If negotiations fail, this strike could significantly disrupt air traffic at the very beginning of the school Christmas holidays.",
+            "plain": "Employee unions at the Roissy and Orly airports are threatening to strike from December 17 to 20 to demand better wages. Air traffic is at risk of being disrupted during the start of the Christmas holidays.",
+            "stakes": [
+              "Will the government or management manage to negotiate an agreement before the start of the holidays?",
+              "What alternative solutions will be offered to travelers in the event of widespread flight cancellations?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Riesgo de perturbaciones en los aeropuertos franceses para las vacaciones de Navidad",
+            "context": "Los movimientos sociales en los sectores estratégicos del transporte aéreo coinciden frecuentemente con los periodos de grandes salidas de vacaciones.",
+            "summary": "Dos sindicatos del grupo aeroportuario que gestiona las plataformas de Roissy y Orly han presentado un preaviso de huelga para el periodo del 17 al 20 de diciembre. Impulsado especialmente por la CGT y FO, este movimiento social busca apoyar reivindicaciones sobre el empleo y los salarios de los agentes. Si las negociaciones no prosperan, esta huelga podría perturbar significativamente el tráfico aéreo justo al comienzo de las vacaciones escolares de Navidad.",
+            "plain": "Sindicatos de trabajadores de los aeropuertos de Roissy y Orly amenazan con ir a la huelga del 17 al 20 de diciembre para reclamar mejores salarios. El tráfico aéreo corre el riesgo de verse perturbado durante el inicio de las vacaciones de Navidad.",
+            "stakes": [
+              "¿Conseguirán el gobierno o la dirección negociar un acuerdo antes del inicio de las vacaciones?",
+              "¿Qué soluciones alternativas se propondrán a los viajeros en caso de una fuerte cancelación de vuelos?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "safc9dafbcf",
+        "topic": "environnement",
+        "title": "Les viticulteurs girondins se diversifient dans la culture du chanvre",
+        "context": "Le secteur viticole français fait face à des difficultés structurelles liées à la baisse de la consommation de vin et aux conséquences du réchauffement climatique.",
+        "summary": "En Gironde, région traditionnellement dominée par l'exploitation de la vigne, certains viticulteurs font le choix de se diversifier en expérimentant la culture du chanvre. Cette reconversion partielle est motivée par le recul de la consommation de vin bordelais et par les aléas climatiques qui fragilisent les récoltes de raisin. Cette alternative agricole permet aux exploitants de tester de nouvelles sources de revenus tout en s'adaptant aux mutations environnementales.",
+        "plain": "Face à la baisse des ventes de vin et au changement climatique, des vignerons de Gironde se lancent dans la culture du chanvre pour trouver de nouveaux débouchés agricoles.",
+        "chart": null,
+        "stakes": [
+          "Cette alternative agricole pourra-t-elle compenser durablement les pertes financières des producteurs de vin ?",
+          "La filière du chanvre disposera-t-elle des infrastructures nécessaires pour transformer localement les récoltes ?"
+        ],
+        "sources": [
+          {
+            "name": "Le Monde",
+            "title": "En Gironde, des viticulteurs se diversifient dans la culture de chanvre",
+            "link": "https://www.lemonde.fr/economie/article/2026/11/28/en-gironde-des-viticulteurs-se-diversifient-dans-la-culture-de-chanvre_6816084_3234.html",
+            "publishedAt": "2026-11-28T08:00:04.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://img.lemde.fr/2026/11/27/394/0/4724/2362/644/322/60/0/9657966_upload-1-1b0wwi6qnyqq-afp-20260927-hl-vfeuray-3309725-v1-highres-francehempcultivationapromisingsecto.jpg",
+          "credit": "Le Monde",
+          "link": "https://www.lemonde.fr/economie/article/2026/11/28/en-gironde-des-viticulteurs-se-diversifient-dans-la-culture-de-chanvre_6816084_3234.html"
+        },
+        "i18n": {
+          "en": {
+            "title": "Gironde winegrowers diversify into hemp cultivation",
+            "context": "The French wine sector faces structural difficulties related to falling wine consumption and the consequences of global warming.",
+            "summary": "In Gironde, a region traditionally dominated by viticulture, some winegrowers are choosing to diversify by experimenting with hemp cultivation. This partial conversion is driven by the decline in consumption of Bordeaux wine and climate hazards that weaken grape harvests. This agricultural alternative allows farmers to test new sources of income while adapting to environmental changes.",
+            "plain": "Faced with falling wine sales and climate change, winemakers in Gironde are starting to grow hemp to find new agricultural outlets.",
+            "stakes": [
+              "Will this agricultural alternative be able to sustainably compensate for the financial losses of wine producers?",
+              "Will the hemp sector have the necessary infrastructure to locally process the harvests?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Los viticultores de la Gironda se diversifican en el cultivo del cáñamo",
+            "context": "El sector vitícola francés se enfrenta a dificultades estructurales relacionadas con la caída del consumo de vino y las consecuencias del calentamiento global.",
+            "summary": "En la Gironda, región tradicionalmente dominada por la explotación de la vid, algunos viticultores optan por diversificarse experimentando con el cultivo del cáñamo. Esta reconversión parcial está motivada por el retroceso del consumo de vino de Burdeos y por los riesgos climáticos que debilitan las cosechas de uva. Esta alternativa agrícola permite a los explotadores probar nuevas fuentes de ingresos adaptándose al mismo tiempo a las mutaciones medioambientales.",
+            "plain": "Ante la caída de las ventas de vino y el cambio climático, los viticultores de la Gironda se lanzan al cultivo del cáñamo para encontrar nuevas salidas agrícolas.",
+            "stakes": [
+              "¿Podrá esta alternativa agrícola compensar de forma duradera las pérdidas financieras de los productores de vino?",
+              "¿Dispondrá el sector del cáñamo de las infraestructuras necesarias para transformar localmente las cosechas?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sf831e73ed0",
+        "topic": "environnement",
+        "title": "Le barrage de la Rance célèbre soixante ans d'innovation énergétique",
+        "context": "L'énergie marémotrice utilise la force des mouvements de l'eau liés aux marées pour produire de l'électricité de manière renouvelable.",
+        "summary": "Inauguré par le général de Gaulle en novembre 1966, le barrage de la Rance, situé près de Saint-Malo en Ille-et-Vilaine, fête son soixantième anniversaire. Cette installation demeure une exception notable dans le paysage de la production d'électricité en France en tirant profit de l'énergie des marées. Malgré son ancienneté et son caractère pionnier, cette source d'énergie renouvelable n'a pas connu d'équivalent à grande échelle dans le pays depuis sa construction.",
+        "plain": "Le barrage de la Rance, près de Saint-Malo, souffle ses soixante bougies. Construit à l'époque de de Gaulle, il reste le seul site en France à produire de l'électricité grâce à la force des marées.",
+        "chart": null,
+        "stakes": [
+          "Le modèle de l'énergie marémotrice pourrait-il retrouver de l'intérêt dans la transition énergétique actuelle ?",
+          "Quels sont les besoins de maintenance pour prolonger la durée de vie de cet ouvrage historique ?"
+        ],
+        "sources": [
+          {
+            "name": "franceinfo",
+            "title": "REPORTAGE. Inauguré par de Gaulle il y a 60 ans, le barrage de la Rance reste une exception dans le paysage énergétique français",
+            "link": "https://www.franceinfo.fr/environnement/energie/reportage-inaugure-par-de-gaulle-il-y-a-60-ans-le-barrage-de-la-rance-reste-une-exception-dans-le-paysage-energetique-francais_8303355.html#xtor=RSS-3-%5Bfrance%5D",
+            "publishedAt": "2026-11-28T10:14:46.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://www.franceinfo.fr/pictures/sOiUQdUcwWyQgmmTI2hhNDnUBvA/0x226:4300x2644/432x243/filters:format(jpg)/2026/11/27/6b09ae2560587203305052.jpg",
+          "credit": "franceinfo",
+          "link": "https://www.franceinfo.fr/environnement/energie/reportage-inaugure-par-de-gaulle-il-y-a-60-ans-le-barrage-de-la-rance-reste-une-exception-dans-le-paysage-energetique-francais_8303355.html#xtor=RSS-3-%5Bfrance%5D"
+        },
+        "i18n": {
+          "en": {
+            "title": "The Rance tidal barrage celebrates sixty years of energy innovation",
+            "context": "Tidal energy uses the force of water movements related to tides to produce electricity in a renewable manner.",
+            "summary": "Inaugurated by General de Gaulle in November 1966, the Rance tidal barrage, located near Saint-Malo in Ille-et-Vilaine, is celebrating its sixtieth anniversary. This facility remains a notable exception in the electricity production landscape in France by harnessing tidal energy. Despite its age and pioneering nature, this renewable energy source has not seen a large-scale equivalent in the country since its construction.",
+            "plain": "The Rance dam near Saint-Malo is blowing out sixty candles. Built during the de Gaulle era, it remains the only site in France to produce electricity using the force of the tides.",
+            "stakes": [
+              "Could the tidal energy model regain interest in the current energy transition?",
+              "What are the maintenance needs to extend the lifespan of this historical structure?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "La presa de la Rance celebra sesenta años de innovación energética",
+            "context": "La energía mareomotriz utiliza la fuerza de los movimientos del agua relacionados con las mareas para producir electricidad de manera renovable.",
+            "summary": "Inaugurada por el general De Gaulle en noviembre de 1966, la presa de la Rance, situada cerca de Saint-Malo en Ille y Vilaine, celebra su sexagésimo aniversario. Esta instalación sigue siendo una excepción notable en el panorama de la producción de electricidad en Francia al aprovechar la energía de las mareas. A pesar de su antigüedad y su carácter pionero, esta fuente de energía renovable no ha conocido un equivalente a gran escala en el país desde su construcción.",
+            "plain": "La presa de la Rance, cerca de Saint-Malo, celebra sesenta años. Construida en la época de De Gaulle, sigue siendo el único lugar en Francia que produce electricidad gracias a la fuerza de las mareas.",
+            "stakes": [
+              "¿Podría el modelo de la energía mareomotriz recuperar interés en la transición energética actual?",
+              "¿Cuáles son las necesidades de mantenimiento para prolongar la vida útil de esta obra histórica?"
+            ],
+            "chart": null
+          }
         }
       }
     ],
     "monde": [
       {
-        "id": "s6f1213150e",
-        "topic": "politique",
-        "title": "Élections législatives très disputées en Espagne",
-        "context": "L'Espagne organise des élections législatives anticipées après plusieurs années de gouvernement mené par les socialistes. Les sondages indiquent une forte poussée de l'opposition conservatrice et de l'extrême droite.",
-        "summary": "Le Premier ministre socialiste sortant Pedro Sánchez tente de remobiliser l'électorat de gauche malgré une campagne perçue comme difficile par ses partisans. De son côté, le chef du Parti populaire conservateur, Alberto Núñez Feijóo, appelle à un vote de rassemblement pour mettre fin à huit ans de pouvoir socialiste. Les formations d'extrême droite, notamment le parti Vox mené par Santiago Abascal, cherchent à obtenir un rôle clé dans la formation d'une future coalition. Les débats de fin de campagne ont porté sur des sujets majeurs comme la crise du logement et l'orientation de la politique étrangère vis-à-vis du Maroc et de l'Algérie.",
-        "plain": "EN CLAIR : Les Espagnols votent pour élire leurs députés et leur futur gouvernement. Les conservateurs et l'extrême droite espèrent faire basculer la majorité, tandis que la gauche tente un rattrapage de dernière minute.",
+        "id": "sc397f50daa",
+        "topic": "international",
+        "title": "Frappe israélienne contre une clinique à Gaza et mort de deux employés de MSF",
+        "context": "La bande de Gaza est le théâtre d'un conflit armé permanent entre Israël et le Hamas, organisation qualifiée de terroriste par plusieurs pays. L'organisation humanitaire internationale Médecins sans frontières (MSF) intervient régulièrement sur place pour soigner les blessés civils.",
+        "summary": "Une frappe israélienne a touché une clinique de Médecins sans frontières dans la ville de Gaza, entraînant la mort de deux employés de l'organisation humanitaire qui y travaillaient comme gardiens. Selon l'ONG, qui a exprimé son indignation, il s'agit d'un coup direct visant ses équipes. De son côté, l'armée israélienne affirme avoir ciblé des terroristes du Hamas, présentant les victimes comme des membres de l'organisation palestinienne. L'attaque a suscité de vives condamnations internationales, notamment de la part de l'Organisation mondiale de la santé (OMS).",
+        "plain": "Deux gardiens d'une clinique de Médecins sans frontières ont été tués dans une frappe israélienne à Gaza. L'ONG est bouleversée par cette attaque, tandis que l'armée israélienne affirme qu'il s'agissait de cibles liées au Hamas.",
         "chart": null,
         "stakes": [
-          "L'extrême droite fera-t-elle son entrée au gouvernement en Espagne ?",
-          "Quel impact ce résultat aura-t-il sur les équilibres politiques en Europe ?",
-          "Comment la future majorité répondra-t-elle aux attentes sur le logement et l'économie ?"
+          "Quel est l'impact de ces frappes sur la sécurité des humanitaires et l'accès aux soins à Gaza ?",
+          "Comment les autorités israéliennes et les organisations internationales justifient-elles leurs positions respectives ?"
         ],
         "sources": [
           {
-            "name": "Libération",
-            "title": "Législatives en Espagne : à la veille du vote, la gauche veut encore y croire",
-            "link": "https://www.liberation.fr/international/europe/legislatives-en-espagne-a-la-veille-du-vote-la-gauche-veut-encore-y-croire-20261127_X6PG2EN5X5BLVHJVDYKJAC6GQE/",
-            "publishedAt": "2026-11-27T19:58:38.000Z",
+            "name": "La Croix",
+            "title": "Gaza. Deux employés de Médecins sans frontières tués dans une frappe israélienne",
+            "link": "https://www.la-croix.com/international/gaza-deux-employes-de-medecins-sans-frontieres-tues-dans-une-frappe-israelienne-20261128",
+            "publishedAt": "2026-11-28T11:37:04.000Z",
             "lang": "fr",
             "country": "FR"
           },
           {
-            "name": "L'Humanité",
-            "title": "Législatives anticipées en Espagne : l’extrême droite va-t-elle arriver au pouvoir ?",
-            "link": "https://www.humanite.fr/monde/elections-en-espagne/legislatives-anticipees-en-espagne-lextreme-droite-va-t-elle-arriver-au-pouvoir",
-            "publishedAt": "2026-11-27T17:00:00.000Z",
+            "name": "BBC News",
+            "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+            "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-28T10:34:58.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Guardian",
+            "title": "Two Médecins Sans Frontières staff killed by Israeli strike in Gaza, charity says",
+            "link": "https://www.theguardian.com/world/2026/nov/28/medecins-sans-frontieres-staff-killed-gaza-israeli-strike",
+            "publishedAt": "2026-11-28T12:14:49.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "Sky News",
+            "title": "Doctors Without Borders 'outraged' after staff killed in Gaza",
+            "link": "https://news.sky.com/story/son-of-hamas-chief-and-his-family-survive-israeli-airstrike-group-says-13617394",
+            "publishedAt": "2026-11-28T00:33:00.000Z",
+            "lang": "en",
+            "country": "GB"
+          },
+          {
+            "name": "The Hindu",
+            "title": "Israeli strike kills two Doctors Without Borders staff in Gaza",
+            "link": "https://www.thehindu.com/news/international/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza/article71754241.ece",
+            "publishedAt": "2026-11-28T11:41:39.000Z",
+            "lang": "en",
+            "country": "IN"
+          },
+          {
+            "name": "France 24",
+            "title": "Gaza : deux employés de MSF tués par une frappe israélienne",
+            "link": "https://www.france24.com/fr/moyen-orient/20261128-gaza-deux-employ%C3%A9s-de-msf-tu%C3%A9s-par-une-frappe-isra%C3%A9lienne",
+            "publishedAt": "2026-11-28T12:23:56.000Z",
+            "lang": "fr",
+            "country": "FR"
+          },
+          {
+            "name": "France 24",
+            "title": "Deux employés de MSF tués par une frappe israélienne à Gaza",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261128-deux-employ%C3%A9s-de-msf-tu%C3%A9s-par-une-frappe-isra%C3%A9lienne-%C3%A0-gaza",
+            "publishedAt": "2026-11-28T10:05:27.000Z",
+            "lang": "fr",
+            "country": "FR"
+          }
+        ],
+        "image": {
+          "url": "https://i.la-croix.com/x/2026/11/28/2601111-vue-du-siege-de-medecins-sans-frontieres-msf-organ.jpeg",
+          "credit": "La Croix",
+          "link": "https://www.la-croix.com/international/gaza-deux-employes-de-medecins-sans-frontieres-tues-dans-une-frappe-israelienne-20261128"
+        },
+        "i18n": {
+          "en": {
+            "title": "Israeli strike on a clinic in Gaza and death of two MSF employees",
+            "context": "The Gaza Strip is the scene of an ongoing armed conflict between Israel and Hamas, an organization designated as terrorist by several countries. The international humanitarian organization Médecins Sans Frontières (MSF) regularly intervenes there to treat civilian wounded.",
+            "summary": "An Israeli strike hit a Médecins Sans Frontières clinic in Gaza City, resulting in the death of two employees of the humanitarian organization who worked there as guards. According to the NGO, which expressed its outrage, this was a direct blow targeting its teams. Meanwhile, the Israeli army claims it targeted Hamas terrorists, presenting the victims as members of the Palestinian organization. The attack has drawn sharp international condemnation, notably from the World Health Organization (WHO).",
+            "plain": "Two guards at a Médecins Sans Frontières clinic were killed in an Israeli strike in Gaza. The NGO is devastated by the attack, while the Israeli army claims they were targets linked to Hamas.",
+            "stakes": [
+              "What is the impact of these strikes on the safety of humanitarian workers and access to healthcare in Gaza?",
+              "How do Israeli authorities and international organizations justify their respective positions?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Ataque israelí contra una clínica en Gaza y muerte de dos empleados de MSF",
+            "context": "La Franja de Gaza es escenario de un conflicto armado permanente entre Israel y Hamás, organización calificada como terrorista por varios países. La organización humanitaria internacional Médicos Sin Fronteras (MSF) interviene regularmente en el lugar para atender a los heridos civiles.",
+            "summary": "Un ataque israelí alcanzó una clínica de Médicos Sin Fronteras en la ciudad de Gaza, provocando la muerte de dos empleados de la organización humanitaria que trabajaban allí como vigilantes. Según la ONG, que expresó su indignación, se trata de un ataque directo dirigido contra sus equipos. Por su parte, el ejército israelí afirma haber apuntado contra terroristas de Hamás, presentando a las víctimas como miembros de la organización palestina. El ataque ha suscitado duras condenas internacionales, especialmente por parte de la Organización Mundial de la Salud (OMS).",
+            "plain": "Dos vigilantes de una clínica de Médicos Sin Fronteras murieron en un ataque israelí en Gaza. La ONG está consternada por el ataque, mientras que el ejército israelí afirma que se trataba de objetivos vinculados a Hamás.",
+            "stakes": [
+              "¿Cuál es el impacto de estos ataques en la seguridad de los humanitarios y el acceso a la atención médica en Gaza?",
+              "¿Cómo justifican las autoridades israelíes y las organizaciones internacionales sus respectivas posiciones?"
+            ],
+            "chart": null
+          }
+        }
+      },
+      {
+        "id": "sf701cde2ae",
+        "topic": "international",
+        "title": "L'Espagne vote pour des élections législatives sur fond d'immigration et de logement",
+        "context": "L'Espagne organise des élections législatives anticipées ou cruciales pour renouveler son Parlement. Le Premier ministre sortant, Pedro Sánchez, dirige un gouvernement de gauche confronté à des tensions économiques et migratoires, tandis que la droite et l'extrême droite progressent dans les sondages.",
+        "summary": "Les électeurs espagnols se rendent aux urnes pour un scrutin législatif considéré comme un tournant politique majeur après huit ans de pouvoir socialiste. La campagne électorale a été dominée par les débats sur la crise du logement, le coût de la vie et la gestion de l'immigration, cette dernière polarisant fortement les différentes forces politiques. Alors que la gauche défend des mesures de régularisation, la droite et le parti d'extrême droite Vox font de la sécurité et des frontières des thèmes centraux. Des milliers de migrants continuent par ailleurs de tenter la traversée vers les îles Canaries, illustrant les difficultés migratoires du pays.",
+        "plain": "Les Espagnols votent lors d'élections législatives très disputées où l'avenir du Premier ministre socialiste Pedro Sánchez est en jeu. Les principaux sujets de préoccupation sont la flambée des prix du logement et la gestion de l'immigration.",
+        "chart": null,
+        "stakes": [
+          "Quelle sera la configuration politique du nouveau Parlement espagnol face à la montée de la droite ?",
+          "Quelles conséquences ces élections auront-elles sur la politique migratoire et sociale de l'Espagne ?"
+        ],
+        "sources": [
+          {
+            "name": "Libération",
+            "title": "Au large des îles Canaries, 14 migrants retrouvés morts dans le naufrage d’une embarcation",
+            "link": "https://www.liberation.fr/international/europe/au-large-des-iles-canaries-14-migrants-retrouves-morts-dans-le-naufrage-dune-embarcation-20261128_VPOPSO6ZTJDVHFEXOYOKM7RR6E/",
+            "publishedAt": "2026-11-28T12:30:35.000Z",
             "lang": "fr",
             "country": "FR"
           },
@@ -371,674 +481,500 @@
             "country": "GB"
           },
           {
-            "name": "BBC News",
-            "title": "Spanish election: What you need to know and what's at stake",
-            "link": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-27T13:11:03.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "BBC News",
-            "title": "Who to watch in Spain's election race",
-            "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-27T12:48:32.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "The Guardian",
-            "title": "Why all of Europe should be watching as Spain’s far-right Vox closes in on power | Eoghan Gilmartin",
-            "link": "https://www.theguardian.com/commentisfree/2026/nov/27/spain-far-right-vox-europe-santiago-abascal-france-coalition",
-            "publishedAt": "2026-11-27T05:00:55.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "Tagesschau",
-            "title": "Spanien vor der Parlamentswahlen: Sánchez gegen Feijóo",
-            "link": "https://www.tagesschau.de/tagesthemen/video-1691336.html",
-            "publishedAt": "2026-11-27T21:12:33.000Z",
-            "lang": "de",
-            "country": "DE"
-          },
-          {
-            "name": "Euronews",
-            "title": "Élections en Espagne : Vox en faiseur de roi, la crise du logement au cœur du vote",
-            "link": "https://fr.euronews.com/2026/11/27/elections-en-espagne-vox-en-faiseur-de-roi-la-crise-du-logement-au-coeur-du-vote",
-            "publishedAt": "2026-11-27T17:40:17.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://www.humanite.fr/wp-content/uploads/2026/11/x480.jpeg?w=853",
-          "credit": "L'Humanité",
-          "link": "https://www.humanite.fr/monde/elections-en-espagne/legislatives-anticipees-en-espagne-lextreme-droite-va-t-elle-arriver-au-pouvoir"
-        }
-      },
-      {
-        "id": "s03da83fad8",
-        "topic": "justice",
-        "title": "La Cour suprême du Canada valide la loi québécoise sur la laïcité",
-        "context": "Adoptée en 2019 au Québec, la loi 21 interdit le port de signes religieux aux fonctionnaires en position d'autorité, tels que les enseignants ou les policiers. Le texte faisait l'objet d'une contestation judiciaire soutenue depuis son vote.",
-        "summary": "La Cour suprême du Canada a confirmé la validité de la quasi-totalité de la loi sur la laïcité promulguée par le Québec. La décision s'appuie sur la reconnaissance de la clause dérogatoire utilisée par le Parlement québécois pour protéger son texte. Les défenseurs de la loi saluent la réaffirmation du modèle québécois de laïcité, distinct du multiculturalisme en vigueur dans le reste du pays. À l'inverse, plusieurs organisations de défense des droits civiques déplorent une décision qui fragilise selon elles les libertés fondamentales et pénalise les minorités religieuses.",
-        "plain": "EN CLAIR : La plus haute juridiction canadienne a jugé légale la loi québécoise interdisant aux agents publics de porter des symboles religieux au travail. Ce jugement met fin à des années d'incertitude juridique mais ravive les débats.",
-        "chart": null,
-        "stakes": [
-          "Comment la province conciliera-t-elle l'application de la loi et la protection des droits individuels ?",
-          "Quelles conséquences ce jugement aura-t-il sur les relations entre le Québec et l'État fédéral ?",
-          "Cette décision inspirera-t-elle d'autres initiatives législatives régionales ?"
-        ],
-        "sources": [
-          {
-            "name": "La Croix",
-            "title": "Canada : la Cour suprême consacre la laïcité au Québec dans une décision historique",
-            "link": "https://www.la-croix.com/international/canada-la-cour-supreme-consacre-la-laicite-au-quebec-dans-une-decision-historique-20261127",
-            "publishedAt": "2026-11-27T20:21:42.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
             "name": "Deutsche Welle",
-            "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
-            "link": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-world-4025-rdf",
-            "publishedAt": "2026-11-27T20:43:00.000Z",
+            "title": "As Spain votes, what could change for Europe?",
+            "link": "https://www.dw.com/en/as-spain-votes-what-could-change-for-europe/a-80035381?maca=en-rss-en-world-4025-rdf",
+            "publishedAt": "2026-11-28T11:24:00.000Z",
             "lang": "en",
             "country": "DE"
           },
           {
             "name": "The New York Times",
-            "title": "Quebec Can Keep Its Ban on Religious Symbols, Canada’s Top Court Rules",
-            "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
-            "publishedAt": "2026-11-27T21:17:11.000Z",
+            "title": "Abroad, Spain’s Leader Is a Left-Wing Hero. Will He Lose Power at Home?",
+            "link": "https://www.nytimes.com/2026/11/28/world/europe/spain-pedro-sanchez-conservatives-election.html",
+            "publishedAt": "2026-11-28T05:01:10.000Z",
             "lang": "en",
             "country": "US"
-          },
-          {
-            "name": "The Wall Street Journal",
-            "title": "Canada’s Supreme Court Upholds Quebec’s Religious-Symbols Ban",
-            "link": "https://www.wsj.com/world/americas/canadas-supreme-court-upholds-quebecs-religious-symbols-ban-c1d8371a?mod=rss_worldnews",
-            "publishedAt": "2026-11-27T19:51:00.000Z",
-            "lang": "en",
-            "country": "US"
-          },
-          {
-            "name": "South China Morning Post",
-            "title": "Canada’s top court upholds Quebec ban on religious symbols for public servants",
-            "link": "https://www.scmp.com/news/world/united-states-canada/article/3376103/canadas-top-court-upholds-quebec-ban-religious-symbols-public-servants",
-            "publishedAt": "2026-11-27T20:25:58.000Z",
-            "lang": "en",
-            "country": "HK"
-          },
-          {
-            "name": "Le Monde (International)",
-            "title": "La Cour suprême canadienne consacre la laïcité au Québec dans une décision historique",
-            "link": "https://www.lemonde.fr/international/article/2026/11/27/la-cour-supreme-canadienne-consacre-la-laicite-au-quebec-dans-une-decision-historique_6815937_3210.html",
-            "publishedAt": "2026-11-27T22:06:52.000Z",
-            "lang": "fr",
-            "country": "FR"
-          }
-        ],
-        "image": {
-          "url": "https://i.la-croix.com/x/2026/11/27/2600792-maxppp-tagid-ibpremiumfive352963jpgphoto-via-maxpp.jpg",
-          "credit": "La Croix",
-          "link": "https://www.la-croix.com/international/canada-la-cour-supreme-consacre-la-laicite-au-quebec-dans-une-decision-historique-20261127"
-        }
-      },
-      {
-        "id": "sfdffa19645",
-        "topic": "international",
-        "title": "Combats intenses et vifs échanges diplomatiques sur la guerre en Ukraine",
-        "context": "Les affrontements entre l'armée ukrainienne et les forces russes se poursuivent alors que l'approche de l'hiver fait craindre de nouvelles destructions d'infrastructures énergétiques.",
-        "summary": "Sur le terrain militaire, Kiev affirme avoir utilisé pour la première fois un système d'arme laser pour abattre un drone russe, tout en revendiquant des frappes contre une usine et des réservoirs de raffinerie en territoire russe. En parallèle, des pannes d'électricité massives ont frappé la péninsule de Crimée à la suite d'incidents techniques et de frappes. Sur le plan diplomatique, le président Volodymyr Zelensky a vivement rejeté les propos de Donald Trump décrivant sa relation avec Vladimir Poutine comme une « amitié ». De son côté, le président américain maintient son intention de négocier la fin du conflit, attribuant les blocages à l'hostilité entre les deux belligérants.",
-        "plain": "EN CLAIR : Alors que les affrontements militaires s'intensifient sur le terrain avec de nouvelles technologies, les dirigeants politiques s'écharpent sur la diplomatie à mener et sur les conditions d'éventuelles négociations de paix.",
-        "chart": null,
-        "stakes": [
-          "L'Ukraine pourra-t-elle préserver son réseau énergétique face aux attaques hivernales ?",
-          "Quelle sera la stratégie américaine en matière d'aide et de négociation de paix ?",
-          "L'introduction d'armes de haute technologie modifiera-t-elle l'équilibre du conflit ?"
-        ],
-        "sources": [
-          {
-            "name": "Le Monde (International)",
-            "title": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne revendique le bombardement d’une « usine stratégique » et la destruction de réservoirs dans une raffinerie en Russie",
-            "link": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-l-armee-ukrainienne-revendique-le-bombardement-d-une-usine-strategique-et-la-destruction-de-reservoirs-dans-une-raffinerie-en-russie_6814183_3210.html",
-            "publishedAt": "2026-11-27T18:56:38.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "La Croix",
-            "title": "Guerre en Ukraine : ce qu’il faut retenir de la situation du vendredi 27 novembre",
-            "link": "https://www.la-croix.com/international/ukraine-russie-jour-1738-point-conflit-ukrainien-poutine-aujourdhui-20261127",
-            "publishedAt": "2026-11-27T20:21:15.000Z",
-            "lang": "fr",
-            "country": "FR"
-          },
-          {
-            "name": "BBC News",
-            "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-            "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-27T18:42:50.000Z",
-            "lang": "en",
-            "country": "GB"
-          },
-          {
-            "name": "BBC News",
-            "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-            "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-27T18:00:40.000Z",
-            "lang": "en",
-            "country": "GB"
           },
           {
             "name": "The Washington Post",
-            "title": "Trump defends Putin friendship that Zelensky calls ‘strange’",
-            "link": "https://www.washingtonpost.com/world/2026/11/27/trump-defends-putin-friendship-that-zelensky-calls-strange/",
-            "publishedAt": "2026-11-27T12:55:25.000Z",
+            "title": "Spanish voters are about to get their say on high living costs",
+            "link": "https://www.washingtonpost.com/world/2026/11/28/spanish-voters-are-about-get-their-say-high-living-costs/",
+            "publishedAt": "2026-11-28T10:00:00.000Z",
             "lang": "en",
             "country": "US"
           },
           {
-            "name": "Fox News",
-            "title": "Putin's grip on Crimea tested amid major blackout as Zelenskyy warns of looming Russian strike",
-            "link": "https://www.foxnews.com/world/putins-grip-crimea-tested-amid-major-blackout-zelenskyy-warns-imminent-russia-strike",
-            "publishedAt": "2026-11-27T02:25:49.000Z",
+            "name": "Politico Europe",
+            "title": "Santiago Abascal: Spain’s far-right kingmaker",
+            "link": "https://www.politico.eu/article/santiago-abascal-spain-election-2026-far-right-kingmaker/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-28T10:45:17.000Z",
             "lang": "en",
-            "country": "US"
+            "country": "BE"
           },
           {
-            "name": "South China Morning Post",
-            "title": "Ukraine says it used laser weapon to shoot down Russian drone for first time",
-            "link": "https://www.scmp.com/news/world/russia-central-asia/article/3376104/ukraine-says-it-used-laser-weapon-shoot-down-russian-drone-first-time",
-            "publishedAt": "2026-11-27T21:08:33.000Z",
+            "name": "Politico Europe",
+            "title": "9 things you need to read ahead of the Spanish election",
+            "link": "https://www.politico.eu/article/nine-things-you-need-to-read-spanish-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+            "publishedAt": "2026-11-28T03:00:00.000Z",
             "lang": "en",
-            "country": "HK"
+            "country": "BE"
           },
           {
-            "name": "France 24",
-            "title": "Trump se considère l'\"ami\" de Poutine ? Pour Zelensky, cela revient à se dire ami d'Hitler",
-            "link": "https://www.france24.com/fr/europe/20261127-trump-se-consid%C3%A8re-ami-poutine-pour-zelensky-cela-revient-se-dire-ami-hitler",
-            "publishedAt": "2026-11-27T20:52:06.000Z",
-            "lang": "fr",
-            "country": "FR"
+            "name": "El País",
+            "title": "Elecciones generales del 29-N, la jornada de reflexión en directo | Sánchez pasa el día haciendo deporte, Montero pasea con su perra y Rufián come con la familia, mientras Feijóo viaja a Ceuta",
+            "link": "https://elpais.com/espana/elecciones-generales/2026-11-28/ultima-hora-de-la-jornada-de-reflexion-de-las-elecciones-generales-del-29-n-en-directo.html",
+            "publishedAt": "2026-11-28T13:17:09.000Z",
+            "lang": "es",
+            "country": "ES"
           }
         ],
         "image": {
-          "url": "https://img.lemde.fr/2026/11/27/669/0/4000/2000/644/322/60/0/f96082b_upload-1-qgplu7ay902k-incendie-drone-kharkiv-4.jpg",
-          "credit": "Le Monde (International)",
-          "link": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-l-armee-ukrainienne-revendique-le-bombardement-d-une-usine-strategique-et-la-destruction-de-reservoirs-dans-une-raffinerie-en-russie_6814183_3210.html"
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Spain votes in general election amid background of immigration and housing",
+            "context": "Spain is holding early or crucial general elections to renew its parliament. Incumbent Prime Minister Pedro Sánchez leads a left-wing government facing economic and migratory tensions, while the right and far-right are rising in the polls.",
+            "summary": "Spanish voters are heading to the polls for a general election seen as a major political turning point after eight years of socialist rule. The election campaign has been dominated by debates over the housing crisis, the cost of living, and the management of immigration, the latter strongly polarizing the various political forces. While the left defends regularization measures, the right and the far-right party Vox are making security and borders central themes. Furthermore, thousands of migrants continue to attempt the crossing to the Canary Islands, illustrating the country's migratory difficulties.",
+            "plain": "Spaniards are voting in a fiercely contested general election where the future of socialist Prime Minister Pedro Sánchez is at stake. The main subjects of concern are soaring housing prices and the management of immigration.",
+            "stakes": [
+              "What will be the political configuration of the new Spanish parliament in the face of the rise of the right?",
+              "What consequences will these elections have on Spain's migration and social policy?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "España vota en unas elecciones generales en un contexto de inmigración y vivienda",
+            "context": "España celebra unas elecciones generales anticipadas o cruciales para renovar su parlamento. El presidente del Gobierno saliente, Pedro Sánchez, dirige un gobierno de izquierda que se enfrenta a tensiones económicas y migratorias, mientras que la derecha y la extrema derecha avanzan en los sondeos.",
+            "summary": "Los votantes españoles acuden a las urnas para unos comicios legislativos considerados como un punto de inflexión político importante tras ocho años de poder socialista. La campaña electoral ha estado dominada por los debates sobre la crisis de la vivienda, el coste de la vida y la gestión de la inmigración, polarizando fuertemente esta última a las distintas fuerzas políticas. Mientras que la izquierda defiende medidas de regularización, la derecha y el partido de extrema derecha Vox hacen de la seguridad y las fronteras temas centrales. Además, miles de migrantes siguen intentando la travesía hacia las islas Canarias, lo que ilustra las dificultades migratorias del país.",
+            "plain": "Los españoles votan en unas elecciones generales muy disputadas en las que está en juego el futuro del presidente del Gobierno socialista Pedro Sánchez. Los principales motivos de preocupación son el encarecimiento de la vivienda y la gestión de la inmigración.",
+            "stakes": [
+              "¿Cuál será la configuración política del nuevo Parlamento español frente al auge de la derecha?",
+              "¿Qué consecuencias tendrán estas elecciones en la política migratoria y social de España?"
+            ],
+            "chart": null
+          }
         }
       },
       {
-        "id": "s1c0a8c8bae",
+        "id": "s7f3a66d555",
         "topic": "international",
-        "title": "Opération militaire américaine au large de l'Iran et blocus maritime",
-        "context": "Les États-Unis ont mis en place un dispositif de contrôle maritime strict dans le golfe d'Oman pour restreindre les échanges commerciaux et pétroliers liés à l'Iran.",
-        "summary": "Les forces armées américaines ont annoncé avoir neutralisé un navire marchand battant pavillon des Palaos qui tentait de franchir le blocus naval au large de l'Iran. Des frappes ciblées ont endommagé le système de propulsion du bâtiment sans faire de blessés parmi les membres d'équipage, selon le commandement américain. En réaction, des responsables iraniens ont affirmé que Téhéran ne laisserait pas le blocus s'installer durablement et ont menacé de bloquer le détroit d'Ormuz. L'incident marque un durcissement des tensions dans une zone stratégique pour le commerce maritime mondial.",
-        "plain": "EN CLAIR : L'armée américaine a stoppé un navire cargo qui tentait de contourner l'embargo maritime imposé à l'Iran. Téhéran dénonce cette action et menace de répliquer dans le détroit d'Ormuz.",
+        "title": "Rejet du recours de l'Argentine contre les forages pétroliers près des Falkland",
+        "context": "Les îles Malouines, connues sous le nom de Falkland au Royaume-Uni, sont un archipel sous contrôle britannique que l'Argentine revendique historiquement. Des sociétés énergétiques y développent des projets d'exploration pétrolière et gazière.",
+        "summary": "Un tribunal international a rejeté la requête de l'Argentine visant à bloquer l'exploration de pétrole et de gaz menée par une coentreprise de compagnies britanniques et israéliennes près des îles Falkland. Buenos Aires contestait ces activités au nom de sa souveraineté territoriale sur l'archipel. Le président argentin a réagi en réaffirmant que ces îles appartiennent à son pays, tandis que le projet de forage, nommé Sea Lion, se poursuit malgré l'opposition argentine.",
+        "plain": "Un tribunal international a refusé d'interdire des forages pétroliers britanniques près des îles Falkland, rejetant la demande de l'Argentine qui revendique ces îles. Buenos Aires maintient sa position sur sa souveraineté, tandis que les travaux de prospection continuent.",
         "chart": null,
         "stakes": [
-          "Le blocus maritime provoquera-t-il des incidents militaires directs entre l'Iran et les États-Unis ?",
-          "Quelles seront les conséquences de ces tensions sur le transport pétrolier international ?",
-          "Une voie de négociation diplomatique est-elle encore envisageable à court terme ?"
+          "Comment l'Argentine pourra-t-elle faire valoir ses revendications territoriales après cette décision judiciaire ?",
+          "Quels sont les impacts environnementaux et économiques de l'exploitation pétrolière dans cette zone disputée ?"
         ],
         "sources": [
           {
-            "name": "The Wall Street Journal",
-            "title": "U.S. Strikes Vessel Attempting Blockade Run Near Iran",
-            "link": "https://www.wsj.com/world/middle-east/u-s-strikes-vessel-attempting-blockade-run-near-iran-338439e4?mod=rss_worldnews",
-            "publishedAt": "2026-11-27T19:07:00.000Z",
+            "name": "BBC News",
+            "title": "Argentina's bid to stop Falklands oil drilling rejected",
+            "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-28T13:02:39.000Z",
             "lang": "en",
-            "country": "US"
+            "country": "GB"
           },
           {
-            "name": "Fox News",
-            "title": "US military disables tanker ship attempting to slip through Iran blockade on Thanksgiving Day",
-            "link": "https://www.foxnews.com/world/us-military-disables-tanker-ship-attempting-slip-through-iran-blockade-thanksgiving-day",
-            "publishedAt": "2026-11-27T18:48:07.000Z",
+            "name": "The Guardian",
+            "title": "Argentina fails to block oil drilling off Falkland Islands",
+            "link": "https://www.theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal",
+            "publishedAt": "2026-11-28T12:11:02.000Z",
             "lang": "en",
-            "country": "US"
+            "country": "GB"
           },
           {
-            "name": "Al Jazeera",
-            "title": "US military says it disabled merchant ship trying to breach Iran blockade",
-            "link": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
-            "publishedAt": "2026-11-27T22:22:02.000Z",
+            "name": "Sky News",
+            "title": "Milei reacts after court rejects Argentina's bid to block Falklands oil drilling project",
+            "link": "https://news.sky.com/story/court-rejects-argentinas-bid-to-block-falklands-oil-drilling-project-13615287",
+            "publishedAt": "2026-11-28T00:01:00.000Z",
             "lang": "en",
-            "country": "QA"
+            "country": "GB"
           },
           {
-            "name": "The Hindu",
-            "title": "U.S. disables ship trying to leave Iran, as Tehran vows to confront blockade",
-            "link": "https://www.thehindu.com/news/international/us-military-says-it-disabled-commercial-ship-trying-to-run-iran-blockade/article71752214.ece",
-            "publishedAt": "2026-11-27T19:35:02.000Z",
+            "name": "The Times of India",
+            "title": "Argentina loses bid to block oil drilling near British-controlled Falkland Islands",
+            "link": "https://timesofindia.indiatimes.com/world/rest-of-world/argentina-loses-bid-to-block-oil-drilling-near-british-controlled-falkland-islands/articleshow/136246846.cms",
+            "publishedAt": "2026-11-28T12:25:05.000Z",
             "lang": "en",
             "country": "IN"
           },
           {
             "name": "The Straits Times",
-            "title": "US disables ship trying to leave Iran, as Tehran vows to confront blockade",
-            "link": "https://www.straitstimes.com/world/middle-east/us-disables-ship-trying-to-leave-iran-as-tehran-vows-to-confront-blockade",
-            "publishedAt": "2026-11-27T18:01:52.000Z",
+            "title": "Argentina's bid to stop UK oil activity near Falklands rejected by international court",
+            "link": "https://www.straitstimes.com/world/europe/international-court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands",
+            "publishedAt": "2026-11-28T12:32:14.000Z",
             "lang": "en",
             "country": "SG"
           }
         ],
         "image": {
-          "url": "https://images.wsj.net/im-15730861",
-          "credit": "The Wall Street Journal",
-          "link": "https://www.wsj.com/world/middle-east/u-s-strikes-vessel-attempting-blockade-run-near-iran-338439e4?mod=rss_worldnews"
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1615/live/b6e6bd30-eb1d-11f1-8743-3f686b14075c.jpg",
+          "credit": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss"
+        },
+        "i18n": {
+          "en": {
+            "title": "Argentina's appeal against oil drilling near the Falklands rejected",
+            "context": "The Malvinas Islands, known as the Falklands in the United Kingdom, are an archipelago under British control that Argentina historically claims. Energy companies are developing oil and gas exploration projects there.",
+            "summary": "An international court has rejected Argentina's request to block oil and gas exploration conducted by a joint venture of British and Israeli companies near the Falkland Islands. Buenos Aires contested these activities in the name of its territorial sovereignty over the archipelago. The Argentine president reacted by reaffirming that these islands belong to his country, while the drilling project, named Sea Lion, is proceeding despite Argentine opposition.",
+            "plain": "An international tribunal has refused to ban British oil drilling near the Falkland Islands, rejecting Argentina's demand as it claims the islands. Buenos Aires maintains its position on its sovereignty, while prospecting work continues.",
+            "stakes": [
+              "How will Argentina be able to assert its territorial claims after this judicial decision?",
+              "What are the environmental and economic impacts of oil exploitation in this disputed area?"
+            ],
+            "chart": null
+          },
+          "es": {
+            "title": "Rechazo al recurso de Argentina contra las prospecciones petrolíferas cerca de las Malvinas",
+            "context": "Las islas Malvinas, conocidas como Falkland en el Reino Unido, son un archipiélago bajo control británico que Argentina reclama históricamente. Las empresas energéticas desarrollan allí proyectos de exploración de petróleo y gas.",
+            "summary": "Un tribunal internacional ha desestimado la demanda de Argentina para bloquear la exploración de petróleo y gas llevada a cabo por una empresa conjunta de compañías británicas e israelíes cerca de las islas Malvinas. Buenos Aires impugnaba estas actividades en nombre de su soberanía territorial sobre el archipiélago. El presidente argentino reaccionó reafirmando que estas islas pertenecen a su país, mientras que el proyecto de perforación, llamado Sea Lion, sigue adelante a pesar de la oposición argentina.",
+            "plain": "Un tribunal internacional se ha negado a prohibir las prospecciones petrolíferas británicas cerca de las islas Malvinas, rechazando la petición de Argentina, que reivindica dichas islas. Buenos Aires mantiene su postura sobre su soberanía, mientras continúan los trabajos de exploración.",
+            "stakes": [
+              "¿Cómo podrá Argentina hacer valer sus reivindicaciones territoriales tras esta decisión judicial?",
+              "¿Cuáles son los impactos medioambientales y económicos de la explotación petrolera en esta zona en disputa?"
+            ],
+            "chart": null
+          }
         }
       },
       {
-        "id": "s6360121acb",
-        "topic": "sante",
-        "title": "L'OMS alerte sur la résurgence mondiale des cas de rougeole",
-        "context": "La rougeole est une maladie infectieuse très contagieuse qui peut entraîner des complications graves, mais qui est évitable grâce à deux doses de vaccin.",
-        "summary": "L'Organisation mondiale de la santé (OMS) a exprimé ses vives inquiétudes face au ralentissement des progrès observés dans la lutte contre la rougeole au niveau mondial. Selon l'institution, le problème n'est pas lié à un manque d'efficacité des vaccins existants, mais aux lacunes de la couverture vaccinale chez les enfants éligibles. L'organisation souligne également le rôle de la désinformation sur la vaccination, qui freine l'accès aux soins de prévention et favorise le retour d'épidémies dans plusieurs pays.",
-        "plain": "EN CLAIR : L'OMS avertit que la rougeole gagne à nouveau du terrain dans le monde. La cause principale n'est pas un défaut du vaccin, mais le fait que trop d'enfants ne se font plus vacciner.",
+        "id": "sdb426eb06e",
+        "topic": "international",
+        "title": "L'Organisation mondiale de la santé alerte sur la résurgence mondiale de la rougeole",
+        "context": "La rougeole est une maladie virale extrêmement contagieuse qui peut entraîner de graves complications, voire la décés. La vaccination constitue le principal moyen de prévention reconnu par les autorités sanitaires internationales.",
+        "summary": "L'Organisation mondiale de la santé (OMS) a exprimé sa vive préoccupation face à la recrudescence des cas de rougeole à travers le monde. L'institution sanitaire avertit que les progrès réalisés pour éliminer la maladie sont actuellement au point mort. Selon l'organisation, cette situation s'explique principalement par des lacunes persistantes dans la couverture vaccinale des enfants éligibles, plutôt que par une inefficacité des vaccins disponibles. Des foyers épidémiques ont également été signalés dans des pays industrialisés en raison de la persistance de doutes ou de résistances envers la vaccination.",
+        "plain": "L'OMS tire la sonnette d'alarme concernant le retour de la rougeole dans plusieurs pays. L'organisation attribue cette situation à des retards ou des manques dans la vaccination des enfants.",
         "chart": null,
         "stakes": [
-          "Comment les institutions de santé parviendront-elles à restaurer la confiance envers les vaccins ?",
-          "Quelles politiques publiques seront déployées pour remonter le taux de couverture vaccinale ?",
-          "Quels risques de flambées épidémiques pèsent sur les zones les moins immunisées ?"
+          "Quelles mesures d'urgence les autorités sanitaires nationales devront-elles prendre pour rétablir une couverture vaccinale suffisante ?",
+          "Comment contrer la baisse d'adhésion aux programmes de vaccination observée dans certaines régions ?"
         ],
         "sources": [
           {
-            "name": "The Telegraph",
-            "title": "Vaccine gaps fuelling global measles resurgence, WHO warns",
-            "link": "https://www.telegraph.co.uk/global-health/science-and-disease/vaccine-gaps-fuelling-global-measles-resurgence-who-warns/",
-            "publishedAt": "2026-11-27T17:00:00.000Z",
-            "lang": "en",
-            "country": "GB"
+            "name": "France 24",
+            "title": "Rougeole : l'OMS alerte sur un retour de la maladie",
+            "link": "https://www.france24.com/fr/vid%C3%A9o/20261128-rougeole-l-oms-alerte-sur-un-retour-de-la-maladie",
+            "publishedAt": "2026-11-28T10:04:04.000Z",
+            "lang": "fr",
+            "country": "FR"
           },
           {
-            "name": "The Straits Times",
-            "title": "WHO sounds alarm as measles fight falters",
-            "link": "https://www.straitstimes.com/world/europe/who-sounds-alarm-as-measles-fight-falters",
-            "publishedAt": "2026-11-27T18:17:25.000Z",
-            "lang": "en",
-            "country": "SG"
-          },
-          {
-            "name": "South China Morning Post",
-            "title": "WHO sounds alarm as measles fight falters: ‘it is back’",
-            "link": "https://www.scmp.com/news/world/article/3376102/who-sounds-alarm-measles-fight-falters-it-back",
-            "publishedAt": "2026-11-27T20:12:12.000Z",
-            "lang": "en",
-            "country": "HK"
+            "name": "Le Monde (International)",
+            "title": "Aux Etats-Unis, une épidémie de rougeole dopée par l’idéologie",
+            "link": "https://www.lemonde.fr/idees/article/2026/11/28/aux-etats-unis-une-epidemie-de-rougeole-dopee-par-l-ideologie_6816097_3232.html",
+            "publishedAt": "2026-11-28T10:30:09.000Z",
+            "lang": "fr",
+            "country": "FR"
           }
         ],
         "image": {
-          "url": "https://www.telegraph.co.uk/content/dam/global-health/2026/11/27/TELEMMGLPICT000484378360_17957950565120_trans_NvBQzQNjv4BqDPfUJJJzp2bObtoYsJdDTv4Xpit_DMGvdp2n7FDd82k.jpeg",
-          "credit": "The Telegraph",
-          "link": "https://www.telegraph.co.uk/global-health/science-and-disease/vaccine-gaps-fuelling-global-measles-resurgence-who-warns/"
-        }
-      },
-      {
-        "id": "scbc33bf5ff",
-        "topic": "sciences_tech",
-        "title": "Escalade judiciaire entre OpenAI et Apple sur la propriété intellectuelle",
-        "context": "La course au développement de l'intelligence artificielle suscite une vive concurrence entre les créateurs de modèles d'IA et les constructeurs d'équipements technologiques.",
-        "summary": "La société d'intelligence artificielle OpenAI a engagé des poursuites judiciaires contre Apple, l'accusant de vol de secrets commerciaux. OpenAI affirme également que le géant de la technologie exercerait des pressions sur des équipementiers pour entraver la conception de futurs appareils concurrents. Cette action en justice répond à une initiative antérieure d'Apple reprochant à OpenAI d'avoir débauché plusieurs de ses ingénieurs. Ce litige illustre le durcissement des rapports entre acteurs de la Silicon Valley pour le contrôle des technologies de rupture.",
-        "plain": "EN CLAIR : OpenAI attaque Apple en justice pour vol de secrets industriels. Cette bataille montre à quel point les grands acteurs technologiques s'affrontent pour dominer le secteur de l'intelligence artificielle.",
-        "chart": null,
-        "stakes": [
-          "Quelles conséquences ce litige aura-t-il sur les partenariats industriels dans la tech ?",
-          "Les règles régissant le secret des affaires et le recrutement dans l'IA seront-elles clarifiées ?",
-          "Ce conflit judiciaire ralentira-t-il l'intégration de l'IA dans les appareils grand public ?"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
-            "link": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
-            "publishedAt": "2026-11-27T23:28:50.000Z",
-            "lang": "en",
-            "country": "GB"
+          "url": "https://s.france24.com/media/display/223f1b70-eb11-11f1-8108-81bc2b1dcd65/w:1024/p:16x9/FR-20261128-100939-101131-CS.jpg",
+          "credit": "France 24",
+          "link": "https://www.france24.com/fr/vid%C3%A9o/20261128-rougeole-l-oms-alerte-sur-un-retour-de-la-maladie"
+        },
+        "i18n": {
+          "en": {
+            "title": "World Health Organization warns of global measles resurgence",
+            "context": "Measles is an extremely contagious viral disease that can lead to serious complications or even death. Vaccination is the main prevention method recognized by international health authorities.",
+            "summary": "The World Health Organization (WHO) has expressed deep concern over the resurgence of measles cases worldwide. The health institution warns that progress made in eliminating the disease has currently stalled. According to the organization, this situation is mainly explained by persistent gaps in vaccination coverage for eligible children, rather than by the ineffectiveness of available vaccines. Epidemic outbreaks have also been reported in industrialized countries due to the persistence of doubts or resistance towards vaccination.",
+            "plain": "The WHO is sounding the alarm regarding the return of measles in several countries. The organization attributes this situation to delays or gaps in children's vaccination.",
+            "stakes": [
+              "What emergency measures will national health authorities need to take to restore sufficient vaccination coverage?",
+              "How to counter the decline in adherence to vaccination programs observed in certain regions?"
+            ],
+            "chart": null
           },
-          {
-            "name": "Al Jazeera",
-            "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
-            "link": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
-            "publishedAt": "2026-11-27T20:40:51.000Z",
-            "lang": "en",
-            "country": "QA"
-          },
-          {
-            "name": "The Straits Times",
-            "title": "OpenAI countersues Apple for stealing trade secrets",
-            "link": "https://www.straitstimes.com/world/united-states/openai-countersues-apple-for-stealing-trade-secrets",
-            "publishedAt": "2026-11-27T21:22:50.000Z",
-            "lang": "en",
-            "country": "SG"
+          "es": {
+            "title": "La Organización Mundial de la Salud alerta sobre el recrudecimiento mundial del sarampión",
+            "context": "El sarampión es una enfermedad vírica extremadamente contagiosa que puede provocar complicaciones graves e incluso la muerte. La vacunación constituye el principal medio de prevención reconocido por las autoridades sanitarias internacionales.",
+            "summary": "La Organización Mundial de la Salud (OMS) ha expresado su profunda preocupación ante el recrudecimiento de los casos de sarampión en todo el mundo. La institución sanitaria advierte de que los progresos realizados para eliminar la enfermedad se encuentran actualmente estancados. Según la organización, esta situación se explica principalmente por las lagunas persistentes en la cobertura de vacunación de los niños elegibles, más que por una ineficacia de las vacunas disponibles. También se han señalado brotes epidémicos en países industrializados debido a la persistencia de dudas o resistencias hacia la vacunación.",
+            "plain": "La OMS da la voz de alarma sobre el regreso del sarampión en varios países. La organización atribuye esta situación a los retrasos o carencias en la vacunación de los niños.",
+            "stakes": [
+              "¿Qué medidas de emergencia tendrán que tomar las autoridades sanitarias nacionales para restablecer una cobertura de vacunación suficiente?",
+              "¿Cómo contrarrestar la menor aceptación de los programas de vacunación observada en ciertas regiones?"
+            ],
+            "chart": null
           }
-        ],
-        "image": {
-          "url": "https://i.guim.co.uk/img/media/548f2774750f067b58b8293df2904e3bc1888919/417_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=11e4123b18f8e0f22ef83cf2926f9a16",
-          "credit": "The Guardian",
-          "link": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets"
-        }
-      },
-      {
-        "id": "s023e31874b",
-        "topic": "economie",
-        "title": "Blocage des négociations sur le budget pluriannuel de l'Union européenne",
-        "context": "Les 27 États membres de l'Union européenne doivent s'entendre sur le cadre financier qui fixera les dépenses et les recettes de l'UE pour les sept prochaines années.",
-        "summary": "Le sommet réunissant les dirigeants européens s'est conclu sans accord sur le futur budget communautaire. Les discussions ont achoppé sur la hauteur de l'aide financière à accorder à l'Ukraine ainsi que sur la création de nouvelles ressources propres, comme une taxe de 3 % sur les entreprises du secteur numérique américain. Plusieurs pays réclament une rigueur stricte dans la dépense publique, tandis que d'autres insistent sur la nécessité de maintenir les fonds de cohésion et le soutien international.",
-        "plain": "EN CLAIR : Les dirigeants des 27 pays européens n'ont pas réussi à se mettre d'accord sur le budget de l'UE. Les blocages portent sur l'argent à envoyer à l'Ukraine et sur les taxes à créer.",
-        "chart": null,
-        "stakes": [
-          "Les États membres parviendront-ils à trouver un compromis avant la date limite ?",
-          "Comment le soutien financier à l'Ukraine sera-t-il garanti en l'absence d'accord rapide ?",
-          "La taxe proposée sur les géants du numérique sera-t-elle maintenue dans le texte final ?"
-        ],
-        "sources": [
-          {
-            "name": "Deutsche Welle",
-            "title": "Divisions deepen between EU member states after tense budget summit",
-            "link": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-world-4025-rdf",
-            "publishedAt": "2026-11-27T16:51:00.000Z",
-            "lang": "en",
-            "country": "DE"
-          },
-          {
-            "name": "ANSA",
-            "title": "Il bilancio spacca l'Europa ma Costa insiste: 'Serve un'intesa a dicembre'",
-            "link": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/11/27/ansail-bilancio-spacca-leuropa-ma-costa-insiste-serve-unintesa-a-dicembre_fe68840f-5fc7-4c53-b41a-e795d3b27382.html",
-            "publishedAt": "2026-11-27T00:55:08.000Z",
-            "lang": "it",
-            "country": "IT"
-          },
-          {
-            "name": "ANSA",
-            "title": "Accordo per De Cos alla Bce, ma è muro contro muro sul bilancio Ue",
-            "link": "https://www.ansa.it/sito/notizie/economia/2026/11/26/accordo-per-de-cos-alla-bce-ma-e-muro-contro-muro-sul-bilancio_b89e1430-4300-482f-9508-c475065af9d8.html",
-            "publishedAt": "2026-11-26T23:19:39.000Z",
-            "lang": "it",
-            "country": "IT"
-          }
-        ],
-        "image": {
-          "url": "https://static.dw.com/image/80080980_6.jpg",
-          "credit": "Deutsche Welle",
-          "link": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-world-4025-rdf"
         }
       }
     ]
   },
-  "storiesAt": "2026-11-27T23:51:16.549Z",
-  "inputHash": "f61182c7ea322eda7218c7349ead91dfd42605fa",
+  "storiesAt": "2026-11-28T13:28:20.163Z",
+  "inputHash": "8186172b9434c6e186f3954b3f1a17c3d24f667f",
   "synthStatus": "ok",
   "news": {
     "france": [
       {
-        "id": "a749ad8d0e0",
-        "title": "Stade Brestois. « Je suis fier d’être leur coach » : Julien Lachuer admiratif après la victoire contre le Paris FC",
-        "link": "https://www.ouest-france.fr/sport/football/stade-brestois/stade-brestois-je-suis-fier-detre-leur-coach-julien-lachuer-admiratif-apres-la-victoire-contre-le-paris-fc-9b1dbd5c-eab8-11f1-bb2d-c71dc7920c2a?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
-        "summary": "Le Stade Brestois a signé une quatrième victoire de rang, toujours sans prendre de but, en faisant tomber le Paris FC (1-0), ce vendredi 27 novembre. Le club finistérien est provisoirement sur le podium de la Ligue 1.",
-        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExOTgxZTFhNDkwNDRlOGExMGEyODMyYTM3Njg2MTc4YWU?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=2ee8cb6a5df09bbecaa81d9a31c798b3cfc905a57eb6a75012e3b3c940485c99",
-        "publishedAt": "2026-11-27T23:29:06.000Z",
+        "id": "ab3edb077b6",
+        "title": "« Lorsque nous avons aperçu la mer pour la première fois, toute la classe s’est levée d’un coup, provoquant une bousculade dans le bus ! »",
+        "link": "https://www.ouest-france.fr/education/ecole/lorsque-nous-avons-apercu-la-mer-pour-la-premiere-fois-toute-la-classe-sest-levee-dun-coup-provoquant-une-bousculade-dans-le-bus-030ba3a2-e276-11f1-9a72-32f9104dab1b?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+        "summary": "Courrier des lectrices et des lecteurs. « Alors que nous faisions route de la Mayenne vers le Mont Saint-Michel, un calme exemplaire régnait dans le car, semblable à celui de la salle de classe de notre époque. Pour la quasi-totalité de notre groupe, c’était la première sortie aussi longue et lointa",
+        "image": "https://media.ouest-france.fr/v1/pictures/MjAyNjExMzM4NzUwZDZiOTE2MDIwYWZlZDY4ODZjN2IwNGQwZTE?width=320&height=240&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=11bea60d85b71b7dbd338fdf5458a4b9c752d5d08e9baa770efa7da363aede35",
+        "publishedAt": "2026-11-28T13:15:02.000Z",
         "source": "Ouest-France",
         "lang": "fr",
         "country": "FR",
         "lean": 0
       },
       {
-        "id": "a8afe30a617",
-        "title": "Marguerite Thiam, le saut dans l’avenir",
-        "link": "https://www.liberation.fr/culture/musique/marguerite-thiam-le-saut-dans-lavenir-20261127_TKBNRB4PWVG5VECLAN2B2FFB4Y/",
-        "summary": "La chanteuse, actrice et réalisatrice, donne de nouvelles tonalités à son rap mélancolique et règle ses comptes avec une adolescence douloureuse.",
-        "image": null,
-        "publishedAt": "2026-11-27T21:59:00.000Z",
-        "source": "Libération",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1.5
-      },
-      {
-        "id": "a6f5c082807",
-        "title": "Dans les Aravis, le VTT électrique prend la pente",
-        "link": "https://www.liberation.fr/forums/dans-les-aravis-le-vtt-electrique-prend-la-pente-20261127_NRCCXLLRVFEKLBXHNGVZJ3SIFM/",
-        "summary": "Au Grand-Bornand, un couple de passionnés proposent des balades en VTT à assistance électrique sur les chemins skiables.",
-        "image": null,
-        "publishedAt": "2026-11-27T21:46:00.000Z",
-        "source": "Libération",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1.5
-      },
-      {
-        "id": "a500e99d066",
-        "title": "Coup d'envoi du marché de Noël de Strasbourg qui accueille plus de trois millions de visiteurs chaque année",
-        "link": "https://www.franceinfo.fr/decouverte/noel/coup-d-envoi-du-marche-de-noel-de-strasbourg-qui-accueille-plus-de-trois-millions-de-visiteurs-chaque-annee_8303811.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "Le plus grand marché de Noël de France, à Strasbourg, dans le Bas-Rhin, a ouvert ses portes vendredi 27 novembre. Cette année, des portiques pour détecter les métaux ont été installés.",
-        "image": "https://www.franceinfo.fr/pictures/-E-PyujbLZGk-5YlcPnl1E7rxU0/0x0:1484x835/432x243/filters:format(jpg)/2026/11/27/6b09f438d9049563516647.jpg",
-        "publishedAt": "2026-11-27T21:26:18.000Z",
-        "source": "franceinfo",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 0
-      },
-      {
-        "id": "a8560479404",
-        "title": "L’agence S&P menace de dégrader encore la note de la France, entrée en récession",
-        "link": "https://www.lemonde.fr/politique/article/2026/11/27/l-agence-s-p-menace-de-degrader-encore-la-note-de-la-france-entree-en-recession_6815934_823448.html",
-        "summary": "Vendredi, l’agence américaine a assorti d’une perspective négative la note actuelle de la dette française. Cela ouvre la voie à une possible dégradation à moyen terme. Le dérapage du déficit inquiète les investisseurs.",
-        "image": "https://img.lemde.fr/2026/11/03/785/0/8000/4000/644/322/60/0/c6582aa_upload-1-v9n52f7i3umq-jmug261103004.jpg",
-        "publishedAt": "2026-11-27T21:18:33.000Z",
-        "source": "Le Monde",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1
-      },
-      {
-        "id": "ac5ef974ecd",
-        "title": "Souveraineté, défense commune, préférence européenne… Emmanuel Macron voit son bilan européen lui échapper",
-        "link": "https://www.lefigaro.fr/international/souverainete-defense-commune-preference-europeenne-emmanuel-macron-voit-son-bilan-europeen-lui-echapper-20261127",
-        "summary": "ANALYSE - Face au front des pays « frugaux », le président français peine à imposer sa vision de l’avenir européen. Il se heurte à des résistances croissantes, jusque chez ses partenaires les plus proches.",
-        "image": "https://i.f1g.fr/media/cms/3000x2074_crop/2026/11/27/c09c2cd9b367064b143960f27c4516cd46d5e7445e746e38e1f46e2b0c33ed2f.jpg",
-        "publishedAt": "2026-11-27T21:17:55.000Z",
+        "id": "afc5941588b",
+        "title": "« Nous avons choisi de parler de la manière dont ces bijoux étaient portés à l’époque » : le Musée Lalique rouvre ses portes cinq mois après un vol spectaculaire",
+        "link": "https://www.lefigaro.fr/arts-expositions/nous-avons-choisi-de-parler-de-la-maniere-dont-ces-bijoux-etaient-portes-a-l-epoque-le-musee-lalique-rouvre-ses-portes-cinq-mois-apres-un-vol-spectaculaire-20261128",
+        "summary": "Victime d’une violente intrusion le 5 juillet dernier, l’institution près de Strasbourg accueille de nouveau le public à partir de ce samedi. Si quatre malfrats ont été arrêtés, les bijoux volés n’ont toujours pas été retrouvés.",
+        "image": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/11/27/03c094a302975546e8e3838799d534e82e1ff700c99b7472638eb6948df2aff1.jpg",
+        "publishedAt": "2026-11-28T13:15:00.000Z",
         "source": "Le Figaro",
         "lang": "fr",
         "country": "FR",
         "lean": 1.5
       },
       {
-        "id": "a411abf4416",
-        "title": "À 83 ans, elle part seule pour un tour de la Méditerranée en moto",
-        "link": "https://www.lefigaro.fr/automobile/a-83-ans-elle-part-seule-pour-un-tour-de-la-mediterranee-en-moto-20261127",
-        "summary": "PORTRAIT - Doris Lacombe, octogénaire, enfourchera ce samedi 28 novembre une Yamaha 125 cc pour un périple de plusieurs mois. Ses aventures inspirent la communauté des motards et au-delà.",
-        "image": "https://i.f1g.fr/media/cms/1479x832_crop/2026/11/27/4bb81a4a41bd80f9c0817535425c2bb96ea8b2a58da37eff3442bc8b43f6ed4b.jpg",
-        "publishedAt": "2026-11-27T21:02:27.000Z",
+        "id": "a21000392d7",
+        "title": "À la Seine Musicale, le chanteur d’Indochine Nicolas Sirkis partage son énergie et son engagement politique",
+        "link": "https://www.lefigaro.fr/musique/a-la-seine-musicale-le-chanteur-d-indochine-nicolas-sirkis-partage-son-energie-et-son-engagement-politique-20261128",
+        "summary": "À 67 ans l’artiste affiche toujours une vitalité débordante. Il profite aussi de la scène pour évoquer des sujets plus engagés.",
+        "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/28/3008aad60bb2dd5b653c76eae7666ac0780f1bfc2903dd8aa354f92c55058d41.jpg",
+        "publishedAt": "2026-11-28T13:06:58.000Z",
         "source": "Le Figaro",
         "lang": "fr",
         "country": "FR",
         "lean": 1.5
       },
       {
-        "id": "a2a2b1f418c",
-        "title": "Olivier Maulin : Geneviève Dormann, la Hussarde",
-        "link": "https://www.valeursactuelles.com/clubvaleurs/culture/olivier-maulin-genevieve-dormann-la-hussarde",
-        "summary": "Un peu plus de dix ans après sa mort, une belle évocation de Geneviève Dormann (1933-2015) est sortie en librairie ces jours-ci, que l’on doit à Frédéric Andrau (Geneviève Dormann,... L’article Olivier Maulin : Geneviève Dormann, la Hussarde est apparu en premier sur Valeurs actuelles .",
+        "id": "add05a22017",
+        "title": "Orakl Oncology croise le fer face au cancer, en alliant IA et ADN",
+        "link": "https://www.valeursactuelles.com/clubvaleurs/economie/orakl-oncology-croise-le-fer-face-au-cancer-en-alliant-ia-et-adn",
+        "summary": "Pour elle, ce fut d’abord une douleur familiale, avant de devenir une évidence professionnelle. Durant sa jeunesse, Fany Jaulin perd son grand-père, médecin, d’un cancer du poumon, et son père,... L’article Orakl Oncology croise le fer face au cancer, en alliant IA et ADN est apparu en premier sur V",
         "image": null,
-        "publishedAt": "2026-11-27T21:00:10.000Z",
+        "publishedAt": "2026-11-28T13:00:39.000Z",
         "source": "Valeurs actuelles",
         "lang": "fr",
         "country": "FR",
         "lean": 2
       },
       {
-        "id": "a3f7f5d6311",
-        "title": "Un sapin dans un chalet, une facture salée et une crèche XXL… L'actualité du vendredi 27 novembre résumée en images",
-        "link": "https://www.franceinfo.fr/france/auvergne-rhone-alpes/haute-savoie/un-sapin-dans-un-chalet-une-facture-salee-et-une-creche-xxl-l-actualite-du-vendredi-27-novembre-resumee-en-images_8303793.html#xtor=RSS-3-%5Bfrance%5D",
-        "summary": "Le JT de France 2 du vendredi 27 novembre revient sur trois faits d'actualité marquants du jour en photos. Au programme, un chalet détruit par un arbre, des dégâts considérables dans une université toulousaine et une statue de Jésus de trois mètres de haut.",
-        "image": "https://www.franceinfo.fr/pictures/VRoPfUqH9U8JQaxpt2nBlxO-uKw/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/27/6b09ecd36f4af392367486.jpg",
-        "publishedAt": "2026-11-27T20:52:28.000Z",
-        "source": "franceinfo",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 0
-      },
-      {
-        "id": "ab7706b064e",
-        "title": "Mathilde Panot et trois autres députés « insoumis » visés par des menaces de mort provenant d’une adresse e-mail reprenant le nom de l’auteur de l’attentat raciste de Trappes",
-        "link": "https://www.lemonde.fr/societe/article/2026/11/27/mathilde-panot-et-trois-autres-deputes-insoumis-vises-par-des-menaces-de-mort-provenant-d-une-adresse-e-mail-reprenant-le-nom-de-l-auteur-de-l-attentat-raciste-de-trappes_6815932_3224.html",
-        "summary": "Dans son courrier envoyé à Laure Beccuau, la procureure de Paris, Mathilde Panot évoque des e-mails provenant de l’adresse « kevintessierleheros@outlook.fr » et également envoyés aux députés Danièle Obono, Manuel Bompard et Aly Diouara.",
-        "image": "https://img.lemde.fr/2026/11/08/488/0/4724/2362/644/322/60/0/4fb6957_upload-1-f0yobxmak7pb-mmagnin-meeting-melenchon-21.jpg",
-        "publishedAt": "2026-11-27T20:40:43.000Z",
-        "source": "Le Monde",
-        "lang": "fr",
-        "country": "FR",
-        "lean": -1
-      },
-      {
-        "id": "a03da83fad8",
-        "title": "Canada : la Cour suprême consacre la laïcité au Québec dans une décision historique",
-        "link": "https://www.la-croix.com/international/canada-la-cour-supreme-consacre-la-laicite-au-quebec-dans-une-decision-historique-20261127",
-        "summary": "La Cour suprême du Canada a validé vendredi 27 novembre la quasi-totalité de la loi sur la laïcité du Québec, adoptée en 2019 et contestée depuis lors devant les tribunaux. Une seule disposition a été écartée.",
-        "image": "https://i.la-croix.com/x/2026/11/27/2600792-maxppp-tagid-ibpremiumfive352963jpgphoto-via-maxpp.jpg",
-        "publishedAt": "2026-11-27T20:21:42.000Z",
+        "id": "a0ac7c2099c",
+        "title": "« Super El Nino » : comment les humanitaires tentent d’anticiper ses conséquences",
+        "link": "https://www.la-croix.com/planete/super-el-nino-comment-les-humanitaires-tentent-d-anticiper-ses-consequences-20261128",
+        "summary": "Les modèles prédictifs tournent à plein régime pour permettre à l’aide internationale de prendre les devants, alors que le phénomène climatique El Nino, exceptionnellement puissant cette année, doit atteindre son pic en décembre. Le tout dans un contexte de tensions planétaires et de disette budgéta",
+        "image": "https://i.la-croix.com/x/2026/11/28/2598487-une-vue-aerienne-de-la-region-du-middle-char-subme.jpg",
+        "publishedAt": "2026-11-28T12:55:59.000Z",
         "source": "La Croix",
         "lang": "fr",
         "country": "FR",
         "lean": 0.5
       },
       {
-        "id": "a9fd0b6210f",
-        "title": "Conseils de discipline : un projet de décret promet une reprise en main autoritaire de l’institution scolaire",
-        "link": "https://www.humanite.fr/societe/directeurs-decole/conseils-de-discipline-un-projet-de-decret-promet-une-reprise-en-main-autoritaire-de-linstitution-scolaire",
-        "summary": "Le Conseil supérieur de l’éducation doit valider prochainement un projet de décret prévoyant de permettre aux Dasen, les représentants directs du ministre dans les départements, de convoquer et de superviser les conseils de discipline.",
-        "image": "https://www.humanite.fr/wp-content/uploads/2026/11/geffray.jpg?w=1200",
-        "publishedAt": "2026-11-27T18:39:00.000Z",
+        "id": "ab28b1cac44",
+        "title": "Plus de 700 armes et pièces d'armes découvertes dans l'Oise chez un particulier, mis en examen et placé en détention provisoire",
+        "link": "https://www.franceinfo.fr/faits-divers/plus-de-700-armes-et-pieces-d-armes-decouvertes-dans-l-oise-chez-un-particulier-mis-en-examen-et-place-en-detention-provisoire_8304666.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "L'homme se justifie en se présentant comme \"un collectionneur passionné.\"",
+        "image": "https://www.franceinfo.fr/pictures/vuYkkww-nrpRDg55wkuL2hJbChs/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/26/6b082239e2649405717295.jpg",
+        "publishedAt": "2026-11-28T12:53:23.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "ab689e788b1",
+        "title": "Attentat raciste dans les Yvelines : un hommage national sera rendu aux Invalides, à Paris",
+        "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/attentat-raciste-dans-les-yvelines-un-hommage-national-sera-rendu-aux-invalides-a-paris_8304657.html#xtor=RSS-3-%5Bfrance%5D",
+        "summary": "Un hommage national se tiendra le 4 décembre après l’attentat raciste dans les Yvelines. Il aura lieu aux Invalides à Paris et sera présidé par le Premier ministre, Sébastien Lecornu. Une annonce qui ne fait pas l’unanimité du côté des familles des victimes alors que l’enquête se poursuit autour d’u",
+        "image": "https://www.franceinfo.fr/pictures/g95TkOMD1-b-slMgums0eAk6pkI/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/28/6b0acc1865c02447517372.jpg",
+        "publishedAt": "2026-11-28T12:47:08.000Z",
+        "source": "franceinfo",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 0
+      },
+      {
+        "id": "aac502c594a",
+        "title": "Aéroports de Paris : un préavis de grève déposé au début des vacances de Noël",
+        "link": "https://www.liberation.fr/economie/social/aeroports-de-paris-un-preavis-de-greve-depose-au-debut-des-vacances-de-noel-20261128_Y7IDDYNOXZB25KYUPB2CPNZ6MM/",
+        "summary": "Deux syndicats du groupe aéroportuaire, qui exploite Roissy et Orly, menacent de faire grève du 17 au 20 décembre prochain pour soutenir des revendications sur l’emploi et les salaires.",
+        "image": null,
+        "publishedAt": "2026-11-28T12:45:42.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "af701cde2ae",
+        "title": "Au large des îles Canaries, 14 migrants retrouvés morts dans le naufrage d’une embarcation",
+        "link": "https://www.liberation.fr/international/europe/au-large-des-iles-canaries-14-migrants-retrouves-morts-dans-le-naufrage-dune-embarcation-20261128_VPOPSO6ZTJDVHFEXOYOKM7RR6E/",
+        "summary": "Le drame est survenu vendredi 27 novembre sur l’île d’El Hierro, en Espagne, où un important afflux de migrants en provenance d’Afrique a poussé les autorités à décréter l’état d’urgence.",
+        "image": null,
+        "publishedAt": "2026-11-28T12:30:35.000Z",
+        "source": "Libération",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1.5
+      },
+      {
+        "id": "a75ee07dc65",
+        "title": "Présidentielle 2027 : Teddy Riner, un candidat hors système en quête de crédibilité",
+        "link": "https://www.lemonde.fr/politique/article/2026/11/28/presidentielle-2027-teddy-riner-un-candidat-hors-systeme-en-quete-de-credibilite_6816104_823448.html",
+        "summary": "L’effet de surprise autour du champion olympique, qui collectionne ces derniers jours les déclarations approximatives et les lieux communs, a laissé place au doute. Son entourage se défend de toute naïveté et montre du doigt les commentateurs prompts à s’en prendre à ceux « qui ne sont pas du sérail",
+        "image": "https://img.lemde.fr/2026/11/27/467/0/3733/1866/644/322/60/0/9f8d9fc_upload-1-vvod0c2tx5xn-lewisjoly-lemonde-riner-27-11-039.JPG",
+        "publishedAt": "2026-11-28T12:30:16.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "a45d79661dd",
+        "title": "A un banquet du Canon français à Biarritz, des manifestants bloquent les participants, qu’ils accusent de véhiculer des idées d’extrême droite",
+        "link": "https://www.lemonde.fr/societe/article/2026/11/28/a-un-banquet-du-canon-francais-a-biarritz-des-manifestants-bloquent-les-participants-qu-ils-accusent-de-vehiculer-des-idees-d-extreme-droite_6816103_3224.html",
+        "summary": "Des convives de cet événement cofinancé par le milliardaire Pierre-Edouard Stérin ont été pris à partie par les manifestants, qui avaient annoncé un « rempart humain » pour empêcher les 1 500 participants attendus de rejoindre le site.",
+        "image": "https://img.lemde.fr/2026/11/28/688/0/8256/4128/644/322/60/0/a6c9bbf_ftp-1-jljyi22hgabt-afp-d8vz8t8.jpg",
+        "publishedAt": "2026-11-28T12:00:17.000Z",
+        "source": "Le Monde",
+        "lang": "fr",
+        "country": "FR",
+        "lean": -1
+      },
+      {
+        "id": "a74c319db61",
+        "title": "HUNGER GAMES : vulgarisation de la révolution ou arnaque politique ? | POPTOGONE",
+        "link": "https://www.humanite.fr/culture-et-savoir/films/hunger-games-vulgarisation-de-la-revolution-ou-arnaque-politique-poptogone",
+        "summary": "Pour ce premier épisode de \"Poptogone\", l'émission pop culture de l'Humanité, Cyprien Caddeo et Mathilde Gros s'écharpent (dans la joie et la bonne humeur) autour d'une saga culte : Hunger Games.À l'occasion de la sortie au cinéma du 6ᵉ volet, \"Lever de soleil sur la moisson\", et alors que le chant ",
+        "image": "https://www.humanite.fr/wp-content/uploads/2026/11/maxresdefault-12-1.webp?w=1200",
+        "publishedAt": "2026-11-28T11:01:00.000Z",
         "source": "L'Humanité",
         "lang": "fr",
         "country": "FR",
         "lean": -2
       },
       {
-        "id": "a7b7c66abde",
-        "title": "Présidentielle 2027 : Jean-Luc Mélenchon à 50 % chez les 18-24 ans, contre 5 % chez les plus de 65 ans",
-        "link": "https://www.lejdd.fr/politique/presidentielle-2027-jean-luc-melenchon-a-50-chez-les-18-24-ans-contre-5-chez-les-plus-de-65-ans-189843",
-        "summary": "Selon le dernier sondage OpinionWay pour CNEWS, publié jeudi 26 novembre, Jean-Luc Mélenchon recueille 50 % des intentions de vote chez les 18-24 ans, contre seulement 5 % chez les 65 ans et plus. Un écart de 45 points qui illustre les profondes différences électorales entre les générations.",
-        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/27/17/sipa_01319368_000059.jpg?VersionId=ZB8HH5pZk8rPXjxhlPCq3MTj59WJJFlW",
-        "publishedAt": "2026-11-27T16:44:33.000Z",
-        "source": "Le JDD",
-        "lang": "fr",
-        "country": "FR",
-        "lean": 2
-      },
-      {
-        "id": "a8084cdc190",
-        "title": "Ventes de livres : Salomé Saqué tente de rééditer le succès de \"Résister\"",
-        "link": "https://www.lexpress.fr/culture/livre/ventes-de-livres-salome-saque-tente-de-reediter-le-succes-de-resister-B72XQ27XWJBUBMHKAROOXKIKDI/",
+        "id": "ad274f5f749",
+        "title": "Livreurs, chauffeurs ou nounous : en Chine, l’essor de la littérature \"des gens ordinaires\"",
+        "link": "https://www.lexpress.fr/monde/asie/livreurs-chauffeurs-ou-nounous-en-chine-lessor-de-la-litterature-des-gens-ordinaires-2SR6NGAEIVFTPDSF2QPX3UTJKQ/",
         "summary": "",
-        "image": "https://www.lexpress.fr/resizer/v2/2XHN2JZLA5AQPCHNXHXEYCUEYQ.jpg?auth=13ae06d20fa6a990a96804db5d8b9725acd751ae9e6b4d0648c59f353ca201e6&smart=true&width=4300&height=2868",
-        "publishedAt": "2026-11-27T16:27:03.000Z",
+        "image": "https://www.lexpress.fr/resizer/v2/MFUNKMSA2FCXZEYJGGD5PPHIVM.jpg?auth=6867ab597890d17c64e25ca68c8d87d1f8e7aa2167106ee840847d195ceb07e8&smart=true&width=8256&height=5504",
+        "publishedAt": "2026-11-28T11:00:00.000Z",
         "source": "L'Express",
         "lang": "fr",
         "country": "FR",
         "lean": 1
+      },
+      {
+        "id": "a8dcbaa86ed",
+        "title": "«Des méthodes indignes» : Marine Le Pen accuse LFI de vouloir entraver sa campagne dans la Vienne",
+        "link": "https://www.lejdd.fr/politique/des-methodes-indignes-marine-le-pen-accuse-lfi-de-vouloir-entraver-sa-campagne-dans-la-vienne-189852",
+        "summary": "À la veille de sa visite à la foire des Hérolles, dans la Vienne, dimanche 29 novembre, Marine Le Pen accuse La France insoumise de vouloir entraver sa campagne. La candidate du Rassemblement national dénonce des appels à se mobiliser contre sa venue et interpelle Jean-Luc Mélenchon.",
+        "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/28/10/sipa_sipausa31721832_000018.jpg?VersionId=K_VWIYyyAJ06FqRpzh4zOl0zdzizwPw1",
+        "publishedAt": "2026-11-28T10:23:14.000Z",
+        "source": "Le JDD",
+        "lang": "fr",
+        "country": "FR",
+        "lean": 2
       }
     ],
     "monde": [
       {
-        "id": "a4f1d7bf044",
-        "title": "Entwurf für Spritpreisdeckel liegt vor - Kabinett beschließt am Mittwoch",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
-        "summary": "Ein werktags berechneter Höchstpreis, Bußgeld bei Nichteinhaltung und Ausnahmen an Autobahnen: Der Spritpreisdeckel soll ab Januar gelten. Ein Entwurf ist nun in der Abstimmung. Das Kabinett könnte darüber am Mittwoch entscheiden.",
-        "image": "https://images.tagesschau.de/image/cf5a8317-6f6d-4d52-8005-d01621cc19e2/AAABoZwyatQ/AAABnSSvrFg/16x9-big/tankstelle-394.jpg?width=1920",
-        "publishedAt": "2026-11-27T23:35:35.000Z",
+        "id": "a64d9f1a151",
+        "title": "Victorian election 2026: Coalition wins majority government as Labor suffers historic defeat",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
+        "summary": "Jess Wilson to become state’s first popularly elected female premier as Ben Carroll loses seat in 2026 state election, and Greens and One Nation surge Victoria election live results: votes tracker, map and seat counts ‘Worse than anyone feared’: how Victorian Labor unravelled after 12 years in gover",
+        "image": "https://i.guim.co.uk/img/media/70dd71dda5062cecb8d206d21febef2cfb8c172f/275_0_3756_3005/master/3756.jpg?width=140&quality=85&auto=format&fit=max&s=e4e17eee86c9a1c29970481f3d4f53ef",
+        "publishedAt": "2026-11-28T13:06:42.000Z",
+        "source": "The Guardian",
+        "lang": "en",
+        "country": "GB",
+        "lean": -1.5
+      },
+      {
+        "id": "a112894a551",
+        "title": "Jusos wollen Frau ohne Regierungsamt an SPD-Spitze",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/spd-jusos-tuermer-klingbeil-bundeskongress-100.html",
+        "summary": "Regieren und gleichzeitig die Partei führen: Das passt für die Jusos nicht mehr zusammen. Auf seinem Bundeskongress fordert der SPD-Nachwuchs eine klare Trennung der Ämter - und eine Frau an der Spitze.",
+        "image": "https://images.tagesschau.de/image/143bfba2-c2f4-4606-9f67-fd4dfa31f0a5/AAABoiIFTJs/AAABnSSvrFg/16x9-big/philipp-tuermer-108.jpg?width=1920",
+        "publishedAt": "2026-11-28T13:05:47.000Z",
         "source": "Tagesschau",
         "lang": "de",
         "country": "DE",
         "lean": 0
       },
       {
-        "id": "a3f56a86150",
-        "title": "Schools in England must set aside time for pupils to read for pleasure",
-        "link": "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
-        "summary": "Education secretary expected to announce measures as part of proposed reforms to national curriculum Schools in England will have to allocate time for children to read for pleasure as part of Labour’s proposed major reforms of the national curriculum. The education secretary, Lucy Powell, is expecte",
-        "image": "https://i.guim.co.uk/img/media/6e4183abedc6c8a85e09398416b87c9824ecbfc8/238_298_4221_3378/master/4221.jpg?width=140&quality=85&auto=format&fit=max&s=4659c40391e4a2d7ff307e837a3c3944",
-        "publishedAt": "2026-11-27T23:34:55.000Z",
-        "source": "The Guardian",
-        "lang": "en",
-        "country": "GB",
-        "lean": -1.5
-      },
-      {
-        "id": "a32c892e666",
-        "title": "Alonso crisis deepens as chaotic Chelsea lose and fans taunt own player",
-        "link": "https://www.telegraph.co.uk/football/2026/11/27/nottingham-forest-chelsea-team-news-build-up-premier-league/",
-        "summary": "Alonso crisis deepens as chaotic Chelsea lose and fans taunt own player",
-        "image": "https://www.telegraph.co.uk/content/dam/football/2026/11/27/TELEMMGLPICT000513203850_17958172786120_trans_NvBQzQNjv4BqIB5PoSxONWcMU7PgqLBwN2ThLPborZ72qmqSj1IdpLs.jpeg",
-        "publishedAt": "2026-11-27T23:13:10.000Z",
-        "source": "The Telegraph",
-        "lang": "en",
-        "country": "GB",
-        "lean": 1.5
-      },
-      {
-        "id": "a60b47dd99c",
-        "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
-        "link": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
-        "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c091/live/9ead0190-ea44-11f1-9fc4-ef897a334b75.jpg",
-        "publishedAt": "2026-11-27T23:02:35.000Z",
+        "id": "a7f3a66d555",
+        "title": "Argentina's bid to stop Falklands oil drilling rejected",
+        "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+        "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1615/live/b6e6bd30-eb1d-11f1-8743-3f686b14075c.jpg",
+        "publishedAt": "2026-11-28T13:02:39.000Z",
         "source": "BBC News",
         "lang": "en",
         "country": "GB",
         "lean": 0
       },
       {
-        "id": "a4571de9aa2",
-        "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-        "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg",
-        "publishedAt": "2026-11-27T21:55:53.000Z",
-        "source": "BBC News",
-        "lang": "en",
-        "country": "GB",
-        "lean": 0
-      },
-      {
-        "id": "acff6cea7a4",
-        "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
-        "link": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-world-4025-rdf",
-        "summary": "Quebec's government passed Bill 21 to ban religious symbols for public servants, arguing it was necessary to protect its secularist society. Critics argue the bill weakens legal protections for fundamental rights.",
+        "id": "a9715001e4d",
+        "title": "Azerbaijan's opposition leader Ali Karimli: A year behind bars",
+        "link": "https://www.dw.com/en/azerbaijan-s-opposition-leader-ali-karimli-a-year-behind-bars/a-80036095?maca=en-rss-en-world-4025-rdf",
+        "summary": "Azerbaijani opposition leader Ali Karimli has been in prison since November 2025. Authorities accuse him of attempting to seize power by force, but human rights groups say his prosecution is politically motivated.",
         "image": null,
-        "publishedAt": "2026-11-27T20:43:00.000Z",
+        "publishedAt": "2026-11-28T12:52:00.000Z",
         "source": "Deutsche Welle",
         "lang": "en",
         "country": "DE",
         "lean": 0
       },
       {
-        "id": "ad6c9782311",
-        "title": "Too old for soft toys? Tell that to kidults booking up the Harrods Jellycat cafe",
-        "link": "https://www.theguardian.com/lifeandstyle/2026/nov/27/jellycat-soft-toys-kidults-harrods-cafe-galerie-lafayette",
-        "summary": "Department stores are hosting in-person events for those who find comfort in collecting the British soft toy brand They’re cute, cuddly and taking over the homes of young adults. Jellycat, a British soft toy brand founded in 1999, is experiencing a rise in interest from adult buyers as they snap up ",
-        "image": "https://i.guim.co.uk/img/media/6f597af9e0d80ba1b5206caae69f9cae963e48fa/0_2458_6048_4838/master/6048.jpg?width=140&quality=85&auto=format&fit=max&s=fa257d3244f8202121f30f1f59be13af",
-        "publishedAt": "2026-11-27T15:12:03.000Z",
+        "id": "a0d1b30f67f",
+        "title": "Wales v Japan: Rees-Zammit pulls out with illness – latest updates",
+        "link": "https://www.telegraph.co.uk/rugby-union/2026/11/28/wales-v-japan-live-score-latest-nations-championship-update/",
+        "summary": "Wales v Japan: Rees-Zammit pulls out with illness – latest updates",
+        "image": "https://www.telegraph.co.uk/content/dam/rugby-union/2026/11/28/TELEMMGLPICT000512140288_17958668261440_trans_NvBQzQNjv4BqwMJYxftKZExwjop9hyNEmf4Xpit_DMGvdp2n7FDd82k.jpeg",
+        "publishedAt": "2026-11-28T12:01:40.000Z",
+        "source": "The Telegraph",
+        "lang": "en",
+        "country": "GB",
+        "lean": 1.5
+      },
+      {
+        "id": "acca153a43c",
+        "title": "Italy issues warning to Zelenskyy after Ukrainian attack on Russian ships in Libya",
+        "link": "https://news.sky.com/story/keep-russia-ukraine-war-out-of-the-mediterranean-italys-giorgia-meloni-tells-volodymyr-zelenskyy-13617434",
+        "summary": "The Italian prime minister has warned Ukraine not to allow its conflict with Russia to spill over into the Mediterranean after Kyiv attacked two Russian ships in Libya.",
+        "image": "https://e3.365dm.com/26/11/1920x1080/skynews-zelenskyy-volodymyr_7418467.jpg?20261128120122",
+        "publishedAt": "2026-11-28T10:01:00.000Z",
+        "source": "Sky News",
+        "lang": "en",
+        "country": "GB",
+        "lean": 0.5
+      },
+      {
+        "id": "a19f3c8bdbc",
+        "title": "Grand Theft Anthropic: how GTA can inspire a fightback against AI | Alexander Hurst",
+        "link": "https://www.theguardian.com/commentisfree/2026/nov/28/grand-theft-anthropic-gta-fightback-against-ai",
+        "summary": "Tech billionaires are taking us for a ride. But new ‘poison pill’ software could help shield human-made creative output from hijacking Grand Theft Auto VI came out on the same day that Anthropic made its stock market debut. I keep thinking about that coincidence. As more than one tech writer has poi",
+        "image": "https://i.guim.co.uk/img/media/2122b6767c4f00241ae28941d7083ad487bff8c5/329_0_2428_1942/master/2428.jpg?width=140&quality=85&auto=format&fit=max&s=ef5f503eaa4a040eaf644813a67f1530",
+        "publishedAt": "2026-11-28T07:00:34.000Z",
         "source": "The Guardian",
         "lang": "en",
         "country": "GB",
         "lean": -1.5
       },
       {
-        "id": "a941ef3033d",
-        "title": "Amazon staff to strike and rally on busiest weekend of the year",
-        "link": "https://news.sky.com/story/amazon-staff-to-strike-and-rally-on-busiest-weekend-of-the-year-13617042",
-        "summary": "Amazon employees around the world are set to stage protests on Black Friday amid claims of unfair pay and oppressive working conditions.",
-        "image": "https://e3.365dm.com/26/11/1920x1080/skynews-amazon-germany_7417550.jpg?20261127015645",
-        "publishedAt": "2026-11-27T03:03:00.000Z",
-        "source": "Sky News",
+        "id": "a6815b669d4",
+        "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+        "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aaf/live/e29d41d0-ead0-11f1-b97f-cdd549897b30.jpg",
+        "publishedAt": "2026-11-28T04:13:45.000Z",
+        "source": "BBC News",
         "lang": "en",
         "country": "GB",
-        "lean": 0.5
+        "lean": 0
       }
     ]
   },
@@ -1131,7 +1067,7 @@
       "name": "The Guardian (GB)",
       "url": "https://www.theguardian.com/world/france/rss",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "name": "The Telegraph (GB)",
@@ -1167,7 +1103,7 @@
       "name": "NPR (US)",
       "url": "https://feeds.npr.org/1004/rss.xml",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "name": "The New York Times (US)",
@@ -1191,7 +1127,7 @@
       "name": "Fox News (US)",
       "url": "https://moxie.foxnews.com/google-publisher/world.xml",
       "ok": true,
-      "count": 8
+      "count": 4
     },
     {
       "name": "Politico Europe (BE)",
